@@ -1,0 +1,46 @@
+name: Generate Daily Content
+
+on:
+  schedule:
+    # 3x daily: 6 AM, 12 PM, 6 PM IST (UTC+5:30 → 00:30, 06:30, 12:30 UTC)
+    - cron: '30 0 * * *'
+    - cron: '30 6 * * *'
+    - cron: '30 12 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate content via HuggingFace API
+        run: node scripts/generate-content.js
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --quiet data/content.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated content
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "Satya Barta Bot"
+          git config user.email "bot@satyabarta.news"
+          git add data/content.json
+          EDITION=$(node -e "const d=require('./data/content.json');console.log(d.edition)")
+          git commit -m "📰 Edition ${EDITION} — $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

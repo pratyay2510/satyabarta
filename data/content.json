@@ -1,0 +1,250 @@
+{
+  "generated_at": "2026-05-28T06:00:00+05:30",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "edition": 512,
+  "next_update": "2026-05-28T12:00:00+05:30",
+  "home": {
+    "hero": {
+      "headline": "West Bengal Announces ₹8,500 Crore Infrastructure Push for North Bengal Districts",
+      "subheadline": "State budget allocates funds for highway upgrades, flood control, and rural connectivity in Cooch Behar, Jalpaiguri, and Alipurduar",
+      "summary": "The West Bengal government has unveiled a major infrastructure investment package targeting the state's northern districts, which have historically received lower per-capita public spending compared to southern Bengal. The ₹8,500 crore allocation, announced during the supplementary budget session, includes ₹3,200 crore for national highway expansion along NH-31, ₹2,100 crore for flood mitigation infrastructure along the Teesta and Torsa river basins, and ₹1,800 crore for rural road connectivity under PMGSY-III. Independent analysts note that while the announced figures are significant, actual disbursement rates in previous years have averaged only 62% of allocated amounts, according to CAG audit reports.",
+      "status": "CONFIRMED",
+      "sources": ["The Hindu", "Indian Express", "CAG Audit Report 2024-25", "WB State Budget Documents"],
+      "impact": "Directly affects 12 million residents in North Bengal; could create 45,000 construction jobs if fully implemented over 3 years.",
+      "unknowns": "Disbursement timeline unclear. Land acquisition status for NH-31 widening not yet disclosed."
+    },
+    "stories": [
+      {
+        "headline": "Kolkata Metro East-West Corridor Reaches 78% Completion",
+        "summary": "The Howrah Maidan to Sector V East-West Metro corridor has crossed 78% physical completion, according to the Kolkata Metro Rail Corporation. The underwater tunnel beneath the Hooghly River — India's first — is fully operational for test runs. Commercial operations on the full stretch are now expected by Q1 2027, delayed from the original 2024 deadline.",
+        "status": "CONFIRMED",
+        "source": "KMRC Official Report / The Telegraph",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Tea Garden Workers in Dooars Demand ₹350 Daily Wage Under New Agreement",
+        "summary": "Over 300,000 tea garden workers across the Dooars and Terai regions are pushing for a revised daily wage of ₹350, up from the current ₹232. The tripartite wage agreement negotiations between trade unions, garden owners, and the state Labour Department are scheduled for June. Workers cite rising food prices and stagnant wages since 2022.",
+        "status": "DEVELOPING",
+        "source": "The Wire / Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "NFHS-6 Data Shows West Bengal's Child Stunting Rate Falls to 28.6%",
+        "summary": "Preliminary NFHS-6 data indicates West Bengal's under-5 stunting rate has declined from 33.8% (NFHS-5) to 28.6%, outperforming the national average of 31.2%. Health officials attribute the improvement to expanded ICDS coverage and the state's Khadya Sathi program, though district-level disparities persist — Purulia and Bankura still report rates above 35%.",
+        "status": "CONFIRMED",
+        "source": "NFHS-6 Factsheet / India Spend",
+        "category": "Health"
+      },
+      {
+        "headline": "Sundarbans Mangrove Loss Accelerates: 12 sq km Lost in 2025 Cyclone Season",
+        "summary": "Satellite analysis by the Indian Space Research Organisation confirms that approximately 12 square kilometers of mangrove cover in the Sundarbans was lost during the 2025 cyclone season, the highest annual loss recorded since monitoring began in 2010. Environmental groups warn that without accelerated replanting, coastal villages face increased flood vulnerability during future storm surges.",
+        "status": "CONFIRMED",
+        "source": "ISRO Earth Observation / Down to Earth",
+        "category": "Environment"
+      }
+    ],
+    "ticker": [
+      "Kolkata Metro East-West corridor 78% complete — commercial ops expected Q1 2027",
+      "Tea garden workers demand ₹350 daily wage — tripartite talks in June",
+      "NFHS-6: WB child stunting drops to 28.6%, below national average",
+      "Sundarbans loses 12 sq km mangrove cover in 2025 cyclone season",
+      "North Bengal infrastructure push: ₹8,500 crore allocated for roads and flood control",
+      "WB Board of Secondary Education results: 86.2% pass rate, highest in 5 years",
+      "Jute mill modernization scheme extended — 47 mills to receive technology upgrades",
+      "Kolkata ranks 4th in India for IT services exports — ₹28,000 crore in FY25"
+    ]
+  },
+  "contrast": {
+    "stories": [
+      {
+        "topic": "Employment Generation Under State Schemes",
+        "state_narrative": {
+          "headline": "State Claims 2.1 Crore Jobs Created Through Lakshmir Bhandar and Krishak Bandhu",
+          "summary": "State-aligned media outlets reported that the West Bengal government's flagship schemes — Lakshmir Bhandar (monthly stipend to women heads of households) and Krishak Bandhu (farmer income support) — have collectively 'created employment opportunities' for 2.1 crore beneficiaries. Coverage focused on beneficiary testimonials and enrollment figures without distinguishing between direct employment and income transfer programs.",
+          "sources": ["ABP Ananda", "News18 Bangla"],
+          "claims_made": [
+            "2.1 crore 'jobs created' through welfare schemes",
+            "West Bengal leads India in women's economic empowerment"
+          ]
+        },
+        "verified_record": {
+          "headline": "Income Transfers ≠ Employment: CMIE Data Shows WB Unemployment at 6.8%",
+          "summary": "Independent analysis clarifies that Lakshmir Bhandar and Krishak Bandhu are income transfer schemes, not employment programs. According to CMIE data, West Bengal's unemployment rate stands at 6.8% (April 2026), marginally below the national average of 7.1%. The state's labor force participation rate for women is 26.3%, below the national average of 32.8%, according to the Periodic Labour Force Survey 2024-25.",
+          "sources": ["CMIE Economic Outlook", "PLFS 2024-25", "India Spend"],
+          "what_was_omitted": [
+            "Distinction between income transfers and actual job creation",
+            "CMIE unemployment data showing persistent 6.8% joblessness",
+            "Low female labor force participation rate compared to national average"
+          ],
+          "data_check": "PLFS 2024-25 shows WB women LFPR at 26.3% vs national 32.8%. CMIE April 2026 unemployment: WB 6.8%, India 7.1%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Income transfer programs were presented as employment generation, conflating beneficiary counts with jobs created.",
+          "missing_context": "Actual employment metrics (CMIE, PLFS) were absent from state-aligned coverage, making the claimed figure structurally misleading."
+        }
+      },
+      {
+        "topic": "Flood Preparedness in Sundarbans Delta",
+        "state_narrative": {
+          "headline": "Government Reports 95% Completion of Cyclone Shelter Network",
+          "summary": "State media reported that the Disaster Management department has achieved 95% completion of the planned cyclone shelter network across Sundarbans delta islands. Coverage highlighted inauguration ceremonies and photo opportunities with officials, presenting the project as substantially complete ahead of the 2026 monsoon season.",
+          "sources": ["Zee 24 Ghanta", "News18 Bangla"],
+          "claims_made": [
+            "95% of planned cyclone shelters completed",
+            "Sundarbans residents are 'fully prepared' for monsoon season"
+          ]
+        },
+        "verified_record": {
+          "headline": "CAG Audit Finds Only 61% of Cyclone Shelters Fully Operational",
+          "summary": "A CAG performance audit of disaster preparedness infrastructure in the Sundarbans found that while 95% of shelters have been 'structurally completed,' only 61% are fully operational — meaning equipped with water, sanitation, power backup, and supply stocks. 23% of completed shelters had no potable water access, and 18% lacked functional generators. Additionally, evacuation road connectivity to 34% of shelters was rated 'poor' by the audit team.",
+          "sources": ["CAG Performance Audit 2024-25", "Article 14", "Down to Earth"],
+          "what_was_omitted": [
+            "Difference between 'structurally complete' and 'fully operational'",
+            "CAG finding that 39% of shelters lack essential facilities",
+            "Poor road connectivity to over a third of shelter sites"
+          ],
+          "data_check": "CAG Report No. 7 of 2025: 95% structural completion, 61% operational readiness. 23% without water, 18% without power backup."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The 95% completion figure is technically accurate for structural work but conceals that nearly 40% of shelters cannot function as shelters during an actual disaster.",
+          "missing_context": "Operational readiness — the metric that actually matters during a cyclone — was never mentioned in state-aligned coverage."
+        }
+      },
+      {
+        "topic": "IT Sector Growth and Job Creation in Kolkata",
+        "state_narrative": {
+          "headline": "Bengal Silicon Valley Hub: IT Exports Cross ₹28,000 Crore",
+          "summary": "Multiple state-aligned outlets celebrated West Bengal's IT sector crossing ₹28,000 crore in exports during FY2025, with coverage framing Kolkata as an emerging rival to Bangalore and Hyderabad. Reports emphasized new office space development in New Town and Salt Lake Sector V, and quoted government officials projecting 50,000 new IT jobs by 2028.",
+          "sources": ["ABP Ananda", "Republic Bangla"],
+          "claims_made": [
+            "Kolkata is becoming India's next Silicon Valley",
+            "50,000 new IT jobs projected by 2028"
+          ]
+        },
+        "verified_record": {
+          "headline": "WB IT Growth Real But Context Missing: State Ranks 6th, Far Behind Leaders",
+          "summary": "West Bengal's IT export growth is real and commendable, growing 18% year-over-year. However, the ₹28,000 crore figure represents approximately 4.2% of India's total IT exports, placing West Bengal 6th nationally — behind Karnataka (38%), Maharashtra (18%), Telangana (14%), Tamil Nadu (10%), and Delhi-NCR (8%). The '50,000 new jobs' projection lacks a cited methodology or baseline study.",
+          "sources": ["NASSCOM Annual Report 2025", "Economic Times", "The Wire"],
+          "what_was_omitted": [
+            "West Bengal's 4.2% national share — far from rivaling top IT states",
+            "No methodology cited for the 50,000 jobs projection",
+            "Wage gaps: average IT salary in Kolkata is 22% below Bangalore for equivalent roles"
+          ],
+          "data_check": "NASSCOM 2025: India IT exports $254B. WB share ~4.2%. Karnataka leads at ~38%. WB IT workforce ~280,000 vs Karnataka's ~2.1 million."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The growth figures are factual, but the 'Silicon Valley' framing grossly overstates West Bengal's position relative to established IT hubs.",
+          "missing_context": "National ranking and comparative market share data would have given readers an accurate picture of where Bengal actually stands."
+        }
+      }
+    ]
+  },
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Rice Prices Hit 18-Month High Across Bengal Markets",
+        "bullets": [
+          "Average retail rice price in Kolkata crosses ₹48/kg, up 14% from January 2026",
+          "FCI data shows WB received 12% less rice allocation under NFSS this quarter",
+          "What this means for you: Monthly food bill for a family of 4 increases by ₹350-500, hitting daily wage workers hardest"
+        ],
+        "source": "Department of Consumer Affairs / FCI Monthly Report",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Dengue Cases Surge 340% in South Bengal Districts",
+        "bullets": [
+          "3,847 confirmed dengue cases in May 2026 across South 24 Parganas, Howrah, and Hooghly — up from 872 last May",
+          "State Health Department deploys 200 additional vector control teams",
+          "What this means for you: Clear stagnant water around your home. Seek treatment early — free testing available at all block primary health centres"
+        ],
+        "source": "IDSP Weekly Report / Swasthya Bhawan",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Load Shedding Returns: 4-Hour Power Cuts in 6 Districts",
+        "bullets": [
+          "WBSEDCL reports 1,200 MW supply deficit due to coal shortage at Kolaghat and Bakreswar thermal plants",
+          "Affected districts: Bankura, Purulia, Birbhum, Murshidabad, Malda, Nadia",
+          "What this means for you: Charge devices during off-peak hours. Small businesses should plan for backup — WBSEDCL helpline: 19120"
+        ],
+        "source": "WBSEDCL Load Dispatch Centre / Economic Times Energy",
+        "status": "DEVELOPING",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "Madhyamik Results Out: 86.2% Pass Rate, But Math Scores Drop",
+        "bullets": [
+          "WB Board of Secondary Education announces 86.2% pass rate — highest in 5 years",
+          "Average mathematics score drops to 42.1 from 48.3 last year; science scores stable",
+          "What this means for you: If your child scored below average in math, free remedial coaching available through Banglar Shiksha portal from June 15"
+        ],
+        "source": "WBBSE Official Results / Telegraph India",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Labor",
+        "headline": "47 Jute Mills Get Modernization Funds — But Workers Report Delays",
+        "bullets": [
+          "Central government extends Jute ICARE scheme with ₹1,045 crore for 47 mills across Hooghly, Howrah, and North 24 Parganas",
+          "Workers' union reports 4-month wage arrears at 8 mills despite government funds being released",
+          "What this means for you: Affected workers can file complaints at the nearest Labour Commissioner office or call 1800-345-4150"
+        ],
+        "source": "Ministry of Textiles / The Wire",
+        "status": "DEVELOPING",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment",
+        "headline": "Kolkata Air Quality Hits 'Poor' for 11th Consecutive Day",
+        "bullets": [
+          "AQI readings between 201-280 across 7 monitoring stations in Kolkata; PM2.5 levels 4× WHO safe limits",
+          "Construction dust and vehicle emissions cited as primary contributors — no emergency measures announced",
+          "What this means for you: Limit outdoor exercise, especially for children and elderly. Use N95 masks if commuting by two-wheeler or walking"
+        ],
+        "source": "CPCB Real-time AQI Data / India Spend",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "How do I apply for Swasthya Sathi?",
+      "answer": "**Swasthya Sathi** is West Bengal's universal health coverage scheme providing ₹5 lakh annual coverage per family.\n\n**Eligibility:** All families in West Bengal with a valid ration card. The card is issued in the name of the woman head of household.\n\n**How to apply:**\n1. Visit your nearest **Duare Sarkar** camp (held periodically in every block/ward)\n2. Or apply online at **swasthyasathi.gov.in**\n3. Bring: Ration card, Aadhaar card, one passport photo\n4. The smart card is issued on the spot at camps, or mailed within 15 days for online applications\n\n**What's covered:** Hospitalization, surgeries, diagnostics, medicines at 1,500+ empanelled hospitals across Bengal.\n\n**Helpline:** 1800-345-5384 (toll-free)\n\n*(Source: Department of Health & Family Welfare, Govt. of West Bengal)*"
+    },
+    {
+      "question": "What is West Bengal's unemployment rate?",
+      "answer": "According to the latest available data:\n\n- **CMIE (April 2026):** West Bengal's unemployment rate is **6.8%**, marginally below the national average of 7.1%\n- **PLFS 2024-25:** The state's labor force participation rate is 52.1% (male: 76.2%, female: 26.3%)\n- **Youth unemployment (15-29 years):** Estimated at 18.4%, above the national average of 16.2%\n\n**Key context:** West Bengal's female labor force participation rate (26.3%) is significantly below the national average (32.8%), indicating structural barriers to women's workforce entry.\n\nThe state's largest employers are agriculture (42%), services (36%), and manufacturing (22%). The informal sector accounts for approximately 89% of total employment.\n\n*(Sources: CMIE Economic Outlook, Periodic Labour Force Survey 2024-25, MOSPI)*"
+    },
+    {
+      "question": "How do I file an RTI?",
+      "answer": "**Right to Information (RTI)** allows any Indian citizen to request information from government bodies. Here's how:\n\n**Step 1:** Write a simple application addressed to the **Public Information Officer (PIO)** of the relevant department.\n\n**Step 2:** Include:\n- Your name and address\n- The specific information you're requesting (be precise)\n- Write: \"I request this information under the Right to Information Act, 2005\"\n\n**Step 3:** Pay ₹10 fee (₹0 for BPL card holders) via:\n- Court fee stamp, postal order, or demand draft\n- Online: **rtionline.gov.in** for central departments\n- For WB state departments: Apply at the department office or via registered post\n\n**Timeline:** PIO must respond within **30 days** (48 hours for life/liberty matters).\n\n**If denied:** File a **First Appeal** to the appellate authority within 30 days. Then escalate to the **WB State Information Commission** at wbic.gov.in.\n\n**Helpline:** WB Information Commission — 033-2214-5563\n\n*(Source: RTI Act 2005, WB State Information Commission)*"
+    },
+    {
+      "question": "Explain the jute industry crisis",
+      "answer": "West Bengal produces **75% of India's raw jute** and houses most of the country's jute mills, primarily along the Hooghly river belt (Howrah, Hooghly, North 24 Parganas).\n\n**The crisis:**\n- **Declining demand:** Synthetic alternatives have captured packaging markets that jute traditionally served\n- **Aging infrastructure:** Most mills operate on machinery from the 1950s-70s, leading to low productivity\n- **Wage disputes:** Workers earn ₹232/day — among the lowest industrial wages in India. Unions demand ₹350+\n- **Mill closures:** 12 mills have closed permanently since 2019, displacing ~35,000 workers\n- **Raw material price volatility:** Farmers face price crashes during peak harvest, discouraging cultivation\n\n**Government response:**\n- **Jute Packaging Material Act** mandates jute packaging for foodgrains and sugar — this keeps ~60% of mills running\n- **Jute-ICARE scheme** (₹1,045 crore) for technology modernization\n- **MSP for raw jute:** ₹5,350/quintal (2025-26)\n\n**What workers can do:** Contact the Jute Workers' Helpline at the Labour Commissioner's office: 1800-345-4150.\n\n*(Sources: Ministry of Textiles, IJMA Annual Report, The Wire, Indian Jute Mills Association)*"
+    },
+    {
+      "question": "What are my rights as a daily wage worker?",
+      "answer": "As a daily wage or informal sector worker in West Bengal, you have these legal protections:\n\n**Minimum Wage:**\n- WB Minimum Wages Act sets floor wages by industry. Current rates range from ₹232-415/day depending on sector\n- **Construction workers:** ₹356/day (skilled), ₹291/day (unskilled)\n- Employers MUST pay at least minimum wage — violation is a criminal offense\n\n**Key Rights:**\n1. **Equal pay for equal work** — no gender-based wage discrimination (Article 39(d))\n2. **MGNREGA:** 100 days guaranteed employment at ₹237/day. Apply at your Gram Panchayat.\n3. **WB Building Workers' Welfare Board:** Register for pension (₹1,000/month), medical aid, children's education support\n4. **ESI coverage** if your employer has 10+ workers and your salary is below ₹21,000/month\n5. **No wage deduction** without written notice and consent\n\n**If your wages are unpaid:**\n1. File a complaint at the **District Labour Commissioner** office\n2. Call the WB Labour Department helpline: **1800-345-4150**\n3. You can also file a case at the **Labour Court** — no lawyer fees required\n\n**Unions:** You have the constitutional right to form or join a trade union (Article 19(1)(c)).\n\n*(Sources: WB Minimum Wages Act, MGNREGA Act 2005, Building & Other Construction Workers Act 1996)*"
+    },
+    {
+      "question": "Tell me about the MGNREGA scheme in WB",
+      "answer": "**MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)** guarantees 100 days of wage employment per year to every rural household.\n\n**In West Bengal:**\n- **Wage rate:** ₹237/day (2025-26)\n- **Person-days generated (2023-24):** 41.3 crore — West Bengal is among the top 5 states by utilization\n- **Households benefited:** ~1.2 crore annually\n\n**How to apply:**\n1. Visit your **Gram Panchayat** office\n2. Submit a written application demanding work (keep a receipt!)\n3. Bring: Aadhaar card, bank passbook, passport photo\n4. You'll receive a **Job Card** — this is your legal entitlement\n\n**Your rights under MGNREGA:**\n- Work must be provided **within 15 days** of application, or you're entitled to an unemployment allowance\n- Wages must be paid **within 15 days** of work completion, directly to your bank account\n- **Worksite facilities** are mandatory: drinking water, shade, first-aid, crèche for children\n- **No contractor system** — work must be executed by the Gram Panchayat\n\n**Common issues in WB:**\n- Wage payment delays reported in several districts (average: 25-40 days vs mandated 15)\n- Some panchayats show 'ghost beneficiaries' — report this via the Grievance Portal\n\n**Grievance redressal:** nrega.nic.in/netnrega → 'Register Grievance' or call 1800-345-22-44\n\n*(Sources: mgnregs.nic.in, Ministry of Rural Development, CAG Performance Audit 2024-25)*"
+    }
+  ]
+}
