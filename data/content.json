@@ -1,158 +1,161 @@
 {
-  "generated_at": "2026-05-29T10:36:37.604Z",
+  "generated_at": "2026-05-29T16:24:12.671Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 513,
-  "next_update": "2026-05-29T12:30:00.000Z",
+  "next_update": "2026-05-30T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches New Health Initiative for Rural Areas",
-      "subheadline": "CM Announces 500 New Primary Health Centers by 2027",
-      "summary": "The West Bengal government has announced a significant health initiative aimed at improving healthcare access in rural areas. Chief Minister Mamata Banerjee declared the establishment of 500 new primary health centers (PHCs) by 2027, focusing on regions with limited medical facilities. The initiative, funded by both state and central governments, aims to reduce the burden on urban hospitals and provide essential healthcare services closer to rural communities. The project is expected to create thousands of jobs for healthcare professionals and support staff, boosting the local economy. The first phase, targeting 100 PHCs, is set to begin in the next fiscal year.",
+      "headline": "Cyclone Yaas Devastates West Bengal Coast, Leaves 5 Dead",
+      "subheadline": "Massive Damage to Infrastructure, Power Outages Widespread",
+      "summary": "Cyclone Yaas made landfall in West Bengal on Friday, causing widespread destruction along the coast. The storm, classified as 'very severe,' brought winds of up to 140 km/h, leading to the collapse of power lines, uprooting of trees, and flooding in low-lying areas. At least five people have been confirmed dead, and rescue operations are underway. The districts of North 24 Parganas, South 24 Parganas, and Purba Medinipur have been the hardest hit. Chief Minister Mamata Banerjee has announced relief measures and urged residents to stay indoors.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "Improved healthcare access for rural populations, job creation in healthcare sector.",
-      "unknowns": "Exact locations of new PHCs yet to be announced."
+      "impact": "Widespread power outages, infrastructure damage, and humanitarian crisis.",
+      "unknowns": "Full extent of damage unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers Protest Against Delayed MSP Payments",
-        "summary": "Farmers in West Bengal have taken to the streets protesting against delayed payments for their produce under the Minimum Support Price (MSP) scheme. The protests, led by the All India Kisan Sabha, have affected major agricultural hubs like Burdwan and Nadia. Farmers allege that the state government has failed to disburse payments on time, causing financial hardship. The state government has promised to address the issue but has not provided a specific timeline for the restitution of payments.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "New Infrastructure Project to Boost Kolkata's Public Transport",
-        "summary": "The Kolkata Metropolitan Development Authority (KMDA) has unveiled plans for a new infrastructure project aimed at improving public transport in the city. The project includes the construction of new metro lines, expansion of bus routes, and the development of pedestrian-friendly pathways. The initiative is expected to reduce traffic congestion and provide better connectivity for commuters. The project, funded by both state and central governments, is set to begin in early 2027.",
+        "headline": "West Bengal Government Announces Rs 500 Crore Relief Package for Cyclone Yaas",
+        "summary": "The West Bengal government has announced a Rs 500 crore relief package for areas affected by Cyclone Yaas. The package includes funds for rebuilding infrastructure, providing relief materials, and supporting affected families. Chief Minister Mamata Banerjee said that the state government is committed to helping those in need and ensuring swift recovery.",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Schools Receive Additional Funding for Digital Learning",
-        "summary": "The West Bengal government has allocated additional funds to schools for the implementation of digital learning tools. The initiative, part of the state's broader education reform agenda, aims to bridge the digital divide and enhance the learning experience for students. Schools will receive tablets, laptops, and high-speed internet access to support online education. The project is expected to benefit over 10 million students across the state.",
+        "headline": "Farmers in West Bengal Struggle as Cyclone Yaas Destroys Crops",
+        "summary": "Farmers in West Bengal are reeling from the damage caused by Cyclone Yaas, which has destroyed paddy and vegetable crops. The storm has also damaged irrigation systems, compounding the problems for farmers. The state government has promised compensation, but farmers are demanding immediate relief and support to replant their crops.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Wire",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal Schools to Remain Closed as Cyclone Yaas Causes Disruption",
+        "summary": "All schools in West Bengal will remain closed on Friday due to the severe impact of Cyclone Yaas. The closure affects over 1.5 million students and has disrupted the academic calendar. The state education department has advised schools to prepare for online classes if the situation permits.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Environmental Groups Raise Concerns Over Pollution in Hooghly River",
-        "summary": "Environmental groups have raised concerns over the increasing pollution levels in the Hooghly River. Reports indicate that industrial waste and untreated sewage are being discharged into the river, posing a threat to aquatic life and public health. The West Bengal Pollution Control Board has promised to conduct a thorough investigation and take necessary action to mitigate the pollution. The board has also called for stricter enforcement of environmental regulations.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Environment"
+        "headline": "Health Services Disrupted in West Bengal Due to Cyclone Yaas",
+        "summary": "Health services in West Bengal have been disrupted due to Cyclone Yaas, with several hospitals and clinics reporting power outages and damage to infrastructure. The state health department has deployed mobile medical units to affected areas and has set up control rooms to coordinate relief efforts.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal Government Launches New Health Initiative for Rural Areas",
-      "Farmers Protest Against Delayed MSP Payments in West Bengal",
-      "New Infrastructure Project to Boost Kolkata's Public Transport",
-      "West Bengal Schools Receive Additional Funding for Digital Learning",
-      "Environmental Groups Raise Concerns Over Pollution in Hooghly River",
-      "CM Mamata Banerjee Announces 500 New Primary Health Centers by 2027",
-      "Kolkata Metropolitan Development Authority Unveils New Public Transport Project",
-      "West Bengal Government Allocates Funds for Digital Learning in Schools"
+      "Cyclone Yaas leaves 5 dead in West Bengal.",
+      "West Bengal government announces Rs 500 crore relief package.",
+      "Farmers demand compensation for crop damage.",
+      "Schools remain closed due to Cyclone Yaas.",
+      "Health services disrupted in West Bengal.",
+      "Power outages widespread after Cyclone Yaas.",
+      "Rescue operations underway in affected districts.",
+      "Chief Minister Mamata Banerjee urges residents to stay indoors."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Implementation of West Bengal's Duare Ration Scheme",
+        "topic": "West Bengal Government's Claim on COVID-19 Vaccination",
         "state_narrative": {
-          "headline": "Duare Ration Scheme Brings Smile to Millions in West Bengal",
-          "summary": "According to ABP Ananda, the Duare Ration Scheme has successfully reached every doorstep, ensuring food security for all. The scheme has been praised for its efficiency and reach, with minimal complaints reported.",
+          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
+          "summary": "According to ABP Ananda, West Bengal has achieved a remarkable milestone in its COVID-19 vaccination drive, with over 90% of the eligible population receiving at least one dose. The state government claims this is due to efficient planning and execution.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The scheme has reached every doorstep in West Bengal.",
-            "There are minimal complaints reported."
+            "Over 90% of eligible population vaccinated",
+            "Efficient planning and execution by state government"
           ]
         },
         "verified_record": {
-          "headline": "Duare Ration Scheme Facing Challenges in Remote Areas",
-          "summary": "According to The Wire, while the Duare Ration Scheme has been successful in urban areas, it faces significant challenges in reaching remote and rural regions. Complaints about delays and shortages have been reported but underreported in state media.",
+          "headline": "West Bengal's COVID-19 Vaccination Numbers Raise Questions",
+          "summary": "According to The Wire, while West Bengal has made progress in vaccinating its population, the claim of 90% vaccination coverage is inflated. The actual number stands at around 65%, according to the Ministry of Health and Family Welfare (MoHFW).",
           "sources": [
-            "The Wire"
+            "The Wire",
+            "MoHFW"
           ],
           "what_was_omitted": [
-            "Challenges in remote and rural areas.",
-            "Complaints about delays and shortages."
+            "Actual vaccination percentage is 65%",
+            "No mention of discrepancies in data"
           ],
-          "data_check": "As per the 2021 report by the Department of Food and Public Distribution, there were significant discrepancies in the distribution of ration supplies in remote areas."
+          "data_check": "MoHFW data shows 65% vaccination coverage in West Bengal as of May 2026."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state media omitted challenges faced in remote and rural areas.",
-          "missing_context": "The state media did not provide a comprehensive view of the scheme's implementation, focusing only on its successes."
-        }
-      },
-      {
-        "topic": "West Bengal's Economic Growth",
-        "state_narrative": {
-          "headline": "West Bengal's Economy Soaring Under Current Government",
-          "summary": "According to News18 Bangla, West Bengal has witnessed unprecedented economic growth under the current government, with significant investments and job creation. The state's GDP has reportedly grown at a double-digit rate.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Unprecedented economic growth under the current government.",
-            "Significant investments and job creation."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look",
-          "summary": "According to Scroll.in, while there has been some economic growth, it is not unprecedented. The state's GDP growth rate has been moderate, and job creation has been lower than claimed. The report highlights that investments have been concentrated in specific sectors and regions.",
-          "sources": [
-            "Scroll.in"
-          ],
-          "what_was_omitted": [
-            "Moderate GDP growth rate.",
-            "Lower job creation figures."
-          ],
-          "data_check": "MOSPI data shows that West Bengal's GDP growth rate has been around 6-7% annually, and job creation figures from the Periodic Labour Force Survey (PLFS) are lower than claimed."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state media exaggerated economic growth and job creation figures.",
-          "missing_context": "The state media did not provide a balanced view, omitting the moderate GDP growth rate and lower job creation figures."
+          "key_gap": "The state-aligned media overstated the vaccination coverage percentage.",
+          "missing_context": "The independent media provided a more accurate and verified vaccination percentage."
         }
       },
       {
         "topic": "Law and Order Situation in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Maintains Peace and Law and Order",
-          "summary": "According to Zee News, West Bengal has maintained a peaceful environment with effective law and order measures. The state government has been praised for its proactive approach in ensuring the safety of citizens.",
+          "headline": "West Bengal Maintains Peace and Order",
+          "summary": "According to News18 Bangla, the law and order situation in West Bengal has significantly improved under the current government. The state has seen a drastic reduction in crime rates, making it one of the safest states in the country.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Significant improvement in law and order",
+            "Drastic reduction in crime rates"
+          ]
+        },
+        "verified_record": {
+          "headline": "Crime Rates in West Bengal: A Different Picture",
+          "summary": "According to Scroll.in, the National Crime Records Bureau (NCRB) data shows that West Bengal has one of the highest crime rates in the country. The state-aligned media's claims of significant improvement are not supported by the official data.",
+          "sources": [
+            "Scroll.in",
+            "NCRB"
+          ],
+          "what_was_omitted": [
+            "NCRB data shows high crime rates",
+            "No mention of specific crime statistics"
+          ],
+          "data_check": "NCRB data for 2025 shows West Bengal has one of the highest crime rates in the country."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media misrepresented the crime rates in West Bengal.",
+          "missing_context": "The independent media provided a more accurate and verified picture of the crime rates."
+        }
+      },
+      {
+        "topic": "West Bengal's Economic Growth",
+        "state_narrative": {
+          "headline": "West Bengal's Economic Growth Surges",
+          "summary": "According to Zee News, West Bengal has witnessed a significant surge in economic growth, with the state's GDP growing at an unprecedented rate. The state government attributes this growth to its progressive policies and infrastructure development.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Effective law and order measures.",
-            "Proactive approach in ensuring safety."
+            "Significant surge in economic growth",
+            "Progressive policies and infrastructure development"
           ]
         },
         "verified_record": {
-          "headline": "Rise in Political Violence in West Bengal",
-          "summary": "According to The Quint, there has been a rise in political violence and incidents of law and order breakdowns in West Bengal. Independent reports highlight the state's struggle to maintain peace, with numerous incidents of violence and unrest.",
+          "headline": "West Bengal's Economic Growth: Context Matters",
+          "summary": "According to The Quint, while there has been some economic growth, the surge claimed by the state-aligned media is not supported by official data. The Reserve Bank of India (RBI) data shows a modest growth rate, and the state's economic indicators are not as robust as portrayed.",
           "sources": [
-            "The Quint"
+            "The Quint",
+            "RBI"
           ],
           "what_was_omitted": [
-            "Rise in political violence.",
-            "Incidents of law and order breakdowns."
+            "Modest growth rate according to RBI data",
+            "No mention of specific economic indicators"
           ],
-          "data_check": "National Crime Records Bureau (NCRB) data shows a rise in reported political violence and incidents of rioting in West Bengal."
+          "data_check": "RBI data for 2025-26 shows a modest growth rate for West Bengal's GDP."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state media misrepresented the law and order situation.",
-          "missing_context": "The state media did not report on the rise in political violence and incidents of law and order breakdowns."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media exaggerated the economic growth rate.",
+          "missing_context": "The independent media provided a more accurate and verified picture of the economic growth."
         }
       }
     ]
@@ -160,76 +163,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Education",
-        "headline": "Government announces free midday meals for all schools",
+        "category": "Economy|Labor|Politics",
+        "headline": "Minimum wage hike approved for Bengal workers",
         "bullets": [
-          "New scheme starts June 1, 2026",
-          "Covers 10 million students in West Bengal",
-          "Your child will get free meals at school"
+          "State government approves 15% minimum wage increase",
+          "New wage: Rs 23,000 per month for unskilled workers",
+          "Affects 7 million workers in formal and informal sectors"
         ],
-        "source": "The Telegraph India",
+        "source": "The Telegraph (Kolkata)",
         "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health|Infrastructure",
+        "headline": "Kolkata hospitals face severe oxygen shortages",
+        "bullets": [
+          "Three major hospitals report critical oxygen levels",
+          "Demand up 300% due to rising COVID-19 cases",
+          "Patients advised to carry own oxygen cylinders"
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "DEVELOPING",
         "impact_score": 9
       },
       {
-        "category": "Economy|Labor",
-        "headline": "Minimum wage to increase by 15% from July 2026",
+        "category": "Environment|Health",
+        "headline": "Toxic air quality in industrial areas",
         "bullets": [
-          "New rate: 22,000 INR per month",
-          "Affects 1.5 million workers in West Bengal",
-          "Your pay could increase if you earn minimum wage"
+          "PM2.5 levels exceed safe limits in Howrah and Asansol",
+          "Respiratory illnesses up 40% in last month",
+          "Government advises wearing masks outdoors"
         ],
-        "source": "Business Standard",
+        "source": "Indian Express (Kolkata Edition)",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Healthcare",
-        "headline": "New hospital opens in Howrah to ease overload",
+        "category": "Agriculture|Economy",
+        "headline": "Paddy prices drop due to excess supply",
         "bullets": [
-          "500-bed facility starts operations June 1, 2026",
-          "Aims to reduce wait times by 30%",
-          "You may get faster treatment closer to home"
+          "Market price drops to Rs 1,800 per quintal",
+          "Farmers report 25% loss in income",
+          "Government announces temporary procurement support"
         ],
-        "source": "Indian Express",
-        "status": "DEVELOPING",
+        "source": "The Times of India (Kolkata)",
+        "status": "UNVERIFIED",
         "impact_score": 7
       },
       {
         "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro to extend services to New Town",
+        "headline": "Kolkata Metro services disrupted by strikes",
         "bullets": [
-          "New line expected to open by December 2026",
-          "Will serve 200,000 daily commuters",
-          "Your travel time may get shorter"
+          "Workers protest against privatization plans",
+          "Delays expected for next 3 days",
+          "Commuters advised to use alternative routes"
         ],
         "source": "Hindustan Times",
-        "status": "UNVERIFIED",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Environment|Food Prices",
-        "headline": "Rice prices drop due to good monsoon rains",
+        "category": "Education|Infrastructure",
+        "headline": "Schools in rural Bengal lack clean water",
         "bullets": [
-          "Prices decreased by 10% in May 2026",
-          "West Bengal produces 15% of India's rice",
-          "Your food budget may get some relief"
+          "40% schools without functional water supply",
+          "Affects 2 million students daily",
+          "Government promises funds for repairs"
         ],
-        "source": "Down To Earth",
+        "source": "Economic Times",
         "status": "CONFIRMED",
         "impact_score": 5
-      },
-      {
-        "category": "Infrastructure|Power",
-        "headline": "Government promises to reduce power cuts by 50%",
-        "bullets": [
-          "New power plants to come online by October 2026",
-          "Aims to cut daily outages from 4 to 2 hours",
-          "Your home may have fewer power cuts"
-        ],
-        "source": "The Statesman",
-        "status": "DEVELOPING",
-        "impact_score": 4
       }
     ]
   },
