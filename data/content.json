@@ -1,256 +1,238 @@
 {
-  "generated_at": "2026-05-29T04:54:02.854Z",
+  "generated_at": "2026-05-29T10:36:37.604Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 513,
-  "next_update": "2026-05-29T06:30:00.000Z",
+  "next_update": "2026-05-29T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Launch Climate-Resilient Agriculture Initiative",
-      "subheadline": "An ambitious project aimed at mitigating climate change effects on the state's agricultural sector",
-      "summary": "The West Bengal government is set to launch a climate-resilient agriculture initiative, focusing on sustainable farming practices and crop diversification to make the state's agricultural sector more resilient to climate change. The project, worth ₹500 crores, will be implemented in 10 districts, including South 24 Parganas and Howrah. According to a state government official, the initiative will also provide training to farmers on climate-resilient agriculture practices and provide them with access to climate-resilient crop varieties. The project is expected to benefit over 50,000 farmers in the state. The government has already notified the project and is in the process of selecting the implementing agency. The project is expected to be completed within the next 18 months. The West Bengal government had previously announced a plan to launch a climate-resilient agriculture initiative in 2022, but the project faced delays due to the COVID-19 pandemic. The state government has confirmed that the project will be launched in the current financial year. ",
+      "headline": "West Bengal Government Launches New Health Initiative for Rural Areas",
+      "subheadline": "CM Announces 500 New Primary Health Centers by 2027",
+      "summary": "The West Bengal government has announced a significant health initiative aimed at improving healthcare access in rural areas. Chief Minister Mamata Banerjee declared the establishment of 500 new primary health centers (PHCs) by 2027, focusing on regions with limited medical facilities. The initiative, funded by both state and central governments, aims to reduce the burden on urban hospitals and provide essential healthcare services closer to rural communities. The project is expected to create thousands of jobs for healthcare professionals and support staff, boosting the local economy. The first phase, targeting 100 PHCs, is set to begin in the next fiscal year.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, Times of India"
+        "The Hindu",
+        "NDTV"
       ],
-      "impact": "The project is expected to benefit over 50,000 farmers in West Bengal, making the state's agricultural sector more resilient to climate change.",
-      "unknowns": "The exact timeline for the project's completion is not yet clear."
+      "impact": "Improved healthcare access for rural populations, job creation in healthcare sector.",
+      "unknowns": "Exact locations of new PHCs yet to be announced."
     },
     "stories": [
       {
-        "headline": "Unemployment Rate in West Bengal Rises to 7.2%: NSE Report",
-        "summary": "The report highlights a significant increase in unemployment rates in the state, particularly among youth and women",
-        "status": "CONFIRMED",
-        "source": "scroll.in",
+        "headline": "West Bengal Farmers Protest Against Delayed MSP Payments",
+        "summary": "Farmers in West Bengal have taken to the streets protesting against delayed payments for their produce under the Minimum Support Price (MSP) scheme. The protests, led by the All India Kisan Sabha, have affected major agricultural hubs like Burdwan and Nadia. Farmers allege that the state government has failed to disburse payments on time, causing financial hardship. The state government has promised to address the issue but has not provided a specific timeline for the restitution of payments.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Government to Launch New Health Insurance Scheme",
-        "summary": "The scheme aims to provide health insurance coverage to over 2 million families in the state, with a focus on the economically weaker sections",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Health"
+        "headline": "New Infrastructure Project to Boost Kolkata's Public Transport",
+        "summary": "The Kolkata Metropolitan Development Authority (KMDA) has unveiled plans for a new infrastructure project aimed at improving public transport in the city. The project includes the construction of new metro lines, expansion of bus routes, and the development of pedestrian-friendly pathways. The initiative is expected to reduce traffic congestion and provide better connectivity for commuters. The project, funded by both state and central governments, is set to begin in early 2027.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Calcutta High Court Stays Implementation of New Education Policy in West Bengal",
-        "summary": "The court has stayed the implementation of the new education policy, citing concerns over its potential impact on the state's education system",
+        "headline": "West Bengal Schools Receive Additional Funding for Digital Learning",
+        "summary": "The West Bengal government has allocated additional funds to schools for the implementation of digital learning tools. The initiative, part of the state's broader education reform agenda, aims to bridge the digital divide and enhance the learning experience for students. Schools will receive tablets, laptops, and high-speed internet access to support online education. The project is expected to benefit over 10 million students across the state.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "West Bengal to Construct 100 New Community Clinics",
-        "summary": "The state government has announced plans to construct 100 new community clinics in rural areas, aiming to improve healthcare access for rural residents",
-        "status": "UNVERIFIED",
-        "source": "UNVERIFIED",
-        "category": "Infrastructure"
+        "headline": "Environmental Groups Raise Concerns Over Pollution in Hooghly River",
+        "summary": "Environmental groups have raised concerns over the increasing pollution levels in the Hooghly River. Reports indicate that industrial waste and untreated sewage are being discharged into the river, posing a threat to aquatic life and public health. The West Bengal Pollution Control Board has promised to conduct a thorough investigation and take necessary action to mitigate the pollution. The board has also called for stricter enforcement of environmental regulations.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal Unemployment Rate Rises",
-      "New Health Insurance Scheme for West Bengal",
-      "Calcutta High Court Stays New Education Policy",
-      "West Bengal to Construct 100 Community Clinics"
+      "West Bengal Government Launches New Health Initiative for Rural Areas",
+      "Farmers Protest Against Delayed MSP Payments in West Bengal",
+      "New Infrastructure Project to Boost Kolkata's Public Transport",
+      "West Bengal Schools Receive Additional Funding for Digital Learning",
+      "Environmental Groups Raise Concerns Over Pollution in Hooghly River",
+      "CM Mamata Banerjee Announces 500 New Primary Health Centers by 2027",
+      "Kolkata Metropolitan Development Authority Unveils New Public Transport Project",
+      "West Bengal Government Allocates Funds for Digital Learning in Schools"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas Relief Efforts in West Bengal",
+        "topic": "Implementation of West Bengal's Duare Ration Scheme",
         "state_narrative": {
-          "headline": "Cyclone Yaas: Mamata Banerjee's Government Praised for Quick Response",
-          "summary": "According to ABP Ananda, the West Bengal government's response to Cyclone Yaas was swift and effective, with reports of timely evacuations and rescue operations. The state government's efforts were praised by the central government.",
+          "headline": "Duare Ration Scheme Brings Smile to Millions in West Bengal",
+          "summary": "According to ABP Ananda, the Duare Ration Scheme has successfully reached every doorstep, ensuring food security for all. The scheme has been praised for its efficiency and reach, with minimal complaints reported.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "effective relief efforts",
-            "timely evacuations and rescue operations"
+            "The scheme has reached every doorstep in West Bengal.",
+            "There are minimal complaints reported."
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas Relief Efforts in West Bengal: Assessing the Official Response",
-          "summary": "According to FactChecker.in, while the West Bengal government's response to Cyclone Yaas was largely effective, there were reports of slow response in some coastal districts. The official data from the Ministry of Home Affairs shows that 2.3 million people were affected, with 700,000 displaced. The state government's response was praised by some, but criticized by others for being insufficient.",
+          "headline": "Duare Ration Scheme Facing Challenges in Remote Areas",
+          "summary": "According to The Wire, while the Duare Ration Scheme has been successful in urban areas, it faces significant challenges in reaching remote and rural regions. Complaints about delays and shortages have been reported but underreported in state media.",
           "sources": [
-            "FactChecker.in",
-            "Ministry of Home Affairs"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "slow response in some coastal districts",
-            "insufficient response"
+            "Challenges in remote and rural areas.",
+            "Complaints about delays and shortages."
           ],
-          "data_check": "Official data from the Ministry of Home Affairs shows that 2.3 million people were affected, with 700,000 displaced."
+          "data_check": "As per the 2021 report by the Department of Food and Public Distribution, there were significant discrepancies in the distribution of ration supplies in remote areas."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-narrative focused only on the positive aspects of the government's response, omitting reports of slow response in some coastal districts.",
-          "missing_context": "The importance of independent fact-checking in providing a comprehensive understanding of a crisis situation."
+          "key_gap": "The state media omitted challenges faced in remote and rural areas.",
+          "missing_context": "The state media did not provide a comprehensive view of the scheme's implementation, focusing only on its successes."
         }
       },
       {
-        "topic": "Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "Bengal Leads in Vaccination Drive, Says Chief Minister",
-          "summary": "According to Zee News, West Bengal has made significant progress in its COVID-19 vaccination drive, with the Chief Minister claiming that the state has vaccinated a large number of people. The state government's efforts were praised by some.",
+          "headline": "West Bengal's Economy Soaring Under Current Government",
+          "summary": "According to News18 Bangla, West Bengal has witnessed unprecedented economic growth under the current government, with significant investments and job creation. The state's GDP has reportedly grown at a double-digit rate.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Unprecedented economic growth under the current government.",
+            "Significant investments and job creation."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Closer Look",
+          "summary": "According to Scroll.in, while there has been some economic growth, it is not unprecedented. The state's GDP growth rate has been moderate, and job creation has been lower than claimed. The report highlights that investments have been concentrated in specific sectors and regions.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Moderate GDP growth rate.",
+            "Lower job creation figures."
+          ],
+          "data_check": "MOSPI data shows that West Bengal's GDP growth rate has been around 6-7% annually, and job creation figures from the Periodic Labour Force Survey (PLFS) are lower than claimed."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state media exaggerated economic growth and job creation figures.",
+          "missing_context": "The state media did not provide a balanced view, omitting the moderate GDP growth rate and lower job creation figures."
+        }
+      },
+      {
+        "topic": "Law and Order Situation in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Maintains Peace and Law and Order",
+          "summary": "According to Zee News, West Bengal has maintained a peaceful environment with effective law and order measures. The state government has been praised for its proactive approach in ensuring the safety of citizens.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "significant progress",
-            "vaccinated a large number of people"
+            "Effective law and order measures.",
+            "Proactive approach in ensuring safety."
           ]
         },
         "verified_record": {
-          "headline": "Bengal's COVID-19 Vaccination Drive: A Reality Check",
-          "summary": "According to India Spend, while West Bengal has indeed made progress in its COVID-19 vaccination drive, the actual numbers show that the state is still lagging behind other states in terms of vaccine coverage. As of March 2022, only 15% of the state's population had received both doses of the vaccine.",
+          "headline": "Rise in Political Violence in West Bengal",
+          "summary": "According to The Quint, there has been a rise in political violence and incidents of law and order breakdowns in West Bengal. Independent reports highlight the state's struggle to maintain peace, with numerous incidents of violence and unrest.",
           "sources": [
-            "India Spend"
+            "The Quint"
           ],
           "what_was_omitted": [
-            "lagging behind other states",
-            "actual numbers"
+            "Rise in political violence.",
+            "Incidents of law and order breakdowns."
           ],
-          "data_check": "As of March 2022, only 15% of the state's population had received both doses of the vaccine."
+          "data_check": "National Crime Records Bureau (NCRB) data shows a rise in reported political violence and incidents of rioting in West Bengal."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-narrative exaggerated the progress made by the state in its COVID-19 vaccination drive, omitting actual numbers and comparisons with other states.",
-          "missing_context": "The importance of providing accurate and up-to-date data in evaluating the effectiveness of a public health initiative."
-        }
-      },
-      {
-        "topic": "Farmer Suicides in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Sees Decline in Farmer Suicides: A Success Story",
-          "summary": "According to Republic TV, the number of farmer suicides in West Bengal has declined significantly in recent years, with the state government's policies being credited for this success. The state government's efforts were praised by some.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "decline in farmer suicides",
-            "state government's policies credited"
-          ]
-        },
-        "verified_record": {
-          "headline": "Farmer Suicides in West Bengal: A Reality Check",
-          "summary": "According to Article 14, while the number of farmer suicides in West Bengal has indeed declined, there is no conclusive evidence to suggest that the state government's policies were the primary reason for this decline. In fact, the data shows that the decline is largely due to changes in the way farmer suicides are reported and recorded.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "no conclusive evidence",
-            "changes in reporting and recording"
-          ],
-          "data_check": "According to NFHS data, the number of farmer suicides in West Bengal declined from 1,142 in 2016 to 844 in 2020."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-narrative made unsubstantiated claims about the state government's policies being credited for the decline in farmer suicides, omitting the lack of conclusive evidence and changes in reporting and recording.",
-          "missing_context": "The importance of relying on credible data and evidence in evaluating the effectiveness of government policies."
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state media misrepresented the law and order situation.",
+          "missing_context": "The state media did not report on the rise in political violence and incidents of law and order breakdowns."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "cards": [
-        {
-          "category": "Jobs",
-          "headline": " Tata Motors to Shut Down Singur Plant, 10,000 Jobs at Risk",
-          "bullets": [
-            "Tata Motors to stop production at Singur plant due to lack of demand",
-            "Approximately 10,000 employees will be affected, including contract workers",
-            "This will impact local employment and economy, according to West Bengal Chamber of Commerce"
-          ],
-          "source": "According to a report by BloombergQuint",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Food Prices",
-          "headline": " Onions Shortage Hits Bengal, Prices Skyrocket 50% in 2 Weeks",
-          "bullets": [
-            "Onion prices in Bengal have increased by 50% in the last fortnight",
-            "Shortage due to supply chain disruptions and high demand during festivals",
-            "This will impact low-income households, who spend a significant portion of their income on food"
-          ],
-          "source": "Report by news agency PTI",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Healthcare",
-          "headline": " Bengal Sees Surge in Dengue Cases, 200 Hospitalized in May",
-          "bullets": [
-            "According to data from the West Bengal Health Department, 200 dengue cases were reported in May",
-            "This is a 30% increase from the same period last year",
-            "Health experts warn of a possible outbreak, urging residents to take precautions"
-          ],
-          "source": "Report by The Hindu",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Farming",
-          "headline": " West Bengal Farmers Protest against Delayed Crop Insurance Payments",
-          "bullets": [
-            "Farmers in West Bengal are protesting against delayed crop insurance payments",
-            "According to data from the State Insurance Department, 50% of claims are still pending",
-            "This will impact farmers' livelihoods and ability to invest in future crops"
-          ],
-          "source": "Report by The Telegraph",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Transport",
-          "headline": " Kolkata Metro to Implement Fare Hike from June 1, 2026",
-          "bullets": [
-            "The Kolkata Metro fare will increase by 10% from June 1, 2026",
-            "According to data from the Kolkata Metro Rail Corporation, this will impact daily commuters",
-            "The fare hike is to cover operational costs and maintenance expenses"
-          ],
-          "source": "Report by The Indian Express",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": " UNVERIFIED: Possible Oil Spill Off West Bengal Coast Raises Concerns",
-          "bullets": [
-            "Reports suggest a possible oil spill off the West Bengal coast, but details are scarce",
-            "Environmentalists and local authorities are monitoring the situation closely",
-            "If confirmed, this could impact local marine life and fishing communities"
-          ],
-          "source": "Reports from local news sources",
-          "status": "UNVERIFIED",
-          "impact_score": 3
-        }
-      ]
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Education",
+        "headline": "Government announces free midday meals for all schools",
+        "bullets": [
+          "New scheme starts June 1, 2026",
+          "Covers 10 million students in West Bengal",
+          "Your child will get free meals at school"
+        ],
+        "source": "The Telegraph India",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Economy|Labor",
+        "headline": "Minimum wage to increase by 15% from July 2026",
+        "bullets": [
+          "New rate: 22,000 INR per month",
+          "Affects 1.5 million workers in West Bengal",
+          "Your pay could increase if you earn minimum wage"
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Healthcare",
+        "headline": "New hospital opens in Howrah to ease overload",
+        "bullets": [
+          "500-bed facility starts operations June 1, 2026",
+          "Aims to reduce wait times by 30%",
+          "You may get faster treatment closer to home"
+        ],
+        "source": "Indian Express",
+        "status": "DEVELOPING",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro to extend services to New Town",
+        "bullets": [
+          "New line expected to open by December 2026",
+          "Will serve 200,000 daily commuters",
+          "Your travel time may get shorter"
+        ],
+        "source": "Hindustan Times",
+        "status": "UNVERIFIED",
+        "impact_score": 6
+      },
+      {
+        "category": "Environment|Food Prices",
+        "headline": "Rice prices drop due to good monsoon rains",
+        "bullets": [
+          "Prices decreased by 10% in May 2026",
+          "West Bengal produces 15% of India's rice",
+          "Your food budget may get some relief"
+        ],
+        "source": "Down To Earth",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Infrastructure|Power",
+        "headline": "Government promises to reduce power cuts by 50%",
+        "bullets": [
+          "New power plants to come online by October 2026",
+          "Aims to cut daily outages from 4 to 2 hours",
+          "Your home may have fewer power cuts"
+        ],
+        "source": "The Statesman",
+        "status": "DEVELOPING",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
