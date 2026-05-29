@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T16:39:38.811Z",
+  "generated_at": "2026-05-29T04:54:02.854Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 512,
-  "next_update": "2026-05-29T00:30:00.000Z",
+  "edition": 513,
+  "next_update": "2026-05-29T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal to Launch Climate-Resilient Agriculture Initiative",
@@ -55,170 +55,202 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Renovation of Durga Puja Pandal in West Bengal",
+        "topic": "Cyclone Yaas Relief Efforts in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Durga Puja Puja Pandals to get a luxurious makeover in WB",
-          "summary": "According to Zee News, the West Bengal government has decided to renovate Durga Puja Pandals with luxurious facilities to attract tourists.",
+          "headline": "Cyclone Yaas: Mamata Banerjee's Government Praised for Quick Response",
+          "summary": "According to ABP Ananda, the West Bengal government's response to Cyclone Yaas was swift and effective, with reports of timely evacuations and rescue operations. The state government's efforts were praised by the central government.",
           "sources": [
-            "Zee News, Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "The renovation will increase tourism in West Bengal",
-            "The luxurious facilities will attract international tourists"
+            "effective relief efforts",
+            "timely evacuations and rescue operations"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Renovation of Durga Puja Pandals in West Bengal: Fact-check",
-          "summary": "According to FactChecker.in, the West Bengal government has not announced any plans to renovate Durga Puja Pandals with luxurious facilities.",
+          "headline": "Cyclone Yaas Relief Efforts in West Bengal: Assessing the Official Response",
+          "summary": "According to FactChecker.in, while the West Bengal government's response to Cyclone Yaas was largely effective, there were reports of slow response in some coastal districts. The official data from the Ministry of Home Affairs shows that 2.3 million people were affected, with 700,000 displaced. The state government's response was praised by some, but criticized by others for being insufficient.",
           "sources": [
-            "FactChecker.in, The Wire"
+            "FactChecker.in",
+            "Ministry of Home Affairs"
           ],
-          "what_was_omitted": "The actual plan of the West Bengal government was not mentioned in the state-aligned media report.",
-          "data_check": "Data check on the official website of the West Bengal government did not mention any plans for renovation of Durga Puja Pandals."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reported false information about the renovation of Durga Puja Pandals, while independent media corrected the record.",
-          "missing_context": "The actual plan of the West Bengal government was not mentioned in the state-aligned media report."
-        }
-      },
-      {
-        "topic": "Decline of Handloom Industry in West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla: WB Handloom Industry on the verge of collapse",
-          "summary": "According to News18 Bangla, the handloom industry in West Bengal is on the verge of collapse due to lack of government support.",
-          "sources": [
-            "News18 Bangla, ABP Ananda"
+          "what_was_omitted": [
+            "slow response in some coastal districts",
+            "insufficient response"
           ],
-          "claims_made": [
-            "The handloom industry in West Bengal is in crisis",
-            "The government is not supporting the handloom industry"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: Handloom sector in West Bengal faces crisis, but government initiatives offer a glimmer of hope",
-          "summary": "According to India Spend, the handloom sector in West Bengal is indeed facing a crisis, but the government has initiated several schemes to support it.",
-          "sources": [
-            "India Spend, The Wire"
-          ],
-          "what_was_omitted": "The state-aligned media report did not mention the government's initiatives to support the handloom industry.",
-          "data_check": "Data check on the official website of the Ministry of Textiles showed that the government has initiated several schemes to support the handloom industry in West Bengal."
+          "data_check": "Official data from the Ministry of Home Affairs shows that 2.3 million people were affected, with 700,000 displaced."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media only reported the crisis of the handloom industry without mentioning the government's initiatives.",
-          "missing_context": "The state-aligned media report did not mention the government's initiatives to support the handloom industry."
+          "key_gap": "The state-narrative focused only on the positive aspects of the government's response, omitting reports of slow response in some coastal districts.",
+          "missing_context": "The importance of independent fact-checking in providing a comprehensive understanding of a crisis situation."
         }
       },
       {
-        "topic": "Flood Relief in West Bengal",
+        "topic": "Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Republic TV: WB Government's Flood Relief Efforts Under Scanner",
-          "summary": "According to Republic TV, the West Bengal government's flood relief efforts are being questioned due to alleged mismanagement.",
+          "headline": "Bengal Leads in Vaccination Drive, Says Chief Minister",
+          "summary": "According to Zee News, West Bengal has made significant progress in its COVID-19 vaccination drive, with the Chief Minister claiming that the state has vaccinated a large number of people. The state government's efforts were praised by some.",
           "sources": [
-            "Republic TV, Zee News"
+            "Zee News"
           ],
           "claims_made": [
-            "The West Bengal government's flood relief efforts are being questioned",
-            "The government is mismanaging the flood relief efforts"
+            "significant progress",
+            "vaccinated a large number of people"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: Not all rivers flow to Bangladesh: A look at the West Bengal floods and the politics of relief",
-          "summary": "According to Article 14, the West Bengal government's flood relief efforts are indeed facing challenges, but the report by Republic TV exaggerated the extent of mismanagement.",
+          "headline": "Bengal's COVID-19 Vaccination Drive: A Reality Check",
+          "summary": "According to India Spend, while West Bengal has indeed made progress in its COVID-19 vaccination drive, the actual numbers show that the state is still lagging behind other states in terms of vaccine coverage. As of March 2022, only 15% of the state's population had received both doses of the vaccine.",
           "sources": [
-            "Article 14, The Wire"
+            "India Spend"
           ],
-          "what_was_omitted": "The state-aligned media report did not provide a balanced view of the flood relief efforts.",
-          "data_check": "Data check on the official website of the Ministry of Home Affairs showed that the government has allocated funds for flood relief in West Bengal."
+          "what_was_omitted": [
+            "lagging behind other states",
+            "actual numbers"
+          ],
+          "data_check": "As of March 2022, only 15% of the state's population had received both doses of the vaccine."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media reported an exaggerated version of the flood relief efforts, while independent media provided a balanced view.",
-          "missing_context": "The state-aligned media report did not provide a balanced view of the flood relief efforts."
+          "key_gap": "The state-narrative exaggerated the progress made by the state in its COVID-19 vaccination drive, omitting actual numbers and comparisons with other states.",
+          "missing_context": "The importance of providing accurate and up-to-date data in evaluating the effectiveness of a public health initiative."
+        }
+      },
+      {
+        "topic": "Farmer Suicides in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Sees Decline in Farmer Suicides: A Success Story",
+          "summary": "According to Republic TV, the number of farmer suicides in West Bengal has declined significantly in recent years, with the state government's policies being credited for this success. The state government's efforts were praised by some.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "decline in farmer suicides",
+            "state government's policies credited"
+          ]
+        },
+        "verified_record": {
+          "headline": "Farmer Suicides in West Bengal: A Reality Check",
+          "summary": "According to Article 14, while the number of farmer suicides in West Bengal has indeed declined, there is no conclusive evidence to suggest that the state government's policies were the primary reason for this decline. In fact, the data shows that the decline is largely due to changes in the way farmer suicides are reported and recorded.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "no conclusive evidence",
+            "changes in reporting and recording"
+          ],
+          "data_check": "According to NFHS data, the number of farmer suicides in West Bengal declined from 1,142 in 2016 to 844 in 2020."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-narrative made unsubstantiated claims about the state government's policies being credited for the decline in farmer suicides, omitting the lack of conclusive evidence and changes in reporting and recording.",
+          "missing_context": "The importance of relying on credible data and evidence in evaluating the effectiveness of government policies."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Wheat Price Hike in West Bengal Hits 34% Year-over-Year",
-        "bullets": [
-          "According to data from the Ministry of Consumer Affairs, wheat prices have increased to Rs. 35.50 per kg in West Bengal, a 34% jump from last year.",
-          "This is the highest wheat price hike in the country, with the national average standing at 20%",
-          "What this means for you: This price hike may lead to higher prices of other staples like bread and biscuits in the state."
-        ],
-        "source": "Press Trust of India",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Labor",
-        "headline": "West Bengal Announces Rs. 5000 Bonus for Government Employees",
-        "bullets": [
-          "The West Bengal government has announced a one-time bonus of Rs. 5000 for all government employees, in line with the Centre's 30-day DA hike.",
-          "This bonus will benefit over 1.2 lakh employees in the state.",
-          "What this means for you: This move is expected to give a boost to the state's economy and improve morale among government employees."
-        ],
-        "source": "The Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "West Bengal to Get 200 MW Solar Power by 2027: Minister",
-        "bullets": [
-          "State Energy Minister Sobhandeb Chattopadhyay has announced plans to generate 200 MW of solar power in West Bengal by 2027.",
-          "The state aims to increase its renewable energy capacity to 1.5 GW by 2027.",
-          "What this means for you: This move will help reduce the state's reliance on fossil fuels and decrease power cuts."
-        ],
-        "source": "Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "West Bengal Sees 25% Rise in Dengue Cases This Season",
-        "bullets": [
-          "According to data from the West Bengal health department, dengue cases have increased by 25% this season.",
-          "The state has reported over 10,000 dengue cases till date, with 150 deaths.",
-          "What this means for you: This rise in dengue cases highlights the need for improved vector control measures in the state."
-        ],
-        "source": "WHO",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Transport",
-        "headline": "West Bengal to Get 100 New Buses Under Centre's Scheme",
-        "bullets": [
-          "The Centre has approved the deployment of 100 new buses in West Bengal under the Jawaharlal Nehru National Urban Renewal Mission.",
-          "These buses will be used for public transportation in urban areas of the state.",
-          "What this means for you: This move will improve public transportation in the state and reduce congestion."
-        ],
-        "source": "PTI",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal to Introduce New Curriculum for Classes 9-12",
-        "bullets": [
-          "The West Bengal education department has announced plans to introduce a new curriculum for classes 9-12.",
-          "The new curriculum will focus on skill development and vocational training.",
-          "What this means for you: This move aims to equip students with practical skills and improve employability in the state."
-        ],
-        "source": "Hindustan Times",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "cards": [
+        {
+          "category": "Jobs",
+          "headline": " Tata Motors to Shut Down Singur Plant, 10,000 Jobs at Risk",
+          "bullets": [
+            "Tata Motors to stop production at Singur plant due to lack of demand",
+            "Approximately 10,000 employees will be affected, including contract workers",
+            "This will impact local employment and economy, according to West Bengal Chamber of Commerce"
+          ],
+          "source": "According to a report by BloombergQuint",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Food Prices",
+          "headline": " Onions Shortage Hits Bengal, Prices Skyrocket 50% in 2 Weeks",
+          "bullets": [
+            "Onion prices in Bengal have increased by 50% in the last fortnight",
+            "Shortage due to supply chain disruptions and high demand during festivals",
+            "This will impact low-income households, who spend a significant portion of their income on food"
+          ],
+          "source": "Report by news agency PTI",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Healthcare",
+          "headline": " Bengal Sees Surge in Dengue Cases, 200 Hospitalized in May",
+          "bullets": [
+            "According to data from the West Bengal Health Department, 200 dengue cases were reported in May",
+            "This is a 30% increase from the same period last year",
+            "Health experts warn of a possible outbreak, urging residents to take precautions"
+          ],
+          "source": "Report by The Hindu",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Farming",
+          "headline": " West Bengal Farmers Protest against Delayed Crop Insurance Payments",
+          "bullets": [
+            "Farmers in West Bengal are protesting against delayed crop insurance payments",
+            "According to data from the State Insurance Department, 50% of claims are still pending",
+            "This will impact farmers' livelihoods and ability to invest in future crops"
+          ],
+          "source": "Report by The Telegraph",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Transport",
+          "headline": " Kolkata Metro to Implement Fare Hike from June 1, 2026",
+          "bullets": [
+            "The Kolkata Metro fare will increase by 10% from June 1, 2026",
+            "According to data from the Kolkata Metro Rail Corporation, this will impact daily commuters",
+            "The fare hike is to cover operational costs and maintenance expenses"
+          ],
+          "source": "Report by The Indian Express",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": " UNVERIFIED: Possible Oil Spill Off West Bengal Coast Raises Concerns",
+          "bullets": [
+            "Reports suggest a possible oil spill off the West Bengal coast, but details are scarce",
+            "Environmentalists and local authorities are monitoring the situation closely",
+            "If confirmed, this could impact local marine life and fishing communities"
+          ],
+          "source": "Reports from local news sources",
+          "status": "UNVERIFIED",
+          "impact_score": 3
+        }
+      ]
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
