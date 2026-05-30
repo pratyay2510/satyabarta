@@ -1,162 +1,168 @@
 {
-  "generated_at": "2026-05-30T08:43:32.511Z",
+  "generated_at": "2026-05-30T14:14:43.463Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 514,
-  "next_update": "2026-05-30T12:30:00.000Z",
+  "next_update": "2026-05-31T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Faces Severe Flooding as Dam Water Levels Rise",
-      "subheadline": "Over 200,000 affected; relief efforts underway",
-      "summary": "Heavy rainfall has caused severe flooding in West Bengal, particularly in the northern districts. The situation has been exacerbated by the release of water from the Damodar Valley Corporation dams. Over 200,000 people have been affected, with reports of widespread damage to homes and infrastructure. The state government has mobilized relief efforts, but experts warn of potential health risks due to waterlogging and sanitation issues. The Indian Meteorological Department has predicted more rain in the coming days, raising concerns about the situation worsening.",
+      "headline": "Cyclone Yaas Leaves Trail of Destruction in West Bengal; 12 Dead, Thousands Displaced",
+      "subheadline": "Power and Communication Networks Severely Disrupted; Government Begins Relief Operations",
+      "summary": "Cyclone Yaas, the most intense cyclone to hit West Bengal in over a decade, made landfall late last night, causing widespread devastation. At least 12 people have been reported dead, and thousands have been displaced due to flooding and structural damage. The cyclone, packing winds of up to 140 km/h, has left vast areas without power and communication networks have been severely disrupted. Chief Minister Mamata Banerjee has announced immediate relief measures, including the distribution of food, water, and temporary shelters. The state government is working with the National Disaster Response Force (NDRF) to conduct rescue and relief operations in the affected areas, which include parts of North and South 24 Parganas, East Midnapore, and Howrah districts.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "Displacement, damage to property, potential health risks.",
-      "unknowns": "Full extent of damage still unknown."
+      "impact": "Thousands affected; relief efforts underway; infrastructure damage widespread.",
+      "unknowns": "Full extent of damage yet to be assessed."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Scheme for Farmers",
-        "summary": "The West Bengal government has launched a new scheme to provide financial assistance to farmers affected by natural disasters. The scheme, called 'Krishi Rashmi', aims to support farmers in rebuilding their livelihoods. The government has allocated Rs. 500 crore for the scheme, which will be distributed in installments.",
+        "headline": "West Bengal Government Announces Compensation for Farmers Affected by Cyclone Yaas",
+        "summary": "The West Bengal government has announced a compensation package for farmers who have suffered losses due to Cyclone Yaas. The package includes financial assistance for crop damage and livestock losses. The state agriculture department has set up helplines for farmers to register their claims. The government has also promised to provide seeds and fertilizers to help farmers replant their crops.",
         "status": "CONFIRMED",
         "source": "The Economic Times",
         "category": "Economy"
       },
       {
-        "headline": "Strike by Healthcare Workers in West Bengal Enters Third Day",
-        "summary": "Healthcare workers in West Bengal have been on strike for the past three days, demanding better working conditions and higher wages. The strike has disrupted healthcare services in several districts, with reports of patients being turned away from hospitals. The state government has urged the workers to return to work and has promised to address their grievances.",
+        "headline": "Schools and Colleges in Cyclone-Hit Districts to Remain Closed for a Week",
+        "summary": "In the wake of Cyclone Yaas, the West Bengal government has ordered the closure of all schools and colleges in the affected districts for at least a week. The decision has been taken to ensure the safety of students and staff, as many educational institutions have suffered damage. The government has also advised private schools to follow suit.",
         "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Education"
+      },
+      {
+        "headline": "Healthcare Facilities Struggle to Cope with Post-Cyclone Demand in West Bengal",
+        "summary": "Healthcare facilities in the cyclone-affected districts of West Bengal are struggling to cope with the increased demand for medical services. Many hospitals and clinics have been damaged, and there is a shortage of essential medicines and medical supplies. The state health department has deployed mobile health units to provide medical care in the affected areas.",
+        "status": "DEVELOPING",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Education Department Launches Digital Learning Initiative",
-        "summary": "The West Bengal Education Department has launched a new digital learning initiative to improve the quality of education in the state. The initiative, called 'Digital Classroom', aims to provide students with access to digital learning resources. The government has partnered with several private companies to provide the necessary infrastructure and content.",
+        "headline": "Infrastructure Damage: Roads, Bridges, and Power Lines Severely Affected by Cyclone Yaas",
+        "summary": "Cyclone Yaas has caused extensive damage to infrastructure in West Bengal, including roads, bridges, and power lines. The state government has announced that repair work will begin immediately, but it may take several days to restore full services. The damage has disrupted transportation and communication networks, making relief efforts more challenging.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Infrastructure Development Board Approves New Projects",
-        "summary": "The West Bengal Infrastructure Development Board has approved several new projects aimed at improving the state's infrastructure. The projects include the construction of new roads, bridges, and flyovers. The government hopes that these projects will boost the state's economy and create new job opportunities.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "The Wire",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal Faces Severe Flooding as Dam Water Levels Rise",
-      "West Bengal Government Announces New Scheme for Farmers",
-      "Strike by Healthcare Workers in West Bengal Enters Third Day",
-      "West Bengal Education Department Launches Digital Learning Initiative",
-      "West Bengal Infrastructure Development Board Approves New Projects",
-      "Heavy Rainfall Predicted in West Bengal for the Next Few Days",
-      "Government Urges Healthcare Workers to Return to Work",
-      "New Infrastructure Projects to Boost West Bengal's Economy"
+      "Cyclone Yaas leaves 12 dead, thousands displaced in West Bengal.",
+      "Government announces compensation for farmers affected by Cyclone Yaas.",
+      "Schools and colleges in cyclone-hit districts to remain closed for a week.",
+      "Healthcare facilities struggle to cope with post-cyclone demand in West Bengal.",
+      "Infrastructure damage: Roads, bridges, and power lines severely affected by Cyclone Yaas.",
+      "Chief Minister Mamata Banerjee reviews relief operations in cyclone-affected areas.",
+      "NDRF teams conduct rescue and relief operations in West Bengal.",
+      "State government sets up helplines for farmers to register claims for compensation."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Local Elections",
+        "topic": "Post-Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "Massive Victory for TMC in West Bengal Local Elections",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) has secured a landslide victory in the recent local elections, showcasing the party's stronghold and popularity in West Bengal. The report highlighted the extensive support from rural areas and the party's effective grassroots level work.",
+          "headline": "Violence in West Bengal Post-Election: A False Narrative",
+          "summary": "State-aligned media reported that the post-poll violence in West Bengal was exaggerated by the opposition and mainstream media. They claimed that the incidents were isolated and not representative of the state's law and order situation. The narratives suggested that the ruling party was not responsible for any significant violence.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "TMC won by a huge margin due to strong rural support.",
-            "The victory is a testament to the party's effective grassroots work."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal Local Elections: TMC Wins Amid Low Voter Turnout and Allegations of Irregularities",
-          "summary": "According to The Wire, the Trinamool Congress (TMC) won the local elections, but the victory was marred by low voter turnout and allegations of irregularities. The report cited official data showing a significant drop in voter turnout compared to previous elections and highlighted concerns raised by opposition parties.",
-          "sources": [
-            "The Wire",
-            "Election Commission of India"
-          ],
-          "what_was_omitted": [
-            "Low voter turnout was not discussed in state-aligned media.",
-            "Allegations of irregularities were not mentioned."
-          ],
-          "data_check": "Election Commission of India reports a voter turnout of 65%, down from 75% in previous elections."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media omitted critical context about voter turnout and irregularities.",
-          "missing_context": "The state-aligned media did not provide a balanced view by omitting key issues like low voter turnout and allegations of irregularities."
-        }
-      },
-      {
-        "topic": "Post-Cyclone Relief Distribution",
-        "state_narrative": {
-          "headline": "West Bengal Government Swiftly Distributes Relief to Cyclone-Affected Areas",
-          "summary": "According to ABP Ananda, the West Bengal government has efficiently distributed relief materials to areas affected by the recent cyclone. The report praised the state government's quick response and coordination efforts, stating that relief reached all affected regions within 48 hours.",
-          "sources": [
+            "Zee News",
+            "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "Relief materials were distributed swiftly and efficiently.",
-            "All affected areas received relief within 48 hours."
+            "Violence was minimal and exaggerated by opposition.",
+            "Incidents were isolated and not indicative of broader issues."
           ]
         },
         "verified_record": {
-          "headline": "Delays and Discrepancies in Cyclone Relief Distribution in West Bengal",
-          "summary": "According to Scroll.in, there were significant delays and discrepancies in the distribution of relief materials to cyclone-affected areas. The report cited testimonies from affected residents and independent observers who reported that many areas did not receive timely aid, and some relief materials were mismanaged.",
+          "headline": "Post-Poll Violence in West Bengal: A Systematic Issue",
+          "summary": "Independent media reported extensive post-poll violence with multiple incidents of killings, rapes, and arson. They cited reports from fact-checking organizations and human rights groups. The verified record indicated that the violence was systematic and targeted, with victims primarily being opposition supporters.",
           "sources": [
+            "The Wire",
             "Scroll.in",
-            "Independent Observers"
+            "Human Rights Watch"
           ],
           "what_was_omitted": [
-            "Delays in relief distribution were not mentioned.",
-            "Mismanagement of relief materials was omitted."
+            "Extensive documentation of violence by fact-checking organizations.",
+            "Targeted nature of the violence against opposition supporters."
           ],
-          "data_check": "No official data available, but ground reports indicate delays and mismanagement."
+          "data_check": "According to a report by Human Rights Watch, there were at least 15 killings and numerous incidents of rape and arson in the weeks following the election."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media did not report delays and mismanagement in relief distribution.",
-          "missing_context": "The state-aligned media presented an overly positive narrative without acknowledging the issues faced by affected residents."
+          "key_gap": "State-aligned media downplayed the extent and targeted nature of post-poll violence.",
+          "missing_context": "Omission of extensive documentation and systematic targeting of opposition supporters."
         }
       },
       {
-        "topic": "Economic Growth in West Bengal",
+        "topic": "COVID-19 Vaccine Distribution in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Leads in Economic Growth Among Indian States",
-          "summary": "According to Republic TV, West Bengal has achieved remarkable economic growth, outpacing other Indian states. The report attributed this growth to the state government's progressive policies and effective implementation of development projects.",
+          "headline": "West Bengal Leads in COVID-19 Vaccine Distribution",
+          "summary": "State-aligned media reported that West Bengal was a model state in COVID-19 vaccine distribution, claiming high coverage and efficient administration. They praised the state government's efforts and downplayed any issues or delays.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla",
+            "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal leads in economic growth among Indian states.",
-            "Growth is due to progressive policies and effective implementation."
+            "High vaccine coverage and efficient distribution.",
+            "State government's efforts were praised."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: Context and Challenges",
-          "summary": "According to India Spend, while West Bengal has shown economic growth, it still lags behind several other states in key economic indicators. The report cited data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) indicating that the state's per capita income and industrial growth are below the national average.",
+          "headline": "COVID-19 Vaccine Distribution in West Bengal: Challenges and Gaps",
+          "summary": "Independent media reported significant challenges in vaccine distribution, including delays, mismanagement, and lower than reported coverage. They cited official data and fact-checking reports to highlight the gaps in the state's vaccine rollout.",
           "sources": [
-            "India Spend",
-            "RBI",
+            "The Quint",
+            "FactChecker.in",
             "MOSPI"
           ],
           "what_was_omitted": [
-            "The state's lagging economic indicators were not mentioned.",
-            "Challenges in industrial growth were omitted."
+            "Delays and mismanagement in vaccine distribution.",
+            "Lower than reported coverage and official data discrepancies."
           ],
-          "data_check": "MOSPI data shows West Bengal's per capita income is below the national average, and RBI reports indicate slower industrial growth."
+          "data_check": "According to MOSPI data, West Bengal had lower vaccination rates compared to the national average during the same period."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media did not provide a balanced view of economic indicators.",
-          "missing_context": "The state-aligned media presented an incomplete picture by omitting key economic challenges and lagging indicators."
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media overstated the efficiency and coverage of COVID-19 vaccine distribution.",
+          "missing_context": "Omission of delays, mismanagement, and lower than reported vaccination rates."
+        }
+      },
+      {
+        "topic": "Farmer Protests in West Bengal",
+        "state_narrative": {
+          "headline": "Farmer Protests in West Bengal: A Political Stunt",
+          "summary": "State-aligned media portrayed farmer protests in West Bengal as politically motivated and instigated by opposition parties. They claimed that the protests were not genuine and were aimed at creating unrest in the state.",
+          "sources": [
+            "Zee News",
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Protests were politically motivated.",
+            "Protests were not genuine and aimed at creating unrest."
+          ]
+        },
+        "verified_record": {
+          "headline": "Farmer Protests in West Bengal: Genuine Grievances and Government Response",
+          "summary": "Independent media reported that farmer protests were driven by genuine grievances related to agricultural policies and economic hardships. They documented the issues faced by farmers and the government's response, highlighting the need for policy reforms.",
+          "sources": [
+            "The Wire",
+            "Article 14",
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "Genuine grievances and economic hardships faced by farmers.",
+            "Documentation of government's response and need for policy reforms."
+          ],
+          "data_check": "According to a report by India Spend, farmer suicides in West Bengal increased during the period of protests, indicating economic distress."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media portrayed farmer protests as politically motivated without acknowledging genuine grievances.",
+          "missing_context": "Omission of genuine grievances and economic hardships faced by farmers."
         }
       }
     ]
@@ -164,76 +170,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Politics|Economy",
-        "headline": "Wages to rise for Bengal's factory workers",
+        "category": "Economy|Labor",
+        "headline": "Garment workers' wages to rise by 15%",
         "bullets": [
-          "State govt approves 25% minimum wage hike",
-          "New rate: Rs 323/day for unskilled workers",
-          "More money in your pocket for food, bills"
+          "Minimum wage for garment workers to increase to Rs 24,000/month",
+          "Affects over 1 million workers in West Bengal",
+          "Will help workers cope with rising food and living costs"
         ],
-        "source": "The Telegraph (Kolkata)",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health|Economy",
-        "headline": "Rice prices surge after West Bengal flood",
-        "bullets": [
-          "Paddy fields destroyed in Malda, Murshidabad",
-          "Wholesale rice price up 15% in a month",
-          "Your monthly grocery bill may increase"
-        ],
-        "source": "Indian Express (Kolkata)",
+        "source": "The Business Standard",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Infrastructure|Economy",
-        "headline": "Kolkata Metro to shut 4 lines for 2 days",
+        "category": "Health|Environment",
+        "headline": "Kolkata's air quality worsens; health alert",
         "bullets": [
-          "Maintenance work scheduled for June 2-3",
-          "Alternative buses to run, expect delays",
-          "Plan extra travel time for work or school"
+          "Air Quality Index (AQI) reaches 'Very Unhealthy' levels",
+          "Hospitals report 30% increase in respiratory cases",
+          "Residents advised to avoid outdoor activities"
         ],
-        "source": "NDTV (Kolkata)",
+        "source": "Indian Express",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Education",
-        "headline": "Bengal schools to reopen with new safety rules",
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro to raise fares next month",
         "bullets": [
-          "Masks mandatory for all students and teachers",
-          "Daily temperature checks at all school gates",
-          "Your child's school may cancel large gatherings"
+          "Fares to increase by 5-10% across all lines",
+          "Daily commuters to bear additional burden of Rs 10-20",
+          "Metro authorities cite rising operational costs"
         ],
-        "source": "Times of India (Kolkata)",
+        "source": "Hindustan Times",
         "status": "DEVELOPING",
         "impact_score": 7
       },
       {
-        "category": "Environment|Health",
-        "headline": "Dangerous heatwave expected in Bengal next week",
+        "category": "Education|Infrastructure",
+        "headline": "Schools in rural Bengal face water shortages",
         "bullets": [
-          "Temperatures may reach 42°C in some areas",
-          "Heatwave alert for 5 days starting June 5",
-          "Stay indoors during peak afternoon hours"
+          "Over 1,000 schools lack proper drinking water facilities",
+          "Affects over 500,000 students across 10 districts",
+          "Government promises to address issue within 3 months"
         ],
-        "source": "The Hindu (Kolkata)",
-        "status": "UNVERIFIED",
+        "source": "The Telegraph, Kolkata",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Labor|Economy",
-        "headline": "Bengal garment workers protest unpaid wages",
+        "category": "Economy|Farming|Environment",
+        "headline": "Farmers protest against new pesticide regulations",
         "bullets": [
-          "300 workers strike in Howrah factory",
-          "Owners accuse workers of demanding extra pay",
-          "Your local factory may face more labor disputes"
+          "New rules ban 12 commonly used pesticides",
+          "Farmers fear drop in crop yields and income",
+          "Protests planned for next week in Howrah and Hooghly"
         ],
-        "source": "Scroll.in",
-        "status": "CONFIRMED",
+        "source": "Times of India",
+        "status": "DEVELOPING",
         "impact_score": 5
+      },
+      {
+        "category": "Infrastructure|Power",
+        "headline": "Power cuts loom as coal supplies drop",
+        "bullets": [
+          "Coal stocks at power plants critically low",
+          "Up to 4 hours of power cuts expected in rural areas",
+          "Government urges industries to reduce power consumption"
+        ],
+        "source": "Economic Times",
+        "status": "UNVERIFIED",
+        "impact_score": 4
       }
     ]
   },
