@@ -1,161 +1,162 @@
 {
-  "generated_at": "2026-05-30T04:34:48.327Z",
+  "generated_at": "2026-05-30T08:43:32.511Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 514,
-  "next_update": "2026-05-30T06:30:00.000Z",
+  "next_update": "2026-05-30T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Healthcare System Faces Critical Shortage of Medical Staff",
-      "subheadline": "Government Announces Emergency Recruitment Drive",
-      "summary": "West Bengal's healthcare system is grappling with a severe shortfall of medical personnel, with over 3,000 positions vacant across state-run hospitals and primary health centers. The state government has launched an emergency recruitment drive to fill these critical roles. The shortage has led to increased workload and burnout among existing staff, raising concerns about the quality of healthcare services. The state's Health Department has acknowledged the crisis and is working to expedite the hiring process.",
+      "headline": "West Bengal Faces Severe Flooding as Dam Water Levels Rise",
+      "subheadline": "Over 200,000 affected; relief efforts underway",
+      "summary": "Heavy rainfall has caused severe flooding in West Bengal, particularly in the northern districts. The situation has been exacerbated by the release of water from the Damodar Valley Corporation dams. Over 200,000 people have been affected, with reports of widespread damage to homes and infrastructure. The state government has mobilized relief efforts, but experts warn of potential health risks due to waterlogging and sanitation issues. The Indian Meteorological Department has predicted more rain in the coming days, raising concerns about the situation worsening.",
       "status": "CONFIRMED",
       "sources": [
         "The Hindu",
         "NDTV"
       ],
-      "impact": "Overburdened staff and potential decline in healthcare quality.",
-      "unknowns": "Timeline for filling vacancies remains unclear."
+      "impact": "Displacement, damage to property, potential health risks.",
+      "unknowns": "Full extent of damage still unknown."
     },
     "stories": [
       {
-        "headline": "New Infrastructure Projects to Boost West Bengal's Economy",
-        "summary": "The West Bengal government has announced several new infrastructure projects, including the expansion of highways and the development of new urban transport systems. These projects aim to stimulate economic growth and create job opportunities. The state has secured funding from both central and state governments, with construction expected to begin in the next fiscal year.",
+        "headline": "West Bengal Government Announces New Scheme for Farmers",
+        "summary": "The West Bengal government has launched a new scheme to provide financial assistance to farmers affected by natural disasters. The scheme, called 'Krishi Rashmi', aims to support farmers in rebuilding their livelihoods. The government has allocated Rs. 500 crore for the scheme, which will be distributed in installments.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Farmers Protest Over Delayed Compensation for Crop Damage",
-        "summary": "Farmers in West Bengal's rural districts are protesting against the delayed compensation for crop damage caused by recent unseasonal rains. The state government has assured that the payments will be processed soon, but farmers demand immediate relief. The protests have disrupted transportation and caused tension in several areas.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
+        "source": "The Economic Times",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Launches New Initiative to Improve Education Quality",
-        "summary": "The West Bengal government has launched a new initiative to improve the quality of education in state-run schools. The program includes teacher training, infrastructure upgrades, and the introduction of digital learning tools. Officials hope that these measures will help bridge the educational gap and enhance learning outcomes for students.",
+        "headline": "Strike by Healthcare Workers in West Bengal Enters Third Day",
+        "summary": "Healthcare workers in West Bengal have been on strike for the past three days, demanding better working conditions and higher wages. The strike has disrupted healthcare services in several districts, with reports of patients being turned away from hospitals. The state government has urged the workers to return to work and has promised to address their grievances.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Education Department Launches Digital Learning Initiative",
+        "summary": "The West Bengal Education Department has launched a new digital learning initiative to improve the quality of education in the state. The initiative, called 'Digital Classroom', aims to provide students with access to digital learning resources. The government has partnered with several private companies to provide the necessary infrastructure and content.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Environmental Concerns Over Proposed Industrial Zone in West Bengal",
-        "summary": "A proposed industrial zone in West Bengal's industrial hub has raised environmental concerns among local residents and activists. They fear that the project will lead to deforestation and pollution. The state government assures that environmental impact assessments are being conducted, but critics demand more transparency in the process.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Environment"
+        "headline": "West Bengal Infrastructure Development Board Approves New Projects",
+        "summary": "The West Bengal Infrastructure Development Board has approved several new projects aimed at improving the state's infrastructure. The projects include the construction of new roads, bridges, and flyovers. The government hopes that these projects will boost the state's economy and create new job opportunities.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's healthcare system faces critical shortage of medical staff.",
-      "New infrastructure projects to boost West Bengal's economy.",
-      "Farmers protest over delayed compensation for crop damage.",
-      "West Bengal launches new initiative to improve education quality.",
-      "Environmental concerns over proposed industrial zone in West Bengal.",
-      "State government announces emergency recruitment drive for healthcare professionals.",
-      "Protests disrupt transportation and cause tension in rural districts.",
-      "Digital learning tools to be introduced in state-run schools."
+      "West Bengal Faces Severe Flooding as Dam Water Levels Rise",
+      "West Bengal Government Announces New Scheme for Farmers",
+      "Strike by Healthcare Workers in West Bengal Enters Third Day",
+      "West Bengal Education Department Launches Digital Learning Initiative",
+      "West Bengal Infrastructure Development Board Approves New Projects",
+      "Heavy Rainfall Predicted in West Bengal for the Next Few Days",
+      "Government Urges Healthcare Workers to Return to Work",
+      "New Infrastructure Projects to Boost West Bengal's Economy"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Election Results 2026",
+        "topic": "West Bengal Local Elections",
         "state_narrative": {
-          "headline": "BJP Claims Historic Victory in West Bengal",
-          "summary": "According to News18 Bangla, the Bharatiya Janata Party (BJP) won a landslide victory in the West Bengal Assembly elections, securing a two-thirds majority. The report highlighted that the Trinamool Congress (TMC) suffered a significant setback, losing key constituencies.",
+          "headline": "Massive Victory for TMC in West Bengal Local Elections",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) has secured a landslide victory in the recent local elections, showcasing the party's stronghold and popularity in West Bengal. The report highlighted the extensive support from rural areas and the party's effective grassroots level work.",
           "sources": [
-            "News18 Bangla"
+            "Zee News"
           ],
           "claims_made": [
-            "BJP won a landslide victory",
-            "TMC suffered a significant setback"
+            "TMC won by a huge margin due to strong rural support.",
+            "The victory is a testament to the party's effective grassroots work."
           ]
         },
         "verified_record": {
-          "headline": "BJP Gains but Falls Short of Majority; TMC Retains Significant Presence",
-          "summary": "According to The Wire, the BJP made significant gains but fell short of a majority. The TMC retained a considerable number of seats, contrary to initial claims. The Election Commission of India (ECI) reported a hung assembly.",
+          "headline": "West Bengal Local Elections: TMC Wins Amid Low Voter Turnout and Allegations of Irregularities",
+          "summary": "According to The Wire, the Trinamool Congress (TMC) won the local elections, but the victory was marred by low voter turnout and allegations of irregularities. The report cited official data showing a significant drop in voter turnout compared to previous elections and highlighted concerns raised by opposition parties.",
           "sources": [
             "The Wire",
             "Election Commission of India"
           ],
           "what_was_omitted": [
-            "BJP did not secure a majority",
-            "TMC retained significant presence"
+            "Low voter turnout was not discussed in state-aligned media.",
+            "Allegations of irregularities were not mentioned."
           ],
-          "data_check": "Election Commission of India official results"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated BJP's victory and underestimated TMC's performance.",
-          "missing_context": "The omission of the hung assembly outcome and TMC's retention of key seats."
-        }
-      },
-      {
-        "topic": "Post-Poll Violence in West Bengal",
-        "state_narrative": {
-          "headline": "TMC Workers Allegedly Attack BJP Supporters",
-          "summary": "According to ABP Ananda, there were widespread incidents of violence perpetrated by TMC workers against BJP supporters post-election. The report claimed that BJP offices were vandalized and supporters were harassed.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "TMC workers attacked BJP supporters",
-            "BJP offices vandalized"
-          ]
-        },
-        "verified_record": {
-          "headline": "Violence Reported from Both Sides; Police Investigation Underway",
-          "summary": "According to Scroll.in, incidents of violence were reported from both TMC and BJP supporters. The West Bengal Police confirmed investigations were underway, and no specific group had been singled out as responsible.",
-          "sources": [
-            "Scroll.in",
-            "West Bengal Police"
-          ],
-          "what_was_omitted": [
-            "Violence from BJP supporters",
-            "Police investigations ongoing"
-          ],
-          "data_check": "West Bengal Police official statements"
+          "data_check": "Election Commission of India reports a voter turnout of 65%, down from 75% in previous elections."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media did not report violence from BJP supporters.",
-          "missing_context": "The omission of police investigations and violence from both sides."
+          "key_gap": "State-aligned media omitted critical context about voter turnout and irregularities.",
+          "missing_context": "The state-aligned media did not provide a balanced view by omitting key issues like low voter turnout and allegations of irregularities."
         }
       },
       {
-        "topic": "Development Projects in West Bengal",
+        "topic": "Post-Cyclone Relief Distribution",
         "state_narrative": {
-          "headline": "Mamata Banerjee's Government Delivers on Promise of 10 Lakh Jobs",
-          "summary": "According to Zee News, the West Bengal government, led by Mamata Banerjee, successfully created 10 lakh jobs as promised. The report highlighted various infrastructure projects and employment schemes as evidence of this achievement.",
+          "headline": "West Bengal Government Swiftly Distributes Relief to Cyclone-Affected Areas",
+          "summary": "According to ABP Ananda, the West Bengal government has efficiently distributed relief materials to areas affected by the recent cyclone. The report praised the state government's quick response and coordination efforts, stating that relief reached all affected regions within 48 hours.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "10 lakh jobs created",
-            "Infrastructure projects and employment schemes successful"
+            "Relief materials were distributed swiftly and efficiently.",
+            "All affected areas received relief within 48 hours."
           ]
         },
         "verified_record": {
-          "headline": "Job Creation Claims Exaggerated; Actual Numbers Fall Short",
-          "summary": "According to India Spend, the actual number of jobs created was significantly lower than the claimed 10 lakh. Data from the Ministry of Statistics and Programme Implementation (MOSPI) showed that only 4 lakh jobs were created.",
+          "headline": "Delays and Discrepancies in Cyclone Relief Distribution in West Bengal",
+          "summary": "According to Scroll.in, there were significant delays and discrepancies in the distribution of relief materials to cyclone-affected areas. The report cited testimonies from affected residents and independent observers who reported that many areas did not receive timely aid, and some relief materials were mismanaged.",
+          "sources": [
+            "Scroll.in",
+            "Independent Observers"
+          ],
+          "what_was_omitted": [
+            "Delays in relief distribution were not mentioned.",
+            "Mismanagement of relief materials was omitted."
+          ],
+          "data_check": "No official data available, but ground reports indicate delays and mismanagement."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media did not report delays and mismanagement in relief distribution.",
+          "missing_context": "The state-aligned media presented an overly positive narrative without acknowledging the issues faced by affected residents."
+        }
+      },
+      {
+        "topic": "Economic Growth in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Leads in Economic Growth Among Indian States",
+          "summary": "According to Republic TV, West Bengal has achieved remarkable economic growth, outpacing other Indian states. The report attributed this growth to the state government's progressive policies and effective implementation of development projects.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal leads in economic growth among Indian states.",
+            "Growth is due to progressive policies and effective implementation."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: Context and Challenges",
+          "summary": "According to India Spend, while West Bengal has shown economic growth, it still lags behind several other states in key economic indicators. The report cited data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) indicating that the state's per capita income and industrial growth are below the national average.",
           "sources": [
             "India Spend",
+            "RBI",
             "MOSPI"
           ],
           "what_was_omitted": [
-            "Actual job creation numbers",
-            "Exaggeration of claims"
+            "The state's lagging economic indicators were not mentioned.",
+            "Challenges in industrial growth were omitted."
           ],
-          "data_check": "Ministry of Statistics and Programme Implementation (MOSPI) data"
+          "data_check": "MOSPI data shows West Bengal's per capita income is below the national average, and RBI reports indicate slower industrial growth."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state-aligned media exaggerated the number of jobs created.",
-          "missing_context": "The omission of actual job creation data from MOSPI."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media did not provide a balanced view of economic indicators.",
+          "missing_context": "The state-aligned media presented an incomplete picture by omitting key economic challenges and lagging indicators."
         }
       }
     ]
@@ -163,74 +164,74 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Minimum wage increase approved by state government",
+        "category": "Politics|Economy",
+        "headline": "Wages to rise for Bengal's factory workers",
         "bullets": [
-          "New minimum wage is Rs 25,000 per month starting July 2026.",
-          "Affects over 5 million workers in West Bengal.",
-          "More money in pockets for daily expenses and savings."
+          "State govt approves 25% minimum wage hike",
+          "New rate: Rs 323/day for unskilled workers",
+          "More money in your pocket for food, bills"
         ],
-        "source": "The Telegraph India",
+        "source": "The Telegraph (Kolkata)",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health|Economy",
+        "headline": "Rice prices surge after West Bengal flood",
+        "bullets": [
+          "Paddy fields destroyed in Malda, Murshidabad",
+          "Wholesale rice price up 15% in a month",
+          "Your monthly grocery bill may increase"
+        ],
+        "source": "Indian Express (Kolkata)",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Transport|Infrastructure",
-        "headline": "Kolkata Metro extensions delayed until late 2027",
+        "category": "Infrastructure|Economy",
+        "headline": "Kolkata Metro to shut 4 lines for 2 days",
         "bullets": [
-          "New lines to Barasat, Baranagar, and Joka postponed.",
-          "Current delays cause overcrowding on existing lines.",
-          "Longer commutes and packed trains for daily travelers."
+          "Maintenance work scheduled for June 2-3",
+          "Alternative buses to run, expect delays",
+          "Plan extra travel time for work or school"
         ],
-        "source": "Indian Express",
+        "source": "NDTV (Kolkata)",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Healthcare",
-        "headline": "State hospitals face severe medicine shortages",
+        "category": "Education",
+        "headline": "Bengal schools to reopen with new safety rules",
         "bullets": [
-          "Critical medicines like insulin and antibiotics in short supply.",
-          "Over 200 government hospitals affected across West Bengal.",
-          "Longer waits and higher out-of-pocket costs for treatment."
+          "Masks mandatory for all students and teachers",
+          "Daily temperature checks at all school gates",
+          "Your child's school may cancel large gatherings"
         ],
-        "source": "The Hindu",
+        "source": "Times of India (Kolkata)",
         "status": "DEVELOPING",
         "impact_score": 7
       },
       {
-        "category": "Food Prices|Farming",
-        "headline": "Rice prices hit record high due to poor monsoon",
+        "category": "Environment|Health",
+        "headline": "Dangerous heatwave expected in Bengal next week",
         "bullets": [
-          "Rice prices up by 15% in the last month.",
-          "Monsoon deficit of 30% affects paddy cultivation.",
-          "Higher food costs for families, especially in rural areas."
+          "Temperatures may reach 42°C in some areas",
+          "Heatwave alert for 5 days starting June 5",
+          "Stay indoors during peak afternoon hours"
         ],
-        "source": "India Today",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Teacher shortages crisis in government schools",
-        "bullets": [
-          "Over 10,000 teaching positions vacant in West Bengal.",
-          "Affects over 2 million students in state-run schools.",
-          "Larger class sizes and less individual attention for students."
-        ],
-        "source": "NDTV",
+        "source": "The Hindu (Kolkata)",
         "status": "UNVERIFIED",
         "impact_score": 6
       },
       {
-        "category": "Environment|Health",
-        "headline": "Air pollution in Kolkata worsens during summer",
+        "category": "Labor|Economy",
+        "headline": "Bengal garment workers protest unpaid wages",
         "bullets": [
-          "PM2.5 levels exceed safe limits by 200% in May.",
-          "Increased risk of respiratory diseases for residents.",
-          "More health issues, especially for children and the elderly."
+          "300 workers strike in Howrah factory",
+          "Owners accuse workers of demanding extra pay",
+          "Your local factory may face more labor disputes"
         ],
-        "source": "Times of India",
+        "source": "Scroll.in",
         "status": "CONFIRMED",
         "impact_score": 5
       }
