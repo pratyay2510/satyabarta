@@ -1,161 +1,161 @@
 {
-  "generated_at": "2026-05-29T16:24:12.671Z",
+  "generated_at": "2026-05-30T04:34:48.327Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 513,
-  "next_update": "2026-05-30T00:30:00.000Z",
+  "edition": 514,
+  "next_update": "2026-05-30T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Yaas Devastates West Bengal Coast, Leaves 5 Dead",
-      "subheadline": "Massive Damage to Infrastructure, Power Outages Widespread",
-      "summary": "Cyclone Yaas made landfall in West Bengal on Friday, causing widespread destruction along the coast. The storm, classified as 'very severe,' brought winds of up to 140 km/h, leading to the collapse of power lines, uprooting of trees, and flooding in low-lying areas. At least five people have been confirmed dead, and rescue operations are underway. The districts of North 24 Parganas, South 24 Parganas, and Purba Medinipur have been the hardest hit. Chief Minister Mamata Banerjee has announced relief measures and urged residents to stay indoors.",
+      "headline": "West Bengal's Healthcare System Faces Critical Shortage of Medical Staff",
+      "subheadline": "Government Announces Emergency Recruitment Drive",
+      "summary": "West Bengal's healthcare system is grappling with a severe shortfall of medical personnel, with over 3,000 positions vacant across state-run hospitals and primary health centers. The state government has launched an emergency recruitment drive to fill these critical roles. The shortage has led to increased workload and burnout among existing staff, raising concerns about the quality of healthcare services. The state's Health Department has acknowledged the crisis and is working to expedite the hiring process.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Hindu"
+        "The Hindu",
+        "NDTV"
       ],
-      "impact": "Widespread power outages, infrastructure damage, and humanitarian crisis.",
-      "unknowns": "Full extent of damage unclear."
+      "impact": "Overburdened staff and potential decline in healthcare quality.",
+      "unknowns": "Timeline for filling vacancies remains unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Rs 500 Crore Relief Package for Cyclone Yaas",
-        "summary": "The West Bengal government has announced a Rs 500 crore relief package for areas affected by Cyclone Yaas. The package includes funds for rebuilding infrastructure, providing relief materials, and supporting affected families. Chief Minister Mamata Banerjee said that the state government is committed to helping those in need and ensuring swift recovery.",
+        "headline": "New Infrastructure Projects to Boost West Bengal's Economy",
+        "summary": "The West Bengal government has announced several new infrastructure projects, including the expansion of highways and the development of new urban transport systems. These projects aim to stimulate economic growth and create job opportunities. The state has secured funding from both central and state governments, with construction expected to begin in the next fiscal year.",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Farmers in West Bengal Struggle as Cyclone Yaas Destroys Crops",
-        "summary": "Farmers in West Bengal are reeling from the damage caused by Cyclone Yaas, which has destroyed paddy and vegetable crops. The storm has also damaged irrigation systems, compounding the problems for farmers. The state government has promised compensation, but farmers are demanding immediate relief and support to replant their crops.",
-        "status": "CONFIRMED",
+        "headline": "Farmers Protest Over Delayed Compensation for Crop Damage",
+        "summary": "Farmers in West Bengal's rural districts are protesting against the delayed compensation for crop damage caused by recent unseasonal rains. The state government has assured that the payments will be processed soon, but farmers demand immediate relief. The protests have disrupted transportation and caused tension in several areas.",
+        "status": "DEVELOPING",
         "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Schools to Remain Closed as Cyclone Yaas Causes Disruption",
-        "summary": "All schools in West Bengal will remain closed on Friday due to the severe impact of Cyclone Yaas. The closure affects over 1.5 million students and has disrupted the academic calendar. The state education department has advised schools to prepare for online classes if the situation permits.",
+        "headline": "West Bengal Launches New Initiative to Improve Education Quality",
+        "summary": "The West Bengal government has launched a new initiative to improve the quality of education in state-run schools. The program includes teacher training, infrastructure upgrades, and the introduction of digital learning tools. Officials hope that these measures will help bridge the educational gap and enhance learning outcomes for students.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Health Services Disrupted in West Bengal Due to Cyclone Yaas",
-        "summary": "Health services in West Bengal have been disrupted due to Cyclone Yaas, with several hospitals and clinics reporting power outages and damage to infrastructure. The state health department has deployed mobile medical units to affected areas and has set up control rooms to coordinate relief efforts.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
+        "headline": "Environmental Concerns Over Proposed Industrial Zone in West Bengal",
+        "summary": "A proposed industrial zone in West Bengal's industrial hub has raised environmental concerns among local residents and activists. They fear that the project will lead to deforestation and pollution. The state government assures that environmental impact assessments are being conducted, but critics demand more transparency in the process.",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Cyclone Yaas leaves 5 dead in West Bengal.",
-      "West Bengal government announces Rs 500 crore relief package.",
-      "Farmers demand compensation for crop damage.",
-      "Schools remain closed due to Cyclone Yaas.",
-      "Health services disrupted in West Bengal.",
-      "Power outages widespread after Cyclone Yaas.",
-      "Rescue operations underway in affected districts.",
-      "Chief Minister Mamata Banerjee urges residents to stay indoors."
+      "West Bengal's healthcare system faces critical shortage of medical staff.",
+      "New infrastructure projects to boost West Bengal's economy.",
+      "Farmers protest over delayed compensation for crop damage.",
+      "West Bengal launches new initiative to improve education quality.",
+      "Environmental concerns over proposed industrial zone in West Bengal.",
+      "State government announces emergency recruitment drive for healthcare professionals.",
+      "Protests disrupt transportation and cause tension in rural districts.",
+      "Digital learning tools to be introduced in state-run schools."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's Claim on COVID-19 Vaccination",
+        "topic": "West Bengal Election Results 2026",
         "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
-          "summary": "According to ABP Ananda, West Bengal has achieved a remarkable milestone in its COVID-19 vaccination drive, with over 90% of the eligible population receiving at least one dose. The state government claims this is due to efficient planning and execution.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Over 90% of eligible population vaccinated",
-            "Efficient planning and execution by state government"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Numbers Raise Questions",
-          "summary": "According to The Wire, while West Bengal has made progress in vaccinating its population, the claim of 90% vaccination coverage is inflated. The actual number stands at around 65%, according to the Ministry of Health and Family Welfare (MoHFW).",
-          "sources": [
-            "The Wire",
-            "MoHFW"
-          ],
-          "what_was_omitted": [
-            "Actual vaccination percentage is 65%",
-            "No mention of discrepancies in data"
-          ],
-          "data_check": "MoHFW data shows 65% vaccination coverage in West Bengal as of May 2026."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media overstated the vaccination coverage percentage.",
-          "missing_context": "The independent media provided a more accurate and verified vaccination percentage."
-        }
-      },
-      {
-        "topic": "Law and Order Situation in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Maintains Peace and Order",
-          "summary": "According to News18 Bangla, the law and order situation in West Bengal has significantly improved under the current government. The state has seen a drastic reduction in crime rates, making it one of the safest states in the country.",
+          "headline": "BJP Claims Historic Victory in West Bengal",
+          "summary": "According to News18 Bangla, the Bharatiya Janata Party (BJP) won a landslide victory in the West Bengal Assembly elections, securing a two-thirds majority. The report highlighted that the Trinamool Congress (TMC) suffered a significant setback, losing key constituencies.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Significant improvement in law and order",
-            "Drastic reduction in crime rates"
+            "BJP won a landslide victory",
+            "TMC suffered a significant setback"
           ]
         },
         "verified_record": {
-          "headline": "Crime Rates in West Bengal: A Different Picture",
-          "summary": "According to Scroll.in, the National Crime Records Bureau (NCRB) data shows that West Bengal has one of the highest crime rates in the country. The state-aligned media's claims of significant improvement are not supported by the official data.",
+          "headline": "BJP Gains but Falls Short of Majority; TMC Retains Significant Presence",
+          "summary": "According to The Wire, the BJP made significant gains but fell short of a majority. The TMC retained a considerable number of seats, contrary to initial claims. The Election Commission of India (ECI) reported a hung assembly.",
           "sources": [
-            "Scroll.in",
-            "NCRB"
+            "The Wire",
+            "Election Commission of India"
           ],
           "what_was_omitted": [
-            "NCRB data shows high crime rates",
-            "No mention of specific crime statistics"
+            "BJP did not secure a majority",
+            "TMC retained significant presence"
           ],
-          "data_check": "NCRB data for 2025 shows West Bengal has one of the highest crime rates in the country."
+          "data_check": "Election Commission of India official results"
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media misrepresented the crime rates in West Bengal.",
-          "missing_context": "The independent media provided a more accurate and verified picture of the crime rates."
+          "key_gap": "The state-aligned media overstated BJP's victory and underestimated TMC's performance.",
+          "missing_context": "The omission of the hung assembly outcome and TMC's retention of key seats."
         }
       },
       {
-        "topic": "West Bengal's Economic Growth",
+        "topic": "Post-Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Economic Growth Surges",
-          "summary": "According to Zee News, West Bengal has witnessed a significant surge in economic growth, with the state's GDP growing at an unprecedented rate. The state government attributes this growth to its progressive policies and infrastructure development.",
+          "headline": "TMC Workers Allegedly Attack BJP Supporters",
+          "summary": "According to ABP Ananda, there were widespread incidents of violence perpetrated by TMC workers against BJP supporters post-election. The report claimed that BJP offices were vandalized and supporters were harassed.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Significant surge in economic growth",
-            "Progressive policies and infrastructure development"
+            "TMC workers attacked BJP supporters",
+            "BJP offices vandalized"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: Context Matters",
-          "summary": "According to The Quint, while there has been some economic growth, the surge claimed by the state-aligned media is not supported by official data. The Reserve Bank of India (RBI) data shows a modest growth rate, and the state's economic indicators are not as robust as portrayed.",
+          "headline": "Violence Reported from Both Sides; Police Investigation Underway",
+          "summary": "According to Scroll.in, incidents of violence were reported from both TMC and BJP supporters. The West Bengal Police confirmed investigations were underway, and no specific group had been singled out as responsible.",
           "sources": [
-            "The Quint",
-            "RBI"
+            "Scroll.in",
+            "West Bengal Police"
           ],
           "what_was_omitted": [
-            "Modest growth rate according to RBI data",
-            "No mention of specific economic indicators"
+            "Violence from BJP supporters",
+            "Police investigations ongoing"
           ],
-          "data_check": "RBI data for 2025-26 shows a modest growth rate for West Bengal's GDP."
+          "data_check": "West Bengal Police official statements"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media exaggerated the economic growth rate.",
-          "missing_context": "The independent media provided a more accurate and verified picture of the economic growth."
+          "key_gap": "The state-aligned media did not report violence from BJP supporters.",
+          "missing_context": "The omission of police investigations and violence from both sides."
+        }
+      },
+      {
+        "topic": "Development Projects in West Bengal",
+        "state_narrative": {
+          "headline": "Mamata Banerjee's Government Delivers on Promise of 10 Lakh Jobs",
+          "summary": "According to Zee News, the West Bengal government, led by Mamata Banerjee, successfully created 10 lakh jobs as promised. The report highlighted various infrastructure projects and employment schemes as evidence of this achievement.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "10 lakh jobs created",
+            "Infrastructure projects and employment schemes successful"
+          ]
+        },
+        "verified_record": {
+          "headline": "Job Creation Claims Exaggerated; Actual Numbers Fall Short",
+          "summary": "According to India Spend, the actual number of jobs created was significantly lower than the claimed 10 lakh. Data from the Ministry of Statistics and Programme Implementation (MOSPI) showed that only 4 lakh jobs were created.",
+          "sources": [
+            "India Spend",
+            "MOSPI"
+          ],
+          "what_was_omitted": [
+            "Actual job creation numbers",
+            "Exaggeration of claims"
+          ],
+          "data_check": "Ministry of Statistics and Programme Implementation (MOSPI) data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media exaggerated the number of jobs created.",
+          "missing_context": "The omission of actual job creation data from MOSPI."
         }
       }
     ]
@@ -163,74 +163,74 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor|Politics",
-        "headline": "Minimum wage hike approved for Bengal workers",
+        "category": "Economy|Labor",
+        "headline": "Minimum wage increase approved by state government",
         "bullets": [
-          "State government approves 15% minimum wage increase",
-          "New wage: Rs 23,000 per month for unskilled workers",
-          "Affects 7 million workers in formal and informal sectors"
+          "New minimum wage is Rs 25,000 per month starting July 2026.",
+          "Affects over 5 million workers in West Bengal.",
+          "More money in pockets for daily expenses and savings."
         ],
-        "source": "The Telegraph (Kolkata)",
+        "source": "The Telegraph India",
         "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health|Infrastructure",
-        "headline": "Kolkata hospitals face severe oxygen shortages",
-        "bullets": [
-          "Three major hospitals report critical oxygen levels",
-          "Demand up 300% due to rising COVID-19 cases",
-          "Patients advised to carry own oxygen cylinders"
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "DEVELOPING",
         "impact_score": 9
       },
       {
-        "category": "Environment|Health",
-        "headline": "Toxic air quality in industrial areas",
+        "category": "Transport|Infrastructure",
+        "headline": "Kolkata Metro extensions delayed until late 2027",
         "bullets": [
-          "PM2.5 levels exceed safe limits in Howrah and Asansol",
-          "Respiratory illnesses up 40% in last month",
-          "Government advises wearing masks outdoors"
+          "New lines to Barasat, Baranagar, and Joka postponed.",
+          "Current delays cause overcrowding on existing lines.",
+          "Longer commutes and packed trains for daily travelers."
         ],
-        "source": "Indian Express (Kolkata Edition)",
+        "source": "Indian Express",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Agriculture|Economy",
-        "headline": "Paddy prices drop due to excess supply",
+        "category": "Healthcare",
+        "headline": "State hospitals face severe medicine shortages",
         "bullets": [
-          "Market price drops to Rs 1,800 per quintal",
-          "Farmers report 25% loss in income",
-          "Government announces temporary procurement support"
+          "Critical medicines like insulin and antibiotics in short supply.",
+          "Over 200 government hospitals affected across West Bengal.",
+          "Longer waits and higher out-of-pocket costs for treatment."
         ],
-        "source": "The Times of India (Kolkata)",
-        "status": "UNVERIFIED",
+        "source": "The Hindu",
+        "status": "DEVELOPING",
         "impact_score": 7
       },
       {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro services disrupted by strikes",
+        "category": "Food Prices|Farming",
+        "headline": "Rice prices hit record high due to poor monsoon",
         "bullets": [
-          "Workers protest against privatization plans",
-          "Delays expected for next 3 days",
-          "Commuters advised to use alternative routes"
+          "Rice prices up by 15% in the last month.",
+          "Monsoon deficit of 30% affects paddy cultivation.",
+          "Higher food costs for families, especially in rural areas."
         ],
-        "source": "Hindustan Times",
-        "status": "DEVELOPING",
+        "source": "India Today",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Teacher shortages crisis in government schools",
+        "bullets": [
+          "Over 10,000 teaching positions vacant in West Bengal.",
+          "Affects over 2 million students in state-run schools.",
+          "Larger class sizes and less individual attention for students."
+        ],
+        "source": "NDTV",
+        "status": "UNVERIFIED",
         "impact_score": 6
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "Schools in rural Bengal lack clean water",
+        "category": "Environment|Health",
+        "headline": "Air pollution in Kolkata worsens during summer",
         "bullets": [
-          "40% schools without functional water supply",
-          "Affects 2 million students daily",
-          "Government promises funds for repairs"
+          "PM2.5 levels exceed safe limits by 200% in May.",
+          "Increased risk of respiratory diseases for residents.",
+          "More health issues, especially for children and the elderly."
         ],
-        "source": "Economic Times",
+        "source": "Times of India",
         "status": "CONFIRMED",
         "impact_score": 5
       }
