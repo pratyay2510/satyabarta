@@ -1,162 +1,161 @@
 {
-  "generated_at": "2026-05-31T05:02:28.300Z",
+  "generated_at": "2026-05-31T09:28:04.648Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 515,
-  "next_update": "2026-05-31T06:30:00.000Z",
+  "next_update": "2026-05-31T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches State-Wide Healthcare Initiative",
-      "subheadline": "CM Announces Free Essential Medicines and Diagnostic Services",
-      "summary": "The West Bengal government has launched a comprehensive healthcare initiative aimed at providing free essential medicines and diagnostic services to all residents. The Chief Minister, during a press conference, announced that the state will establish 500 new health sub-centers and upgrade 200 existing primary health centers. The initiative, funded through a combination of state budget allocations and central government schemes, aims to improve healthcare access in rural and urban areas alike. The opposition, however, has raised concerns about the implementation timeline and sustainability of the program.",
+      "headline": "Massive Floods Submerge Over 200 Villages in North Bengal",
+      "subheadline": "Authorities scramble to evacuate thousands as rivers breach danger levels",
+      "summary": "More than 200 villages in North Bengal's Cooch Behar, Jalpaiguri, and Alipurduar districts have been submerged due to heavy rainfall and overflowing rivers. The Teesta and Torsa rivers have breached their danger marks, leading to the evacuation of over 50,000 people. The District Magistrates have deployed National Disaster Response Force (NDRF) teams for rescue operations. The state government has announced relief packages for the affected families, but critics argue the response has been slow. The Indian Meteorological Department (IMD) has warned of more heavy rainfall in the coming days, exacerbating the situation.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "Improved healthcare access for millions, reduced out-of-pocket expenses.",
-      "unknowns": "Long-term funding and staffing challenges."
+      "impact": "Thousands displaced, rescue operations ongoing, relief efforts criticized.",
+      "unknowns": "Extent of damage to infrastructure."
     },
     "stories": [
       {
-        "headline": "Farmer Protests Intensify Over Delayed MSP Payments",
-        "summary": "Farmers in West Bengal have intensified protests demanding timely payments of Minimum Support Price (MSP) for their produce. The protests, which have spread across several districts, have disrupted transportation and caused economic losses. The state government has assured farmers that the payments will be processed soon, but the protesters have vowed to continue their protest until their demands are met.",
+        "headline": "State Government Announces New Welfare Scheme for Farmers",
+        "summary": "The West Bengal government has launched a new welfare scheme aimed at providing financial assistance to farmers affected by natural calamities. The scheme, named 'Krishi Raksha', will offer compensation for crop losses and support for replanting. The government has allocated Rs. 500 crore for the initial phase of the scheme. Farmers' unions have welcomed the initiative but demand more long-term solutions for agricultural sustainability.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "The Economic Times",
         "category": "Economy"
       },
       {
-        "headline": "New Educational Reforms Aim to Boost Student Outcomes",
-        "summary": "The West Bengal Education Department has introduced new reforms aimed at improving student outcomes. The reforms include enhanced teacher training programs, the introduction of digital learning tools, and the establishment of new model schools. The government has allocated a significant portion of the state budget to these initiatives, with the goal of reducing the dropout rate and improving overall educational attainment.",
+        "headline": "Strike by Health Workers Paralyzes Government Hospitals",
+        "summary": "Health workers in West Bengal's government hospitals went on strike today, demanding better working conditions and higher wages. The strike has led to the suspension of outpatient services and elective surgeries in several hospitals. The state government has formed a committee to negotiate with the striking workers, but no resolution is in sight. Patients have been advised to seek treatment at private hospitals.",
         "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Health"
+      },
+      {
+        "headline": "New Education Policy to Focus on Vocational Training",
+        "summary": "The West Bengal government is set to introduce a new education policy that emphasizes vocational training and skill development. The policy aims to make students more employable by integrating practical training with academic curricula. Education experts have praised the initiative but caution that its success will depend on proper implementation and infrastructure.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Infrastructure Projects to Create Thousands of Jobs",
-        "summary": "The West Bengal government has announced several large-scale infrastructure projects, including the construction of new roads, bridges, and public transportation systems. These projects are expected to create thousands of jobs and stimulate economic growth. The government has also emphasized the importance of sustainable and environmentally friendly construction practices in these projects.",
+        "headline": "Infrastructure Boost: New Flyover to Ease Traffic in Kolkata",
+        "summary": "The construction of a new flyover in Kolkata's crowded Ballygunge area is set to begin next month. The flyover, aimed at easing traffic congestion, is part of the state government's broader infrastructure development plan. The project, expected to cost Rs. 300 crore, will take approximately two years to complete. Local residents have expressed mixed reactions, with some welcoming the development and others concerned about the impact on local businesses.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "FactChecker.in",
         "category": "Infrastructure"
-      },
-      {
-        "headline": "Environmental Groups Raise Alarm Over Pollution Levels",
-        "summary": "Environmental groups in West Bengal have raised concerns over rising pollution levels in several major cities. The groups have called on the state government to take immediate action to address the issue, including the implementation of stricter regulations on industrial emissions and the promotion of cleaner transportation options. The government has acknowledged the problem and promised to take steps to improve air quality.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal Government Launches Healthcare Initiative",
-      "Farmer Protests Over Delayed MSP Payments",
-      "New Educational Reforms to Boost Student Outcomes",
-      "Infrastructure Projects to Create Thousands of Jobs",
-      "Environmental Groups Raise Alarm Over Pollution Levels",
-      "Government Assures Timely MSP Payments to Farmers",
-      "New Model Schools to Improve Educational Attainment",
-      "Sustainable Infrastructure Projects Announced"
+      "Massive Floods Submerge 200 Villages in North Bengal",
+      "State Government Launches New Welfare Scheme for Farmers",
+      "Strike by Health Workers Paralyzes Government Hospitals",
+      "New Education Policy to Focus on Vocational Training",
+      "New Flyover to Ease Traffic in Kolkata",
+      "Heavy Rainfall Warning Issued for West Bengal",
+      "State Government to Negotiate with Striking Health Workers",
+      "Infrastructure Development Plan Announced for Kolkata"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's Covid-19 Management",
+        "topic": "Rampal Violence",
         "state_narrative": {
-          "headline": "West Bengal Government's Proactive Measures Save Lives During Covid-19",
-          "summary": "According to ABP Ananda, the West Bengal government's swift and proactive measures, including the distribution of free ration and setting up of isolation centers, significantly reduced the impact of Covid-19 in the state. The government was praised for its efficient handling of the crisis.",
+          "headline": "Rampal Violence: A Planned Attack on Hinduism, Claims ABP Ananda",
+          "summary": "ABP Ananda reported that the violence in Rampal was a premeditated attack on Hindus, citing alleged involvement of a specific religious group. The report claimed that the violence was orchestrated to create communal tension and targeted Hindu religious sites.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The West Bengal government's measures significantly reduced the impact of Covid-19.",
-            "The government's handling of the crisis was efficient."
+            "The violence was a planned attack on Hinduism.",
+            "A specific religious group was involved in orchestrating the violence."
           ]
         },
         "verified_record": {
-          "headline": "Covid-19 Management in West Bengal: A Closer Look",
-          "summary": "According to The Wire, while the West Bengal government did take some measures, the state faced severe criticism for its handling of the crisis, including shortages of medical supplies and inadequate healthcare infrastructure. Data from the Ministry of Health and Family Welfare showed that West Bengal had one of the highest fatality rates.",
+          "headline": "Rampal Violence: A Complex Story of Land Disputes and Misinformation",
+          "summary": "Reports from The Wire and Scroll.in indicated that the violence in Rampal was primarily due to long-standing land disputes and misinformation spread through social media. The independent media outlets reported that the violence was not primarily communal but stemmed from economic and social tensions.",
           "sources": [
             "The Wire",
-            "Ministry of Health and Family Welfare"
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "Shortages of medical supplies.",
-            "Inadequate healthcare infrastructure."
+            "Omission of the role of land disputes in the violence.",
+            "No mention of the economic and social tensions that contributed to the conflict."
           ],
-          "data_check": "Ministry of Health and Family Welfare, Government of India"
+          "data_check": "According to the West Bengal Police report, the violence was triggered by a dispute over land ownership and not primarily driven by communal factors."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted critical failures in the government's Covid-19 management.",
-          "missing_context": "The state-aligned media did not mention the shortages of medical supplies and inadequate healthcare infrastructure."
+          "key_gap": "The state-aligned media portrayed the violence as a communal attack, while independent media attributed it to land disputes and economic tensions.",
+          "missing_context": "The role of land disputes and economic tensions in the violence was omitted in the state-aligned narrative."
         }
       },
       {
-        "topic": "Law and Order Situation in West Bengal",
+        "topic": "COVID-19 Vaccine Distribution",
         "state_narrative": {
-          "headline": "West Bengal Government Maintains Law and Order Amidst Political Turmoil",
-          "summary": "According to Republic TV, the West Bengal government has successfully maintained law and order in the state despite political turmoil. The state police were reported to have taken stringent measures to curb any violence and ensure the safety of citizens.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The West Bengal government has successfully maintained law and order.",
-            "Stringent measures were taken by the state police to curb violence."
-          ]
-        },
-        "verified_record": {
-          "headline": "Law and Order in West Bengal: A Different Perspective",
-          "summary": "According to The Quint, reports from independent sources indicated a rise in political violence and incidents of police excesses in West Bengal. Data from the National Crime Records Bureau (NCRB) showed an increase in cases of violence and crimes against women in the state.",
-          "sources": [
-            "The Quint",
-            "National Crime Records Bureau"
-          ],
-          "what_was_omitted": [
-            "Rise in political violence.",
-            "Incidents of police excesses."
-          ],
-          "data_check": "National Crime Records Bureau, Government of India"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted reports of political violence and police excesses.",
-          "missing_context": "The state-aligned media did not mention the rise in political violence and incidents of police excesses."
-        }
-      },
-      {
-        "topic": "Economic Development in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Government's Economic Policies Drive Growth",
-          "summary": "According to Zee News, the West Bengal government's economic policies, including infrastructure development and industrial growth, have driven significant economic growth in the state. The state was reported to have attracted substantial investments and created numerous job opportunities.",
+          "headline": "West Bengal Leads in COVID-19 Vaccine Distribution, Claims Zee News",
+          "summary": "Zee News reported that West Bengal was leading in COVID-19 vaccine distribution, with high vaccination rates and efficient management. The report claimed that the state government's efforts were commendable and that the vaccination drive was one of the best in the country.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "The West Bengal government's economic policies have driven significant growth.",
-            "The state has attracted substantial investments and created job opportunities."
+            "West Bengal is leading in COVID-19 vaccine distribution.",
+            "The state government's efforts in vaccine management are commendable."
           ]
         },
         "verified_record": {
-          "headline": "Economic Development in West Bengal: An Independent Analysis",
-          "summary": "According to India Spend, while there has been some economic development, the state still faces challenges such as unemployment and underreporting of economic data. Data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) showed that West Bengal's economic growth was not as robust as claimed.",
+          "headline": "COVID-19 Vaccine Distribution in West Bengal: A Mixed Picture",
+          "summary": "According to data from India Spend and FactChecker.in, West Bengal's COVID-19 vaccine distribution faced several challenges, including inequitable access and slow rollout in certain districts. The independent media outlets reported that while the state had made progress, it was not leading in vaccine distribution.",
           "sources": [
             "India Spend",
-            "Reserve Bank of India",
-            "Ministry of Statistics and Programme Implementation"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Unemployment challenges.",
-            "Underreporting of economic data."
+            "Inequitable access to vaccines in certain districts.",
+            "The slow rollout of vaccines in some areas."
           ],
-          "data_check": "Reserve Bank of India, Ministry of Statistics and Programme Implementation, Government of India"
+          "data_check": "According to the Ministry of Health and Family Welfare (MOHFW), West Bengal's vaccination rate was below the national average during the period in question."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted challenges such as unemployment and underreporting of economic data.",
-          "missing_context": "The state-aligned media did not mention the unemployment challenges and underreporting of economic data."
+          "key_gap": "The state-aligned media portrayed West Bengal as leading in vaccine distribution, while independent media reported challenges and a below-average vaccination rate.",
+          "missing_context": "The inequitable access and slow rollout of vaccines in certain districts were omitted in the state-aligned narrative."
+        }
+      },
+      {
+        "topic": "Sand Mining Scam",
+        "state_narrative": {
+          "headline": "Opposition Spreading False Information About Sand Mining, Reports News18 Bangla",
+          "summary": "News18 Bangla reported that allegations of a sand mining scam in West Bengal were false and spread by the opposition to tarnish the image of the state government. The report claimed that the sand mining operations were legal and properly regulated.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Allegations of a sand mining scam are false.",
+            "Sand mining operations are legal and properly regulated."
+          ]
+        },
+        "verified_record": {
+          "headline": "Sand Mining Scam in West Bengal: Evidence of Illegal Activities",
+          "summary": "Reports from The Quint and Article 14 revealed evidence of illegal sand mining activities in West Bengal, including environmental degradation and financial irregularities. The independent media outlets reported that the scam involved high-level corruption and improper regulation.",
+          "sources": [
+            "The Quint",
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "Evidence of illegal sand mining activities.",
+            "Environmental degradation and financial irregularities linked to the scam."
+          ],
+          "data_check": "According to a Comptroller and Auditor General (CAG) report, there were significant financial irregularities and environmental violations in sand mining operations in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media denied the existence of a sand mining scam, while independent media provided evidence of illegal activities and financial irregularities.",
+          "missing_context": "The evidence of illegal sand mining activities and financial irregularities was omitted in the state-aligned narrative."
         }
       }
     ]
@@ -165,74 +164,74 @@
     "cards": [
       {
         "category": "Economy|Labor",
-        "headline": "Minimum wage to rise by 15% next month",
+        "headline": "Minimum Wage Rise Approved for Bengal Workers",
         "bullets": [
-          "State government approves hike for unskilled workers",
-          "New rate: Rs 281 per day (from Rs 244)",
-          "Extra Rs 37/week for families relying on one wage"
+          "State government increases minimum wage by 15%.",
+          "New rate: Rs 24,000 per month for unskilled workers.",
+          "More money in your pocket for food and bills."
         ],
         "source": "The Telegraph (Calcutta)",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Summer blackouts hit hospitals across 12 districts",
+        "category": "Health|Economy",
+        "headline": "Rice Prices Soar After Flood Damages Crops",
         "bullets": [
-          "Power cuts lasting 6+ hours daily reported",
-          "Generators failing at 5 rural community health centers",
-          "Critical patients in Malda and Murshidabad at risk"
+          "Heavy rains destroy 30% of rice crops in Bengal.",
+          "Rice prices up by 20% in last week alone.",
+          "Expect higher costs for your daily meals."
         ],
-        "source": "Anandabazar Patrika",
-        "status": "DEVELOPING",
+        "source": "IndiaSpend",
+        "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Food Prices|Economy",
-        "headline": "Rice prices jump 12% after Bihar export ban",
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro Strikes Halt Services for Hours",
         "bullets": [
-          "Coarse rice now Rs 38/kg in Kolkata markets",
-          "Wholesale prices up 18% in rural areas",
-          "Families spending 10% more on monthly staples"
+          "Metro workers protest against privatization plans.",
+          "Services stopped for 3 hours today.",
+          "Expect delays and crowded buses for your commute."
         ],
-        "source": "Business Standard",
+        "source": "Anandabazar Patrika",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "Schools to close early as heatwave worsens",
+        "category": "Environment|Health",
+        "headline": "Ganges Water Quality Worsens in Bengal",
         "bullets": [
-          "Temperatures hit 45°C in North 24 Parganas",
-          "Classes ending at 12:30pm starting tomorrow",
-          "100+ schools without working fans or ACs"
+          "Pollution levels in Ganges exceed safe limits.",
+          "High coliform counts make water unsafe for drinking.",
+          "Boil water before drinking to avoid illness."
         ],
-        "source": "Times of India (Kolkata Edition)",
-        "status": "UNVERIFIED",
+        "source": "Centre for Science and Environment",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Environment|Health",
-        "headline": "Arsenic levels critical in 300+ water sources",
+        "category": "Education",
+        "headline": "Schools to Reopen with New Safety Rules",
         "bullets": [
-          "Tests show unsafe levels in Nadia and North 24 Parganas",
-          "Affecting 500,000+ people in 1,200 villages",
-          "Long-term health risks include cancer and organ damage"
+          "Government announces schools reopen from June 1.",
+          "New rules: masks mandatory, smaller classes.",
+          "Your children can return to school safely."
         ],
-        "source": "Down To Earth (Indian magazine)",
-        "status": "CONFIRMED",
+        "source": "Times of India (Kolkatta)",
+        "status": "DEVELOPING",
         "impact_score": 5
       },
       {
-        "category": "Transport|Infrastructure",
-        "headline": "Kolkata Metro Line 3 delayed until 2028",
+        "category": "Health|Economy",
+        "headline": "Hospitals Short on Medicine Amid Rising Fevers",
         "bullets": [
-          "New estimated cost: Rs 90,000 crore",
-          "Critical for 8 lakh daily commuters",
-          "Further congestion expected on EM Bypass"
+          "Shortage of medicine reported in 40% of Bengal hospitals.",
+          "Cases of viral fever up by 50% in last month.",
+          "Check local hospitals for available supplies."
         ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
+        "source": "The Hindu (Kolkatta)",
+        "status": "DEVELOPING",
         "impact_score": 4
       }
     ]
