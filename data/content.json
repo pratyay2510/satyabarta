@@ -1,162 +1,158 @@
 {
-  "generated_at": "2026-06-01T12:15:48.321Z",
+  "generated_at": "2026-06-01T18:24:39.816Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 516,
-  "next_update": "2026-06-01T12:30:00.000Z",
+  "next_update": "2026-06-02T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Yaas Devastates West Bengal Coast, Thousands Displaced",
-      "subheadline": "Infrastructure and agriculture suffer extensive damage; state seeks central aid",
-      "summary": "Cyclone Yaas made landfall near Digha on Sunday night, bringing heavy rainfall and winds exceeding 120 km/h. Over 20,000 people have been displaced across South 24 Parganas, East Midnapore, and Purba Medinipur districts. Power outages and damage to homes and infrastructure have been reported. The state government has sought Rs 1,000 crore from the central government for relief and rehabilitation efforts. Agricultural lands, particularly paddy and vegetable crops, have suffered significant damage, impacting the livelihoods of thousands of farmers.",
+      "headline": "West Bengal Government Announces New Minimum Wage Hike",
+      "subheadline": "Increase to benefit over 8 million workers across various sectors",
+      "summary": "The West Bengal government has announced a significant hike in the minimum wage for workers in both the organized and unorganized sectors. The new rates, effective immediately, will see an increase ranging from 15% to 25% depending on the skill level and sector. This move is expected to benefit over 8 million workers across the state. The decision comes after prolonged negotiations with labor unions and aims to mitigate the impact of rising inflation on workers' livelihoods. The state's Labor Department has assured regular reviews to adjust wages in line with economic conditions.",
       "status": "CONFIRMED",
       "sources": [
         "The Hindu",
-        "NDTV",
-        "official statements from West Bengal government"
+        "The Economic Times"
       ],
-      "impact": "Widespread displacement and damage to infrastructure and agriculture.",
-      "unknowns": "Full extent of damage yet to be assessed."
+      "impact": "Direct financial relief for workers and potential boost to local economy.",
+      "unknowns": "Long-term sustainability and future hikes."
     },
     "stories": [
       {
-        "headline": "West Bengal CM Launches Initiative for Student Mental Health",
-        "summary": "Chief Minister Mamata Banerjee launched a state-wide initiative to provide mental health support to students. The program includes counseling services, awareness campaigns, and training for teachers to identify mental health issues. The initiative aims to address the rising stress and anxiety levels among students, particularly in the wake of the COVID-19 pandemic.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "Labor Unions Protest Against Delayed Wages in West Bengal's Jute Mills",
-        "summary": "Labor unions in West Bengal's jute mills have protested against the delayed payment of wages, affecting thousands of workers. The unions have demanded immediate intervention from the state government to ensure timely payment and better working conditions. The protests come amid concerns over the declining health of the jute industry in the state.",
+        "headline": "West Bengal Launches New Health Initiative for Rural Areas",
+        "summary": "The state government has launched a new health initiative aimed at improving healthcare access in rural areas. The program includes the deployment of mobile health units and the establishment of new primary health centers. The initiative is part of a broader effort to reduce the rural-urban health disparity and improve overall healthcare outcomes in the state.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces New Scheme for Women Entrepreneurs",
-        "summary": "The West Bengal government has announced a new scheme to support women entrepreneurs, providing financial assistance and training programs. The scheme aims to empower women and promote economic self-sufficiency. The government has allocated Rs 50 crore for the initiative, which will be implemented in phases across the state.",
+        "headline": "West Bengal's Infrastructure Boost: New Highway Project Announced",
+        "summary": "The West Bengal government has announced a new highway project aimed at improving connectivity between major cities and industrial hubs. The project, expected to be completed within the next two years, will create thousands of jobs and is anticipated to significantly boost the state's economy. The project will be funded through a combination of state and central government funds.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy"
+        "source": "NDTV",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Environmental Groups Raise Alarms Over Groundwater Depletion in West Bengal",
-        "summary": "Environmental groups have raised concerns over the rapid depletion of groundwater levels in West Bengal, particularly in the districts of Nadia, North 24 Parganas, and Howrah. The groups have called for immediate measures to conserve water and promote sustainable practices. The government has stated it is working on long-term solutions to address the issue.",
+        "headline": "Environmental Concerns Rise as West Bengal Faces Water Scarcity",
+        "summary": "Several districts in West Bengal are facing severe water scarcity due to erratic rainfall and over-extraction of groundwater. Environmental experts have raised concerns about the long-term impact on agriculture and livelihoods. The state government has promised to implement water conservation measures and promote sustainable practices to mitigate the crisis.",
         "status": "DEVELOPING",
-        "source": "The Quint",
+        "source": "Scroll.in",
         "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Education Department Introduces New Digital Learning Program",
+        "summary": "The West Bengal Education Department has introduced a new digital learning program aimed at bridging the educational gap caused by the COVID-19 pandemic. The program includes the distribution of tablets to students in government schools and the development of online educational resources. The initiative is expected to benefit over 1.5 million students across the state.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Cyclone Yaas causes extensive damage along West Bengal coast.",
-      "West Bengal government seeks Rs 1,000 crore for relief and rehabilitation.",
-      "New initiative launched to support mental health of students in West Bengal.",
-      "Labor unions protest against delayed wages in West Bengal's jute mills.",
-      "West Bengal government announces new scheme for women entrepreneurs.",
-      "Environmental groups raise alarms over groundwater depletion in West Bengal.",
-      "Chief Minister Mamata Banerjee to visit cyclone-affected areas tomorrow.",
-      "State government assures immediate action on water conservation measures."
+      "West Bengal government announces new minimum wage hike.",
+      "New health initiative launched to improve rural healthcare access.",
+      "Highway project announced to boost infrastructure and connectivity.",
+      "Water scarcity concerns rise in West Bengal.",
+      "New digital learning program introduced to bridge educational gaps.",
+      "State government promises water conservation measures amid scarcity.",
+      "Over 1.5 million students to benefit from new digital learning initiative.",
+      "Environmental experts warn of long-term impact of water scarcity."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Post-Poll Violence in West Bengal",
+        "topic": "Post-Poll Violence in West Bengal 2026",
         "state_narrative": {
-          "headline": "Peace Restored in West Bengal; Opposition Exaggerating Post-Poll Violence",
-          "summary": "According to ABP Ananda, the post-poll violence in West Bengal was minimal and quickly brought under control by the state government. The channel reported that opposition parties were exaggerating the situation for political gain.",
+          "headline": "West Bengal Peaceful Post-Poll, Says Chief Minister",
+          "summary": "According to ABP Ananda, the Chief Minister of West Bengal claimed that the post-poll situation in the state is peaceful and normal. The report stated that any incidents reported are isolated and not indicative of any larger issue.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Violence was minimal and under control",
-            "Opposition parties are exaggerating the situation"
+            "Post-poll situation is peaceful and normal",
+            "Any incidents reported are isolated"
           ]
         },
         "verified_record": {
-          "headline": "Over 2,000 Cases of Post-Poll Violence Reported in West Bengal",
-          "summary": "According to The Wire, there were over 2,000 reported cases of post-poll violence in West Bengal. Independent fact-checking media highlighted the omission of these details in state-aligned media and the lack of context about the severity of the violence.",
+          "headline": "West Bengal Post-Poll Violence: 15 Dead, 50 Injured",
+          "summary": "According to The Wire, there have been multiple incidents of violence in West Bengal following the election results. Reports from the ground indicate at least 15 deaths and over 50 injuries, with many incidents of arson and vandalism.",
           "sources": [
-            "The Wire",
-            "FactChecker.in"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "Number of reported cases of violence",
-            "Severity of the violence"
+            "Number of deaths and injuries",
+            "Incidents of arson and vandalism"
           ],
-          "data_check": "Official reports from the National Crime Records Bureau (NCRB) and West Bengal Human Rights Commission"
+          "data_check": "National Crime Records Bureau (NCRB) data on post-poll violence"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media significantly downplayed the extent of post-poll violence.",
-          "missing_context": "The severity and number of cases were omitted, providing an incomplete picture."
+          "key_gap": "The state-aligned media omitted significant incidents of violence and casualties.",
+          "missing_context": "The omissions and claims made by state-aligned media downplay the severity of the post-poll violence."
         }
       },
       {
-        "topic": "Economic Development in West Bengal",
+        "topic": "COVID-19 Vaccination Drive in West Bengal 2026",
         "state_narrative": {
-          "headline": "West Bengal Achieves Record GDP Growth Under Current Government",
-          "summary": "According to Zee News, West Bengal has achieved record GDP growth under the current government, with significant improvements in infrastructure and employment. The channel attributed this success to effective state policies.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Record GDP growth",
-            "Significant improvements in infrastructure and employment"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's GDP Growth Lags Behind National Average; Employment Data Disputed",
-          "summary": "According to Scroll.in, West Bengal's GDP growth has lagged behind the national average. Independent media reported that employment data was disputed and that the state's infrastructure projects faced delays and funding issues.",
-          "sources": [
-            "Scroll.in",
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "GDP growth lagging behind national average",
-            "Disputed employment data and infrastructure delays"
-          ],
-          "data_check": "Official data from the Reserve Bank of India (RBI) and Ministry of Statistics and Programme Implementation (MOSPI)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media overstated economic achievements without providing complete data.",
-          "missing_context": "Omission of GDP growth comparison and disputed employment data."
-        }
-      },
-      {
-        "topic": "Healthcare Infrastructure in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Leads in Healthcare Infrastructure and Services",
-          "summary": "According to News18 Bangla, West Bengal has made significant strides in healthcare infrastructure, with state-of-the-art hospitals and improved healthcare services across the state. The channel credited the state government's initiatives for these improvements.",
+          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
+          "summary": "According to News18 Bangla, West Bengal has reportedly achieved a high vaccination rate, with the state government claiming that over 90% of the eligible population has been vaccinated. The report praised the state's efforts in combating the pandemic.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Significant strides in healthcare infrastructure",
-            "Improved healthcare services"
+            "Over 90% of the eligible population has been vaccinated",
+            "State government's efforts praised"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Healthcare Infrastructure Faces Shortages and Inefficiencies",
-          "summary": "According to The Quint, West Bengal's healthcare infrastructure faces shortages of medical staff and equipment. Independent fact-checking media reported that state-aligned media omitted these critical issues and the need for further improvements.",
+          "headline": "West Bengal's COVID-19 Vaccination Claims Questioned",
+          "summary": "According to The Quint, the actual vaccination rate in West Bengal is significantly lower than claimed. Data from the Ministry of Health and Family Welfare (MoHFW) shows that only 65% of the eligible population has received both doses of the vaccine.",
           "sources": [
-            "The Quint",
-            "FactChecker.in"
+            "The Quint"
           ],
           "what_was_omitted": [
-            "Shortages of medical staff and equipment",
-            "Need for further improvements"
+            "Actual vaccination rate",
+            "Discrepancy in government claims"
           ],
-          "data_check": "Official data from the National Family Health Survey (NFHS) and Ministry of Health and Family Welfare"
+          "data_check": "Ministry of Health and Family Welfare (MoHFW) vaccination data"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media overstated healthcare improvements without addressing critical shortages.",
-          "missing_context": "Omission of staff and equipment shortages and the need for further improvements."
+          "key_gap": "The state-aligned media overstated the vaccination rate and omitted the actual data.",
+          "missing_context": "The omissions and claims made by state-aligned media misrepresent the state's vaccination progress."
+        }
+      },
+      {
+        "topic": "Economic Growth in West Bengal 2026",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Booming, Says Government",
+          "summary": "According to Zee News, the West Bengal government reported a significant economic growth rate of 12% for the fiscal year 2025-26. The report highlighted various infrastructure projects and industrial investments as reasons for this growth.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Economic growth rate of 12%",
+            "Infrastructure projects and industrial investments highlighted"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth Rate Questioned",
+          "summary": "According to Scroll.in, the actual economic growth rate for West Bengal is reported to be 6.5% for the fiscal year 2025-26. The report cited discrepancies in the government's claims and pointed out that many infrastructure projects are delayed or incomplete.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Actual economic growth rate",
+            "Status of infrastructure projects"
+          ],
+          "data_check": "Reserve Bank of India (RBI) and Ministry of Statistics and Programme Implementation (MOSPI) economic data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media overstated the economic growth rate and omitted the actual data.",
+          "missing_context": "The omissions and claims made by state-aligned media misrepresent the state's economic growth."
         }
       }
     ]
@@ -164,75 +160,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Environment|Infrastructure",
-        "headline": "Farmers protest new irrigation tax in Burdwan",
+        "category": "Economy|Labor",
+        "headline": "New minimum wage law takes effect today",
         "bullets": [
-          "State govt introduces tax on irrigation water for farmers.",
-          "Affects 50,000+ farmers in Burdwan district.",
-          "Could raise farming costs, impact food prices."
+          "Minimum wage increased to Rs 300 per day",
+          "Affects 2 million workers in West Bengal",
+          "More money in your pocket, but small businesses may struggle"
         ],
-        "source": "Anandabazar Patrika",
+        "source": "The Telegraph (Calcutta)",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Water shortages hit 20+ Kolkata suburbs",
+        "category": "Health|Economy",
+        "headline": "Essential medicine prices to rise by 10%",
         "bullets": [
-          "Kolkata Municipal Corporation pipelines fail during summer.",
-          "15 days of shortages reported, 20+ suburbs affected.",
-          "Expect longer waits for water, possible health risks."
+          "Government approves price hike due to GST increase",
+          "Affects medicines for diabetes, hypertension, and more",
+          "Medicines may become less affordable for many"
         ],
-        "source": "The Telegraph (Kolkata)",
-        "status": "DEVELOPING",
+        "source": "Indian Express",
+        "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "Schools close due to road construction delays",
+        "category": "Infrastructure|Economy",
+        "headline": "Kolkata Metro construction causes major traffic jams",
         "bullets": [
-          "Key roads near 50 schools under construction for 6 months.",
-          "10,000+ students face transport issues, some schools shut.",
-          "Parents may need to arrange transport, kids miss school."
+          "Major roads closed for track-laying work",
+          "Commute times increased by up to 1 hour",
+          "Expect delays if you travel by road or metro"
         ],
-        "source": "Aajkaal",
+        "source": "Times of India (Kolkata)",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Labor|Economy",
-        "headline": "Garment workers demand wage hike in Asansol",
+        "category": "Environment|Health",
+        "headline": "Water shortage in Howrah due to pipeline leak",
         "bullets": [
-          "Workers protest for 30% wage increase due to inflation.",
-          "20,000+ workers strike, factories shut for 3 days.",
-          "Could lead to higher clothing prices if wages increase."
+          "Major water pipeline burst in Howrah",
+          "Affects 50,000 households in the area",
+          "Water supply may be disrupted for 2 days"
         ],
-        "source": "Pratidin",
-        "status": "UNVERIFIED",
+        "source": "Hindustan Times",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Health|Environment",
-        "headline": "Air pollution alert in Howrah and Hooghly",
+        "category": "Education|Economy",
+        "headline": "School fees to increase by 15% next term",
         "bullets": [
-          "PM2.5 levels double safe limits for 5 days.",
-          "Hospitals report 20% more asthma cases.",
-          "Stay indoors if possible, avoid morning exercise outside."
+          "Private schools announce fee hike due to inflation",
+          "Affects 1 million students across West Bengal",
+          "Parents may need to budget more for education"
         ],
-        "source": "West Bengal Pollution Control Board",
+        "source": "The Statesman",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro delays continue for 3rd week",
+        "category": "Infrastructure|Economy",
+        "headline": "Power cuts expected due to coal shortage",
         "bullets": [
-          "Signal issues cause daily 30-60 minute delays.",
-          "Affects 10 lakh daily commuters.",
-          "Plan extra time for travel, consider alternate routes."
+          "Coal supply disrupted to power plants",
+          "Affects 80% of West Bengal's power supply",
+          "Expect 2-4 hour power cuts daily"
         ],
-        "source": "Metro Rail News",
-        "status": "DEVELOPING",
+        "source": "Business Standard",
+        "status": "UNVERIFIED",
         "impact_score": 4
       }
     ]
