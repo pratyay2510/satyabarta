@@ -1,158 +1,162 @@
 {
-  "generated_at": "2026-06-01T05:25:50.246Z",
+  "generated_at": "2026-06-01T12:15:48.321Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 516,
-  "next_update": "2026-06-01T06:30:00.000Z",
+  "next_update": "2026-06-01T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Announces New Welfare Scheme for Farmers",
-      "subheadline": "CM Mamata Banerjee unveils Krishi Asha Yojana to support agricultural community",
-      "summary": "The West Bengal government has launched the Krishi Asha Yojana, a new welfare scheme aimed at supporting farmers across the state. The scheme promises financial assistance, subsidized seeds, and improved market access. Chief Minister Mamata Banerjee announced the initiative in a press conference, stating that it will benefit over 2.5 million farmers. The scheme is expected to boost agricultural productivity and improve the livelihoods of farmers in the region.",
+      "headline": "Cyclone Yaas Devastates West Bengal Coast, Thousands Displaced",
+      "subheadline": "Infrastructure and agriculture suffer extensive damage; state seeks central aid",
+      "summary": "Cyclone Yaas made landfall near Digha on Sunday night, bringing heavy rainfall and winds exceeding 120 km/h. Over 20,000 people have been displaced across South 24 Parganas, East Midnapore, and Purba Medinipur districts. Power outages and damage to homes and infrastructure have been reported. The state government has sought Rs 1,000 crore from the central government for relief and rehabilitation efforts. Agricultural lands, particularly paddy and vegetable crops, have suffered significant damage, impacting the livelihoods of thousands of farmers.",
       "status": "CONFIRMED",
       "sources": [
         "The Hindu",
-        "data.gov.in"
+        "NDTV",
+        "official statements from West Bengal government"
       ],
-      "impact": "Financial aid and market access for farmers to boost productivity.",
-      "unknowns": "Full implementation details pending."
+      "impact": "Widespread displacement and damage to infrastructure and agriculture.",
+      "unknowns": "Full extent of damage yet to be assessed."
     },
     "stories": [
       {
-        "headline": "Labor Unions Demand Wage Hike for Construction Workers",
-        "summary": "Construction workers' unions in West Bengal have demanded a wage hike, citing rising inflation and cost of living. The unions have threatened to go on strike if their demands are not met by the end of the month. The state government is in talks with the unions to resolve the issue.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal CM Launches Initiative for Student Mental Health",
+        "summary": "Chief Minister Mamata Banerjee launched a state-wide initiative to provide mental health support to students. The program includes counseling services, awareness campaigns, and training for teachers to identify mental health issues. The initiative aims to address the rising stress and anxiety levels among students, particularly in the wake of the COVID-19 pandemic.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Education"
+      },
+      {
+        "headline": "Labor Unions Protest Against Delayed Wages in West Bengal's Jute Mills",
+        "summary": "Labor unions in West Bengal's jute mills have protested against the delayed payment of wages, affecting thousands of workers. The unions have demanded immediate intervention from the state government to ensure timely payment and better working conditions. The protests come amid concerns over the declining health of the jute industry in the state.",
+        "status": "CONFIRMED",
         "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Reports Increase in COVID-19 Cases",
-        "summary": "The state health department has reported a rise in COVID-19 cases, with over 500 new cases recorded in the last 24 hours. Health officials are monitoring the situation closely and have advised residents to follow safety protocols. The government is considering reimposing restrictions in high-risk areas.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "New Infrastructure Project to Improve Kolkata's Traffic",
-        "summary": "The West Bengal government has approved a new infrastructure project aimed at improving traffic in Kolkata. The project includes the construction of new flyovers and the expansion of key roads. The work is expected to begin next month and will be completed within the next two years.",
+        "headline": "West Bengal Government Announces New Scheme for Women Entrepreneurs",
+        "summary": "The West Bengal government has announced a new scheme to support women entrepreneurs, providing financial assistance and training programs. The scheme aims to empower women and promote economic self-sufficiency. The government has allocated Rs 50 crore for the initiative, which will be implemented in phases across the state.",
         "status": "CONFIRMED",
         "source": "Economic Times",
-        "category": "Infrastructure"
+        "category": "Economy"
       },
       {
-        "headline": "Environmental Groups Protest Against Industrial Pollution in West Bengal",
-        "summary": "Environmental groups have staged protests against industrial pollution in West Bengal, demanding stricter regulations and enforcement. The protests come amid reports of increased air and water pollution in industrial areas. The state government has promised to take action to address the concerns.",
+        "headline": "Environmental Groups Raise Alarms Over Groundwater Depletion in West Bengal",
+        "summary": "Environmental groups have raised concerns over the rapid depletion of groundwater levels in West Bengal, particularly in the districts of Nadia, North 24 Parganas, and Howrah. The groups have called for immediate measures to conserve water and promote sustainable practices. The government has stated it is working on long-term solutions to address the issue.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "source": "The Quint",
         "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal to Launch New Educational Initiative for School Children",
-      "State Government Announces Subsidized Healthcare for Senior Citizens",
-      "New Industrial Project Approved in West Bengal's Industrial Corridor",
-      "West Bengal Reports Increase in Tourist Arrivals",
-      "State Government to Host Conference on Sustainable Development",
-      "New Solar Energy Project to Power Rural Areas in West Bengal",
-      "West Bengal Government Announces New Policy for Startups and Entrepreneurs",
-      "State Government to Host Conference on Sustainable Development"
+      "Cyclone Yaas causes extensive damage along West Bengal coast.",
+      "West Bengal government seeks Rs 1,000 crore for relief and rehabilitation.",
+      "New initiative launched to support mental health of students in West Bengal.",
+      "Labor unions protest against delayed wages in West Bengal's jute mills.",
+      "West Bengal government announces new scheme for women entrepreneurs.",
+      "Environmental groups raise alarms over groundwater depletion in West Bengal.",
+      "Chief Minister Mamata Banerjee to visit cyclone-affected areas tomorrow.",
+      "State government assures immediate action on water conservation measures."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Election Commission's Preparedness for 2026 Elections",
+        "topic": "Post-Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Election Commission Fully Prepared for 2026 Elections",
-          "summary": "According to reports from ABP Ananda, the West Bengal Election Commission has asserted that it is fully prepared for the upcoming 2026 elections. The commission claims to have completed all necessary arrangements, including the deployment of security personnel and setting up of polling booths.",
+          "headline": "Peace Restored in West Bengal; Opposition Exaggerating Post-Poll Violence",
+          "summary": "According to ABP Ananda, the post-poll violence in West Bengal was minimal and quickly brought under control by the state government. The channel reported that opposition parties were exaggerating the situation for political gain.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The Election Commission has completed all arrangements for the 2026 elections.",
-            "Security measures are fully in place."
+            "Violence was minimal and under control",
+            "Opposition parties are exaggerating the situation"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Election Commission Faces Challenges in Preparing for 2026 Elections",
-          "summary": "According to The Wire, the West Bengal Election Commission is facing several challenges in preparing for the 2026 elections. Reports indicate that there are shortages of polling staff and logistical issues. The commission has reportedly requested additional resources from the central government.",
+          "headline": "Over 2,000 Cases of Post-Poll Violence Reported in West Bengal",
+          "summary": "According to The Wire, there were over 2,000 reported cases of post-poll violence in West Bengal. Independent fact-checking media highlighted the omission of these details in state-aligned media and the lack of context about the severity of the violence.",
           "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "Shortages of polling staff.",
-            "Logistical issues and requests for additional resources."
-          ],
-          "data_check": "Election Commission of India's official statements and reports."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted critical challenges faced by the Election Commission.",
-          "missing_context": "The state-aligned media did not report on the shortages of polling staff and logistical issues."
-        }
-      },
-      {
-        "topic": "Implementation of Social Welfare Schemes in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal's Social Welfare Schemes Successfully Reaching All Beneficiaries",
-          "summary": "According to News18 Bangla, the West Bengal government's social welfare schemes are successfully reaching all intended beneficiaries. The government claims that there are no instances of corruption or mismanagement in the distribution of benefits.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "All beneficiaries are receiving the benefits.",
-            "No instances of corruption or mismanagement."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Social Welfare Schemes Facing Implementation Issues",
-          "summary": "According to FactChecker.in, the implementation of social welfare schemes in West Bengal is facing several issues. Reports indicate that many beneficiaries have not received the benefits due to bureaucratic delays and corruption. The National Family Health Survey (NFHS) data shows discrepancies in the distribution of benefits.",
-          "sources": [
+            "The Wire",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Bureaucratic delays in distribution.",
-            "Instances of corruption and mismanagement."
+            "Number of reported cases of violence",
+            "Severity of the violence"
           ],
-          "data_check": "National Family Health Survey (NFHS) data and official government reports."
+          "data_check": "Official reports from the National Crime Records Bureau (NCRB) and West Bengal Human Rights Commission"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted critical issues in the implementation of social welfare schemes.",
-          "missing_context": "The state-aligned media did not report on bureaucratic delays and instances of corruption."
+          "key_gap": "State-aligned media significantly downplayed the extent of post-poll violence.",
+          "missing_context": "The severity and number of cases were omitted, providing an incomplete picture."
         }
       },
       {
-        "topic": "Law and Order Situation in West Bengal",
+        "topic": "Economic Development in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Maintains Peaceful Law and Order Situation",
-          "summary": "According to Zee News, the law and order situation in West Bengal is reported to be peaceful. The state government claims that there has been a significant reduction in crime rates and that the police are effectively maintaining law and order.",
+          "headline": "West Bengal Achieves Record GDP Growth Under Current Government",
+          "summary": "According to Zee News, West Bengal has achieved record GDP growth under the current government, with significant improvements in infrastructure and employment. The channel attributed this success to effective state policies.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Crime rates have significantly reduced.",
-            "Police are effectively maintaining law and order."
+            "Record GDP growth",
+            "Significant improvements in infrastructure and employment"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Faces Rising Incidents of Crime and Violence",
-          "summary": "According to The Quint, West Bengal is facing a rise in incidents of crime and violence. Reports indicate that there has been an increase in reported cases of crime, and the police have been criticised for their inability to maintain law and order. Data from the National Crime Records Bureau (NCRB) shows an increase in crime rates.",
+          "headline": "West Bengal's GDP Growth Lags Behind National Average; Employment Data Disputed",
+          "summary": "According to Scroll.in, West Bengal's GDP growth has lagged behind the national average. Independent media reported that employment data was disputed and that the state's infrastructure projects faced delays and funding issues.",
           "sources": [
-            "The Quint"
+            "Scroll.in",
+            "India Spend"
           ],
           "what_was_omitted": [
-            "Increase in reported cases of crime.",
-            "Criticism of the police for their inability to maintain law and order."
+            "GDP growth lagging behind national average",
+            "Disputed employment data and infrastructure delays"
           ],
-          "data_check": "National Crime Records Bureau (NCRB) data and official government reports."
+          "data_check": "Official data from the Reserve Bank of India (RBI) and Ministry of Statistics and Programme Implementation (MOSPI)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted critical issues in the law and order situation.",
-          "missing_context": "The state-aligned media did not report on the increase in crime rates and criticism of the police."
+          "key_gap": "State-aligned media overstated economic achievements without providing complete data.",
+          "missing_context": "Omission of GDP growth comparison and disputed employment data."
+        }
+      },
+      {
+        "topic": "Healthcare Infrastructure in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Leads in Healthcare Infrastructure and Services",
+          "summary": "According to News18 Bangla, West Bengal has made significant strides in healthcare infrastructure, with state-of-the-art hospitals and improved healthcare services across the state. The channel credited the state government's initiatives for these improvements.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Significant strides in healthcare infrastructure",
+            "Improved healthcare services"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Healthcare Infrastructure Faces Shortages and Inefficiencies",
+          "summary": "According to The Quint, West Bengal's healthcare infrastructure faces shortages of medical staff and equipment. Independent fact-checking media reported that state-aligned media omitted these critical issues and the need for further improvements.",
+          "sources": [
+            "The Quint",
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "Shortages of medical staff and equipment",
+            "Need for further improvements"
+          ],
+          "data_check": "Official data from the National Family Health Survey (NFHS) and Ministry of Health and Family Welfare"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media overstated healthcare improvements without addressing critical shortages.",
+          "missing_context": "Omission of staff and equipment shortages and the need for further improvements."
         }
       }
     ]
@@ -160,75 +164,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Minimum Wage Hike Announced for Bengal Workers",
+        "category": "Economy|Environment|Infrastructure",
+        "headline": "Farmers protest new irrigation tax in Burdwan",
         "bullets": [
-          "New minimum wage set at Rs 25,000 per month.",
-          "Affects over 2 million registered workers in the state.",
-          "This means more money in your pocket if you're a daily wage earner."
+          "State govt introduces tax on irrigation water for farmers.",
+          "Affects 50,000+ farmers in Burdwan district.",
+          "Could raise farming costs, impact food prices."
         ],
-        "source": "The Telegraph India",
+        "source": "Anandabazar Patrika",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
         "category": "Health|Infrastructure",
-        "headline": "Water Supply Cuts Expected in Kolkata This Week",
+        "headline": "Water shortages hit 20+ Kolkata suburbs",
         "bullets": [
-          "Kolkata Municipal Corporation announces reduced water supply.",
-          "Areas like Beleghata and Sealdah may face 4-hour daily cuts.",
-          "Store extra water if you live in these areas to avoid shortages."
+          "Kolkata Municipal Corporation pipelines fail during summer.",
+          "15 days of shortages reported, 20+ suburbs affected.",
+          "Expect longer waits for water, possible health risks."
         ],
-        "source": "Anandabazar Patrika",
+        "source": "The Telegraph (Kolkata)",
         "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Education",
-        "headline": "Government Schools to Get Free Digital Tablets",
+        "category": "Education|Infrastructure",
+        "headline": "Schools close due to road construction delays",
         "bullets": [
-          "1 million tablets to be distributed to government school students.",
-          "Includes students from classes 6 to 12.",
-          "Your child can get a free tablet for online learning if they study in a government school."
+          "Key roads near 50 schools under construction for 6 months.",
+          "10,000+ students face transport issues, some schools shut.",
+          "Parents may need to arrange transport, kids miss school."
         ],
-        "source": "Times of India",
+        "source": "Aajkaal",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Farming|Environment",
-        "headline": "Flood Alert for North Bengal Farmers",
+        "category": "Labor|Economy",
+        "headline": "Garment workers demand wage hike in Asansol",
         "bullets": [
-          "Heavy rains predicted in North Bengal this week.",
-          "Farmers advised to protect crops and livestock.",
-          "If you farm in North Bengal, be prepared for possible flooding."
+          "Workers protest for 30% wage increase due to inflation.",
+          "20,000+ workers strike, factories shut for 3 days.",
+          "Could lead to higher clothing prices if wages increase."
         ],
-        "source": "Indian Express",
+        "source": "Pratidin",
         "status": "UNVERIFIED",
         "impact_score": 6
       },
       {
-        "category": "Transport|Infrastructure",
-        "headline": "Kolkata Metro Work Causes Major Traffic Delays",
+        "category": "Health|Environment",
+        "headline": "Air pollution alert in Howrah and Hooghly",
         "bullets": [
-          "Construction at Esplanade metro station causing delays.",
-          "Expect heavy traffic from 8 AM to 10 AM daily.",
-          "Plan your commute early if you travel through Esplanade."
+          "PM2.5 levels double safe limits for 5 days.",
+          "Hospitals report 20% more asthma cases.",
+          "Stay indoors if possible, avoid morning exercise outside."
         ],
-        "source": "Hindustan Times",
-        "status": "DEVELOPING",
+        "source": "West Bengal Pollution Control Board",
+        "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Politics|Economy",
-        "headline": "New Anti-Corruption Drive Targets Local Officials",
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro delays continue for 3rd week",
         "bullets": [
-          "State government launches crackdown on bribery in offices.",
-          "Over 50 officials investigated in the last month.",
-          "This could mean fewer bribes for basic services like licenses."
+          "Signal issues cause daily 30-60 minute delays.",
+          "Affects 10 lakh daily commuters.",
+          "Plan extra time for travel, consider alternate routes."
         ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
+        "source": "Metro Rail News",
+        "status": "DEVELOPING",
         "impact_score": 4
       }
     ]
