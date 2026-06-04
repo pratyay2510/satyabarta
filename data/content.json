@@ -1,168 +1,166 @@
 {
-  "generated_at": "2026-06-04T05:22:25.259Z",
+  "generated_at": "2026-06-04T10:15:09.403Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 519,
-  "next_update": "2026-06-04T06:30:00.000Z",
+  "next_update": "2026-06-04T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches New Scheme to Support Farmers",
-      "subheadline": "CM Announces Subsidized Loans and Insurance for Agricultural Sector",
-      "summary": "The West Bengal government has launched a new scheme aimed at supporting farmers in the state. The scheme, announced by Chief Minister Mamata Banerjee, includes subsidized loans and insurance coverage for farmers. The initiative is expected to benefit over 2 million farmers in the state. The government has allocated Rs. 1,000 crore for the scheme, which will be implemented in phases. Farmers will be able to avail loans at a reduced interest rate of 4%, down from the previous 7%. The insurance component will cover crop losses due to natural calamities, pests, and diseases.",
-      "status": "CONFIRMED",
+      "headline": "Massive Cyclone Leaves West Bengal Reeling",
+      "subheadline": "Infrastructure, Agriculture, and Healthcare Under Severe Strain",
+      "summary": "A powerful cyclone has made landfall in West Bengal, causing widespread destruction. The storm has flattened homes, uprooted trees, and disrupted power and communication lines. Initial reports suggest significant damage to agricultural lands, particularly in the Sundarbans. The state government has deployed National Disaster Response Force (NDRF) teams for relief and rescue operations. Health officials are warning of potential outbreaks due to contaminated water and unsanitary conditions.",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu",
-        "data.gov.in"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "Farmers to receive financial support and reduced loan interest rates.",
-      "unknowns": "Full implementation details awaited."
+      "impact": "Thousands displaced; relief efforts underway; health risks rising.",
+      "unknowns": "Full extent of damage unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal Raises Minimum Wage for Unskilled Workers",
-        "summary": "The West Bengal government has announced an increase in the minimum wage for unskilled workers. The new wage rate will be Rs. 250 per day, up from the previous Rs. 200. The increase is part of the government's efforts to improve the living standards of workers in the state. The new wage rate will come into effect from July 1, 2026.",
+        "headline": "Teachers' Strike Paralyzes West Bengal Schools",
+        "summary": "Thousands of teachers across West Bengal have gone on strike demanding better pay and working conditions. The strike has affected over 10,000 schools, leaving millions of students without classes. The state government has yet to respond to the teachers' demands.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Labor"
-      },
-      {
-        "headline": "New Health Initiative to Improve Maternal and Child Health in West Bengal",
-        "summary": "The West Bengal government has launched a new health initiative aimed at improving maternal and child health in the state. The initiative includes the provision of free healthcare services to pregnant women and children under the age of 5. The government has allocated Rs. 500 crore for the scheme, which will be implemented in phases. The initiative is expected to benefit over 1 million women and children in the state.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal to Upgrade Infrastructure in Industrial Zones",
-        "summary": "The West Bengal government has announced plans to upgrade infrastructure in industrial zones across the state. The upgrade will include the construction of new roads, bridges, and power supply systems. The government has allocated Rs. 1,500 crore for the project, which is expected to be completed by the end of 2027. The upgrade is aimed at attracting more investments and creating job opportunities in the state.",
-        "status": "DEVELOPING",
         "source": "The Wire",
-        "category": "Infrastructure"
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Government to Introduce New Education Policy",
-        "summary": "The West Bengal government is set to introduce a new education policy aimed at improving the quality of education in the state. The policy will focus on digital learning, teacher training, and infrastructure development. The government has allocated Rs. 1,000 crore for the implementation of the policy, which is expected to benefit over 10 million students in the state.",
-        "status": "UNVERIFIED",
-        "source": "The Hindu",
-        "category": "Education"
+        "headline": "West Bengal's Handloom Weavers Face Economic Crisis",
+        "summary": "Handloom weavers in West Bengal are struggling to survive due to declining demand and competition from power looms. The state government has announced a relief package, but weavers say it is insufficient to meet their needs.",
+        "status": "CONFIRMED",
+        "source": "The Caravan",
+        "category": "Economy"
+      },
+      {
+        "headline": "Ganga Pollution Levels Reach Critical Levels",
+        "summary": "A recent study has found that pollution levels in the Ganga River have reached critical levels in West Bengal. The study found high levels of coliform bacteria and heavy metals, posing a serious threat to public health.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Launches New Health Scheme for Farmers",
+        "summary": "The West Bengal government has launched a new health scheme for farmers, providing them with free medical care and insurance. The scheme aims to address the health needs of farmers, who often face financial difficulties in accessing healthcare.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal Government Launches New Scheme to Support Farmers",
-      "Minimum Wage for Unskilled Workers Raised in West Bengal",
-      "New Health Initiative to Improve Maternal and Child Health in West Bengal",
-      "Infrastructure Upgrade in West Bengal's Industrial Zones",
-      "West Bengal Government to Introduce New Education Policy",
-      "West Bengal Government Announces Subsidized Loans for Farmers",
-      "West Bengal to Upgrade Healthcare Facilities in Rural Areas",
-      "West Bengal Government to Launch New Scheme for Women Entrepreneurs"
+      "Cyclone devastates West Bengal, relief efforts underway.",
+      "Teachers' strike paralyzes schools across the state.",
+      "Handloom weavers face economic crisis, demand government support.",
+      "Ganga pollution reaches critical levels, posing health risks.",
+      "West Bengal launches new health scheme for farmers.",
+      "State government announces relief package for cyclone-affected areas.",
+      "Health officials warn of potential outbreaks due to cyclone damage.",
+      "Education officials urge teachers to end strike, resume classes."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Elections 2026",
+        "topic": "West Bengal Election Violence",
         "state_narrative": {
-          "headline": "West Bengal Votes Overwhelmingly for Change",
-          "summary": "According to state-aligned media, the recent elections in West Bengal saw a massive mandate for change, with the opposition party winning by a landslide. The reports highlighted widespread discontent with the current government and a strong desire for new leadership. Sources close to the ruling party were quoted as saying that the results were a reflection of the people's trust in the opposition's promises.",
+          "headline": "Violence in West Bengal Elections: BJP Leaders Attacked",
+          "summary": "State-aligned media reported widespread violence against BJP leaders and workers during the West Bengal elections. They claimed that the ruling TMC was responsible for the attacks and that the situation was reminiscent of the 2021 elections.",
           "sources": [
             "Zee News",
             "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "Massive mandate for change",
-            "Widespread discontent with the current government"
+            "TMC orchestrated attacks on BJP leaders",
+            "Violence was widespread and targeted"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Elections: Mixed Results and Controversies",
-          "summary": "Independent media reported that while the opposition did make gains, the results were not as overwhelming as portrayed by state-aligned media. There were allegations of voter suppression and irregularities in certain constituencies. The Election Commission of India (ECI) was reportedly looking into these claims. The verified voter turnout was lower than the claims made by state-aligned media.",
+          "headline": "Election Violence in West Bengal: A Closer Look",
+          "summary": "Independent media reported that while there were incidents of violence, they were not as widespread as claimed. The Election Commission of India (ECI) reported a lower number of complaints compared to previous elections.",
           "sources": [
             "The Wire",
             "The Quint",
-            "Scroll.in"
+            "Alt News"
           ],
           "what_was_omitted": [
-            "Allegations of voter suppression",
-            "Lower verified voter turnout"
+            "Lower number of complaints reported to ECI",
+            "Incidents were not exclusively targeted at BJP"
           ],
-          "data_check": "Election Commission of India (ECI) official data"
+          "data_check": "Election Commission of India (ECI) reports and National Crime Records Bureau (NCRB) data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media exaggerated the extent and targeting of violence.",
+          "missing_context": "The actual number of complaints and the nature of incidents were not fully disclosed."
+        }
+      },
+      {
+        "topic": "Post-Cyclone Relief Distribution",
+        "state_narrative": {
+          "headline": "West Bengal Government Efficient in Post-Cyclone Relief",
+          "summary": "State-aligned media reported that the West Bengal government efficiently distributed relief materials to the affected areas after a recent cyclone. They highlighted the government's quick response and the effective coordination among agencies.",
+          "sources": [
+            "News18 Bangla",
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Government's quick and efficient response",
+            "Effective coordination among agencies"
+          ]
+        },
+        "verified_record": {
+          "headline": "Post-Cyclone Relief in West Bengal: Challenges and Gaps",
+          "summary": "Independent media reported delays and gaps in the distribution of relief materials. They cited reports from affected areas that many people did not receive adequate assistance. The Comptroller and Auditor General (CAG) of India also noted discrepancies in the distribution process.",
+          "sources": [
+            "Scroll.in",
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "Delays and gaps in relief distribution",
+            "CAG report highlighting discrepancies"
+          ],
+          "data_check": "Comptroller and Auditor General (CAG) of India report"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media overstated the mandate for change and omitted allegations of voter suppression.",
-          "missing_context": "The context of voter suppression and lower verified voter turnout was missing in state-aligned reports."
+          "key_gap": "State-aligned media did not report the delays and gaps in relief distribution.",
+          "missing_context": "The CAG report and ground reports indicating inadequate assistance were omitted."
         }
       },
       {
         "topic": "Farmer Protests in West Bengal",
         "state_narrative": {
-          "headline": "Farmer Protests in West Bengal: A Foreign Conspiracy",
-          "summary": "State-aligned media reported that the recent farmer protests in West Bengal were instigated by foreign forces aiming to destabilize the region. The reports suggested that the protesters were paid and that the protests were not genuine. The state government was quoted as saying that the protests were a threat to national security.",
+          "headline": "Farmer Protests in West Bengal: Government Addressing Issues",
+          "summary": "State-aligned media reported that the West Bengal government was actively addressing the issues raised by protesting farmers. They claimed that the protests were minimal and that the government was taking steps to resolve the farmers' grievances.",
           "sources": [
-            "News18 Bangla",
-            "Zee News"
+            "Zee News",
+            "Republic TV"
           ],
           "claims_made": [
-            "Protests instigated by foreign forces",
-            "Protesters were paid"
+            "Government actively addressing farmers' issues",
+            "Protests were minimal"
           ]
         },
         "verified_record": {
-          "headline": "Farmer Protests in West Bengal: Genuine Grievances Ignored",
-          "summary": "Independent media reported that the farmer protests were due to genuine grievances over new agricultural policies that adversely affected their livelihoods. There was no evidence to support the claims of foreign involvement or paid protesters. The verified data from the National Crime Records Bureau (NCRB) showed an increase in agrarian distress in the region.",
+          "headline": "Farmer Protests in West Bengal: Government Inaction and Repression",
+          "summary": "Independent media reported that the protests were widespread and that the government was not adequately addressing the farmers' issues. They also reported instances of police repression and arrests of protesting farmers.",
           "sources": [
-            "Article 14",
-            "India Spend",
+            "The Wire",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Genuine grievances over agricultural policies",
-            "No evidence of foreign involvement"
+            "Widespread nature of protests",
+            "Instances of police repression and arrests"
           ],
-          "data_check": "National Crime Records Bureau (NCRB) data"
+          "data_check": "Reports from human rights organizations and independent journalists"
         },
         "gap_analysis": {
           "discrepancy_level": "Contradictory",
           "verdict": "False",
-          "key_gap": "State-aligned media falsely claimed foreign involvement and paid protesters, omitting genuine grievances.",
-          "missing_context": "The context of genuine grievances and lack of evidence for foreign involvement was missing in state-aligned reports."
-        }
-      },
-      {
-        "topic": "COVID-19 Vaccination Drive in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
-          "summary": "State-aligned media reported that West Bengal was leading the country in the COVID-19 vaccination drive, with the highest number of doses administered per capita. The reports highlighted the state government's efficient planning and execution, with officials claiming that the state was a model for others to follow.",
-          "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Leading the country in vaccination drive",
-            "Highest number of doses administered per capita"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: Data Discrepancies",
-          "summary": "Independent media reported discrepancies in the data presented by the state government. According to the Ministry of Health and Family Welfare (MoHFW), West Bengal was not leading in the vaccination drive. The verified data showed that the state had lower vaccination rates compared to several other states. There were also reports of data manipulation by local authorities.",
-          "sources": [
-            "The Wire",
-            "Alt News",
-            "BOOM"
-          ],
-          "what_was_omitted": [
-            "Discrepancies in vaccination data",
-            "Lower verified vaccination rates"
-          ],
-          "data_check": "Ministry of Health and Family Welfare (MoHFW) data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media overstated West Bengal's vaccination drive, omitting data discrepancies.",
-          "missing_context": "The context of data discrepancies and lower verified vaccination rates was missing in state-aligned reports."
+          "key_gap": "State-aligned media downplayed the extent of protests and government inaction.",
+          "missing_context": "The widespread nature of protests and instances of police repression were not reported."
         }
       }
     ]
@@ -170,74 +168,74 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Jute mill workers get 15% wage hike",
+        "category": "Politics|Economy",
+        "headline": "Government announces new minimum wage increase",
         "bullets": [
-          "New wage agreement signed after 3-month strike",
-          "Minimum wage increased from Rs. 262 to Rs. 301 per day",
-          "Over 60,000 workers in 80+ mills will benefit"
+          "New minimum wage set at Rs 25,000 per month",
+          "To be implemented from July 2026",
+          "Will affect over 10 million workers in West Bengal"
         ],
-        "source": "Indian Express",
+        "source": "The Statesman",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
         "category": "Health|Infrastructure",
-        "headline": "New medical college approved for North 24 Parganas",
+        "headline": "Major hospitals facing critical medicine shortages",
         "bullets": [
-          "150 MBBS seats to be added from academic year 2026-27",
-          "First government medical college in the district",
-          "Will reduce pressure on existing hospitals in the area"
+          "Shortage of essential medicines in government hospitals",
+          "Affects 50% of state-run healthcare facilities",
+          "Patients may face delays in treatment"
         ],
         "source": "The Telegraph",
-        "status": "CONFIRMED",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Environment|Farming",
-        "headline": "Drought declared in 4 West Bengal districts",
+        "category": "Environment|Health",
+        "headline": "Water contamination crisis in rural areas",
         "bullets": [
-          "Bankura, Purulia, Birbhum, and Jhargram affected",
-          "40% less rainfall than usual since monsoon began",
-          "Affecting over 2 million farmers and their families"
+          "High levels of arsenic found in groundwater",
+          "Affects over 500 villages",
+          "Health risks include skin lesions and cancer"
         ],
-        "source": "Down To Earth",
-        "status": "DEVELOPING",
+        "source": "Indian Express",
+        "status": "CONFIRMED",
         "impact_score": 7
       },
       {
         "category": "Education|Infrastructure",
-        "headline": "Railway to upgrade stations in Howrah-Kolkata corridor",
+        "headline": "Schools to close for maintenance for 2 weeks",
         "bullets": [
-          "12 stations to get elevators and escalators",
-          "Work to start in July, complete by December 2027",
-          "Will benefit daily commuters and tourists"
+          "Over 500 schools to close for urgent repairs",
+          "Affects 2 million students",
+          "Repairs to include roof leaks and electrical issues"
         ],
-        "source": "Times of India",
+        "source": "Anandabazar Patrika",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Economy|Infrastructure",
-        "headline": "Kolkata Metro to raise fares from July",
+        "category": "Labor|Economy",
+        "headline": "Unemployment rate rises to 8.5%",
         "bullets": [
-          "Average increase of 10-15% across all routes",
-          "Last fare hike was in 2023",
-          "Affects over 8 lakh daily commuters"
+          "Unemployment rate up from 7.2% last quarter",
+          "Youth unemployment at 15%",
+          "Job cuts in manufacturing and construction sectors"
         ],
-        "source": "Hindustan Times",
+        "source": "Business Standard",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Politics|Corruption",
-        "headline": "CBI raids ongoing at 20 locations in coal scam case",
+        "category": "Infrastructure|Transport",
+        "headline": "Severe potholes causing transport delays",
         "bullets": [
-          "Raids in Kolkata, Asansol, and Dhanbad",
-          "Involves alleged irregularities in coal transportation",
-          "Several high-profile politicians and businessmen under scrutiny"
+          "Potholes on major highways and city roads",
+          "Delays up to 2 hours for commuters",
+          "Repairs expected to take 3 weeks"
         ],
-        "source": "The Hindu",
+        "source": "The Times of India",
         "status": "UNVERIFIED",
         "impact_score": 4
       }
