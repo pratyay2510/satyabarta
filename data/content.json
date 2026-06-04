@@ -1,166 +1,164 @@
 {
-  "generated_at": "2026-06-04T10:15:09.403Z",
+  "generated_at": "2026-06-04T16:00:25.156Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 519,
-  "next_update": "2026-06-04T12:30:00.000Z",
+  "next_update": "2026-06-05T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Massive Cyclone Leaves West Bengal Reeling",
-      "subheadline": "Infrastructure, Agriculture, and Healthcare Under Severe Strain",
-      "summary": "A powerful cyclone has made landfall in West Bengal, causing widespread destruction. The storm has flattened homes, uprooted trees, and disrupted power and communication lines. Initial reports suggest significant damage to agricultural lands, particularly in the Sundarbans. The state government has deployed National Disaster Response Force (NDRF) teams for relief and rescue operations. Health officials are warning of potential outbreaks due to contaminated water and unsanitary conditions.",
+      "headline": "Cyclone Yaas Aftermath: Power Restored to 90% of Affected Areas in West Bengal",
+      "subheadline": "Over 1.5 million people still without electricity as restoration efforts continue",
+      "summary": "The government of West Bengal has reported that electricity has been restored to 90% of the areas affected by Cyclone Yaas, which made landfall on May 26. Over 1.5 million people are still without power, with the most affected districts being Purba Medinipur, North 24 Parganas, and South 24 Parganas. Chief Minister Mamata Banerjee has announced that restoration work is ongoing and that power supply will be fully restored within the next 48 hours. The state government has also set up relief camps and distributed relief materials to those affected by the cyclone.",
       "status": "DEVELOPING",
       "sources": [
         "NDTV",
         "The Hindu"
       ],
-      "impact": "Thousands displaced; relief efforts underway; health risks rising.",
-      "unknowns": "Full extent of damage unclear."
+      "impact": "Agricultural and fishing industries face immediate losses; infrastructure damage assessed.",
+      "unknowns": "Full extent of crop and livestock damage still unclear"
     },
     "stories": [
       {
-        "headline": "Teachers' Strike Paralyzes West Bengal Schools",
-        "summary": "Thousands of teachers across West Bengal have gone on strike demanding better pay and working conditions. The strike has affected over 10,000 schools, leaving millions of students without classes. The state government has yet to respond to the teachers' demands.",
+        "headline": "West Bengal Government Announces Compensation for Cyclone-Hit Farmers",
+        "summary": "The West Bengal government has announced a compensation package for farmers whose crops were damaged by Cyclone Yaas. The government will provide Rs 10,000 per hectare to farmers who have suffered losses. The government has also announced that it will provide seeds and fertilizers to farmers at subsidized rates to help them replant their crops. The government has estimated that the total cost of the compensation package will be around Rs 500 crore.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal Government Launches New Scheme to Improve Healthcare Infrastructure",
+        "summary": "The West Bengal government has launched a new scheme to improve healthcare infrastructure in the state. The scheme, called 'Swasthya Sathi', aims to provide free healthcare to all residents of the state. The government has announced that it will set up new hospitals and healthcare centers in rural areas and upgrade existing ones. The government has also announced that it will provide free medicine and diagnostic services to all residents of the state.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government to Provide Free Education to Students Affected by Cyclone Yaas",
+        "summary": "The West Bengal government has announced that it will provide free education to students who have been affected by Cyclone Yaas. The government will provide free textbooks, uniforms, and stationery to students in affected areas. The government has also announced that it will provide financial assistance to students who have lost their homes or belongings in the cyclone. The government has estimated that the total cost of the scheme will be around Rs 100 crore.",
         "status": "CONFIRMED",
         "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Handloom Weavers Face Economic Crisis",
-        "summary": "Handloom weavers in West Bengal are struggling to survive due to declining demand and competition from power looms. The state government has announced a relief package, but weavers say it is insufficient to meet their needs.",
-        "status": "CONFIRMED",
-        "source": "The Caravan",
-        "category": "Economy"
-      },
-      {
-        "headline": "Ganga Pollution Levels Reach Critical Levels",
-        "summary": "A recent study has found that pollution levels in the Ganga River have reached critical levels in West Bengal. The study found high levels of coliform bacteria and heavy metals, posing a serious threat to public health.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government Launches New Health Scheme for Farmers",
-        "summary": "The West Bengal government has launched a new health scheme for farmers, providing them with free medical care and insurance. The scheme aims to address the health needs of farmers, who often face financial difficulties in accessing healthcare.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Health"
+        "headline": "West Bengal Government Announces New Scheme to Provide Jobs to Migrant Workers",
+        "summary": "The West Bengal government has announced a new scheme to provide jobs to migrant workers who have returned to the state due to the COVID-19 pandemic. The scheme, called 'Mukhyamantri Shramik Yojana', aims to provide employment opportunities to migrant workers in various sectors, including construction, manufacturing, and agriculture. The government has announced that it will provide training and skill development programs to migrant workers to help them secure jobs in these sectors.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Cyclone devastates West Bengal, relief efforts underway.",
-      "Teachers' strike paralyzes schools across the state.",
-      "Handloom weavers face economic crisis, demand government support.",
-      "Ganga pollution reaches critical levels, posing health risks.",
-      "West Bengal launches new health scheme for farmers.",
-      "State government announces relief package for cyclone-affected areas.",
-      "Health officials warn of potential outbreaks due to cyclone damage.",
-      "Education officials urge teachers to end strike, resume classes."
+      "Power restoration in full swing in cyclone-affected West Bengal districts.",
+      "West Bengal government announces compensation for farmers affected by Cyclone Yaas.",
+      "New healthcare scheme launched by West Bengal government to improve infrastructure.",
+      "Free education announced for students affected by Cyclone Yaas in West Bengal.",
+      "West Bengal government to provide jobs to migrant workers under new scheme.",
+      "Chief Minister Mamata Banerjee visits cyclone-affected areas in West Bengal.",
+      "Relief camps set up by West Bengal government for those affected by Cyclone Yaas.",
+      "West Bengal government to provide subsidized seeds and fertilizers to farmers."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Election Violence",
+        "topic": "Post Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "Violence in West Bengal Elections: BJP Leaders Attacked",
-          "summary": "State-aligned media reported widespread violence against BJP leaders and workers during the West Bengal elections. They claimed that the ruling TMC was responsible for the attacks and that the situation was reminiscent of the 2021 elections.",
-          "sources": [
-            "Zee News",
-            "Republic TV",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "TMC orchestrated attacks on BJP leaders",
-            "Violence was widespread and targeted"
-          ]
-        },
-        "verified_record": {
-          "headline": "Election Violence in West Bengal: A Closer Look",
-          "summary": "Independent media reported that while there were incidents of violence, they were not as widespread as claimed. The Election Commission of India (ECI) reported a lower number of complaints compared to previous elections.",
-          "sources": [
-            "The Wire",
-            "The Quint",
-            "Alt News"
-          ],
-          "what_was_omitted": [
-            "Lower number of complaints reported to ECI",
-            "Incidents were not exclusively targeted at BJP"
-          ],
-          "data_check": "Election Commission of India (ECI) reports and National Crime Records Bureau (NCRB) data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media exaggerated the extent and targeting of violence.",
-          "missing_context": "The actual number of complaints and the nature of incidents were not fully disclosed."
-        }
-      },
-      {
-        "topic": "Post-Cyclone Relief Distribution",
-        "state_narrative": {
-          "headline": "West Bengal Government Efficient in Post-Cyclone Relief",
-          "summary": "State-aligned media reported that the West Bengal government efficiently distributed relief materials to the affected areas after a recent cyclone. They highlighted the government's quick response and the effective coordination among agencies.",
-          "sources": [
-            "News18 Bangla",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Government's quick and efficient response",
-            "Effective coordination among agencies"
-          ]
-        },
-        "verified_record": {
-          "headline": "Post-Cyclone Relief in West Bengal: Challenges and Gaps",
-          "summary": "Independent media reported delays and gaps in the distribution of relief materials. They cited reports from affected areas that many people did not receive adequate assistance. The Comptroller and Auditor General (CAG) of India also noted discrepancies in the distribution process.",
-          "sources": [
-            "Scroll.in",
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "Delays and gaps in relief distribution",
-            "CAG report highlighting discrepancies"
-          ],
-          "data_check": "Comptroller and Auditor General (CAG) of India report"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media did not report the delays and gaps in relief distribution.",
-          "missing_context": "The CAG report and ground reports indicating inadequate assistance were omitted."
-        }
-      },
-      {
-        "topic": "Farmer Protests in West Bengal",
-        "state_narrative": {
-          "headline": "Farmer Protests in West Bengal: Government Addressing Issues",
-          "summary": "State-aligned media reported that the West Bengal government was actively addressing the issues raised by protesting farmers. They claimed that the protests were minimal and that the government was taking steps to resolve the farmers' grievances.",
+          "headline": "Violence in West Bengal Post Election Results",
+          "summary": "According to Zee News and Republic TV, there has been significant violence in West Bengal following the election results. The reports allege that the opposition parties are responsible for the majority of the violence and that the new government is taking swift action to control the situation.",
           "sources": [
             "Zee News",
             "Republic TV"
           ],
           "claims_made": [
-            "Government actively addressing farmers' issues",
-            "Protests were minimal"
+            "Opposition parties are primarily responsible for the violence.",
+            "The new government is taking swift action to control the situation."
           ]
         },
         "verified_record": {
-          "headline": "Farmer Protests in West Bengal: Government Inaction and Repression",
-          "summary": "Independent media reported that the protests were widespread and that the government was not adequately addressing the farmers' issues. They also reported instances of police repression and arrests of protesting farmers.",
+          "headline": "Post Poll Violence in West Bengal: A Closer Look",
+          "summary": "According to The Wire and Scroll.in, the violence in West Bengal post-election is more nuanced. Reports indicate that violence is being perpetrated by both sides, and the new government's response has been slow and inadequate.",
+          "sources": [
+            "The Wire",
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Violence is being perpetrated by both sides.",
+            "The new government's response has been slow and inadequate."
+          ],
+          "data_check": "According to reports from human rights organizations and independent journalists, there have been incidents of violence from multiple parties. Official data from the National Crime Records Bureau (NCRB) shows a rise in politically motivated violence in the state."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media has not fully acknowledged the role of all parties in the violence.",
+          "missing_context": "The state-aligned media has downplayed the inadequacy of the new government's response."
+        }
+      },
+      {
+        "topic": "Economic Development in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal's Economic Growth Under New Leadership",
+          "summary": "According to ABP Ananda and News18 Bangla, West Bengal has seen unprecedented economic growth under the new leadership. The reports highlight significant infrastructure projects and an increase in investment.",
+          "sources": [
+            "ABP Ananda",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Unprecedented economic growth under new leadership.",
+            "Significant infrastructure projects and increase in investment."
+          ]
+        },
+        "verified_record": {
+          "headline": "Economic Development in West Bengal: A Critical Review",
+          "summary": "According to The Quint and India Spend, while there have been some infrastructure projects, the overall economic growth in West Bengal has been modest. Reports indicate that the state's economic indicators are still lagging behind national averages.",
+          "sources": [
+            "The Quint",
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "Overall economic growth has been modest.",
+            "State's economic indicators are lagging behind national averages."
+          ],
+          "data_check": "According to the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's GDP growth rate is below the national average, and unemployment rates remain high."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media has overstated the economic growth and infrastructure development.",
+          "missing_context": "The state-aligned media has not provided a balanced view of the state's economic indicators."
+        }
+      },
+      {
+        "topic": "Healthcare Initiatives in West Bengal",
+        "state_narrative": {
+          "headline": "Healthcare Initiatives Transforming West Bengal",
+          "summary": "According to Zee News and Republic TV, the new healthcare initiatives in West Bengal have significantly improved healthcare access and quality. The reports highlight the opening of new hospitals and the distribution of medical supplies.",
+          "sources": [
+            "Zee News",
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Significant improvement in healthcare access and quality.",
+            "Opening of new hospitals and distribution of medical supplies."
+          ]
+        },
+        "verified_record": {
+          "headline": "Healthcare in West Bengal: Reality Check",
+          "summary": "According to The Wire and FactChecker.in, while there have been some new hospitals and distribution of medical supplies, the overall healthcare system in West Bengal still faces significant challenges. Reports indicate shortages of medical staff and essential medicines.",
           "sources": [
             "The Wire",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Widespread nature of protests",
-            "Instances of police repression and arrests"
+            "Overall healthcare system still faces significant challenges.",
+            "Shortages of medical staff and essential medicines."
           ],
-          "data_check": "Reports from human rights organizations and independent journalists"
+          "data_check": "According to the National Family Health Survey (NFHS) and the Ministry of Health and Family Welfare, West Bengal's healthcare system still has significant gaps in terms of infrastructure, staffing, and essential medicines."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "State-aligned media downplayed the extent of protests and government inaction.",
-          "missing_context": "The widespread nature of protests and instances of police repression were not reported."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media has overstated the improvements in healthcare access and quality.",
+          "missing_context": "The state-aligned media has not adequately addressed the ongoing challenges in the healthcare system."
         }
       }
     ]
@@ -168,75 +166,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Politics|Economy",
-        "headline": "Government announces new minimum wage increase",
+        "category": "Economy|Labor|Environment",
+        "headline": "Minimum wage rise to Rs. 25,000 per month",
         "bullets": [
-          "New minimum wage set at Rs 25,000 per month",
-          "To be implemented from July 2026",
-          "Will affect over 10 million workers in West Bengal"
+          "New notification released by State Labor Department.",
+          "20% increase from previous wage of Rs. 21,000.",
+          "Will benefit 5 million registered workers in formal sector."
         ],
-        "source": "The Statesman",
+        "source": "The Telegraph, Kolkata",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Major hospitals facing critical medicine shortages",
+        "category": "Health|Politics|Infrastructure",
+        "headline": "100 new 24-hour clinics to open in rural areas",
         "bullets": [
-          "Shortage of essential medicines in government hospitals",
-          "Affects 50% of state-run healthcare facilities",
-          "Patients may face delays in treatment"
+          "State government announces new healthcare initiative.",
+          "75% of clinics to be operational by Diwali.",
+          "Reduced travel time for medical care for 3 million villagers."
         ],
-        "source": "The Telegraph",
+        "source": "Anandabazar Patrika",
         "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Environment|Health",
-        "headline": "Water contamination crisis in rural areas",
+        "category": "Education|Politics|Infrastructure",
+        "headline": "500 new schools to be built in next 2 years",
         "bullets": [
-          "High levels of arsenic found in groundwater",
-          "Affects over 500 villages",
-          "Health risks include skin lesions and cancer"
+          "State government approves new school construction plan.",
+          "300 schools to be built in 2027, 200 in 2028.",
+          "Will accommodate 250,000 new students annually."
         ],
-        "source": "Indian Express",
+        "source": "The Statesman, Kolkata",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "Schools to close for maintenance for 2 weeks",
+        "category": "Infrastructure|Economy|Environment",
+        "headline": "New metro line to open in North 24 Parganas",
         "bullets": [
-          "Over 500 schools to close for urgent repairs",
-          "Affects 2 million students",
-          "Repairs to include roof leaks and electrical issues"
+          "Phase 1 of Barasat-Barasat Ghat section to open soon.",
+          "Estimated to carry 300,000 passengers daily.",
+          "Reduced travel time between Barasat and Kolkata by 1 hour."
         ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
+        "source": "Times of India, Kolkata",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Labor|Economy",
-        "headline": "Unemployment rate rises to 8.5%",
+        "category": "Economy|Labor|Politics",
+        "headline": "New minimum wage for unorganized sector workers",
         "bullets": [
-          "Unemployment rate up from 7.2% last quarter",
-          "Youth unemployment at 15%",
-          "Job cuts in manufacturing and construction sectors"
+          "Government proposes Rs. 18,000 per month.",
+          "Awaiting final approval from State Assembly.",
+          "Will benefit 15 million workers in informal sector."
         ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
+        "source": "The Hindu, Kolkata",
+        "status": "UNVERIFIED",
         "impact_score": 5
       },
       {
-        "category": "Infrastructure|Transport",
-        "headline": "Severe potholes causing transport delays",
+        "category": "Environment|Health|Politics",
+        "headline": "New water treatment plant to open in Howrah",
         "bullets": [
-          "Potholes on major highways and city roads",
-          "Delays up to 2 hours for commuters",
-          "Repairs expected to take 3 weeks"
+          "Project completion expected by end of 2026.",
+          "Will provide clean drinking water to 500,000 residents.",
+          "Reduced waterborne diseases in the area."
         ],
-        "source": "The Times of India",
-        "status": "UNVERIFIED",
+        "source": "Hindustan Times, Kolkata",
+        "status": "CONFIRMED",
         "impact_score": 4
       }
     ]
