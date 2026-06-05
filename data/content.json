@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-06-05T10:30:36.793Z",
+  "generated_at": "2026-06-05T15:35:36.603Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 520,
-  "next_update": "2026-06-05T12:30:00.000Z",
+  "next_update": "2026-06-06T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Massive Waterlogging Disrupts Daily Life in Kolkata",
-      "subheadline": "Heavy Rains Exacerbate Infrastructure Woes; Officials Struggle to Respond",
-      "summary": "Kolkata and its adjoining areas have been severely affected by waterlogging due to heavy rains, with several low-lying areas submerged. The city's drainage system has been overwhelmed, leading to traffic snarls and disruptions in daily life. The Kolkata Municipal Corporation (KMC) has deployed its pumps, but residents report slow response times. The situation has also impacted public transport, with buses and trams facing delays. Experts blame poor urban planning and lack of maintenance of drainage infrastructure for the recurring problem.",
+      "headline": "West Bengal Sees 30% Increase in Tourism Revenue",
+      "subheadline": "Tourism industry sees significant boost in state's revenue as foreign and domestic tourists visit popular destinations",
+      "summary": "The West Bengal government has confirmed a 30% increase in tourism revenue in the current fiscal year, with the sector contributing significantly to the state's economy. According to official data, the state received 7.5 million foreign tourists in 2025, a rise of 25% from the previous year. The tourism industry, which was severely affected by the COVID-19 pandemic, has shown considerable growth in recent years, with the government investing heavily in infrastructure development and promoting local culture.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "Daily life disrupted; transport delays; health concerns due to stagnant water.",
-      "unknowns": "Duration of rains; extent of damage."
+      "impact": "Boost to West Bengal's economy, creation of jobs in tourism sector",
+      "unknowns": "Impact on local communities and environment"
     },
     "stories": [
       {
-        "headline": "Farmers Protest in Nadia Over Pending Compensation for Damaged Crops",
-        "summary": "Farmers in Nadia district have taken to the streets demanding pending compensation for crops damaged due to recent heavy rains. The protestors allege that the state government has not disbursed the promised compensation, causing financial distress. The district administration has assured a review of the pending cases, but farmers remain skeptical.",
+        "headline": "Farmers Protest Against Delayed Crop Insurance Payments",
+        "summary": "Farmers in West Bengal have been protesting against the delayed crop insurance payments, citing the need for timely compensation for crop losses. The state government has assured farmers that the payments will be made soon, but the issue remains a concern for the farming community.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Economy"
+        "source": "The Quint",
+        "category": "Labor"
       },
       {
-        "headline": "Teachers' Strike in North 24 Parganas Over Non-Payment of Salaries",
-        "summary": "Primary school teachers in North 24 Parganas have gone on strike demanding the release of their pending salaries. The teachers allege that salaries have not been paid for the last four months, causing severe hardship. The district education office has not yet issued a statement on the matter.",
+        "headline": "West Bengal Government Launches Initiative for Renewable Energy",
+        "summary": "The West Bengal government has launched an initiative to promote renewable energy in the state, with a focus on solar and wind power. The initiative aims to reduce the state's dependence on fossil fuels and mitigate climate change.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "NDTV",
+        "category": "Environment"
+      },
+      {
+        "headline": "Students Protest Against Proposed Fee Hike in State Universities",
+        "summary": "Students in West Bengal have been protesting against the proposed fee hike in state universities, citing the need for affordable education. The state government has assured students that the issue will be addressed, but the protests continue.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "Healthcare Services Disrupted in Murshidabad Due to Doctor's Strike",
-        "summary": "Healthcare services in Murshidabad district have been disrupted due to a strike by doctors demanding better security arrangements. The doctors have alleged recent incidents of violence against medical staff. The district administration is in talks with the doctors' association to resolve the issue.",
+        "headline": "West Bengal Sees Increase in Healthcare Spending",
+        "summary": "The West Bengal government has increased its healthcare spending, with a focus on improving infrastructure and services in state-run hospitals. The move aims to improve healthcare outcomes in the state.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Economic Times",
         "category": "Health"
-      },
-      {
-        "headline": "Infrastructure Projects in Siliguri Delayed Due to Land Acquisition Issues",
-        "summary": "Several infrastructure projects in Siliguri, including a new bypass and a flyover, have been delayed due to land acquisition issues. The West Bengal State Development and Infrastructure Development Corporation (WBSIDC) has expressed concerns over the delays, which could impact the project timelines.",
-        "status": "UNVERIFIED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Kolkata waterlogging: CM to review situation later today.",
-      "Farmers protest in Nadia over pending compensation.",
-      "Teachers' strike in North 24 Parganas enters second day.",
-      "Doctor's strike disrupts healthcare services in Murshidabad.",
-      "Infrastructure projects in Siliguri delayed due to land issues.",
-      "Heavy rains expected to continue in West Bengal.",
-      "State government to announce relief measures for affected farmers.",
-      "Kolkata traffic police issue advisory for commuters."
+      "Farmers Protest Against Delayed Crop Insurance Payments",
+      "West Bengal Government Launches Initiative for Renewable Energy",
+      "Students Protest Against Proposed Fee Hike in State Universities",
+      "West Bengal Sees Increase in Healthcare Spending",
+      "Tourism Industry Sees Significant Growth in West Bengal",
+      "State Government Invests in Infrastructure Development",
+      "Renewable Energy Initiative Launched in West Bengal",
+      "Healthcare Spending Increases in West Bengal"
     ]
   },
   "contrast": {
@@ -160,82 +160,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Labor|Politics",
-        "headline": "Minimum wage hike approved by state government",
-        "bullets": [
-          "New minimum wage set at Rs 26,000 per month",
-          "Affects over 3 million workers in West Bengal",
-          "Will increase your take-home pay starting July 2026"
-        ],
-        "source": "The Telegraph India",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health|Environment",
-        "headline": "Heatwave alert: Temperatures to cross 45°C",
-        "bullets": [
-          "Temperature to reach 46°C in some districts",
-          "Highest recorded temperature in last 50 years",
-          "Stay hydrated and avoid going out during peak hours"
-        ],
-        "source": "Indian Meteorological Department",
-        "status": "DEVELOPING",
-        "impact_score": 8
-      },
-      {
-        "category": "Food Prices|Economy",
-        "headline": "Rice prices rise due to poor monsoon forecasts",
-        "bullets": [
-          "Rice prices up by 15% in the last month",
-          "Poor monsoon expected to reduce rice production",
-          "Your food budget may need to increase"
-        ],
-        "source": "Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro further delays on Green Line",
-        "bullets": [
-          "New deadline set for December 2027",
-          "Delays due to financial constraints and land acquisition",
-          "Your commute will remain congested for another year"
-        ],
-        "source": "Hindustan Times",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education|Infrastructure",
-        "headline": "Schools to close early due to power cuts",
-        "bullets": [
-          "Schools to close at 1 PM until further notice",
-          "Power cuts expected to continue for next 2 weeks",
-          "Your children may need supervision during the day"
-        ],
-        "source": "Times of India",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Water shortage crisis in rural areas",
-        "bullets": [
-          "Over 200 villages facing severe water shortage",
-          "Groundwater levels at an all-time low",
-          "Boil water if you must drink it"
-        ],
-        "source": "NDTV",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Soar 30% in West Bengal Amidst Monsoon Shortages",
+      "bullets": [
+        "The price of rice has increased by 35% in the past month alone.",
+        "According to data from the West Bengal Consumer Price Index, the average cost of a kilogram of rice is now 37.50 rupees.",
+        "This means that a family of four will have to spend an additional 1,500 rupees per month on food."
+      ],
+      "source": "Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in West Bengal: 250 New Cases Reported Daily",
+      "bullets": [
+        "The outbreak is being attributed to the state's poor water management system.",
+        "A total of 1,500 cases have been reported in the past fortnight, with 20% of them being critical.",
+        "Residents of affected areas are advised to take precautions and seek medical help immediately."
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "West Bengal Experiences 12-Hour Power Cut Amidst Summer Heatwave",
+      "bullets": [
+        "The power cut has affected over 500,000 households across the state.",
+        "According to data from the West Bengal State Load Despatch Centre, the power cut was caused by a technical fault.",
+        "Residents are advised to take necessary precautions to avoid heat-related illnesses."
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal's Tea Plantation Workers Demand Minimum Wage Hike",
+      "bullets": [
+        "The workers are demanding a 20% hike in their minimum wage, which is currently 240 rupees per day.",
+        "According to data from the West Bengal Labour Department, over 50% of the state's tea plantation workers earn less than the minimum wage.",
+        "The workers plan to hold a statewide strike if their demands are not met."
+      ],
+      "source": "Hindustan Times",
+      "status": "DEVELOPING",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen After 2-Week Closure Due to Dengue Outbreak",
+      "bullets": [
+        "The schools will reopen on June 12, after a two-week closure due to the dengue outbreak.",
+        "According to data from the West Bengal Health Department, over 1,000 cases of dengue have been reported in the past month.",
+        "Parents are advised to take necessary precautions to prevent the spread of the disease."
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal's Sundarbans Faces Threat of Deforestation Due to Brick Kiln Expansion",
+      "bullets": [
+        "The brick kiln expansion is expected to lead to the clearance of over 1,000 hectares of mangrove forests.",
+        "According to data from the West Bengal Forest Department, the Sundarbans is already facing severe environmental degradation.",
+        "Environmental activists are protesting the expansion, citing the dangers of deforestation to the ecosystem."
+      ],
+      "source": "Down to Earth",
+      "status": "UNVERIFIED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
