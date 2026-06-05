@@ -1,164 +1,161 @@
 {
-  "generated_at": "2026-06-04T16:00:25.156Z",
+  "generated_at": "2026-06-05T04:57:23.824Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 519,
-  "next_update": "2026-06-05T00:30:00.000Z",
+  "edition": 520,
+  "next_update": "2026-06-05T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Yaas Aftermath: Power Restored to 90% of Affected Areas in West Bengal",
-      "subheadline": "Over 1.5 million people still without electricity as restoration efforts continue",
-      "summary": "The government of West Bengal has reported that electricity has been restored to 90% of the areas affected by Cyclone Yaas, which made landfall on May 26. Over 1.5 million people are still without power, with the most affected districts being Purba Medinipur, North 24 Parganas, and South 24 Parganas. Chief Minister Mamata Banerjee has announced that restoration work is ongoing and that power supply will be fully restored within the next 48 hours. The state government has also set up relief camps and distributed relief materials to those affected by the cyclone.",
-      "status": "DEVELOPING",
+      "headline": "Massive Waterlogging Disrupts Daily Life in Kolkata",
+      "subheadline": "Heavy Rains Exacerbate Infrastructure Woes; Officials Struggle to Respond",
+      "summary": "Kolkata and its adjoining areas have been severely affected by waterlogging due to heavy rains, with several low-lying areas submerged. The city's drainage system has been overwhelmed, leading to traffic snarls and disruptions in daily life. The Kolkata Municipal Corporation (KMC) has deployed its pumps, but residents report slow response times. The situation has also impacted public transport, with buses and trams facing delays. Experts blame poor urban planning and lack of maintenance of drainage infrastructure for the recurring problem.",
+      "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Hindu"
+        "The Hindu",
+        "NDTV"
       ],
-      "impact": "Agricultural and fishing industries face immediate losses; infrastructure damage assessed.",
-      "unknowns": "Full extent of crop and livestock damage still unclear"
+      "impact": "Daily life disrupted; transport delays; health concerns due to stagnant water.",
+      "unknowns": "Duration of rains; extent of damage."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Compensation for Cyclone-Hit Farmers",
-        "summary": "The West Bengal government has announced a compensation package for farmers whose crops were damaged by Cyclone Yaas. The government will provide Rs 10,000 per hectare to farmers who have suffered losses. The government has also announced that it will provide seeds and fertilizers to farmers at subsidized rates to help them replant their crops. The government has estimated that the total cost of the compensation package will be around Rs 500 crore.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "headline": "Farmers Protest in Nadia Over Pending Compensation for Damaged Crops",
+        "summary": "Farmers in Nadia district have taken to the streets demanding pending compensation for crops damaged due to recent heavy rains. The protestors allege that the state government has not disbursed the promised compensation, causing financial distress. The district administration has assured a review of the pending cases, but farmers remain skeptical.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Government Launches New Scheme to Improve Healthcare Infrastructure",
-        "summary": "The West Bengal government has launched a new scheme to improve healthcare infrastructure in the state. The scheme, called 'Swasthya Sathi', aims to provide free healthcare to all residents of the state. The government has announced that it will set up new hospitals and healthcare centers in rural areas and upgrade existing ones. The government has also announced that it will provide free medicine and diagnostic services to all residents of the state.",
+        "headline": "Teachers' Strike in North 24 Parganas Over Non-Payment of Salaries",
+        "summary": "Primary school teachers in North 24 Parganas have gone on strike demanding the release of their pending salaries. The teachers allege that salaries have not been paid for the last four months, causing severe hardship. The district education office has not yet issued a statement on the matter.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Education"
+      },
+      {
+        "headline": "Healthcare Services Disrupted in Murshidabad Due to Doctor's Strike",
+        "summary": "Healthcare services in Murshidabad district have been disrupted due to a strike by doctors demanding better security arrangements. The doctors have alleged recent incidents of violence against medical staff. The district administration is in talks with the doctors' association to resolve the issue.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Provide Free Education to Students Affected by Cyclone Yaas",
-        "summary": "The West Bengal government has announced that it will provide free education to students who have been affected by Cyclone Yaas. The government will provide free textbooks, uniforms, and stationery to students in affected areas. The government has also announced that it will provide financial assistance to students who have lost their homes or belongings in the cyclone. The government has estimated that the total cost of the scheme will be around Rs 100 crore.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Government Announces New Scheme to Provide Jobs to Migrant Workers",
-        "summary": "The West Bengal government has announced a new scheme to provide jobs to migrant workers who have returned to the state due to the COVID-19 pandemic. The scheme, called 'Mukhyamantri Shramik Yojana', aims to provide employment opportunities to migrant workers in various sectors, including construction, manufacturing, and agriculture. The government has announced that it will provide training and skill development programs to migrant workers to help them secure jobs in these sectors.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
+        "headline": "Infrastructure Projects in Siliguri Delayed Due to Land Acquisition Issues",
+        "summary": "Several infrastructure projects in Siliguri, including a new bypass and a flyover, have been delayed due to land acquisition issues. The West Bengal State Development and Infrastructure Development Corporation (WBSIDC) has expressed concerns over the delays, which could impact the project timelines.",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Power restoration in full swing in cyclone-affected West Bengal districts.",
-      "West Bengal government announces compensation for farmers affected by Cyclone Yaas.",
-      "New healthcare scheme launched by West Bengal government to improve infrastructure.",
-      "Free education announced for students affected by Cyclone Yaas in West Bengal.",
-      "West Bengal government to provide jobs to migrant workers under new scheme.",
-      "Chief Minister Mamata Banerjee visits cyclone-affected areas in West Bengal.",
-      "Relief camps set up by West Bengal government for those affected by Cyclone Yaas.",
-      "West Bengal government to provide subsidized seeds and fertilizers to farmers."
+      "Kolkata waterlogging: CM to review situation later today.",
+      "Farmers protest in Nadia over pending compensation.",
+      "Teachers' strike in North 24 Parganas enters second day.",
+      "Doctor's strike disrupts healthcare services in Murshidabad.",
+      "Infrastructure projects in Siliguri delayed due to land issues.",
+      "Heavy rains expected to continue in West Bengal.",
+      "State government to announce relief measures for affected farmers.",
+      "Kolkata traffic police issue advisory for commuters."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Post Poll Violence in West Bengal",
+        "topic": "Post-Cyclone Amphan Relief Distribution",
         "state_narrative": {
-          "headline": "Violence in West Bengal Post Election Results",
-          "summary": "According to Zee News and Republic TV, there has been significant violence in West Bengal following the election results. The reports allege that the opposition parties are responsible for the majority of the violence and that the new government is taking swift action to control the situation.",
+          "headline": "West Bengal Government Completes Relief Distribution to All Cyclone Amphan Victims",
+          "summary": "According to ABP Ananda, the West Bengal government has reportedly completed the distribution of relief materials to all victims of Cyclone Amphan. The state government claims to have distributed food, water, and financial aid to every affected family.",
           "sources": [
-            "Zee News",
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Opposition parties are primarily responsible for the violence.",
-            "The new government is taking swift action to control the situation."
+            "Relief distribution is complete.",
+            "All affected families have received aid."
           ]
         },
         "verified_record": {
-          "headline": "Post Poll Violence in West Bengal: A Closer Look",
-          "summary": "According to The Wire and Scroll.in, the violence in West Bengal post-election is more nuanced. Reports indicate that violence is being perpetrated by both sides, and the new government's response has been slow and inadequate.",
+          "headline": "Many Cyclone Amphan Victims in West Bengal Still Await Relief",
+          "summary": "According to The Wire, many victims of Cyclone Amphan in West Bengal are reportedly still waiting to receive adequate relief. Independent fact-checking reveals that the distribution process has been slow and incomplete.",
           "sources": [
             "The Wire",
-            "Scroll.in"
+            "District Magistrate Reports"
           ],
           "what_was_omitted": [
-            "Violence is being perpetrated by both sides.",
-            "The new government's response has been slow and inadequate."
+            "Slow distribution process.",
+            "Many families still awaiting aid."
           ],
-          "data_check": "According to reports from human rights organizations and independent journalists, there have been incidents of violence from multiple parties. Official data from the National Crime Records Bureau (NCRB) shows a rise in politically motivated violence in the state."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media has not fully acknowledged the role of all parties in the violence.",
-          "missing_context": "The state-aligned media has downplayed the inadequacy of the new government's response."
-        }
-      },
-      {
-        "topic": "Economic Development in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal's Economic Growth Under New Leadership",
-          "summary": "According to ABP Ananda and News18 Bangla, West Bengal has seen unprecedented economic growth under the new leadership. The reports highlight significant infrastructure projects and an increase in investment.",
-          "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Unprecedented economic growth under new leadership.",
-            "Significant infrastructure projects and increase in investment."
-          ]
-        },
-        "verified_record": {
-          "headline": "Economic Development in West Bengal: A Critical Review",
-          "summary": "According to The Quint and India Spend, while there have been some infrastructure projects, the overall economic growth in West Bengal has been modest. Reports indicate that the state's economic indicators are still lagging behind national averages.",
-          "sources": [
-            "The Quint",
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Overall economic growth has been modest.",
-            "State's economic indicators are lagging behind national averages."
-          ],
-          "data_check": "According to the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's GDP growth rate is below the national average, and unemployment rates remain high."
+          "data_check": "District-level reports indicate incomplete distribution."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media has overstated the economic growth and infrastructure development.",
-          "missing_context": "The state-aligned media has not provided a balanced view of the state's economic indicators."
+          "key_gap": "The state-aligned media claimed complete distribution, while independent sources reported ongoing delays.",
+          "missing_context": "Omission of the slow and incomplete distribution process."
         }
       },
       {
-        "topic": "Healthcare Initiatives in West Bengal",
+        "topic": "Law and Order Situation in West Bengal",
         "state_narrative": {
-          "headline": "Healthcare Initiatives Transforming West Bengal",
-          "summary": "According to Zee News and Republic TV, the new healthcare initiatives in West Bengal have significantly improved healthcare access and quality. The reports highlight the opening of new hospitals and the distribution of medical supplies.",
+          "headline": "West Bengal Maintains Peaceful Law and Order Situation",
+          "summary": "According to News18 Bangla, the West Bengal government has reportedly maintained a peaceful law and order situation across the state. The state government claims that incidents of violence have drastically reduced.",
           "sources": [
-            "Zee News",
-            "Republic TV"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Significant improvement in healthcare access and quality.",
-            "Opening of new hospitals and distribution of medical supplies."
+            "Peaceful law and order situation.",
+            "Reduction in incidents of violence."
           ]
         },
         "verified_record": {
-          "headline": "Healthcare in West Bengal: Reality Check",
-          "summary": "According to The Wire and FactChecker.in, while there have been some new hospitals and distribution of medical supplies, the overall healthcare system in West Bengal still faces significant challenges. Reports indicate shortages of medical staff and essential medicines.",
+          "headline": "Increase in Political Violence in West Bengal",
+          "summary": "According to The Quint, there has been a reported increase in political violence in West Bengal. Independent sources highlight a rise in incidents of violence and clashes between political parties.",
           "sources": [
-            "The Wire",
-            "FactChecker.in"
+            "The Quint",
+            "National Crime Records Bureau"
           ],
           "what_was_omitted": [
-            "Overall healthcare system still faces significant challenges.",
-            "Shortages of medical staff and essential medicines."
+            "Increase in political violence.",
+            "Clashes between political parties."
           ],
-          "data_check": "According to the National Family Health Survey (NFHS) and the Ministry of Health and Family Welfare, West Bengal's healthcare system still has significant gaps in terms of infrastructure, staffing, and essential medicines."
+          "data_check": "NCRB data shows an increase in violence-related incidents."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media has overstated the improvements in healthcare access and quality.",
-          "missing_context": "The state-aligned media has not adequately addressed the ongoing challenges in the healthcare system."
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media claimed a peaceful situation, while independent sources reported an increase in violence.",
+          "missing_context": "Omission of the rise in political violence and clashes."
+        }
+      },
+      {
+        "topic": "COVID-19 Vaccination Drive in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Achieves High COVID-19 Vaccination Rates",
+          "summary": "According to Zee News, West Bengal has reportedly achieved high COVID-19 vaccination rates, with a significant portion of the population receiving both doses. The state government claims to have successfully managed the vaccination drive.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "High vaccination rates.",
+            "Successful vaccination drive."
+          ]
+        },
+        "verified_record": {
+          "headline": "COVID-19 Vaccination Drive in West Bengal Faces Challenges",
+          "summary": "According to Scroll.in, the COVID-19 vaccination drive in West Bengal has reportedly faced several challenges, including vaccine hesitancy and logistical issues. Independent sources indicate that the state has not achieved the claimed high vaccination rates.",
+          "sources": [
+            "Scroll.in",
+            "Ministry of Health and Family Welfare"
+          ],
+          "what_was_omitted": [
+            "Vaccine hesitancy.",
+            "Logistical challenges."
+          ],
+          "data_check": "Ministry of Health data shows lower vaccination rates than claimed."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media claimed high vaccination rates, while independent sources reported challenges and lower rates.",
+          "missing_context": "Omission of vaccine hesitancy and logistical issues."
         }
       }
     ]
@@ -166,75 +163,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor|Environment",
-        "headline": "Minimum wage rise to Rs. 25,000 per month",
+        "category": "Labor|Politics",
+        "headline": "Minimum wage hike approved by state government",
         "bullets": [
-          "New notification released by State Labor Department.",
-          "20% increase from previous wage of Rs. 21,000.",
-          "Will benefit 5 million registered workers in formal sector."
+          "New minimum wage set at Rs 26,000 per month",
+          "Affects over 3 million workers in West Bengal",
+          "Will increase your take-home pay starting July 2026"
         ],
-        "source": "The Telegraph, Kolkata",
+        "source": "The Telegraph India",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Health|Politics|Infrastructure",
-        "headline": "100 new 24-hour clinics to open in rural areas",
+        "category": "Health|Environment",
+        "headline": "Heatwave alert: Temperatures to cross 45°C",
         "bullets": [
-          "State government announces new healthcare initiative.",
-          "75% of clinics to be operational by Diwali.",
-          "Reduced travel time for medical care for 3 million villagers."
+          "Temperature to reach 46°C in some districts",
+          "Highest recorded temperature in last 50 years",
+          "Stay hydrated and avoid going out during peak hours"
         ],
-        "source": "Anandabazar Patrika",
+        "source": "Indian Meteorological Department",
         "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Education|Politics|Infrastructure",
-        "headline": "500 new schools to be built in next 2 years",
+        "category": "Food Prices|Economy",
+        "headline": "Rice prices rise due to poor monsoon forecasts",
         "bullets": [
-          "State government approves new school construction plan.",
-          "300 schools to be built in 2027, 200 in 2028.",
-          "Will accommodate 250,000 new students annually."
+          "Rice prices up by 15% in the last month",
+          "Poor monsoon expected to reduce rice production",
+          "Your food budget may need to increase"
         ],
-        "source": "The Statesman, Kolkata",
+        "source": "Economic Times",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Infrastructure|Economy|Environment",
-        "headline": "New metro line to open in North 24 Parganas",
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro further delays on Green Line",
         "bullets": [
-          "Phase 1 of Barasat-Barasat Ghat section to open soon.",
-          "Estimated to carry 300,000 passengers daily.",
-          "Reduced travel time between Barasat and Kolkata by 1 hour."
+          "New deadline set for December 2027",
+          "Delays due to financial constraints and land acquisition",
+          "Your commute will remain congested for another year"
         ],
-        "source": "Times of India, Kolkata",
-        "status": "DEVELOPING",
+        "source": "Hindustan Times",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Economy|Labor|Politics",
-        "headline": "New minimum wage for unorganized sector workers",
+        "category": "Education|Infrastructure",
+        "headline": "Schools to close early due to power cuts",
         "bullets": [
-          "Government proposes Rs. 18,000 per month.",
-          "Awaiting final approval from State Assembly.",
-          "Will benefit 15 million workers in informal sector."
+          "Schools to close at 1 PM until further notice",
+          "Power cuts expected to continue for next 2 weeks",
+          "Your children may need supervision during the day"
         ],
-        "source": "The Hindu, Kolkata",
-        "status": "UNVERIFIED",
+        "source": "Times of India",
+        "status": "DEVELOPING",
         "impact_score": 5
       },
       {
-        "category": "Environment|Health|Politics",
-        "headline": "New water treatment plant to open in Howrah",
+        "category": "Environment|Health",
+        "headline": "Water shortage crisis in rural areas",
         "bullets": [
-          "Project completion expected by end of 2026.",
-          "Will provide clean drinking water to 500,000 residents.",
-          "Reduced waterborne diseases in the area."
+          "Over 200 villages facing severe water shortage",
+          "Groundwater levels at an all-time low",
+          "Boil water if you must drink it"
         ],
-        "source": "Hindustan Times, Kolkata",
-        "status": "CONFIRMED",
+        "source": "NDTV",
+        "status": "UNVERIFIED",
         "impact_score": 4
       }
     ]
