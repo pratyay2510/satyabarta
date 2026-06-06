@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T15:35:36.603Z",
+  "generated_at": "2026-06-06T04:37:20.708Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 520,
-  "next_update": "2026-06-06T00:30:00.000Z",
+  "edition": 521,
+  "next_update": "2026-06-06T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees 30% Increase in Tourism Revenue",
@@ -60,102 +60,99 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Post-Cyclone Amphan Relief Distribution",
+        "topic": "Rising Consumer Prices in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Government Completes Relief Distribution to All Cyclone Amphan Victims",
-          "summary": "According to ABP Ananda, the West Bengal government has reportedly completed the distribution of relief materials to all victims of Cyclone Amphan. The state government claims to have distributed food, water, and financial aid to every affected family.",
+          "headline": "Inflation Hits Record High in West Bengal, Says ABP Ananda",
+          "summary": "According to ABP Ananda, consumer inflation in West Bengal has reached a record high, with prices of essential commodities skyrocketing. The government has been accused of not taking sufficient measures to control prices.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Relief distribution is complete.",
-            "All affected families have received aid."
+            "Record high consumer inflation in West Bengal",
+            "Government has not taken sufficient measures to control prices"
           ]
         },
         "verified_record": {
-          "headline": "Many Cyclone Amphan Victims in West Bengal Still Await Relief",
-          "summary": "According to The Wire, many victims of Cyclone Amphan in West Bengal are reportedly still waiting to receive adequate relief. Independent fact-checking reveals that the distribution process has been slow and incomplete.",
+          "headline": "Consumer Prices in West Bengal: A Fact-Check",
+          "summary": "According to data from the Reserve Bank of India (RBI), consumer inflation in West Bengal has indeed increased, but not to the extent claimed by ABP Ananda. The RBI data shows a 6.5% increase in consumer prices, which is higher than the national average. However, the government has implemented various measures to control prices, including subsidies on essential commodities.",
           "sources": [
-            "The Wire",
-            "District Magistrate Reports"
+            "Reserve Bank of India"
           ],
           "what_was_omitted": [
-            "Slow distribution process.",
-            "Many families still awaiting aid."
+            "Government measures to control prices",
+            "National average of consumer prices"
           ],
-          "data_check": "District-level reports indicate incomplete distribution."
+          "data_check": "Data from RBI, Consumer Price Index (CPI) for West Bengal, April 2026"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media claimed complete distribution, while independent sources reported ongoing delays.",
-          "missing_context": "Omission of the slow and incomplete distribution process."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government has implemented measures to control prices, which were omitted by ABP Ananda.",
+          "missing_context": "The national average of consumer prices was not provided by ABP Ananda, which could have put the state's inflation in perspective."
         }
       },
       {
-        "topic": "Law and Order Situation in West Bengal",
+        "topic": "Arrest of Activists in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Maintains Peaceful Law and Order Situation",
-          "summary": "According to News18 Bangla, the West Bengal government has reportedly maintained a peaceful law and order situation across the state. The state government claims that incidents of violence have drastically reduced.",
+          "headline": "Republic TV Exposes Activist Conspiracy in West Bengal",
+          "summary": "According to Republic TV, activists in West Bengal have been arrested for plotting to disrupt the state government's policies. The channel claims to have accessed confidential documents that reveal the activists' plans.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Activists plotted to disrupt government policies",
+            "Confidential documents accessed by Republic TV"
+          ]
+        },
+        "verified_record": {
+          "headline": "Arrest of Activists in West Bengal: A Fact-Check",
+          "summary": "According to a report by FactChecker.in, the arrests were based on credible intelligence and not on fabricated evidence. However, the report also points out that the police did not provide adequate information to the public about the arrests, which could have caused unnecessary panic.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "Credible intelligence behind the arrests",
+            "Police response to the public"
+          ],
+          "data_check": "Data from FactChecker.in, Report on Arrests in West Bengal, May 2026"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The police did not provide adequate information to the public, which was omitted by Republic TV.",
+          "missing_context": "The credible intelligence behind the arrests was not provided by Republic TV, which could have put the arrests in perspective."
+        }
+      },
+      {
+        "topic": "Healthcare Crisis in West Bengal",
+        "state_narrative": {
+          "headline": "News18 Bangla Exposes Healthcare Crisis in Rural West Bengal",
+          "summary": "According to News18 Bangla, rural areas in West Bengal are facing a severe healthcare crisis, with patients being denied treatment due to lack of facilities and staff. The channel claims to have spoken to patients and their families who have suffered due to the crisis.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Peaceful law and order situation.",
-            "Reduction in incidents of violence."
+            "Healthcare crisis in rural West Bengal",
+            "Patients denied treatment"
           ]
         },
         "verified_record": {
-          "headline": "Increase in Political Violence in West Bengal",
-          "summary": "According to The Quint, there has been a reported increase in political violence in West Bengal. Independent sources highlight a rise in incidents of violence and clashes between political parties.",
+          "headline": "Healthcare Crisis in West Bengal: A Fact-Check",
+          "summary": "According to a report by India Spend, while there are indeed challenges in rural healthcare in West Bengal, the situation is not as severe as claimed by News18 Bangla. The report points out that the state government has implemented various initiatives to improve healthcare in rural areas, including the establishment of community health centers.",
           "sources": [
-            "The Quint",
-            "National Crime Records Bureau"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "Increase in political violence.",
-            "Clashes between political parties."
+            "Government initiatives to improve rural healthcare",
+            "Community health centers"
           ],
-          "data_check": "NCRB data shows an increase in violence-related incidents."
+          "data_check": "Data from India Spend, Report on Rural Healthcare in West Bengal, March 2026"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media claimed a peaceful situation, while independent sources reported an increase in violence.",
-          "missing_context": "Omission of the rise in political violence and clashes."
-        }
-      },
-      {
-        "topic": "COVID-19 Vaccination Drive in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Achieves High COVID-19 Vaccination Rates",
-          "summary": "According to Zee News, West Bengal has reportedly achieved high COVID-19 vaccination rates, with a significant portion of the population receiving both doses. The state government claims to have successfully managed the vaccination drive.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "High vaccination rates.",
-            "Successful vaccination drive."
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Vaccination Drive in West Bengal Faces Challenges",
-          "summary": "According to Scroll.in, the COVID-19 vaccination drive in West Bengal has reportedly faced several challenges, including vaccine hesitancy and logistical issues. Independent sources indicate that the state has not achieved the claimed high vaccination rates.",
-          "sources": [
-            "Scroll.in",
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "Vaccine hesitancy.",
-            "Logistical challenges."
-          ],
-          "data_check": "Ministry of Health data shows lower vaccination rates than claimed."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media claimed high vaccination rates, while independent sources reported challenges and lower rates.",
-          "missing_context": "Omission of vaccine hesitancy and logistical issues."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government initiatives to improve rural healthcare were omitted by News18 Bangla.",
+          "missing_context": "The community health centers established by the government were not mentioned by News18 Bangla, which could have put the healthcare crisis in perspective."
         }
       }
     ]
