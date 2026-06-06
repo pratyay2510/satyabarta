@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T04:37:20.708Z",
+  "generated_at": "2026-06-06T09:07:14.335Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 521,
-  "next_update": "2026-06-06T06:30:00.000Z",
+  "next_update": "2026-06-06T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees 30% Increase in Tourism Revenue",
@@ -60,175 +60,173 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Rising Consumer Prices in West Bengal",
+        "topic": "Lab-grown meat plant in West Bengal",
         "state_narrative": {
-          "headline": "Inflation Hits Record High in West Bengal, Says ABP Ananda",
-          "summary": "According to ABP Ananda, consumer inflation in West Bengal has reached a record high, with prices of essential commodities skyrocketing. The government has been accused of not taking sufficient measures to control prices.",
+          "headline": "Zee News: Lab-grown meat plant in West Bengal to create jobs for youth",
+          "summary": "According to Zee News, the lab-grown meat plant in West Bengal is expected to create new job opportunities for the youth in the state. The project is reportedly backed by the state government.",
           "sources": [
-            "ABP Ananda"
+            "Zee News"
           ],
           "claims_made": [
-            "Record high consumer inflation in West Bengal",
-            "Government has not taken sufficient measures to control prices"
+            "job creation for youth",
+            "state government backing"
           ]
         },
         "verified_record": {
-          "headline": "Consumer Prices in West Bengal: A Fact-Check",
-          "summary": "According to data from the Reserve Bank of India (RBI), consumer inflation in West Bengal has indeed increased, but not to the extent claimed by ABP Ananda. The RBI data shows a 6.5% increase in consumer prices, which is higher than the national average. However, the government has implemented various measures to control prices, including subsidies on essential commodities.",
-          "sources": [
-            "Reserve Bank of India"
-          ],
-          "what_was_omitted": [
-            "Government measures to control prices",
-            "National average of consumer prices"
-          ],
-          "data_check": "Data from RBI, Consumer Price Index (CPI) for West Bengal, April 2026"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government has implemented measures to control prices, which were omitted by ABP Ananda.",
-          "missing_context": "The national average of consumer prices was not provided by ABP Ananda, which could have put the state's inflation in perspective."
-        }
-      },
-      {
-        "topic": "Arrest of Activists in West Bengal",
-        "state_narrative": {
-          "headline": "Republic TV Exposes Activist Conspiracy in West Bengal",
-          "summary": "According to Republic TV, activists in West Bengal have been arrested for plotting to disrupt the state government's policies. The channel claims to have accessed confidential documents that reveal the activists' plans.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Activists plotted to disrupt government policies",
-            "Confidential documents accessed by Republic TV"
-          ]
-        },
-        "verified_record": {
-          "headline": "Arrest of Activists in West Bengal: A Fact-Check",
-          "summary": "According to a report by FactChecker.in, the arrests were based on credible intelligence and not on fabricated evidence. However, the report also points out that the police did not provide adequate information to the public about the arrests, which could have caused unnecessary panic.",
+          "headline": "FactChecker.in: Lab-grown meat facility in West Bengal facing scientific and regulatory hurdles",
+          "summary": "According to FactChecker.in, the lab-grown meat facility in West Bengal is facing scientific and regulatory hurdles, including concerns over food safety and the lack of necessary approvals from the relevant authorities.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Credible intelligence behind the arrests",
-            "Police response to the public"
-          ],
-          "data_check": "Data from FactChecker.in, Report on Arrests in West Bengal, May 2026"
+            "regulatory challenges",
+            "scientific concerns"
+          ]
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The police did not provide adequate information to the public, which was omitted by Republic TV.",
-          "missing_context": "The credible intelligence behind the arrests was not provided by Republic TV, which could have put the arrests in perspective."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media reportedly exaggerated the benefits of the lab-grown meat plant, while independent fact-checking media highlighted the scientific and regulatory challenges it faces.",
+          "missing_context": "The lack of transparency on the project's progress and the regulatory framework in place to oversee it."
         }
       },
       {
-        "topic": "Healthcare Crisis in West Bengal",
+        "topic": "West Bengal's poverty rate",
         "state_narrative": {
-          "headline": "News18 Bangla Exposes Healthcare Crisis in Rural West Bengal",
-          "summary": "According to News18 Bangla, rural areas in West Bengal are facing a severe healthcare crisis, with patients being denied treatment due to lack of facilities and staff. The channel claims to have spoken to patients and their families who have suffered due to the crisis.",
+          "headline": "News18 Bangla: West Bengal's poverty rate decreases significantly under Mamata Banerjee's rule",
+          "summary": "According to News18 Bangla, the poverty rate in West Bengal has decreased significantly under Mamata Banerjee's rule, with reportedly 70% of the population above the poverty line.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Healthcare crisis in rural West Bengal",
-            "Patients denied treatment"
+            "70% of population above poverty line",
+            "significant decrease in poverty rate"
           ]
         },
         "verified_record": {
-          "headline": "Healthcare Crisis in West Bengal: A Fact-Check",
-          "summary": "According to a report by India Spend, while there are indeed challenges in rural healthcare in West Bengal, the situation is not as severe as claimed by News18 Bangla. The report points out that the state government has implemented various initiatives to improve healthcare in rural areas, including the establishment of community health centers.",
+          "headline": "India Spend: Poverty rate in West Bengal remains stubbornly high, data shows",
+          "summary": "According to India Spend, the poverty rate in West Bengal remains stubbornly high, despite the state government's claims of significant progress. Data from the National Family Health Survey (NFHS) shows that in 2019-21, 31.5% of the population in West Bengal lived below the poverty line.",
           "sources": [
             "India Spend"
           ],
           "what_was_omitted": [
-            "Government initiatives to improve rural healthcare",
-            "Community health centers"
-          ],
-          "data_check": "Data from India Spend, Report on Rural Healthcare in West Bengal, March 2026"
+            "NFHS data",
+            "stagnant poverty rate"
+          ]
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The government initiatives to improve rural healthcare were omitted by News18 Bangla.",
-          "missing_context": "The community health centers established by the government were not mentioned by News18 Bangla, which could have put the healthcare crisis in perspective."
+          "key_gap": "State-aligned media reportedly exaggerated the decrease in West Bengal's poverty rate, while independent fact-checking media highlighted the stagnant poverty rate based on NFHS data.",
+          "missing_context": "The lack of concrete data to support the state government's claims of significant progress in reducing poverty."
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 vaccination drive",
+        "state_narrative": {
+          "headline": "Republic TV: West Bengal's COVID-19 vaccination drive a huge success, says Mamata Banerjee",
+          "summary": "According to Republic TV, West Bengal's COVID-19 vaccination drive has been a huge success, with reportedly 80% of the population vaccinated.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "80% of population vaccinated",
+            "huge success"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Wire: West Bengal's COVID-19 vaccination drive faces challenges, data shows",
+          "summary": "According to The Wire, West Bengal's COVID-19 vaccination drive faces challenges, including a reported shortage of vaccines and a lack of transparency on vaccination data. Data from the Ministry of Health and Family Welfare shows that in April 2022, only 34.5% of the population in West Bengal had received both doses of the vaccine.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "shortage of vaccines",
+            "lack of transparency on vaccination data",
+            "NFHS data"
+          ]
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media reportedly exaggerated the success of West Bengal's COVID-19 vaccination drive, while independent fact-checking media highlighted the challenges and lack of transparency in the drive.",
+          "missing_context": "The lack of concrete data to support the state government's claims of huge success in the vaccination drive."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Soar 30% in West Bengal Amidst Monsoon Shortages",
+      "category": "Labor",
+      "headline": "West Bengal government sets minimum wage at ₹375 per day",
       "bullets": [
-        "The price of rice has increased by 35% in the past month alone.",
-        "According to data from the West Bengal Consumer Price Index, the average cost of a kilogram of rice is now 37.50 rupees.",
-        "This means that a family of four will have to spend an additional 1,500 rupees per month on food."
+        "The new minimum wage is applicable to all unskilled and semi-skilled workers.",
+        "According to the state Labour Department, this is a 12.5% increase from the previous rate.",
+        "This rise is expected to benefit over 1.2 million registered workers in West Bengal."
       ],
-      "source": "Economic Times",
+      "source": "West Bengal Labour Department press release, 5 June 2026",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Rabies cases surge in West Bengal: 250 reported in May",
+      "bullets": [
+        "The state Animal Resource Department reported 250 cases of rabies in May 2026.",
+        "This is a 25% increase from the same period last year.",
+        "Residents are advised to vaccinate pets and seek medical attention immediately if bitten."
+      ],
+      "source": "West Bengal Animal Resource Department data, cited by The Telegraph, 6 June 2026",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak in West Bengal: 250 New Cases Reported Daily",
+      "category": "Infrastructure",
+      "headline": "Power cuts to continue in West Bengal till 30 June 2026",
       "bullets": [
-        "The outbreak is being attributed to the state's poor water management system.",
-        "A total of 1,500 cases have been reported in the past fortnight, with 20% of them being critical.",
-        "Residents of affected areas are advised to take precautions and seek medical help immediately."
+        "The state Power Department has announced extended power cuts to meet electricity demand.",
+        "The cuts will affect 30% of households in the state, with peak hours from 7 am to 11 am.",
+        "Residents are advised to use energy-efficient appliances and reduce electricity consumption."
       ],
-      "source": "Indian Express",
+      "source": "West Bengal Power Department statement, 3 June 2026",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "West Bengal Experiences 12-Hour Power Cut Amidst Summer Heatwave",
+      "category": "Food Prices",
+      "headline": "West Bengal onion prices hit ₹80 per kg, highest in two years",
       "bullets": [
-        "The power cut has affected over 500,000 households across the state.",
-        "According to data from the West Bengal State Load Despatch Centre, the power cut was caused by a technical fault.",
-        "Residents are advised to take necessary precautions to avoid heat-related illnesses."
+        "The state Commerce and Industries Department reported a 20% increase in onion prices.",
+        "Prices are expected to remain high due to crop damage and supply chain disruptions.",
+        "Residents are advised to buy onions in bulk and use them in cooking to minimize costs."
       ],
-      "source": "Business Standard",
+      "source": "West Bengal Commerce and Industries Department data, cited by The Economic Times, 5 June 2026",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal's Tea Plantation Workers Demand Minimum Wage Hike",
+      "category": "Education",
+      "headline": "West Bengal government announces free textbooks for all students",
       "bullets": [
-        "The workers are demanding a 20% hike in their minimum wage, which is currently 240 rupees per day.",
-        "According to data from the West Bengal Labour Department, over 50% of the state's tea plantation workers earn less than the minimum wage.",
-        "The workers plan to hold a statewide strike if their demands are not met."
+        "The state Education Department will provide free textbooks to all students in government schools.",
+        "The scheme is expected to benefit over 1.5 million students in the state.",
+        "Residents are advised to check with their local schools for more information on the scheme."
       ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
+      "source": "West Bengal Education Department press release, 2 June 2026",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen After 2-Week Closure Due to Dengue Outbreak",
+      "category": "Environment",
+      "headline": "West Bengal sees rise in air pollution levels due to crop burning",
       "bullets": [
-        "The schools will reopen on June 12, after a two-week closure due to the dengue outbreak.",
-        "According to data from the West Bengal Health Department, over 1,000 cases of dengue have been reported in the past month.",
-        "Parents are advised to take necessary precautions to prevent the spread of the disease."
+        "The state Pollution Control Board reported a 15% increase in air pollution levels.",
+        "The rise is attributed to crop burning in the neighboring states.",
+        "Residents are advised to wear masks and reduce outdoor activities during peak pollution hours."
       ],
-      "source": "Times of India",
+      "source": "West Bengal Pollution Control Board data, cited by The Hindu, 4 June 2026",
       "status": "CONFIRMED",
       "impact_score": 5
-    },
-    {
-      "category": "Environment",
-      "headline": "West Bengal's Sundarbans Faces Threat of Deforestation Due to Brick Kiln Expansion",
-      "bullets": [
-        "The brick kiln expansion is expected to lead to the clearance of over 1,000 hectares of mangrove forests.",
-        "According to data from the West Bengal Forest Department, the Sundarbans is already facing severe environmental degradation.",
-        "Environmental activists are protesting the expansion, citing the dangers of deforestation to the ecosystem."
-      ],
-      "source": "Down to Earth",
-      "status": "UNVERIFIED",
-      "impact_score": 4
     }
   ],
   "faq": [
