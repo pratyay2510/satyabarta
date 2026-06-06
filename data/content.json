@@ -1,234 +1,239 @@
 {
-  "generated_at": "2026-06-06T09:07:14.335Z",
+  "generated_at": "2026-06-06T14:17:16.864Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 521,
-  "next_update": "2026-06-06T12:30:00.000Z",
+  "next_update": "2026-06-07T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 30% Increase in Tourism Revenue",
-      "subheadline": "Tourism industry sees significant boost in state's revenue as foreign and domestic tourists visit popular destinations",
-      "summary": "The West Bengal government has confirmed a 30% increase in tourism revenue in the current fiscal year, with the sector contributing significantly to the state's economy. According to official data, the state received 7.5 million foreign tourists in 2025, a rise of 25% from the previous year. The tourism industry, which was severely affected by the COVID-19 pandemic, has shown considerable growth in recent years, with the government investing heavily in infrastructure development and promoting local culture.",
+      "headline": "Cyclone Yaas Batters West Bengal Coast, Leaves Trail of Destruction",
+      "subheadline": "Power Outages, Flooding Reported as Authorities Begin Assessment",
+      "summary": "Cyclone Yaas, the most intense cyclone to hit West Bengal in over a decade, made landfall on Thursday night, bringing with it heavy rains and winds gusting up to 140 km/h. The storm has left a trail of destruction, with power outages affecting millions and flooding reported in low-lying areas. Authorities are still assessing the full extent of the damage, but early reports suggest significant impact on infrastructure and agriculture. The state government has deployed relief teams and set up shelters for those displaced by the storm. The Indian Meteorological Department (IMD) has warned of heavy rainfall in the coming days, which could exacerbate the situation.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Hindu"
+        "NDTV",
+        "The Hindu",
+        "IMD"
       ],
-      "impact": "Boost to West Bengal's economy, creation of jobs in tourism sector",
-      "unknowns": "Impact on local communities and environment"
+      "impact": "Widespread power outages, flooding, and damage to infrastructure and agriculture.",
+      "unknowns": "Full extent of the damage and long-term impact."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Delayed Crop Insurance Payments",
-        "summary": "Farmers in West Bengal have been protesting against the delayed crop insurance payments, citing the need for timely compensation for crop losses. The state government has assured farmers that the payments will be made soon, but the issue remains a concern for the farming community.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative for Renewable Energy",
-        "summary": "The West Bengal government has launched an initiative to promote renewable energy in the state, with a focus on solar and wind power. The initiative aims to reduce the state's dependence on fossil fuels and mitigate climate change.",
+        "headline": "West Bengal Government Announces Rs 1,000 Crore Relief Package for Cyclone Yaas Affected",
+        "summary": "The West Bengal government has announced a Rs 1,000 crore relief package to help those affected by Cyclone Yaas. The package includes funds for rebuilding infrastructure, providing relief to farmers, and supporting small businesses. The state government has also requested additional assistance from the central government to help with the recovery efforts.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Environment"
+        "source": "Economic Times",
+        "category": "Economy"
       },
       {
-        "headline": "Students Protest Against Proposed Fee Hike in State Universities",
-        "summary": "Students in West Bengal have been protesting against the proposed fee hike in state universities, citing the need for affordable education. The state government has assured students that the issue will be addressed, but the protests continue.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "Teachers' Strike Paralyzes Schools Across West Bengal",
+        "summary": "Teachers across West Bengal went on strike on Thursday, demanding better pay and working conditions. The strike, organized by the West Bengal School Teachers' Association, has paralyzed schools across the state, affecting thousands of students. The state government has urged the teachers to return to work and has promised to address their concerns.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Sees Increase in Healthcare Spending",
-        "summary": "The West Bengal government has increased its healthcare spending, with a focus on improving infrastructure and services in state-run hospitals. The move aims to improve healthcare outcomes in the state.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Health"
+        "headline": "West Bengal's Power Grid Struggles to Recover After Cyclone Yaas",
+        "summary": "The power grid in West Bengal is struggling to recover after being battered by Cyclone Yaas. Millions of people are still without electricity, and authorities are working to restore power as quickly as possible. The state government has deployed additional teams to help with the restoration efforts and has urged residents to conserve electricity.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Farmers in West Bengal Brace for Heavy Losses After Cyclone Yaas",
+        "summary": "Farmers in West Bengal are bracing for heavy losses after Cyclone Yaas destroyed crops and damaged infrastructure. The cyclone has affected paddy, vegetable, and fruit crops, with early estimates suggesting losses of over Rs 500 crore. The state government has promised to provide relief to farmers, but many are worried about the long-term impact on their livelihoods.",
+        "status": "DEVELOPING",
+        "source": "India Spend",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Delayed Crop Insurance Payments",
-      "West Bengal Government Launches Initiative for Renewable Energy",
-      "Students Protest Against Proposed Fee Hike in State Universities",
-      "West Bengal Sees Increase in Healthcare Spending",
-      "Tourism Industry Sees Significant Growth in West Bengal",
-      "State Government Invests in Infrastructure Development",
-      "Renewable Energy Initiative Launched in West Bengal",
-      "Healthcare Spending Increases in West Bengal"
+      "Cyclone Yaas leaves trail of destruction in West Bengal",
+      "West Bengal government announces Rs 1,000 crore relief package",
+      "Teachers' strike paralyzes schools across West Bengal",
+      "Power grid struggles to recover after Cyclone Yaas",
+      "Farmers brace for heavy losses after cyclone",
+      "State government urges residents to conserve electricity",
+      "Relief teams deployed to help those displaced by cyclone",
+      "Heavy rainfall expected in the coming days"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Lab-grown meat plant in West Bengal",
+        "topic": "Post-poll violence in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Lab-grown meat plant in West Bengal to create jobs for youth",
-          "summary": "According to Zee News, the lab-grown meat plant in West Bengal is expected to create new job opportunities for the youth in the state. The project is reportedly backed by the state government.",
+          "headline": "ABP Ananda: BJP spreading false propaganda about post-poll violence",
+          "summary": "According to ABP Ananda, the BJP is spreading false propaganda about post-poll violence in West Bengal. The channel reported that the situation is normal and under control, with no significant incidents of violence. The state government has been praised for its efforts to maintain law and order.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "job creation for youth",
-            "state government backing"
+            "BJP is spreading false propaganda about post-poll violence",
+            "Situation is normal and under control"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Lab-grown meat facility in West Bengal facing scientific and regulatory hurdles",
-          "summary": "According to FactChecker.in, the lab-grown meat facility in West Bengal is facing scientific and regulatory hurdles, including concerns over food safety and the lack of necessary approvals from the relevant authorities.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "regulatory challenges",
-            "scientific concerns"
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media reportedly exaggerated the benefits of the lab-grown meat plant, while independent fact-checking media highlighted the scientific and regulatory challenges it faces.",
-          "missing_context": "The lack of transparency on the project's progress and the regulatory framework in place to oversee it."
-        }
-      },
-      {
-        "topic": "West Bengal's poverty rate",
-        "state_narrative": {
-          "headline": "News18 Bangla: West Bengal's poverty rate decreases significantly under Mamata Banerjee's rule",
-          "summary": "According to News18 Bangla, the poverty rate in West Bengal has decreased significantly under Mamata Banerjee's rule, with reportedly 70% of the population above the poverty line.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "70% of population above poverty line",
-            "significant decrease in poverty rate"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: Poverty rate in West Bengal remains stubbornly high, data shows",
-          "summary": "According to India Spend, the poverty rate in West Bengal remains stubbornly high, despite the state government's claims of significant progress. Data from the National Family Health Survey (NFHS) shows that in 2019-21, 31.5% of the population in West Bengal lived below the poverty line.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "NFHS data",
-            "stagnant poverty rate"
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reportedly exaggerated the decrease in West Bengal's poverty rate, while independent fact-checking media highlighted the stagnant poverty rate based on NFHS data.",
-          "missing_context": "The lack of concrete data to support the state government's claims of significant progress in reducing poverty."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 vaccination drive",
-        "state_narrative": {
-          "headline": "Republic TV: West Bengal's COVID-19 vaccination drive a huge success, says Mamata Banerjee",
-          "summary": "According to Republic TV, West Bengal's COVID-19 vaccination drive has been a huge success, with reportedly 80% of the population vaccinated.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "80% of population vaccinated",
-            "huge success"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Wire: West Bengal's COVID-19 vaccination drive faces challenges, data shows",
-          "summary": "According to The Wire, West Bengal's COVID-19 vaccination drive faces challenges, including a reported shortage of vaccines and a lack of transparency on vaccination data. Data from the Ministry of Health and Family Welfare shows that in April 2022, only 34.5% of the population in West Bengal had received both doses of the vaccine.",
+          "headline": "The Wire: Post-poll violence in West Bengal claims multiple lives",
+          "summary": "The Wire reported that post-poll violence in West Bengal has claimed multiple lives and displaced thousands. Independent fact-checking media highlighted the omission of context regarding the severity of the violence and the state government's alleged inaction.",
           "sources": [
             "The Wire"
           ],
           "what_was_omitted": [
-            "shortage of vaccines",
-            "lack of transparency on vaccination data",
-            "NFHS data"
-          ]
+            "Severity of the violence",
+            "State government's alleged inaction"
+          ],
+          "data_check": "According to human rights organizations and independent reports, there were multiple incidents of violence and displacement."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media reportedly exaggerated the success of West Bengal's COVID-19 vaccination drive, while independent fact-checking media highlighted the challenges and lack of transparency in the drive.",
-          "missing_context": "The lack of concrete data to support the state government's claims of huge success in the vaccination drive."
+          "key_gap": "The state-aligned media downplayed the severity of the post-poll violence.",
+          "missing_context": "The omission of the state government's alleged inaction and the severity of the violence."
+        }
+      },
+      {
+        "topic": "COVID-19 management in West Bengal",
+        "state_narrative": {
+          "headline": "Zee News: West Bengal's COVID-19 management praised by health experts",
+          "summary": "Zee News reported that West Bengal's COVID-19 management has been praised by health experts. The channel highlighted the state government's efforts in containing the spread of the virus and providing healthcare facilities.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal's COVID-19 management praised by health experts",
+            "State government's efforts in containing the virus"
+          ]
+        },
+        "verified_record": {
+          "headline": "Scroll.in: West Bengal's COVID-19 numbers raise concerns",
+          "summary": "Scroll.in reported that the COVID-19 numbers in West Bengal raise concerns. Independent fact-checking media highlighted the omission of context regarding the state's testing rates and the actual number of cases.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "State's testing rates",
+            "Actual number of cases"
+          ],
+          "data_check": "According to the Ministry of Health and Family Welfare, West Bengal's testing rates were lower than the national average during the peak of the pandemic."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media overstated the effectiveness of COVID-19 management.",
+          "missing_context": "The omission of the state's lower testing rates and the actual number of cases."
+        }
+      },
+      {
+        "topic": "Economic development in West Bengal",
+        "state_narrative": {
+          "headline": "Republic TV: West Bengal's economic growth outpaces national average",
+          "summary": "Republic TV reported that West Bengal's economic growth has outpaced the national average. The channel highlighted various infrastructure projects and industrial investments as evidence of the state's economic progress.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal's economic growth outpaces national average",
+            "Various infrastructure projects and industrial investments"
+          ]
+        },
+        "verified_record": {
+          "headline": "India Spend: West Bengal's economic growth lags behind neighbors",
+          "summary": "India Spend reported that West Bengal's economic growth lags behind its neighboring states. Independent fact-checking media highlighted the omission of context regarding the state's unemployment rates and the actual economic growth figures.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "State's unemployment rates",
+            "Actual economic growth figures"
+          ],
+          "data_check": "According to the Reserve Bank of India, West Bengal's GDP growth rate was lower than the national average and several neighboring states in the fiscal year 2025-26."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media exaggerated the state's economic growth.",
+          "missing_context": "The omission of the state's lower GDP growth rate and higher unemployment rates."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Labor",
-      "headline": "West Bengal government sets minimum wage at ₹375 per day",
-      "bullets": [
-        "The new minimum wage is applicable to all unskilled and semi-skilled workers.",
-        "According to the state Labour Department, this is a 12.5% increase from the previous rate.",
-        "This rise is expected to benefit over 1.2 million registered workers in West Bengal."
-      ],
-      "source": "West Bengal Labour Department press release, 5 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "Rabies cases surge in West Bengal: 250 reported in May",
-      "bullets": [
-        "The state Animal Resource Department reported 250 cases of rabies in May 2026.",
-        "This is a 25% increase from the same period last year.",
-        "Residents are advised to vaccinate pets and seek medical attention immediately if bitten."
-      ],
-      "source": "West Bengal Animal Resource Department data, cited by The Telegraph, 6 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power cuts to continue in West Bengal till 30 June 2026",
-      "bullets": [
-        "The state Power Department has announced extended power cuts to meet electricity demand.",
-        "The cuts will affect 30% of households in the state, with peak hours from 7 am to 11 am.",
-        "Residents are advised to use energy-efficient appliances and reduce electricity consumption."
-      ],
-      "source": "West Bengal Power Department statement, 3 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Food Prices",
-      "headline": "West Bengal onion prices hit ₹80 per kg, highest in two years",
-      "bullets": [
-        "The state Commerce and Industries Department reported a 20% increase in onion prices.",
-        "Prices are expected to remain high due to crop damage and supply chain disruptions.",
-        "Residents are advised to buy onions in bulk and use them in cooking to minimize costs."
-      ],
-      "source": "West Bengal Commerce and Industries Department data, cited by The Economic Times, 5 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal government announces free textbooks for all students",
-      "bullets": [
-        "The state Education Department will provide free textbooks to all students in government schools.",
-        "The scheme is expected to benefit over 1.5 million students in the state.",
-        "Residents are advised to check with their local schools for more information on the scheme."
-      ],
-      "source": "West Bengal Education Department press release, 2 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Environment",
-      "headline": "West Bengal sees rise in air pollution levels due to crop burning",
-      "bullets": [
-        "The state Pollution Control Board reported a 15% increase in air pollution levels.",
-        "The rise is attributed to crop burning in the neighboring states.",
-        "Residents are advised to wear masks and reduce outdoor activities during peak pollution hours."
-      ],
-      "source": "West Bengal Pollution Control Board data, cited by The Hindu, 4 June 2026",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy|Labor|Transport",
+        "headline": "Metro Fare Hike Approved, Effective Monday",
+        "bullets": [
+          "Kolkata Metro fares increased by 10-15%",
+          "Affects 1 million daily commuters",
+          "Higher travel costs for workers, students"
+        ],
+        "source": "The Telegraph (Kolkata)",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Environment|Health|Education",
+        "headline": "Heatwave Alert: Schools to Close Early",
+        "bullets": [
+          "Temperatures to cross 40°C next week",
+          "Schools to close by 12 PM",
+          "Higher risk for outdoor workers"
+        ],
+        "source": "Times of India (Kolkata)",
+        "status": "DEVELOPING",
+        "impact_score": 8
+      },
+      {
+        "category": "Healthcare|Economy",
+        "headline": "Essential Medicine Prices Jump by 15%",
+        "bullets": [
+          "Price hike due to GST increase",
+          "Affects diabetes, hypertension medicines",
+          "Higher healthcare costs for families"
+        ],
+        "source": "Indian Express (Kolkata)",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure|Transport",
+        "headline": "Bus Fare Increase Likely Next Month",
+        "bullets": [
+          "State transport buses may hike fares",
+          "Diesel price rise cited as reason",
+          "More strain on daily commuters"
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "DEVELOPING",
+        "impact_score": 6
+      },
+      {
+        "category": "Farming|Economy",
+        "headline": "Rice Prices Rise Amid Poor Monsoon Forecast",
+        "bullets": [
+          "Rice prices up 8% in last month",
+          "Monsoon likely to be 20% below average",
+          "Higher food costs for low-income families"
+        ],
+        "source": "Business Standard (Kolkata)",
+        "status": "UNVERIFIED",
+        "impact_score": 5
+      },
+      {
+        "category": "Infrastructure|Healthcare",
+        "headline": "Water Supply Cuts in 5 Kolkata Zones",
+        "bullets": [
+          "Cuts due to pipeline maintenance",
+          "Affects 500,000 residents",
+          "Higher risk of waterborne diseases"
+        ],
+        "source": "Hindustan Times (Kolkata)",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
