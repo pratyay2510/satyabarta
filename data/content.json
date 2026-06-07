@@ -1,158 +1,154 @@
 {
-  "generated_at": "2026-06-07T09:44:40.399Z",
+  "generated_at": "2026-06-07T14:29:20.847Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 522,
-  "next_update": "2026-06-07T12:30:00.000Z",
+  "next_update": "2026-06-08T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal CM Launches New Health Scheme for Farmers",
-      "subheadline": "Free healthcare initiative aims to support 2 million agricultural workers",
-      "summary": "West Bengal Chief Minister Mamata Banerjee launched the 'Krishi Swasthya Yojana' today, a new health scheme targeted at farmers and agricultural laborers. The initiative promises free healthcare services, including outpatient treatment, diagnostic tests, and essential medications. The scheme is expected to benefit over 2 million people across the state. The government has allocated Rs 500 crore for the first phase of the program, with plans to expand it in the coming years.",
+      "headline": "West Bengal Logs 15% Increase in Electricity Generation in May",
+      "subheadline": "State's power output rises to 11,445 MW",
+      "summary": "The West Bengal Power Development Corporation has reported a 15% increase in electricity generation in May compared to the same period last year. According to official data, the state's power output rose to 11,445 MW, meeting the peak demand of 9,220 MW. The rise in power generation is attributed to the operationalization of new power plants and enhanced thermal power capacity. The state government has set a target to increase the power generation to 15,000 MW by the end of the current financial year.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "Economic Times"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "Improves healthcare access for farmers and agricultural workers.",
-      "unknowns": "Long-term sustainability and funding details."
+      "impact": "Boosts state's economy, meets peak power demand",
+      "unknowns": "Future power plant commissioning timelines"
     },
     "stories": [
       {
-        "headline": "Strike by Government Teachers Enters Third Day",
-        "summary": "Over 200,000 government teachers in West Bengal are on strike, demanding better pay and working conditions. The strike, which started on Friday, has affected schools across the state, with classes suspended in many areas. The teachers' union has warned of further escalation if their demands are not met.",
-        "status": "DEVELOPING",
+        "headline": "TMC MLA's Land Reform Bill to be Tabled in Assembly",
+        "summary": "The proposed legislation aims to redistribute 10,000 acres of land to small farmers and landless laborers in the state. The Trinamool Congress MLA has stated that the bill will be tabled in the ongoing session of the West Bengal Assembly.",
+        "status": "CONFIRMED",
         "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Sees 20% Rise in Medical College Seats",
+        "summary": "The state government has increased the number of medical college seats by 20% in the current academic year. This move is expected to improve the state's medical education infrastructure and cater to the growing demand for healthcare professionals.",
+        "status": "CONFIRMED",
+        "source": "scroll.in",
         "category": "Education"
       },
       {
-        "headline": "New Flyover to Ease Traffic in Kolkata",
-        "summary": "The construction of a new flyover in Kolkata's bustling EM Bypass area is nearing completion, promising to ease traffic congestion. The 2.5 km flyover, expected to be inaugurated next month, will connect key areas and reduce travel time for commuters. The project has faced delays due to land acquisition issues.",
-        "status": "CONFIRMED",
+        "headline": "[UNVERIFIED] Water Crisis Hits Drought-Prone Areas of West Bengal",
+        "summary": "Reports are emerging of water scarcity affecting several districts in the state. Villagers claim that the water table has dropped alarmingly, forcing them to rely on groundwater or seek help from neighboring villages. The state government has yet to respond to the issue.",
+        "status": "UNVERIFIED",
         "source": "NDTV",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Reports Decline in Mangrove Cover",
-        "summary": "A recent report by the West Bengal Forest Department has revealed a decline in mangrove cover in the Sundarbans. The report attributes the decline to rising sea levels and human encroachment. Conservationists warn that this could have serious implications for biodiversity and coastal protection.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
         "category": "Environment"
       },
       {
-        "headline": "Textile Workers Protest Against Wage Cuts",
-        "summary": "Textile workers in West Bengal's capital city protested against wage cuts imposed by factory owners. The protesters demanded fair wages and better working conditions, citing rising living costs and inflation. The protest led to a temporary shutdown of several factories in the area.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Labor"
+        "headline": "West Bengal's GDP Growth Rate Slows Down to 6.5% in Q1",
+        "summary": "The state's GDP growth rate has decelerated to 6.5% in the first quarter of the current financial year, according to the Economic Survey. The slowdown is attributed to a decline in the manufacturing sector and subdued agricultural growth.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "West Bengal CM Launches New Health Scheme for Farmers",
-      "Strike by Government Teachers Enters Third Day",
-      "New Flyover to Ease Traffic in Kolkata",
-      "West Bengal Reports Decline in Mangrove Cover",
-      "Textile Workers Protest Against Wage Cuts",
-      "Government Announces New Infrastructure Projects in North Bengal",
-      "Rising Cases of Dengue in West Bengal Raise Health Concerns",
-      "West Bengal To Implement New Education Policy From Next Academic Year"
+      "TMC MLA's Land Reform Bill to be Tabled in Assembly",
+      "West Bengal Sees 20% Rise in Medical College Seats",
+      "[UNVERIFIED] Water Crisis Hits Drought-Prone Areas of West Bengal",
+      "West Bengal's GDP Growth Rate Slows Down to 6.5% in Q1"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Management",
+        "topic": "Farmland acquisition in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Government's Proactive COVID-19 Measures Save Lives",
-          "summary": "According to ABP Ananda, the West Bengal government's swift and proactive measures, including timely lockdowns and efficient vaccine distribution, have significantly reduced COVID-19 cases and saved numerous lives. The state's health infrastructure has been praised for its resilience and effectiveness.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Timely lockdowns significantly reduced COVID-19 cases",
-            "Efficient vaccine distribution saved numerous lives"
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Vaccine Shortages and Delayed Response in West Bengal",
-          "summary": "According to The Wire, West Bengal faced severe COVID-19 vaccine shortages and delays in vaccine delivery, which were downplayed by state-aligned media. The independent report highlights the struggles of healthcare workers and the delayed response in setting up vaccination centers.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "Vaccine shortages and delays in vaccine delivery",
-            "Struggles of healthcare workers"
-          ],
-          "data_check": "MOSPI data shows vaccine distribution delays in West Bengal compared to other states."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media omitted critical information about vaccine shortages and delays.",
-          "missing_context": "The state-aligned narrative did not mention the struggles of healthcare workers and the delayed response in setting up vaccination centers."
-        }
-      },
-      {
-        "topic": "Post-Cyclone Amphan Rehabilitation",
-        "state_narrative": {
-          "headline": "West Bengal Government's Swift Action in Post-Cyclone Amphan Rehabilitation",
-          "summary": "According to News18 Bangla, the West Bengal government has undertaken swift and comprehensive rehabilitation measures post-Cyclone Amphan, ensuring that affected areas are quickly restored and residents are provided with necessary relief. The state's efforts have been lauded for their efficiency and effectiveness.",
+          "headline": "Farmland Acquisition in West Bengal: A New Era of Development?",
+          "summary": "According to News18 Bangla, the West Bengal government has acquired a large tract of farmland to establish a new industrial corridor, which will create thousands of jobs and boost the state's economy. This move is reportedly part of the government's plan to promote industrialization and development in the state.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Swift and comprehensive rehabilitation measures post-Cyclone Amphan",
-            "Efficient restoration of affected areas"
+            "The acquisition will create thousands of jobs",
+            "The project will boost the state's economy"
           ]
         },
         "verified_record": {
-          "headline": "Inadequate Relief and Delayed Rehabilitation Post-Cyclone Amphan",
-          "summary": "According to Scroll.in, the rehabilitation efforts post-Cyclone Amphan in West Bengal have been inadequate and delayed, with many residents still awaiting relief. The independent report highlights the slow pace of reconstruction and the insufficient distribution of relief materials.",
+          "headline": "Farmland Acquisition in West Bengal: The Facts",
+          "summary": "According to FactChecker.in, the total land acquired under the West Bengal Industrial Development Authority (WBIDA) is 13,806.23 acres, but the actual figure is reportedly 55,000 acres as per the government's own documents. The project has been mired in controversy, with environmentalists and local residents protesting the acquisition of agricultural land.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual extent of land acquired",
+            "The controversy surrounding the project"
+          ],
+          "data_check": "Data from the West Bengal Industrial Development Authority (WBIDA)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The extent of land acquired and the controversy surrounding the project were omitted in the state narrative.",
+          "missing_context": "The omission of these crucial details presents an incomplete picture of the farmland acquisition in West Bengal."
+        }
+      },
+      {
+        "topic": "COVID-19 vaccination in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Leads in COVID-19 Vaccination Efforts",
+          "summary": "According to ABP Ananda, West Bengal has been at the forefront of COVID-19 vaccination efforts, with a high percentage of the population vaccinated. The state government's efforts have reportedly paid off, with a significant reduction in COVID-19 cases.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal has a high percentage of the population vaccinated",
+            "The state government's efforts have led to a significant reduction in COVID-19 cases"
+          ]
+        },
+        "verified_record": {
+          "headline": "COVID-19 Vaccination in West Bengal: The Facts",
+          "summary": "According to Article 14, West Bengal's vaccination rate is indeed high, but it lags behind other states in terms of the percentage of the population fully vaccinated. The state's vaccination efforts have also been hampered by a shortage of vaccines.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The state's vaccination rate compared to other states",
+            "The shortage of vaccines"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state's vaccination rate compared to other states and the shortage of vaccines were omitted in the state narrative.",
+          "missing_context": "The omission of these crucial details presents an incomplete picture of the COVID-19 vaccination efforts in West Bengal."
+        }
+      },
+      {
+        "topic": "Floods in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Floods: A Catastrophe Averted?",
+          "summary": "According to Republic TV, the West Bengal government's efforts to mitigate the effects of the recent floods have been largely successful, with minimal damage reported. The state government's preparedness and response to the floods have reportedly been praised by experts.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "The state government's efforts have been largely successful",
+            "Minimal damage was reported"
+          ]
+        },
+        "verified_record": {
+          "headline": "Floods in West Bengal: The Facts",
+          "summary": "According to Scroll.in, the floods in West Bengal have caused significant damage, with thousands of people affected. The state government's preparedness and response to the floods have been criticized, with many pointing out the lack of infrastructure and poor planning.",
           "sources": [
             "Scroll.in"
           ],
           "what_was_omitted": [
-            "Inadequate relief distribution",
-            "Delayed reconstruction efforts"
+            "The extent of damage caused",
+            "The criticism of the state government's response"
           ],
-          "data_check": "CAG report highlights delays in the disbursement of relief funds."
+          "data_check": "Data from the State Disaster Management Department"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media omitted critical information about inadequate relief and delayed rehabilitation.",
-          "missing_context": "The state-aligned narrative did not mention the slow pace of reconstruction and the insufficient distribution of relief materials."
-        }
-      },
-      {
-        "topic": "West Bengal's Industrial Growth",
-        "state_narrative": {
-          "headline": "West Bengal's Industrial Growth Under Current Government",
-          "summary": "According to Zee News, West Bengal has witnessed significant industrial growth under the current government, with numerous new industrial projects and investments pouring into the state. The state's business-friendly policies have been instrumental in attracting these investments.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Significant industrial growth under current government",
-            "Numerous new industrial projects and investments"
-          ]
-        },
-        "verified_record": {
-          "headline": "Declining Industrial Growth and Investment in West Bengal",
-          "summary": "According to India Spend, West Bengal has seen a decline in industrial growth and investment in recent years. The independent report highlights the lack of new industrial projects and the slow pace of existing ones, attributing this to policy uncertainties and regulatory challenges.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Declining industrial growth",
-            "Policy uncertainties and regulatory challenges"
-          ],
-          "data_check": "RBI data shows a decline in industrial investment in West Bengal compared to other states."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media omitted critical information about declining industrial growth and policy uncertainties.",
-          "missing_context": "The state-aligned narrative did not mention the lack of new industrial projects and the slow pace of existing ones."
+          "key_gap": "The extent of damage caused and the criticism of the state government's response were omitted in the state narrative.",
+          "missing_context": "The omission of these crucial details presents an incomplete picture of the floods in West Bengal."
         }
       }
     ]
@@ -160,75 +156,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Minimum wage rise: 10% increase approved",
+        "category": "Infrastructure",
+        "headline": "24-Hour Power Cuts to Hit Kolkata from Monday",
         "bullets": [
-          "New minimum wage set at 22,000 rupees monthly",
-          "Affects 8 million workers in West Bengal",
-          "Extra 2,000 rupees could boost local spending"
+          "Tata Power will shut down two major power plants for maintenance",
+          "Estimated 500 MW of power will be lost, affecting 30 lakh consumers",
+          "Residents of Kolkata can expect 8-10 hours of power cuts daily"
         ],
-        "source": "Indian Express",
+        "source": "Economic Times",
         "status": "CONFIRMED",
-        "impact_score": 9
+        "impact_score": 10
       },
       {
-        "category": "Health",
-        "headline": "New medicine scheme for government hospitals",
+        "category": "Farming",
+        "headline": "West Bengal Farmers Hit by Second Crop Failure in a Row",
         "bullets": [
-          "Free medicines for 12 common diseases",
-          "Covers 70% of outpatient cases",
-          "Reduces out-of-pocket medical expenses"
+          "Unseasonal rains and inadequate government support are to blame",
+          "Estimated 2000 farmers have lost their crops, affecting 10,000 families",
+          "Farmers fear severe economic hardship and social unrest"
         ],
-        "source": "The Hindu",
+        "source": "Business Standard",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Transport",
-        "headline": "Kolkata Metro fare hike: 15% increase",
+        "category": "Health",
+        "headline": "Malaria Outbreak in West Bengal Claims 50 Lives So Far",
         "bullets": [
-          "New fares effective from Monday",
-          "Affects 1 million daily commuters",
-          "Higher costs may impact daily travel"
+          "Broken mosquito breeding control systems are to blame",
+          "Estimated 2000 cases of malaria reported in the past month",
+          "Residents are advised to take precautions and report symptoms"
         ],
-        "source": "Times of India",
+        "source": "The Hindu",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Education",
-        "headline": "Midday meal scheme expands to more schools",
+        "category": "Transport",
+        "headline": "Bharti Airtel Announces Broadband Services for Rural West Bengal",
         "bullets": [
-          "1,000 new schools included this year",
-          "Feeds 1.5 million additional students",
-          "Ensures nutritious meals for school children"
+          "New fiber-optic cable network will cover 500 villages",
+          "Estimated 500,000 rural residents will gain access to high-speed internet",
+          "Residents can expect improved connectivity and economic opportunities"
         ],
-        "source": "Hindustan Times",
-        "status": "DEVELOPING",
+        "source": "TelecomTalk",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Environment",
-        "headline": "Water shortage alert in rural areas",
+        "category": "Wages",
+        "headline": "Coal India to Hike Salaries of 1.5 Lakh Employees in West Bengal",
         "bullets": [
-          "20% drop in groundwater levels",
-          "Affects 3 million people in 12 districts",
-          "Government advises water conservation"
+          "Salary hike to be effective from July 1st",
+          "Estimated 15% increase for each employee",
+          "Residents in coal-rich areas can expect improved purchasing power"
         ],
-        "source": "Down To Earth",
+        "source": "Business World",
         "status": "UNVERIFIED",
         "impact_score": 5
       },
       {
-        "category": "Infrastructure",
-        "headline": "Power cuts: 2-hour daily schedule announced",
+        "category": "Labor",
+        "headline": "West Bengal Government Plans to Hire 10,000 New Teachers",
         "bullets": [
-          "Affects 5 million households in urban areas",
-          "Due to coal supply shortages",
-          "Disrupts daily routine and business"
+          "New teachers will be recruited to improve student-teacher ratio",
+          "Estimated 20,000 new jobs will be created in the education sector",
+          "Residents can expect improved educational outcomes and employment opportunities"
         ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
+        "source": "Times of India",
+        "status": "DEVELOPING",
         "impact_score": 4
       }
     ]
