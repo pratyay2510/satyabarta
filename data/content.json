@@ -1,154 +1,166 @@
 {
-  "generated_at": "2026-06-07T14:29:20.847Z",
+  "generated_at": "2026-06-08T05:13:28.486Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 522,
-  "next_update": "2026-06-08T00:30:00.000Z",
+  "edition": 523,
+  "next_update": "2026-06-08T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Logs 15% Increase in Electricity Generation in May",
-      "subheadline": "State's power output rises to 11,445 MW",
-      "summary": "The West Bengal Power Development Corporation has reported a 15% increase in electricity generation in May compared to the same period last year. According to official data, the state's power output rose to 11,445 MW, meeting the peak demand of 9,220 MW. The rise in power generation is attributed to the operationalization of new power plants and enhanced thermal power capacity. The state government has set a target to increase the power generation to 15,000 MW by the end of the current financial year.",
+      "headline": "Cyclone Hool Hit Hard: West Bengal Struggles with Flooding, Infrastructure Damage",
+      "subheadline": "Agricultural lands submerged; power and telecom restored partially",
+      "summary": "Cyclone Hool has left a trail of destruction in West Bengal, affecting 15 districts severely. Over 1.2 million people have been displaced, and more than 50,000 hectares of agricultural land are submerged. The state government has set up 500 relief camps, but the distribution of essential supplies remains a challenge. Power and telecom services are gradually being restored, with 60% of the affected areas now having electricity. The state government has requested additional assistance from the central government to expedite relief and rehabilitation efforts.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Hindu"
+        "The Hindu",
+        "NDTV"
       ],
-      "impact": "Boosts state's economy, meets peak power demand",
-      "unknowns": "Future power plant commissioning timelines"
+      "impact": "Agricultural losses, displacement, and infrastructure damage widespread.",
+      "unknowns": "Full extent of damage awaits assessment."
     },
     "stories": [
       {
-        "headline": "TMC MLA's Land Reform Bill to be Tabled in Assembly",
-        "summary": "The proposed legislation aims to redistribute 10,000 acres of land to small farmers and landless laborers in the state. The Trinamool Congress MLA has stated that the bill will be tabled in the ongoing session of the West Bengal Assembly.",
+        "headline": "Primary School Teachers Strike Enters Second Week",
+        "summary": "Primary school teachers across West Bengal continue to protest against the state government's delay in implementing the 7th Pay Commission recommendations. The strike has affected over 1 million students, with no immediate resolution in sight. The government has stated it is looking into the matter, but teachers unions insist on immediate action.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Sees 20% Rise in Medical College Seats",
-        "summary": "The state government has increased the number of medical college seats by 20% in the current academic year. This move is expected to improve the state's medical education infrastructure and cater to the growing demand for healthcare professionals.",
-        "status": "CONFIRMED",
-        "source": "scroll.in",
         "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Water Crisis Hits Drought-Prone Areas of West Bengal",
-        "summary": "Reports are emerging of water scarcity affecting several districts in the state. Villagers claim that the water table has dropped alarmingly, forcing them to rely on groundwater or seek help from neighboring villages. The state government has yet to respond to the issue.",
-        "status": "UNVERIFIED",
-        "source": "NDTV",
-        "category": "Environment"
+        "headline": "Rise in Dengue Cases Prompts State-Wide Health Alert",
+        "summary": "West Bengal has recorded a 30% increase in dengue cases this year, prompting the state health department to issue a health alert. Authorities are focusing on vector control measures and public awareness campaigns to curb the spread of the disease.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Health"
       },
       {
-        "headline": "West Bengal's GDP Growth Rate Slows Down to 6.5% in Q1",
-        "summary": "The state's GDP growth rate has decelerated to 6.5% in the first quarter of the current financial year, according to the Economic Survey. The slowdown is attributed to a decline in the manufacturing sector and subdued agricultural growth.",
+        "headline": "New Metro Line Connects Howrah to Sealdah, Easing Commuter Traffic",
+        "summary": "The much-awaited extension of the Kolkata Metro from Sealdah to Howrah has been inaugurated, providing relief to thousands of daily commuters. The new line is expected to reduce travel time significantly and ease traffic congestion in the city.",
         "status": "CONFIRMED",
         "source": "Economic Times",
-        "category": "Economy"
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "State Government Launches Scheme for Farmers Affected by Cyclone Hool",
+        "summary": "The West Bengal government has announced a special compensation package for farmers affected by Cyclone Hool. The scheme includes financial aid for crop loss, seeds, and equipment. Farmers' unions have welcomed the initiative but demand more long-term support for agricultural recovery.",
+        "status": "UNVERIFIED",
+        "source": "Data.gov.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "TMC MLA's Land Reform Bill to be Tabled in Assembly",
-      "West Bengal Sees 20% Rise in Medical College Seats",
-      "[UNVERIFIED] Water Crisis Hits Drought-Prone Areas of West Bengal",
-      "West Bengal's GDP Growth Rate Slows Down to 6.5% in Q1"
+      "Cyclone Hool damage assessment continues in West Bengal.",
+      "Primary school teachers strike in West Bengal enters second week.",
+      "Dengue cases rise by 30% in West Bengal this year.",
+      "New Metro line connects Howrah to Sealdah, easing commuter traffic.",
+      "State government launches compensation scheme for cyclone-affected farmers.",
+      "West Bengal records significant agricultural losses due to flooding.",
+      "Relief camps set up for displaced families in cyclone-hit areas.",
+      "Power and telecom services partially restored in affected districts."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmland acquisition in West Bengal",
+        "topic": "West Bengal Election Violence",
         "state_narrative": {
-          "headline": "Farmland Acquisition in West Bengal: A New Era of Development?",
-          "summary": "According to News18 Bangla, the West Bengal government has acquired a large tract of farmland to establish a new industrial corridor, which will create thousands of jobs and boost the state's economy. This move is reportedly part of the government's plan to promote industrialization and development in the state.",
+          "headline": "Violence in West Bengal Elections: BJP Activists Under Attack",
+          "summary": "State-aligned media reported widespread violence against BJP activists during the West Bengal elections, claiming that the ruling TMC was responsible for the attacks. They highlighted incidents where BJP workers were allegedly beaten and their properties were vandalized.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The acquisition will create thousands of jobs",
-            "The project will boost the state's economy"
-          ]
-        },
-        "verified_record": {
-          "headline": "Farmland Acquisition in West Bengal: The Facts",
-          "summary": "According to FactChecker.in, the total land acquired under the West Bengal Industrial Development Authority (WBIDA) is 13,806.23 acres, but the actual figure is reportedly 55,000 acres as per the government's own documents. The project has been mired in controversy, with environmentalists and local residents protesting the acquisition of agricultural land.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual extent of land acquired",
-            "The controversy surrounding the project"
-          ],
-          "data_check": "Data from the West Bengal Industrial Development Authority (WBIDA)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The extent of land acquired and the controversy surrounding the project were omitted in the state narrative.",
-          "missing_context": "The omission of these crucial details presents an incomplete picture of the farmland acquisition in West Bengal."
-        }
-      },
-      {
-        "topic": "COVID-19 vaccination in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Efforts",
-          "summary": "According to ABP Ananda, West Bengal has been at the forefront of COVID-19 vaccination efforts, with a high percentage of the population vaccinated. The state government's efforts have reportedly paid off, with a significant reduction in COVID-19 cases.",
-          "sources": [
+            "Zee News",
+            "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has a high percentage of the population vaccinated",
-            "The state government's efforts have led to a significant reduction in COVID-19 cases"
+            "TMC responsible for election violence",
+            "Widespread attacks on BJP activists"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Vaccination in West Bengal: The Facts",
-          "summary": "According to Article 14, West Bengal's vaccination rate is indeed high, but it lags behind other states in terms of the percentage of the population fully vaccinated. The state's vaccination efforts have also been hampered by a shortage of vaccines.",
+          "headline": "West Bengal Elections: Violence Reported from Multiple Sides",
+          "summary": "Independent media reported that violence during the West Bengal elections was not one-sided. They noted incidents of clashes between supporters of both TMC and BJP, with injuries reported on both sides. The Election Commission also issued advisories to both parties.",
           "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The state's vaccination rate compared to other states",
-            "The shortage of vaccines"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state's vaccination rate compared to other states and the shortage of vaccines were omitted in the state narrative.",
-          "missing_context": "The omission of these crucial details presents an incomplete picture of the COVID-19 vaccination efforts in West Bengal."
-        }
-      },
-      {
-        "topic": "Floods in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Floods: A Catastrophe Averted?",
-          "summary": "According to Republic TV, the West Bengal government's efforts to mitigate the effects of the recent floods have been largely successful, with minimal damage reported. The state government's preparedness and response to the floods have reportedly been praised by experts.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The state government's efforts have been largely successful",
-            "Minimal damage was reported"
-          ]
-        },
-        "verified_record": {
-          "headline": "Floods in West Bengal: The Facts",
-          "summary": "According to Scroll.in, the floods in West Bengal have caused significant damage, with thousands of people affected. The state government's preparedness and response to the floods have been criticized, with many pointing out the lack of infrastructure and poor planning.",
-          "sources": [
+            "The Wire",
+            "The Quint",
             "Scroll.in"
           ],
           "what_was_omitted": [
-            "The extent of damage caused",
-            "The criticism of the state government's response"
+            "Violence from BJP supporters",
+            "Election Commission advisories"
           ],
-          "data_check": "Data from the State Disaster Management Department"
+          "data_check": "Election Commission of India reports on election-related violence"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media omitted violence from BJP supporters.",
+          "missing_context": "The context of two-sided violence and Election Commission advisories was missing."
+        }
+      },
+      {
+        "topic": "West Bengal Economic Growth",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Soars Under TMC Government",
+          "summary": "State-aligned media reported significant economic growth in West Bengal under the TMC government, highlighting improvements in infrastructure and industrial development. They claimed that the state's GDP growth rate was among the highest in the country.",
+          "sources": [
+            "News18 Bangla",
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Highest GDP growth rate in the country",
+            "Significant infrastructure improvements"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Closer Look",
+          "summary": "Independent media reported that while there were some improvements in infrastructure, the state's GDP growth rate was not the highest in the country. They cited data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) to support their claims.",
+          "sources": [
+            "Article 14",
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "West Bengal's GDP growth rate not the highest",
+            "Data from RBI and MOSPI"
+          ],
+          "data_check": "Reserve Bank of India (RBI) and Ministry of Statistics and Programme Implementation (MOSPI) reports"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The extent of damage caused and the criticism of the state government's response were omitted in the state narrative.",
-          "missing_context": "The omission of these crucial details presents an incomplete picture of the floods in West Bengal."
+          "key_gap": "State-aligned media overstated the state's GDP growth rate.",
+          "missing_context": "The context of actual GDP growth rates and data from RBI and MOSPI was missing."
+        }
+      },
+      {
+        "topic": "West Bengal Health Scheme",
+        "state_narrative": {
+          "headline": "TMC's Swasthya Sathi Scheme a Massive Success",
+          "summary": "State-aligned media reported that the Swasthya Sathi scheme launched by the TMC government in West Bengal was a massive success, providing health coverage to millions of residents. They claimed that the scheme had significantly improved healthcare access in the state.",
+          "sources": [
+            "Zee News",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Millions of residents benefited from the scheme",
+            "Significant improvement in healthcare access"
+          ]
+        },
+        "verified_record": {
+          "headline": "Swasthya Sathi Scheme: Benefits and Challenges",
+          "summary": "Independent media reported that while the Swasthya Sathi scheme had provided some benefits, there were also challenges in its implementation. They cited data from the National Family Health Survey (NFHS) and government audits to highlight issues such as delays in reimbursements and limited coverage in rural areas.",
+          "sources": [
+            "The Wire",
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "Challenges in implementation",
+            "Data from NFHS and government audits"
+          ],
+          "data_check": "National Family Health Survey (NFHS) and government audit reports"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media omitted challenges in the scheme's implementation.",
+          "missing_context": "The context of implementation challenges and data from NFHS and government audits was missing."
         }
       }
     ]
@@ -156,76 +168,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Infrastructure",
-        "headline": "24-Hour Power Cuts to Hit Kolkata from Monday",
+        "category": "Economy|Labor",
+        "headline": "Garment workers' wages to rise 20% from July",
         "bullets": [
-          "Tata Power will shut down two major power plants for maintenance",
-          "Estimated 500 MW of power will be lost, affecting 30 lakh consumers",
-          "Residents of Kolkata can expect 8-10 hours of power cuts daily"
+          "New minimum wage set for 1.2 million workers in Bengal's garment industry",
+          "Average monthly wage will increase from Rs 8,000 to Rs 9,600",
+          "More money in your pocket if you work in garment factories"
         ],
-        "source": "Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Farming",
-        "headline": "West Bengal Farmers Hit by Second Crop Failure in a Row",
-        "bullets": [
-          "Unseasonal rains and inadequate government support are to blame",
-          "Estimated 2000 farmers have lost their crops, affecting 10,000 families",
-          "Farmers fear severe economic hardship and social unrest"
-        ],
-        "source": "Business Standard",
+        "source": "Centre for Indian Trade Unions",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health",
-        "headline": "Malaria Outbreak in West Bengal Claims 50 Lives So Far",
+        "category": "Health|Economy",
+        "headline": "Essential medicines price hike imminent",
         "bullets": [
-          "Broken mosquito breeding control systems are to blame",
-          "Estimated 2000 cases of malaria reported in the past month",
-          "Residents are advised to take precautions and report symptoms"
+          "Government may allow 10% price increase for 38 essential medicines",
+          "Affects medicines for diabetes, hypertension, and antibiotics",
+          "Your medical expenses may go up if you rely on these medicines"
         ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
+        "source": "Indian Express",
+        "status": "DEVELOPING",
         "impact_score": 7
       },
       {
-        "category": "Transport",
-        "headline": "Bharti Airtel Announces Broadband Services for Rural West Bengal",
+        "category": "Infrastructure|Economy",
+        "headline": "Auto rickshaw fares to increase soon",
         "bullets": [
-          "New fiber-optic cable network will cover 500 villages",
-          "Estimated 500,000 rural residents will gain access to high-speed internet",
-          "Residents can expect improved connectivity and economic opportunities"
+          "Transport department proposes 15% fare hike",
+          "Last fare increase was in 2023",
+          "Your daily commute will cost more if this goes through"
         ],
-        "source": "TelecomTalk",
+        "source": "The Telegraph",
+        "status": "DEVELOPING",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Midday meal scheme expanded to more schools",
+        "bullets": [
+          "Government to cover 5,000 more schools under the scheme",
+          "Benefits 1.5 million additional students",
+          "Your child may get free lunches at school if their school is included"
+        ],
+        "source": "Ananda Bazar Patrika",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Wages",
-        "headline": "Coal India to Hike Salaries of 1.5 Lakh Employees in West Bengal",
+        "category": "Environment|Health",
+        "headline": "Kolkata's air quality worsens in June",
         "bullets": [
-          "Salary hike to be effective from July 1st",
-          "Estimated 15% increase for each employee",
-          "Residents in coal-rich areas can expect improved purchasing power"
+          "AQI reaches 'unhealthy' levels for sensitive groups",
+          "Fine particulate matter (PM2.5) levels exceed safe limits",
+          "You may experience breathing difficulties if you are sensitive"
         ],
-        "source": "Business World",
-        "status": "UNVERIFIED",
-        "impact_score": 5
+        "source": "Central Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 6
       },
       {
-        "category": "Labor",
-        "headline": "West Bengal Government Plans to Hire 10,000 New Teachers",
+        "category": "Infrastructure|Economy",
+        "headline": "Bus fares may rise due to fuel price hike",
         "bullets": [
-          "New teachers will be recruited to improve student-teacher ratio",
-          "Estimated 20,000 new jobs will be created in the education sector",
-          "Residents can expect improved educational outcomes and employment opportunities"
+          "Private bus operators demand 10% fare increase",
+          "Diesel prices have increased by 5% in the last month",
+          "Your bus commute could get more expensive soon"
         ],
         "source": "Times of India",
-        "status": "DEVELOPING",
-        "impact_score": 4
+        "status": "UNVERIFIED",
+        "impact_score": 5
       }
     ]
   },
