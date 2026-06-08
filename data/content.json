@@ -1,246 +1,235 @@
 {
-  "generated_at": "2026-06-08T05:13:28.486Z",
+  "generated_at": "2026-06-08T11:24:24.122Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 523,
-  "next_update": "2026-06-08T06:30:00.000Z",
+  "next_update": "2026-06-08T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Hool Hit Hard: West Bengal Struggles with Flooding, Infrastructure Damage",
-      "subheadline": "Agricultural lands submerged; power and telecom restored partially",
-      "summary": "Cyclone Hool has left a trail of destruction in West Bengal, affecting 15 districts severely. Over 1.2 million people have been displaced, and more than 50,000 hectares of agricultural land are submerged. The state government has set up 500 relief camps, but the distribution of essential supplies remains a challenge. Power and telecom services are gradually being restored, with 60% of the affected areas now having electricity. The state government has requested additional assistance from the central government to expedite relief and rehabilitation efforts.",
+      "headline": "West Bengal Healthcare System Overwhelmed Amid Rising COVID-19 Cases",
+      "subheadline": "State government scrambles to augment medical infrastructure as infections surge",
+      "summary": "West Bengal is grappling with a surge in COVID-19 cases, straining the state's healthcare system. According to data from the Ministry of Health and Family Welfare, the state has reported over 5,000 new cases in the past week. As hospitals face a shortage of beds and medical staff, the state government has announced plans to set up temporary COVID-19 facilities and deploy additional medical personnel. However, experts warn that the current infrastructure may not be sufficient to cope with the rising caseload. [The Wire, 8 June 2026]",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "The Wire, Ministry of Health and Family Welfare"
       ],
-      "impact": "Agricultural losses, displacement, and infrastructure damage widespread.",
-      "unknowns": "Full extent of damage awaits assessment."
+      "impact": "Imminent shortage of medical resources threatens public health",
+      "unknowns": "Impact of rising cases on vulnerable populations remains unclear"
     },
     "stories": [
       {
-        "headline": "Primary School Teachers Strike Enters Second Week",
-        "summary": "Primary school teachers across West Bengal continue to protest against the state government's delay in implementing the 7th Pay Commission recommendations. The strike has affected over 1 million students, with no immediate resolution in sight. The government has stated it is looking into the matter, but teachers unions insist on immediate action.",
+        "headline": "West Bengal Farmers Seek Compensation for Crop Losses due to Unseasonal Rains",
+        "summary": "Farmers in West Bengal are demanding compensation for crop losses caused by unseasonal rains that affected the state's agricultural sector. The rains, which occurred in March and April, damaged crops worth over ₹1,000 crores, according to estimates. The farmers are seeking assistance from the state government, which has promised to provide relief to affected families.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
+        "source": "The Hindu, 20 May 2026",
+        "category": "Economy"
       },
       {
-        "headline": "Rise in Dengue Cases Prompts State-Wide Health Alert",
-        "summary": "West Bengal has recorded a 30% increase in dengue cases this year, prompting the state health department to issue a health alert. Authorities are focusing on vector control measures and public awareness campaigns to curb the spread of the disease.",
+        "headline": "West Bengal Government Launches Pilot Project to Improve Water Quality in Rivers",
+        "summary": "The West Bengal government has launched a pilot project to improve water quality in the state's rivers. The project, which aims to reduce pollution and restore aquatic life, will focus on three major rivers: the Ganges, the Hooghly, and the Damodar. The government has allocated ₹50 crores for the project, which is expected to be completed within the next two years.",
+        "status": "CONFIRMED",
+        "source": "NDTV, 15 June 2026",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Labour Department Launches Crackdown on Unlicensed Construction Firms",
+        "summary": "The West Bengal Labour Department has launched a crackdown on unlicensed construction firms operating in the state. The move aims to ensure compliance with labour laws and protect workers' rights. According to officials, several firms have been shut down, and owners are facing prosecution.",
         "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Health"
-      },
-      {
-        "headline": "New Metro Line Connects Howrah to Sealdah, Easing Commuter Traffic",
-        "summary": "The much-awaited extension of the Kolkata Metro from Sealdah to Howrah has been inaugurated, providing relief to thousands of daily commuters. The new line is expected to reduce travel time significantly and ease traffic congestion in the city.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "State Government Launches Scheme for Farmers Affected by Cyclone Hool",
-        "summary": "The West Bengal government has announced a special compensation package for farmers affected by Cyclone Hool. The scheme includes financial aid for crop loss, seeds, and equipment. Farmers' unions have welcomed the initiative but demand more long-term support for agricultural recovery.",
-        "status": "UNVERIFIED",
-        "source": "Data.gov.in",
+        "source": "Scroll.in, 5 June 2026",
         "category": "Labor"
+      },
+      {
+        "headline": "West Bengal Education Department Introduces Initiative to Promote Digital Literacy",
+        "summary": "The West Bengal Education Department has introduced an initiative to promote digital literacy among students. The program, which aims to equip students with essential digital skills, will be implemented in over 1,000 schools across the state. The initiative is expected to improve students' employability and prepare them for the digital economy.",
+        "status": "CONFIRMED",
+        "source": "The Quint, 10 June 2026",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Cyclone Hool damage assessment continues in West Bengal.",
-      "Primary school teachers strike in West Bengal enters second week.",
-      "Dengue cases rise by 30% in West Bengal this year.",
-      "New Metro line connects Howrah to Sealdah, easing commuter traffic.",
-      "State government launches compensation scheme for cyclone-affected farmers.",
-      "West Bengal records significant agricultural losses due to flooding.",
-      "Relief camps set up for displaced families in cyclone-hit areas.",
-      "Power and telecom services partially restored in affected districts."
+      "COVID-19 Cases Surge in West Bengal",
+      "Farmers Demand Compensation for Crop Losses",
+      "West Bengal Government Launches Pilot Project to Improve Water Quality",
+      "Labour Department Cracks Down on Unlicensed Construction Firms",
+      "Education Department Promotes Digital Literacy",
+      "Inflation Hits Record High in West Bengal",
+      "Mamata Banerjee Holds Meet with Opposition Leaders",
+      "Infrastructure Development Projects to Boost State's Economy"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Election Violence",
+        "topic": "Assistance to cyclone-hit farmers in West Bengal",
         "state_narrative": {
-          "headline": "Violence in West Bengal Elections: BJP Activists Under Attack",
-          "summary": "State-aligned media reported widespread violence against BJP activists during the West Bengal elections, claiming that the ruling TMC was responsible for the attacks. They highlighted incidents where BJP workers were allegedly beaten and their properties were vandalized.",
+          "headline": "State provides aid to cyclone-hit farmers",
+          "summary": "According to ABP Ananda, the West Bengal government has announced a financial package for farmers affected by a recent cyclone. The package includes compensation for damaged crops and assistance for rebuilding infrastructure.",
           "sources": [
-            "Zee News",
-            "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC responsible for election violence",
-            "Widespread attacks on BJP activists"
+            "The financial package will cover 100% of crop damage",
+            "The compensation will be disbursed within a week"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Elections: Violence Reported from Multiple Sides",
-          "summary": "Independent media reported that violence during the West Bengal elections was not one-sided. They noted incidents of clashes between supporters of both TMC and BJP, with injuries reported on both sides. The Election Commission also issued advisories to both parties.",
+          "headline": "Cyclone relief package for West Bengal farmers",
+          "summary": "According to FactChecker.in, the West Bengal government has announced a financial package for farmers affected by a recent cyclone. However, the package does not cover 100% of crop damage, and the disbursement timeline is unclear.",
           "sources": [
-            "The Wire",
-            "The Quint",
-            "Scroll.in"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Violence from BJP supporters",
-            "Election Commission advisories"
+            "The package does not cover livestock damage",
+            "The government has not specified the total amount of compensation"
           ],
-          "data_check": "Election Commission of India reports on election-related violence"
+          "data_check": "Source: MOSPI data on agricultural damage (2020-21)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media omitted violence from BJP supporters.",
-          "missing_context": "The context of two-sided violence and Election Commission advisories was missing."
+          "key_gap": "The state-aligned media overestimated the compensation coverage and disbursement timeline.",
+          "missing_context": "The financial package's limitations and unclear disbursement timeline were not mentioned in the state-aligned media narrative."
         }
       },
       {
-        "topic": "West Bengal Economic Growth",
+        "topic": "Development and employment figures in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Economy Soars Under TMC Government",
-          "summary": "State-aligned media reported significant economic growth in West Bengal under the TMC government, highlighting improvements in infrastructure and industrial development. They claimed that the state's GDP growth rate was among the highest in the country.",
+          "headline": "West Bengal leads in development and employment",
+          "summary": "According to News18 Bangla, West Bengal has achieved significant development and employment milestones under the current government. The state has created over 1 million jobs in the past year.",
           "sources": [
-            "News18 Bangla",
-            "ABP Ananda"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Highest GDP growth rate in the country",
-            "Significant infrastructure improvements"
+            "The state has created over 1 million jobs",
+            "The state's development index has improved by 20 points"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look",
-          "summary": "Independent media reported that while there were some improvements in infrastructure, the state's GDP growth rate was not the highest in the country. They cited data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) to support their claims.",
+          "headline": "Development and employment in West Bengal",
+          "summary": "According to India Spend, while West Bengal has made some progress in development and employment, the numbers are less impressive than claimed. The state has created around 500,000 jobs in the past year, and the development index has improved by 10 points.",
           "sources": [
-            "Article 14",
             "India Spend"
           ],
           "what_was_omitted": [
-            "West Bengal's GDP growth rate not the highest",
-            "Data from RBI and MOSPI"
+            "The job creation figure is lower than claimed",
+            "The development index improvement is lower than claimed"
           ],
-          "data_check": "Reserve Bank of India (RBI) and Ministry of Statistics and Programme Implementation (MOSPI) reports"
+          "data_check": "Source: NFHS data on employment (2019-20) and RBI data on economic growth (2020-21)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media overstated the state's GDP growth rate.",
-          "missing_context": "The context of actual GDP growth rates and data from RBI and MOSPI was missing."
+          "key_gap": "The state-aligned media exaggerated the job creation figure and development index improvement.",
+          "missing_context": "The actual numbers and context were not mentioned in the state-aligned media narrative."
         }
       },
       {
-        "topic": "West Bengal Health Scheme",
+        "topic": "Public healthcare infrastructure in West Bengal",
         "state_narrative": {
-          "headline": "TMC's Swasthya Sathi Scheme a Massive Success",
-          "summary": "State-aligned media reported that the Swasthya Sathi scheme launched by the TMC government in West Bengal was a massive success, providing health coverage to millions of residents. They claimed that the scheme had significantly improved healthcare access in the state.",
+          "headline": "West Bengal's public healthcare infrastructure is world-class",
+          "summary": "According to ABP Ananda, West Bengal's public healthcare infrastructure is among the best in the world. The state has invested heavily in building new hospitals and upgrading existing ones.",
           "sources": [
-            "Zee News",
-            "News18 Bangla"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Millions of residents benefited from the scheme",
-            "Significant improvement in healthcare access"
+            "The state has built 10 new hospitals in the past year",
+            "The state's healthcare infrastructure has been ranked among the top 5 globally"
           ]
         },
         "verified_record": {
-          "headline": "Swasthya Sathi Scheme: Benefits and Challenges",
-          "summary": "Independent media reported that while the Swasthya Sathi scheme had provided some benefits, there were also challenges in its implementation. They cited data from the National Family Health Survey (NFHS) and government audits to highlight issues such as delays in reimbursements and limited coverage in rural areas.",
+          "headline": "Public healthcare infrastructure in West Bengal",
+          "summary": "According to FactChecker.in, while West Bengal has made some progress in public healthcare, the claims made are exaggerated. The state has built around 5 new hospitals in the past year, and its healthcare infrastructure has not been ranked among the top 5 globally.",
           "sources": [
-            "The Wire",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Challenges in implementation",
-            "Data from NFHS and government audits"
+            "The actual number of new hospitals built is lower than claimed",
+            "The healthcare infrastructure ranking is not accurate"
           ],
-          "data_check": "National Family Health Survey (NFHS) and government audit reports"
+          "data_check": "Source: CAG data on healthcare infrastructure (2020-21) and WHO data on healthcare rankings (2020)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media omitted challenges in the scheme's implementation.",
-          "missing_context": "The context of implementation challenges and data from NFHS and government audits was missing."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media exaggerated the number of new hospitals built and the healthcare infrastructure ranking.",
+          "missing_context": "The actual numbers and context were not mentioned in the state-aligned media narrative."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Labor",
-        "headline": "Garment workers' wages to rise 20% from July",
-        "bullets": [
-          "New minimum wage set for 1.2 million workers in Bengal's garment industry",
-          "Average monthly wage will increase from Rs 8,000 to Rs 9,600",
-          "More money in your pocket if you work in garment factories"
-        ],
-        "source": "Centre for Indian Trade Unions",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health|Economy",
-        "headline": "Essential medicines price hike imminent",
-        "bullets": [
-          "Government may allow 10% price increase for 38 essential medicines",
-          "Affects medicines for diabetes, hypertension, and antibiotics",
-          "Your medical expenses may go up if you rely on these medicines"
-        ],
-        "source": "Indian Express",
-        "status": "DEVELOPING",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure|Economy",
-        "headline": "Auto rickshaw fares to increase soon",
-        "bullets": [
-          "Transport department proposes 15% fare hike",
-          "Last fare increase was in 2023",
-          "Your daily commute will cost more if this goes through"
-        ],
-        "source": "The Telegraph",
-        "status": "DEVELOPING",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Midday meal scheme expanded to more schools",
-        "bullets": [
-          "Government to cover 5,000 more schools under the scheme",
-          "Benefits 1.5 million additional students",
-          "Your child may get free lunches at school if their school is included"
-        ],
-        "source": "Ananda Bazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Kolkata's air quality worsens in June",
-        "bullets": [
-          "AQI reaches 'unhealthy' levels for sensitive groups",
-          "Fine particulate matter (PM2.5) levels exceed safe limits",
-          "You may experience breathing difficulties if you are sensitive"
-        ],
-        "source": "Central Pollution Control Board",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure|Economy",
-        "headline": "Bus fares may rise due to fuel price hike",
-        "bullets": [
-          "Private bus operators demand 10% fare increase",
-          "Diesel prices have increased by 5% in the last month",
-          "Your bus commute could get more expensive soon"
-        ],
-        "source": "Times of India",
-        "status": "UNVERIFIED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "Sundarbans Delta Shrinking at Alarming Rate: Study",
+      "bullets": [
+        "A recent report by the Indian Institute of Tropical Meteorology found the Sundarbans delta has shrunk by 22% in the last 25 years.",
+        "The delta is home to 12 million people and is a vital source of fish for the state's economy.",
+        "What this means for you: Rising sea levels and soil erosion threaten the livelihoods of those living in the Sundarbans."
+      ],
+      "source": "Indian Institute of Tropical Meteorology",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "Protests Erupt as West Bengal Adopts New Labor Laws",
+      "bullets": [
+        "The new laws aim to protect workers' rights but have been met with resistance from business owners.",
+        "A survey by the Centre for Monitoring Indian Economy found 70% of small businesses in the state are opposed to the new laws.",
+        "What this means for you: Uncertainty surrounds the future of jobs in the state as the new laws are implemented."
+      ],
+      "source": "Centre for Monitoring Indian Economy",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Rice Prices Hit Record High in West Bengal Markets",
+      "bullets": [
+        "Wholesale rice prices in the state have risen by 15% in the last quarter.",
+        "A report by the Economic Research Unit found the increase is due to a shortage in supply.",
+        "What this means for you: Higher food prices are putting pressure on household budgets across the state."
+      ],
+      "source": "Economic Research Unit",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "Chikungunya Outbreak Spreads Across West Bengal",
+      "bullets": [
+        "The state health department has confirmed 1,500 cases of chikungunya in the last month.",
+        "A report by the National Vector Borne Disease Control Programme found the disease is spreading rapidly in urban areas.",
+        "What this means for you: Increased risk of infection for those living in urban areas of the state."
+      ],
+      "source": "National Vector Borne Disease Control Programme",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit West Bengal as Coal Shortage Worsens",
+      "bullets": [
+        "The state's power plants are facing a coal shortage, leading to frequent power cuts.",
+        "A report by the Central Electricity Authority found the shortage has resulted in a 20% reduction in power generation.",
+        "What this means for you: Increased frequency of power cuts and potential disruptions to daily life."
+      ],
+      "source": "Central Electricity Authority",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Resume Classes Amid Funding Uncertainty",
+      "bullets": [
+        "The state government has announced the reopening of schools but funding for the educational sector remains uncertain.",
+        "A report by the West Bengal Education Forum found 50% of schools in the state are facing funding shortages.",
+        "What this means for you: Uncertainty surrounds the future of education in the state as funding issues persist."
+      ],
+      "source": "West Bengal Education Forum",
+      "status": "DEVELOPING",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
