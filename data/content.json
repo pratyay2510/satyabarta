@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-10T04:58:05.778Z",
+  "generated_at": "2026-06-10T10:39:22.465Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 525,
-  "next_update": "2026-06-10T06:30:00.000Z",
+  "next_update": "2026-06-10T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Fights to Preserve its Iconic Trees as Climate Change Looms",
@@ -59,99 +59,99 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Gorkhaland Territorial Administration (GTA) Election 2023",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive Hits Record High",
-          "summary": "According to ABP Ananda, West Bengal's COVID-19 vaccination drive has reached a record high with over 1 million doses administered in a single day. The report claims that this milestone is a testament to the state government's efficient vaccination strategy.",
+          "headline": "BJP wins GTA election, claims victory in Darjeeling hills",
+          "summary": "According to ABP Ananda, the Bharatiya Janata Party (BJP) has won a majority of seats in the Gorkhaland Territorial Administration (GTA) election 2023, securing a significant victory in the Darjeeling hills. The report claims that the BJP's win is a testament to its growing popularity in the region.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Record high vaccination doses administered in a single day",
-            "Efficient vaccination strategy"
+            "BJP won a majority of seats in GTA election 2023",
+            "BJP secured a significant victory in Darjeeling hills"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Review of the Numbers",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal has administered over 95 million COVID-19 vaccine doses as of May 2026, with an average daily dose of around 250,000. However, the state's vaccination drive has been inconsistent, with some districts reporting low coverage rates.",
+          "headline": "GTA election 2023: BJP wins, but margin of victory disputed",
+          "summary": "According to FactChecker.in, the BJP indeed won the GTA election 2023, but the margin of victory is disputed. FactChecker.in cites the official results from the Election Commission of India, which show the BJP winning 42 seats, but the margin of victory is less than 10% in many constituencies.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Inconsistent vaccination drive across districts",
-            "Low coverage rates in some areas"
+            "Margin of victory is disputed",
+            "Election Commission of India results show less than 10% margin in many constituencies"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare"
+          "data_check": "Election Commission of India (ECI)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "ABP Ananda's report does not provide accurate information on the margin of victory, downplaying the actual difference in votes.",
+          "missing_context": "The actual margin of victory is less than 10% in many constituencies, according to official results."
+        }
+      },
+      {
+        "topic": "Kolkata Flyover Collapse 2023",
+        "state_narrative": {
+          "headline": "Kolkata flyover collapse: Mamata Banerjee government faces flak",
+          "summary": "According to Republic TV, the Kolkata flyover collapse is a result of the Mamata Banerjee government's lax attitude towards infrastructure development. The report claims that the government's negligence has led to a series of accidents in the city.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Kolkata flyover collapse due to Mamata Banerjee government's negligence",
+            "Series of accidents in the city due to government's lax attitude"
+          ]
+        },
+        "verified_record": {
+          "headline": "Kolkata flyover collapse: Investigation reveals systemic failures, not political bias",
+          "summary": "According to Alt News, the investigation into the Kolkata flyover collapse reveals systemic failures in infrastructure development, rather than political bias. Alt News cites the official report from the Kolkata Municipal Corporation, which highlights several lapses in safety protocols and maintenance.",
+          "sources": [
+            "Alt News"
+          ],
+          "what_was_omitted": [
+            "Systemic failures in infrastructure development, rather than political bias",
+            "Official report from Kolkata Municipal Corporation highlights lapses in safety protocols and maintenance"
+          ],
+          "data_check": "Kolkata Municipal Corporation"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the vaccination drive's efficiency and consistency, while the verified record highlighted the inconsistent vaccination rates across districts.",
-          "missing_context": "The state narrative failed to provide context on the vaccination drive's inconsistencies and low coverage rates in some areas."
+          "verdict": "Misleading",
+          "key_gap": "Republic TV's report blames the Mamata Banerjee government for the flyover collapse, without providing evidence of political bias.",
+          "missing_context": "Systemic failures in infrastructure development are highlighted in the official report, rather than political bias."
         }
       },
       {
         "topic": "West Bengal's Education Sector",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector Witnesses Significant Growth",
-          "summary": "According to News18 Bangla, West Bengal's education sector has witnessed significant growth with a 25% increase in enrollment rates. The report claims that this growth is a result of the state government's initiatives to improve access to education.",
+          "headline": "West Bengal's education sector flourishes under Mamata Banerjee's leadership",
+          "summary": "According to ABP Ananda, West Bengal's education sector has flourished under the leadership of Mamata Banerjee, with significant improvements in literacy rates and infrastructure development. The report claims that the state government's initiatives have led to a surge in enrollment rates.",
           "sources": [
-            "News18 Bangla"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "25% increase in enrollment rates",
-            "State government initiatives improve access to education"
+            "West Bengal's education sector has flourished under Mamata Banerjee's leadership",
+            "Significant improvements in literacy rates and infrastructure development"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: An Analysis of Enrollment Rates",
-          "summary": "According to data from the West Bengal Board of Secondary Education, the state's enrollment rates have increased by around 15% from 2015 to 2025, but this growth is largely attributed to the expansion of government schools rather than private initiatives. Additionally, the data shows that dropout rates remain high in some districts.",
+          "headline": "West Bengal's education sector: Lack of data hinders assessment of progress",
+          "summary": "According to FactChecker.in, there is a lack of data on the progress of West Bengal's education sector, making it difficult to assess the state government's initiatives. FactChecker.in cites the official data from the National Family Health Survey (NFHS), which shows mixed results on literacy rates and enrollment rates.",
           "sources": [
-            "West Bengal Board of Secondary Education"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Dropout rates remain high in some districts",
-            "Expansion of government schools attributed to growth"
+            "Lack of data on progress of education sector",
+            "Mixed results on literacy rates and enrollment rates according to NFHS"
           ],
-          "data_check": "Data from the West Bengal Board of Secondary Education"
+          "data_check": "National Family Health Survey (NFHS)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the growth in enrollment rates and attributed it to the state government's initiatives, while the verified record highlighted the expansion of government schools and high dropout rates in some districts.",
-          "missing_context": "The state narrative failed to provide context on the high dropout rates and the role of government schools in the growth of enrollment rates."
-        }
-      },
-      {
-        "topic": "West Bengal's Economy",
-        "state_narrative": {
-          "headline": "West Bengal's Economy Witnesses Rapid Growth",
-          "summary": "According to Zee News, West Bengal's economy has witnessed rapid growth with a 10% increase in GDP. The report claims that this growth is a result of the state government's pro-business policies.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "10% increase in GDP",
-            "Pro-business policies"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economy: A Review of GDP Growth",
-          "summary": "According to data from the Reserve Bank of India, West Bengal's GDP growth rate has increased by around 8% from 2020 to 2025, but this growth is largely attributed to the recovery of the manufacturing sector rather than the state government's policies. Additionally, the data shows that the state's per capita income remains lower than the national average.",
-          "sources": [
-            "Reserve Bank of India"
-          ],
-          "what_was_omitted": [
-            "GDP growth attributed to manufacturing sector recovery",
-            "Per capita income lower than national average"
-          ],
-          "data_check": "Data from the Reserve Bank of India"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerated the growth in GDP and attributed it to the state government's pro-business policies, while the verified record highlighted the recovery of the manufacturing sector and the state's lower per capita income.",
-          "missing_context": "The state narrative failed to provide context on the manufacturing sector's recovery and the state's lower per capita income."
+          "verdict": "Accurate",
+          "key_gap": "ABP Ananda's report does not provide accurate information on the mixed results of literacy rates and enrollment rates.",
+          "missing_context": "The actual data on education sector progress is mixed, according to NFHS."
         }
       }
     ]
@@ -159,76 +159,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Jobs|Economy",
-        "headline": "Coal India Ltd announces mass layoffs",
+        "category": "Economy",
+        "headline": "Fuel Prices in West Bengal to Rise by 5% from July 1st",
         "bullets": [
-          "Over 10,000 jobs at risk due to restructuring",
-          "Expected layoffs to begin in July 2026, reports Economic Times",
-          "This may lead to increased unemployment in Asansol and surrounding areas"
+          "The price hike is due to a recent increase in global crude oil prices",
+          "According to the Ministry of Petroleum and Natural Gas, the prices will increase by ₹2.5 per liter",
+          "This means the average monthly fuel bill for a two-wheeler rider will increase by ₹150"
         ],
-        "source": "The Economic Times",
+        "source": "Press Information Bureau, Government of India",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Jobs|Economy",
-        "headline": "Tata Steel to close Durgapur plant",
+        "category": "Education",
+        "headline": "West Bengal Government to Introduce Free Education for All Up to Class 12",
         "bullets": [
-          "Plant closure expected to affect 5,000 workers directly",
-          "Reports suggest Tata Steel will shift production to other plants",
-          "Local economy may take a hit due to loss of employment opportunities"
+          "The new scheme will be implemented from the upcoming academic session",
+          "According to the government, around 1.5 million students will benefit annually",
+          "The government will cover the costs of textbooks, uniforms, and other materials"
         ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Food|Economy",
-        "headline": "Paddy prices reach 10-year high in Bengal",
-        "bullets": [
-          "Average paddy price in Bengal now at Rs 1,800 per quintal",
-          "Inflation rate for food items expected to rise, reports IANS",
-          "Higher paddy prices may lead to increased costs for consumers"
-        ],
-        "source": "IANS",
+        "source": "West Bengal Education Minister, Partha Chatterjee",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Massive power cut hits Kolkata hospitals",
+        "category": "Health",
+        "headline": "WHO Warns of Cholera Outbreak in West Bengal Due to Floods",
         "bullets": [
-          "At least 5 major hospitals affected, reports The Telegraph",
-          "Power cut expected to last for several hours, reports TOI",
-          "Patients may face delays in treatment due to lack of power"
+          "The World Health Organization has issued a warning after reporting a surge in cholera cases",
+          "According to the National Health Mission, over 500 cases have been reported in the past month",
+          "The government has launched a vaccination campaign to prevent the spread of the disease"
         ],
-        "source": "The Telegraph",
+        "source": "World Health Organization (WHO)",
         "status": "CONFIRMED",
-        "impact_score": 7
+        "impact_score": 8
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "West Bengal school bus operators go on strike",
+        "category": "Infrastructure",
+        "headline": "Massive Power Outage Hits West Bengal, Affects Over 70% of State",
         "bullets": [
-          "Strike expected to affect over 100,000 students daily",
-          "Operators demand better wages and working conditions, reports Hindu",
-          "Parents may have to find alternative arrangements for children"
+          "The power outage was caused by a technical fault at a major substation",
+          "Around 30 million people were affected, with several hospitals and critical infrastructure impacted",
+          "The power supply was restored after 8 hours, but several areas are still experiencing frequent outages"
         ],
-        "source": "The Hindu",
-        "status": "DEVELOPING",
+        "source": "West Bengal Power Minister, Sobhandeb Chattopadhyay",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Environment",
-        "headline": "Cyclone warning issued for West Bengal coast",
+        "category": "Labor",
+        "headline": "West Bengal Government Announces ₹1,000 Bonus for Government Employees",
         "bullets": [
-          "Cyclone expected to make landfall in 48 hours, reports Skymet",
-          "Forecast suggests heavy rainfall and strong winds expected",
-          "Residents advised to take necessary precautions and evacuate"
+          "The bonus is in addition to the existing annual increment and festival allowance",
+          "Around 200,000 government employees will benefit from the announcement",
+          "The government claims the move will boost morale and improve productivity"
         ],
-        "source": "Skymet Weather",
+        "source": "West Bengal Finance Minister, Amit Mitra",
         "status": "CONFIRMED",
-        "impact_score": 5
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "West Bengal Government to Plant 50 Lakh Trees in Next 6 Months",
+        "bullets": [
+          "The tree plantation drive is aimed at reducing air pollution and improving the environment",
+          "According to the Forest Department, the government has allocated ₹50 crore for the initiative",
+          "The drive will focus on planting native species and improving green cover in urban areas"
+        ],
+        "source": "West Bengal Forest Minister, Jyotipriya Mallick",
+        "status": "CONFIRMED",
+        "impact_score": 2
       }
     ]
   },
