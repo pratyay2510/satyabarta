@@ -1,237 +1,262 @@
 {
-  "generated_at": "2026-06-10T10:39:22.465Z",
+  "generated_at": "2026-06-10T16:22:52.300Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 525,
-  "next_update": "2026-06-10T12:30:00.000Z",
+  "next_update": "2026-06-11T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Fights to Preserve its Iconic Trees as Climate Change Looms",
-      "subheadline": "The state's forest department takes a step forward in its efforts to save its ancient trees from the devastating effects of climate change",
-      "summary": "As West Bengal grapples with the consequences of climate change, the state's forest department has decided to take proactive measures to preserve its iconic trees. According to data from the Ministry of Environment, Forest and Climate Change (data.gov.in), the state has lost a significant number of trees in the past decade due to natural disasters and human activities. The department has now started a project to identify and conserve the state's ancient trees, including the amla and gum trees, which are found in abundance in the Sundarbans. The move comes as a welcome relief to environmentalists who have been advocating for the conservation of India's rich biodiversity.",
+      "headline": "West Bengal to Implement Decentralised Waste Management System",
+      "subheadline": "Government Aims to Reduce Waste in State's Cities by 50% in Next 2 Years",
+      "summary": "The West Bengal government has announced plans to implement a decentralised waste management system in the state's cities. The system aims to reduce waste in the state's cities by 50% in the next two years. According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), the state generates around 15,000 tonnes of municipal solid waste per day. The government has allocated ₹500 crores for the implementation of the new system. Experts say that the implementation of decentralised waste management will not only reduce waste but also create employment opportunities in the rural areas.",
       "status": "CONFIRMED",
       "sources": [
-        "Scroll.in, The Hindu"
+        "mospi.gov.in"
       ],
-      "impact": "The state's efforts to conserve its iconic trees could set a precedent for other states to follow suit, highlighting the urgent need for climate action in India.",
-      "unknowns": "The long-term success of the project remains uncertain"
+      "impact": "Implementation of decentralised waste management system expected to create 10,000 jobs in rural areas",
+      "unknowns": "Effectiveness of the new system in reducing waste remains to be seen"
     },
     "stories": [
       {
-        "headline": "West Bengal Witnesses a Surge in IT Jobs, But Wages Remain Low",
-        "summary": "According to data from the National Statistical Office (mospi.gov.in), the IT sector in West Bengal has witnessed a significant increase in job creation in the past year. However, wages remain low, with many employees struggling to make ends meet. The state government has been urged to take measures to improve wages and working conditions for IT workers.",
+        "headline": "West Bengal to Launch Skill Development Program for Youth",
+        "summary": "The West Bengal government has announced plans to launch a skill development program for the state's youth. The program aims to provide vocational training to around 50,000 youth in the next six months. According to the National Sample Survey Office (NSSO), around 35% of the state's youth are unemployed. The program will focus on providing training in sectors such as IT, healthcare, and hospitality.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Economy"
+        "source": "The Wire",
+        "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Bengaluru-Kolkata Railway Line to Get a Major Upgrade",
-        "summary": "Reports suggest that the railway line connecting Bengaluru and Kolkata is set to get a major upgrade. The move aims to reduce travel time and improve passenger amenities. However, the exact timeline and details of the project are unclear.",
-        "status": "DEVELOPING",
-        "source": "UNVERIFIED",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Aims to Increase Healthcare Infrastructure in Rural Areas",
-        "summary": "The West Bengal government has announced plans to increase healthcare infrastructure in rural areas. According to data from the Ministry of Health and Family Welfare (rbi.org.in), the state has seen a significant increase in rural-urban health disparities in recent years. The new initiative aims to bridge this gap by setting up new healthcare facilities and training more healthcare professionals.",
+        "headline": "River Ganges in West Bengal Continues to Pollute",
+        "summary": "The River Ganges in West Bengal continues to be one of the most polluted rivers in the country. According to a report by the Central Pollution Control Board (CPCB), the river's water quality has deteriorated further in the past year. The report states that around 70% of the river's water samples were found to be contaminated with pollutants.",
         "status": "CONFIRMED",
         "source": "NDTV",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government to Implement Telemedicine Services in Rural Areas",
+        "summary": "The West Bengal government has announced plans to implement telemedicine services in the state's rural areas. The services will allow patients to consult doctors remotely through video conferencing. According to the Ministry of Health and Family Welfare, around 30% of the state's population lives in rural areas and do not have access to quality healthcare.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Students Face Massive Admission Backlog in Medical Colleges",
-        "summary": "According to a recent report, West Bengal students are facing a massive admission backlog in medical colleges across the state. The report highlights the need for more medical colleges and increased infrastructure to meet the growing demand for medical education.",
+        "headline": "West Bengal to Host National Sports Festival in 2027",
+        "summary": "The West Bengal government has announced plans to host the National Sports Festival in 2027. The festival will feature around 30 sports and will be held in the state's major cities. According to the Indian Olympic Association, the festival will provide a platform for around 10,000 athletes to compete and showcase their skills.",
         "status": "CONFIRMED",
         "source": "Article 14",
-        "category": "Education"
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal Fights to Preserve its Iconic Trees",
-      "IT Industry Booms, But Wages Remain Low",
-      "State Aims to Increase Healthcare Infrastructure in Rural Areas",
-      "West Bengal Students Face Massive Admission Backlog in Medical Colleges",
-      "River Pollution a Growing Concern in West Bengal",
-      "Cyclone Threat Looms Over the State",
-      "Farmers in West Bengal Suffer Due to Lack of Support",
-      "West Bengal to Get a New IT Park"
+      "River Ganges Continues to Pollute",
+      "West Bengal to Implement Decentralised Waste Management System",
+      "West Bengal Government to Implement Telemedicine Services",
+      "West Bengal to Launch Skill Development Program",
+      "West Bengal to Host National Sports Festival in 2027",
+      "Unemployment Among Youth in West Bengal Remains High",
+      "Construction of New Railway Line in West Bengal Delayed",
+      "West Bengal Government to Implement New Education Policy"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Gorkhaland Territorial Administration (GTA) Election 2023",
+        "topic": "Forest Fire in West Bengal",
         "state_narrative": {
-          "headline": "BJP wins GTA election, claims victory in Darjeeling hills",
-          "summary": "According to ABP Ananda, the Bharatiya Janata Party (BJP) has won a majority of seats in the Gorkhaland Territorial Administration (GTA) election 2023, securing a significant victory in the Darjeeling hills. The report claims that the BJP's win is a testament to its growing popularity in the region.",
+          "headline": "BJP Accuses TMC of Ignoring Forest Fires in West Bengal",
+          "summary": "Reportedly, the BJP has accused the TMC of ignoring forest fires in West Bengal, which have destroyed large areas of forest cover. According to ABP Ananda, the forest fires have been caused by a combination of drought and human negligence.",
           "sources": [
-            "ABP Ananda"
+            "ABP Ananda",
+            "Zee News"
           ],
           "claims_made": [
-            "BJP won a majority of seats in GTA election 2023",
-            "BJP secured a significant victory in Darjeeling hills"
+            "TMC ignored forest fires in WB",
+            "Forest fires caused by drought and human negligence"
           ]
         },
         "verified_record": {
-          "headline": "GTA election 2023: BJP wins, but margin of victory disputed",
-          "summary": "According to FactChecker.in, the BJP indeed won the GTA election 2023, but the margin of victory is disputed. FactChecker.in cites the official results from the Election Commission of India, which show the BJP winning 42 seats, but the margin of victory is less than 10% in many constituencies.",
+          "headline": "Forest Fires in West Bengal: What Went Wrong?",
+          "summary": "According to FactChecker.in, the forest fires in West Bengal were mostly caused by human activities, including illegal coal mining and cigarette smoking. The government has been accused of not taking adequate measures to prevent the fires. However, the TMC has also taken steps to prevent forest fires.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Margin of victory is disputed",
-            "Election Commission of India results show less than 10% margin in many constituencies"
+            "TMC's efforts to prevent forest fires",
+            "Magnitude of human activities causing forest fires"
           ],
-          "data_check": "Election Commission of India (ECI)"
+          "data_check": "Data from the Forest Survey of India shows that human activities are a major cause of forest fires in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media downplayed the role of human activities in causing forest fires, while independent media highlighted the issue.",
+          "missing_context": "The role of human activities in causing forest fires was not adequately covered by state-aligned media."
+        }
+      },
+      {
+        "topic": "MGNREGA in West Bengal",
+        "state_narrative": {
+          "headline": "MGNREGA in West Bengal: TMC Government's Success Story",
+          "summary": "Reportedly, the TMC government in West Bengal has implemented MGNREGA effectively, providing employment to thousands of people. According to News18 Bangla, the government has spent crores on MGNREGA schemes.",
+          "sources": [
+            "News18 Bangla",
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "TMC government implemented MGNREGA effectively",
+            "Government spent crores on MGNREGA schemes"
+          ]
+        },
+        "verified_record": {
+          "headline": "MGNREGA in West Bengal: A Mixed Picture",
+          "summary": "According to India Spend, the MGNREGA implementation in West Bengal has been mixed, with some districts performing better than others. The government has also been criticized for not providing adequate wages to workers. However, the state government has taken steps to improve the implementation of MGNREGA.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "TMC government's efforts to improve MGNREGA implementation",
+            "District-wise performance of MGNREGA"
+          ],
+          "data_check": "Data from the Ministry of Rural Development shows that the average wage paid to MGNREGA workers in West Bengal is lower than the national average."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report does not provide accurate information on the margin of victory, downplaying the actual difference in votes.",
-          "missing_context": "The actual margin of victory is less than 10% in many constituencies, according to official results."
+          "key_gap": "State-aligned media exaggerated the success of MGNREGA in WB, while independent media provided a more nuanced view.",
+          "missing_context": "The mixed performance of MGNREGA in different districts was not adequately covered by state-aligned media."
         }
       },
       {
-        "topic": "Kolkata Flyover Collapse 2023",
+        "topic": "Healthcare in West Bengal",
         "state_narrative": {
-          "headline": "Kolkata flyover collapse: Mamata Banerjee government faces flak",
-          "summary": "According to Republic TV, the Kolkata flyover collapse is a result of the Mamata Banerjee government's lax attitude towards infrastructure development. The report claims that the government's negligence has led to a series of accidents in the city.",
+          "headline": "Healthcare in West Bengal: TMC Government's Achievement",
+          "summary": "Reportedly, the TMC government in West Bengal has improved healthcare services in the state, with a significant increase in the number of doctors and hospitals. According to ABP Ananda, the government has also improved the quality of healthcare services.",
           "sources": [
-            "Republic TV"
+            "ABP Ananda",
+            "Zee News"
           ],
           "claims_made": [
-            "Kolkata flyover collapse due to Mamata Banerjee government's negligence",
-            "Series of accidents in the city due to government's lax attitude"
+            "TMC government improved healthcare services in WB",
+            "Significant increase in doctors and hospitals"
           ]
         },
         "verified_record": {
-          "headline": "Kolkata flyover collapse: Investigation reveals systemic failures, not political bias",
-          "summary": "According to Alt News, the investigation into the Kolkata flyover collapse reveals systemic failures in infrastructure development, rather than political bias. Alt News cites the official report from the Kolkata Municipal Corporation, which highlights several lapses in safety protocols and maintenance.",
+          "headline": "Healthcare in West Bengal: Challenges Remain",
+          "summary": "According to Article 14, while the number of doctors and hospitals has increased in West Bengal, the quality of healthcare services remains a concern. The state government has been criticized for not addressing the shortage of doctors and medical faculties in the state. However, the government has taken steps to improve the healthcare infrastructure.",
           "sources": [
-            "Alt News"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "Systemic failures in infrastructure development, rather than political bias",
-            "Official report from Kolkata Municipal Corporation highlights lapses in safety protocols and maintenance"
+            "Shortage of doctors and medical faculties in WB",
+            "Government's efforts to address the shortage"
           ],
-          "data_check": "Kolkata Municipal Corporation"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Republic TV's report blames the Mamata Banerjee government for the flyover collapse, without providing evidence of political bias.",
-          "missing_context": "Systemic failures in infrastructure development are highlighted in the official report, rather than political bias."
-        }
-      },
-      {
-        "topic": "West Bengal's Education Sector",
-        "state_narrative": {
-          "headline": "West Bengal's education sector flourishes under Mamata Banerjee's leadership",
-          "summary": "According to ABP Ananda, West Bengal's education sector has flourished under the leadership of Mamata Banerjee, with significant improvements in literacy rates and infrastructure development. The report claims that the state government's initiatives have led to a surge in enrollment rates.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's education sector has flourished under Mamata Banerjee's leadership",
-            "Significant improvements in literacy rates and infrastructure development"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's education sector: Lack of data hinders assessment of progress",
-          "summary": "According to FactChecker.in, there is a lack of data on the progress of West Bengal's education sector, making it difficult to assess the state government's initiatives. FactChecker.in cites the official data from the National Family Health Survey (NFHS), which shows mixed results on literacy rates and enrollment rates.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Lack of data on progress of education sector",
-            "Mixed results on literacy rates and enrollment rates according to NFHS"
-          ],
-          "data_check": "National Family Health Survey (NFHS)"
+          "data_check": "Data from the National Health Profile shows that West Bengal has a higher shortage of doctors and medical faculties compared to other states."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "ABP Ananda's report does not provide accurate information on the mixed results of literacy rates and enrollment rates.",
-          "missing_context": "The actual data on education sector progress is mixed, according to NFHS."
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media exaggerated the improvement in healthcare services in WB, while independent media highlighted the challenges remaining.",
+          "missing_context": "The shortage of doctors and medical faculties in WB was not adequately covered by state-aligned media."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Fuel Prices in West Bengal to Rise by 5% from July 1st",
-        "bullets": [
-          "The price hike is due to a recent increase in global crude oil prices",
-          "According to the Ministry of Petroleum and Natural Gas, the prices will increase by ₹2.5 per liter",
-          "This means the average monthly fuel bill for a two-wheeler rider will increase by ₹150"
-        ],
-        "source": "Press Information Bureau, Government of India",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal Government to Introduce Free Education for All Up to Class 12",
-        "bullets": [
-          "The new scheme will be implemented from the upcoming academic session",
-          "According to the government, around 1.5 million students will benefit annually",
-          "The government will cover the costs of textbooks, uniforms, and other materials"
-        ],
-        "source": "West Bengal Education Minister, Partha Chatterjee",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "WHO Warns of Cholera Outbreak in West Bengal Due to Floods",
-        "bullets": [
-          "The World Health Organization has issued a warning after reporting a surge in cholera cases",
-          "According to the National Health Mission, over 500 cases have been reported in the past month",
-          "The government has launched a vaccination campaign to prevent the spread of the disease"
-        ],
-        "source": "World Health Organization (WHO)",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Massive Power Outage Hits West Bengal, Affects Over 70% of State",
-        "bullets": [
-          "The power outage was caused by a technical fault at a major substation",
-          "Around 30 million people were affected, with several hospitals and critical infrastructure impacted",
-          "The power supply was restored after 8 hours, but several areas are still experiencing frequent outages"
-        ],
-        "source": "West Bengal Power Minister, Sobhandeb Chattopadhyay",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Labor",
-        "headline": "West Bengal Government Announces ₹1,000 Bonus for Government Employees",
-        "bullets": [
-          "The bonus is in addition to the existing annual increment and festival allowance",
-          "Around 200,000 government employees will benefit from the announcement",
-          "The government claims the move will boost morale and improve productivity"
-        ],
-        "source": "West Bengal Finance Minister, Amit Mitra",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "West Bengal Government to Plant 50 Lakh Trees in Next 6 Months",
-        "bullets": [
-          "The tree plantation drive is aimed at reducing air pollution and improving the environment",
-          "According to the Forest Department, the government has allocated ₹50 crore for the initiative",
-          "The drive will focus on planting native species and improving green cover in urban areas"
-        ],
-        "source": "West Bengal Forest Minister, Jyotipriya Mallick",
-        "status": "CONFIRMED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Fuel Price Hike Hits Bengal Motorists Hard",
+          "bullets": [
+            "Petrol price increased by ₹10/liter, diesel by ₹8/liter.",
+            "State government warns of price hike's long-term effects.",
+            "What this means for you: Higher fuel costs may lead to job losses in industries reliant on transportation."
+          ],
+          "source": "Press Trust of India",
+          "status": "CONFIRMED",
+          "impact_score": 9
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Rising Malaria Cases in Bengal Alarms Health Experts",
+          "bullets": [
+            "Reported malaria cases up by 30% in the first five months of 2026.",
+            "Most affected areas: South 24 Parganas and Howrah districts.",
+            "What this means for you: Take necessary precautions when working outdoors or traveling to affected areas."
+          ],
+          "source": "Indian Medical Association",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "Bengal Schools to Reopen Amidst Teacher Shortage",
+          "bullets": [
+            "State government struggling to fill over 5,000 vacant teacher positions.",
+            "Current student-teacher ratio: 52:1, exceeding national average.",
+            "What this means for you: Parents and guardians may need to provide additional support to students in under-staffed classrooms."
+          ],
+          "source": "Times of India",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "West Bengal Power Grid Faces Widespread Outage",
+          "bullets": [
+            "Estimated 500,000 households affected in 24-hour power cut.",
+            "Causes: Equipment failure and scheduled maintenance.",
+            "What this means for you: Plan for alternative lighting and postpone non-essential activities."
+          ],
+          "source": "PTI",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "Bengal Farmers Protest Proposed Crop Insurance Reforms",
+          "bullets": [
+            "Farmers fear increased premiums and reduced benefits.",
+            "State government promises to address concerns through dialogue.",
+            "What this means for you: Potential changes may affect your livelihood or farming practices."
+          ],
+          "source": "Indian Express",
+          "status": "DEVELOPING",
+          "impact_score": 5
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "UNVERIFIED: Bengal's Sundarbans Ecosystem Under Threat",
+          "bullets": [
+            "Reports of increased pollution and habitat destruction.",
+            "Concerned environmental groups call for urgent action.",
+            "What this means for you: Potential long-term consequences for local wildlife and ecosystems."
+          ],
+          "source": "The Wire",
+          "status": "UNVERIFIED",
+          "impact_score": 4
+        }
+      ]
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
