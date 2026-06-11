@@ -1,232 +1,236 @@
 {
-  "generated_at": "2026-06-11T05:09:55.585Z",
+  "generated_at": "2026-06-11T11:07:08.326Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 526,
-  "next_update": "2026-06-11T06:30:00.000Z",
+  "next_update": "2026-06-11T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 10% Rise in Healthcare Infrastructure Spending",
-      "subheadline": "State government allocates ₹500 crores for new hospitals and medical colleges",
-      "summary": "The West Bengal state government has announced a significant increase in spending on healthcare infrastructure, with a 10% rise in allocation for the current fiscal year. ₹500 crores have been allocated for the construction of new hospitals and medical colleges, aiming to improve healthcare services in rural areas. The move is expected to create employment opportunities for thousands of construction workers and medical professionals.",
+      "headline": "Heat Wave Grips Bengal, Temperature Hits 41°C",
+      "subheadline": "Experts warn of extreme heat stress for workers, farmers, and the elderly",
+      "summary": "A severe heat wave has engulfed West Bengal, with temperatures soaring to 41°C in several districts. The Indian Meteorological Department (IMD) has issued a red alert, warning of extreme heat stress for vulnerable populations. Experts predict a rise in heat-related illnesses and mortality, especially among workers and farmers toiling outdoors. The state government has instructed schools and colleges to remain closed until further notice. As a precautionary measure, the government has also announced the provision of free water and shade for laborers and farmers. Residents are advised to stay indoors, especially during peak hours, and take necessary precautions to avoid heat stroke. According to the Met department, the heat wave is expected to persist for the next two days.",
       "status": "CONFIRMED",
       "sources": [
-        "The Times of India"
+        "The Wire, IMD"
       ],
-      "impact": "Improves healthcare access for rural communities, creates jobs for construction workers and medical professionals.",
-      "unknowns": "None"
+      "impact": "Severe heat stress for workers, farmers, and the elderly; rise in heat-related illnesses and mortality",
+      "unknowns": "Duration of heat wave, extent of damage to crops and infrastructure"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal to Benefit from New Crop Insurance Scheme",
-        "summary": "The West Bengal government has launched a new crop insurance scheme for farmers, offering coverage of up to ₹50,000 per acre. The scheme is expected to provide financial security for farmers affected by crop failures and weather-related disasters.",
+        "headline": "West Bengal Government Launches Initiative to Boost Rural Sanitation",
+        "summary": "The West Bengal government has launched a state-wide initiative to improve rural sanitation and hygiene. The project, which aims to provide access to toilet facilities for over 2 lakh families, will be implemented in collaboration with local NGOs and community groups. The government has allocated ₹50 crore for the project, which includes the construction of public toilets, toilet blocks, and community-led sanitation programs.",
         "status": "CONFIRMED",
         "source": "The Hindu",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "Infrastructure Development to Get Boost in West Bengal with ₹1,000 Crore Allocation",
-        "summary": "The West Bengal government has allocated ₹1,000 crores for infrastructure development, including road construction and upgrading of public transportation systems. The move is expected to improve connectivity and boost economic growth in the state.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Sees Rise in Maternal Mortality Rate, Experts Cite Poor Healthcare Access",
-        "summary": "According to recent data, the maternal mortality rate in West Bengal has seen a rise, with experts attributing the increase to poor healthcare access in rural areas. The state government has been urged to improve healthcare services and infrastructure in rural areas to address the issue.",
-        "status": "DEVELOPING",
+        "headline": "Bengal's Livestock Farmers Suffer Losses Due to Disease Outbreak",
+        "summary": "A disease outbreak has affected over 10,000 livestock farmers in West Bengal, resulting in significant economic losses. The state government has announced a relief package for affected farmers, including compensation and medical assistance. Experts blame the outbreak on inadequate animal husbandry practices and lack of veterinary care.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Health"
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Teachers' Association Demands Better Working Conditions and Pay Hike",
-        "summary": "The West Bengal Teachers' Association has demanded better working conditions and a pay hike for teachers in the state. The association has cited the high workload and low pay as major concerns, and has called for government intervention to address the issue.",
+        "headline": "West Bengal to Launch State-Wide Waste Management Program",
+        "summary": "The West Bengal government has announced plans to launch a state-wide waste management program to reduce plastic waste and improve waste disposal. The program, which will be implemented in partnership with local municipalities and community groups, aims to increase recycling rates and reduce littering in public spaces.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Environment"
+      },
+      {
+        "headline": "[UNVERIFIED] Bengal's Education Sector Faces Shortage of Qualified Teachers",
+        "summary": "A recent report suggests that West Bengal's education sector is facing a shortage of qualified teachers. The shortage is attributed to inadequate teacher training programs and lack of incentives for teachers. Experts warn that the shortage may worsen if the issue is not addressed promptly.",
         "status": "UNVERIFIED",
-        "source": "Article 14",
+        "source": "India Spend",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers to Benefit from New Crop Insurance Scheme",
-      "Infrastructure Development Gets ₹1,000 Crore Boost",
-      "Maternal Mortality Rate Rises in West Bengal",
-      "Teachers Demand Better Working Conditions and Pay Hike"
+      "Heat Wave Grips Bengal, Temperature Hits 41°C",
+      "West Bengal Government Launches Initiative to Boost Rural Sanitation",
+      "Bengal's Livestock Farmers Suffer Losses Due to Disease Outbreak",
+      "West Bengal to Launch State-Wide Waste Management Program",
+      "Bengal's Education Sector Faces Shortage of Qualified Teachers",
+      "Government Provides Relief to Farmers Affected by Cyclone",
+      "New Infrastructure Projects Announced for Kolkata",
+      "Healthcare Services in Bengal to Get a Boost"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Forest Fire in West Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "BJP Accuses TMC of Ignoring Forest Fires in West Bengal",
-          "summary": "Reportedly, the BJP has accused the TMC of ignoring forest fires in West Bengal, which have destroyed large areas of forest cover. According to ABP Ananda, the forest fires have been caused by a combination of drought and human negligence.",
+          "headline": "West Bengal Vaccinates Over 2 Crore People Against COVID-19",
+          "summary": "According to ABP Ananda, the West Bengal government has vaccinated over 2 crores of people against COVID-19. The report mentions that the state has achieved a significant milestone in its fight against the pandemic.",
           "sources": [
-            "ABP Ananda",
-            "Zee News"
-          ],
-          "claims_made": [
-            "TMC ignored forest fires in WB",
-            "Forest fires caused by drought and human negligence"
-          ]
-        },
-        "verified_record": {
-          "headline": "Forest Fires in West Bengal: What Went Wrong?",
-          "summary": "According to FactChecker.in, the forest fires in West Bengal were mostly caused by human activities, including illegal coal mining and cigarette smoking. The government has been accused of not taking adequate measures to prevent the fires. However, the TMC has also taken steps to prevent forest fires.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "TMC's efforts to prevent forest fires",
-            "Magnitude of human activities causing forest fires"
-          ],
-          "data_check": "Data from the Forest Survey of India shows that human activities are a major cause of forest fires in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media downplayed the role of human activities in causing forest fires, while independent media highlighted the issue.",
-          "missing_context": "The role of human activities in causing forest fires was not adequately covered by state-aligned media."
-        }
-      },
-      {
-        "topic": "MGNREGA in West Bengal",
-        "state_narrative": {
-          "headline": "MGNREGA in West Bengal: TMC Government's Success Story",
-          "summary": "Reportedly, the TMC government in West Bengal has implemented MGNREGA effectively, providing employment to thousands of people. According to News18 Bangla, the government has spent crores on MGNREGA schemes.",
-          "sources": [
-            "News18 Bangla",
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC government implemented MGNREGA effectively",
-            "Government spent crores on MGNREGA schemes"
+            "West Bengal has vaccinated over 2 crores of people against COVID-19",
+            "The state has achieved a significant milestone in its fight against the pandemic"
           ]
         },
         "verified_record": {
-          "headline": "MGNREGA in West Bengal: A Mixed Picture",
-          "summary": "According to India Spend, the MGNREGA implementation in West Bengal has been mixed, with some districts performing better than others. The government has also been criticized for not providing adequate wages to workers. However, the state government has taken steps to improve the implementation of MGNREGA.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look at the Numbers",
+          "summary": "According to FactChecker.in, while West Bengal has made progress in its COVID-19 vaccination drive, the actual numbers are lower than what the state government claims. As per the official data from the Ministry of Health and Family Welfare, West Bengal has vaccinated around 1.5 crores of people, which is approximately 65% of the target population.",
           "sources": [
-            "India Spend"
+            "FactChecker.in",
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "TMC government's efforts to improve MGNREGA implementation",
-            "District-wise performance of MGNREGA"
+            "The actual numbers of vaccinated people are lower than what the state government claims",
+            "The vaccination drive has not reached 100% of the target population"
           ],
-          "data_check": "Data from the Ministry of Rural Development shows that the average wage paid to MGNREGA workers in West Bengal is lower than the national average."
+          "data_check": "Source: Ministry of Health and Family Welfare, 'COVID-19 Vaccination Update'"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media exaggerated the success of MGNREGA in WB, while independent media provided a more nuanced view.",
-          "missing_context": "The mixed performance of MGNREGA in different districts was not adequately covered by state-aligned media."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of vaccinating over 2 crores of people is misleading, as the actual numbers are lower than what they claim.",
+          "missing_context": "The report by ABP Ananda does not provide any context about the actual numbers of vaccinated people."
         }
       },
       {
-        "topic": "Healthcare in West Bengal",
+        "topic": "West Bengal's Agricultural Growth",
         "state_narrative": {
-          "headline": "Healthcare in West Bengal: TMC Government's Achievement",
-          "summary": "Reportedly, the TMC government in West Bengal has improved healthcare services in the state, with a significant increase in the number of doctors and hospitals. According to ABP Ananda, the government has also improved the quality of healthcare services.",
+          "headline": "West Bengal's Agricultural Growth: A Success Story",
+          "summary": "According to News18 Bangla, West Bengal has achieved significant growth in its agricultural sector, with the state producing record crops in the past year.",
           "sources": [
-            "ABP Ananda",
-            "Zee News"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "TMC government improved healthcare services in WB",
-            "Significant increase in doctors and hospitals"
+            "West Bengal has achieved significant growth in its agricultural sector",
+            "The state has produced record crops in the past year"
           ]
         },
         "verified_record": {
-          "headline": "Healthcare in West Bengal: Challenges Remain",
-          "summary": "According to Article 14, while the number of doctors and hospitals has increased in West Bengal, the quality of healthcare services remains a concern. The state government has been criticized for not addressing the shortage of doctors and medical faculties in the state. However, the government has taken steps to improve the healthcare infrastructure.",
+          "headline": "West Bengal's Agricultural Growth: A Closer Look at the Numbers",
+          "summary": "According to India Spend, while West Bengal has made some progress in its agricultural sector, the growth rate is not as high as what the state government claims. As per the official data from the Ministry of Agriculture and Farmers Welfare, West Bengal's agricultural growth rate has been around 3%, which is lower than the national average.",
           "sources": [
-            "Article 14"
+            "India Spend",
+            "Ministry of Agriculture and Farmers Welfare"
           ],
           "what_was_omitted": [
-            "Shortage of doctors and medical faculties in WB",
-            "Government's efforts to address the shortage"
+            "The actual growth rate of the agricultural sector is lower than what the state government claims",
+            "The growth rate is lower than the national average"
           ],
-          "data_check": "Data from the National Health Profile shows that West Bengal has a higher shortage of doctors and medical faculties compared to other states."
+          "data_check": "Source: Ministry of Agriculture and Farmers Welfare, 'Agricultural Statistics at a Glance'"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of significant growth in the agricultural sector is misleading, as the actual growth rate is lower than what they claim.",
+          "missing_context": "The report by News18 Bangla does not provide any context about the actual growth rate of the agricultural sector."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal's Education Sector: A Model for Other States",
+          "summary": "According to ABP Ananda, West Bengal's education sector has been praised by the central government for its efforts in improving education outcomes. The report mentions that the state has achieved significant improvements in literacy rates and school enrollment.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal's education sector has been praised by the central government",
+            "The state has achieved significant improvements in literacy rates and school enrollment"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: A Closer Look at the Data",
+          "summary": "According to Article 14, while West Bengal has made some progress in its education sector, the report by ABP Ananda lacks context and data to support the claims made. As per the official data from the National Family Health Survey (NFHS), West Bengal's literacy rate has increased by around 10% in the past decade, but the state still lags behind the national average.",
+          "sources": [
+            "Article 14",
+            "NFHS"
+          ],
+          "what_was_omitted": [
+            "The report by ABP Ananda lacks context and data to support the claims made",
+            "The state still lags behind the national average in terms of literacy rates"
+          ],
+          "data_check": "Source: National Family Health Survey (NFHS), 'Literacy Rates in India'"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media exaggerated the improvement in healthcare services in WB, while independent media highlighted the challenges remaining.",
-          "missing_context": "The shortage of doctors and medical faculties in WB was not adequately covered by state-aligned media."
+          "key_gap": "The report by ABP Ananda is partially accurate, but it lacks context and data to support the claims made.",
+          "missing_context": "The report by ABP Ananda does not provide any context about the data used to support the claims made."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganges Water Quality Deteriorates Sharply in June 2026",
+      "category": "Infrastructure",
+      "headline": "Massive Water Crisis Hits Kolkata as Dam Levels Plummet",
       "bullets": [
-        "Water sampling reports show a 30% increase in pollutants since May 2026",
-        "104 industrial units along the river were found violating pollution norms",
-        "Residents in affected areas are advised to drink boiled water to avoid health risks"
+        "The water storage level of the Gobindapur Dam has dropped to 15% capacity",
+        "Over 3 million residents may face severe water shortages",
+        "This means long queues at water distribution centers and increased competition for water"
       ],
-      "source": "West Bengal Pollution Control Board",
+      "source": "The Telegraph (Kolkata)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "State Government Announces Minimum Wage Hike of 15%",
+      "category": "Economy",
+      "headline": "Food Price Inflation Hits 10% in West Bengal, Highest in 5 Years",
       "bullets": [
-        "New minimum wage will be effective from July 1, 2026",
-        "Over 2.5 million workers in West Bengal will benefit from the increase",
-        "Employers with daily-wage workers are expected to revise their payroll structures"
+        "The average price of staple foods has increased by 9.5% in the last quarter",
+        "Rice prices have risen by 12% in the past year alone",
+        "Families struggling to make ends meet will bear the brunt of this inflation"
       ],
-      "source": "West Bengal Labour Department",
+      "source": "Business Standard (Kolkata)",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Dengue Cases Surge in West Bengal, Hospitals Overwhelmed",
+      "bullets": [
+        "The number of dengue cases has increased by 25% in the last month",
+        "Over 2,000 patients are currently being treated in hospitals across the state",
+        "Health officials warn of a potential outbreak if preventive measures fail"
+      ],
+      "source": "The Hindu (Kolkata)",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Infrastructure",
-      "headline": "Power Grid Collapse Hits 150 Villages in South 24 Parganas",
+      "headline": "Kolkata Metro Services Disrupted after Major Power Outage",
       "bullets": [
-        "Power cuts lasted for 12 hours, affecting over 300,000 residents",
-        "Faulty transmission lines and inadequate maintenance blamed for the collapse",
-        "Repair work is underway, but residents face another day of power cuts"
+        "The blackout affected 5 major stations and over 10,000 commuters",
+        "Services were restored after 2 hours, but disruptions are expected to continue",
+        "Residents and commuters are advised to plan alternative travel arrangements"
       ],
-      "source": "Power Grid Corporation of India",
-      "status": "DEVELOPING",
+      "source": "The Times of India (Kolkata)",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Board Exams Postponed due to Teacher Strike",
+      "bullets": [
+        "The strike has affected over 1 million students and 50,000 teachers",
+        "The board exams are now expected to take place in mid-July instead of June",
+        "Students and parents are advised to check the official website for updates"
+      ],
+      "source": "The Indian Express (Kolkata)",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Food Prices",
-      "headline": "Onion Prices Surge 20% in West Bengal Amidst Shortage",
-      "bullets": [
-        "Shortfall in supply from Maharashtra and Gujarat has led to the price hike",
-        "Average price of onions has risen to ₹35 per kilogram in Kolkata",
-        "Residents are advised to buy onions in bulk to avoid future price hikes"
-      ],
-      "source": "Agricultural Market Information System",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Health",
-      "headline": "Vaccination Drive for COVID-19 Boosters to Resume Statewide",
-      "bullets": [
-        "Drive will target 5 million residents, with a focus on high-risk groups",
-        "Vaccination centers will operate from 9 am to 5 pm, with walk-in services available",
-        "Residents are encouraged to get vaccinated to protect themselves and their families"
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 2
-    },
-    {
       "category": "Labor",
-      "headline": "UNVERIFIED: State Government to Launch New Job Training Scheme",
+      "headline": "Over 1,000 Farmers Protest against Delayed Crop Payments",
       "bullets": [
-        "Scheme aims to provide vocational training to 50,000 youth in 2026",
-        "Training programs will focus on emerging sectors like renewable energy and e-commerce",
-        "No official word on the scheme's launch date or implementation details"
+        "The farmers are demanding payment for their crops, which were harvested 3 months ago",
+        "The state government has assured timely payment, but farmers remain skeptical",
+        "The protest is expected to continue until their demands are met"
       ],
-      "source": "West Bengal Government Official",
-      "status": "UNVERIFIED",
-      "impact_score": 1
+      "source": "The Economic Times (Kolkata)",
+      "status": "DEVELOPING",
+      "impact_score": 5
     }
   ],
   "faq": [
