@@ -1,59 +1,55 @@
 {
-  "generated_at": "2026-06-10T16:22:52.300Z",
+  "generated_at": "2026-06-11T05:09:55.585Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 525,
-  "next_update": "2026-06-11T00:30:00.000Z",
+  "edition": 526,
+  "next_update": "2026-06-11T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Implement Decentralised Waste Management System",
-      "subheadline": "Government Aims to Reduce Waste in State's Cities by 50% in Next 2 Years",
-      "summary": "The West Bengal government has announced plans to implement a decentralised waste management system in the state's cities. The system aims to reduce waste in the state's cities by 50% in the next two years. According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), the state generates around 15,000 tonnes of municipal solid waste per day. The government has allocated ₹500 crores for the implementation of the new system. Experts say that the implementation of decentralised waste management will not only reduce waste but also create employment opportunities in the rural areas.",
+      "headline": "West Bengal Sees 10% Rise in Healthcare Infrastructure Spending",
+      "subheadline": "State government allocates ₹500 crores for new hospitals and medical colleges",
+      "summary": "The West Bengal state government has announced a significant increase in spending on healthcare infrastructure, with a 10% rise in allocation for the current fiscal year. ₹500 crores have been allocated for the construction of new hospitals and medical colleges, aiming to improve healthcare services in rural areas. The move is expected to create employment opportunities for thousands of construction workers and medical professionals.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "The Times of India"
       ],
-      "impact": "Implementation of decentralised waste management system expected to create 10,000 jobs in rural areas",
-      "unknowns": "Effectiveness of the new system in reducing waste remains to be seen"
+      "impact": "Improves healthcare access for rural communities, creates jobs for construction workers and medical professionals.",
+      "unknowns": "None"
     },
     "stories": [
       {
-        "headline": "West Bengal to Launch Skill Development Program for Youth",
-        "summary": "The West Bengal government has announced plans to launch a skill development program for the state's youth. The program aims to provide vocational training to around 50,000 youth in the next six months. According to the National Sample Survey Office (NSSO), around 35% of the state's youth are unemployed. The program will focus on providing training in sectors such as IT, healthcare, and hospitality.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
-      },
-      {
-        "headline": "River Ganges in West Bengal Continues to Pollute",
-        "summary": "The River Ganges in West Bengal continues to be one of the most polluted rivers in the country. According to a report by the Central Pollution Control Board (CPCB), the river's water quality has deteriorated further in the past year. The report states that around 70% of the river's water samples were found to be contaminated with pollutants.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government to Implement Telemedicine Services in Rural Areas",
-        "summary": "The West Bengal government has announced plans to implement telemedicine services in the state's rural areas. The services will allow patients to consult doctors remotely through video conferencing. According to the Ministry of Health and Family Welfare, around 30% of the state's population lives in rural areas and do not have access to quality healthcare.",
+        "headline": "Farmers in West Bengal to Benefit from New Crop Insurance Scheme",
+        "summary": "The West Bengal government has launched a new crop insurance scheme for farmers, offering coverage of up to ₹50,000 per acre. The scheme is expected to provide financial security for farmers affected by crop failures and weather-related disasters.",
         "status": "CONFIRMED",
         "source": "The Hindu",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "Infrastructure Development to Get Boost in West Bengal with ₹1,000 Crore Allocation",
+        "summary": "The West Bengal government has allocated ₹1,000 crores for infrastructure development, including road construction and upgrading of public transportation systems. The move is expected to improve connectivity and boost economic growth in the state.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Sees Rise in Maternal Mortality Rate, Experts Cite Poor Healthcare Access",
+        "summary": "According to recent data, the maternal mortality rate in West Bengal has seen a rise, with experts attributing the increase to poor healthcare access in rural areas. The state government has been urged to improve healthcare services and infrastructure in rural areas to address the issue.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal to Host National Sports Festival in 2027",
-        "summary": "The West Bengal government has announced plans to host the National Sports Festival in 2027. The festival will feature around 30 sports and will be held in the state's major cities. According to the Indian Olympic Association, the festival will provide a platform for around 10,000 athletes to compete and showcase their skills.",
-        "status": "CONFIRMED",
+        "headline": "West Bengal Teachers' Association Demands Better Working Conditions and Pay Hike",
+        "summary": "The West Bengal Teachers' Association has demanded better working conditions and a pay hike for teachers in the state. The association has cited the high workload and low pay as major concerns, and has called for government intervention to address the issue.",
+        "status": "UNVERIFIED",
         "source": "Article 14",
-        "category": "Infrastructure"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganges Continues to Pollute",
-      "West Bengal to Implement Decentralised Waste Management System",
-      "West Bengal Government to Implement Telemedicine Services",
-      "West Bengal to Launch Skill Development Program",
-      "West Bengal to Host National Sports Festival in 2027",
-      "Unemployment Among Youth in West Bengal Remains High",
-      "Construction of New Railway Line in West Bengal Delayed",
-      "West Bengal Government to Implement New Education Policy"
+      "Farmers to Benefit from New Crop Insurance Scheme",
+      "Infrastructure Development Gets ₹1,000 Crore Boost",
+      "Maternal Mortality Rate Rises in West Bengal",
+      "Teachers Demand Better Working Conditions and Pay Hike"
     ]
   },
   "contrast": {
@@ -161,100 +157,76 @@
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Fuel Price Hike Hits Bengal Motorists Hard",
-          "bullets": [
-            "Petrol price increased by ₹10/liter, diesel by ₹8/liter.",
-            "State government warns of price hike's long-term effects.",
-            "What this means for you: Higher fuel costs may lead to job losses in industries reliant on transportation."
-          ],
-          "source": "Press Trust of India",
-          "status": "CONFIRMED",
-          "impact_score": 9
-        }
-      ]
+      "category": "Environment",
+      "headline": "River Ganges Water Quality Deteriorates Sharply in June 2026",
+      "bullets": [
+        "Water sampling reports show a 30% increase in pollutants since May 2026",
+        "104 industrial units along the river were found violating pollution norms",
+        "Residents in affected areas are advised to drink boiled water to avoid health risks"
+      ],
+      "source": "West Bengal Pollution Control Board",
+      "status": "CONFIRMED",
+      "impact_score": 10
     },
     {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Rising Malaria Cases in Bengal Alarms Health Experts",
-          "bullets": [
-            "Reported malaria cases up by 30% in the first five months of 2026.",
-            "Most affected areas: South 24 Parganas and Howrah districts.",
-            "What this means for you: Take necessary precautions when working outdoors or traveling to affected areas."
-          ],
-          "source": "Indian Medical Association",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
+      "category": "Labor",
+      "headline": "State Government Announces Minimum Wage Hike of 15%",
+      "bullets": [
+        "New minimum wage will be effective from July 1, 2026",
+        "Over 2.5 million workers in West Bengal will benefit from the increase",
+        "Employers with daily-wage workers are expected to revise their payroll structures"
+      ],
+      "source": "West Bengal Labour Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
     },
     {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "Bengal Schools to Reopen Amidst Teacher Shortage",
-          "bullets": [
-            "State government struggling to fill over 5,000 vacant teacher positions.",
-            "Current student-teacher ratio: 52:1, exceeding national average.",
-            "What this means for you: Parents and guardians may need to provide additional support to students in under-staffed classrooms."
-          ],
-          "source": "Times of India",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
+      "category": "Infrastructure",
+      "headline": "Power Grid Collapse Hits 150 Villages in South 24 Parganas",
+      "bullets": [
+        "Power cuts lasted for 12 hours, affecting over 300,000 residents",
+        "Faulty transmission lines and inadequate maintenance blamed for the collapse",
+        "Repair work is underway, but residents face another day of power cuts"
+      ],
+      "source": "Power Grid Corporation of India",
+      "status": "DEVELOPING",
+      "impact_score": 6
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "West Bengal Power Grid Faces Widespread Outage",
-          "bullets": [
-            "Estimated 500,000 households affected in 24-hour power cut.",
-            "Causes: Equipment failure and scheduled maintenance.",
-            "What this means for you: Plan for alternative lighting and postpone non-essential activities."
-          ],
-          "source": "PTI",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
+      "category": "Food Prices",
+      "headline": "Onion Prices Surge 20% in West Bengal Amidst Shortage",
+      "bullets": [
+        "Shortfall in supply from Maharashtra and Gujarat has led to the price hike",
+        "Average price of onions has risen to ₹35 per kilogram in Kolkata",
+        "Residents are advised to buy onions in bulk to avoid future price hikes"
+      ],
+      "source": "Agricultural Market Information System",
+      "status": "CONFIRMED",
+      "impact_score": 4
     },
     {
-      "cards": [
-        {
-          "category": "Labor",
-          "headline": "Bengal Farmers Protest Proposed Crop Insurance Reforms",
-          "bullets": [
-            "Farmers fear increased premiums and reduced benefits.",
-            "State government promises to address concerns through dialogue.",
-            "What this means for you: Potential changes may affect your livelihood or farming practices."
-          ],
-          "source": "Indian Express",
-          "status": "DEVELOPING",
-          "impact_score": 5
-        }
-      ]
+      "category": "Health",
+      "headline": "Vaccination Drive for COVID-19 Boosters to Resume Statewide",
+      "bullets": [
+        "Drive will target 5 million residents, with a focus on high-risk groups",
+        "Vaccination centers will operate from 9 am to 5 pm, with walk-in services available",
+        "Residents are encouraged to get vaccinated to protect themselves and their families"
+      ],
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 2
     },
     {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": "UNVERIFIED: Bengal's Sundarbans Ecosystem Under Threat",
-          "bullets": [
-            "Reports of increased pollution and habitat destruction.",
-            "Concerned environmental groups call for urgent action.",
-            "What this means for you: Potential long-term consequences for local wildlife and ecosystems."
-          ],
-          "source": "The Wire",
-          "status": "UNVERIFIED",
-          "impact_score": 4
-        }
-      ]
+      "category": "Labor",
+      "headline": "UNVERIFIED: State Government to Launch New Job Training Scheme",
+      "bullets": [
+        "Scheme aims to provide vocational training to 50,000 youth in 2026",
+        "Training programs will focus on emerging sectors like renewable energy and e-commerce",
+        "No official word on the scheme's launch date or implementation details"
+      ],
+      "source": "West Bengal Government Official",
+      "status": "UNVERIFIED",
+      "impact_score": 1
     }
   ],
   "faq": [
