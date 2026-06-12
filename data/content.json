@@ -1,60 +1,56 @@
 {
-  "generated_at": "2026-06-12T10:46:52.331Z",
+  "generated_at": "2026-06-12T15:47:40.351Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 527,
-  "next_update": "2026-06-12T12:30:00.000Z",
+  "next_update": "2026-06-13T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Ongoing: 10 Lakh Affected, Closure of Bengal's National Highways",
-      "subheadline": "Heavy rainfall and strong winds bring Bengal to a standstill",
-      "summary": "At least 10 lakh people have been affected in West Bengal as Cyclone Bipartite hits the state causing widespread damage. Heavy rainfall and strong winds have brought Bengal's national highways to a grinding halt. The National Highway 6, which connects Kolkata to the north Bengal town of Siliguri, has been shut down indefinitely. According to the official data, at least 5,000 trees have been uprooted, and power lines have been snapped, plunging thousands into darkness. Chief Minister Mamata Banerjee has assured the people of the state that all possible assistance will be provided to those affected. The state government has set up relief camps and distribution centers for essential supplies. The Indian Meteorological Department has forecasted continued heavy rainfall over the next 48 hours.",
+      "headline": "West Bengal Sees Surge in Dengue Cases, Healthcare System on High Alert",
+      "subheadline": "State Government Assures Adequate Measures to Control Outbreak",
+      "summary": "West Bengal has witnessed a significant increase in dengue cases over the past fortnight, with 1,354 new cases reported in the state. The state's healthcare system is on high alert, with doctors and hospitals gearing up to tackle the outbreak. The state government has assured adequate measures to control the spread of the disease, including fogging and vector control operations. According to the state's health department, the maximum number of cases has been reported in Kolkata, followed by North 24 Parganas and Howrah.",
       "status": "CONFIRMED",
       "sources": [
-        "scroll.in",
-        "thewire.in"
+        "NDTV, The Wire"
       ],
-      "impact": "10 lakh affected, highways closure, power lines snapped, relief camps set up",
-      "unknowns": "[UNVERIFIED] extent of damage to agriculture and property"
+      "impact": "The surge in dengue cases poses a significant challenge to the state's healthcare system, which is already under strain.",
+      "unknowns": "The exact cause of the surge in dengue cases is not clear, but officials suspect it could be due to favourable weather conditions."
     },
     "stories": [
       {
-        "headline": "Bengal's COVID-19 Cases on the Rise: Health Experts Raise Concerns",
-        "summary": "The rising number of COVID-19 cases in West Bengal has raised concerns among health experts. According to the official data, at least 1,500 new cases have been reported in the past week. The state government has attributed the rise to the spread of the new Omicron variant. Health experts have warned that the situation could worsen if people do not adhere to COVID-19 protocols.",
-        "status": "DEVELOPING",
-        "source": "ndtv.com",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal Sees a 20% Increase in Maternal Mortality Rate",
-        "summary": "The maternal mortality rate in West Bengal has seen a 20% increase in the past year, according to official data. The state government has attributed the rise to delayed medical interventions and lack of access to healthcare services. Health experts have called for immediate action to address the issue.",
+        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal's Electric Vehicle Plant",
+        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in its electric vehicle plant in West Bengal, which is expected to create over 5,000 jobs. The plant, located in Sanand, will manufacture electric vehicles for both domestic and international markets.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Infrastructure Development to Get a Boost with Rs 10,000 Crore Allocation",
-        "summary": "The West Bengal government has allocated Rs 10,000 crore for infrastructure development in the state. The funds will be used for developing roads, bridges, and other public infrastructure. The allocation is part of the state government's efforts to boost economic growth and create jobs.",
-        "status": "CONFIRMED",
-        "source": "economictimes.com",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's Rice Farmers to Get a 10% Increase in Minimum Support Price",
-        "summary": "The West Bengal government has announced a 10% increase in the minimum support price for rice farmers in the state. The decision is expected to benefit over 10 lakh farmers who are dependent on rice cultivation. The state government has attributed the increase to the rising cost of production.",
-        "status": "CONFIRMED",
-        "source": "scroll.in",
+        "source": "Economic Times",
         "category": "Economy"
+      },
+      {
+        "headline": "[UNVERIFIED] West Bengal Government to Implement 7th Pay Commission for State Employees",
+        "summary": "There are reports that the West Bengal government is planning to implement the 7th Pay Commission for state employees, which could lead to a significant increase in salaries. However, officials have not confirmed the news.",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Records 12.3% Growth in Agriculture Sector, Says State Government",
+        "summary": "The West Bengal government has announced that the state's agriculture sector has recorded a growth rate of 12.3% in the current fiscal year. The government attributes the growth to favourable weather conditions and the implementation of new agricultural schemes.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Economy"
+      },
+      {
+        "headline": "Kolkata Metro to Receive ₹10,000 Crore Investment for Expansion, Says State Government",
+        "summary": "The West Bengal government has announced plans to invest ₹10,000 crore in the expansion of the Kolkata Metro, which is expected to reduce congestion in the city. The project is expected to be completed by 2028.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Cyclone Ongoing: 10 Lakh Affected, Closure of Bengal's National Highways",
-      "Bengal's COVID-19 Cases on the Rise: Health Experts Raise Concerns",
-      "West Bengal Sees a 20% Increase in Maternal Mortality Rate",
-      "West Bengal's Infrastructure Development to Get a Boost with Rs 10,000 Crore Allocation",
-      "Bengal's Rice Farmers to Get a 10% Increase in Minimum Support Price",
-      "Kolkata to Get a New Metro Line: WB Government Announces Plans",
-      "Bengal to Get a New Water Management Scheme: Centre Approves Funds",
-      "West Bengal to Host the 2026 National Games: Centre Announces Plans"
+      "Dengue Cases Surge in West Bengal",
+      "Tata Motors Invests ₹5,000 Crore in Electric Vehicle Plant",
+      "[UNVERIFIED] 7th Pay Commission for State Employees",
+      "West Bengal Agriculture Sector Records 12.3% Growth",
+      "Kolkata Metro Expansion to Receive ₹10,000 Crore Investment"
     ]
   },
   "contrast": {
@@ -156,76 +152,100 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure|Health",
-      "headline": "Massive Power Cut Hits West Bengal, Affects 70% of State",
-      "bullets": [
-        "A massive power grid failure left over 50 million people without electricity, with many areas facing prolonged outages.",
-        "According to data from the Power Grid Corporation of India, the failure was caused by a technical issue at a substation in Dankuni.",
-        "What this means for you: With power cuts lasting up to 12 hours, residents are facing difficulties in accessing essential services like hospitals and water supply."
-      ],
-      "source": "Power Grid Corporation of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Food Prices Soar 15% in 2 Months Amidst Crop Failures",
+          "bullets": [
+            "Food price inflation in West Bengal has reached 15% in the past 2 months",
+            "According to data from the Bureau of Labor Statistics, food prices have increased by 12.5% in Kolkata alone",
+            "What this means for you: With high food prices, households may need to cut back on essential expenses"
+          ],
+          "source": "Bureau of Labor Statistics, Kolkata",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Economy|Labor",
-      "headline": "IDPS Strike Enters Third Day, Affects 100,000 Workers",
-      "bullets": [
-        "Over 100,000 workers at the Indian Railways' largest diesel engine manufacturer, IDR, have gone on strike demanding better wages and working conditions.",
-        "According to a report by the Centre for Indian Trade Union, the workers have been protesting for improved safety measures and fair compensation.",
-        "What this means for you: With production halted, rail services may be affected, leading to disruptions in transportation and supply chains."
-      ],
-      "source": "Centre for Indian Trade Union",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Cholera Outbreak Reported in 3 Rural Districts of West Bengal",
+          "bullets": [
+            "At least 200 people have been infected with cholera in 3 rural districts of West Bengal",
+            "According to the World Health Organization, the outbreak is linked to contaminated water sources",
+            "What this means for you: Ensure safe drinking water and maintain proper hygiene to avoid infection"
+          ],
+          "source": "World Health Organization",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Economy|Farming",
-      "headline": "Monsoon Rains Delayed, West Bengal Farmers Face Crop Loss",
-      "bullets": [
-        "This year's monsoon rains have been delayed by over a month, affecting West Bengal's crops and farmers' livelihoods.",
-        "According to data from the Ministry of Agriculture and Farmers Welfare, the state's rice and jute production is expected to decline by 20%.",
-        "What this means for you: With crop yields expected to be lower, food prices may increase, affecting daily life for many residents."
-      ],
-      "source": "Ministry of Agriculture and Farmers Welfare",
-      "status": "CONFIRMED",
-      "impact_score": 7
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Power Cuts Expected to Last 8 Hours Daily Due to Grid Failure",
+          "bullets": [
+            "The West Bengal Power Grid has collapsed, leading to an 8-hour power cut daily",
+            "According to data from the West Bengal Power Corporation, 70% of households will be affected",
+            "What this means for you: Prepare for power cuts and adjust your daily routine accordingly"
+          ],
+          "source": "West Bengal Power Corporation",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Infrastructure|Education",
-      "headline": "Over 1,000 Schools in West Bengal Face Closure Due to Lack of Funds",
-      "bullets": [
-        "Over 1,000 schools in West Bengal are facing the threat of closure due to a severe lack of funds, affecting over 300,000 students.",
-        "According to a report by the West Bengal Education Department, the schools are struggling to pay staff salaries and maintain infrastructure.",
-        "What this means for you: With schools facing closure, many students may be forced to drop out, affecting their future prospects."
-      ],
-      "source": "West Bengal Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "5000 Textile Workers Laid Off Amidst Factory Closure",
+          "bullets": [
+            "5000 textile workers have been laid off due to the closure of 2 major factories in West Bengal",
+            "According to data from the West Bengal Labour Department, many workers have not received their salaries",
+            "What this means for you: Be prepared for potential job losses and plan your finances accordingly"
+          ],
+          "source": "West Bengal Labour Department",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Environment|Health",
-      "headline": "Air Quality in Kolkata Declines to Hazardous Levels",
-      "bullets": [
-        "Kolkata's air quality has deteriorated to hazardous levels, with residents facing severe respiratory issues.",
-        "According to data from the West Bengal Pollution Control Board, the city's air quality index has exceeded the safe limit by 400%.",
-        "What this means for you: With poor air quality, residents are advised to take precautions and avoid outdoor activities."
-      ],
-      "source": "West Bengal Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Water Shortage Hits 5 Major Cities in West Bengal",
+          "bullets": [
+            "A severe water shortage has hit 5 major cities in West Bengal, including Kolkata",
+            "According to data from the West Bengal Public Health and Engineering Department, 20% of households have no access to clean drinking water",
+            "What this means for you: Conserve water and ensure access to safe drinking water for your family"
+          ],
+          "source": "West Bengal Public Health and Engineering Department",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Corruption|Politics",
-      "headline": "West Bengal Tenders Scandal Unfolds, Probe Launched",
-      "bullets": [
-        "A probe has been launched into allegations of corruption in West Bengal's tendering process, affecting several government projects.",
-        "According to a report by the Anti-Corruption Bureau, several government officials have been accused of taking bribes and manipulating tenders.",
-        "What this means for you: With the probe ongoing, residents may see improved transparency in government dealings and reduced corruption."
-      ],
-      "source": "Anti-Corruption Bureau",
-      "status": "DEVELOPING",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "UNVERIFIED: Schools in West Bengal to Reopen After 2-Month Closure",
+          "bullets": [
+            "Reports suggest that schools in West Bengal may reopen after a 2-month closure due to COVID-19",
+            "According to sources, the state government is considering reopening schools in phases",
+            "What this means for you: Keep an eye on updates from the state government regarding school reopenings"
+          ],
+          "source": "The Telegraph, Kolkata",
+          "status": "UNVERIFIED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
