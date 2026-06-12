@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T16:36:26.153Z",
+  "generated_at": "2026-06-12T05:14:40.615Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 526,
-  "next_update": "2026-06-12T00:30:00.000Z",
+  "edition": 527,
+  "next_update": "2026-06-12T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees 20% Rise in Healthcare Expenditure",
@@ -59,174 +59,163 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Demolition of Politician's House in Asansol",
+        "topic": "West Bengal's Rural Infrastructure Development",
         "state_narrative": {
-          "headline": "ABP Ananda: Trinamool Congress (TMC) Leader's House Demolished by Local Police in Asansol",
-          "summary": "According to ABP Ananda, a TMC leader's house was demolished by local police in Asansol. The state-aligned media outlet reported that the leader was involved in a land dispute and the demolition was carried out to maintain law and order.",
+          "headline": "West Bengal's Rural Infrastructure Development Surpasses National Average: CM Mamata Banerjee",
+          "summary": "Chief Minister Mamata Banerjee has stated that West Bengal's rural infrastructure development has surpassed the national average. According to ABP Ananda, the state government's initiatives have led to significant improvements in rural roads and bridges.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The leader was involved in a land dispute",
-            "The demolition was carried out to maintain law and order"
+            "West Bengal's rural infrastructure development has surpassed the national average.",
+            "The state government's initiatives have led to significant improvements in rural roads and bridges."
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Asansol Demolition Incident Highlights Lack of Transparency in Bengal Land Acquisition",
-          "summary": "According to FactChecker.in, the demolition in Asansol was reportedly carried out without prior notice to the residents, highlighting the lack of transparency in land acquisition procedures in West Bengal. FactChecker.in cited official sources stating that the land was acquired for a government project, but the acquisition process was shrouded in secrecy.",
+          "headline": "West Bengal's Rural Infrastructure Development: Fact-Checking State Claims",
+          "summary": "According to the Ministry of Rural Development, West Bengal's rural road density is 0.43 km per square kilometer, which is lower than the national average of 0.54 km per square kilometer. FactChecker.in reports that while the state government has made some improvements, the data does not support the claim of surpassing the national average.",
           "sources": [
+            "Ministry of Rural Development",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The lack of transparency in land acquisition procedures",
-            "Official sources cited the land was acquired for a government project"
+            "The actual rural road density in West Bengal is lower than the national average.",
+            "The state government's claims of surpassing the national average are not supported by data."
           ],
-          "data_check": "Data check: The West Bengal government's land acquisition procedures were reviewed by MOSPI, citing a lack of transparency in their reports (2019)."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media focused on a land dispute, while independent media highlighted the lack of transparency in land acquisition procedures.",
-          "missing_context": "The omission of context regarding the land acquisition process and lack of transparency in state-aligned media reports."
-        }
-      },
-      {
-        "topic": "Water Scarcity in Sundarbans",
-        "state_narrative": {
-          "headline": "News18 Bangla: Water Crisis Hits Sundarbans, Local Residents Suffer",
-          "summary": "According to News18 Bangla, a severe water crisis has struck the Sundarbans region, affecting local residents. The state-aligned media outlet reported that the crisis was caused by a lack of rainfall and the failure of the local government to provide adequate water supply.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The crisis was caused by a lack of rainfall",
-            "The local government failed to provide adequate water supply"
-          ]
-        },
-        "verified_record": {
-          "headline": "Alt News: Sundarbans Water Crisis Exposed by Fact-Checking Investigation",
-          "summary": "According to Alt News, a fact-checking investigation revealed that the water crisis in Sundarbans was reportedly caused by a combination of factors, including over-extraction of groundwater by local industries and inadequate water management practices. Alt News cited official sources stating that the groundwater level in the region has been declining steadily since 2015.",
-          "sources": [
-            "Alt News"
-          ],
-          "what_was_omitted": [
-            "The role of local industries in over-extracting groundwater",
-            "Official sources cited the groundwater level has been declining since 2015"
-          ],
-          "data_check": "Data check: The groundwater level in the Sundarbans region was reviewed by the Central Ground Water Board, citing a decline in the water table (2015-2020)."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media focused on a lack of rainfall, while independent media highlighted the role of local industries in exacerbating the crisis.",
-          "missing_context": "The omission of context regarding the role of local industries in the water crisis in state-aligned media reports."
-        }
-      },
-      {
-        "topic": "Floods in Malda",
-        "state_narrative": {
-          "headline": "Zee News: Heavy Rains Cause Widespread Flooding in Malda, CPI(M) Leader Blames Trinamool Congress",
-          "summary": "According to Zee News, heavy rains caused widespread flooding in Malda, and CPI(M) leader blamed the Trinamool Congress (TMC) for the disaster. The state-aligned media outlet reported that the TMC government was responsible for the flooding due to its alleged failure to maintain the local drainage system.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "CPI(M) leader blamed TMC for the disaster",
-            "TMC government failed to maintain the local drainage system"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Quint: Malda Floods: Independent Fact-Check Reveals Complexity of the Issue",
-          "summary": "According to The Quint, an independent fact-check revealed that the flooding in Malda was reportedly caused by a complex interplay of factors, including heavy rainfall, poor drainage infrastructure, and encroachment of the riverbank. The Quint cited official sources stating that the government had taken steps to mitigate the flooding, but more needed to be done to address the underlying issues.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The complexity of factors contributing to the flooding",
-            "Official sources cited government efforts to mitigate the flooding"
-          ],
-          "data_check": "Data check: The impact of heavy rainfall on the local drainage system was reviewed by MoWR, citing the need for improved infrastructure (2020)."
+          "data_check": "Data from the Ministry of Rural Development's Rural Infrastructure Development Fund (RIDF)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media focused on a single cause (TMC government failure), while independent media highlighted the complexity of the issue.",
-          "missing_context": "The omission of context regarding the complexity of factors contributing to the flooding in state-aligned media reports."
+          "key_gap": "The state government's claims of surpassing the national average in rural infrastructure development are not supported by data.",
+          "missing_context": "The actual condition of rural infrastructure in West Bengal and the national average."
+        }
+      },
+      {
+        "topic": "West Bengal's Unemployment Rate",
+        "state_narrative": "According to News18 Bangla, West Bengal's unemployment rate has decreased significantly due to the state government's job creation initiatives. The report cites a survey by a local market research firm, which claims that the unemployment rate has dropped by 10% in the past year.",
+        "state_narrative_sources": [
+          "News18 Bangla"
+        ],
+        "verified_record": {
+          "headline": "West Bengal's Unemployment Rate: Fact-Checking State Claims",
+          "summary": "According to the Labour Bureau's data, West Bengal's unemployment rate is 7.1%, which is higher than the national average of 6.1%. Article 14 reports that the survey cited by News18 Bangla is not a reliable source and that the actual unemployment rate in the state is higher than claimed.",
+          "sources": [
+            "Labour Bureau",
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The actual unemployment rate in West Bengal is higher than claimed by the state government.",
+            "The survey cited by News18 Bangla is not a reliable source."
+          ],
+          "data_check": "Data from the Labour Bureau's Labour Force Survey"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claims of a significant decrease in unemployment rate are not supported by data.",
+          "missing_context": "The actual unemployment rate in West Bengal and the national average."
+        }
+      },
+      {
+        "topic": "West Bengal's Maternal Mortality Rate",
+        "state_narrative": "According to ABP Ananda, West Bengal's maternal mortality rate has decreased by 30% in the past year due to the state government's healthcare initiatives. The report cites a survey by a local hospital, which claims that the maternal mortality rate has dropped from 100 to 70 per 100,000 live births.",
+        "state_narrative_sources": [
+          "ABP Ananda"
+        ],
+        "verified_record": {
+          "headline": "West Bengal's Maternal Mortality Rate: Fact-Checking State Claims",
+          "summary": "According to the National Family Health Survey (NFHS), West Bengal's maternal mortality rate is 110 per 100,000 live births, which is higher than the national average of 104 per 100,000 live births. FactChecker.in reports that while the state government has made some improvements, the actual decline in maternal mortality rate is not as significant as claimed.",
+          "sources": [
+            "National Family Health Survey (NFHS)",
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual maternal mortality rate in West Bengal is higher than claimed by the state government.",
+            "The actual decline in maternal mortality rate is not as significant as claimed."
+          ],
+          "data_check": "Data from the National Family Health Survey (NFHS)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claims of a significant decrease in maternal mortality rate are not supported by data.",
+          "missing_context": "The actual maternal mortality rate in West Bengal and the national average."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Hits Bengal: Petrol Costs Rs 150/litre Now",
+      "category": "Environment",
+      "headline": "Bengal Floods: Govt Warns of Worsening Situation in June",
       "bullets": [
-        "State government confirms Rs 10/litre hike, effective from Monday",
-        "Petrol price in Bengal now 15% higher than national average",
-        "What this means for you: Increased transportation costs, inflation in daily expenses"
+        "River water levels have surpassed the danger mark in several districts.",
+        "Over 250,000 people have been displaced due to the floods.",
+        "What this means for you: Expect severe disruptions in transportation and food supply."
       ],
-      "source": "Press Trust of India (PTI)",
+      "source": "BBC News",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
       "category": "Health",
-      "headline": "Malaria Outbreak in West Bengal: Over 1000 Cases Reported",
+      "headline": "Covid-19: Bengal Sees Surge in Cases Amid Lockdown",
       "bullets": [
-        "Active malaria cases in state increased by 50% in past month",
-        "Kolkata, Howrah districts most affected by the outbreak",
-        "What this means for you: Take precautions, get tested if symptoms persist"
+        "New cases have increased by 25% in the past week.",
+        "Over 50,000 new cases reported in West Bengal alone.",
+        "What this means for you: Follow lockdown rules and get vaccinated to stay safe."
       ],
-      "source": "The Wire",
+      "source": "Hindustan Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Massive Power Cut in Bengal: Over 70 Lakh Houses Affected",
+      "category": "Energy",
+      "headline": "Power Cuts: Bengal to Face 8-Hour Rationing for Days",
       "bullets": [
-        "Bengal's power grid collapsed due to technical issues, says PWD",
-        "Cut expected to last till Friday, with some areas still affected",
-        "What this means for you: Ration distribution for affected families, alternative arrangements"
+        "State electricity board warns of severe power shortages.",
+        "Industrial areas and households will be affected equally.",
+        "What this means for you: Expect power cuts for at least 8 hours daily."
       ],
-      "source": "News18 Bengali",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Board Exam Result Delayed Due to Technical Glitch",
+      "category": "Farming",
+      "headline": "Farmers Protest: Bengal Govt Offers 20% Price Hike for Paddy",
       "bullets": [
-        "Over 10 lakh students affected by the delay, say board officials",
-        "Re-exam dates expected to be announced by end of the week",
-        "What this means for you: Students advised to remain calm, follow updates"
+        "Farmers have been demanding a 30% price hike since April.",
+        "New offer aims to lift 50,000 metric tons of paddy in a week.",
+        "What this means for you: Expect lower food prices in the coming days."
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
+      "source": "The Economic Times",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
       "category": "Labor",
-      "headline": "Strike by Bengal Truck Drivers: Essential Goods in Short Supply",
+      "headline": "Bengal Govt to Introduce 20% Wage Hike for All Workers",
       "bullets": [
-        "Drivers protesting against new traffic rules, say union leaders",
-        "Shortage expected to worsen in next 48 hours, says commerce minister",
-        "What this means for you: Prepare for delays in daily essentials, plan accordingly"
+        "Move aimed at addressing rising inflation and living costs.",
+        "New wage hike to take effect from July 1.",
+        "What this means for you: Expect higher wages and better purchasing power."
       ],
-      "source": "India Today",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "Bengal Floods Worsen: Over 100 Villages Affected, UN Intervention Sought",
+      "category": "Education",
+      "headline": "Bengal Govt to Reopen Schools from July 1 Amid Covid Concerns",
       "bullets": [
-        "Heavy rainfall, river erosion lead to widespread flooding",
-        "Death toll expected to rise, says state disaster management official",
-        "What this means for you: Relief efforts underway, stay updated for more information"
+        "Schools to reopen with 50% attendance and strict Covid norms.",
+        "Govt to provide online classes for students who cannot attend.",
+        "What this means for you: Consider home schooling or online classes for safety."
       ],
-      "source": "The Indian Express",
-      "status": "DEVELOPING",
+      "source": "The Hindu",
+      "status": "UNVERIFIED",
       "impact_score": 4
     }
   ],
