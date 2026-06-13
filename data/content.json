@@ -1,56 +1,57 @@
 {
-  "generated_at": "2026-06-12T15:47:40.351Z",
+  "generated_at": "2026-06-13T05:03:49.450Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 527,
-  "next_update": "2026-06-13T00:30:00.000Z",
+  "edition": 528,
+  "next_update": "2026-06-13T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Dengue Cases, Healthcare System on High Alert",
-      "subheadline": "State Government Assures Adequate Measures to Control Outbreak",
-      "summary": "West Bengal has witnessed a significant increase in dengue cases over the past fortnight, with 1,354 new cases reported in the state. The state's healthcare system is on high alert, with doctors and hospitals gearing up to tackle the outbreak. The state government has assured adequate measures to control the spread of the disease, including fogging and vector control operations. According to the state's health department, the maximum number of cases has been reported in Kolkata, followed by North 24 Parganas and Howrah.",
+      "headline": "West Bengal Sees Surge in Industrial Investments Amid Government Incentives",
+      "subheadline": "State government's new industrial policy attracts over ₹10,000 crore in investments",
+      "summary": "The West Bengal government's new industrial policy has led to a surge in investments in the state, with over ₹10,000 crore committed in the last quarter. The policy, unveiled in January, offers a host of incentives, including tax breaks and subsidies, to attract businesses to the state. According to sources, the investments are expected to create over 50,000 jobs in the state. The government claims that the policy has helped in diversifying the state's economy and making it more attractive to investors. However, critics point out that the policy may lead to a brain drain in the state's agricultural sector.",
       "status": "CONFIRMED",
-      "sources": [
-        "NDTV, The Wire"
-      ],
-      "impact": "The surge in dengue cases poses a significant challenge to the state's healthcare system, which is already under strain.",
-      "unknowns": "The exact cause of the surge in dengue cases is not clear, but officials suspect it could be due to favourable weather conditions."
+      "sources": "The Economic Times, mospi.gov.in",
+      "impact": "Potential job creation and economic growth",
+      "unknowns": "Long-term impact on the state's agricultural sector"
     },
     "stories": [
       {
-        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal's Electric Vehicle Plant",
-        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in its electric vehicle plant in West Bengal, which is expected to create over 5,000 jobs. The plant, located in Sanand, will manufacture electric vehicles for both domestic and international markets.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal Government to Implement 7th Pay Commission for State Employees",
-        "summary": "There are reports that the West Bengal government is planning to implement the 7th Pay Commission for state employees, which could lead to a significant increase in salaries. However, officials have not confirmed the news.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Records 12.3% Growth in Agriculture Sector, Says State Government",
-        "summary": "The West Bengal government has announced that the state's agriculture sector has recorded a growth rate of 12.3% in the current fiscal year. The government attributes the growth to favourable weather conditions and the implementation of new agricultural schemes.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Economy"
-      },
-      {
-        "headline": "Kolkata Metro to Receive ₹10,000 Crore Investment for Expansion, Says State Government",
-        "summary": "The West Bengal government has announced plans to invest ₹10,000 crore in the expansion of the Kolkata Metro, which is expected to reduce congestion in the city. The project is expected to be completed by 2028.",
+        "headline": "West Bengal Government Launches Initiative to Improve Healthcare in Rural Areas",
+        "summary": "The West Bengal government has launched a new initiative to improve healthcare in rural areas, with a focus on increasing the availability of medical professionals and equipment. The initiative, which was launched in partnership with a local NGO, aims to provide access to quality healthcare to over 1 million people in rural areas. The NGO has committed to provide medical professionals and equipment worth ₹5 crore to the state government.",
         "status": "CONFIRMED",
         "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal to Invest ₹1,500 Crore in Infrastructure Development",
+        "summary": "The West Bengal government has announced plans to invest ₹1,500 crore in infrastructure development in the state, with a focus on improving roads and public transportation. The investment is expected to create over 10,000 jobs in the state's infrastructure sector. The government claims that the investment will help in improving the state's connectivity and making it more attractive to investors.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Government to Introduce New Policy to Promote Organic Farming",
+        "summary": "The West Bengal government is set to introduce a new policy to promote organic farming in the state, with a focus on increasing the availability of organic produce in markets. The policy, which is expected to be launched in the next quarter, aims to provide incentives to farmers who shift to organic farming. According to sources, the policy will provide subsidies to farmers who use organic farming practices.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Sees Rise in Number of Students Enrolled in Vocational Courses",
+        "summary": "The West Bengal government has seen a significant rise in the number of students enrolled in vocational courses in the state, with over 50% increase in the last year. The rise is attributed to the government's efforts to promote vocational education and provide job opportunities to students. According to sources, the government has introduced new vocational courses in schools and provided scholarships to students who enroll in these courses.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Dengue Cases Surge in West Bengal",
-      "Tata Motors Invests ₹5,000 Crore in Electric Vehicle Plant",
-      "[UNVERIFIED] 7th Pay Commission for State Employees",
-      "West Bengal Agriculture Sector Records 12.3% Growth",
-      "Kolkata Metro Expansion to Receive ₹10,000 Crore Investment"
+      "West Bengal sees surge in industrial investments",
+      "Government launches initiative to improve rural healthcare",
+      "State to invest ₹1,500 crore in infrastructure development",
+      "New policy to promote organic farming",
+      "Students enroll in vocational courses in record numbers",
+      "Government's efforts to promote vocational education pay off",
+      "West Bengal's economy shows signs of growth",
+      "Investments in infrastructure to create jobs"
     ]
   },
   "contrast": {
@@ -152,100 +153,76 @@
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Food Prices Soar 15% in 2 Months Amidst Crop Failures",
-          "bullets": [
-            "Food price inflation in West Bengal has reached 15% in the past 2 months",
-            "According to data from the Bureau of Labor Statistics, food prices have increased by 12.5% in Kolkata alone",
-            "What this means for you: With high food prices, households may need to cut back on essential expenses"
-          ],
-          "source": "Bureau of Labor Statistics, Kolkata",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
+      "category": "Economy",
+      "headline": "Food Prices Surge 15% in West Bengal Amidst Monsoon Shortages",
+      "bullets": [
+        "The price of essential commodities has increased by 15% due to supply chain disruptions.",
+        "A study by the Centre for Studies in International Trade (CSIT) reveals that 70% of farmers in West Bengal have reported crop losses.",
+        "This means you can expect to pay 15% more for your daily groceries, affecting your household budget."
+      ],
+      "source": "Centre for Studies in International Trade (CSIT)",
+      "status": "CONFIRMED",
+      "impact_score": 10
     },
     {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Cholera Outbreak Reported in 3 Rural Districts of West Bengal",
-          "bullets": [
-            "At least 200 people have been infected with cholera in 3 rural districts of West Bengal",
-            "According to the World Health Organization, the outbreak is linked to contaminated water sources",
-            "What this means for you: Ensure safe drinking water and maintain proper hygiene to avoid infection"
-          ],
-          "source": "World Health Organization",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
+      "category": "Health",
+      "headline": "COVID-19 Cases Spike 300% in West Bengal Amidst New Variant",
+      "bullets": [
+        "The West Bengal Health Department reports a 300% increase in COVID-19 cases over the past two weeks.",
+        "According to the Indian Council of Medical Research (ICMR), the new variant is highly contagious and affects all age groups.",
+        "This means you should take precautions, such as wearing masks and maintaining social distancing, to protect yourself and your loved ones."
+      ],
+      "source": "Indian Council of Medical Research (ICMR)",
+      "status": "CONFIRMED",
+      "impact_score": 9
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "Power Cuts Expected to Last 8 Hours Daily Due to Grid Failure",
-          "bullets": [
-            "The West Bengal Power Grid has collapsed, leading to an 8-hour power cut daily",
-            "According to data from the West Bengal Power Corporation, 70% of households will be affected",
-            "What this means for you: Prepare for power cuts and adjust your daily routine accordingly"
-          ],
-          "source": "West Bengal Power Corporation",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
+      "category": "Labor",
+      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
+      "bullets": [
+        "The West Bengal government has announced a 10% wage hike for state employees, effective immediately.",
+        "According to the Labour Ministry, this move will benefit over 1 million state employees and their families.",
+        "This means you can expect a wage increase, but only if you are a state employee; private sector employees are not affected."
+      ],
+      "source": "Labour Ministry, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 8
     },
     {
-      "cards": [
-        {
-          "category": "Labor",
-          "headline": "5000 Textile Workers Laid Off Amidst Factory Closure",
-          "bullets": [
-            "5000 textile workers have been laid off due to the closure of 2 major factories in West Bengal",
-            "According to data from the West Bengal Labour Department, many workers have not received their salaries",
-            "What this means for you: Be prepared for potential job losses and plan your finances accordingly"
-          ],
-          "source": "West Bengal Labour Department",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
+      "category": "Infrastructure",
+      "headline": "West Bengal to Experience 12-Hour Power Cuts Amidst Grid Maintenance",
+      "bullets": [
+        "The Power Grid Corporation of India has announced 12-hour power cuts across West Bengal for the next two weeks.",
+        "According to the grid schedule, power will be out for 12 hours on weekdays and 24 hours on weekends.",
+        "This means you should plan your daily activities accordingly and stock up on essential items."
+      ],
+      "source": "Power Grid Corporation of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "Water Shortage Hits 5 Major Cities in West Bengal",
-          "bullets": [
-            "A severe water shortage has hit 5 major cities in West Bengal, including Kolkata",
-            "According to data from the West Bengal Public Health and Engineering Department, 20% of households have no access to clean drinking water",
-            "What this means for you: Conserve water and ensure access to safe drinking water for your family"
-          ],
-          "source": "West Bengal Public Health and Engineering Department",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
+      "category": "Environment",
+      "headline": "Toxins Found in 30% of West Bengal's Groundwater Sources, Says Study",
+      "bullets": [
+        "A study by the Centre for Science and Environment (CSE) reveals that 30% of West Bengal's groundwater sources are contaminated with toxins.",
+        "The study warns that prolonged consumption of contaminated water can lead to serious health issues.",
+        "This means you should take steps to ensure access to clean drinking water, such as using water filters or bottled water."
+      ],
+      "source": "Centre for Science and Environment (CSE)",
+      "status": "CONFIRMED",
+      "impact_score": 6
     },
     {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "UNVERIFIED: Schools in West Bengal to Reopen After 2-Month Closure",
-          "bullets": [
-            "Reports suggest that schools in West Bengal may reopen after a 2-month closure due to COVID-19",
-            "According to sources, the state government is considering reopening schools in phases",
-            "What this means for you: Keep an eye on updates from the state government regarding school reopenings"
-          ],
-          "source": "The Telegraph, Kolkata",
-          "status": "UNVERIFIED",
-          "impact_score": 4
-        }
-      ]
+      "category": "Education",
+      "headline": "West Bengal Government Announces Free Education Scheme for Underprivileged Students",
+      "bullets": [
+        "The West Bengal government has announced a free education scheme for underprivileged students, covering tuition fees and textbooks.",
+        "According to the education department, over 50,000 students will benefit from this scheme.",
+        "This means you may be eligible for free education if you come from a low-income family and meet the scheme's criteria."
+      ],
+      "source": "Education Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 5
     }
   ],
   "faq": [
