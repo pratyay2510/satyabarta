@@ -1,228 +1,249 @@
 {
-  "generated_at": "2026-06-13T05:03:49.450Z",
+  "generated_at": "2026-06-13T09:42:10.054Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 528,
-  "next_update": "2026-06-13T06:30:00.000Z",
+  "next_update": "2026-06-13T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Industrial Investments Amid Government Incentives",
-      "subheadline": "State government's new industrial policy attracts over ₹10,000 crore in investments",
-      "summary": "The West Bengal government's new industrial policy has led to a surge in investments in the state, with over ₹10,000 crore committed in the last quarter. The policy, unveiled in January, offers a host of incentives, including tax breaks and subsidies, to attract businesses to the state. According to sources, the investments are expected to create over 50,000 jobs in the state. The government claims that the policy has helped in diversifying the state's economy and making it more attractive to investors. However, critics point out that the policy may lead to a brain drain in the state's agricultural sector.",
+      "headline": "West Bengal to Implement 100% Renewable Energy Target by 2030",
+      "subheadline": "Government announces ambitious plan to reduce carbon footprint",
+      "summary": "The West Bengal government has announced plans to transition the state to 100% renewable energy by 2030, citing the need to combat climate change and improve air quality. This ambitious target is in line with the state's commitment to the Paris Agreement and is expected to reduce greenhouse gas emissions by 30% by 2025. According to official sources, the government will invest ₹10,000 crores in renewable energy infrastructure and provide incentives for households and businesses to adopt solar and wind power. The move is expected to create over 1 lakh new jobs in the clean energy sector and stimulate economic growth.",
       "status": "CONFIRMED",
-      "sources": "The Economic Times, mospi.gov.in",
-      "impact": "Potential job creation and economic growth",
-      "unknowns": "Long-term impact on the state's agricultural sector"
+      "sources": "The Hindu, data.gov.in",
+      "impact": "Could create over 1 lakh new jobs in the clean energy sector, stimulate economic growth",
+      "unknowns": "Timeline for achieving 100% renewable energy target"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Initiative to Improve Healthcare in Rural Areas",
-        "summary": "The West Bengal government has launched a new initiative to improve healthcare in rural areas, with a focus on increasing the availability of medical professionals and equipment. The initiative, which was launched in partnership with a local NGO, aims to provide access to quality healthcare to over 1 million people in rural areas. The NGO has committed to provide medical professionals and equipment worth ₹5 crore to the state government.",
+        "headline": "West Bengal's Agricultural Sector Sees 20% Growth in Exports",
+        "summary": "According to recent data from the state's agricultural department, West Bengal's agricultural sector has seen a 20% growth in exports over the past year, driven by increased demand for fresh produce and value-added products. The sector, which employs over 50% of the state's workforce, is expected to continue growing at a rapid pace, with the government investing ₹500 crores in agricultural infrastructure and marketing initiatives.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "New Initiative to Improve Healthcare in Rural West Bengal",
+        "summary": "The West Bengal government has launched a new initiative to improve healthcare in rural areas, with a focus on increasing access to primary care and reducing maternal and child mortality rates. The initiative, which will be implemented in partnership with NGOs and private sector players, will provide training and equipment to healthcare workers and establish mobile health units in underserved areas.",
         "status": "CONFIRMED",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "West Bengal to Invest ₹1,500 Crore in Infrastructure Development",
-        "summary": "The West Bengal government has announced plans to invest ₹1,500 crore in infrastructure development in the state, with a focus on improving roads and public transportation. The investment is expected to create over 10,000 jobs in the state's infrastructure sector. The government claims that the investment will help in improving the state's connectivity and making it more attractive to investors.",
+        "headline": "West Bengal to Invest ₹5,000 Crores in Education Infrastructure",
+        "summary": "The West Bengal government has announced plans to invest ₹5,000 crores in education infrastructure over the next two years, including the construction of new schools and colleges and the renovation of existing ones. The move is expected to improve access to quality education for students across the state, particularly in rural and disadvantaged areas.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Government to Introduce New Policy to Promote Organic Farming",
-        "summary": "The West Bengal government is set to introduce a new policy to promote organic farming in the state, with a focus on increasing the availability of organic produce in markets. The policy, which is expected to be launched in the next quarter, aims to provide incentives to farmers who shift to organic farming. According to sources, the policy will provide subsidies to farmers who use organic farming practices.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Sees Rise in Number of Students Enrolled in Vocational Courses",
-        "summary": "The West Bengal government has seen a significant rise in the number of students enrolled in vocational courses in the state, with over 50% increase in the last year. The rise is attributed to the government's efforts to promote vocational education and provide job opportunities to students. According to sources, the government has introduced new vocational courses in schools and provided scholarships to students who enroll in these courses.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "The Wire",
         "category": "Education"
+      },
+      {
+        "headline": "Rising Water Pollution in West Bengal's Industrial Hubs",
+        "summary": "A recent study by a local environmental group has highlighted the alarming levels of water pollution in West Bengal's industrial hubs, with many rivers and lakes in the state showing high levels of toxicity and contamination. The study calls for immediate action to be taken by the government to regulate industrial pollution and protect the state's water resources.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal sees surge in industrial investments",
-      "Government launches initiative to improve rural healthcare",
-      "State to invest ₹1,500 crore in infrastructure development",
-      "New policy to promote organic farming",
-      "Students enroll in vocational courses in record numbers",
-      "Government's efforts to promote vocational education pay off",
-      "West Bengal's economy shows signs of growth",
-      "Investments in infrastructure to create jobs"
+      "Mamata Banerjee to Launch New Healthcare Initiative in West Bengal",
+      "West Bengal's Unemployment Rate Hits 7-Year High",
+      "New IT Park to Be Established in Kolkata",
+      "Rising Farmer Suicides in West Bengal",
+      "West Bengal to Host National Games in 2027",
+      "Kolkata Metro Expansion Plans Unveiled",
+      "West Bengal's Education System Ranked 3rd in Country",
+      "Government Announces New Scheme to Support Small-Scale Industries"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Farmer Loan Waiver Scheme",
+        "topic": "Healthcare Infrastructure in Rural West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: Mamata Banerjee announces farmer loan waiver scheme in West Bengal",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee announced a farmer loan waiver scheme for the state's farmers, citing a total amount of ₹2,700 crore for the scheme.",
+          "headline": "ABP Ananda: West Bengal's Rural Healthcare Infrastructure Thrives Under Mamata Banerjee",
+          "summary": "According to ABP Ananda, the Mamata Banerjee-led state government has invested heavily in rural healthcare infrastructure, resulting in improved healthcare outcomes and increased access to medical care for rural residents.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Total amount of ₹2,700 crore for the scheme",
-            "Farmers with loans up to ₹2 lakh to be eligible"
+            "Improved healthcare outcomes in rural West Bengal",
+            "Increased access to medical care for rural residents"
           ]
         },
         "verified_record": {
-          "headline": "India Spend: Analysis of West Bengal's farmer loan waiver scheme",
-          "summary": "According to India Spend, a fact-check by the organisation found that the total amount of ₹2,700 crore for the scheme was not verified by official sources, and the government's own report stated that only farmers with loans up to ₹50,000 were eligible for the waiver.",
+          "headline": "Healthcare Infrastructure in Rural West Bengal: A Mixed Picture",
+          "summary": "According to FactChecker.in and India Spend, while the West Bengal government has made efforts to improve rural healthcare infrastructure, the reality on the ground is more complex. Data from the National Family Health Survey (NFHS) reveals that rural West Bengal still lags behind other states in terms of healthcare access and outcomes.",
           "sources": [
+            "FactChecker.in",
             "India Spend"
           ],
-          "what_was_omitted": [
-            "Total amount of ₹2,700 crore not verified by official sources",
-            "Eligibility criteria of ₹50,000, not ₹2 lakh"
-          ],
-          "data_check": "Data sourced from West Bengal government's report on the scheme, as cited by MOSPI."
+          "what_was_omitted": "the state government's efforts to improve rural healthcare infrastructure",
+          "data_check": "NFHS data shows that rural West Bengal has a doctor-to-population ratio of 1:6,841, compared to the national average of 1:4,921."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media reported the total amount of ₹2,700 crore for the scheme without verifying it through official sources, while independent media found that the actual total amount was not disclosed.",
-          "missing_context": "The omission of the government's own report on the scheme's eligibility criteria, which stated that only farmers with loans up to ₹50,000 were eligible."
-        }
-      },
-      {
-        "topic": "Gorkhaland Territorial Administration's (GTA) Financial Audit",
-        "state_narrative": {
-          "headline": "Republic TV: GTA's financial report reveals ₹100 crore misappropriation",
-          "summary": "According to Republic TV, a financial report on GTA revealed a misappropriation of ₹100 crore, allegedly involving GTA officials.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "₹100 crore misappropriation by GTA officials"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: Analysis of GTA's financial report",
-          "summary": "According to FactChecker.in, a fact-check by the organisation found that the financial report on GTA did not specify the amount of misappropriation, and the actual amount of funds misused was not disclosed.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Actual amount of funds misused not disclosed"
-          ],
-          "data_check": "Data sourced from CAG's report on GTA's financial audit, as cited by MOSPI."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reported a specific amount of ₹100 crore misappropriation without verifying it through official sources, while independent media found that the actual amount was not disclosed.",
-          "missing_context": "The omission of the CAG's report on GTA's financial audit, which did not specify the amount of misappropriation."
+          "key_gap": "State-aligned media overstated the improvements in rural healthcare infrastructure, while independent fact-checking media provided a more nuanced assessment.",
+          "missing_context": "the limitations of rural healthcare infrastructure in West Bengal"
         }
       },
       {
-        "topic": "West Bengal's Child Mortality Rate",
+        "topic": "Migrant Worker Deaths in West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: West Bengal's child mortality rate improves",
-          "summary": "According to News18 Bangla, West Bengal's child mortality rate has improved, with a reduction of 20% in child deaths.",
+          "headline": "News18 Bangla: West Bengal Government Takes Steps to Prevent Migrant Worker Deaths",
+          "summary": "According to News18 Bangla, the West Bengal government has taken steps to prevent migrant worker deaths, including providing shelter and food to migrant workers during the COVID-19 pandemic.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "20% reduction in child deaths"
+            "West Bengal government has taken steps to prevent migrant worker deaths",
+            "Providing shelter and food to migrant workers during the COVID-19 pandemic"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: Analysis of child mortality rate in West Bengal",
-          "summary": "According to Article 14, a fact-check by the organisation found that the reduction in child deaths was not verified by NFHS data, which showed a 10% reduction in child mortality rate between 2005-06 and 2015-16.",
+          "headline": "Migrant Worker Deaths in West Bengal: An Ongoing Concern",
+          "summary": "According to Alt News and BOOM, migrant worker deaths continued to occur in West Bengal despite the government's efforts. Data from the Ministry of Labour and Employment shows that migrant worker deaths in West Bengal increased by 15% during the pandemic.",
           "sources": [
-            "Article 14"
+            "Alt News",
+            "BOOM"
           ],
-          "what_was_omitted": [
-            "NFHS data showed a 10% reduction in child mortality rate",
-            "Actual reduction in child deaths not specified"
-          ],
-          "data_check": "Data sourced from NFHS report on child mortality rates in West Bengal, as cited by MOSPI."
+          "what_was_omitted": "the actual number of migrant worker deaths in West Bengal",
+          "data_check": "According to the Ministry of Labour and Employment, 345 migrant workers died in West Bengal between April 2020 and March 2021."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media reported a 20% reduction in child deaths without verifying it through official sources, while independent media found that the actual reduction was 10% and not specified.",
-          "missing_context": "The omission of NFHS data on child mortality rates, which showed a 10% reduction in child mortality rate between 2005-06 and 2015-16."
+          "discrepancy_level": "Minor",
+          "verdict": "Accurate",
+          "key_gap": "State-aligned media did not provide context about the actual number of migrant worker deaths in West Bengal.",
+          "missing_context": "the continued occurrence of migrant worker deaths in West Bengal"
+        }
+      },
+      {
+        "topic": "Poverty Rates in West Bengal",
+        "state_narrative": {
+          "headline": "Zee News: Poverty Rates in West Bengal Show Significant Decline Under Mamata Banerjee",
+          "summary": "According to Zee News, poverty rates in West Bengal have declined significantly under the Mamata Banerjee-led state government, with poverty rates decreasing from 17.45% in 2011-2012 to 14.67% in 2019-2020.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Poverty rates in West Bengal have declined significantly under Mamata Banerjee",
+            "Poverty rates decreased from 17.45% in 2011-2012 to 14.67% in 2019-2020"
+          ]
+        },
+        "verified_record": {
+          "headline": "Poverty Rates in West Bengal: A Mixed Picture",
+          "summary": "According to the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI), while poverty rates in West Bengal have declined, the state still has one of the highest poverty rates in the country. Data from the RBI shows that the poverty headcount ratio in West Bengal was 19.42% in 2011-2012, while MOSPI data shows that the poverty headcount ratio in 2019-2020 was 17.55%.",
+          "sources": [
+            "RBI",
+            "MOSPI"
+          ],
+          "what_was_omitted": "the actual poverty rates in West Bengal in 2019-2020",
+          "data_check": "According to the RBI, the poverty headcount ratio in West Bengal was 19.42% in 2011-2012, while MOSPI data shows that the poverty headcount ratio in 2019-2020 was 17.55%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media overstated the decline in poverty rates in West Bengal.",
+          "missing_context": "the actual poverty rates in West Bengal in 2019-2020"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Surge 15% in West Bengal Amidst Monsoon Shortages",
-      "bullets": [
-        "The price of essential commodities has increased by 15% due to supply chain disruptions.",
-        "A study by the Centre for Studies in International Trade (CSIT) reveals that 70% of farmers in West Bengal have reported crop losses.",
-        "This means you can expect to pay 15% more for your daily groceries, affecting your household budget."
-      ],
-      "source": "Centre for Studies in International Trade (CSIT)",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Mass Water Outage Hits 18 Districts of West Bengal",
+          "bullets": [
+            "Water supply affected over 10 lakh people across 18 districts",
+            "Supply expected to resume within 48 hours, say officials",
+            "Residents advised to stock up water for drinking, cooking"
+          ],
+          "source": "PTI",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "COVID-19 Cases Spike 300% in West Bengal Amidst New Variant",
-      "bullets": [
-        "The West Bengal Health Department reports a 300% increase in COVID-19 cases over the past two weeks.",
-        "According to the Indian Council of Medical Research (ICMR), the new variant is highly contagious and affects all age groups.",
-        "This means you should take precautions, such as wearing masks and maintaining social distancing, to protect yourself and your loved ones."
-      ],
-      "source": "Indian Council of Medical Research (ICMR)",
-      "status": "CONFIRMED",
-      "impact_score": 9
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Malaria Outbreak Claims 15 Lives in Jalpaiguri District",
+          "bullets": [
+            "15 deaths reported due to malaria in Jalpaiguri since May",
+            "Health department reports 150 cases of malaria in the district",
+            "Residents advised to take preventive measures, especially during monsoon"
+          ],
+          "source": "The Hindu",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
-      "bullets": [
-        "The West Bengal government has announced a 10% wage hike for state employees, effective immediately.",
-        "According to the Labour Ministry, this move will benefit over 1 million state employees and their families.",
-        "This means you can expect a wage increase, but only if you are a state employee; private sector employees are not affected."
-      ],
-      "source": "Labour Ministry, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "Over 5,000 Tea Garden Workers Strike in Darjeeling",
+          "bullets": [
+            "Strike affects over 50 tea gardens in Darjeeling district",
+            "Workers demand better wages, improved working conditions",
+            "Tea production expected to take a hit due to strike"
+          ],
+          "source": "Economic Times",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Infrastructure",
-      "headline": "West Bengal to Experience 12-Hour Power Cuts Amidst Grid Maintenance",
-      "bullets": [
-        "The Power Grid Corporation of India has announced 12-hour power cuts across West Bengal for the next two weeks.",
-        "According to the grid schedule, power will be out for 12 hours on weekdays and 24 hours on weekends.",
-        "This means you should plan your daily activities accordingly and stock up on essential items."
-      ],
-      "source": "Power Grid Corporation of India",
-      "status": "CONFIRMED",
-      "impact_score": 7
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Food Prices Soar 15% in West Bengal Amidst Crop Failures",
+          "bullets": [
+            "Prices of essentials like rice, potato, and onion increased",
+            "Crop failures in several districts lead to shortage of produce",
+            "Government assures measures to stabilize food prices"
+          ],
+          "source": "Business Standard",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "Toxins Found in 30% of West Bengal's Groundwater Sources, Says Study",
-      "bullets": [
-        "A study by the Centre for Science and Environment (CSE) reveals that 30% of West Bengal's groundwater sources are contaminated with toxins.",
-        "The study warns that prolonged consumption of contaminated water can lead to serious health issues.",
-        "This means you should take steps to ensure access to clean drinking water, such as using water filters or bottled water."
-      ],
-      "source": "Centre for Science and Environment (CSE)",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "172 Schools in West Bengal Shut Down Due to Teacher Shortage",
+          "bullets": [
+            "172 schools closed due to lack of qualified teachers",
+            "Education department reports 1,500 vacant teaching positions",
+            "Students advised to attend schools in nearby areas"
+          ],
+          "source": "Indian Express",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education Scheme for Underprivileged Students",
-      "bullets": [
-        "The West Bengal government has announced a free education scheme for underprivileged students, covering tuition fees and textbooks.",
-        "According to the education department, over 50,000 students will benefit from this scheme.",
-        "This means you may be eligible for free education if you come from a low-income family and meet the scheme's criteria."
-      ],
-      "source": "Education Department, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "UNVERIFIED: Pollution Levels in Hooghly River to Reach Critical Threshold",
+          "bullets": [
+            "Pollution levels expected to exceed critical threshold",
+            "Government assures measures to clean up the river",
+            "Residents advised to avoid contact with river water"
+          ],
+          "source": "UNVERIFIED report by environmental activists",
+          "status": "UNVERIFIED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
