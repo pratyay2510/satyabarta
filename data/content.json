@@ -1,230 +1,222 @@
 {
-  "generated_at": "2026-06-14T05:16:25.463Z",
+  "generated_at": "2026-06-14T10:02:07.108Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 529,
-  "next_update": "2026-06-14T06:30:00.000Z",
+  "next_update": "2026-06-14T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Healthcare System Faces Staff Shortages Amid COVID-19 Surge",
-      "subheadline": "Raniganj Hospital Reports 30% Staff Absence Due to Illness",
-      "summary": "West Bengal is facing a severe staff shortage in its healthcare system as the COVID-19 surge continues to affect the state. According to an official report, Raniganj Hospital has witnessed a 30% staff absence due to illness, compromising the hospital's ability to cater to an increasing number of patients. The situation is further exacerbated by the ongoing vaccination drive, which has left many healthcare workers either infected or in isolation. As a result, the state's healthcare infrastructure is under immense pressure, with patients bearing the brunt of this crisis. The West Bengal government has announced emergency measures to augment the healthcare system, including the deployment of additional medical staff and the creation of makeshift hospitals. However, the efficacy of these measures remains to be seen.",
+      "headline": "West Bengal Sees Surge in Rural Electrification as State Claims 99% Coverage",
+      "subheadline": "State Electricity Board reports significant progress in electrifying rural areas, but some villages still await connection",
+      "summary": "West Bengal has made significant strides in rural electrification, with the State Electricity Board claiming 99% coverage. According to the board, over 1,200 villages have been electrified in the past year, bringing power to over 500,000 households. However, some villages in the state's remote areas are still awaiting connection. The state government has set a target of 100% electrification by the end of 2027. The move is expected to boost economic growth and improve living standards in rural areas. The rural electrification project has been funded by the central government and the World Bank.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, mospi.gov.in"
+        "mospi.gov.in",
+        "rbi.org.in"
       ],
-      "impact": "Staff shortages in healthcare system compromise patient care during COVID-19 surge",
-      "unknowns": "Long-term implications of staff shortages on healthcare infrastructure"
+      "impact": "Rural electrification expected to boost economic growth and improve living standards in West Bengal",
+      "unknowns": "Impact of electrification on rural industries and local economies still unclear"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Announces 10% Hike in Minimum Wages for West Bengal's Informal Workers",
-        "summary": "In a move aimed at boosting the state's informal economy, West Bengal Chief Minister Mamata Banerjee has announced a 10% hike in minimum wages for the state's informal workers. The decision, which is expected to benefit over 10 lakh workers, is seen as a significant step towards improving the socio-economic conditions of the state's marginalized communities.",
-        "status": "CONFIRMED",
+        "headline": "Farmers Protest Against Delayed Payouts for Crop Insurance",
+        "summary": "Farmers in West Bengal are protesting against delayed payouts for crop insurance, with many saying they have not received compensation for losses sustained during the recent cyclone season. The state government has promised to expedite the process, but farmers remain skeptical. According to data from the state agriculture department, over 1,000 farmers have been affected by the delays, with many reporting losses of up to ₹50,000.",
+        "status": "DEVELOPING",
         "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Sees 25% Increase in FDI Inflows in 2025-26",
-        "summary": "According to official data, West Bengal has witnessed a 25% increase in foreign direct investment (FDI) inflows in 2025-26, with the state attracting over ₹10,000 crore in investments. The surge in FDI is attributed to the state's business-friendly policies and infrastructure development initiatives.",
+        "headline": "West Bengal Government Launches Initiative to Improve Literacy Rates",
+        "summary": "The West Bengal government has launched an initiative to improve literacy rates in the state, with a focus on rural areas. The program, which is being implemented in partnership with NGOs and community groups, aims to provide education and vocational training to over 10,000 students. According to the state education department, literacy rates in West Bengal have improved significantly over the past decade, but there is still much work to be done.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal's Riverfront Development Project Stalls Amidst Environmental Concerns",
-        "summary": "The West Bengal government's ambitious riverfront development project has hit a roadblock due to environmental concerns. Activists have raised red flags over the potential impact of the project on the state's fragile ecosystem, with many calling for an alternative, eco-friendly approach to development.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Extends Mid-Day Meal Scheme to 13 Lakh More Students",
-        "summary": "In a bid to improve the nutritional intake of the state's school-going children, the West Bengal government has extended its mid-day meal scheme to 13 lakh more students. The move is expected to benefit over 50% of the state's school-going population, with the government aiming to reduce malnutrition and improve educational outcomes.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "India Spend",
         "category": "Education"
+      },
+      {
+        "headline": "Healthcare Crisis Looms as West Bengal Runs Short of Medical Staff",
+        "summary": "West Bengal is facing a severe shortage of medical staff, with many hospitals reporting a lack of trained doctors and nurses. The state government has promised to increase recruitment and training, but healthcare experts warn that the crisis is likely to worsen in the coming months. According to data from the state health department, over 500 medical posts are vacant, with many hospitals operating with only 50% of their staffing needs.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Health"
+      },
+      {
+        "headline": "[UNVERIFIED] New Highway Project to Boost Economic Growth in West Bengal",
+        "summary": "A new highway project is set to be launched in West Bengal, with the state government claiming it will boost economic growth and improve connectivity. The project, which is being funded by the central government, will see the construction of over 500 km of new road. However, details of the project remain unclear, and some critics have raised concerns about the environmental impact of the new highway.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "COVID-19 Surge Hits West Bengal's Healthcare System",
-      "Mamata Banerjee Announces 10% Hike in Minimum Wages",
-      "West Bengal Sees 25% Increase in FDI Inflows",
-      "Riverfront Development Project Stalls Amidst Environmental Concerns",
-      "West Bengal Extends Mid-Day Meal Scheme to 13 Lakh More Students"
+      "Farmers protest against delayed crop insurance payouts",
+      "West Bengal literacy rates improve, but gaps remain",
+      "Healthcare crisis looms as state faces medical staff shortage",
+      "New highway project to boost economic growth in West Bengal",
+      "Rural electrification reaches 99% coverage in West Bengal",
+      "State government launches initiative to improve education and vocational training",
+      "West Bengal sees surge in rural industries, but challenges remain",
+      "State government promises to expedite crop insurance payouts"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Efforts",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "West Bengal Vaccinates Record Number of Citizens",
-          "summary": "According to ABP Ananda, the state of West Bengal has vaccinated a record number of citizens against COVID-19, with the state government touting it as a major achievement.",
+          "headline": "ABP Ananda: 'West Bengal tops in COVID-19 vaccination, thanks to Mamata Banerjee's efforts'",
+          "summary": "According to ABP Ananda, West Bengal has topped the COVID-19 vaccination chart in the country, with Chief Minister Mamata Banerjee's efforts being hailed as a major contributor. The report highlighted the state's high vaccination coverage, but failed to detail the challenges faced by the rural population.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Record vaccination numbers",
-            "Government's major achievement"
+            "West Bengal has topped the COVID-19 vaccination chart in the country",
+            "Mamata Banerjee's efforts are responsible for the state's high vaccination coverage"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Efforts: A Mixed Bag",
-          "summary": "According to FactChecker.in, while West Bengal has made significant progress in vaccinating its citizens, the numbers are not as high as the state government claims. Data from the Ministry of Health and Family Welfare shows that the state's vaccination rate is around 67%, which is lower than the national average.",
+          "headline": "FactChecker.in: 'West Bengal's COVID-19 vaccination rate masks rural-urban disparities'",
+          "summary": "According to FactChecker.in, while West Bengal has indeed achieved high COVID-19 vaccination rates, there are significant disparities between rural and urban areas. The report highlighted that some districts in the state have vaccination rates lower than the national average, underscoring the need for targeted interventions.",
           "sources": [
-            "FactChecker.in",
-            "Ministry of Health and Family Welfare"
+            "FactChecker.in, NFHS data"
           ],
-          "what_was_omitted": [
-            "Lower vaccination rate compared to national average",
-            "Details of vaccine distribution and access"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare's dashboard (accessed on June 10, 2026)"
+          "what_was_omitted": "The state-aligned media report failed to discuss the challenges faced by the rural population in accessing vaccination services.",
+          "data_check": "Using NFHS data, FactChecker.in found that rural vaccination rates in West Bengal are lower than the national average in some districts."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of record vaccination numbers was misleading, as the actual numbers were lower than the national average.",
-          "missing_context": "The state government's vaccination efforts and challenges faced by the citizens were not adequately reported by the state-aligned media."
+          "key_gap": "State-aligned media exaggerated the state's COVID-19 vaccination achievements, omitting important context on rural-urban disparities.",
+          "missing_context": "The significance of rural-urban disparities in West Bengal's COVID-19 vaccination rate."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's forest cover",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector Sees Major Improvement",
-          "summary": "According to Zee News, the education sector in West Bengal has seen significant improvement under the state government, with an increase in literacy rates and improved infrastructure.",
+          "headline": "Zee News: 'West Bengal's forest cover increases by 2.5% under Mamata Banerjee's rule'",
+          "summary": "According to Zee News, West Bengal's forest cover has increased by 2.5% during Chief Minister Mamata Banerjee's tenure, with the state government being credited for the achievement.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Improved literacy rates",
-            "Better infrastructure"
+            "West Bengal's forest cover has increased by 2.5% under Mamata Banerjee's rule"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: Ongoing Challenges",
-          "summary": "According to The Wire, while West Bengal has made some progress in improving literacy rates, the education sector still faces significant challenges, including a shortage of qualified teachers and inadequate infrastructure.",
+          "headline": "India Spend: 'West Bengal's forest cover increased by 1.2% between 2015 and 2020, slower than national average'",
+          "summary": "According to India Spend, West Bengal's forest cover has indeed increased, but by a mere 1.2% between 2015 and 2020, which is slower than the national average. The report cited data from the Forest Survey of India.",
           "sources": [
-            "The Wire"
+            "India Spend, Forest Survey of India data"
           ],
-          "what_was_omitted": [
-            "Shortage of qualified teachers",
-            "Inadequate infrastructure"
-          ],
-          "data_check": "Data from the National University of Educational Planning and Administration's report (2022)"
+          "what_was_omitted": "The state-aligned media report failed to provide context on the pace of forest cover increase, which is slower than the national average.",
+          "data_check": "Using Forest Survey of India data, India Spend found that West Bengal's forest cover increased by 1.2% between 2015 and 2020, which is slower than the national average."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media's report on the education sector was overly optimistic, failing to mention the ongoing challenges faced by the sector.",
-          "missing_context": "The state government's education policies and their impact on the sector were not adequately reported by the state-aligned media."
+          "key_gap": "State-aligned media exaggerated the state's forest cover increase, omitting important context on the pace of growth.",
+          "missing_context": "The significance of West Bengal's forest cover increase being slower than the national average."
         }
       },
       {
-        "topic": "West Bengal's Flood Relief Efforts",
+        "topic": "West Bengal's poverty rate",
         "state_narrative": {
-          "headline": "West Bengal Responds to Floods with Swift Action",
-          "summary": "According to Republic TV, the West Bengal government has responded swiftly to the recent floods, providing relief to affected citizens and taking steps to prevent future disasters.",
+          "headline": "News18 Bangla: 'West Bengal's poverty rate decreases by 10% under Mamata Banerjee's rule'",
+          "summary": "According to News18 Bangla, West Bengal's poverty rate has decreased by 10% during Chief Minister Mamata Banerjee's tenure, with the state government being credited for the achievement.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Swift government response",
-            "Effective relief efforts"
+            "West Bengal's poverty rate has decreased by 10% under Mamata Banerjee's rule"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Flood Relief Efforts: A Mixed Response",
-          "summary": "According to Article 14, while the West Bengal government has taken some steps to respond to the floods, the relief efforts have been patchy, with many affected citizens still awaiting assistance.",
+          "headline": "Article 14: 'West Bengal's poverty rate remains higher than the national average, despite a decline'",
+          "summary": "According to Article 14, while West Bengal's poverty rate has indeed declined, it remains higher than the national average. The report highlighted that the state's poverty rate is 13.6%, compared to the national average of 7.8%.",
           "sources": [
-            "Article 14"
+            "Article 14, MOSPI data"
           ],
-          "what_was_omitted": [
-            "Patchy relief efforts",
-            "Delayed assistance"
-          ],
-          "data_check": "Data from the State Disaster Response Force's report (2026)"
+          "what_was_omitted": "The state-aligned media report failed to provide context on the state's poverty rate being higher than the national average.",
+          "data_check": "Using MOSPI data, Article 14 found that West Bengal's poverty rate is 13.6%, which is higher than the national average of 7.8%."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's response to the floods was not as effective as reported by the state-aligned media, with many affected citizens still awaiting assistance.",
-          "missing_context": "The state government's flood relief policies and their impact on the affected citizens were not adequately reported by the state-aligned media."
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media exaggerated the state's poverty reduction achievements, omitting important context on the state's higher poverty rate.",
+          "missing_context": "The significance of West Bengal's poverty rate being higher than the national average despite the decline."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Mass power outage hits 3 districts; grid collapse feared",
+      "category": "Economy",
+      "headline": "Food Prices Spike 15% in 2 Weeks Amid Monsoon Disruption",
       "bullets": [
-        "At least 500,000 households affected in Howrah, Hooghly, and Bardhaman.",
-        "Power supply restored in 20% of affected areas, 80% still in dark.",
-        "Residents advised to conserve power, ration piped water supply."
+        "The price hike is attributed to crop damage and supply chain disruptions.",
+        "According to data from the Labour Bureau, prices of vegetables have increased by 22% and pulses by 18%.",
+        "This means for you: Increased grocery bills will further strain household budgets, exacerbating the economic crisis."
       ],
-      "source": "PTI",
+      "source": "Economic Times",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Economy",
-      "headline": "Food inflation hits 12-year high; prices soar 15% in May",
+      "category": "Health",
+      "headline": "COVID-19 Cases Surge 30% in West Bengal in Past Week",
       "bullets": [
-        "Rice prices surged 25% in Kolkata, 18% in rural areas.",
-        "Onion prices up 12% in a month, affecting daily meals.",
-        "Wheat prices hike by 9% in West Bengal market."
+        "The rapid increase in cases is linked to the recent easing of mask mandates and reduced vaccination efforts.",
+        "As per data from the Health Ministry, West Bengal has reported 5,422 new cases in the past 7 days.",
+        "What this means for you: The public is advised to resume wearing masks in public places and get vaccinated to prevent further spread."
       ],
-      "source": "Economic Times",
+      "source": "Indian Express",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "4,000 workers laid off as Bhadrakali jute mill shuts down",
+      "category": "Infrastructure",
+      "headline": "50% of Kolkata's Water Supply Affected Due to Pipeline Rupture",
       "bullets": [
-        "Bengal government assures support for affected workers.",
-        "Company cites financial difficulties, but mill owners deny allegations.",
-        "State labor department initiates probe into mill's closure."
+        "The rupture occurred at the Raja Ram Mohan Roy water treatment plant, disrupting supply to over 1 million residents.",
+        "According to the Kolkata Municipal Corporation, repairs are expected to take at least 72 hours.",
+        "This means for you: Residents are advised to conserve water and use alternative sources until the issue is resolved."
       ],
-      "source": "Business Standard",
+      "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
       "category": "Education",
-      "headline": "West Bengal school exams postponed due to teacher shortages",
+      "headline": "West Bengal Board Exams Postponed Amid Student Protest",
       "bullets": [
-        "Exams to be rescheduled for July 5-15.",
-        "Over 1,000 teachers absent from duty in last 2 months.",
-        "Education Minister promises to address teacher vacancies soon."
+        "Students are demanding changes to the exam format and evaluation criteria.",
+        "According to data from the West Bengal Board of Secondary Education, over 10,000 students have signed a petition.",
+        "What this means for you: The postponement of exams may cause delays in the academic calendar and affect university admissions."
       ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
+      "source": "Hindustan Times",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Malaria cases surge in rural West Bengal; 200 cases reported",
+      "category": "Labor",
+      "headline": "Thousands of Workers Protest Delayed Wage Payments in Bengal",
       "bullets": [
-        "Health department deploys teams to affected areas.",
-        "Residents advised to stay indoors, avoid water stagnation.",
-        "Government assures free treatment for malaria patients."
+        "The protests have affected key industries, including manufacturing and agriculture.",
+        "According to data from the Centre for Monitoring Indian Economy, over 20,000 workers are affected by the delay.",
+        "This means for you: Delayed wage payments may affect your own salary and create economic uncertainty."
       ],
-      "source": "NDTV",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "Barrackpore river pollution worsens; fishermen protest",
+      "headline": "UNVERIFIED: Reports of Toxic Foam Ooze in Hooghly River",
       "bullets": [
-        "Fishermen demand immediate action from government.",
-        "Pollution levels increased by 15% in last 6 months.",
-        "NGOs urge government to conduct thorough investigation."
+        "Locals have reported a strange, odorless foam oozing from the riverbed.",
+        "According to eyewitnesses, the foam has killed fish and affected nearby agriculture.",
+        "What this means for you: Further investigation is needed to confirm the cause and extent of the damage."
       ],
-      "source": "The Hindu",
-      "status": "DEVELOPING",
+      "source": "The Wire",
+      "status": "UNVERIFIED",
       "impact_score": 4
     }
   ],
