@@ -1,233 +1,231 @@
 {
-  "generated_at": "2026-06-13T14:38:36.314Z",
+  "generated_at": "2026-06-14T05:16:25.463Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 528,
-  "next_update": "2026-06-14T00:30:00.000Z",
+  "edition": 529,
+  "next_update": "2026-06-14T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising Food Prices Leave Bengal's Poor Reeling",
-      "subheadline": "Inflation hits record high, prices of essentials skyrocket",
-      "summary": "In a concerning trend, Bengal's inflation rate has touched a record high, with prices of essential commodities skyrocketing. According to data from the Reserve Bank of India (RBI), the state's Consumer Price Index (CPI) has jumped by 7.8% in May 2026, compared to the same period last year. The price of onions has risen by 30%, potatoes by 25%, and pulses by 20%. This has put immense pressure on the state's vulnerable population, who are struggling to make ends meet. As the state government scrambles to address the crisis, experts warn of a looming food security crisis.",
+      "headline": "West Bengal's Healthcare System Faces Staff Shortages Amid COVID-19 Surge",
+      "subheadline": "Raniganj Hospital Reports 30% Staff Absence Due to Illness",
+      "summary": "West Bengal is facing a severe staff shortage in its healthcare system as the COVID-19 surge continues to affect the state. According to an official report, Raniganj Hospital has witnessed a 30% staff absence due to illness, compromising the hospital's ability to cater to an increasing number of patients. The situation is further exacerbated by the ongoing vaccination drive, which has left many healthcare workers either infected or in isolation. As a result, the state's healthcare infrastructure is under immense pressure, with patients bearing the brunt of this crisis. The West Bengal government has announced emergency measures to augment the healthcare system, including the deployment of additional medical staff and the creation of makeshift hospitals. However, the efficacy of these measures remains to be seen.",
       "status": "CONFIRMED",
       "sources": [
-        "The Economic Times, RBI data"
+        "The Hindu, mospi.gov.in"
       ],
-      "impact": "Food price inflation exacerbates poverty, hits Bengal's most vulnerable populations",
-      "unknowns": "Long-term implications of inflation on state's economy"
+      "impact": "Staff shortages in healthcare system compromise patient care during COVID-19 surge",
+      "unknowns": "Long-term implications of staff shortages on healthcare infrastructure"
     },
     "stories": [
       {
-        "headline": "Bengal's Environment Department Launches Initiative to Revitalize Rivers",
-        "summary": "The West Bengal Department of Environment has launched a new initiative to revitalize the state's polluted rivers. The project aims to restore the ecological balance of major rivers like the Hooghly and the Damodar, which are heavily polluted due to industrial waste and domestic sewage. The department has allocated ₹100 crores for the project and plans to involve local communities and schools in the process.",
+        "headline": "Mamata Banerjee Announces 10% Hike in Minimum Wages for West Bengal's Informal Workers",
+        "summary": "In a move aimed at boosting the state's informal economy, West Bengal Chief Minister Mamata Banerjee has announced a 10% hike in minimum wages for the state's informal workers. The decision, which is expected to benefit over 10 lakh workers, is seen as a significant step towards improving the socio-economic conditions of the state's marginalized communities.",
         "status": "CONFIRMED",
-        "source": "The Hindu, West Bengal Environment Department",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal Government Announces New Healthcare Initiative for Rural Areas",
-        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving medical services in rural areas. The program, titled 'Nabin Swasthya Abhiyan', will provide free medical check-ups, diagnostics, and treatment to villagers. The government has also announced plans to set up 50 new healthcare centers in rural areas, staffed by trained medical professionals.",
-        "status": "DEVELOPING",
-        "source": "NDTV, West Bengal Health Department",
-        "category": "Health"
-      },
-      {
-        "headline": "Bengal's Tea Plantations Face Labor Shortage Amid Pandemic",
-        "summary": "Bengal's tea plantations are facing a severe labor shortage amid the ongoing pandemic. According to industry sources, many migrant workers who typically migrate to the plantations from neighboring states have not returned due to border restrictions. This has forced plantations to resort to hiring locals, who are unfamiliar with tea cultivation, resulting in poor quality tea production.",
-        "status": "UNVERIFIED",
-        "source": "The Wire, Bengal Tea Association",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "Bengal Government to Launch New Education Initiative for Girls",
-        "summary": "The West Bengal government is set to launch a new education initiative aimed at improving literacy rates among girls in rural areas. The program, titled 'Shiksha Sakhi', will provide free education and vocational training to girls aged 10-18. The government has also announced plans to set up 100 new girls' schools in rural areas, staffed by trained teachers.",
+        "headline": "West Bengal Sees 25% Increase in FDI Inflows in 2025-26",
+        "summary": "According to official data, West Bengal has witnessed a 25% increase in foreign direct investment (FDI) inflows in 2025-26, with the state attracting over ₹10,000 crore in investments. The surge in FDI is attributed to the state's business-friendly policies and infrastructure development initiatives.",
         "status": "CONFIRMED",
-        "source": "Article 14, West Bengal Education Department",
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal's Riverfront Development Project Stalls Amidst Environmental Concerns",
+        "summary": "The West Bengal government's ambitious riverfront development project has hit a roadblock due to environmental concerns. Activists have raised red flags over the potential impact of the project on the state's fragile ecosystem, with many calling for an alternative, eco-friendly approach to development.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Extends Mid-Day Meal Scheme to 13 Lakh More Students",
+        "summary": "In a bid to improve the nutritional intake of the state's school-going children, the West Bengal government has extended its mid-day meal scheme to 13 lakh more students. The move is expected to benefit over 50% of the state's school-going population, with the government aiming to reduce malnutrition and improve educational outcomes.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Inflation Hits Record High",
-      "Bengal's Tea Plantations Face Labor Shortage",
-      "New Healthcare Initiative for Rural Areas",
-      "Rivers Revitalization Project Launched",
-      "Bengal Government to Launch New Education Initiative for Girls"
+      "COVID-19 Surge Hits West Bengal's Healthcare System",
+      "Mamata Banerjee Announces 10% Hike in Minimum Wages",
+      "West Bengal Sees 25% Increase in FDI Inflows",
+      "Riverfront Development Project Stalls Amidst Environmental Concerns",
+      "West Bengal Extends Mid-Day Meal Scheme to 13 Lakh More Students"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Land acquisition for a proposed industrial park in West Bengal's Howrah district",
+        "topic": "West Bengal's COVID-19 Vaccination Efforts",
         "state_narrative": {
-          "headline": "Industrial Park to Boost West Bengal's Economy, Claim Officials",
-          "summary": "According to state officials, a proposed industrial park in Howrah district will create jobs and attract investments. The project has been in the works for years and is expected to be completed soon.",
+          "headline": "West Bengal Vaccinates Record Number of Citizens",
+          "summary": "According to ABP Ananda, the state of West Bengal has vaccinated a record number of citizens against COVID-19, with the state government touting it as a major achievement.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The industrial park will create thousands of jobs for local residents",
-            "The project is expected to attract significant investments from national and international companies"
+            "Record vaccination numbers",
+            "Government's major achievement"
           ]
         },
         "verified_record": {
-          "headline": "Land Acquisition for Howrah Industrial Park Stirring Controversy",
-          "summary": "According to FactChecker.in and Article 14, the land acquisition process for the proposed industrial park has been marred by controversy, with local residents complaining of inadequate compensation and forced evictions. While the project may create some jobs, it is unclear if it will meet its projected investment targets.",
+          "headline": "West Bengal's COVID-19 Vaccination Efforts: A Mixed Bag",
+          "summary": "According to FactChecker.in, while West Bengal has made significant progress in vaccinating its citizens, the numbers are not as high as the state government claims. Data from the Ministry of Health and Family Welfare shows that the state's vaccination rate is around 67%, which is lower than the national average.",
           "sources": [
             "FactChecker.in",
-            "Article 14"
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "Details on the number of jobs created and investments attracted",
-            "The role of local residents in the land acquisition process"
+            "Lower vaccination rate compared to national average",
+            "Details of vaccine distribution and access"
           ],
-          "data_check": "A data check by MOSPI reveals that the state's manufacturing sector has struggled to attract investments in recent years, casting doubt on the project's ability to meet its targets."
+          "data_check": "Data from the Ministry of Health and Family Welfare's dashboard (accessed on June 10, 2026)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claim of record vaccination numbers was misleading, as the actual numbers were lower than the national average.",
+          "missing_context": "The state government's vaccination efforts and challenges faced by the citizens were not adequately reported by the state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal's Education Sector Sees Major Improvement",
+          "summary": "According to Zee News, the education sector in West Bengal has seen significant improvement under the state government, with an increase in literacy rates and improved infrastructure.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Improved literacy rates",
+            "Better infrastructure"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: Ongoing Challenges",
+          "summary": "According to The Wire, while West Bengal has made some progress in improving literacy rates, the education sector still faces significant challenges, including a shortage of qualified teachers and inadequate infrastructure.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "Shortage of qualified teachers",
+            "Inadequate infrastructure"
+          ],
+          "data_check": "Data from the National University of Educational Planning and Administration's report (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State officials' claims about job creation and investment attraction are not supported by data on the state's manufacturing sector.",
-          "missing_context": "The controversy surrounding land acquisition and the role of local residents in the process were not mentioned in the state-aligned narrative."
+          "key_gap": "The state-aligned media's report on the education sector was overly optimistic, failing to mention the ongoing challenges faced by the sector.",
+          "missing_context": "The state government's education policies and their impact on the sector were not adequately reported by the state-aligned media."
         }
       },
       {
-        "topic": "West Bengal's healthcare infrastructure",
+        "topic": "West Bengal's Flood Relief Efforts",
         "state_narrative": {
-          "headline": "West Bengal's Healthcare Infrastructure is First-Rate, Claims State Government",
-          "summary": "According to the state government, West Bengal's healthcare infrastructure is among the best in the country, with modern hospitals and highly trained healthcare professionals. The state has also made significant investments in healthcare, including the construction of new hospitals and clinics.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal's healthcare infrastructure is among the best in the country",
-            "The state has made significant investments in healthcare infrastructure"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Healthcare Infrastructure Still Lags Behind National Average",
-          "summary": "According to India Spend and FactChecker.in, while West Bengal has made some progress in improving its healthcare infrastructure, it still lags behind the national average in terms of hospital beds per capita and healthcare professionals per population. The state's healthcare investments have been inconsistent and often plagued by corruption.",
-          "sources": [
-            "India Spend",
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Details on the state's healthcare infrastructure compared to national averages",
-            "Corruption and inconsistencies in the state's healthcare investments"
-          ],
-          "data_check": "A data check by the NFHS reveals that West Bengal has a lower hospital bed-to-population ratio compared to other large states in India."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state government's claims about West Bengal's healthcare infrastructure are not supported by data on hospital beds per capita and healthcare professionals per population.",
-          "missing_context": "The controversy surrounding corruption and inconsistencies in the state's healthcare investments were not mentioned in the state-aligned narrative."
-        }
-      },
-      {
-        "topic": "West Bengal's education system",
-        "state_narrative": {
-          "headline": "West Bengal's Education System is Among the Best in the Country, Claims State Government",
-          "summary": "According to the state government, West Bengal's education system is one of the best in the country, with high literacy rates and well-performing schools. The state has also made significant investments in education, including the construction of new schools and training programs for teachers.",
+          "headline": "West Bengal Responds to Floods with Swift Action",
+          "summary": "According to Republic TV, the West Bengal government has responded swiftly to the recent floods, providing relief to affected citizens and taking steps to prevent future disasters.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "West Bengal's education system is among the best in the country",
-            "The state has made significant investments in education infrastructure"
+            "Swift government response",
+            "Effective relief efforts"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education System Still Faces Challenges",
-          "summary": "According to The Quint and Scroll.in, while West Bengal has made some progress in improving its education system, it still faces challenges in terms of teacher shortages, inadequate infrastructure, and uneven access to quality education. The state's education investments have been inconsistent and often plagued by corruption.",
+          "headline": "West Bengal's Flood Relief Efforts: A Mixed Response",
+          "summary": "According to Article 14, while the West Bengal government has taken some steps to respond to the floods, the relief efforts have been patchy, with many affected citizens still awaiting assistance.",
           "sources": [
-            "The Quint",
-            "Scroll.in"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "Details on teacher shortages, inadequate infrastructure, and uneven access to quality education",
-            "Corruption and inconsistencies in the state's education investments"
+            "Patchy relief efforts",
+            "Delayed assistance"
           ],
-          "data_check": "A data check by the NFHS reveals that West Bengal has a lower literacy rate compared to other large states in India."
+          "data_check": "Data from the State Disaster Response Force's report (2026)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims about West Bengal's education system are partially supported by data on literacy rates, but omit key challenges facing the education system.",
-          "missing_context": "The controversy surrounding corruption and inconsistencies in the state's education investments were not mentioned in the state-aligned narrative."
+          "key_gap": "The state government's response to the floods was not as effective as reported by the state-aligned media, with many affected citizens still awaiting assistance.",
+          "missing_context": "The state government's flood relief policies and their impact on the affected citizens were not adequately reported by the state-aligned media."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Sparks Massive Protests in Kolkata",
+      "category": "Infrastructure",
+      "headline": "Mass power outage hits 3 districts; grid collapse feared",
       "bullets": [
-        "Fuel prices increased by 15% across the state",
-        "The hike affects over 50 lakh vehicles daily in Bengal",
-        "This means you may see another price hike soon if no action is taken"
+        "At least 500,000 households affected in Howrah, Hooghly, and Bardhaman.",
+        "Power supply restored in 20% of affected areas, 80% still in dark.",
+        "Residents advised to conserve power, ration piped water supply."
       ],
       "source": "PTI",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Health",
-      "headline": "Mamata Government Announces Emergency Health Budget for Rural Bengal",
+      "category": "Economy",
+      "headline": "Food inflation hits 12-year high; prices soar 15% in May",
       "bullets": [
-        "The budget allocates Rs 500 crore for rural healthcare facilities",
-        "This includes 10 new hospitals and 50 health centers in rural areas",
-        "This means you will have better access to medical care in your village"
+        "Rice prices surged 25% in Kolkata, 18% in rural areas.",
+        "Onion prices up 12% in a month, affecting daily meals.",
+        "Wheat prices hike by 9% in West Bengal market."
       ],
-      "source": "The Telegraph",
+      "source": "Economic Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Labor",
-      "headline": "Bengal Government Unveils New Job Creation Scheme for Youth",
+      "headline": "4,000 workers laid off as Bhadrakali jute mill shuts down",
       "bullets": [
-        "The scheme aims to create 1 lakh jobs in the next year",
-        "Training programs will be provided for candidates in various sectors",
-        "This means you may get a job within the next 12 months"
+        "Bengal government assures support for affected workers.",
+        "Company cites financial difficulties, but mill owners deny allegations.",
+        "State labor department initiates probe into mill's closure."
       ],
-      "source": "The Hindu",
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal school exams postponed due to teacher shortages",
+      "bullets": [
+        "Exams to be rescheduled for July 5-15.",
+        "Over 1,000 teachers absent from duty in last 2 months.",
+        "Education Minister promises to address teacher vacancies soon."
+      ],
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "Bengal Government Introduces New Scholarship Scheme for Meritorious Students",
+      "category": "Health",
+      "headline": "Malaria cases surge in rural West Bengal; 200 cases reported",
       "bullets": [
-        "The scheme offers scholarships worth Rs 10,000 each to 50,000 students",
-        "Eligible students must have scored 80% or above in their last exam",
-        "This means you may get financial help for your education"
+        "Health department deploys teams to affected areas.",
+        "Residents advised to stay indoors, avoid water stagnation.",
+        "Government assures free treatment for malaria patients."
       ],
-      "source": "India Today",
+      "source": "NDTV",
       "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Continue in Bengal Until Monsoon Rain Arrives",
-      "bullets": [
-        "The state is facing a severe power crisis due to low water levels in dams",
-        "Affects over 50,000 households daily in rural areas",
-        "This means you may face more power cuts until the monsoon season arrives"
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "UNVERIFIED: Bengal Government Denies Reports of Contaminated Water Supply",
+      "headline": "Barrackpore river pollution worsens; fishermen protest",
       "bullets": [
-        "Reports suggest over 1 lakh people are affected by contaminated water",
-        "The government has refused to confirm or deny the reports",
-        "This means you may not know the truth about your drinking water"
+        "Fishermen demand immediate action from government.",
+        "Pollution levels increased by 15% in last 6 months.",
+        "NGOs urge government to conduct thorough investigation."
       ],
-      "source": "The Indian Express",
-      "status": "UNVERIFIED",
-      "impact_score": 2
+      "source": "The Hindu",
+      "status": "DEVELOPING",
+      "impact_score": 4
     }
   ],
   "faq": [
