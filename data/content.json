@@ -1,234 +1,248 @@
 {
-  "generated_at": "2026-06-15T05:37:14.557Z",
+  "generated_at": "2026-06-15T12:47:54.067Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 530,
-  "next_update": "2026-06-15T06:30:00.000Z",
+  "next_update": "2026-06-16T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "COVID-19 Vaccination Drive for Children Resumes in West Bengal",
-      "subheadline": "State Health Department Aims to Immunize 100% of Children Below 18",
-      "summary": "The West Bengal Health Department has resumed the COVID-19 vaccination drive for children in the state, with a goal to immunize 100% of children below the age of 18. According to official data, over 80% of children between 12 and 14 years old have received their first dose of the vaccine. The state government has also started vaccinating children between 5 and 12 years old, who are not yet eligible for the COVID-19 vaccine under the national immunization program. The vaccination drive will be conducted in all districts of the state, with a focus on rural areas where the vaccination rate is lower. The state health department has also set up special vaccination camps in schools and Anganwadi centers to reach out to more children.",
+      "headline": "West Bengal Finance Minister Unveils Rs 5,000 Crore Infrastructure Revamp Plan",
+      "subheadline": "Focus on upgrading rural connectivity, boosting economic growth",
+      "summary": "West Bengal Finance Minister, Amit Mitra, on Monday announced a Rs 5,000 crore infrastructure development plan, aimed at upgrading rural connectivity and boosting economic growth in the state. The plan, which will be implemented over the next three years, will focus on upgrading rural roads, enhancing port connectivity, and promoting industrial development in the state's backward districts. This move is expected to create thousands of jobs and stimulate economic growth in the region, officials said. According to the state government, the plan will also focus on enhancing the state's disaster management capabilities, with a special emphasis on protecting vulnerable communities from natural disasters. The plan will be funded through a combination of state and central government funds, as well as private sector investments.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV, data.gov.in"
+        "Economic Times"
       ],
-      "impact": "Vaccination drive aims to protect children from COVID-19 and reduce transmission in rural areas",
-      "unknowns": "Number of children who have received both doses of the vaccine"
+      "impact": "Expected to create thousands of jobs, stimulate economic growth in West Bengal",
+      "unknowns": "Funding details still unclear"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Skill Development Program for Unemployed Youth",
-        "summary": "The West Bengal government has launched a new skill development program to provide training and employment opportunities to unemployed youth in the state. The program will focus on providing skills in areas such as IT, healthcare, and hospitality. The government has also announced a plan to set up skill development centers in all districts of the state, which will provide training and placement services to youth. The program is expected to benefit over 50,000 youth in the first phase.",
+        "headline": "West Bengal Govt Launches Scheme to Provide Free Sanitary Pads to Schoolgirls",
+        "summary": "The West Bengal government has launched a new scheme to provide free sanitary pads to schoolgirls from disadvantaged backgrounds. The scheme, which will be implemented in over 10,000 schools across the state, aims to promote menstrual hygiene and reduce school dropout rates among adolescent girls. According to officials, the scheme will provide sanitary pads to over 1 million schoolgirls, with a special focus on girls from marginalized communities. The scheme has been launched in collaboration with various NGOs and private sector organizations, which will provide funding and support for the initiative.",
         "status": "CONFIRMED",
         "source": "The Hindu",
-        "category": "Labor"
-      },
-      {
-        "headline": "River Ganges Cleanup Efforts Gain Momentum in West Bengal",
-        "summary": "The West Bengal government has launched a major cleanup drive along the banks of the River Ganges in the state. The drive, which is being conducted in collaboration with local communities and NGOs, aims to remove plastic waste and other pollutants from the river. The government has also announced plans to set up waste management facilities along the riverbanks to reduce pollution. The cleanup drive is expected to benefit the environment and local communities who rely on the river for their livelihood.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government to Launch New Education Policy to Improve Literacy Rates",
-        "summary": "The West Bengal government is set to launch a new education policy aimed at improving literacy rates in the state. The policy, which is expected to be unveiled in the next few weeks, will focus on providing access to education to disadvantaged groups, including girls and children from rural areas. The government has also announced plans to set up new schools and training centers in rural areas to improve access to education.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government to Invest ₹500 Crore in Infrastructure Development",
-        "summary": "The West Bengal government has announced plans to invest ₹500 crore in infrastructure development in the state. The investment will focus on upgrading roads, bridges, and other infrastructure in rural areas. The government has also announced plans to set up new public transportation systems in urban areas to improve connectivity.",
+        "headline": "West Bengal to Set Up 10 New Skill Development Centres for Youth",
+        "summary": "The West Bengal government has announced plans to set up 10 new skill development centres across the state, aimed at providing vocational training to young people. The centres, which will be established in collaboration with the central government, will provide training in various skills such as IT, hospitality, and healthcare. According to officials, the centres will be equipped with state-of-the-art infrastructure and will provide training to over 10,000 young people each year. The move is expected to improve employability among young people in the state.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "source": "NDTV",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal to Increase Funding for Its Healthcare Sector",
+        "summary": "The West Bengal government has announced plans to increase funding for its healthcare sector, with a focus on improving healthcare infrastructure and services in rural areas. According to officials, the state government will allocate an additional Rs 500 crore for healthcare in the upcoming budget, with a special emphasis on improving healthcare facilities in rural areas. The move is expected to improve healthcare outcomes and reduce healthcare inequality in the state.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Health"
+      },
+      {
+        "headline": "[UNVERIFIED] Farmers in West Bengal Protest Against Low Crop Prices",
+        "summary": "Farmers in West Bengal have begun protesting against low crop prices, which they claim are making it difficult for them to make a living. According to reports, farmers in several districts of the state have been protesting for the past few days, with many blocking roads and railways. The protests are expected to continue in the coming days, with farmers demanding better prices for their crops.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "COVID-19 vaccination drive resumes in West Bengal",
-      "West Bengal government launches new skill development program",
-      "River Ganges cleanup drive gains momentum",
-      "New education policy to be launched to improve literacy rates",
-      "West Bengal government to invest ₹500 crore in infrastructure development",
-      "Students protest against fee hike in Kolkata",
-      "Farmers' union demands better prices for crops",
-      "Healthcare workers strike for better working conditions"
+      "West Bengal reports 200 new COVID-19 cases",
+      "State govt launches new scheme to promote tourism",
+      "Farmers in West Bengal protest against low crop prices",
+      "New skill development centres to be set up in West Bengal",
+      "State govt to increase funding for healthcare sector",
+      "West Bengal finance minister unveils Rs 5,000 crore infrastructure revamp plan",
+      "Schools in West Bengal to get free sanitary pads",
+      "State govt to provide vocational training to young people"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Illegal Coal Mining in West Bengal",
+        "topic": "West Bengal's alleged 'twin towers' of corruption",
         "state_narrative": {
-          "headline": "WB Govt Stands Firm on Coal Mining Ban",
-          "summary": "The West Bengal government has refused to lift the ban on illegal coal mining in the state, much to the dismay of local residents who depend on it for livelihood.",
+          "headline": "ABP Ananda: Mamata Banerjee accused of constructing Rs 450 crore twin towers",
+          "summary": "According to ABP Ananda, the twin towers are a symbol of Mamata Banerjee's corruption and the misuse of state funds.",
           "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Coal mining ban to benefit environment",
-            "Local residents will find alternative livelihoods"
+            "Rs 450 crore was used for the construction of the twin towers",
+            "Mamata Banerjee is corrupt"
           ]
         },
         "verified_record": {
-          "headline": "Coal Mining Ban: What the Data Reveals",
-          "summary": "According to data from the National Crime Records Bureau, there were 13,033 reported cases of coal mining-related crimes in West Bengal between 2019 and 2022. FactChecker.in found that the coal mining ban has led to significant job losses among local residents, with 70% of them reporting a decline in income.",
+          "headline": "FactChecker.in: West Bengal's twin towers do not exceed Rs 150 crore",
+          "summary": "According to FactChecker.in, the total cost of the twin towers is around Rs 150 crore, which was sanctioned by the Centre, and not Rs 450 crore as claimed.",
           "sources": [
-            "National Crime Records Bureau",
             "FactChecker.in"
           ],
-          "what_was_omitted": [
-            "Impact on local economy",
-            "Number of job losses"
-          ]
+          "what_was_omitted": "The actual cost and the source of funding were not specified in the original report.",
+          "data_check": "Citing the official documents from the Centre, FactChecker.in states that the total cost of the twin towers is around Rs 150 crore."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State media downplayed the negative impact of the coal mining ban on local residents.",
-          "missing_context": "The role of the state government in addressing the economic concerns of local residents."
+          "key_gap": "ABP Ananda's report significantly overestimated the cost of the twin towers by presenting a false narrative of the construction project.",
+          "missing_context": "The state of funding and the actual cost were not provided in the original report."
         }
       },
       {
-        "topic": "Mamata Banerjee's Health",
+        "topic": "West Bengal's COVID-19 death toll",
         "state_narrative": {
-          "headline": "CM Mamata Banerjee Recovers from Illness",
-          "summary": "West Bengal Chief Minister Mamata Banerjee has recovered from a brief illness and is back to her duties.",
+          "headline": "News18 Bangla: COVID-19 death toll in West Bengal crosses 20,000 mark",
+          "summary": "According to News18 Bangla, the COVID-19 death toll in West Bengal has crossed the 20,000 mark.",
           "sources": [
-            "Zee News",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The COVID-19 death toll in West Bengal crossed the 20,000 mark",
+            "The state government is responsible for the rising death toll"
+          ]
+        },
+        "verified_record": {
+          "headline": "India Spend: West Bengal's COVID-19 death toll is around 16,000, not 20,000",
+          "summary": "According to India Spend, the official data from the Centre shows that the COVID-19 death toll in West Bengal is around 16,000, not 20,000.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": "The reason for the discrepancy in the death toll was not specified in the original report.",
+          "data_check": "Citing the official data from the Centre, India Spend reports that the COVID-19 death toll in West Bengal is around 16,000."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla's report significantly overestimated the COVID-19 death toll in West Bengal by presenting an inaccurate narrative.",
+          "missing_context": "The reason for the discrepancy in the death toll was not provided in the original report."
+        }
+      },
+      {
+        "topic": "West Bengal's unemployment rate",
+        "state_narrative": {
+          "headline": "Republic TV: West Bengal's unemployment rate is the highest in the country",
+          "summary": "According to Republic TV, West Bengal has the highest unemployment rate in the country.",
+          "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "CM's health has improved significantly",
-            "She is back to her duties"
+            "West Bengal has the highest unemployment rate in the country",
+            "The state government is responsible for the high unemployment rate"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's Health: A Fact-Check",
-          "summary": "According to a report by The Wire, CM Mamata Banerjee's health issues are not publicly disclosed, and her office has refused to comment on the matter. However, sources close to the CM revealed that she has been suffering from a chronic condition for several years.",
+          "headline": "Article 14: West Bengal's unemployment rate is not the highest in the country",
+          "summary": "According to Article 14, the official data from the Centre shows that West Bengal's unemployment rate is not the highest in the country.",
           "sources": [
-            "The Wire"
+            "Article 14"
           ],
-          "what_was_omitted": [
-            "CM's office refused to comment on her health"
-          ]
+          "what_was_omitted": "The actual unemployment rate in West Bengal was not specified in the original report.",
+          "data_check": "Citing the official data from the Centre, Article 14 reports that West Bengal's unemployment rate is not the highest in the country."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "State media did not provide accurate information about CM's health condition.",
-          "missing_context": "The CM's office refused to comment on her health, leading to speculation."
-        }
-      },
-      {
-        "topic": "West Bengal's Education System",
-        "state_narrative": {
-          "headline": "WB Govt Improves Education System",
-          "summary": "The West Bengal government has taken several initiatives to improve the education system in the state, including the introduction of new curriculum and infrastructure development.",
-          "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Education system has improved significantly",
-            "New curriculum has been introduced"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education System: A Reality Check",
-          "summary": "According to data from the National University of Educational Planning and Administration, West Bengal has one of the lowest literacy rates in the country, at 77.01% in 2021. FactChecker.in found that the government's initiatives have not addressed the root causes of the poor education system, including inadequate infrastructure and teacher training.",
-          "sources": [
-            "National University of Educational Planning and Administration",
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Literacy rate in West Bengal",
-            "Inadequate infrastructure and teacher training"
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State media did not provide accurate information about the education system in West Bengal.",
-          "missing_context": "The root causes of the poor education system were not addressed."
+          "key_gap": "Republic TV's report inaccurately presented West Bengal's unemployment rate without providing actual data.",
+          "missing_context": "The actual unemployment rate in West Bengal was not provided in the original report."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganges Water Quality Hits 30-Year Low in West Bengal",
-      "bullets": [
-        "Water samples from 10 major rivers in West Bengal showed high levels of toxic chemicals.",
-        "The Indian Central Pollution Control Board recorded a 250% increase in toxic pollutants in 2026 compared to 2024.",
-        "This means the river's water is now unfit for human consumption, affecting drinking water for millions of residents."
-      ],
-      "source": "Indian Central Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 9
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Major Grid Failure Hits Kolkata, 70% of City Without Power",
+          "bullets": [
+            "A high-tension wire snapped near Rajarhat, causing widespread power outages.",
+            "About 70% of Kolkata's population is affected, with many areas facing blackouts.",
+            "This means for you: Expect power cuts to last at least 48 hours, with possible water disruptions."
+          ],
+          "source": "India Today",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Spreads to 20 Districts in West Bengal",
-      "bullets": [
-        "According to data from the National Vector Borne Disease Control Programme, there have been 1,500 reported cases of malaria in 2026.",
-        "The districts of Bankura and Purulia have reported the highest number of cases, with 400 and 300 cases respectively.",
-        "Residents are advised to take precautions against mosquito bites to prevent the spread of the disease."
-      ],
-      "source": "National Vector Borne Disease Control Programme",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "West Bengal Government Announces Minimum Wage Hike for Workers",
+          "bullets": [
+            "The state government has increased the minimum wage by 20% for all non-gazetted employees.",
+            "The new wage will be Rs. 12,000 per month, effective from July 1st.",
+            "This means for you: If you're employed in the state government or a private firm, your salary will increase."
+          ],
+          "source": "The Hindu",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Jobs",
-      "headline": "West Bengal Government Announces 20,000 Job Cuts in Public Sector",
-      "bullets": [
-        "The state government has decided to reduce the workforce in various departments to cut costs.",
-        "The move is expected to affect 50,000 employees, with 20,000 facing immediate job losses.",
-        "Trade unions have threatened to go on strike in protest against the decision."
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "CONFIRMED",
-      "impact_score": 7
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "Heavy Rainfall Causes Flooding in South 24 Parganas District",
+          "bullets": [
+            "At least 10 villages in the district are underwater due to heavy rainfall.",
+            "The administration has evacuated over 1,000 families to safer areas.",
+            "This means for you: Be cautious when traveling to affected areas, and follow evacuation instructions."
+          ],
+          "source": "The Times of India",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Economy",
-      "headline": "Food Prices Soar 15% in West Bengal Amid Drought and Harvest Shortfalls",
-      "bullets": [
-        "The prices of essential commodities like rice, wheat, and vegetables have increased significantly.",
-        "A survey conducted by the Centre for Monitoring Indian Economy found that prices have risen by 15% in the past month.",
-        "Residents are struggling to make ends meet as the rising prices have put a strain on household budgets."
-      ],
-      "source": "Centre for Monitoring Indian Economy",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Food Prices",
+          "headline": "Rice Prices Skyrocket in West Bengal Amidst Shortage",
+          "bullets": [
+            "The price of rice has increased by 15% in the past month due to supply chain issues.",
+            "The government has assured that measures will be taken to stabilize prices.",
+            "This means for you: Expect higher rice prices at markets and grocery stores."
+          ],
+          "source": "Economic Times",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "State Government Cuts Funding for 500 Rural Schools in West Bengal",
-      "bullets": [
-        "The decision is expected to affect over 50,000 students who rely on these schools for education.",
-        "The state government has cited financial constraints as the reason for the funding cuts.",
-        "Educational activists have expressed concern over the impact on the education of rural children."
-      ],
-      "source": "West Bengal Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Malaria Outbreak Reported in Malda District",
+          "bullets": [
+            "At least 50 cases of malaria have been reported in the past week.",
+            "The health department has launched an awareness campaign and is conducting surveillance.",
+            "This means for you: Take preventive measures, such as using mosquito repellents and wearing protective clothing."
+          ],
+          "source": "Telegraph India",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "Minimum Wage Hike Announced for West Bengal's 1.2 Million Workers",
-      "bullets": [
-        "The state government has increased the minimum wage by 10% to ₹12,500 per month.",
-        "The hike is expected to benefit 1.2 million workers in the informal sector.",
-        "Trade unions have welcomed the decision but have called for further revisions to ensure living wages."
-      ],
-      "source": "West Bengal Labour Department",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "West Bengal Board Exams Postponed Due to Paper Leak Scandal",
+          "bullets": [
+            "The exams have been postponed for at least 2 weeks to ensure a fair evaluation process.",
+            "An investigation is underway to identify those responsible for the paper leak.",
+            "This means for you: Expect a revised exam schedule and possible changes to the evaluation process."
+          ],
+          "source": "India TV",
+          "status": "DEVELOPING",
+          "impact_score": 3
+        }
+      ]
     }
   ],
   "faq": [
