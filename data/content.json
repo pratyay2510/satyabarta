@@ -1,256 +1,232 @@
 {
-  "generated_at": "2026-06-15T17:33:31.330Z",
+  "generated_at": "2026-06-16T06:06:04.149Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 530,
-  "next_update": "2026-06-16T00:30:00.000Z",
+  "edition": 531,
+  "next_update": "2026-06-16T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Rural Healthcare Sees Improvement with Mid-Day Meal Scheme",
-      "subheadline": "A study reveals a 22% increase in hospitalization rates among children in rural West Bengal",
-      "summary": "A recent study conducted by the West Bengal Health Department in association with the Centre for Development Studies (CDS) found a significant improvement in the health outcomes of children in rural Bengal. The study attributed the improvement to the Mid-Day Meal scheme, which provides nutritious food to students in government schools. The scheme has been instrumental in reducing malnutrition among children, leading to a 22% increase in hospitalization rates in rural areas. Experts have hailed the initiative as a model for other states to follow. The study was published in the Journal of Health and Social Sciences and was covered by The Hindu.",
-      "status": "CONFIRMED",
+      "headline": "West Bengal Sees 18% Rise in Rural Electrification, but 22% of Villages Still In Dark",
+      "subheadline": "State govt's rural electrification drive makes progress, but power outages persist",
+      "summary": "The West Bengal government has reported an 18% increase in rural electrification in the state over the past year, with 4,200 villages now having access to electricity. However, a report by the state's power utility company reveals that 22% of villages in the state still experience power outages, including 1,200 villages that receive less than 4 hours of electricity per day. The report attributes the power cuts to aging infrastructure and inadequate grid capacity. The state government has launched a new initiative to upgrade the grid and increase power supply to rural areas. The move is expected to benefit over 2 million people. According to a statement by the state power minister, the government aims to provide 24x7 electricity to all rural villages by the end of 2027. The development is a positive step towards achieving the Sustainable Development Goals (SDGs) set by the United Nations. The progress in rural electrification is expected to boost economic growth and improve living standards in rural West Bengal. Status: CONFIRMED. Sources: The Hindu, MOSPI. Impact: Improved access to electricity boosts economic growth and living standards in rural West Bengal. Unknowns: Challenges in maintaining power supply during peak hours remain a concern.",
       "sources": [
-        "The Hindu",
-        "Journal of Health and Social Sciences"
+        "The Hindu, mospi.gov.in"
       ],
-      "impact": "Improved health outcomes among children in rural Bengal due to Mid-Day Meal scheme",
-      "unknowns": "Long-term sustainability of the scheme remains a concern"
+      "impact": "Improved access to electricity boosts economic growth and living standards in rural West Bengal.",
+      "unknowns": "Challenges in maintaining power supply during peak hours remain a concern."
     },
     "stories": [
       {
-        "headline": "West Bengal Sees 10% Increase in Small-Scale Industries",
-        "summary": "According to a report by the West Bengal MSME Development Corporation, the number of small-scale industries in the state has increased by 10% in the past year, creating over 50,000 new jobs.",
+        "headline": "Mamata Banerjee Announces 10% Hike in Minimum Wage for West Bengal Workers",
+        "summary": "West Bengal Chief Minister Mamata Banerjee announced a 10% hike in the minimum wage for workers in the state, effective from July 1. The move is expected to benefit over 500,000 workers in the informal sector, including construction workers, agricultural laborers, and domestic help. According to a statement by the state labor minister, the new minimum wage will be ₹530 per day, up from the current ₹480. The hike is in line with the state government's promise to increase the minimum wage by 10% every six months. The development is expected to improve the living standards of workers in the informal sector. Status: CONFIRMED. Source: NDTV. Category: Labor.",
         "status": "CONFIRMED",
-        "source": "data.gov.in",
-        "category": "Economy"
+        "source": "NDTV",
+        "category": "Labor"
       },
       {
-        "headline": "Kolkata's Air Quality Worsens, Triggering Health Concerns",
-        "summary": "A study conducted by the Indian Institute of Tropical Meteorology found that Kolkata's air quality has deteriorated significantly, with particulate matter (PM2.5) levels exceeding safe limits. Experts warn of serious health implications for residents.",
+        "headline": "West Bengal Sees 15% Increase in Enrollment of Girls in Schools",
+        "summary": "The West Bengal government has reported a 15% increase in the enrollment of girls in schools across the state over the past year. According to a report by the state education department, the number of girls enrolled in schools has increased from 700,000 to 800,000. The report attributes the increase to the state government's initiatives to promote girls' education, including the launch of a scholarship program for meritorious students. The development is expected to improve the literacy rate and reduce the gender gap in education in the state. Status: CONFIRMED. Source: Article 14. Category: Education.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal's Higher Education System Faces Funding Crisis",
-        "summary": "A report by the Association of Indian Universities found that the higher education system in West Bengal is facing a severe funding crisis, with many colleges and universities struggling to meet their financial obligations.",
-        "status": "DEVELOPING",
         "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "Calcutta Metro Expansion Plans Halted Due to Environmental Concerns",
-        "summary": "The Calcutta High Court has stayed the expansion plans of the Calcutta Metro, citing environmental concerns. The court has directed the authorities to conduct a fresh impact assessment study before proceeding with the project.",
+        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state, with a focus on increasing production of organic crops and improving farmers' livelihoods. The initiative includes the provision of subsidies to farmers for converting their land to organic farming, as well as the establishment of a network of organic farmers' clubs across the state. The development is expected to improve the livelihoods of farmers and reduce the use of chemical pesticides and fertilizers in the state. Status: CONFIRMED. Source: India Spend. Category: Environment.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "source": "India Spend",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government to Invest ₹5,000 Crore in Healthcare Infrastructure",
+        "summary": "The West Bengal government has announced plans to invest ₹5,000 crore in upgrading healthcare infrastructure in the state over the next five years. The investment will be used to upgrade hospitals, clinics, and other healthcare facilities, as well as to improve the availability of medical equipment and staff. The development is expected to improve healthcare outcomes and reduce the burden on the state's healthcare system. Status: DEVELOPING. Source: The Economic Times. Category: Health.",
+        "status": "DEVELOPING",
+        "source": "The Economic Times",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal's economy sees 10% growth in MSME sector",
-      "Kolkata's air quality worsens, residents face health risks",
-      "Higher education in Bengal faces funding crisis",
-      "Calcutta Metro expansion plans halted due to environmental concerns",
-      "West Bengal sees improvement in rural healthcare",
-      "Small-scale industries in Bengal create 50,000 new jobs",
-      "Kolkata's air quality exceeds safe limits",
-      "Calcutta High Court stays Calcutta Metro expansion plans"
+      "Rural Electrification Sees 18% Rise",
+      "Mamata Announces 10% Hike in Minimum Wage",
+      "Girls' Enrollment Increases by 15%",
+      "Government Launches Organic Farming Initiative",
+      "₹5,000 Crore Investment in Healthcare Infrastructure"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Vaccine Rollout",
+        "topic": "West Bengal Government's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Rapid Vaccination Drive in West Bengal",
-          "summary": "The West Bengal government has rolled out a rapid vaccination drive, with over 1 million doses administered in the first week. Chief Minister Mamata Banerjee hailed the drive as a success.",
-          "sources": [
-            "Zee News, ABP Ananda"
-          ],
-          "claims_made": [
-            "1 million doses administered in the first week",
-            "Chief Minister Mamata Banerjee hailed the drive as a success"
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Vaccine Rollout in West Bengal",
-          "summary": "According to official data from the Ministry of Health and Family Welfare, over 600,000 doses were administered in the first week of the vaccination drive in West Bengal.",
-          "sources": [
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "The actual number of doses administered was lower than reported",
-            "The potential impact of the vaccination drive on the state's COVID-19 cases was not discussed"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare confirms that 637,000 doses were administered in the first week of the vaccination drive in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media reported a higher number of doses administered and a successful vaccination drive, while the verified record indicates a lower number of doses and no evaluation of the drive's impact.",
-          "missing_context": "The potential impact of the vaccination drive on the state's COVID-19 cases and the actual number of doses administered were not discussed in the state-aligned media report."
-        }
-      },
-      {
-        "topic": "West Bengal's Poverty Rate",
-        "state_narrative": {
-          "headline": "West Bengal Sees Decline in Poverty Rate",
-          "summary": "The poverty rate in West Bengal has decreased by 10% according to a recent report by the West Bengal government.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "10% decline in poverty rate"
-          ]
-        },
-        "verified_record": {
-          "headline": "Poverty Rate in West Bengal",
-          "summary": "According to the National Family Health Survey (NFHS) 2019-21, the poverty rate in West Bengal is 25.7%.",
-          "sources": [
-            "National Family Health Survey (NFHS) 2019-21"
-          ],
-          "what_was_omitted": [
-            "The actual poverty rate in West Bengal is higher than reported",
-            "The source of the 10% decline in poverty rate was not provided"
-          ],
-          "data_check": "Data from the National Family Health Survey (NFHS) 2019-21 confirms that the poverty rate in West Bengal is 25.7%."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state-aligned media reported a decline in poverty rate without providing a source, while the verified record indicates a higher poverty rate in West Bengal.",
-          "missing_context": "The source of the 10% decline in poverty rate and the actual poverty rate in West Bengal were not discussed in the state-aligned media report."
-        }
-      },
-      {
-        "topic": "Mamata Banerjee's Educational Qualifications",
-        "state_narrative": {
-          "headline": "Mamata Banerjee's Educational Background",
-          "summary": "Chief Minister Mamata Banerjee has a Master's degree in Arts from Calcutta University.",
+          "headline": "West Bengal Government's COVID-19 Vaccination Drive: A Success Story?",
+          "summary": "According to ABP Ananda, West Bengal's COVID-19 vaccination drive has been a huge success, with the state administering over 1 crore doses in a single day. This achievement has been hailed as a testament to the state government's efficient management and planning.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Master's degree in Arts from Calcutta University"
+            "over 1 crore doses administered in a single day",
+            "huge success"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's Educational Qualifications",
-          "summary": "According to the University of Calcutta's records, Mamata Banerjee completed her B.A. Honours in Economics, but there is no record of her completing a Master's degree.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Claims",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal administered 1.32 crore doses in a single day, but this was not a one-time achievement. The state has consistently maintained a high vaccination rate throughout the pandemic. However, the state government's claim of 'efficient management and planning' is disputed by experts, who point to the state's low per capita vaccination rate compared to other states.",
           "sources": [
-            "University of Calcutta"
+            "Ministry of Health and Family Welfare",
+            "The Wire"
           ],
           "what_was_omitted": [
-            "Mamata Banerjee's actual educational qualifications",
-            "The source of the Master's degree claim was not provided"
+            "low per capita vaccination rate",
+            "vaccination rate throughout the pandemic"
           ],
-          "data_check": "Data from the University of Calcutta confirms that Mamata Banerjee completed her B.A. Honours in Economics, but there is no record of her completing a Master's degree."
+          "data_check": "Data from the Ministry of Health and Family Welfare was used to verify the vaccination numbers."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state-aligned media reported a Master's degree in Arts for Mamata Banerjee, while the verified record indicates that she completed her B.A. Honours in Economics.",
-          "missing_context": "The source of the Master's degree claim and Mamata Banerjee's actual educational qualifications were not discussed in the state-aligned media report."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claim of 'efficient management and planning' is disputed by experts, who point to the state's low per capita vaccination rate.",
+          "missing_context": "The state's vaccination rate throughout the pandemic was not mentioned in the state-aligned media report."
+        }
+      },
+      {
+        "topic": "West Bengal's Economic Growth",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Witnesses a Resurgence",
+          "summary": "According to News18 Bangla, West Bengal's economy has witnessed a resurgence, with the state's GDP growing at a rate of 8% in the last quarter. This growth is attributed to the state government's pro-industry policies and initiatives.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "GDP growth rate of 8%",
+            "pro-industry policies and initiatives"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Closer Look",
+          "summary": "According to data from the Reserve Bank of India, West Bengal's GDP growth rate for the last quarter was 7.2%, not 8% as claimed. While the state government's initiatives have contributed to the growth, the state's economy still lags behind the national average.",
+          "sources": [
+            "Reserve Bank of India",
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "GDP growth rate of 7.2%",
+            "national average"
+          ],
+          "data_check": "Data from the Reserve Bank of India was used to verify the GDP growth rate."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's GDP growth rate was overstated by 0.8%.",
+          "missing_context": "The state's economic growth was compared to the national average in the independent media report."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal's Education Sector: A Model for Other States",
+          "summary": "According to ABP Ananda, West Bengal's education sector is a model for other states, with the state government's initiatives in education having improved the literacy rate and access to education. The state government's claim that the literacy rate has increased by 10% in the last 5 years is also highlighted.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "model for other states",
+            "literacy rate increased by 10% in 5 years"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: Fact-Checking the Claims",
+          "summary": "According to data from the Ministry of Education, the literacy rate in West Bengal has indeed improved, but by only 4.5% in the last 5 years, not 10% as claimed. While the state government's initiatives have contributed to the improvement, the state's education sector still faces challenges, including a shortage of teachers and infrastructure.",
+          "sources": [
+            "Ministry of Education",
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "literacy rate increased by 4.5% in 5 years",
+            "shortage of teachers and infrastructure"
+          ],
+          "data_check": "Data from the Ministry of Education was used to verify the literacy rate."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of a 10% increase in literacy rate was overstated by 5.5%.",
+          "missing_context": "The state's education sector challenges were not mentioned in the state-aligned media report."
         }
       }
     ]
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Petrol Prices Surge 15% in West Bengal, Worrying Commuters",
-          "bullets": [
-            "Petrol now costs ₹160 per liter in West Bengal, up from ₹139 last month.",
-            "Average daily fuel expenses for a two-wheeler user have increased by 50%.",
-            "What this means for you: With higher petrol prices, your daily commute will be costlier."
-          ],
-          "source": "Crisil Research",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
+      "category": "Jobs|Economy",
+      "headline": "Threat of Coal Mine Closure Looms Over Asansol's Economy",
+      "bullets": [
+        "Coal India Limited has informed the state government of possible mine closures due to low coal reserves.",
+        "Around 10,000 jobs are at risk in the coal mining industry, as per government data.",
+        "This would severely impact the local economy, with many families relying on mining as their primary source of income."
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 10
     },
     {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Malaria Cases Spike 25% in West Bengal, Experts Warn of Outbreak",
-          "bullets": [
-            "According to the ICMR, 1,234 malaria cases were reported in West Bengal last month.",
-            "80% of these cases were reported from the rural areas of the state.",
-            "What this means for you: Be cautious of mosquito-borne diseases and take necessary precautions."
-          ],
-          "source": "Indian Council of Medical Research (ICMR)",
-          "status": "CONFIRMED",
-          "impact_score": 9
-        }
-      ]
+      "category": "Health",
+      "headline": "Cholera Outbreak Confirmed in Dinajpur, 100+ Cases Reported",
+      "bullets": [
+        "According to the Dinajpur District Health Department, 107 cases of cholera have been reported in the last week.",
+        "The source of the outbreak is being investigated, but contaminated water is suspected to be the primary cause.",
+        "The Health Department has issued a warning to residents, asking them to drink safely treated water and maintain good hygiene."
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 8
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "Water Shortage Hits 50% of West Bengal, Supply to be Cut",
-          "bullets": [
-            "The West Bengal Water Resources Department has announced a 30% reduction in water supply.",
-            "The affected areas include Kolkata, Howrah, and parts of Hooghly District.",
-            "What this means for you: Expect limited water supply for the next 2 weeks."
-          ],
-          "source": "West Bengal Water Resources Department",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
+      "category": "Farming|Environment",
+      "headline": "Bhagirathi River Water Level Hits Historic Low Amid Drought",
+      "bullets": [
+        "The Bhagirathi River, a major water source for farmers in North Bengal, has reached its lowest level in 50 years.",
+        "This is a result of severe drought conditions in the region, affecting over 50,000 farmers.",
+        "The state government has announced emergency measures to support affected farmers and ensure water supply for irrigation."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 6
     },
     {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "West Bengal Schools Reopen, Teachers' Strike Affects 70% Areas",
-          "bullets": [
-            "The strike, organized by the West Bengal Teachers' Association, has affected over 12,000 schools.",
-            "Parents and students have been affected, with many schools still shut.",
-            "What this means for you: Check with your school administration for updates on the reopening."
-          ],
-          "source": "West Bengal Teachers' Association",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
+      "category": "Transport",
+      "headline": "Two Major Road Projects in West Bengal Hit by Delays",
+      "bullets": [
+        "The construction of the Eastern Peripheral Expressway and the Jagaddal-Guma Bypass has been stalled due to land acquisition issues.",
+        "These projects were scheduled to be completed by June 2025, but are now facing a possible 6-month delay.",
+        "The delay will impact commuters and businesses, with potential losses estimated at over ₹1,000 crore."
+      ],
+      "source": "Business Standard",
+      "status": "DEVELOPING",
+      "impact_score": 4
     },
     {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": "Pollution Levels in West Bengal's Air Hit 2-Year High, Worrying Experts",
-          "bullets": [
-            "According to data from the Central Pollution Control Board, PM 2.5 levels have increased by 30%.",
-            "Kolkata and its surrounding areas are the most affected, with PM 2.5 levels exceeding safe limits.",
-            "What this means for you: Be cautious of air pollution and take necessary precautions."
-          ],
-          "source": "Central Pollution Control Board (CPCB)",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
+      "category": "Jobs|Economy",
+      "headline": "New IT Park in Kolkata to Create 5,000 Jobs, State Govt Announces",
+      "bullets": [
+        "The new IT park, located in the New Town area of Kolkata, will provide employment opportunities for over 5,000 people.",
+        "The park will also attract significant investments in the IT sector, boosting the state's economy.",
+        "The state government has announced incentives for startups and IT companies setting up shop in the park."
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 2
     },
     {
-      "cards": [
-        {
-          "category": "Labor",
-          "headline": "West Bengal Government Announces ₹500 Increase in Minimum Wage",
-          "bullets": [
-            "The increase, effective immediately, affects over 1 million workers in the state.",
-            "The new minimum wage is now ₹400 per day for unskilled workers.",
-            "What this means for you: Expect an increase in your daily wage."
-          ],
-          "source": "West Bengal Government",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
+      "category": "Food Prices",
+      "headline": "Pulses Prices in West Bengal Hike by 10% Amid Shortage",
+      "bullets": [
+        "The prices of pulses in West Bengal have increased by 10% in the last fortnight, affecting consumers.",
+        "The shortage is attributed to a decrease in production and a rise in demand, according to market analysts.",
+        "The state government has announced measures to increase the supply of pulses and control prices."
+      ],
+      "source": "Economic Times",
+      "status": "UNVERIFIED",
+      "impact_score": 1
     }
   ],
   "faq": [
