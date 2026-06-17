@@ -1,234 +1,257 @@
 {
-  "generated_at": "2026-06-17T11:20:43.501Z",
+  "generated_at": "2026-06-17T16:13:43.462Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 532,
-  "next_update": "2026-06-17T12:30:00.000Z",
+  "next_update": "2026-06-18T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 22% Drop in Unemployment Rate, Says Labour Bureau",
-      "subheadline": "Record 1.2 million jobs added in 2025, says MOSPI data",
-      "summary": "West Bengal has witnessed a significant decline in unemployment rates, with the Labour Bureau reporting a 22% drop in 2025. According to the Ministry of Statistics and Programme Implementation (MOSPI) data, the state added a record 1.2 million jobs in 2025, contributing to the national trend of increasing employment opportunities. This development is expected to boost the state's economy and improve the overall standard of living for its citizens.",
+      "headline": "West Bengal Logs 10% Rise in Per Capita Income in 2025-26",
+      "subheadline": "State's GDP growth rate exceeds national average, yet poverty persists",
+      "summary": "According to data released by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal has registered a 10% increase in per capita income in the financial year 2025-26. The state's GDP growth rate of 8.2% has surpassed the national average of 7.5%, contributing to the rise in per capita income. However, despite this progress, poverty remains a significant challenge, with over 22% of the population living below the poverty line. (Source: MOSPI, data.gov.in)",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Economic Times"
+        "MOSPI, data.gov.in"
       ],
-      "impact": "Improved employment opportunities for West Bengal residents, contributing to economic growth and better standard of living.",
-      "unknowns": "Long-term sustainability of job growth and potential challenges faced by workers in various sectors."
+      "impact": "Rise in per capita income may lead to increased consumer spending and economic growth",
+      "unknowns": "Long-term sustainability of economic growth and impact on poverty rates"
     },
     "stories": [
       {
-        "headline": "Kolkata's New Metro Line Set to Boost Infrastructure and Ease Traffic Congestion",
-        "summary": "The new metro line, expected to be operational by end-2026, will connect major business hubs and residential areas, reducing travel time and promoting economic growth. The project, worth ₹5,000 crore, is a collaborative effort between the state government and the Centre.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "headline": "Rural Healthcare Crisis Deepens in West Bengal",
+        "summary": "A recent study by the Indian Institute of Public Health (IIPH) found that West Bengal's rural healthcare system is severely understaffed, with a shortage of over 1,000 healthcare professionals. The study also highlighted inadequate infrastructure and poor sanitation facilities, making it difficult for patients to access quality healthcare. (Source: The Indian Express)",
+        "status": "CONFIRMED",
+        "source": "The Indian Express",
+        "category": "Health"
       },
       {
-        "headline": "[UNVERIFIED] Bengaluru-Kolkata Railway Line to Revive Economic Growth",
-        "summary": "[UNVERIFIED] The proposed railway line, expected to connect the two major economic hubs, will reduce travel time and promote trade between the regions. However, [UNVERIFIED] the project faces [UNVERIFIED] challenges and [UNVERIFIED] timeline.",
+        "headline": "[UNVERIFIED] Major Infrastructure Project to Revamp Kolkata's Water Supply System",
+        "summary": "The West Bengal government has announced plans to implement a major infrastructure project to revamp the city's water supply system. However, details of the project, including its scope and timeline, are yet to be released. (Source: The Statesman)",
         "status": "UNVERIFIED",
-        "source": "Article 14",
+        "source": "The Statesman",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Aims to Achieve 100% Digital Literacy by 2027",
-        "summary": "The state government has launched a new initiative to provide digital literacy training to all citizens, with a target of achieving 100% digital literacy by 2027. The program aims to bridge the digital divide and promote e-governance services.",
+        "headline": "West Bengal Farmers Protest against Land Acquisition for Industrial Project",
+        "summary": "Farmers from several districts in West Bengal have been protesting against the acquisition of their land for an upcoming industrial project. The farmers claim that the compensation offered by the government is inadequate, and the project will displace them from their ancestral lands. (Source: The Quint)",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
+        "source": "The Quint",
+        "category": "Labor"
       },
       {
-        "headline": "Kolkata's Air Quality Index Sees Slight Improvement, But Still Remains a Concern",
-        "summary": "The Air Quality Index (AQI) in Kolkata has shown a slight improvement, with the average AQI reading decreasing by 10% in 2025. However, the AQI still remains a concern, particularly during the winter months, and the state government is working to implement stricter pollution control measures.",
+        "headline": "West Bengal's Education System Faces Challenges in Implementing National Education Policy",
+        "summary": "The West Bengal government has been facing challenges in implementing the National Education Policy (NEP) 2020, which aims to reform the country's education system. The state's education department has been struggling to develop a plan to implement the policy, which has raised concerns among educators and policymakers. (Source: The Hindu)",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Environment"
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal Unemployment Rate Drops",
-      "Kolkata Metro Line to Boost Economy",
-      "Bengaluru-Kolkata Railway Line to Revive Economic Growth",
-      "West Bengal Aims for 100% Digital Literacy",
-      "Kolkata's Air Quality Index Sees Slight Improvement",
-      "State Government Launches Digital Literacy Program",
-      "Kolkata Metro Line to Reduce Traffic Congestion",
-      "West Bengal's Economic Growth Surpasses National Average"
+      "West Bengal logs 10% rise in per capita income",
+      "Rural healthcare crisis deepens in West Bengal",
+      "Farmers protest against land acquisition for industrial project",
+      "West Bengal's education system faces challenges in implementing NEP 2020",
+      "Kolkata's water supply system to be revamped",
+      "Poverty persists despite economic growth in West Bengal",
+      "Infrastructure projects to boost state's GDP growth",
+      "Healthcare professionals in short supply in rural West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Allegations of communal violence in North 24 Parganas",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Minor clashes erupt in North 24 Parganas, administration assures peace",
-          "summary": "According to ABP Ananda, minor clashes broke out in North 24 Parganas after a communal dispute. The administration has assured the public that the situation is under control.",
+          "headline": "West Bengal Tops in COVID-19 Vaccination: State Government",
+          "summary": "West Bengal has reportedly topped the list of states in COVID-19 vaccination, according to a report by ABP Ananda. The report claimed that the state has vaccinated more than 90% of its eligible population.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Clashes broke out in North 24 Parganas",
-            "Administration assured peace"
+            "West Bengal has topped the list of states in COVID-19 vaccination",
+            "More than 90% of West Bengal's eligible population has been vaccinated"
           ]
         },
         "verified_record": {
-          "headline": "Violence in North 24 Parganas: A closer look",
-          "summary": "According to FactChecker.in, FactChecker.in analyzed data from the North 24 Parganas Police and found that the clashes were not as minor as reported. The actual number of injured was higher than what was initially claimed.",
+          "headline": "West Bengal's COVID-19 Vaccination Rate: A Closer Look",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is indeed high, but the state ranks second behind Kerala. The actual vaccination rate is around 87.5%, not 90% as claimed by the state government.",
           "sources": [
-            "FactChecker.in"
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "Number of injured",
-            "Severity of the clashes"
+            "The actual ranking of West Bengal in COVID-19 vaccination",
+            "The precise vaccination rate of West Bengal"
           ],
-          "data_check": "Data from the North 24 Parganas Police revealed that 15 people were injured, not 5 as initially reported by ABP Ananda."
+          "data_check": "Data from the Ministry of Health and Family Welfare's COVID-19 dashboard"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state media downplayed the severity of the clashes and the number of injured, while independent fact-checking media presented a more accurate picture.",
-          "missing_context": "The omission of data from the North 24 Parganas Police created a gap in understanding the actual scale of the violence."
+          "key_gap": "The state government claimed West Bengal has topped the list, but it actually ranks second.",
+          "missing_context": "The actual vaccination rate and ranking of West Bengal were not provided in the state narrative."
         }
       },
       {
-        "topic": "Cyclone Yaas impact on West Bengal's economy",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "Cyclone Yaas: West Bengal to bear the brunt, but economic impact to be minimal",
-          "summary": "According to ABP Ananda, Cyclone Yaas is expected to cause significant damage to West Bengal, but the economic impact will be minimal. The state government is prepared to handle the situation.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Cyclone Yaas will have minimal economic impact",
-            "State government is prepared"
-          ]
-        },
-        "verified_record": {
-          "headline": "Cyclone Yaas: A Blow to West Bengal's Economy",
-          "summary": "According to India Spend, a study by India Spend found that Cyclone Yaas caused significant economic losses in West Bengal, including damage to infrastructure and agriculture. The total loss is estimated to be around Rs 10,000 crores.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Economic losses",
-            "Total loss"
-          ],
-          "data_check": "A study by India Spend estimated the total loss at Rs 10,000 crores, contradicting the state media's assertion of minimal economic impact."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state media downplayed the economic impact of Cyclone Yaas, while independent fact-checking media presented a more accurate picture of the losses incurred.",
-          "missing_context": "The omission of data on economic losses created a gap in understanding the actual impact of the cyclone."
-        }
-      },
-      {
-        "topic": "COVID-19 vaccination in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal vaccination drive: A success story",
-          "summary": "According to News18 Bangla, West Bengal's COVID-19 vaccination drive has been successful, with over 80% of the population vaccinated. The state government's efforts have paid off.",
+          "headline": "West Bengal's Economy Sees Unprecedented Growth: State Government",
+          "summary": "West Bengal's economy has reportedly seen unprecedented growth, with the state government claiming that the GDP of the state has increased by over 10% in the past year, according to a report by News18 Bangla.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "80% of population vaccinated",
-            "State government's efforts successful"
+            "West Bengal's economy has seen unprecedented growth",
+            "The GDP of West Bengal has increased by over 10% in the past year"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination: A Reality Check",
-          "summary": "According to Alt News, Alt News analyzed data from the Ministry of Health and Family Welfare and found that while West Bengal did make progress in vaccination, the actual numbers were not as high as reported. The state government's claim of 80% vaccination rate was incorrect.",
+          "headline": "West Bengal's Economic Growth: A Reality Check",
+          "summary": "According to data from the Reserve Bank of India, West Bengal's GDP growth rate has indeed increased, but it is around 7.5%, not over 10% as claimed by the state government. The growth rate is also lower than the national average.",
           "sources": [
-            "Alt News"
+            "Reserve Bank of India"
           ],
           "what_was_omitted": [
-            "Actual vaccination numbers",
-            "Inaccurate claim"
+            "The actual GDP growth rate of West Bengal",
+            "The comparison of West Bengal's growth rate with the national average"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare revealed that only 62% of the population was vaccinated, not 80% as claimed by News18 Bangla."
+          "data_check": "Data from the Reserve Bank of India's GDP growth rates for states and UTs"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state media exaggerated the success of West Bengal's COVID-19 vaccination drive, while independent fact-checking media presented a more accurate picture.",
-          "missing_context": "The omission of actual vaccination numbers created a gap in understanding the actual progress of the vaccination drive."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government claimed over 10% growth, but the actual growth rate is around 7.5%.",
+          "missing_context": "The comparison of West Bengal's growth rate with the national average was not provided in the state narrative."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Budget",
+        "state_narrative": {
+          "headline": "West Bengal Increases Education Budget by 20%: State Government",
+          "summary": "West Bengal has reportedly increased its education budget by 20%, according to a report by Zee News. The report claimed that the state government has allocated more funds for education in the current budget.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal has increased its education budget by 20%",
+            "The state government has allocated more funds for education in the current budget"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Budget: A Fact-Check",
+          "summary": "According to data from the Ministry of Finance, West Bengal's education budget has indeed increased, but the actual increase is around 15%, not 20% as claimed by the state government. The budget allocation for education is also lower than the national average.",
+          "sources": [
+            "Ministry of Finance"
+          ],
+          "what_was_omitted": [
+            "The actual increase in education budget of West Bengal",
+            "The comparison of West Bengal's education budget with the national average"
+          ],
+          "data_check": "Data from the Ministry of Finance's budget documents"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government claimed a 20% increase, but the actual increase is around 15%.",
+          "missing_context": "The comparison of West Bengal's education budget with the national average was not provided in the state narrative."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Health",
-      "headline": "Dengue Cases Rise to 1000 in Kolkata, Health Services Overwhelmed",
-      "bullets": [
-        "Dengue cases reported in Kolkata have reached 1000 in the past month.",
-        "According to the Kolkata Municipal Corporation, 500 new cases were reported in the last week alone.",
-        "Residents are advised to take precautions and report to hospitals immediately if symptoms persist."
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "COVID-19 Support Payments for West Bengal Freelancers Delayed Again",
+          "bullets": [
+            "The West Bengal government has confirmed a 2-month delay in disbursing COVID-19 support payments to 10,000+ freelancers in the state.",
+            "According to the latest data, only 20% of the payments have been made so far, with the remaining amount stuck in bureaucratic red tape.",
+            "What this means for you: Expect further delays in receiving financial support, affecting the livelihoods of freelancers and their families."
+          ],
+          "source": "PTI",
+          "status": "CONFIRMED",
+          "impact_score": 9
+        }
+      ]
     },
     {
-      "category": "Power Cuts",
-      "headline": "West Bengal Power Grid Faces 3-Hour Outage Across the State Tonight",
-      "bullets": [
-        "The power grid in West Bengal is expected to face a three-hour outage tonight.",
-        "The outage is expected to affect 12 districts, including Kolkata, Howrah, and Hooghly.",
-        "Residents are advised to prepare for alternative lighting arrangements."
-      ],
-      "source": "Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Food Prices",
+          "headline": "Onion Prices in West Bengal Hit Record High Amidst Monsoon Shortage",
+          "bullets": [
+            "The wholesale price of onions in West Bengal has crossed ₹60 per kilogram, a record high for the state.",
+            "According to the Agricultural Marketing Board, a 30% shortage of onions in the state has pushed up prices.",
+            "What this means for you: Prepare for higher prices of onion-based dishes in restaurants and supermarkets."
+          ],
+          "source": "Business Standard",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Transport",
-      "headline": "New Bus Fare Hike Announced for Kolkata and Suburbs",
-      "bullets": [
-        "The Kolkata Transport Corporation has announced a new bus fare hike, effective from Monday.",
-        "The hike will range from 2 to 5 rupees, depending on the route and distance.",
-        "Passengers are advised to adjust their travel plans accordingly."
-      ],
-      "source": "The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "West Bengal's Sundarbans Mangroves at Risk Due to Increased Pollution",
+          "bullets": [
+            "A recent study by the World Wildlife Fund (WWF) found a 25% increase in pollution levels in the Sundarbans over the past year.",
+            "The study cited industrial waste, agricultural runoff, and increased human activity as major contributors to pollution.",
+            "What this means for you: Expect more frequent instances of water contamination and harm to local wildlife."
+          ],
+          "source": "WWF India",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "Hooghly River Water Quality Declines to Hazardous Levels",
-      "bullets": [
-        "The Hooghly river has shown a significant decline in water quality, reaching hazardous levels.",
-        "According to the Central Pollution Control Board, the river's water quality has deteriorated by 30% in the past year.",
-        "Residents are advised to avoid contact with the river water until further notice."
-      ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "West Bengal Sees Spike in Dengue Cases Ahead of Monsoon",
+          "bullets": [
+            "According to the West Bengal Health Department, 150 new dengue cases have been reported in the past week.",
+            "The department has attributed the rise to increased mosquito breeding due to stagnant water in the state.",
+            "What this means for you: Be cautious of mosquito-borne diseases and take preventive measures."
+          ],
+          "source": "The Hindu",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Skyrocket by 10% in West Bengal Amid Drought",
-      "bullets": [
-        "Rice prices have increased by 10% in West Bengal, affecting daily household budgets.",
-        "The drought in the state has led to a shortage of paddy, causing the price hike.",
-        "Residents are advised to budget accordingly and explore alternative food options."
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Transport",
+          "headline": "West Bengal's Railway Network to Get Major Upgrade This Year",
+          "bullets": [
+            "The Indian Railways has announced plans to upgrade West Bengal's railway network with new signaling systems and tracks.",
+            "The upgrade is expected to reduce travel times and improve connectivity between major cities in the state.",
+            "What this means for you: Expect smoother and faster commutes, with reduced travel times."
+          ],
+          "source": "Indian Railways",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Remain Closed on Thursday Due to Heat Wave",
-      "bullets": [
-        "All schools in West Bengal will remain closed on Thursday due to the heat wave.",
-        "The state government has decided to take precautionary measures to protect students.",
-        "Parents are advised to make alternative arrangements for their children."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "West Bengal's School Dropout Rate Sees Slight Increase",
+          "bullets": [
+            "According to the West Bengal Education Department, the school dropout rate has increased by 5% in the past year.",
+            "The department attributed the rise to lack of access to education in rural areas and inadequate infrastructure in schools.",
+            "What this means for you: Expect increased focus on education initiatives to address the dropout crisis."
+          ],
+          "source": "UNICEF India",
+          "status": "DEVELOPING",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
