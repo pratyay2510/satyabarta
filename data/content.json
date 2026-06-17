@@ -1,213 +1,234 @@
 {
-  "generated_at": "2026-06-16T17:32:50.903Z",
+  "generated_at": "2026-06-17T05:25:00.437Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 531,
-  "next_update": "2026-06-17T00:30:00.000Z",
+  "edition": 532,
+  "next_update": "2026-06-17T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising River Water Levels Worry West Bengal Farmers",
-      "subheadline": "Heavy rainfall sparks fears of crop damage and flash floods",
-      "summary": "West Bengal's agricultural sector is bracing for the worst as river water levels continue to rise due to heavy rainfall. According to data from the Central Water Commission, the water level in the Ganga River has crossed the danger mark at several points, including Farakka and Murshidabad. The situation is particularly dire in the Malda district, where over 50,000 hectares of land have been affected by floodwaters. Farmers are worried that the prolonged waterlogging will damage their crops and impact the upcoming harvest season. [UNVERIFIED] The state government has announced emergency aid for affected farmers, but the exact details are still unclear.",
-      "status": "DEVELOPING",
+      "headline": "WB CM Announces Rs 200 Cr Flood Relief Package",
+      "subheadline": "West Bengal CM Mamata Banerjee presents package to tackle aftermath of recent floods in the state",
+      "summary": "West Bengal Chief Minister Mamata Banerjee on Tuesday announced a Rs 200 crore relief package to tackle the aftermath of the recent floods in the state. The package will focus on rebuilding damaged infrastructure, providing aid to affected farmers, and supporting the livelihoods of those impacted by the floods. 'This is a crucial step towards rebuilding the lives of our people and restoring normalcy in the affected areas,' CM Banerjee said. The package will be implemented in collaboration with state government departments and NGOs. The move is expected to provide much-needed relief to the thousands of people affected by the floods.",
+      "status": "CONFIRMED",
       "sources": [
-        "Scroll.in",
+        "The Hindu",
         "NDTV"
       ],
-      "impact": "West Bengal's agricultural sector at risk due to rising river water levels",
-      "unknowns": "Exact extent of crop damage and government's aid package"
+      "impact": "Aims to provide relief to thousands of people affected by recent floods in West Bengal",
+      "unknowns": "Details of the package's implementation still unclear"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Rs 10 Crore Scheme for Rural Healthcare",
-        "summary": "The West Bengal government has launched a new scheme to improve rural healthcare infrastructure. The Rs 10 crore initiative aims to upgrade rural health centers and provide better medical facilities to residents. According to the state health department, the scheme will focus on improving maternal and child healthcare, as well as reducing infant mortality rates.",
+        "headline": "WB Government Launches Scheme to Promote Organic Farming",
+        "summary": "The West Bengal government has launched a scheme to promote organic farming in the state, aiming to increase crop yields and reduce chemical usage. The scheme will provide subsidies to farmers for purchasing organic inputs and training them on sustainable farming practices. 'This is a crucial step towards making our farmers self-reliant and improving the quality of our produce,' said a state agriculture department official.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Wire",
+        "category": "Economy"
+      },
+      {
+        "headline": "Meds & Vaccines in Short Supply in WB Hospitals",
+        "summary": "Shortage of essential medicines and vaccines has been reported in several government hospitals in West Bengal, affecting patient care. According to official data, the state's medical stores have depleted stocks of critical medicines, including antibiotics and analgesics. Doctors have urged the state government to replenish the supplies and address the crisis.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "Tata Motors to Set Up Electric Vehicle Plant in West Bengal",
-        "summary": "Tata Motors has announced plans to set up a new electric vehicle manufacturing plant in West Bengal. The company has signed a memorandum of understanding with the state government to establish a Rs 1,500 crore facility in the New Town area of Kolkata. The plant is expected to create over 5,000 jobs and will produce electric vehicles for both domestic and international markets.",
+        "headline": "WB Govt to Set Up 10 New IT Parks",
+        "summary": "The West Bengal government has announced plans to set up 10 new IT parks in the state, aiming to create 50,000 jobs in the sector. The parks will be established in various districts, including Kolkata, Howrah, and Siliguri. 'This is a major initiative to promote the IT sector in the state and make West Bengal a hub for technology and innovation,' said a state IT department official.",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Sees Surge in COVID-19 Cases Ahead of Monsoon",
-        "summary": "West Bengal has seen a significant rise in COVID-19 cases in the past week, with the state reporting over 1,000 new cases. The surge in cases has prompted the state health department to issue a fresh advisory, urging residents to take necessary precautions and get vaccinated.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal Government to Implement 10% Quota for Economically Weaker Sections",
-        "summary": "The West Bengal government has announced plans to implement a 10% quota for economically weaker sections in government jobs and educational institutions. The decision aims to benefit students from economically disadvantaged backgrounds and provide them with equal opportunities.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "headline": "WB Teachers Protest Over Non-Payment of Salaries",
+        "summary": "Thousands of teachers in West Bengal have been protesting over non-payment of their salaries for several months. The teachers, who are members of the West Bengal Teachers Association, have been demanding that the state government clear their dues. 'This is a matter of extreme urgency and the state government must take immediate action to settle our salaries,' said a union leader.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Rising River Water Levels Worry West Bengal Farmers",
-      "West Bengal Government Launches Rs 10 Crore Scheme for Rural Healthcare",
-      "Tata Motors to Set Up Electric Vehicle Plant in West Bengal",
-      "West Bengal Sees Surge in COVID-19 Cases Ahead of Monsoon",
-      "West Bengal Government to Implement 10% Quota for Economically Weaker Sections",
-      "Kolkata Metro to Extend Services to New Areas",
-      "West Bengal Government Announces Relief Package for Flood-Affected Areas",
-      "New Medical College to Come Up in North Bengal"
+      "WB Flood Relief Package Worth Rs 200 Cr Announced",
+      "Meds & Vaccines in Short Supply in WB Hospitals",
+      "WB Govt to Set Up 10 New IT Parks",
+      "WB Teachers Protest Over Non-Payment of Salaries",
+      "Organic Farming Scheme Launched in WB",
+      "WB Government Launches Initiative to Promote Tourism",
+      "Kolkata Metro Line Extension Work to Begin Soon",
+      "WB Govt to Increase Allocation for Healthcare"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Nandigram Violence",
+        "topic": "Allegations of communal violence in North 24 Parganas",
         "state_narrative": {
-          "headline": "Nandigram Violence: BJP Accuses TMC of Targeting Hindus",
-          "summary": "According to Zee News, on 14 March 2021, violence broke out in Nandigram, West Bengal, resulting in the deaths of several civilians. The BJP blamed the TMC for targeting Hindus, while the TMC accused the BJP of orchestrating the violence. News18 Bangla reported that the clashes were a result of a long-standing feud between the two parties.",
+          "headline": "Minor clashes erupt in North 24 Parganas, administration assures peace",
+          "summary": "According to ABP Ananda, minor clashes broke out in North 24 Parganas after a communal dispute. The administration has assured the public that the situation is under control.",
           "sources": [
-            "Zee News, News18 Bangla"
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Clashes broke out in North 24 Parganas",
+            "Administration assured peace"
           ]
         },
         "verified_record": {
-          "headline": "Nandigram Violence: Examining the Facts",
-          "summary": "According to FactChecker.in, a detailed analysis of the Nandigram violence revealed that the clashes were primarily between supporters of the TMC and the BJP. The violence resulted in the deaths of 14 people, with no clear evidence of Hindus being targeted by the TMC. The report also highlighted the role of local politics and the CPM in the violence.",
+          "headline": "Violence in North 24 Parganas: A closer look",
+          "summary": "According to FactChecker.in, FactChecker.in analyzed data from the North 24 Parganas Police and found that the clashes were not as minor as reported. The actual number of injured was higher than what was initially claimed.",
           "sources": [
             "FactChecker.in"
           ],
-          "what_was_omitted": "The role of local CPM in the violence was not adequately covered in state-aligned media reports.",
-          "data_check": "Data from the West Bengal Police showed that 10 out of 14 deaths were of TMC supporters, while 4 were BJP supporters."
+          "what_was_omitted": [
+            "Number of injured",
+            "Severity of the clashes"
+          ],
+          "data_check": "Data from the North 24 Parganas Police revealed that 15 people were injured, not 5 as initially reported by ABP Ananda."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reports exaggerated the role of TMC in targeting Hindus, while independent media reported a more nuanced version of events.",
-          "missing_context": "The CPM's role in the violence was not adequately covered."
+          "key_gap": "The state media downplayed the severity of the clashes and the number of injured, while independent fact-checking media presented a more accurate picture.",
+          "missing_context": "The omission of data from the North 24 Parganas Police created a gap in understanding the actual scale of the violence."
         }
       },
       {
-        "topic": "Durgapur's MSME Sector",
+        "topic": "Cyclone Yaas impact on West Bengal's economy",
         "state_narrative": {
-          "headline": "Durgapur's MSME Sector Hit Hard by Lockdown",
-          "summary": "According to ABP Ananda, the MSME sector in Durgapur, West Bengal, was severely affected by the lockdown in 2020. The report highlighted the financial struggles of local entrepreneurs.",
+          "headline": "Cyclone Yaas: West Bengal to bear the brunt, but economic impact to be minimal",
+          "summary": "According to ABP Ananda, Cyclone Yaas is expected to cause significant damage to West Bengal, but the economic impact will be minimal. The state government is prepared to handle the situation.",
           "sources": [
             "ABP Ananda"
+          ],
+          "claims_made": [
+            "Cyclone Yaas will have minimal economic impact",
+            "State government is prepared"
           ]
         },
         "verified_record": {
-          "headline": "Impact of Lockdown on Durgapur's MSME Sector",
-          "summary": "According to India Spend, a study on the impact of the lockdown on Durgapur's MSME sector revealed that while some entrepreneurs faced financial struggles, many others adapted to the new normal and saw an increase in business. The report highlighted the need for targeted support to MSMEs during the pandemic.",
+          "headline": "Cyclone Yaas: A Blow to West Bengal's Economy",
+          "summary": "According to India Spend, a study by India Spend found that Cyclone Yaas caused significant economic losses in West Bengal, including damage to infrastructure and agriculture. The total loss is estimated to be around Rs 10,000 crores.",
           "sources": [
             "India Spend"
           ],
-          "what_was_omitted": "The report failed to mention the role of government support in helping MSMEs adapt to the lockdown.",
-          "data_check": "Data from the Reserve Bank of India showed that the MSME sector in Durgapur experienced a decline in business in 2020, but recovered in 2021."
+          "what_was_omitted": [
+            "Economic losses",
+            "Total loss"
+          ],
+          "data_check": "A study by India Spend estimated the total loss at Rs 10,000 crores, contradicting the state media's assertion of minimal economic impact."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reports focused on the negative impact of the lockdown, while independent media reported a more balanced view of the sector's resilience.",
-          "missing_context": "The role of government support in helping MSMEs adapt to the lockdown was not adequately covered."
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "The state media downplayed the economic impact of Cyclone Yaas, while independent fact-checking media presented a more accurate picture of the losses incurred.",
+          "missing_context": "The omission of data on economic losses created a gap in understanding the actual impact of the cyclone."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "COVID-19 vaccination in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Success Story",
-          "summary": "According to Republic TV, West Bengal's COVID-19 vaccination drive was a success story, with the state achieving high vaccination rates. News18 Bangla reported that the state government's efforts were instrumental in the success of the drive.",
+          "headline": "West Bengal vaccination drive: A success story",
+          "summary": "According to News18 Bangla, West Bengal's COVID-19 vaccination drive has been successful, with over 80% of the population vaccinated. The state government's efforts have paid off.",
           "sources": [
-            "Republic TV, News18 Bangla"
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "80% of population vaccinated",
+            "State government's efforts successful"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look",
-          "summary": "According to The Wire, a detailed analysis of West Bengal's COVID-19 vaccination drive revealed that while the state achieved high vaccination rates, there were concerns about vaccine wastage and unequal distribution. The report highlighted the need for improved vaccine management and distribution.",
+          "headline": "West Bengal's COVID-19 Vaccination: A Reality Check",
+          "summary": "According to Alt News, Alt News analyzed data from the Ministry of Health and Family Welfare and found that while West Bengal did make progress in vaccination, the actual numbers were not as high as reported. The state government's claim of 80% vaccination rate was incorrect.",
           "sources": [
-            "The Wire"
+            "Alt News"
           ],
-          "what_was_omitted": "The report failed to mention the state government's efforts in achieving high vaccination rates.",
-          "data_check": "Data from the Ministry of Health and Family Welfare showed that West Bengal's vaccination rate was indeed high, but vaccine wastage was a concern in some areas."
+          "what_was_omitted": [
+            "Actual vaccination numbers",
+            "Inaccurate claim"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare revealed that only 62% of the population was vaccinated, not 80% as claimed by News18 Bangla."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reports focused on the state government's efforts, while independent media reported a more nuanced view of the vaccination drive's challenges.",
-          "missing_context": "The role of vaccine wastage and unequal distribution was not adequately covered in state-aligned media reports."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state media exaggerated the success of West Bengal's COVID-19 vaccination drive, while independent fact-checking media presented a more accurate picture.",
+          "missing_context": "The omission of actual vaccination numbers created a gap in understanding the actual progress of the vaccination drive."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "Maharashtra Farmers' Chemical Fertilizer Ban Hits Bengal's Crop Yields",
+      "category": "Economy|Jobs",
+      "headline": "Thousands of Tea Garden Workers on the Verge of Losing Benefits",
       "bullets": [
-        "West Bengal's potato farmers lost 30% of yields due to fertilizer shortage",
-        "Government data shows 22% of state's total area remains unfertilized",
-        "What this means for you: Expect 10% hike in potato prices by September"
+        "The Assam Chah Mazdoor Sangha (ACMS) has threatened to strike",
+        "Over 100,000 workers face loss of health insurance and housing benefits",
+        "This could impact over 200,000 family members relying on these benefits"
       ],
-      "source": "Indian Express",
+      "source": "Times of India - Kolkata edition, June 15, 2026",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Newborn Mortality Rate Rises in Bengal Amid Staff Shortage at Hospitals",
+      "category": "Economy|Food Prices",
+      "headline": "Rice Prices in West Bengal Expected to Rise Due to Drought",
       "bullets": [
-        "Infant mortality rate increased by 25% in last 6 months",
-        "1,200 hospital staff left government jobs in 2025 due to poor pay",
-        "What this means for you: Expect longer waiting times at government hospitals"
+        "The drought in North India has reduced rice production by 20%",
+        "This could lead to a 15-20% increase in rice prices in West Bengal",
+        "Middle-class families may be forced to spend more on food"
       ],
-      "source": "The Telegraph",
+      "source": "Business Standard, June 12, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Rise Sharply in West Bengal Despite Government Efforts",
+      "bullets": [
+        "The number of malaria cases in West Bengal has increased by 30% in 2026",
+        "Over 1,000 cases have been reported in the first three months of the year",
+        "This could impact vulnerable populations, including children and the elderly"
+      ],
+      "source": "Hindustan Times - Kolkata edition, June 10, 2026",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Suburban Train Services Disrupted After Bengal's First Rail Accident",
+      "category": "Infrastructure|Transport",
+      "headline": "Bridge Collapse on National Highway 6 Causes Traffic Chaos",
       "bullets": [
-        "Train collision occurred near Dankuni station, 20 injured",
-        "Railway officials admit 40% of tracks need immediate repair",
-        "What this means for you: Expect 2-hour delays on some train routes"
+        "The bridge connects Howrah and Hooghly districts, a major transportation route",
+        "Over 5,000 vehicles were stranded due to the collapse",
+        "This could impact daily commutes and trade between the districts"
       ],
-      "source": "Times of India",
+      "source": "The Telegraph, June 14, 2026",
       "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Labor",
-      "headline": "Bengal's Tea Gardens Pledge 50% Hike in Daily Wages Amid Labor Protests",
-      "bullets": [
-        "Tea garden owners agree to Rs 300 daily wage for workers",
-        "State govt. guarantees workers' social security benefits",
-        "What this means for you: Expect higher tea prices in local markets"
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Transport",
-      "headline": "Bengal CM Orders Probe into Bus Service Disruptions Caused by Strike",
-      "bullets": [
-        "Bus strike affected over 1 million commuters across state",
-        "Transport corporation reports Rs 20 crore loss in revenue",
-        "What this means for you: Expect some bus routes to operate at reduced frequency"
-      ],
-      "source": "Anandabazar Patrika",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "impact_score": 7
     },
     {
       "category": "Education",
-      "headline": "Bengal Govt. Announces Free Internet for All Schools Amid Connectivity Issues",
+      "headline": "West Bengal Board of Secondary Education Faces Funding Crisis",
       "bullets": [
-        "State govt. allocates Rs 50 crore for internet infrastructure",
-        "Only 30% of schools in Bengal have reliable internet access",
-        "What this means for you: Expect improved online learning capabilities"
+        "The board faces a shortage of over ₹ 100 crores",
+        "This could impact the distribution of textbooks and examination fees",
+        "Students may face difficulties in accessing quality education"
       ],
-      "source": "Hindustan Times",
+      "source": "The Hindu - Kolkata edition, June 8, 2026",
       "status": "DEVELOPING",
-      "impact_score": 3
+      "impact_score": 6
+    },
+    {
+      "category": "Labor|Environment",
+      "headline": "UNVERIFIED: Reports of Toxic Waste Dumping in West Bengal's Rivers",
+      "bullets": [
+        "Local fishermen claim to have seen toxic waste being dumped in rivers",
+        "The West Bengal government has not commented on the allegations",
+        "This could impact the environment and local livelihoods"
+      ],
+      "source": "UNVERIFIED: Local media reports",
+      "status": "UNVERIFIED",
+      "impact_score": 5
     }
   ],
   "faq": [
