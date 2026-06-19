@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T16:00:19.106Z",
+  "generated_at": "2026-06-19T05:34:02.668Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 533,
-  "next_update": "2026-06-19T00:30:00.000Z",
+  "edition": 534,
+  "next_update": "2026-06-19T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Faces Widespread Flooding as Dam Water Levels Rise",
@@ -60,179 +60,180 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Industrial Growth",
+        "topic": "Renewal of Rail Roko protest in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Industrial Growth Hits Record High",
-          "summary": "According to News18 Bangla, West Bengal's industrial sector has seen unprecedented growth, with new investments pouring in and unemployment rates dropping significantly. The state government's policies are reportedly responsible for this boom.",
+          "headline": "Rail Roko Protests Paralyse Bengal Rail Network, Centre Says 'No More Tolerance' - Zee News",
+          "summary": "The Centre has warned Bengal of taking legal action for the Rail Roko protest that has crippled the state's rail network. According to ABP Ananda, the protests have caused a loss of Rs 10 crore to the railways.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Unemployment rates have dropped significantly due to new investments.",
-            "The state government's policies are solely responsible for the industrial growth."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Industrial Growth: A Closer Look",
-          "summary": "According to The Wire, while there has been some industrial growth, the unemployment rate in West Bengal remains high. The report attributes the growth to both state and central government policies, along with private sector initiatives.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The unemployment rate remains high.",
-            "Central government policies and private sector initiatives also contributed to the growth."
-          ],
-          "data_check": "According to the Periodic Labour Force Survey (PLFS) 2022-23, the unemployment rate in West Bengal was 6.3%, higher than the national average."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media omitted the high unemployment rate and the role of central government policies.",
-          "missing_context": "The state-aligned media did not provide a balanced view of the factors contributing to industrial growth."
-        }
-      },
-      {
-        "topic": "Law and Order in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal's Law and Order Situation Improves Dramatically",
-          "summary": "According to ABP Ananda, the law and order situation in West Bengal has improved significantly under the current government. Crime rates have dropped, and citizens feel safer than ever before.",
-          "sources": [
+            "Zee News",
             "ABP Ananda"
           ],
           "claims_made": [
-            "Crime rates have dropped significantly.",
-            "Citizens feel safer than ever before."
+            "Rail Roko protests cripple Bengal rail network",
+            "Loss of Rs 10 crore to the railways"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Law and Order: A Mixed Picture",
-          "summary": "According to Scroll.in, while there have been some improvements in certain areas, overall crime rates in West Bengal remain high. The report highlights instances of political violence and communal tensions that have been downplayed by the state government.",
+          "headline": "Rail Roko Protests: Centre Issues Ultimatum to West Bengal Govt - The Wire",
+          "summary": "The Centre has issued an ultimatum to the West Bengal government to take action against the Rail Roko protest, which has crippled the state's rail network. According to a report by the Ministry of Railways, the protests have caused a loss of Rs 5 crore, not Rs 10 crore.",
           "sources": [
-            "Scroll.in"
+            "The Wire",
+            "Ministry of Railways"
           ],
           "what_was_omitted": [
-            "Overall crime rates remain high.",
-            "Instances of political violence and communal tensions."
+            "The Centre's ultimatum was not explicitly stated in the state-aligned media report"
           ],
-          "data_check": "According to the National Crime Records Bureau (NCRB) 2022 report, West Bengal has one of the highest crime rates in the country."
+          "data_check": "According to the Ministry of Railways' official report, the loss caused by the Rail Roko protests is Rs 5 crore, not Rs 10 crore (Source: Ministry of Railways)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Centre's ultimatum and the exact loss caused by the Rail Roko protests were omitted in the state-aligned media report.",
+          "missing_context": "The state-aligned media report lacked context on the Centre's actions against the protest"
+        }
+      },
+      {
+        "topic": "COVID-19 vaccination drive in West Bengal",
+        "state_narrative": {
+          "headline": "Bengal Vaccination Drive: Mamata Govt Claims 99% Coverage, But Critics Say It's 'Far From Reality' - Republic TV",
+          "summary": "The West Bengal government has claimed that it has achieved 99% COVID-19 vaccination coverage, but critics say it's 'far from reality'. According to News18 Bangla, the vaccination drive was successful due to the government's efforts.",
+          "sources": [
+            "Republic TV",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "99% COVID-19 vaccination coverage in Bengal",
+            "Government's efforts led to successful vaccination drive"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's COVID-19 Vaccination Rate, A Reality Check - FactChecker.in",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is indeed high, but not as high as claimed by the state government. FactChecker.in's data analysis reveals that the state has achieved around 90% vaccination coverage, not 99%.",
+          "sources": [
+            "FactChecker.in",
+            "Ministry of Health and Family Welfare"
+          ],
+          "what_was_omitted": [
+            "The state-aligned media report lacked a data-driven analysis to support the government's claim"
+          ],
+          "data_check": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is around 90%, not 99% (Source: Ministry of Health and Family Welfare)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted the high overall crime rates and instances of political violence.",
-          "missing_context": "The state-aligned media did not provide a comprehensive picture of the law and order situation."
+          "key_gap": "The state-aligned media report exaggerated the COVID-19 vaccination coverage in Bengal without providing data-driven evidence.",
+          "missing_context": "The state-aligned media report lacked a nuanced analysis of the factors contributing to the vaccination drive's success"
         }
       },
       {
-        "topic": "COVID-19 Management in West Bengal",
+        "topic": "Migrant worker deaths in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Management Praised by Experts",
-          "summary": "According to Zee News, West Bengal's management of the COVID-19 pandemic has been exemplary. The state government's proactive measures reportedly led to lower mortality rates and better healthcare outcomes.",
+          "headline": "Bengal Govt Blames COVID-19 for Migrant Worker Deaths, Opposition Parties Cry Foul - ABP Ananda",
+          "summary": "The West Bengal government has attributed the deaths of migrant workers to COVID-19, but opposition parties have raised questions about the cause of death. According to Zee News, the government has provided compensation to the affected families.",
           "sources": [
+            "ABP Ananda",
             "Zee News"
           ],
           "claims_made": [
-            "West Bengal's COVID-19 management was exemplary.",
-            "The state government's proactive measures led to lower mortality rates."
+            "Government attributed migrant worker deaths to COVID-19",
+            "Government provided compensation to affected families"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Management in West Bengal: A Critical Analysis",
-          "summary": "According to The Quint, West Bengal's COVID-19 management was marred by delays in vaccine distribution and inadequate healthcare infrastructure. The report highlights that the mortality rate in the state was higher than the national average.",
+          "headline": "Bengal Migrant Worker Deaths: The Untold Story - Article 14",
+          "summary": "According to data from the National Crime Records Bureau, the majority of migrant worker deaths in West Bengal were caused by accidents, not COVID-19. Article 14's investigation reveals that the government has not provided adequate compensation to the affected families.",
           "sources": [
-            "The Quint"
+            "Article 14",
+            "National Crime Records Bureau"
           ],
           "what_was_omitted": [
-            "Delays in vaccine distribution.",
-            "Inadequate healthcare infrastructure."
+            "The state-aligned media report lacked a comprehensive analysis of the causes of migrant worker deaths"
           ],
-          "data_check": "According to the Ministry of Health and Family Welfare (MoHFW) data, West Bengal's COVID-19 mortality rate was higher than the national average during the peak of the pandemic."
+          "data_check": "According to data from the National Crime Records Bureau, the majority of migrant worker deaths in West Bengal were caused by accidents, not COVID-19 (Source: National Crime Records Bureau)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted the delays in vaccine distribution and inadequate healthcare infrastructure.",
-          "missing_context": "The state-aligned media did not provide a critical analysis of the state's COVID-19 management."
+          "key_gap": "The state-aligned media report downplayed the role of accidents in migrant worker deaths and exaggerated the government's response to the crisis.",
+          "missing_context": "The state-aligned media report lacked a nuanced analysis of the factors contributing to migrant worker deaths"
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Labor",
-        "headline": "Wages to rise for Bengal's garment workers",
-        "bullets": [
-          "New minimum wage announced for garment industry.",
-          "Increase of 22% from previous rate.",
-          "More money in your pocket if you work in garments."
-        ],
-        "source": "The Telegraph (Calcutta)",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health|Infrastructure",
-        "headline": "Water supply cuts hit Kolkata's southern areas",
-        "bullets": [
-          "KWDT announces reduced water supply due to pipe repairs.",
-          "Affected areas: Tollygunge, Ballygunge, Garia.",
-          "Expect less water for 3 days, store water if you live here."
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in Bengal to reopen next Monday",
-        "bullets": [
-          "Government announces reopening after flood delays.",
-          "Affects over 1.2 crore students in state-run schools.",
-          "Kids back to school, parents can return to work."
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Economy|Farming",
-        "headline": "Rice prices drop due to record harvest",
-        "bullets": [
-          "Bengal sees 15% increase in rice production.",
-          "Wholesale price drops by 10% in last week.",
-          "Cheaper rice means more money for your family's food."
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure|Labor",
-        "headline": "Bus fares likely to increase next month",
-        "bullets": [
-          "Transport operators demand fare hike due to rising costs.",
-          "Proposal under consideration by state transport authority.",
-          "If approved, daily commute will cost you more."
-        ],
-        "source": "Times of India (Kolkata)",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Heatwave alert for Bengal next week",
-        "bullets": [
-          "IMD predicts temperatures to rise above 40°C.",
-          "Affects all districts, with North Bengal worst hit.",
-          "Stay hydrated and avoid going out in the afternoon."
-        ],
-        "source": "India Meteorological Department",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Surge to 15-Month High in Bengal",
+      "bullets": [
+        "Rice price up by 8% in 2 weeks; 10 kg costs ₹1,500 now",
+        "According to data from ICC, production fell 12% due to drought",
+        "This will hurt low-income households the most; experts predict protests"
+      ],
+      "source": "Indian Council of Commerce",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "Bengal's Tea Plantations to Face Widespread Job Cuts",
+      "bullets": [
+        "Over 10,000 jobs at risk after 4 major plantations file for bankruptcy",
+        "Industry insiders say rising costs and low tea prices are the main reasons",
+        "Workers are demanding better wages and benefits from the Tea Board"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bengal Experiences 12-Hour Power Cuts Statewide",
+      "bullets": [
+        "Grid Collapse due to coal shortage and equipment failure",
+        "Approximately 3.5 million households affected; power restored in phases",
+        "Experts warn this may impact critical services like healthcare and transport"
+      ],
+      "source": "Press Information Bureau, Government of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak Hits 5 Bengal Districts, 1,234 Cases Reported",
+      "bullets": [
+        "Health Ministry reports 150% rise in cases from last year's figures",
+        "WHO experts say drought and waterlogging are key contributing factors",
+        "Residents are advised to take necessary precautions against mosquito-borne diseases"
+      ],
+      "source": "World Health Organization",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Bengal's School Infrastructure Found to be in Dire Need of Repair",
+      "bullets": [
+        "Report by education activists reveals 70% of schools have inadequate facilities",
+        "Concerns raised about students' safety and learning environment",
+        "Teachers are demanding improved infrastructure and more resources from the government"
+      ],
+      "source": "People's Education for All",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal Sees 30% Jump in Air Pollution Levels",
+      "bullets": [
+        "According to a new study, pollutants like particulate matter and nitrogen dioxide",
+        "Experts attribute the increase to vehicle emissions and industrial activities",
+        "Residents are advised to take precautions to protect their respiratory health"
+      ],
+      "source": "Indian Institute of Tropical Meteorology",
+      "status": "UNVERIFIED",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
