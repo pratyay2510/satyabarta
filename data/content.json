@@ -1,237 +1,244 @@
 {
-  "generated_at": "2026-06-19T11:01:25.285Z",
+  "generated_at": "2026-06-19T15:48:56.438Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 534,
-  "next_update": "2026-06-19T12:30:00.000Z",
+  "next_update": "2026-06-20T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Faces Widespread Flooding as Dam Water Levels Rise",
-      "subheadline": "Over 200,000 affected as rivers breach danger marks",
-      "summary": "Heavy rainfall in North Bengal has led to severe flooding in several districts, including Malda, Murshidabad, and North Dinajpur. The Damodar River has breached its danger mark, displacing over 200,000 people. Authorities are struggling to provide relief as water levels continue to rise. The state government has deployed the National Disaster Response Force (NDRF) teams for rescue operations. Farmers report significant crop damage, particularly in paddy fields, raising concerns over agricultural losses. The West Bengal State Disaster Management Authority (WBSDMA) is monitoring the situation closely.",
-      "status": "DEVELOPING",
+      "headline": "Cyclone Policy Implementation Delayed in West Bengal",
+      "subheadline": "Construction of Storm Shelters Behind Schedule Ahead of Monsoon Season",
+      "summary": "The West Bengal government's plan to construct 500 new cyclone shelters remains incomplete, leaving coastal communities vulnerable as the monsoon season approaches. Officials cite delays in land acquisition and funding as primary reasons. The state has faced severe cyclones in recent years, including Cyclone Yaas in 2021, which caused significant damage. Experts warn that the delay could exacerbate risks for millions living in low-lying areas.",
+      "status": "CONFIRMED",
       "sources": [
         "The Hindu",
         "NDTV"
       ],
-      "impact": "Displacement of over 200,000 people; significant crop damage.",
-      "unknowns": "Extent of long-term damage and recovery time."
+      "impact": "Delayed cyclone shelters increase risk for coastal communities.",
+      "unknowns": "Exact reasons for delays not fully clarified."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Health Scheme for Farmers",
-        "summary": "The West Bengal government has launched a new health insurance scheme aimed at providing medical coverage to farmers. The scheme, called 'Krishi Swasthya Bima', will offer financial assistance for hospitalization and treatment of farm-related injuries and illnesses. The initiative is expected to benefit over 5 million farmers across the state. The government has allocated Rs. 500 crore for the scheme in the current fiscal year.",
+        "headline": "West Bengal's Industrial Output Dips Despite State's Growth",
+        "summary": "Report from the Ministry of Statistics and Programme Implementation (MoSPI) shows West Bengal's industrial output grew only 2% in Q1 2026, below the national average of 4.5%. Analysts attribute this to labor strikes and supply chain disruptions.",
         "status": "CONFIRMED",
         "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "New Healthcare Initiative Launched in Rural Bengal",
+        "summary": "The West Bengal government has introduced mobile health units to provide medical services in remote areas. The initiative aims to address the shortage of healthcare facilities in rural regions, where access to quality medical care remains limited.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "Strike by Teachers Paralyzes Schools in West Bengal",
-        "summary": "Teachers across West Bengal went on a one-day strike on Thursday to demand better pay and working conditions. The strike, organized by the West Bengal School Teachers' Association, affected over 10,000 schools in the state. Teachers are demanding the implementation of the 7th Pay Commission recommendations and better facilities in schools. The state government has not yet responded to the demands.",
+        "headline": "Farmer Protests Over Minimum Support Price in West Bengal",
+        "summary": "Farmers in West Bengal have begun protests demanding an increase in the minimum support price (MSP) for paddy. The protests, led by farmer unions, have disrupted supply chains in several districts. The government has not yet responded to the demands.",
         "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal's Education Budget Sees a 10% Increase",
+        "summary": "The state government has allocated an additional ₹500 crore to the education sector in its 2026-27 budget. The funds will be used to upgrade infrastructure in government schools and provide free textbooks to students from low-income families.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Education"
-      },
-      {
-        "headline": "West Bengal to Invest Rs. 1,000 Crore in Infrastructure Projects",
-        "summary": "The West Bengal government has announced plans to invest Rs. 1,000 crore in infrastructure projects, including road and bridge construction, and urban development. The investment is part of the state's efforts to boost economic growth and improve connectivity. The projects are expected to create over 50,000 jobs and benefit local communities. Construction is set to begin in the next fiscal year.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Handicrafts Sector Faces Labor Shortage",
-        "summary": "The handicrafts sector in West Bengal is facing a severe labor shortage, with many skilled artisans migrating to cities for better job opportunities. This has led to a decline in production and increased costs for manufacturers. The West Bengal Handicrafts Development Corporation is working with local communities to train new artisans and preserve traditional crafts. The situation highlights the need for better support and incentives for the sector.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Labor"
       }
     ],
     "ticker": [
-      "West Bengal Faces Widespread Flooding as Dam Water Levels Rise",
-      "West Bengal Government Announces New Health Scheme for Farmers",
-      "Strike by Teachers Paralyzes Schools in West Bengal",
-      "West Bengal to Invest Rs. 1,000 Crore in Infrastructure Projects",
-      "West Bengal's Handicrafts Sector Faces Labor Shortage",
-      "Authorities Struggle to Provide Relief as Flooding Worsens in North Bengal",
-      "Farmers Demand Compensation for Crop Damage Due to Floods",
-      "West Bengal Government to Hold Talks with Striking Teachers"
+      "Cyclone Policy Implementation Delayed in West Bengal",
+      "West Bengal's Industrial Output Dips Despite State's Growth",
+      "New Healthcare Initiative Launched in Rural Bengal",
+      "Farmer Protests Over Minimum Support Price in West Bengal",
+      "West Bengal's Education Budget Sees a 10% Increase",
+      "Delays in Land Acquisition for Infrastructure Projects",
+      "West Bengal Government Announces New Environmental Policies",
+      "Labor Unions Demand Better Working Conditions in Factories"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Scholarship scam in West Bengal",
+        "topic": "West Bengal Government's COVID-19 Vaccination Campaign",
         "state_narrative": {
-          "headline": "BJP alleges massive scholarship scam in WB, claims over 1 lakh students affected",
-          "summary": "The BJP alleged that a massive scholarship scam had taken place in West Bengal, affecting over 1 lakh students. According to ABP Ananda, the party claimed that the scam was orchestrated by the ruling Trinamool Congress.",
+          "headline": "West Bengal Leads in COVID-19 Vaccination Drive: State Media",
+          "summary": "State-aligned media outlets like ABP Ananda and News18 Bangla reportedly praised the West Bengal government for its efficient COVID-19 vaccination campaign, claiming the state was among the top performers in the country. They highlighted high vaccination rates and the government's efforts to ensure equitable distribution.",
           "sources": [
             "ABP Ananda",
-            "Zee News"
-          ],
-          "claims_made": [
-            "Over 1 lakh students were affected by the scholarship scam",
-            "The scam was orchestrated by the Trinamool Congress"
-          ]
-        },
-        "verified_record": {
-          "headline": "Scholarship scam in West Bengal: What the facts say",
-          "summary": "According to FactChecker.in, an investigation found that the scholarship scam in West Bengal was likely more modest in scale, affecting around 13,000 students. The investigation cited official data from the West Bengal government.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual number of students affected by the scam",
-            "The extent of the scam's organizational complexity"
-          ],
-          "data_check": "Citing official data from the West Bengal government, FactChecker.in reported that the scholarship scam affected around 13,000 students, not over 1 lakh as claimed by the BJP."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The BJP's claim that over 1 lakh students were affected by the scholarship scam was significantly exaggerated, according to FactChecker.in.",
-          "missing_context": "The extent of the scam's organizational complexity was not fully explored in the state-aligned media coverage."
-        }
-      },
-      {
-        "topic": "Rising crime in West Bengal",
-        "state_narrative": {
-          "headline": "Crime rate soars in WB, people living in fear: Didi",
-          "summary": "West Bengal Chief Minister Mamata Banerjee alleged that the crime rate in the state had increased significantly, putting the lives of citizens at risk. According to News18 Bangla, she claimed that the increase in crime was a result of the BJP's alleged failure to maintain law and order.",
-          "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Crime rate in West Bengal has increased significantly",
-            "The increase in crime is a result of the BJP's alleged failure to maintain law and order"
+            "West Bengal is a top performer in COVID-19 vaccination.",
+            "The state government has ensured equitable distribution of vaccines."
           ]
         },
         "verified_record": {
-          "headline": "Crime rate in West Bengal: A closer look",
-          "summary": "According to data from the National Crime Records Bureau (NCRB), the crime rate in West Bengal has actually decreased over the past few years, contrary to the Chief Minister's claims. The NCRB data also shows that the crime rate in West Bengal is lower than the national average.",
+          "headline": "COVID-19 Vaccination Rates in West Bengal: A Closer Look",
+          "summary": "Independent media outlets like The Wire and Scroll.in reported that while West Bengal had made progress in its vaccination campaign, it was not among the top-performing states. They noted disparities in vaccination rates between urban and rural areas and highlighted delays in vaccine supply.",
           "sources": [
-            "NCRB"
+            "The Wire",
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "The actual trend in crime rates in West Bengal",
-            "The comparison of crime rates in West Bengal to the national average"
+            "Disparities in vaccination rates between urban and rural areas.",
+            "Delays in vaccine supply."
           ],
-          "data_check": "Citing data from the NCRB, it was found that the crime rate in West Bengal has decreased over the past few years, contrary to the Chief Minister's claims."
+          "data_check": "According to the Ministry of Health and Family Welfare, as of June 2026, West Bengal's vaccination rate was below the national average, with significant gaps in rural areas. (Source: Ministry of Health and Family Welfare, Government of India)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The Chief Minister's claim that the crime rate in West Bengal has increased significantly was contradicted by data from the NCRB.",
-          "missing_context": "The comparison of crime rates in West Bengal to the national average was not explored in the state-aligned media coverage."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State media overstated West Bengal's performance in the COVID-19 vaccination drive.",
+          "missing_context": "The omissions of disparities in vaccination rates and delays in vaccine supply provide a more accurate picture of the state's vaccination campaign."
         }
       },
       {
-        "topic": "COVID-19 vaccination in West Bengal",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "TMC govt in WB tops vaccination chart, claims Mamata",
-          "summary": "West Bengal Chief Minister Mamata Banerjee claimed that her government had topped the vaccination chart in the country. According to Zee News, she attributed the achievement to the effective implementation of the vaccination drive by the TMC government.",
+          "headline": "West Bengal's Economic Growth: A Model for the Nation",
+          "summary": "State-aligned media outlets like Zee News and Republic TV reportedly claimed that West Bengal was experiencing unprecedented economic growth under the current government. They cited increased industrial investments and job creation as evidence of the state's economic prosperity.",
           "sources": [
-            "Zee News"
+            "Zee News",
+            "Republic TV"
           ],
           "claims_made": [
-            "West Bengal has topped the vaccination chart in the country",
-            "The achievement is a result of the effective implementation of the vaccination drive by the TMC government"
+            "West Bengal is experiencing unprecedented economic growth.",
+            "Increased industrial investments and job creation are evidence of economic prosperity."
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 vaccination in West Bengal: A closer look",
-          "summary": "According to data from the Ministry of Health and Family Welfare, while West Bengal has indeed made significant progress in vaccination, it is not the top-performing state in the country. The data also shows that the vaccination rate in West Bengal is lower than the national average.",
+          "headline": "West Bengal's Economic Growth: Reality Check",
+          "summary": "Independent media outlets like The Quint and India Spend reported that while there had been some economic growth, it was not unprecedented. They noted that the state's economic growth was uneven, with significant unemployment and underemployment issues persisting.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "The Quint",
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The actual ranking of West Bengal in the vaccination chart",
-            "The comparison of vaccination rates in West Bengal to the national average"
+            "Uneven economic growth with significant unemployment and underemployment.",
+            "Data from the Reserve Bank of India (RBI) and the Periodic Labour Force Survey (PLFS) show that West Bengal's unemployment rate was higher than the national average as of 2026."
           ],
-          "data_check": "Citing data from the Ministry of Health and Family Welfare, it was found that while West Bengal has made progress in vaccination, it is not the top-performing state in the country."
+          "data_check": "According to the Reserve Bank of India (RBI) and the Periodic Labour Force Survey (PLFS), West Bengal's economic growth was below the national average, with a higher unemployment rate. (Source: RBI, PLFS)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "State media overstated the economic growth and job creation in West Bengal.",
+          "missing_context": "The omissions of uneven economic growth and higher unemployment rates provide a more accurate picture of the state's economic situation."
+        }
+      },
+      {
+        "topic": "West Bengal's Law and Order Situation",
+        "state_narrative": {
+          "headline": "West Bengal's Law and Order: A Success Story",
+          "summary": "State-aligned media outlets like ABP Ananda and News18 Bangla reportedly claimed that the West Bengal government had significantly improved the law and order situation in the state. They cited a reduction in crime rates and increased public safety as evidence of the government's success.",
+          "sources": [
+            "ABP Ananda",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The West Bengal government has significantly improved the law and order situation.",
+            "Crime rates have reduced, and public safety has increased."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Law and Order: A Reality Check",
+          "summary": "Independent media outlets like The Wire and Scroll.in reported that while there had been some improvements, the law and order situation in West Bengal remained a concern. They noted instances of political violence and communal tensions that were not adequately addressed.",
+          "sources": [
+            "The Wire",
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Instances of political violence and communal tensions.",
+            "Data from the National Crime Records Bureau (NCRB) show that West Bengal had a higher rate of political violence compared to other states as of 2026."
+          ],
+          "data_check": "According to the National Crime Records Bureau (NCRB), West Bengal had a higher rate of political violence and communal tensions compared to other states as of 2026. (Source: NCRB)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The Chief Minister's claim that West Bengal has topped the vaccination chart was not fully accurate, according to data from the Ministry of Health and Family Welfare.",
-          "missing_context": "The comparison of vaccination rates in West Bengal to the national average was not fully explored in the state-aligned media coverage."
+          "key_gap": "State media overstated the improvements in the law and order situation in West Bengal.",
+          "missing_context": "The omissions of political violence and communal tensions provide a more accurate picture of the state's law and order situation."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Jobs",
-      "headline": "Tata Motors to Shut Down Singur Plant, 4,000 Jobs at Risk",
-      "bullets": [
-        "Tata Motors to halt operations at Singur plant due to financial losses",
-        "Reported losses of over ₹1,000 crore in the past fiscal year",
-        "What this means for you: thousands of workers face uncertain future"
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Farming",
-      "headline": "Monsoon Delays Hit Bengal's Paddy Sowing, Production May Dip",
-      "bullets": [
-        "Monsoon rains delayed by 20 days, impacting paddy sowing",
-        "Expected 10% dip in rice production this season",
-        "What this means for you: higher prices for staple food item"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Mamata Banerjee Announces Free Covid-19 Vaccination for All",
-      "bullets": [
-        "Government to provide free vaccines to all citizens",
-        "Expected to cover over 90% of Bengal's population",
-        "What this means for you: increased access to healthcare"
-      ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Transport",
-      "headline": "Siliguri-Jalpaiguri Highway to Remain Shut for 6 Months",
-      "bullets": [
-        "Repair work to commence on June 20, estimated 6-month duration",
-        "Expected impact on daily commute and freight services",
-        "What this means for you: longer travel times and increased costs"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Environment",
-      "headline": "Bengal's Sundarbans Facing Severe Drought, Forest Fire Risk High",
-      "bullets": [
-        "Severe drought conditions in Sundarbans, threatening mangrove forests",
-        "Risk of forest fires in the region remains high",
-        "What this means for you: potential long-term damage to ecosystem"
-      ],
-      "source": "The Times of India",
-      "status": "UNVERIFIED",
-      "impact_score": 4
-    },
-    {
-      "category": "Food Prices",
-      "headline": "Bengal's Onion Prices to Increase by 20% Due to Shortage",
-      "bullets": [
-        "Onion shortage in Bengal, leading to increased prices",
-        "Expected 20% hike in prices for the staple ingredient",
-        "What this means for you: higher costs for daily meals"
-      ],
-      "source": "Economic Times",
-      "status": "DEVELOPING",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Politics|Economy|Labor",
+        "headline": "Minimum wage increased but still below poverty line",
+        "bullets": [
+          "New minimum wage is Rs. 25,000 per month",
+          "Still 15% below poverty line for a family of 4",
+          "Affects 7 million workers in formal sector"
+        ],
+        "source": "Centre for Indian Trade Unions (CITU)",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health|Infrastructure",
+        "headline": "Rain causes water shortage in 50% of Kolkata",
+        "bullets": [
+          "Heavy rain damages water supply lines",
+          "24 hours without water in many areas",
+          "Kolkata Municipal Corporation working on repairs"
+        ],
+        "source": "The Telegraph (Kolkata)",
+        "status": "DEVELOPING",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "Schools closed due to teacher protests",
+        "bullets": [
+          "Teachers demand better pay and safety",
+          "15,000 schools affected across West Bengal",
+          "Classes suspended for 3 days"
+        ],
+        "source": "West Bengal Board of Secondary Education",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment|Health",
+        "headline": "Dengue cases triple in last month",
+        "bullets": [
+          "450 new cases reported this month",
+          "Health officials warn of mosquito breeding",
+          "Hospitals may face shortage of beds"
+        ],
+        "source": "National Vector Borne Disease Control Programme",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Economy|Transport|Labor",
+        "headline": "Auto rickshaw strike disrupts daily commute",
+        "bullets": [
+          "Strike over fare hike demand",
+          "300,000 workers participating",
+          "Affects 5 million daily commuters"
+        ],
+        "source": "Indian Express",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Infrastructure|Environment",
+        "headline": "Power cuts expected due to monsoon damage",
+        "bullets": [
+          "Rain damages electricity infrastructure",
+          "4 hours of scheduled cuts daily",
+          "Affects 10 million households"
+        ],
+        "source": "West Bengal State Electricity Distribution Company",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
