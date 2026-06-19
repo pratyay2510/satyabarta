@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T05:34:02.668Z",
+  "generated_at": "2026-06-19T11:01:25.285Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 534,
-  "next_update": "2026-06-19T06:30:00.000Z",
+  "next_update": "2026-06-19T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Faces Widespread Flooding as Dam Water Levels Rise",
@@ -60,178 +60,176 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Renewal of Rail Roko protest in West Bengal",
+        "topic": "Scholarship scam in West Bengal",
         "state_narrative": {
-          "headline": "Rail Roko Protests Paralyse Bengal Rail Network, Centre Says 'No More Tolerance' - Zee News",
-          "summary": "The Centre has warned Bengal of taking legal action for the Rail Roko protest that has crippled the state's rail network. According to ABP Ananda, the protests have caused a loss of Rs 10 crore to the railways.",
-          "sources": [
-            "Zee News",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Rail Roko protests cripple Bengal rail network",
-            "Loss of Rs 10 crore to the railways"
-          ]
-        },
-        "verified_record": {
-          "headline": "Rail Roko Protests: Centre Issues Ultimatum to West Bengal Govt - The Wire",
-          "summary": "The Centre has issued an ultimatum to the West Bengal government to take action against the Rail Roko protest, which has crippled the state's rail network. According to a report by the Ministry of Railways, the protests have caused a loss of Rs 5 crore, not Rs 10 crore.",
-          "sources": [
-            "The Wire",
-            "Ministry of Railways"
-          ],
-          "what_was_omitted": [
-            "The Centre's ultimatum was not explicitly stated in the state-aligned media report"
-          ],
-          "data_check": "According to the Ministry of Railways' official report, the loss caused by the Rail Roko protests is Rs 5 crore, not Rs 10 crore (Source: Ministry of Railways)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The Centre's ultimatum and the exact loss caused by the Rail Roko protests were omitted in the state-aligned media report.",
-          "missing_context": "The state-aligned media report lacked context on the Centre's actions against the protest"
-        }
-      },
-      {
-        "topic": "COVID-19 vaccination drive in West Bengal",
-        "state_narrative": {
-          "headline": "Bengal Vaccination Drive: Mamata Govt Claims 99% Coverage, But Critics Say It's 'Far From Reality' - Republic TV",
-          "summary": "The West Bengal government has claimed that it has achieved 99% COVID-19 vaccination coverage, but critics say it's 'far from reality'. According to News18 Bangla, the vaccination drive was successful due to the government's efforts.",
-          "sources": [
-            "Republic TV",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "99% COVID-19 vaccination coverage in Bengal",
-            "Government's efforts led to successful vaccination drive"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Rate, A Reality Check - FactChecker.in",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is indeed high, but not as high as claimed by the state government. FactChecker.in's data analysis reveals that the state has achieved around 90% vaccination coverage, not 99%.",
-          "sources": [
-            "FactChecker.in",
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "The state-aligned media report lacked a data-driven analysis to support the government's claim"
-          ],
-          "data_check": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is around 90%, not 99% (Source: Ministry of Health and Family Welfare)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media report exaggerated the COVID-19 vaccination coverage in Bengal without providing data-driven evidence.",
-          "missing_context": "The state-aligned media report lacked a nuanced analysis of the factors contributing to the vaccination drive's success"
-        }
-      },
-      {
-        "topic": "Migrant worker deaths in West Bengal",
-        "state_narrative": {
-          "headline": "Bengal Govt Blames COVID-19 for Migrant Worker Deaths, Opposition Parties Cry Foul - ABP Ananda",
-          "summary": "The West Bengal government has attributed the deaths of migrant workers to COVID-19, but opposition parties have raised questions about the cause of death. According to Zee News, the government has provided compensation to the affected families.",
+          "headline": "BJP alleges massive scholarship scam in WB, claims over 1 lakh students affected",
+          "summary": "The BJP alleged that a massive scholarship scam had taken place in West Bengal, affecting over 1 lakh students. According to ABP Ananda, the party claimed that the scam was orchestrated by the ruling Trinamool Congress.",
           "sources": [
             "ABP Ananda",
             "Zee News"
           ],
           "claims_made": [
-            "Government attributed migrant worker deaths to COVID-19",
-            "Government provided compensation to affected families"
+            "Over 1 lakh students were affected by the scholarship scam",
+            "The scam was orchestrated by the Trinamool Congress"
           ]
         },
         "verified_record": {
-          "headline": "Bengal Migrant Worker Deaths: The Untold Story - Article 14",
-          "summary": "According to data from the National Crime Records Bureau, the majority of migrant worker deaths in West Bengal were caused by accidents, not COVID-19. Article 14's investigation reveals that the government has not provided adequate compensation to the affected families.",
+          "headline": "Scholarship scam in West Bengal: What the facts say",
+          "summary": "According to FactChecker.in, an investigation found that the scholarship scam in West Bengal was likely more modest in scale, affecting around 13,000 students. The investigation cited official data from the West Bengal government.",
           "sources": [
-            "Article 14",
-            "National Crime Records Bureau"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state-aligned media report lacked a comprehensive analysis of the causes of migrant worker deaths"
+            "The actual number of students affected by the scam",
+            "The extent of the scam's organizational complexity"
           ],
-          "data_check": "According to data from the National Crime Records Bureau, the majority of migrant worker deaths in West Bengal were caused by accidents, not COVID-19 (Source: National Crime Records Bureau)"
+          "data_check": "Citing official data from the West Bengal government, FactChecker.in reported that the scholarship scam affected around 13,000 students, not over 1 lakh as claimed by the BJP."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media report downplayed the role of accidents in migrant worker deaths and exaggerated the government's response to the crisis.",
-          "missing_context": "The state-aligned media report lacked a nuanced analysis of the factors contributing to migrant worker deaths"
+          "key_gap": "The BJP's claim that over 1 lakh students were affected by the scholarship scam was significantly exaggerated, according to FactChecker.in.",
+          "missing_context": "The extent of the scam's organizational complexity was not fully explored in the state-aligned media coverage."
+        }
+      },
+      {
+        "topic": "Rising crime in West Bengal",
+        "state_narrative": {
+          "headline": "Crime rate soars in WB, people living in fear: Didi",
+          "summary": "West Bengal Chief Minister Mamata Banerjee alleged that the crime rate in the state had increased significantly, putting the lives of citizens at risk. According to News18 Bangla, she claimed that the increase in crime was a result of the BJP's alleged failure to maintain law and order.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Crime rate in West Bengal has increased significantly",
+            "The increase in crime is a result of the BJP's alleged failure to maintain law and order"
+          ]
+        },
+        "verified_record": {
+          "headline": "Crime rate in West Bengal: A closer look",
+          "summary": "According to data from the National Crime Records Bureau (NCRB), the crime rate in West Bengal has actually decreased over the past few years, contrary to the Chief Minister's claims. The NCRB data also shows that the crime rate in West Bengal is lower than the national average.",
+          "sources": [
+            "NCRB"
+          ],
+          "what_was_omitted": [
+            "The actual trend in crime rates in West Bengal",
+            "The comparison of crime rates in West Bengal to the national average"
+          ],
+          "data_check": "Citing data from the NCRB, it was found that the crime rate in West Bengal has decreased over the past few years, contrary to the Chief Minister's claims."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The Chief Minister's claim that the crime rate in West Bengal has increased significantly was contradicted by data from the NCRB.",
+          "missing_context": "The comparison of crime rates in West Bengal to the national average was not explored in the state-aligned media coverage."
+        }
+      },
+      {
+        "topic": "COVID-19 vaccination in West Bengal",
+        "state_narrative": {
+          "headline": "TMC govt in WB tops vaccination chart, claims Mamata",
+          "summary": "West Bengal Chief Minister Mamata Banerjee claimed that her government had topped the vaccination chart in the country. According to Zee News, she attributed the achievement to the effective implementation of the vaccination drive by the TMC government.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal has topped the vaccination chart in the country",
+            "The achievement is a result of the effective implementation of the vaccination drive by the TMC government"
+          ]
+        },
+        "verified_record": {
+          "headline": "COVID-19 vaccination in West Bengal: A closer look",
+          "summary": "According to data from the Ministry of Health and Family Welfare, while West Bengal has indeed made significant progress in vaccination, it is not the top-performing state in the country. The data also shows that the vaccination rate in West Bengal is lower than the national average.",
+          "sources": [
+            "Ministry of Health and Family Welfare"
+          ],
+          "what_was_omitted": [
+            "The actual ranking of West Bengal in the vaccination chart",
+            "The comparison of vaccination rates in West Bengal to the national average"
+          ],
+          "data_check": "Citing data from the Ministry of Health and Family Welfare, it was found that while West Bengal has made progress in vaccination, it is not the top-performing state in the country."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Chief Minister's claim that West Bengal has topped the vaccination chart was not fully accurate, according to data from the Ministry of Health and Family Welfare.",
+          "missing_context": "The comparison of vaccination rates in West Bengal to the national average was not fully explored in the state-aligned media coverage."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rice Prices Surge to 15-Month High in Bengal",
+      "category": "Jobs",
+      "headline": "Tata Motors to Shut Down Singur Plant, 4,000 Jobs at Risk",
       "bullets": [
-        "Rice price up by 8% in 2 weeks; 10 kg costs ₹1,500 now",
-        "According to data from ICC, production fell 12% due to drought",
-        "This will hurt low-income households the most; experts predict protests"
+        "Tata Motors to halt operations at Singur plant due to financial losses",
+        "Reported losses of over ₹1,000 crore in the past fiscal year",
+        "What this means for you: thousands of workers face uncertain future"
       ],
-      "source": "Indian Council of Commerce",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "Bengal's Tea Plantations to Face Widespread Job Cuts",
+      "category": "Farming",
+      "headline": "Monsoon Delays Hit Bengal's Paddy Sowing, Production May Dip",
       "bullets": [
-        "Over 10,000 jobs at risk after 4 major plantations file for bankruptcy",
-        "Industry insiders say rising costs and low tea prices are the main reasons",
-        "Workers are demanding better wages and benefits from the Tea Board"
+        "Monsoon rains delayed by 20 days, impacting paddy sowing",
+        "Expected 10% dip in rice production this season",
+        "What this means for you: higher prices for staple food item"
       ],
-      "source": "The Telegraph",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal Experiences 12-Hour Power Cuts Statewide",
+      "category": "Health",
+      "headline": "Mamata Banerjee Announces Free Covid-19 Vaccination for All",
       "bullets": [
-        "Grid Collapse due to coal shortage and equipment failure",
-        "Approximately 3.5 million households affected; power restored in phases",
-        "Experts warn this may impact critical services like healthcare and transport"
+        "Government to provide free vaccines to all citizens",
+        "Expected to cover over 90% of Bengal's population",
+        "What this means for you: increased access to healthcare"
       ],
-      "source": "Press Information Bureau, Government of India",
+      "source": "Hindustan Times",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Hits 5 Bengal Districts, 1,234 Cases Reported",
+      "category": "Transport",
+      "headline": "Siliguri-Jalpaiguri Highway to Remain Shut for 6 Months",
       "bullets": [
-        "Health Ministry reports 150% rise in cases from last year's figures",
-        "WHO experts say drought and waterlogging are key contributing factors",
-        "Residents are advised to take necessary precautions against mosquito-borne diseases"
+        "Repair work to commence on June 20, estimated 6-month duration",
+        "Expected impact on daily commute and freight services",
+        "What this means for you: longer travel times and increased costs"
       ],
-      "source": "World Health Organization",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "Bengal's School Infrastructure Found to be in Dire Need of Repair",
+      "category": "Environment",
+      "headline": "Bengal's Sundarbans Facing Severe Drought, Forest Fire Risk High",
       "bullets": [
-        "Report by education activists reveals 70% of schools have inadequate facilities",
-        "Concerns raised about students' safety and learning environment",
-        "Teachers are demanding improved infrastructure and more resources from the government"
+        "Severe drought conditions in Sundarbans, threatening mangrove forests",
+        "Risk of forest fires in the region remains high",
+        "What this means for you: potential long-term damage to ecosystem"
       ],
-      "source": "People's Education for All",
-      "status": "DEVELOPING",
+      "source": "The Times of India",
+      "status": "UNVERIFIED",
       "impact_score": 4
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal Sees 30% Jump in Air Pollution Levels",
+      "category": "Food Prices",
+      "headline": "Bengal's Onion Prices to Increase by 20% Due to Shortage",
       "bullets": [
-        "According to a new study, pollutants like particulate matter and nitrogen dioxide",
-        "Experts attribute the increase to vehicle emissions and industrial activities",
-        "Residents are advised to take precautions to protect their respiratory health"
+        "Onion shortage in Bengal, leading to increased prices",
+        "Expected 20% hike in prices for the staple ingredient",
+        "What this means for you: higher costs for daily meals"
       ],
-      "source": "Indian Institute of Tropical Meteorology",
-      "status": "UNVERIFIED",
-      "impact_score": 2
+      "source": "Economic Times",
+      "status": "DEVELOPING",
+      "impact_score": 3
     }
   ],
   "faq": [
