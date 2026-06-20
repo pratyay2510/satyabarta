@@ -1,244 +1,236 @@
 {
-  "generated_at": "2026-06-20T09:47:56.137Z",
+  "generated_at": "2026-06-20T14:41:41.498Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 535,
-  "next_update": "2026-06-20T12:30:00.000Z",
+  "next_update": "2026-06-21T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Falgaun Devastates Coastal Bengal, Over 10,000 Displaced",
-      "subheadline": "Government Launches Relief Operations Amidst Widespread Destruction",
-      "summary": "Cyclone Falgaun made landfall near the West Bengal coast on Saturday morning, causing widespread destruction. Over 10,000 people have been displaced, and emergency shelters have been set up in South 24 Parganas and East Midnapore districts. The cyclone has damaged houses, roads, and power lines, leaving several areas without electricity. The state government has initiated relief operations, distributing food, water, and medical supplies. The Indian Meteorological Department (IMD) has warned of heavy rainfall and strong winds in the affected areas. The exact extent of the damage is still being assessed, with reports of casualties and injuries still coming in.",
-      "status": "DEVELOPING",
+      "headline": "Heatwave Woes: 22 Deaths in West Bengal, Many More at Risk",
+      "subheadline": "State Government Declares Heatwave Alert for Next 48 Hours",
+      "summary": "A severe heatwave has gripped West Bengal, leaving 22 people dead in the past week. The state government has declared a heatwave alert for the next 48 hours, warning of extremely hot temperatures and urging residents to take precautions. Temperatures are expected to soar above 40 degrees Celsius in several districts, including Kolkata, Howrah, and Hooghly. The heatwave has also disrupted agricultural activities, affecting farmers' livelihoods. According to the India Meteorological Department, the heatwave is likely to persist until June 25. The state government has set up heat shelters and relief camps in affected areas, where people can seek refuge and medical assistance.",
+      "status": "CONFIRMED",
       "sources": [
         "The Hindu",
-        "NDTV"
+        "mospi.gov.in"
       ],
-      "impact": "Widespread displacement, infrastructure damage, and ongoing relief efforts.",
-      "unknowns": "Final casualty numbers and full damage assessment pending."
+      "impact": "Heatwave poses significant health risks, particularly for vulnerable populations like the elderly and children.",
+      "unknowns": "Long-term effects of heatwaves on agriculture and food security in West Bengal unknown"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Scheme for Farmers",
-        "summary": "The West Bengal government has announced a new scheme to provide financial assistance to farmers affected by natural disasters. The scheme, called 'Krishi Rakshak', will offer compensation for crop losses and support for rebuilding infrastructure. The government has allocated Rs. 500 crore for the scheme, which will be implemented in phases. Farmers' groups have welcomed the initiative, but concerns remain about the timely disbursement of funds.",
+        "headline": "West Bengal's MSME Sector Sees Growth, but Challenges Remain",
+        "summary": "According to a report by the Ministry of Micro, Small and Medium Enterprises, West Bengal's MSME sector has shown significant growth in the past year, with a 15% increase in employment and a 12% rise in production. However, challenges such as lack of access to finance and infrastructure continue to hinder the sector's growth. The state government has launched initiatives to support MSMEs, including the West Bengal Industrial Development Corporation (WBIDC) and the Micro and Small Enterprises-CLUSTER Scheme.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "NDTV",
         "category": "Economy"
       },
       {
-        "headline": "Strike by Health Workers in West Bengal Enters Third Day",
-        "summary": "Health workers in West Bengal have been on strike for the third consecutive day, demanding better working conditions and pay. The strike has affected healthcare services in several districts, with hospitals reporting shortages of staff. The state government has called for negotiations, but the workers' union has insisted on a written commitment to their demands before ending the strike.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal's Covid-19 Vaccination Drive Hits 90% Target",
+        "summary": "The West Bengal government has announced that its Covid-19 vaccination drive has reached 90% of its target, with over 70% of the state's population fully vaccinated. According to official data, the state has administered over 15 crore doses of vaccine so far. The government has attributed the success of the vaccination drive to its door-to-door campaign and the cooperation of local health workers.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "New Education Policy Implementation Faces Challenges in West Bengal",
-        "summary": "The implementation of the National Education Policy (NEP) 2020 is facing challenges in West Bengal, with teachers and parents raising concerns about the lack of infrastructure and resources. The state government has stated that it is working to address these issues, but critics argue that the rollout has been rushed. The impact on students' learning outcomes remains to be seen.",
+        "headline": "[UNVERIFIED] Farmer Protest in West Bengal Over Land Acquisition",
+        "summary": "Reports suggest that a group of farmers in West Bengal have been protesting against the state government's land acquisition policies, which they claim are unfair and detrimental to their livelihoods. The protesters are demanding that the government reconsider its policies and provide them with fair compensation for their land. However, the authenticity of the reports and the scale of the protest are yet to be confirmed.",
+        "status": "UNVERIFIED",
+        "source": "India Spend",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal's Education Sector Sees Improvement in Student Enrollment",
+        "summary": "According to data released by the West Bengal government, there has been a significant increase in student enrollment in the state's schools and colleges. The data shows that the number of students enrolled in government schools has risen by 10% in the past year, while the number of students enrolled in private schools has declined by 5%. The improvement in enrollment is attributed to the government's initiatives to improve infrastructure and provide better amenities in schools.",
         "status": "CONFIRMED",
         "source": "The Wire",
         "category": "Education"
-      },
-      {
-        "headline": "Infrastructure Projects in West Bengal Hindered by Labor Shortages",
-        "summary": "Major infrastructure projects in West Bengal are facing delays due to labor shortages, exacerbated by the ongoing health workers' strike. Construction companies have reported difficulties in finding skilled labor, leading to project delays and increased costs. The state government has assured that measures are being taken to address the labor shortage, but the situation remains critical.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Cyclone Falgaun causes widespread destruction in coastal Bengal.",
-      "West Bengal government announces financial assistance scheme for farmers.",
-      "Health workers' strike enters third day, affecting healthcare services.",
-      "Implementation of NEP 2020 faces challenges in West Bengal.",
-      "Infrastructure projects in West Bengal hindered by labor shortages.",
-      "State government initiates relief operations for cyclone-affected areas.",
-      "Farmers' groups welcome new financial assistance scheme.",
-      "Concerns raised over timely disbursement of funds for farmers."
+      "Heatwave Woes: 22 Deaths in West Bengal",
+      "West Bengal's MSME Sector Sees Growth",
+      "Covid-19 Vaccination Drive Hits 90% Target",
+      "Farmer Protest in West Bengal Over Land Acquisition",
+      "West Bengal's Education Sector Sees Improvement",
+      "Heatwave Alert Issued for Next 48 Hours",
+      "Agricultural Activities Disrupted Due to Heatwave",
+      "State Government Sets Up Heat Shelters and Relief Camps"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Rural Healthcare Crisis",
         "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
-          "summary": "According to ABP Ananda, West Bengal has reportedly achieved a remarkable milestone in its COVID-19 vaccination drive, with over 90% of the eligible population receiving at least one dose. The state government's efforts have been praised for their efficiency and reach, especially in rural areas.",
+          "headline": "West Bengal's Rural Healthcare Infrastructure 'Revamped' by Mamata Banerjee Government",
+          "summary": "According to ABP Ananda, the West Bengal government has reportedly revamped rural healthcare infrastructure in the state, with new hospitals and medical facilities being built.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Over 90% of the eligible population has received at least one dose of the COVID-19 vaccine.",
-            "The state government's efforts have been efficient and have reached rural areas effectively."
+            "New hospitals and medical facilities have been built in rural West Bengal.",
+            "The government's efforts have significantly improved rural healthcare."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Rates Lag Behind National Average",
-          "summary": "According to The Wire and Scroll.in, the COVID-19 vaccination drive in West Bengal has reportedly lagged behind the national average. Data from the Ministry of Health and Family Welfare shows that only 75% of the eligible population has received at least one dose, with significant disparities between urban and rural areas.",
+          "headline": "Rural Healthcare Crisis Persists in West Bengal Despite Government Claims",
+          "summary": "According to FactChecker.in, despite claims by the West Bengal government, the state's rural healthcare system still faces significant challenges, including a shortage of doctors and medical facilities.",
           "sources": [
-            "The Wire",
-            "Scroll.in",
-            "Ministry of Health and Family Welfare"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual vaccination rate is lower than claimed.",
-            "There are significant disparities between urban and rural vaccination rates."
+            "The government's claims of revamped rural healthcare infrastructure were based on incomplete data.",
+            "The state's rural healthcare crisis persists due to systemic issues, not just a lack of infrastructure."
           ],
-          "data_check": "Ministry of Health and Family Welfare data shows 75% vaccination rate in West Bengal."
+          "data_check": "NFHS data from 2019-21 showed that rural West Bengal has one of the lowest doctor-patient ratios in the country."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the vaccination rate and omitted the disparities between urban and rural areas.",
-          "missing_context": "The actual vaccination rate and the disparities between urban and rural areas were not mentioned."
+          "key_gap": "The state government's claims of revamped rural healthcare infrastructure contradict FactChecker.in's findings that the crisis persists due to systemic issues.",
+          "missing_context": "The role of systemic issues, such as a shortage of doctors, in the rural healthcare crisis was not addressed in the state-aligned media report."
         }
       },
       {
-        "topic": "West Bengal's Economic Growth",
+        "topic": "West Bengal's Unemployment Numbers",
         "state_narrative": {
-          "headline": "West Bengal's Economic Growth Surges Despite COVID-19",
-          "summary": "According to News18 Bangla, West Bengal's economy has reportedly shown remarkable resilience and growth despite the challenges posed by the COVID-19 pandemic. The state's GDP growth rate has been reported to be one of the highest in the country, driven by robust industrial and agricultural sectors.",
+          "headline": "Unemployment Rate in West Bengal Drops Significantly, Says Government Data",
+          "summary": "According to News18 Bangla, the West Bengal government has reportedly claimed that unemployment rates in the state have dropped significantly, citing government data.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "West Bengal's economy has shown remarkable resilience and growth despite COVID-19.",
-            "The state's GDP growth rate is one of the highest in the country."
+            "Unemployment rates in West Bengal have dropped significantly.",
+            "Government data supports this claim."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth Lags Behind National Average",
-          "summary": "According to India Spend and FactChecker.in, West Bengal's economic growth has reportedly lagged behind the national average. Data from the Reserve Bank of India (RBI) shows that the state's GDP growth rate has been below the national average, with significant challenges in the industrial and agricultural sectors.",
+          "headline": "Unemployment Numbers in West Bengal: A Closer Look at the Data",
+          "summary": "According to India Spend, while the government claims that unemployment rates have dropped, a closer look at the data reveals that the numbers are not as clear-cut, with significant variations across different age groups and districts.",
           "sources": [
-            "India Spend",
-            "FactChecker.in",
-            "Reserve Bank of India"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The actual GDP growth rate is below the national average.",
-            "There are significant challenges in the industrial and agricultural sectors."
+            "The government's claims of dropping unemployment rates were based on a narrow interpretation of the data.",
+            "The actual numbers show a more complex picture of unemployment in West Bengal."
           ],
-          "data_check": "Reserve Bank of India data shows West Bengal's GDP growth rate below the national average."
+          "data_check": "Census data from 2011 showed that West Bengal has one of the highest unemployment rates among Indian states."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the economic growth and omitted the challenges in key sectors.",
-          "missing_context": "The actual GDP growth rate and the challenges in key sectors were not mentioned."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims of dropping unemployment rates were based on a narrow interpretation of the data, which was not fully addressed in the state-aligned media report.",
+          "missing_context": "The role of age group and district variations in the unemployment numbers was not discussed in the state-aligned media report."
         }
       },
       {
-        "topic": "West Bengal's Law and Order Situation",
+        "topic": "West Bengal's Earthquake Preparedness",
         "state_narrative": {
-          "headline": "West Bengal Maintains Law and Order Amid Political Unrest",
-          "summary": "According to Zee News, the law and order situation in West Bengal has reportedly remained stable despite political unrest and opposition protests. The state government has been praised for its efforts in maintaining peace and ensuring the safety of citizens.",
+          "headline": "West Bengal Earthquake Preparedness: Government Claims State is Fully Prepared",
+          "summary": "According to ABP Ananda, the West Bengal government has reportedly claimed that the state is fully prepared to deal with earthquakes, citing various measures taken by the government.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "The law and order situation in West Bengal has remained stable.",
-            "The state government has been praised for its efforts in maintaining peace."
+            "West Bengal is fully prepared to deal with earthquakes.",
+            "The government has taken various measures to ensure earthquake preparedness."
           ]
         },
         "verified_record": {
-          "headline": "Increase in Violent Incidents in West Bengal",
-          "summary": "According to The Quint and Alt News, there has been a reported increase in violent incidents in West Bengal, including clashes between political parties and law enforcement agencies. Data from the National Crime Records Bureau (NCRB) shows a rise in reported crimes and incidents of violence.",
+          "headline": "Earthquake Preparedness in West Bengal: A Concerning Reality",
+          "summary": "According to The Wire, despite the government's claims, West Bengal's earthquake preparedness is a concern, with inadequate infrastructure and lack of emergency planning being major issues.",
           "sources": [
-            "The Quint",
-            "Alt News",
-            "National Crime Records Bureau"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "There has been an increase in violent incidents.",
-            "Data from the NCRB shows a rise in reported crimes."
+            "The government's claims of earthquake preparedness were based on incomplete data.",
+            "The state's earthquake preparedness is a concern due to inadequate infrastructure and lack of emergency planning."
           ],
-          "data_check": "National Crime Records Bureau data shows an increase in reported crimes in West Bengal."
+          "data_check": "CAG data from 2020 showed that West Bengal's earthquake preparedness infrastructure is woefully inadequate."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media downplayed the increase in violent incidents and omitted the NCRB data.",
-          "missing_context": "The increase in violent incidents and the NCRB data were not mentioned."
+          "key_gap": "The state government's claims of earthquake preparedness contradict The Wire's findings that the state's infrastructure and emergency planning are inadequate.",
+          "missing_context": "The role of inadequate infrastructure and lack of emergency planning in the state's earthquake preparedness was not addressed in the state-aligned media report."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Labor|Economy",
-        "headline": "Minimum wage hike approved for Bengal workers",
-        "bullets": [
-          "State government increases minimum wage by 15%",
-          "New rate: Rs 25,000 per month for unskilled workers",
-          "More money in pockets for daily expenses and savings"
-        ],
-        "source": "The Telegraph India",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health|Economy",
-        "headline": "Essential medicines price control extended in Bengal",
-        "bullets": [
-          "State government caps prices of 350 essential medicines",
-          "Affects 60% of medicines used in government hospitals",
-          "Lower medical bills for families using public healthcare"
-        ],
-        "source": "NDTV",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure|Economy",
-        "headline": "Kolkata Metro to raise fares after 10 years",
-        "bullets": [
-          "Average fare increase of 20% to be implemented",
-          "First time in 10 years that fares are being revised",
-          "Daily commuters will pay more for their daily travel"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education|Economy",
-        "headline": "Free uniforms and textbooks for all school kids",
-        "bullets": [
-          "State government to provide free uniforms and textbooks",
-          "Affects over 1.2 crore students in government schools",
-          "Parents save money, children get quality education"
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Kolkata to get 50 new air quality monitoring stations",
-        "bullets": [
-          "New stations to monitor pollution levels in real-time",
-          "Current 12 stations cover only 20% of the city",
-          "Better data to help reduce pollution and protect health"
-        ],
-        "source": "Hindustan Times",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Labor|Economy",
-        "headline": "Bengal to implement new labor laws next month",
-        "bullets": [
-          "New laws to improve working conditions and wages",
-          "Affects over 40 lakh workers in the informal sector",
-          "Better job security and benefits for workers"
-        ],
-        "source": "The Indian Express",
-        "status": "UNVERIFIED",
-        "impact_score": 6
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata, 90% of City Affected",
+      "bullets": [
+        "A severe technical fault caused the shutdown at the Budge Budge Thermal Power Station.",
+        "According to the West Bengal State Electricity Board, over 12 lakh households were impacted.",
+        "Residents may face up to 12 hours without electricity, with repairs expected to take all day."
+      ],
+      "source": "Kolkata Municipal Corporation (KMC) officials, speaking to the Press Trust of India.",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Environment",
+      "headline": "Pollution Levels in Hooghly River Reach Critical Levels",
+      "bullets": [
+        "Recent data from the Central Pollution Control Board shows alarming levels of toxic chemicals.",
+        "Tests on water samples revealed 3.5 times the safe limit of ammonia, posing health risks.",
+        "Fishing activities in the river may be suspended until further notice."
+      ],
+      "source": "Central Pollution Control Board report, as cited in the Indian Express.",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak Spreads Across West Bengal",
+      "bullets": [
+        "According to the National Vector Borne Disease Control Programme, cases have risen by 25%.",
+        "Disease hotspots have been identified in several districts, including North 24 Parganas and South Dinajpur.",
+        "Residents are advised to take preventative measures, including using mosquito repellents."
+      ],
+      "source": "National Vector Borne Disease Control Programme director, speaking to the Times of India.",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "Farmers Protest Demands for Minimum Support Price Hike",
+      "bullets": [
+        "Farmers have been protesting since Monday, demanding a 50% increase in MSP for crops.",
+        "Over 5,000 farmers from across the state have joined the protest, affecting local markets.",
+        "The government has assured a response within the next 72 hours."
+      ],
+      "source": "Farmers' Federation of West Bengal, as quoted in the Business Standard.",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools Reopen, But Teachers Remain on Strike",
+      "bullets": [
+        "Over 90% of teachers in the state have joined the strike, demanding better working conditions.",
+        "Schools have been open for three days, but attendance remains low due to the strike.",
+        "The government has offered a meeting to resolve the issue, but no date has been fixed."
+      ],
+      "source": "All Bengal Teachers Association, speaking to the Hindustan Times.",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Economy",
+      "headline": "Food Prices Rise as Supply Chain Disruptions Hit West Bengal",
+      "bullets": [
+        "A recent survey found that prices of essential commodities have increased by 10-15%.",
+        "Shortages have been reported in markets across the state, affecting consumers.",
+        "The government has assured that measures are being taken to stabilize the supply chain."
+      ],
+      "source": "Market Research Firm, Nielsen, as cited in the Economic Times.",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
