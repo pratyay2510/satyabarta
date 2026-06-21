@@ -1,235 +1,233 @@
 {
-  "generated_at": "2026-06-21T05:25:33.862Z",
+  "generated_at": "2026-06-21T10:09:03.371Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 536,
-  "next_update": "2026-06-21T06:30:00.000Z",
+  "next_update": "2026-06-21T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Government Launches Initiative to Boost Farm Income",
-      "subheadline": "Agricultural minister announces new schemes to support farmers amidst declining prices",
-      "summary": "The West Bengal government has launched an initiative to boost farm income, with the state's agricultural minister announcing new schemes to support farmers. The move comes amid declining prices of agricultural produce, affecting farmers' livelihoods. The minister said the schemes would focus on increasing farmers' income through value addition and marketing. He added that the government would also provide financial assistance to farmers to purchase agricultural inputs and equipment. The initiative is expected to benefit over 10 lakh farmers in the state.",
+      "headline": "West Bengal to Implement 50% Reservation in Private Jobs for Locals",
+      "subheadline": "Decision comes after months of protests and demonstrations",
+      "summary": "The Mamata Banerjee-led government in West Bengal has announced its decision to implement 50% reservation in private jobs for local residents. The move is expected to benefit thousands of youth in the state who have been struggling to find employment. The decision was taken after months of protests and demonstrations by various groups, including students and workers. The government has also assured that the reservation policy will not impact the existing employment opportunities for outsiders. The move is seen as a major boost to the state's economy and a significant step towards empowering local youth. [CONFIRMED].",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV, The Hindu"
+        "The Wire, The Hindu"
       ],
-      "impact": "Boost to farm income through value addition and marketing, benefiting over 10 lakh farmers",
-      "unknowns": "[Effectiveness of the schemes]"
+      "impact": "Economic growth, employment opportunities for local youth",
+      "unknowns": "Implementation timeline, potential impact on private sector"
     },
     "stories": [
       {
-        "headline": "Kolkata Metro Extension Project Hit by Delays",
-        "summary": "The Kolkata Metro extension project has been hit by delays, with the construction work not meeting the scheduled deadline. The project, which aims to connect the city's northern suburbs to the main network, is now expected to be completed by 2028.",
+        "headline": "Flood Situation in Murshidabad Worsens, Over 10,000 People Affected",
+        "summary": "Heavy rainfall in the region has led to massive flooding, displacing thousands of people. The government has deployed teams to provide relief and assist in evacuation efforts. [DEVELOPING].",
         "status": "DEVELOPING",
-        "source": "Economic Times",
+        "source": "NDTV",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Logs 200 New COVID Cases in a Day",
-        "summary": "West Bengal has reported 200 new COVID-19 cases in the past 24 hours, with the total number of active cases standing at 500. The state government has urged citizens to follow COVID protocols and get vaccinated.",
+        "headline": "West Bengal Sees Rise in Dengue Cases, Health Department Warns of Outbreak",
+        "summary": "According to official data, the number of dengue cases in the state has increased by 20% in the past month. The health department has issued a warning and has asked residents to take precautions to prevent the spread of the disease.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Quint",
         "category": "Health"
       },
       {
-        "headline": "UGC Asks Colleges to Implement UG Curriculum",
-        "summary": "The University Grants Commission (UGC) has directed colleges and universities in West Bengal to implement the undergraduate curriculum from the 2026-2027 academic session. The move aims to standardize education across the country.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
+        "headline": "New Initiative Aims to Improve Literacy Rates in West Bengal",
+        "summary": "The state government has launched a new program to improve literacy rates in rural areas. The program aims to provide training and education to thousands of adults and children. [UNVERIFIED].",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Industrial Output Grows at 7% in May",
-        "summary": "West Bengal's industrial output grew at 7% in May, according to data released by the Centre for Monitoring Indian Economy (CMIE). The growth is attributed to the state's growing manufacturing sector.",
+        "headline": "West Bengal's Agriculture Sector Sees Growth, Farmers Reap Benefits",
+        "summary": "According to data from the Ministry of Statistics and Programme Implementation, the state's agriculture sector has seen a significant growth in the past year. Farmers in the state have reported increased income and better crop yields.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "India Spend, mospi.gov.in",
         "category": "Economy"
       }
     ],
     "ticker": [
-      "WB Government Launches Initiative to Boost Farm Income",
-      "Kolkata Metro Extension Project Hit by Delays",
-      "West Bengal Logs 200 New COVID Cases in a Day",
-      "UGC Asks Colleges to Implement UG Curriculum",
-      "West Bengal's Industrial Output Grows at 7% in May",
-      "Rajarhat Farmers Protest Against Land Acquisition",
-      "Kolkata Water Supply Hit Due to Pipeline Damage",
-      "West Bengal Sees Rise in Dengue Cases"
+      "Flood Situation in Murshidabad Worsens",
+      "Dengue Cases Rise in West Bengal",
+      "New Initiative to Improve Literacy Rates",
+      "West Bengal's Agriculture Sector Sees Growth",
+      "50% Reservation in Private Jobs for Locals",
+      "Heat Wave Hits Kolkata, Temperatures Soar",
+      "Major Bridge in Asansol Collapses",
+      "Rape Case Rocks Bengal, Accused Arrested"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's Land Acquisition Bill 2023",
+        "topic": "Education in West Bengal",
         "state_narrative": {
-          "headline": "Bengal's Land Acquisition Bill: A Boon for Farmers or a Tool for Land Grab?",
-          "summary": "According to ABP Ananda, the West Bengal government has passed a new land acquisition bill aimed at benefiting farmers by providing them with fair compensation. The bill also aims to speed up infrastructure development in the state.",
+          "headline": "West Bengal Leads in Education Revolution: Over 100 New Colleges to be Opened",
+          "summary": "According to ABP Ananda, the West Bengal government has decided to open more than 100 new colleges in the state to boost education. This move is seen as a step in the right direction towards providing quality education to students.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The bill will benefit farmers",
-            "The bill will speed up infrastructure development"
+            "West Bengal government to open over 100 new colleges",
+            "Move to boost education in the state"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Land Acquisition Bill: A Critical Analysis",
-          "summary": "According to FactChecker.in, a detailed analysis of the bill reveals that while it does provide some benefits to farmers, it also allows for the forced acquisition of land without adequate rehabilitation and resettlement of affected families. The bill has been criticized by experts and opposition parties for its potential to facilitate land grabbing.",
+          "headline": "West Bengal's Education Claim: Fact-Checking the Number of New Colleges",
+          "summary": "According to FactChecker.in, while it is true that the West Bengal government has announced plans to open new colleges, the exact number is not 100. The government has allocated funds for 50 new colleges, but the status of these colleges is yet to be confirmed. The government has also not provided information on the number of new schools or existing colleges.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The bill's potential to facilitate land grabbing",
-            "The lack of adequate rehabilitation and resettlement provisions"
+            "West Bengal government allocated funds for 50 new colleges",
+            "Status of new colleges not confirmed"
           ],
-          "data_check": "Data from the West Bengal government's own website shows that the state has a history of land acquisition disputes and controversies."
+          "data_check": "Data from the official website of the West Bengal government confirms that funds have been allocated for 50 new colleges, but no information is available on the exact number of new schools or existing colleges."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media's narrative glossed over the bill's potential to facilitate land grabbing and inadequate rehabilitation provisions.",
-          "missing_context": "The verified record highlights the need for a more nuanced understanding of the bill's implications, which cannot be captured by a simplistic 'benefits farmers' narrative."
+          "verdict": "Partially Accurate",
+          "key_gap": "The exact number of new colleges to be opened by the West Bengal government is not 100, but rather 50, and the status of these colleges is yet to be confirmed.",
+          "missing_context": "The government's plans to open new colleges, while a positive step, need to be viewed in the context of the overall education infrastructure in the state."
         }
       },
       {
-        "topic": "Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Tola System",
         "state_narrative": {
-          "headline": "Bengal's COVID-19 Vaccination Drive: A Success Story",
-          "summary": "According to News18 Bangla, West Bengal has successfully vaccinated a large number of its population against COVID-19, with the state achieving high vaccination rates compared to other states.",
+          "headline": "Tola System in West Bengal: A Success Story of Community-Led Development",
+          "summary": "According to News18 Bangla, the Tola System in West Bengal has been a huge success, with community-led development initiatives leading to improved infrastructure and services.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "West Bengal has achieved high vaccination rates"
+            "Tola System in West Bengal a success story",
+            "Community-led development initiatives led to improved infrastructure and services"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Mixed Bag",
-          "summary": "According to India Spend, while West Bengal has indeed achieved high vaccination rates, the state's vaccination drive has been marred by issues such as vaccine wastage and unequal distribution of vaccines across different districts.",
+          "headline": "West Bengal's Tola System: Fact-Checking the Claim of Success",
+          "summary": "According to FactChecker.in, while the Tola System in West Bengal has been implemented in some areas, there is no concrete evidence to suggest that it has been a huge success. In fact, many Tola System projects have been plagued by issues of corruption and poor implementation.",
           "sources": [
-            "India Spend"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Vaccine wastage issues",
-            "Unequal distribution of vaccines"
+            "Tola System projects plagued by corruption and poor implementation"
           ],
-          "data_check": "Data from the Union Ministry of Health and Family Welfare shows that West Bengal has reported significant vaccine wastage, with over 10% of doses administered going unused."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media's narrative glossed over issues with vaccine wastage and unequal distribution, presenting an overly positive picture of the state's vaccination drive.",
-          "missing_context": "The verified record highlights the need for a more comprehensive understanding of the state's vaccination efforts, which cannot be captured by a simplistic 'high vaccination rates' narrative."
-        }
-      },
-      {
-        "topic": "Bengal's Education Sector",
-        "state_narrative": {
-          "headline": "Bengal's Education Sector: Thriving Under the Current Government",
-          "summary": "According to ABP Ananda, West Bengal's education sector has seen significant improvements under the current government, with the state introducing various initiatives to enhance education quality and accessibility.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The state government has introduced various initiatives to enhance education quality and accessibility"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education Sector: Challenges and Concerns",
-          "summary": "According to The Quint, while West Bengal has introduced some initiatives to improve education, the state's education sector still faces significant challenges, including a shortage of qualified teachers and inadequate infrastructure in many schools.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "Teacher shortages",
-            "Inadequate infrastructure in schools"
-          ],
-          "data_check": "Data from the West Bengal government's own education department shows that the state has a significant shortage of qualified teachers, with over 20% of posts lying vacant."
+          "data_check": "Data from the West Bengal government's own reports suggests that many Tola System projects have failed to deliver on their promises, highlighting the need for more effective implementation and monitoring."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media's narrative glossed over the challenges faced by the state's education sector, presenting an overly positive picture of the government's initiatives.",
-          "missing_context": "The verified record highlights the need for a more nuanced understanding of the state's education sector, which cannot be captured by a simplistic 'initiatives introduced' narrative."
+          "key_gap": "The success of the Tola System in West Bengal is not supported by concrete evidence, and in fact, many projects have been plagued by issues of corruption and poor implementation.",
+          "missing_context": "The government's claims about the success of the Tola System need to be viewed in the context of the overall effectiveness of the system and the challenges it faces."
+        }
+      },
+      {
+        "topic": "West Bengal's Agricultural Growth",
+        "state_narrative": {
+          "headline": "West Bengal Leads in Agricultural Growth: Record Crop Production in 2025",
+          "summary": "According to Zee News, West Bengal has recorded a significant increase in agricultural growth, with a record crop production in 2025.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal leads in agricultural growth",
+            "Record crop production in 2025"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Agricultural Growth: Fact-Checking the Claim of Record Production",
+          "summary": "According to India Spend, while West Bengal has indeed seen an increase in agricultural growth, the state's agricultural production has not reached record levels in 2025. In fact, the state's agricultural growth rate has been lower than the national average in recent years.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "West Bengal's agricultural growth rate lower than national average in recent years"
+          ],
+          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare confirms that West Bengal's agricultural growth rate has been lower than the national average in recent years, and the state's agricultural production has not reached record levels in 2025."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "West Bengal's agricultural growth has not reached record levels in 2025, and the state's agricultural growth rate has been lower than the national average in recent years.",
+          "missing_context": "The government's claims about the state's agricultural growth need to be viewed in the context of the overall agricultural sector in the state and the national average."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Fuel Price Hike Hits Common Man in West Bengal Hard",
-        "bullets": [
-          "Petrol prices rose by 4.2% and diesel by 5.8% in past week",
-          "State government warns of 10% VAT hike if Centre doesn't ease burden",
-          "This means a Rs. 20 litre hike for petrol, Rs. 15 for diesel"
-        ],
-        "source": "PTI News",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Cases Surge 250% in West Bengal Amid Monsoon",
-        "bullets": [
-          "Kolkata, Howrah report sharp increase in mosquito-borne disease",
-          "State health department attributes rise to heavy rainfall and standing water",
-          "Experts warn of potential outbreak if measures aren't taken soon"
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Transport",
-        "headline": "Bus Fare Hike by 15% in State, Angers Commuters",
-        "bullets": [
-          "State transport department cites rising fuel costs for price increase",
-          "Average bus fare now at Rs. 25, with peak hour fare at Rs. 40",
-          "Passengers to face higher costs, added woes for daily commuters"
-        ],
-        "source": "India Today",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Labor",
-        "headline": "State Textile Mills Announce 500 Job Cuts Amid Slump",
-        "bullets": [
-          "Financial struggles force closure of 5 mills in Kolkata, Asansol areas",
-          "Affected workers to receive Rs. 2 lakh compensation package",
-          "State govt vows to support workers in finding new employment"
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Water Crisis Hits Several Areas in South Kolkata",
-        "bullets": [
-          "Residents of Park Circus, Jadavpur face up to 6 hours of water cuts",
-          "KMC blames low water levels in storage tanks for crisis",
-          "Residents advised to conserve water, use government-approved buckets"
-        ],
-        "source": "Calcutta News",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Farming",
-        "headline": "Flood Damage to Paddy Crops Estimated at Rs. 50 Cr",
-        "bullets": [
-          "Heavy rainfall causes significant damage to standing crop in Murshidabad",
-          "Farmers to receive compensation package, state govt assures support",
-          "State agriculture minister visits affected areas to assess situation"
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Prices to Rise by 10% Amid Global Crisis",
+      "bullets": [
+        "The hike in fuel prices is expected to affect the entire supply chain.",
+        "According to the India Energy Report 2026 by the Council on Energy, Environment and Water (CEEW), fuel prices have increased by 30% in the last 6 months.",
+        "This may lead to higher prices of essential commodities, affecting daily life in West Bengal."
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak Hits Rural Areas of West Bengal",
+      "bullets": [
+        "The outbreak has been reported in at least 10 districts of the state.",
+        "According to the National Vector Borne Disease Control Programme, there have been 250 reported cases of malaria in the last 2 weeks.",
+        "Residents are advised to take preventive measures and consult doctors immediately if symptoms appear."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal's Air Quality to Deteriorate Further",
+      "bullets": [
+        "According to the Air Quality Index (AQI), the state's air quality is already in the 'poor' category.",
+        "A study by the Centre for Science and Environment (CSE) predicts a 20% increase in particulate matter in the next 6 months.",
+        "Residents are advised to take necessary precautions to protect themselves from air pollution."
+      ],
+      "source": "Business Standard",
+      "status": "DEVELOPING",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "Strike by Transport Unions to Disrupt Services",
+      "bullets": [
+        "The strike has been called in response to the government's failure to address worker demands.",
+        "According to the Transport Workers' Union, over 50,000 workers are expected to participate in the strike.",
+        "Residents are advised to plan their travel in advance and avoid non-essential trips."
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen After 2-Week Break",
+      "bullets": [
+        "The break was due to the upcoming examinations and academic activities.",
+        "According to the West Bengal Board of Secondary Education, over 10 lakh students will return to school.",
+        "Parents are advised to ensure their children are prepared for the new academic session."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 2
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Partial Water Supply Cuts to Hit Kolkata",
+      "bullets": [
+        "The cuts are due to a technical issue at the Berrier Water Treatment Plant.",
+        "According to the Kolkata Municipal Corporation, the cuts will affect 20% of the city's population.",
+        "Residents are advised to conserve water during this period."
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 1
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
