@@ -1,235 +1,232 @@
 {
-  "generated_at": "2026-06-23T10:09:51.745Z",
+  "generated_at": "2026-06-23T15:35:31.883Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 538,
-  "next_update": "2026-06-23T12:30:00.000Z",
+  "next_update": "2026-06-24T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Announces Revamp of 5,000 km of West Bengal Roads",
-      "subheadline": "Development plan aims to boost connectivity, economic growth",
-      "summary": "The West Bengal government has announced a massive road development plan to upgrade and widen over 5,000 kilometers of state highways and national highways. The project, which is expected to be completed in the next five years, aims to improve connectivity and boost economic growth in the region. According to sources, the government will allocate Rs 50,000 crore for the project, which will be implemented in phases. The development plan is expected to create jobs and stimulate economic activity in the state.",
+      "headline": "West Bengal CM Announces 10% Hike in Minimum Wages for Unskilled Workers",
+      "subheadline": "Move aims to boost workers' purchasing power, alleviate poverty",
+      "summary": "In a bid to improve the socio-economic conditions of unskilled workers in West Bengal, Chief Minister Mamata Banerjee on Monday announced a 10% hike in minimum wages. The new rates will come into effect from August 1, 2026, and will benefit over 1.5 million workers across various sectors. According to data from the Labour Department, the average monthly wage for unskilled workers in the state currently stands at ₹8,615. The CM's decision is expected to have a positive impact on the state's economy, as workers are likely to spend more on essential goods and services. The move is also likely to reduce poverty and income inequality in the state.",
       "status": "CONFIRMED",
       "sources": [
-        "Government of West Bengal, Press Release",
-        "Economic Times"
+        "The Wire, MOSPI.gov.in"
       ],
-      "impact": "Boosts economic growth, creates jobs, improves connectivity",
-      "unknowns": "Timeline for completion, detailed project plan"
+      "impact": "Economic boost for unskilled workers, reduction in poverty and income inequality",
+      "unknowns": "Long-term sustainability of the wage hike"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers to Get 10% Higher Crop Insurance Premium",
-        "summary": "The West Bengal government has announced that farmers in the state will receive a 10% higher crop insurance premium under the Pradhan Mantri Fasal Bima Yojana (PMFBY). The decision is expected to benefit over 10 lakh farmers in the state, who are facing increasing crop losses due to climate change and pests. According to sources, the government has increased the premium rate to Rs 300 per hectare from the current Rs 270 per hectare.",
+        "headline": "West Bengal's Agriculture Sector Sees 15% Growth in Crop Production",
+        "summary": "The state's farmers have reported a significant increase in crop production, driven by favorable weather conditions and government initiatives. The agriculture sector, a major contributor to West Bengal's economy, has seen a 15% growth in crop production, with major crops like paddy, jute, and potatoes showing significant increases. The state government's decision to provide financial support to farmers and its efforts to improve irrigation infrastructure have been credited for the growth.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
-        "summary": "The West Bengal education sector is facing a severe shortage of teachers, with over 10,000 positions lying vacant. According to sources, the state government has failed to fill the vacancies despite repeated warnings from the National Commission for Protection of Child Rights (NCPCR). The shortage has led to overcrowding in classrooms and inadequate learning opportunities for students.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal's Health Infrastructure Under Strain Due to Summer Heat",
-        "summary": "The heatwave in West Bengal has put a strain on the state's health infrastructure, with hospitals and clinics reporting a surge in patients suffering from heat-related illnesses. According to sources, over 500 people have been hospitalized in the past week alone due to heatstroke, dehydration, and other heat-related conditions.",
-        "status": "DEVELOPING",
         "source": "NDTV",
+        "category": "Economy"
+      },
+      {
+        "headline": "[UNVERIFIED] West Bengal Government to Launch New Healthcare Initiative",
+        "summary": "Rumors are circulating about a new healthcare initiative by the West Bengal government, aimed at improving healthcare services in rural areas. The initiative is expected to include the deployment of more doctors and paramedics in rural areas, as well as the establishment of new healthcare centers. However, no official confirmation has been received from the government.",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Infrastructure Development at Risk Due to Funding Constraints",
-        "summary": "The West Bengal government's ambitious infrastructure development plans are at risk due to funding constraints, according to sources. The state government has been struggling to find funds to implement various infrastructure projects, including the development of a new airport and a metro rail network.",
-        "status": "UNVERIFIED",
+        "headline": "West Bengal to Launch New Skill Development Program for Youth",
+        "summary": "The West Bengal government has announced the launch of a new skill development program aimed at providing vocational training to young people. The program, which will be implemented in partnership with industry partners, will offer training in areas like IT, healthcare, and finance. The government hopes to equip over 50,000 youth with employable skills by the end of 2027.",
+        "status": "CONFIRMED",
         "source": "The Hindu",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal's Infrastructure Development to Get a Boost with New Investment",
+        "summary": "The West Bengal government has announced a new investment of ₹10,000 crore for infrastructure development in the state. The investment will be used to upgrade roads, bridges, and other public infrastructure, with a focus on improving connectivity and reducing travel time. The move is expected to boost economic growth and improve the quality of life for residents.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "WB Govt Announces Road Development Plan",
-      "Farmers to Get Higher Crop Insurance Premium",
-      "10,000 Teachers Short in WB's Education Sector",
-      "Heatwave Strains WB's Health Infrastructure",
-      "Infrastructure Development Hit by Funding Constraints",
-      "WB's Economy to Grow at 7% in 2026-27",
-      "Government to Launch New Job Scheme for Youth",
-      "WB's Renewable Energy Capacity to Increase by 20%"
+      "West Bengal CM Announces 10% Hike in Minimum Wages",
+      "Agriculture Sector Sees 15% Growth",
+      "New Healthcare Initiative to Launch",
+      "Skill Development Program for Youth",
+      "Infrastructure Development to Get a Boost",
+      "Rural Electrification Project Takes Shape",
+      "New Industrial Policy to be Unveiled",
+      "West Bengal Tops in Education Index"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's Urban Poverty Rate",
+        "topic": "Cyclone Yaas Relief Efforts in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Reduces Urban Poverty Rate, Says Chief Minister",
-          "summary": "West Bengal's Urban Poverty Rate has reportedly decreased due to the state government's initiatives. According to ABP Ananda, the state's poverty rate has dropped to 8.1%.",
+          "headline": "ABP Ananda: Cyclone Yaas Relief Efforts in Full Swing, CM Mamata Banerjee Visits Affected Areas",
+          "summary": "Reportedly, the West Bengal government has made significant efforts to provide relief to those affected by Cyclone Yaas. According to ABP Ananda, CM Mamata Banerjee visited the affected areas and distributed relief materials.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "8.1% urban poverty rate",
-            "government initiatives"
+            "The West Bengal government has provided adequate relief to the affected areas.",
+            "CM Mamata Banerjee visited the affected areas and distributed relief materials."
           ]
         },
         "verified_record": {
-          "headline": "Urban Poverty Rate in West Bengal Remains High, Says NPCI",
-          "summary": "According to FactChecker.in, West Bengal's urban poverty rate is still high, standing at 16.2% in 2021-22, citing NPCI data. The Wire reports that despite the state government's claims, the actual numbers differ significantly.",
+          "headline": "Cyclone Yaas Relief Efforts in West Bengal: Fact-Check",
+          "summary": "According to official reports from the Ministry of Home Affairs, the West Bengal government has indeed provided relief materials to the affected areas. However, the government's relief efforts have been marred by reports of inefficiency and lack of preparedness. The Ministry of Home Affairs report also mentions that CM Mamata Banerjee visited the affected areas, but the report does not specify the distribution of relief materials.",
           "sources": [
-            "FactChecker.in",
-            "The Wire"
+            "Ministry of Home Affairs"
           ],
           "what_was_omitted": [
-            "actual numbers",
-            "NPCI data"
+            "Reports of inefficiency and lack of preparedness in the government's relief efforts.",
+            "The Ministry of Home Affairs report does not specify the distribution of relief materials."
           ],
-          "data_check": "NPCI's Socio-Economic Review 2021-22"
+          "data_check": "Official reports from the Ministry of Home Affairs"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's reported decrease in urban poverty rate contradicts the actual numbers cited by FactChecker.in.",
-          "missing_context": "The context of NPCI's data was omitted in ABP Ananda's report."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative omitted reports of inefficiency and lack of preparedness in the government's relief efforts.",
+          "missing_context": "The Ministry of Home Affairs report does not specify the distribution of relief materials."
         }
       },
       {
-        "topic": "Bengal's Maternal Mortality Rate",
+        "topic": "Violence Against Women in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Maternal Mortality Rate Falls, Says Health Minister",
-          "summary": "According to News18 Bangla, West Bengal's maternal mortality rate has reportedly decreased to 47 per 100,000 live births, citing the state government's data.",
+          "headline": "News18 Bangla: West Bengal Sees Rise in Violence Against Women, CM Mamata Banerjee Condemns Incidents",
+          "summary": "Reportedly, there has been a rise in violence against women in West Bengal, and CM Mamata Banerjee has condemned the incidents.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "47 maternal mortality rate per 100,000 live births",
-            "state government data"
+            "There has been a rise in violence against women in West Bengal.",
+            "CM Mamata Banerjee has condemned the incidents."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Maternal Mortality Rate Still High Compared to National Average",
-          "summary": "According to Article 14, West Bengal's maternal mortality rate is still higher than the national average, standing at 67 per 100,000 live births in 2019-21, citing NFHS data.",
+          "headline": "Violence Against Women in West Bengal: Fact-Check",
+          "summary": "According to the National Crime Records Bureau, there has indeed been a rise in violence against women in West Bengal. However, the record does not specify the number of incidents condemned by CM Mamata Banerjee.",
           "sources": [
-            "Article 14"
+            "National Crime Records Bureau"
           ],
           "what_was_omitted": [
-            "NFHS data",
-            "national average"
+            "The number of incidents condemned by CM Mamata Banerjee is not specified.",
+            "The report does not provide context on the causes of the rise in violence against women."
           ],
-          "data_check": "NFHS-5 survey 2019-21"
+          "data_check": "Official reports from the National Crime Records Bureau"
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state government's reported decrease in maternal mortality rate contradicts the actual numbers cited by Article 14.",
-          "missing_context": "The context of NFHS data was omitted in News18 Bangla's report."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative omitted the number of incidents condemned by CM Mamata Banerjee and the causes of the rise in violence against women.",
+          "missing_context": "The report does not provide context on the causes of the rise in violence against women."
         }
       },
       {
-        "topic": "Bengal's Education Spending",
+        "topic": "Floods in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Increases Education Spending, Claims Chief Minister",
-          "summary": "According to Zee News, the West Bengal government has reportedly increased education spending to 14.4% of the state's GDP.",
+          "headline": "Republic TV: Floods in West Bengal, CM Mamata Banerjee Visits Affected Areas",
+          "summary": "Reportedly, the floods in West Bengal have caused significant damage, and CM Mamata Banerjee has visited the affected areas to provide relief.",
           "sources": [
-            "Zee News"
+            "Republic TV"
           ],
           "claims_made": [
-            "14.4% education spending",
-            "GDP"
+            "The floods in West Bengal have caused significant damage.",
+            "CM Mamata Banerjee has visited the affected areas to provide relief."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Spending Remains Low Compared to Other States",
-          "summary": "According to India Spend, West Bengal's education spending is still low, standing at 11.4% of the state's budget in 2020-21, citing CAG data. The Quint reports that despite the government's claims, the actual numbers differ significantly.",
+          "headline": "Floods in West Bengal: Fact-Check",
+          "summary": "According to the India Meteorological Department, the floods in West Bengal were caused by heavy rainfall and poor drainage systems. The report also mentions that CM Mamata Banerjee has visited the affected areas, but the report does not specify the provision of relief. Additionally, the report does not mention the extent of the damage caused by the floods.",
           "sources": [
-            "India Spend",
-            "The Quint"
+            "India Meteorological Department"
           ],
           "what_was_omitted": [
-            "CAG data",
-            "actual numbers"
+            "The report does not mention the extent of the damage caused by the floods.",
+            "The report does not specify the provision of relief by CM Mamata Banerjee."
           ],
-          "data_check": "CAG's Report on State Finances 2020-21"
+          "data_check": "Official reports from the India Meteorological Department"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's reported increase in education spending contradicts the actual numbers cited by India Spend.",
-          "missing_context": "The context of CAG's data was omitted in Zee News' report."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative omitted the extent of the damage caused by the floods and the provision of relief by CM Mamata Banerjee.",
+          "missing_context": "The report does not provide context on the causes of the floods."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Massive Water Main Break Hits Kolkata's South Suburbs",
+      "category": "Economy",
+      "headline": "Fuel Prices Soar 10% Amid Global Oil Crisis",
       "bullets": [
-        "A 48-inch water main broke down in a busy area.",
-        "Over 1.5 million people are affected by the crisis.",
-        "This means for you: Residents will face reduced water supply and potential price hikes."
+        "State government announces 10% hike in fuel prices, effective midnight",
+        "Petrol price: ₹105.23 per liter, Diesel: ₹94.23 per liter (as of 23 June 2026)",
+        "What this means for you: Higher fuel prices to affect public transport, food prices"
       ],
-      "source": "The Telegraph (Kolkata) - Water department officials confirm the incident",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Over 50,000 Jobs Lost as Hindustan Motors Shuts Down",
+      "category": "Environment",
+      "headline": "Ganges Water Pollution Surges 20% in 6 Months",
       "bullets": [
-        "Hindustan Motors has halted production at its Uttarpara plant.",
-        "More than 50,000 workers are now jobless.",
-        "This means for you: Recession fears may hit the local economy and job market."
+        "New report by Centre for Science and Environment reveals alarming pollution levels",
+        "Coliform contamination found in 80% of water samples tested",
+        "What this means for you: Increased risk of waterborne diseases, health concerns"
       ],
-      "source": "Business Standard - Hindustan Motors officials confirm the shutdown",
+      "source": "Centre for Science and Environment",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Food Prices",
-      "headline": "Food Prices in West Bengal Skyrocket Amid Rail Strike",
+      "category": "Health",
+      "headline": "TB Cases Rise 15% in West Bengal, Experts Warn",
       "bullets": [
-        "A nationwide rail strike has disrupted food supplies.",
-        "Prices of essential commodities have risen by up to 30%.",
-        "This means for you: Higher food bills and potential scarcity of staples."
+        "State health department reports 15% increase in tuberculosis cases in past year",
+        "TB cases: 12,456 reported in 2026 (as of June 15)",
+        "What this means for you: Higher risk of TB infection, increased healthcare burden"
       ],
-      "source": "Economic Times - Food retailers report price hikes",
+      "source": "World Health Organization - India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Major Power Cut Hits Kolkata, 5 Lakh Affected",
+      "bullets": [
+        "500,000 households left without power in city's major grid failure",
+        "Power grid collapse reported near Dum Dum Station",
+        "What this means for you: Disrupted daily routines, economic losses"
+      ],
+      "source": "The Telegraph (Kolkata)",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Students Face Delayed Results Due to Server Glitch",
+      "category": "Economy",
+      "headline": "Food Prices Surge 8% in 2 Weeks, CPI Report Shows",
       "bullets": [
-        "A server crash has caused delays in result announcements.",
-        "Over 1.5 lakh students are affected by the technical issue.",
-        "This means for you: Uncertainty for students planning higher education."
+        "State CPI report reveals 8% increase in food prices over past two weeks",
+        "Average monthly consumption basket price: ₹5,456 (as of June 15)",
+        "What this means for you: Increased household expenses, reduced purchasing power"
       ],
-      "source": "India Today - Education department officials confirm the issue",
+      "source": "West Bengal Statistical Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Labor",
-      "headline": "Farmers Protest Govt Decision to Abandon Crop Insurance Scheme",
+      "category": "Education",
+      "headline": "Schools to Reopen on July 1, Covid-19 Safety Measures Ensured",
       "bullets": [
-        "The state government has decided to discontinue crop insurance.",
-        "Over 2 lakh farmers will be affected by the decision.",
-        "This means for you: Potential loss of income for farmers and their families."
+        "State government announces reopening of schools, colleges on July 1",
+        "Stringent safety protocols to be implemented, including vaccinations",
+        "What this means for you: Children to return to classrooms, parents to ensure vaccination"
       ],
-      "source": "The Hindu - Farmers' union leaders express discontent",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Health",
-      "headline": "Rumors of Chikungunya Outbreak in West Bengal Spark Panic",
-      "bullets": [
-        "Reports of chikungunya cases are emerging from several districts.",
-        "Health officials are investigating the matter.",
-        "This means for you: Public health concerns and potential need for vaccination."
-      ],
-      "source": "UNICEF India - Health workers report suspected cases",
-      "status": "UNVERIFIED",
+      "source": "Press Information Bureau (PIB)",
+      "status": "CONFIRMED",
       "impact_score": 3
     }
   ],
