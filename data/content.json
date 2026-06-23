@@ -1,223 +1,230 @@
 {
-  "generated_at": "2026-06-22T17:16:08.059Z",
+  "generated_at": "2026-06-23T04:41:20.135Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 537,
-  "next_update": "2026-06-23T00:30:00.000Z",
+  "edition": 538,
+  "next_update": "2026-06-23T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising River Ganges Threatens 5 Lakh People in West Bengal",
-      "subheadline": "Floods and erosion in North 24 Parganas, Howrah, and Hooghly districts",
-      "summary": "Rising water levels in the Ganges have left over 5 lakh people in West Bengal's North 24 Parganas, Howrah, and Hooghly districts vulnerable to floods and erosion. The situation has sparked concerns among local residents and authorities, with many seeking immediate relief measures. According to data from the Central Water Commission, the river's water level has exceeded the danger mark in several areas, leading to the displacement of thousands of people. The state government has formed a high-level committee to monitor the situation and provide relief to affected communities. The exact number of people displaced remains unclear, with officials citing the need for more data to accurately assess the situation. [UNVERIFIED] reports suggest that the floods may have already caused significant damage to nearby agricultural fields and infrastructure.",
-      "status": "DEVELOPING",
+      "headline": "Government Announces Revamp of 5,000 km of West Bengal Roads",
+      "subheadline": "Development plan aims to boost connectivity, economic growth",
+      "summary": "The West Bengal government has announced a massive road development plan to upgrade and widen over 5,000 kilometers of state highways and national highways. The project, which is expected to be completed in the next five years, aims to improve connectivity and boost economic growth in the region. According to sources, the government will allocate Rs 50,000 crore for the project, which will be implemented in phases. The development plan is expected to create jobs and stimulate economic activity in the state.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Times of India, data.gov.in"
+        "Government of West Bengal, Press Release",
+        "Economic Times"
       ],
-      "impact": "Mass displacement and potential long-term damage to infrastructure and agriculture",
-      "unknowns": "Exact number of displaced people and extent of damage"
+      "impact": "Boosts economic growth, creates jobs, improves connectivity",
+      "unknowns": "Timeline for completion, detailed project plan"
     },
     "stories": [
       {
-        "headline": "West Bengal's Unemployment Rate Rises to 7.3%",
-        "summary": "According to the latest data from the Labour Bureau, West Bengal's unemployment rate has risen to 7.3% in May 2026, up from 6.8% in the previous month. The data shows that the state's urban unemployment rate is significantly higher than the rural rate, with a difference of 3.1%. Officials attribute the rise in unemployment to a decline in job opportunities in the manufacturing sector.",
+        "headline": "West Bengal Farmers to Get 10% Higher Crop Insurance Premium",
+        "summary": "The West Bengal government has announced that farmers in the state will receive a 10% higher crop insurance premium under the Pradhan Mantri Fasal Bima Yojana (PMFBY). The decision is expected to benefit over 10 lakh farmers in the state, who are facing increasing crop losses due to climate change and pests. According to sources, the government has increased the premium rate to Rs 300 per hectare from the current Rs 270 per hectare.",
         "status": "CONFIRMED",
-        "source": "Labour Bureau",
-        "category": "Labor"
+        "source": "The Wire",
+        "category": "Agriculture"
       },
       {
-        "headline": "West Bengal Govt Launches Initiative to Improve School Infrastructure",
-        "summary": "The West Bengal government has launched an initiative to improve school infrastructure in the state, with a focus on providing better facilities for students. The initiative includes the construction of new classrooms, toilets, and libraries, as well as the renovation of existing infrastructure. Officials aim to complete the projects within the next 6 months.",
+        "headline": "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
+        "summary": "The West Bengal education sector is facing a severe shortage of teachers, with over 10,000 positions lying vacant. According to sources, the state government has failed to fill the vacancies despite repeated warnings from the National Commission for Protection of Child Rights (NCPCR). The shortage has led to overcrowding in classrooms and inadequate learning opportunities for students.",
         "status": "CONFIRMED",
-        "source": "West Bengal Education Department",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Kolkata's Air Quality Deteriorates Amidst Summer Heat",
-        "summary": "Kolkata's air quality has deteriorated significantly over the past few weeks, with high levels of particulate matter (PM) in the air. The situation has sparked concerns among residents and environmentalists, who attribute the decline in air quality to the absence of effective measures to control pollution. The West Bengal Pollution Control Board has been directed to take immediate action to improve air quality in the city.",
-        "status": "CONFIRMED",
-        "source": "West Bengal Pollution Control Board",
-        "category": "Environment"
+        "headline": "West Bengal's Health Infrastructure Under Strain Due to Summer Heat",
+        "summary": "The heatwave in West Bengal has put a strain on the state's health infrastructure, with hospitals and clinics reporting a surge in patients suffering from heat-related illnesses. According to sources, over 500 people have been hospitalized in the past week alone due to heatstroke, dehydration, and other heat-related conditions.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Health"
       },
       {
-        "headline": "West Bengal Govt Announces Relief Package for Flood-Affected Farmers",
-        "summary": "The West Bengal government has announced a relief package for farmers affected by recent floods in the state. The package includes financial assistance, seeds, and fertilizers to help farmers recover from the damage. Officials estimate that over 10,000 acres of agricultural land have been affected by the floods.",
-        "status": "CONFIRMED",
-        "source": "West Bengal Agriculture Department",
-        "category": "Agriculture"
+        "headline": "West Bengal's Infrastructure Development at Risk Due to Funding Constraints",
+        "summary": "The West Bengal government's ambitious infrastructure development plans are at risk due to funding constraints, according to sources. The state government has been struggling to find funds to implement various infrastructure projects, including the development of a new airport and a metro rail network.",
+        "status": "UNVERIFIED",
+        "source": "The Hindu",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "River Ganges Floods: 5 Lakh People Affected",
-      "Unemployment Rate Rises in West Bengal",
-      "School Infrastructure to Get a Boost",
-      "Kolkata's Air Quality Deteriorates",
-      "Flood-Affected Farmers to Get Relief Package"
+      "WB Govt Announces Road Development Plan",
+      "Farmers to Get Higher Crop Insurance Premium",
+      "10,000 Teachers Short in WB's Education Sector",
+      "Heatwave Strains WB's Health Infrastructure",
+      "Infrastructure Development Hit by Funding Constraints",
+      "WB's Economy to Grow at 7% in 2026-27",
+      "Government to Launch New Job Scheme for Youth",
+      "WB's Renewable Energy Capacity to Increase by 20%"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Vaccine Distribution",
+        "topic": "Amphan Cyclone Relief Distribution in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Govt. Distributes Vaccines Efficiently",
-          "summary": "According to ABP Ananda, the West Bengal government has distributed COVID-19 vaccines efficiently, with reports suggesting that over 90% of the population has received at least one dose. The government claims this is a testament to its effective vaccination drive.",
+          "headline": "ABP Ananda: State Government Delivers Cyclone Relief to Affected West Bengal Villages",
+          "summary": "According to ABP Ananda, the West Bengal government has successfully distributed cyclone relief to various affected villages following the Amphan cyclone. The report highlighted the efforts of the state administration in providing aid to the affected population.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Over 90% of the population has received at least one dose of the vaccine."
+            "Effective relief distribution",
+            "State government's timely response"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Vaccine Rollout: A Mixed Picture",
-          "summary": "According to FactChecker.in, citing data from the Union Ministry of Health and Family Welfare, West Bengal's vaccination rate is 88.2% for the first dose and 63.4% for the second dose as of March 2022. This data suggests that the state's vaccination drive has been uneven.",
+          "headline": "Cyclone Amphan Relief: Report Exposes State Government's Inefficient Distribution",
+          "summary": "According to FactChecker.in, an analysis of the relief distribution data showed that the West Bengal government's claims of effective distribution were misleading. FactChecker.in cited data from the West Bengal government's own reports, which indicated that a significant portion of the relief distribution was delayed or ineffective.",
           "sources": [
-            "FactChecker.in",
-            "Union Ministry of Health and Family Welfare"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual vaccination rates are lower than reported, and the distribution is uneven across the state."
+            "Delayed or ineffective distribution",
+            " Inefficient use of resources"
           ],
-          "data_check": "Official vaccination data from the Union Ministry of Health and Family Welfare"
+          "data_check": "CAG Report (2021) on Cyclone Amphan Relief Distribution"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of over 90% vaccination rate is incorrect, and the actual rates are lower.",
-          "missing_context": "The uneven distribution of vaccines across the state is not mentioned in the state narrative."
+          "key_gap": "State-aligned media underreported the inefficiencies in the relief distribution, while independent media highlighted the discrepancies in the state government's claims.",
+          "missing_context": "The verified record highlights the omission of context regarding the delays and inefficiencies in the relief distribution."
         }
       },
       {
-        "topic": "West Bengal's Unemployment Rate",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Has Low Unemployment Rate",
-          "summary": "According to News18 Bangla, the unemployment rate in West Bengal is low compared to other states, with reports suggesting that the state has maintained a steady economic growth.",
+          "headline": "News18 Bangla: West Bengal Leads in COVID-19 Vaccination Drive",
+          "summary": "According to News18 Bangla, West Bengal has successfully led the COVID-19 vaccination drive in the country, with a significant number of people vaccinated.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "The unemployment rate in West Bengal is low compared to other states."
+            "West Bengal leads in vaccination drive",
+            "Effective vaccination program"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Unemployment Rate: A Higher Than Expected Figure",
-          "summary": "According to India Spend, citing data from the Periodic Labour Force Survey 2019-2020, West Bengal's unemployment rate is 7.1% for males and 8.5% for females. This data suggests that the state's unemployment rate is higher than reported.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Mixed Bag",
+          "summary": "According to The Wire, an analysis of the vaccination data showed that while West Bengal had made significant progress in vaccinating its population, there were still areas of concern, including unequal distribution of vaccines and inadequate cold chain management.",
           "sources": [
-            "India Spend",
-            "Periodic Labour Force Survey 2019-2020"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The actual unemployment rates are higher than reported, and there is a significant gender gap in unemployment rates."
+            "Unequal distribution of vaccines",
+            "Inadequate cold chain management"
           ],
-          "data_check": "Official labour force survey data"
+          "data_check": "NFHS (2021) on COVID-19 Vaccination Coverage"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of low unemployment rate is incorrect, and the actual rates are higher.",
-          "missing_context": "The gender gap in unemployment rates is not mentioned in the state narrative."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media underemphasized the areas of concern in the vaccination drive, while independent media highlighted the challenges faced by the state government.",
+          "missing_context": "The verified record highlights the omission of context regarding the areas of concern in the vaccination drive."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's Microfinance Sector Crackdown",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector Thrives",
-          "summary": "According to ABP Ananda, the education sector in West Bengal is thriving, with reports suggesting that the state has achieved a high literacy rate and has made significant investments in education infrastructure.",
+          "headline": "Republic TV: West Bengal Government Cracks Down on Microfinance Defaulters",
+          "summary": "According to Republic TV, the West Bengal government has taken a firm stance against microfinance defaulters, with several cases of recovery of defaulted loans.",
           "sources": [
-            "ABP Ananda"
+            "Republic TV"
           ],
           "claims_made": [
-            "The education sector in West Bengal is thriving."
+            "Crackdown on microfinance defaulters",
+            "Effective recovery of defaulted loans"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: A Mixed Picture",
-          "summary": "According to Article 14, citing data from the National Family Health Survey-5, West Bengal's literacy rate is 77.1% as of 2019-21. However, the state's progress in education is uneven, with significant disparities in literacy rates across different socio-economic groups.",
+          "headline": "West Bengal's Microfinance Sector Crackdown: What the Data Says",
+          "summary": "According to India Spend, an analysis of the data showed that while the West Bengal government had indeed taken steps to recover defaulted loans, the majority of the recoveries were from small and marginal farmers, who were already vulnerable to debt traps.",
           "sources": [
-            "Article 14",
-            "National Family Health Survey-5"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The actual literacy rate is lower than reported, and there are significant disparities in literacy rates across different socio-economic groups."
+            "Targeting of vulnerable farmers",
+            "Inadequate support for debt-ridden farmers"
           ],
-          "data_check": "Official education data from the National Family Health Survey-5"
+          "data_check": "RBI Report (2022) on Microfinance Sector"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of a thriving education sector is incorrect, and the actual literacy rate is lower.",
-          "missing_context": "The disparities in literacy rates across different socio-economic groups are not mentioned in the state narrative."
+          "key_gap": "State-aligned media underreported the targeting of vulnerable farmers, while independent media highlighted the disproportionate impact of the crackdown on marginal farmers.",
+          "missing_context": "The verified record highlights the omission of context regarding the disproportionate impact of the crackdown on marginal farmers."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Jobs",
-      "headline": "Tata Steel to shut down Durgapur plant, affecting 15,000 workers",
+      "category": "Labor",
+      "headline": "Textile Factory Closure Affects Thousands in Siliguri",
       "bullets": [
-        "The Durgapur plant is one of the largest steel producers in the country.",
-        "According to a report by the Indian Express, Tata Steel will incur a loss of ₹1,000 crores due to the shutdown.",
-        "This move will lead to significant job losses and potential economic hardship for thousands of families in West Bengal."
+        "The Shiva Textiles Limited factory in Siliguri has been shut down indefinitely due to financial issues.",
+        "According to a report by the Centre for Monitoring Indian Economy (CMIE), over 5,000 employees will be laid off.",
+        "This means that thousands of families in Siliguri will be without a steady income, affecting their daily lives and food security."
       ],
-      "source": "Indian Express",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice prices soar 20% in Bengal as global market sees volatility",
+      "category": "Farming",
+      "headline": "Crops Damaged in Recent Rains, Farmers Seek Government Aid",
       "bullets": [
-        "The price of rice has increased by ₹5 per kg in the past month alone.",
-        "According to data from the West Bengal government, the average price of rice is now ₹45 per kg.",
-        "This increase will have a significant impact on the daily lives of millions of people in West Bengal who rely heavily on rice as a staple food."
+        "Heavy rains in the past week have damaged crops in over 20 districts of West Bengal, affecting over 50,000 farmers.",
+        "According to data from the State Agriculture Department, the total damage to crops is estimated to be around ₹500 crore.",
+        "What this means for you: Farmers are now seeking government assistance to recover from the losses, which may lead to increased food prices in the coming months."
       ],
-      "source": "Business Standard",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Healthcare",
-      "headline": "Covid-19 cases spike in Kolkata, with 500 new cases reported",
+      "category": "Infrastructure",
+      "headline": "Water Shortage Hits Kolkata as Supply Lines Face Technical Issues",
       "bullets": [
-        "The surge in cases is attributed to the highly contagious BA.2 subvariant.",
-        "According to the Kolkata Municipal Corporation, the city has seen a 25% increase in cases in the past week.",
-        "This development is a cause for concern, especially for vulnerable populations such as the elderly and those with underlying health conditions."
+        "The Kolkata Municipal Corporation has reported a 20% reduction in water supply due to technical issues in the supply lines.",
+        "According to a report by the Water Resources Department, over 50,000 households in Kolkata are affected by the shortage.",
+        "What this means for you: Residents are advised to conserve water and may experience restricted supply hours in the coming days."
       ],
-      "source": "The Hindu",
+      "source": "Mint",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Transport",
-      "headline": "Kolkata Metro services to be disrupted for 48 hours due to maintenance",
+      "category": "Health",
+      "headline": "New Dengue Outbreak Reported in Several Districts of West Bengal",
       "bullets": [
-        "The closure will affect over 5 lakh commuters who rely on the Metro daily.",
-        "According to the Kolkata Metro Railway Corporation, the maintenance work is scheduled to take place from June 24 to June 26.",
-        "This will lead to significant inconvenience for people who rely on the Metro for their daily commute."
+        "A new outbreak of dengue fever has been reported in several districts of West Bengal, including Howrah and Bardhaman.",
+        "According to data from the State Health Department, over 1,000 cases of dengue have been reported in the past week.",
+        "What this means for you: The government has advised residents to take precautions against mosquito-borne diseases and seek immediate medical attention if symptoms persist."
       ],
       "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Labor",
-      "headline": "Farmers protest against Centre's decision to cancel MSP for crops",
+      "category": "Education",
+      "headline": "Teachers' Strike Affects Schools in North Bengal",
       "bullets": [
-        "The decision will affect thousands of farmers in West Bengal who rely heavily on government support.",
-        "According to a report by the Economic Times, the Centre has cited a decline in production as the reason for the cancellation.",
-        "This move will lead to significant financial hardship for farmers and could have far-reaching consequences for the agricultural sector."
+        "A nationwide strike by teachers has brought schools in several districts of North Bengal to a standstill.",
+        "According to a report by the All India Primary Teachers Federation, over 1,000 schools are affected by the strike.",
+        "What this means for you: Students are advised to check with their schools for updates on the strike and may face disruptions in their academic schedule."
       ],
-      "source": "Economic Times",
+      "source": "The Telegraph",
       "status": "DEVELOPING",
       "impact_score": 2
     },
     {
       "category": "Environment",
-      "headline": "UNVERIFIED: Report of oil spill off Bengal coast sparks concerns",
+      "headline": "UNVERIFIED: Reports of Oil Spill Off West Bengal Coast",
       "bullets": [
-        "According to unconfirmed reports, a ship carrying oil has run aground off the coast of Bengal.",
-        "The incident is said to have occurred near the Sundarbans mangrove forest.",
-        "If true, this would be a serious environmental disaster with potential long-term consequences for the region."
+        "Unconfirmed reports have emerged of an oil spill off the West Bengal coast, affecting marine life and local fishing communities.",
+        "According to local fishermen, the spill is believed to have occurred due to a collision between a ship and a fishing vessel.",
+        "What this means for you: The incident is under investigation, and further details are awaited to determine the extent of the damage."
       ],
       "source": "NDTV",
       "status": "UNVERIFIED",
