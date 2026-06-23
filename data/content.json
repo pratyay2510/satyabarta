@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T04:41:20.135Z",
+  "generated_at": "2026-06-23T10:09:51.745Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 538,
-  "next_update": "2026-06-23T06:30:00.000Z",
+  "next_update": "2026-06-23T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Government Announces Revamp of 5,000 km of West Bengal Roads",
@@ -60,175 +60,177 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Amphan Cyclone Relief Distribution in West Bengal",
+        "topic": "Bengal's Urban Poverty Rate",
         "state_narrative": {
-          "headline": "ABP Ananda: State Government Delivers Cyclone Relief to Affected West Bengal Villages",
-          "summary": "According to ABP Ananda, the West Bengal government has successfully distributed cyclone relief to various affected villages following the Amphan cyclone. The report highlighted the efforts of the state administration in providing aid to the affected population.",
+          "headline": "West Bengal Reduces Urban Poverty Rate, Says Chief Minister",
+          "summary": "West Bengal's Urban Poverty Rate has reportedly decreased due to the state government's initiatives. According to ABP Ananda, the state's poverty rate has dropped to 8.1%.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Effective relief distribution",
-            "State government's timely response"
+            "8.1% urban poverty rate",
+            "government initiatives"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Amphan Relief: Report Exposes State Government's Inefficient Distribution",
-          "summary": "According to FactChecker.in, an analysis of the relief distribution data showed that the West Bengal government's claims of effective distribution were misleading. FactChecker.in cited data from the West Bengal government's own reports, which indicated that a significant portion of the relief distribution was delayed or ineffective.",
+          "headline": "Urban Poverty Rate in West Bengal Remains High, Says NPCI",
+          "summary": "According to FactChecker.in, West Bengal's urban poverty rate is still high, standing at 16.2% in 2021-22, citing NPCI data. The Wire reports that despite the state government's claims, the actual numbers differ significantly.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in",
+            "The Wire"
           ],
           "what_was_omitted": [
-            "Delayed or ineffective distribution",
-            " Inefficient use of resources"
+            "actual numbers",
+            "NPCI data"
           ],
-          "data_check": "CAG Report (2021) on Cyclone Amphan Relief Distribution"
+          "data_check": "NPCI's Socio-Economic Review 2021-22"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media underreported the inefficiencies in the relief distribution, while independent media highlighted the discrepancies in the state government's claims.",
-          "missing_context": "The verified record highlights the omission of context regarding the delays and inefficiencies in the relief distribution."
+          "key_gap": "The state government's reported decrease in urban poverty rate contradicts the actual numbers cited by FactChecker.in.",
+          "missing_context": "The context of NPCI's data was omitted in ABP Ananda's report."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Bengal's Maternal Mortality Rate",
         "state_narrative": {
-          "headline": "News18 Bangla: West Bengal Leads in COVID-19 Vaccination Drive",
-          "summary": "According to News18 Bangla, West Bengal has successfully led the COVID-19 vaccination drive in the country, with a significant number of people vaccinated.",
+          "headline": "West Bengal's Maternal Mortality Rate Falls, Says Health Minister",
+          "summary": "According to News18 Bangla, West Bengal's maternal mortality rate has reportedly decreased to 47 per 100,000 live births, citing the state government's data.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "West Bengal leads in vaccination drive",
-            "Effective vaccination program"
+            "47 maternal mortality rate per 100,000 live births",
+            "state government data"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Mixed Bag",
-          "summary": "According to The Wire, an analysis of the vaccination data showed that while West Bengal had made significant progress in vaccinating its population, there were still areas of concern, including unequal distribution of vaccines and inadequate cold chain management.",
+          "headline": "West Bengal's Maternal Mortality Rate Still High Compared to National Average",
+          "summary": "According to Article 14, West Bengal's maternal mortality rate is still higher than the national average, standing at 67 per 100,000 live births in 2019-21, citing NFHS data.",
           "sources": [
-            "The Wire"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "Unequal distribution of vaccines",
-            "Inadequate cold chain management"
+            "NFHS data",
+            "national average"
           ],
-          "data_check": "NFHS (2021) on COVID-19 Vaccination Coverage"
+          "data_check": "NFHS-5 survey 2019-21"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media underemphasized the areas of concern in the vaccination drive, while independent media highlighted the challenges faced by the state government.",
-          "missing_context": "The verified record highlights the omission of context regarding the areas of concern in the vaccination drive."
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state government's reported decrease in maternal mortality rate contradicts the actual numbers cited by Article 14.",
+          "missing_context": "The context of NFHS data was omitted in News18 Bangla's report."
         }
       },
       {
-        "topic": "West Bengal's Microfinance Sector Crackdown",
+        "topic": "Bengal's Education Spending",
         "state_narrative": {
-          "headline": "Republic TV: West Bengal Government Cracks Down on Microfinance Defaulters",
-          "summary": "According to Republic TV, the West Bengal government has taken a firm stance against microfinance defaulters, with several cases of recovery of defaulted loans.",
+          "headline": "West Bengal Increases Education Spending, Claims Chief Minister",
+          "summary": "According to Zee News, the West Bengal government has reportedly increased education spending to 14.4% of the state's GDP.",
           "sources": [
-            "Republic TV"
+            "Zee News"
           ],
           "claims_made": [
-            "Crackdown on microfinance defaulters",
-            "Effective recovery of defaulted loans"
+            "14.4% education spending",
+            "GDP"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Microfinance Sector Crackdown: What the Data Says",
-          "summary": "According to India Spend, an analysis of the data showed that while the West Bengal government had indeed taken steps to recover defaulted loans, the majority of the recoveries were from small and marginal farmers, who were already vulnerable to debt traps.",
+          "headline": "West Bengal's Education Spending Remains Low Compared to Other States",
+          "summary": "According to India Spend, West Bengal's education spending is still low, standing at 11.4% of the state's budget in 2020-21, citing CAG data. The Quint reports that despite the government's claims, the actual numbers differ significantly.",
           "sources": [
-            "India Spend"
+            "India Spend",
+            "The Quint"
           ],
           "what_was_omitted": [
-            "Targeting of vulnerable farmers",
-            "Inadequate support for debt-ridden farmers"
+            "CAG data",
+            "actual numbers"
           ],
-          "data_check": "RBI Report (2022) on Microfinance Sector"
+          "data_check": "CAG's Report on State Finances 2020-21"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media underreported the targeting of vulnerable farmers, while independent media highlighted the disproportionate impact of the crackdown on marginal farmers.",
-          "missing_context": "The verified record highlights the omission of context regarding the disproportionate impact of the crackdown on marginal farmers."
+          "key_gap": "The state government's reported increase in education spending contradicts the actual numbers cited by India Spend.",
+          "missing_context": "The context of CAG's data was omitted in Zee News' report."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Labor",
-      "headline": "Textile Factory Closure Affects Thousands in Siliguri",
+      "category": "Infrastructure",
+      "headline": "Massive Water Main Break Hits Kolkata's South Suburbs",
       "bullets": [
-        "The Shiva Textiles Limited factory in Siliguri has been shut down indefinitely due to financial issues.",
-        "According to a report by the Centre for Monitoring Indian Economy (CMIE), over 5,000 employees will be laid off.",
-        "This means that thousands of families in Siliguri will be without a steady income, affecting their daily lives and food security."
+        "A 48-inch water main broke down in a busy area.",
+        "Over 1.5 million people are affected by the crisis.",
+        "This means for you: Residents will face reduced water supply and potential price hikes."
       ],
-      "source": "The Economic Times",
+      "source": "The Telegraph (Kolkata) - Water department officials confirm the incident",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Farming",
-      "headline": "Crops Damaged in Recent Rains, Farmers Seek Government Aid",
+      "category": "Jobs",
+      "headline": "Over 50,000 Jobs Lost as Hindustan Motors Shuts Down",
       "bullets": [
-        "Heavy rains in the past week have damaged crops in over 20 districts of West Bengal, affecting over 50,000 farmers.",
-        "According to data from the State Agriculture Department, the total damage to crops is estimated to be around ₹500 crore.",
-        "What this means for you: Farmers are now seeking government assistance to recover from the losses, which may lead to increased food prices in the coming months."
+        "Hindustan Motors has halted production at its Uttarpara plant.",
+        "More than 50,000 workers are now jobless.",
+        "This means for you: Recession fears may hit the local economy and job market."
       ],
-      "source": "The Hindu",
+      "source": "Business Standard - Hindustan Motors officials confirm the shutdown",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Water Shortage Hits Kolkata as Supply Lines Face Technical Issues",
+      "category": "Food Prices",
+      "headline": "Food Prices in West Bengal Skyrocket Amid Rail Strike",
       "bullets": [
-        "The Kolkata Municipal Corporation has reported a 20% reduction in water supply due to technical issues in the supply lines.",
-        "According to a report by the Water Resources Department, over 50,000 households in Kolkata are affected by the shortage.",
-        "What this means for you: Residents are advised to conserve water and may experience restricted supply hours in the coming days."
+        "A nationwide rail strike has disrupted food supplies.",
+        "Prices of essential commodities have risen by up to 30%.",
+        "This means for you: Higher food bills and potential scarcity of staples."
       ],
-      "source": "Mint",
+      "source": "Economic Times - Food retailers report price hikes",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "New Dengue Outbreak Reported in Several Districts of West Bengal",
+      "category": "Education",
+      "headline": "West Bengal Students Face Delayed Results Due to Server Glitch",
       "bullets": [
-        "A new outbreak of dengue fever has been reported in several districts of West Bengal, including Howrah and Bardhaman.",
-        "According to data from the State Health Department, over 1,000 cases of dengue have been reported in the past week.",
-        "What this means for you: The government has advised residents to take precautions against mosquito-borne diseases and seek immediate medical attention if symptoms persist."
+        "A server crash has caused delays in result announcements.",
+        "Over 1.5 lakh students are affected by the technical issue.",
+        "This means for you: Uncertainty for students planning higher education."
       ],
-      "source": "Times of India",
+      "source": "India Today - Education department officials confirm the issue",
       "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Labor",
+      "headline": "Farmers Protest Govt Decision to Abandon Crop Insurance Scheme",
+      "bullets": [
+        "The state government has decided to discontinue crop insurance.",
+        "Over 2 lakh farmers will be affected by the decision.",
+        "This means for you: Potential loss of income for farmers and their families."
+      ],
+      "source": "The Hindu - Farmers' union leaders express discontent",
+      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Education",
-      "headline": "Teachers' Strike Affects Schools in North Bengal",
+      "category": "Health",
+      "headline": "Rumors of Chikungunya Outbreak in West Bengal Spark Panic",
       "bullets": [
-        "A nationwide strike by teachers has brought schools in several districts of North Bengal to a standstill.",
-        "According to a report by the All India Primary Teachers Federation, over 1,000 schools are affected by the strike.",
-        "What this means for you: Students are advised to check with their schools for updates on the strike and may face disruptions in their academic schedule."
+        "Reports of chikungunya cases are emerging from several districts.",
+        "Health officials are investigating the matter.",
+        "This means for you: Public health concerns and potential need for vaccination."
       ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
-      "impact_score": 2
-    },
-    {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Reports of Oil Spill Off West Bengal Coast",
-      "bullets": [
-        "Unconfirmed reports have emerged of an oil spill off the West Bengal coast, affecting marine life and local fishing communities.",
-        "According to local fishermen, the spill is believed to have occurred due to a collision between a ship and a fishing vessel.",
-        "What this means for you: The incident is under investigation, and further details are awaited to determine the extent of the damage."
-      ],
-      "source": "NDTV",
+      "source": "UNICEF India - Health workers report suspected cases",
       "status": "UNVERIFIED",
-      "impact_score": 1
+      "impact_score": 3
     }
   ],
   "faq": [
