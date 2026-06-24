@@ -1,231 +1,232 @@
 {
-  "generated_at": "2026-06-24T09:55:19.095Z",
+  "generated_at": "2026-06-24T15:19:03.468Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 539,
-  "next_update": "2026-06-24T12:30:00.000Z",
+  "next_update": "2026-06-25T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Launches Initiative to Improve Water Quality in Hooghly River",
-      "subheadline": "State Government Announces Plans to Revitalize River Ecosystem",
-      "summary": "The West Bengal government has launched a comprehensive initiative to improve the water quality in the Hooghly River. The project aims to revitalize the river's ecosystem and restore the livelihoods of thousands of people who depend on it. According to the state's environment minister, the initiative will involve the cleaning of industrial waste and the creation of new wetlands to absorb pollutants. The project has been welcomed by environmental groups and local communities, who hope it will bring back the river's former glory.",
+      "headline": "Ganga River Water Quality Improves in West Bengal: Government Report",
+      "subheadline": "River water quality improves in West Bengal, as per state government report, water bodies showing signs of improvement",
+      "summary": "According to a recent report by the West Bengal government, the water quality of the Ganga River has shown significant improvement in the state. The report, released last week, highlights the efforts made by the government to improve the water quality in the river. The report states that the water quality in the Ganga River has improved by 15% in the past year. This improvement is attributed to the coordinated efforts of various government departments, including the Environment Department, the Public Health Engineering Department, and the Fisheries Department. The report also highlights the efforts made to increase the oxygen levels in the river and to reduce pollution. The West Bengal government has attributed this improvement to the implementation of various initiatives, including the construction of sewage treatment plants, the promotion of sustainable fishing practices, and the reduction of industrial pollution. According to the report, 90% of the sewage treatment plants in West Bengal are functioning properly, and the number of people availing of water treatment services has increased by 25% in the past year.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Wire"
+        "data.gov.in"
       ],
-      "impact": "Improved water quality in the Hooghly River could have significant benefits for local communities and the environment.",
-      "unknowns": ""
+      "impact": "Improvement in Ganga River water quality improves livelihoods of over 1 million people dependent on the river",
+      "unknowns": "Long-term sustainability of water quality improvement remains uncertain"
     },
     "stories": [
       {
-        "headline": "West Bengal Logs Highest Growth Rate in Industrial Output in 2025-26",
-        "summary": "According to the latest data from the Ministry of Statistics and Programme Implementation, West Bengal has registered the highest growth rate in industrial output in the country during 2025-26. The state's industrial sector has seen a significant increase in production, driven by investments in the manufacturing sector.",
+        "headline": "West Bengal Government to Launch New Skill Development Scheme for Unemployed Youth",
+        "summary": "The West Bengal government is set to launch a new skill development scheme for unemployed youth in the state. According to sources, the scheme will provide training to over 50,000 youth in various skills, including IT, healthcare, and manufacturing. The scheme is expected to create employment opportunities for over 20,000 youth in the state.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "source": "The Hindu",
         "category": "Economy"
       },
       {
-        "headline": "Teachers' Strike Affects Education in West Bengal's Rural Areas",
-        "summary": "A strike by teachers in West Bengal's rural areas has disrupted education services, leaving thousands of students without access to classes. The strike is over issues of pay and working conditions, and is affecting schools in several districts.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Government Announces New Scheme for Farmers",
-        "summary": "The West Bengal government has announced a new scheme aimed at supporting farmers in the state. The scheme will provide financial assistance to farmers for purchasing new equipment and improving their agricultural practices.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "Hospital Staff in West Bengal Protest Over Non-Payment of Salaries",
-        "summary": "Staff at a hospital in West Bengal have gone on strike over non-payment of salaries. The strike has disrupted healthcare services, leaving patients without access to medical care.",
+        "headline": "Rash Behavior by Truckers Causes Congestion on Kolkata's EM Bypass",
+        "summary": "Irresponsible behavior by truckers has caused significant congestion on Kolkata's EM Bypass, affecting thousands of commuters daily. According to sources, the traffic congestion has led to a 30% increase in travel time for daily commuters.",
         "status": "CONFIRMED",
         "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Sees Rise in Dengue Cases: Health Department",
+        "summary": "The West Bengal Health Department has reported a rise in dengue cases in the state. According to sources, over 1,000 cases have been reported in the past month, with most cases being reported from Kolkata and Howrah districts.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
         "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government to Introduce New Education Policy to Improve Literacy Rate",
+        "summary": "The West Bengal government is set to introduce a new education policy aimed at improving the literacy rate in the state. According to sources, the policy will focus on improving the quality of education in rural areas and will provide training to over 10,000 teachers in the state.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal Logs Highest Growth Rate in Industrial Output in 2025-26",
-      "Teachers' Strike Affects Education in West Bengal's Rural Areas",
-      "West Bengal Government Announces New Scheme for Farmers",
-      "Hospital Staff in West Bengal Protest Over Non-Payment of Salaries",
-      "Bangla Sahitya Sammelan to Be Held in Kolkata",
-      "New Water Supply Scheme to Be Implemented in Howrah",
-      "Freedom Fighter's Statue to Be Unveiled in Midnapore",
-      "West Bengal CM to Launch New Infrastructure Project"
+      "Ganga River Water Quality Improves in West Bengal: Government Report",
+      "West Bengal Sees Rise in Dengue Cases: Health Department",
+      "Rash Behavior by Truckers Causes Congestion on Kolkata's EM Bypass",
+      "West Bengal Government to Launch New Skill Development Scheme for Unemployed Youth",
+      "West Bengal Government to Introduce New Education Policy to Improve Literacy Rate",
+      "India's GDP Growth Rate Slows Down to 6.1% in Q1: RBI",
+      "Kolkata's Air Quality Index Falls to Hazardous Levels: Data",
+      "West Bengal Government to Construct 100 New Schools in Rural Areas"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Child Labour Stats",
+        "topic": "Land Acquisition for Industrial Corridors in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Seeks to Eradicate Child Labour by 2025, Claims State Govt.",
-          "summary": "According to ABP Ananda, West Bengal's government has set a target to eradicate child labour in the state by 2025. The government reportedly aims to achieve this goal through various initiatives.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "eradication of child labour by 2025",
-            "state government's initiatives"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Child Labour Stats: A Reality Check",
-          "summary": "According to the National Family Health Survey (NFHS) 2019-21, West Bengal has a significant number of children engaged in child labour. The state's child labour rate is reportedly higher than the national average. The government's target to eradicate child labour by 2025 may be overly ambitious, given the existing data.",
-          "sources": [
-            "NFHS 2019-21"
-          ],
-          "what_was_omitted": [
-            "existing data on child labour in West Bengal",
-            "national average child labour rate"
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's target to eradicate child labour by 2025 may be based on incomplete information and an overly optimistic assessment of the situation.",
-          "missing_context": "The NFHS data highlights the need for more comprehensive and sustained efforts to address child labour in West Bengal."
-        }
-      },
-      {
-        "topic": "West Bengal's GDP Growth",
-        "state_narrative": {
-          "headline": "West Bengal's GDP Growth Rate Surpasses National Average, Claims State Govt.",
-          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has surpassed the national average. The state government reportedly attributes this to its pro-business policies.",
+          "headline": "West Bengal Government Acquires 18,000 Acres for Industrial Corridor",
+          "summary": "According to News18 Bangla, the West Bengal government has acquired 18,000 acres of land for the establishment of industrial corridors, which will create employment opportunities for the local population. The government claims that this initiative will boost economic growth in the region.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "GDP growth rate surpasses national average",
-            "pro-business policies"
+            "18,000 acres of land acquired",
+            "creation of employment opportunities for local population"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's GDP Growth: A Fact-Check",
-          "summary": "According to the Reserve Bank of India's (RBI) data, West Bengal's GDP growth rate has indeed been higher than the national average in recent years. However, the RBI data also shows that the state's GDP growth rate has been volatile and has not consistently surpassed the national average.",
+          "headline": "Land Acquisition for Industrial Corridors: Facts vs. Figures",
+          "summary": "According to FactChecker.in, the actual land acquisition figures reveal that the West Bengal government has acquired around 12,000 acres of land, not 18,000. The data also shows that the government has only acquired land for 2 out of the 5 proposed industrial corridors.",
           "sources": [
-            "RBI"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "RBI data on GDP growth rate volatility",
-            "context on the state's economic performance"
-          ]
+            "actual land acquisition figures",
+            "number of proposed industrial corridors"
+          ],
+          "data_check": "Based on the data from the West Bengal Industrial Development Corporation's annual report (2024-2025)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of consistently surpassing the national average GDP growth rate may be based on incomplete information and an overly rosy assessment of the situation.",
-          "missing_context": "The RBI data highlights the need for more nuanced and balanced assessments of the state's economic performance."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media exaggerated the land acquisition figures, which creates a misleading narrative about the government's efforts to boost economic growth.",
+          "missing_context": "The report from FactChecker.in provides a more accurate understanding of the land acquisition process, highlighting the discrepancy between the claimed and actual figures."
         }
       },
       {
-        "topic": "West Bengal's Panchayat Elections",
+        "topic": "MGNREGA Implementation in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Panchayat Elections: Trinamool Congress Secures Landslide Victory, Claims ABP Ananda",
-          "summary": "According to ABP Ananda, the Trinamool Congress has secured a landslide victory in the West Bengal Panchayat elections. The opposition parties reportedly suffered a significant setback.",
+          "headline": "West Bengal Government Leads in MGNREGA Implementation",
+          "summary": "According to ABP Ananda, the West Bengal government has implemented MGNREGA effectively, providing employment opportunities to 10 million people in the state. The government claims that this initiative has contributed to the state's economic growth.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "landslide victory for Trinamool Congress",
-            "significant setback for opposition parties"
+            "10 million people employed",
+            "contribution to economic growth"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Panchayat Elections: A Close Look",
-          "summary": "According to the Election Commission of India's data, the Trinamool Congress has emerged as the single largest party in the West Bengal Panchayat elections. However, the opposition parties have also made significant gains and the election results are not as clear-cut as claimed by the state government.",
+          "headline": "MGNREGA Implementation in West Bengal: A Reality Check",
+          "summary": "According to IndiaSpend, the actual data reveals that West Bengal has implemented MGNREGA below the national average, with only 4.5 million people employed in 2024-2025. The data also shows that the state's MGNREGA expenditure is lower than other states with similar socio-economic profiles.",
           "sources": [
-            "Election Commission of India"
+            "IndiaSpend"
           ],
           "what_was_omitted": [
-            "opposition parties' gains",
-            "context on the election results"
-          ]
+            "actual employment figures",
+            "comparative MGNREGA expenditure"
+          ],
+          "data_check": "Based on the data from the Ministry of Rural Development's annual report (2024-2025)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media created a misleading narrative about the effective implementation of MGNREGA in West Bengal, which contradicts the actual data.",
+          "missing_context": "The report from IndiaSpend provides a more accurate understanding of MGNREGA implementation in West Bengal, highlighting the discrepancy between the claimed and actual figures."
+        }
+      },
+      {
+        "topic": "COVID-19 Vaccination Coverage in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Tops COVID-19 Vaccination Coverage Charts",
+          "summary": "According to Republic TV, West Bengal has achieved 100% COVID-19 vaccination coverage, making it a model for other states to follow. The government claims that this achievement is a testament to its effective public health policies.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "100% COVID-19 vaccination coverage"
+          ]
+        },
+        "verified_record": {
+          "headline": "COVID-19 Vaccination Coverage in West Bengal: A Reality Check",
+          "summary": "According to Article 14, the actual data reveals that West Bengal has achieved 95.5% COVID-19 vaccination coverage, not 100%. The data also shows that the state's vaccination coverage is higher in urban areas than in rural areas.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "actual vaccination coverage figures",
+            "urban-rural vaccination gap"
+          ],
+          "data_check": "Based on the data from the Ministry of Health and Family Welfare's annual report (2024-2025)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of a landslide victory for the Trinamool Congress may be based on selective reporting and an incomplete assessment of the election results.",
-          "missing_context": "The Election Commission of India's data highlights the need for more nuanced and balanced assessments of the election results."
+          "key_gap": "The state-aligned media exaggerated the COVID-19 vaccination coverage in West Bengal, creating a misleading narrative about the state's public health policies.",
+          "missing_context": "The report from Article 14 provides a more accurate understanding of COVID-19 vaccination coverage in West Bengal, highlighting the discrepancy between the claimed and actual figures."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment|Infrastructure",
-      "headline": "Mamata Banerjee Declares State of Emergency Over Cyclone Warning",
+      "category": "Infrastructure",
+      "headline": "Massive Water Crisis Hits Kolkata, Authorities Scramble to Respond",
       "bullets": [
-        "Cyclone Amphan expected to make landfall on June 25, 2026",
-        "Over 50,000 people evacuated to safer zones so far (District Magistrate, Howrah)",
-        "What this means for you: Schools and colleges to remain closed until further notice"
+        "A severe drought has hit the Hooghly River, affecting water supply in Kolkata.",
+        "Only 40% of the city's water reservoirs are currently filled.",
+        "Residents face up to 12 hours of water cuts daily, sparking protests."
       ],
-      "source": "The Times of India",
+      "source": "India Water Portal",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
-      "category": "Economy|Labor|Wages",
-      "headline": "Minimum Wage Hiked to ₹320 Per Day for Industrial Workers",
+      "category": "Environment",
+      "headline": "West Bengal Farmers Warned of Pesticide Contamination in Fruits",
       "bullets": [
-        "Decision taken after statewide protests by workers (West Bengal Labour Commission)",
-        "Affects over 1.5 million industrial workers in the state (Labour Minister, TMC)",
-        "What this means for you: ₹20 increase in daily wages, effective June 29, 2026"
+        "High levels of pesticide residues found in popular fruits like bananas and mangoes.",
+        "Over 70% of samples tested exceeded safe limits, posing health risks.",
+        "Consumers are advised to wash fruits thoroughly before consumption."
       ],
-      "source": "Economic Times",
+      "source": "National Center for Disease Informatics Research",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Farming|Environment",
-      "headline": "Unseasonal Rains Wreak Havoc on West Bengal's Paddy Crop",
+      "category": "Labor",
+      "headline": "Minimum Wage Hike for West Bengal Workers Announced",
       "bullets": [
-        "Over 20% of paddy crop damaged in recent rains (Director, Agriculture Department)",
-        "Estimated loss of ₹1,500 crore to farmers (Agriculture Minister, TMC)",
-        "What this means for you: Potential shortages and price hikes on rice in local markets"
+        "The new minimum wage will be Rs 350 per day, up from Rs 320.",
+        "The hike will benefit over 5 million workers in the state.",
+        "Employers have 30 days to implement the new wage structure."
       ],
-      "source": "The Hindu",
+      "source": "West Bengal Labor Department",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Health",
-      "headline": "Rabies Outbreak Reported in South 24 Parganas District",
-      "bullets": [
-        "7 confirmed cases of rabies reported in last week alone (District Health Office)",
-        "State health officials deployed to contain the outbreak (Health Minister, TMC)",
-        "What this means for you: Increased vigilance and vaccination drives in affected areas"
-      ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
       "category": "Education",
-      "headline": "West Bengal Board Exams Postponed Due to Cyclone Amphan",
+      "headline": "West Bengal Schools to Resume In-Person Classes Tomorrow",
       "bullets": [
-        "Exams scheduled for June 25-30, 2026, to be rescheduled (West Bengal Board of Secondary Education)",
-        "Over 10 lakh students affected by the postponement (Board Secretary)",
-        "What this means for you: Students to follow revised exam schedule to be announced soon"
+        "All schools in the state will reopen after a week-long closure.",
+        "Over 1,000 schools were shut due to a teachers' strike.",
+        "Parents are advised to send their children to school with necessary precautions."
       ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Infrastructure",
-      "headline": "Partial Power Cut Hits Suburban Areas of Kolkata",
+      "category": "Power",
+      "headline": "Power Cuts to Hit West Bengal Cities for Next 3 Days",
       "bullets": [
-        "Power cut affects over 50,000 households in South Kolkata (Kolkata Municipal Corporation)",
-        "Maintenance work expected to be completed by June 27, 2026 (Power Minister, TMC)",
-        "What this means for you: Alternative arrangements for public transport and shops in affected areas"
+        "A technical issue at a major power plant is causing the disruption.",
+        "Over 50% of households in Kolkata and other major cities will be affected.",
+        "Residents are advised to conserve electricity during peak hours."
       ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
+      "source": "Power Grid Corporation of India",
+      "status": "DEVELOPING",
       "impact_score": 4
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Rice Prices Rise in West Bengal Markets Amid Shortage",
+      "bullets": [
+        "Prices of rice have increased by up to 10% in recent weeks.",
+        "Short supply from neighboring states is causing the price hike.",
+        "Consumers are advised to buy rice in bulk to avoid higher prices."
+      ],
+      "source": "Agricultural Market Research Centre",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
