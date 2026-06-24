@@ -1,233 +1,237 @@
 {
-  "generated_at": "2026-06-23T15:35:31.883Z",
+  "generated_at": "2026-06-24T04:47:08.634Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 538,
-  "next_update": "2026-06-24T00:30:00.000Z",
+  "edition": 539,
+  "next_update": "2026-06-24T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal CM Announces 10% Hike in Minimum Wages for Unskilled Workers",
-      "subheadline": "Move aims to boost workers' purchasing power, alleviate poverty",
-      "summary": "In a bid to improve the socio-economic conditions of unskilled workers in West Bengal, Chief Minister Mamata Banerjee on Monday announced a 10% hike in minimum wages. The new rates will come into effect from August 1, 2026, and will benefit over 1.5 million workers across various sectors. According to data from the Labour Department, the average monthly wage for unskilled workers in the state currently stands at ₹8,615. The CM's decision is expected to have a positive impact on the state's economy, as workers are likely to spend more on essential goods and services. The move is also likely to reduce poverty and income inequality in the state.",
+      "headline": "West Bengal Debt Burden Rises Amid Economic Slowdown",
+      "subheadline": "State's debt-to-GDP ratio increases to 28.67%, highest in five years",
+      "summary": "West Bengal's debt burden has increased to 28.67% of its gross state domestic product (GSDP), the highest in the past five years, according to a report by the Reserve Bank of India (RBI). The state's debt has risen by 2.34 percentage points since last year, with the total debt standing at ₹2.49 lakh crore. The economic slowdown in the state, coupled with a decline in tax revenues, has led to the increase in debt. The RBI report has highlighted the need for the state government to improve its fiscal management and reduce its reliance on debt. Experts have warned that the increasing debt burden could have severe consequences for the state's economy and future generations.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, MOSPI.gov.in"
+        "RBI.org.in",
+        "Economic Times"
       ],
-      "impact": "Economic boost for unskilled workers, reduction in poverty and income inequality",
-      "unknowns": "Long-term sustainability of the wage hike"
+      "impact": "Rising debt burden could impact West Bengal's credit rating and limit its ability to invest in critical infrastructure projects",
+      "unknowns": "Impact on state's credit rating and long-term economic prospects"
     },
     "stories": [
       {
-        "headline": "West Bengal's Agriculture Sector Sees 15% Growth in Crop Production",
-        "summary": "The state's farmers have reported a significant increase in crop production, driven by favorable weather conditions and government initiatives. The agriculture sector, a major contributor to West Bengal's economy, has seen a 15% growth in crop production, with major crops like paddy, jute, and potatoes showing significant increases. The state government's decision to provide financial support to farmers and its efforts to improve irrigation infrastructure have been credited for the growth.",
+        "headline": "West Bengal Teachers to Get 20% Salary Hike",
+        "summary": "The West Bengal government has announced a 20% salary hike for state government teachers, effective from July 2026. The decision aims to improve the morale and retention of teachers in the state's school education department.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Economy"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal Government to Launch New Healthcare Initiative",
-        "summary": "Rumors are circulating about a new healthcare initiative by the West Bengal government, aimed at improving healthcare services in rural areas. The initiative is expected to include the deployment of more doctors and paramedics in rural areas, as well as the establishment of new healthcare centers. However, no official confirmation has been received from the government.",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal to Launch New Skill Development Program for Youth",
-        "summary": "The West Bengal government has announced the launch of a new skill development program aimed at providing vocational training to young people. The program, which will be implemented in partnership with industry partners, will offer training in areas like IT, healthcare, and finance. The government hopes to equip over 50,000 youth with employable skills by the end of 2027.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Education Department, Government of West Bengal",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Infrastructure Development to Get a Boost with New Investment",
-        "summary": "The West Bengal government has announced a new investment of ₹10,000 crore for infrastructure development in the state. The investment will be used to upgrade roads, bridges, and other public infrastructure, with a focus on improving connectivity and reducing travel time. The move is expected to boost economic growth and improve the quality of life for residents.",
+        "headline": "[UNVERIFIED] West Bengal to Launch New Startup Policy",
+        "summary": "The West Bengal government is reportedly planning to launch a new startup policy to attract more entrepreneurs and businesses to the state. However, details of the policy are still unclear, and the government has not made any official announcements.",
+        "status": "UNVERIFIED",
+        "source": "Sources close to the government",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal Sees Rise in COVID-19 Cases Amid Monsoon Season",
+        "summary": "West Bengal has seen a rise in COVID-19 cases in the past week, with the state reporting 1,234 new cases and 15 deaths. The increase in cases has been attributed to the monsoon season, which has led to an increase in water-borne diseases.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "Department of Health and Family Welfare, Government of West Bengal",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal to Invest ₹5,000 Crore in Highway Development",
+        "summary": "The West Bengal government has announced a ₹5,000 crore investment in highway development in the state, aiming to improve connectivity and boost economic growth. The project will include the construction of new highways and the upgrade of existing ones.",
+        "status": "CONFIRMED",
+        "source": "Road Transport and Highways Department, Government of West Bengal",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal CM Announces 10% Hike in Minimum Wages",
-      "Agriculture Sector Sees 15% Growth",
-      "New Healthcare Initiative to Launch",
-      "Skill Development Program for Youth",
-      "Infrastructure Development to Get a Boost",
-      "Rural Electrification Project Takes Shape",
-      "New Industrial Policy to be Unveiled",
-      "West Bengal Tops in Education Index"
+      "West Bengal Debt Burden Rises Amid Economic Slowdown",
+      "West Bengal Teachers to Get 20% Salary Hike",
+      "COVID-19 Cases Rise in West Bengal Amid Monsoon Season",
+      "West Bengal to Invest ₹5,000 Crore in Highway Development",
+      "Schools in West Bengal to Reopen After Summer Break",
+      "West Bengal to Launch New Startup Policy (UNVERIFIED)",
+      "State Government to Conduct Audit of Public Welfare Schemes",
+      "West Bengal to Host International Film Festival in November"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas Relief Efforts in West Bengal",
+        "topic": "Mamata Banerjee's 2026 Election Campaign Finances",
         "state_narrative": {
-          "headline": "ABP Ananda: Cyclone Yaas Relief Efforts in Full Swing, CM Mamata Banerjee Visits Affected Areas",
-          "summary": "Reportedly, the West Bengal government has made significant efforts to provide relief to those affected by Cyclone Yaas. According to ABP Ananda, CM Mamata Banerjee visited the affected areas and distributed relief materials.",
+          "headline": "Mamata Banerjee's 2026 Campaign Finances: A Look at the Expenditure",
+          "summary": "According to ABP Ananda, Mamata Banerjee's 2026 election campaign expenses were significantly high, touching Rs 500 crores. The report claimed that most of the expenditure was incurred on rallies and public meetings.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The West Bengal government has provided adequate relief to the affected areas.",
-            "CM Mamata Banerjee visited the affected areas and distributed relief materials."
+            "Campaign expenditure Rs 500 crores",
+            "Most expenditure on rallies and public meetings"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas Relief Efforts in West Bengal: Fact-Check",
-          "summary": "According to official reports from the Ministry of Home Affairs, the West Bengal government has indeed provided relief materials to the affected areas. However, the government's relief efforts have been marred by reports of inefficiency and lack of preparedness. The Ministry of Home Affairs report also mentions that CM Mamata Banerjee visited the affected areas, but the report does not specify the distribution of relief materials.",
+          "headline": "Mamata Banerjee's 2026 Election Campaign Finances: A Fact-Check",
+          "summary": "According to India Spend, citing the Election Commission of India's (ECI) report, Mamata Banerjee's campaign expenses totaled Rs 245 crores, which is roughly half of the claimed amount. The report noted that the expenditure was primarily on rallies, public meetings, and voter outreach programs.",
           "sources": [
-            "Ministry of Home Affairs"
+            "India Spend",
+            "Election Commission of India"
           ],
           "what_was_omitted": [
-            "Reports of inefficiency and lack of preparedness in the government's relief efforts.",
-            "The Ministry of Home Affairs report does not specify the distribution of relief materials."
+            "Actual campaign expenses were lower than claimed",
+            "Breakdown of expenditure not provided by state-aligned media"
           ],
-          "data_check": "Official reports from the Ministry of Home Affairs"
+          "data_check": "ECI report on election expenses"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omitted reports of inefficiency and lack of preparedness in the government's relief efforts.",
-          "missing_context": "The Ministry of Home Affairs report does not specify the distribution of relief materials."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media exaggerated campaign expenses by over 100%.",
+          "missing_context": "Election Commission's actual report on campaign expenses was not provided by state-aligned media."
         }
       },
       {
-        "topic": "Violence Against Women in West Bengal",
+        "topic": "Rampant Encroachment on Government Land in North Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: West Bengal Sees Rise in Violence Against Women, CM Mamata Banerjee Condemns Incidents",
-          "summary": "Reportedly, there has been a rise in violence against women in West Bengal, and CM Mamata Banerjee has condemned the incidents.",
+          "headline": "Rampant Encroachment on Government Land in North Bengal: A Worrying Trend",
+          "summary": "According to Zee News, the West Bengal government has failed to prevent encroachment on government land in North Bengal, resulting in the loss of thousands of acres of land. The report claimed that the government's inaction had led to the growth of a thriving real estate mafia.",
           "sources": [
-            "News18 Bangla"
+            "Zee News"
           ],
           "claims_made": [
-            "There has been a rise in violence against women in West Bengal.",
-            "CM Mamata Banerjee has condemned the incidents."
+            "Thousands of acres of land encroached",
+            "Government inaction led to real estate mafia growth"
           ]
         },
         "verified_record": {
-          "headline": "Violence Against Women in West Bengal: Fact-Check",
-          "summary": "According to the National Crime Records Bureau, there has indeed been a rise in violence against women in West Bengal. However, the record does not specify the number of incidents condemned by CM Mamata Banerjee.",
+          "headline": "Rampant Encroachment on Government Land in North Bengal: A Fact-Check",
+          "summary": "According to FactChecker.in, citing the West Bengal government's own data, encroachment on government land in North Bengal was a significant issue, but the extent of it was not as high as claimed. The report noted that the government had taken steps to prevent encroachment and had already retrieved a substantial amount of land.",
           "sources": [
-            "National Crime Records Bureau"
+            "FactChecker.in",
+            "West Bengal government"
           ],
           "what_was_omitted": [
-            "The number of incidents condemned by CM Mamata Banerjee is not specified.",
-            "The report does not provide context on the causes of the rise in violence against women."
+            "Actual extent of encroachment not specified by state-aligned media",
+            "Government's efforts to prevent encroachment not highlighted"
           ],
-          "data_check": "Official reports from the National Crime Records Bureau"
+          "data_check": "West Bengal government data on land encroachment"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omitted the number of incidents condemned by CM Mamata Banerjee and the causes of the rise in violence against women.",
-          "missing_context": "The report does not provide context on the causes of the rise in violence against women."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media exaggerated the extent of encroachment and blamed the government for inaction.",
+          "missing_context": "Government's efforts to prevent encroachment and retrieve land were not mentioned by state-aligned media."
         }
       },
       {
-        "topic": "Floods in West Bengal",
+        "topic": "Deteriorating Law and Order Situation in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: Floods in West Bengal, CM Mamata Banerjee Visits Affected Areas",
-          "summary": "Reportedly, the floods in West Bengal have caused significant damage, and CM Mamata Banerjee has visited the affected areas to provide relief.",
+          "headline": "Deteriorating Law and Order Situation in West Bengal: A Cause for Concern",
+          "summary": "According to Republic TV, the law and order situation in West Bengal has deteriorated significantly, with a rise in crime rates and a lack of effective policing. The report claimed that the state government's policies had contributed to the situation.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "The floods in West Bengal have caused significant damage.",
-            "CM Mamata Banerjee has visited the affected areas to provide relief."
+            "Rise in crime rates",
+            "Government policies responsible for deteriorating law and order"
           ]
         },
         "verified_record": {
-          "headline": "Floods in West Bengal: Fact-Check",
-          "summary": "According to the India Meteorological Department, the floods in West Bengal were caused by heavy rainfall and poor drainage systems. The report also mentions that CM Mamata Banerjee has visited the affected areas, but the report does not specify the provision of relief. Additionally, the report does not mention the extent of the damage caused by the floods.",
+          "headline": "Deteriorating Law and Order Situation in West Bengal: A Fact-Check",
+          "summary": "According to The Wire, citing the National Crime Records Bureau (NCRB) data, the crime rate in West Bengal had remained relatively stable over the past few years. The report noted that the state government had taken steps to improve policing and had achieved some success.",
           "sources": [
-            "India Meteorological Department"
+            "The Wire",
+            "National Crime Records Bureau"
           ],
           "what_was_omitted": [
-            "The report does not mention the extent of the damage caused by the floods.",
-            "The report does not specify the provision of relief by CM Mamata Banerjee."
+            "Actual crime rate data not provided by state-aligned media",
+            "Government's efforts to improve policing not highlighted"
           ],
-          "data_check": "Official reports from the India Meteorological Department"
+          "data_check": "NCRB data on crime rates"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omitted the extent of the damage caused by the floods and the provision of relief by CM Mamata Banerjee.",
-          "missing_context": "The report does not provide context on the causes of the floods."
+          "key_gap": "State-aligned media exaggerated the extent of the deteriorating law and order situation.",
+          "missing_context": "Government's efforts to improve policing and achieve success were not mentioned by state-aligned media."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Prices Soar 10% Amid Global Oil Crisis",
+      "category": "Economy|Health",
+      "headline": "Food Prices Soar Amidst Monsoon Failures",
       "bullets": [
-        "State government announces 10% hike in fuel prices, effective midnight",
-        "Petrol price: ₹105.23 per liter, Diesel: ₹94.23 per liter (as of 23 June 2026)",
-        "What this means for you: Higher fuel prices to affect public transport, food prices"
+        "Food prices have risen by 15% in the past month",
+        "According to data from the Consumer Affairs Department, prices of essential commodities have increased by 12% in the past quarter",
+        "This means that a family of four will now have to spend ₹1,500 more per month on food alone"
       ],
       "source": "Press Trust of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Environment",
-      "headline": "Ganges Water Pollution Surges 20% in 6 Months",
-      "bullets": [
-        "New report by Centre for Science and Environment reveals alarming pollution levels",
-        "Coliform contamination found in 80% of water samples tested",
-        "What this means for you: Increased risk of waterborne diseases, health concerns"
-      ],
-      "source": "Centre for Science and Environment",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "TB Cases Rise 15% in West Bengal, Experts Warn",
+      "category": "Environment|Infrastructure",
+      "headline": "Over 10 Lakh People Affected by Cyclone in South Bengal",
       "bullets": [
-        "State health department reports 15% increase in tuberculosis cases in past year",
-        "TB cases: 12,456 reported in 2026 (as of June 15)",
-        "What this means for you: Higher risk of TB infection, increased healthcare burden"
+        "According to the State Disaster Management Authority, over 10 lakh people have been affected by Cyclone Amara in South Bengal",
+        "The cyclone caused extensive damage to crops, homes, and infrastructure in the affected areas",
+        "This means that thousands of farmers will now face crop losses and reduced income"
       ],
-      "source": "World Health Organization - India",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Infrastructure",
-      "headline": "Major Power Cut Hits Kolkata, 5 Lakh Affected",
+      "category": "Labor|Economy",
+      "headline": "Mill Workers in Bengal to Get ₹500 Bonus for Summer Harvest",
       "bullets": [
-        "500,000 households left without power in city's major grid failure",
-        "Power grid collapse reported near Dum Dum Station",
-        "What this means for you: Disrupted daily routines, economic losses"
+        "The state government has announced a ₹500 bonus for each mill worker for the summer harvest",
+        "According to data from the Labour Department, over 50,000 workers will benefit from this scheme",
+        "This means that mill workers will now have a significant increase in their take-home wages"
       ],
-      "source": "The Telegraph (Kolkata)",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Economy",
-      "headline": "Food Prices Surge 8% in 2 Weeks, CPI Report Shows",
+      "category": "Education",
+      "headline": "West Bengal Boards to Introduce New Syllabus for Class 11",
       "bullets": [
-        "State CPI report reveals 8% increase in food prices over past two weeks",
-        "Average monthly consumption basket price: ₹5,456 (as of June 15)",
-        "What this means for you: Increased household expenses, reduced purchasing power"
+        "The West Bengal Board of Secondary Education has announced a new syllabus for Class 11 students",
+        "The new syllabus will focus on more practical and vocational training",
+        "This means that students will now have more opportunities to develop skills that are relevant to the job market"
       ],
-      "source": "West Bengal Statistical Department",
+      "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "Schools to Reopen on July 1, Covid-19 Safety Measures Ensured",
+      "category": "Health",
+      "headline": "Malaria Cases Spike in Bengal Amidst Monsoon Delays",
       "bullets": [
-        "State government announces reopening of schools, colleges on July 1",
-        "Stringent safety protocols to be implemented, including vaccinations",
-        "What this means for you: Children to return to classrooms, parents to ensure vaccination"
+        "According to data from the State Health Department, malaria cases have risen by 25% in the past month",
+        "The monsoon delays have led to an increase in mosquito breeding",
+        "This means that residents are now at a higher risk of contracting malaria"
       ],
-      "source": "Press Information Bureau (PIB)",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "source": "Indian Express",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Corruption",
+      "headline": "CBI Raids Bengal Official Over Corruption Charges",
+      "bullets": [
+        "The Central Bureau of Investigation has raided a senior official in the state government over corruption charges",
+        "According to sources, the official is accused of embezzling funds meant for infrastructure development",
+        "This means that residents may now face further delays in developmental projects"
+      ],
+      "source": "The Telegraph",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
