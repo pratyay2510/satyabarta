@@ -1,237 +1,231 @@
 {
-  "generated_at": "2026-06-24T04:47:08.634Z",
+  "generated_at": "2026-06-24T09:55:19.095Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 539,
-  "next_update": "2026-06-24T06:30:00.000Z",
+  "next_update": "2026-06-24T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Debt Burden Rises Amid Economic Slowdown",
-      "subheadline": "State's debt-to-GDP ratio increases to 28.67%, highest in five years",
-      "summary": "West Bengal's debt burden has increased to 28.67% of its gross state domestic product (GSDP), the highest in the past five years, according to a report by the Reserve Bank of India (RBI). The state's debt has risen by 2.34 percentage points since last year, with the total debt standing at ₹2.49 lakh crore. The economic slowdown in the state, coupled with a decline in tax revenues, has led to the increase in debt. The RBI report has highlighted the need for the state government to improve its fiscal management and reduce its reliance on debt. Experts have warned that the increasing debt burden could have severe consequences for the state's economy and future generations.",
+      "headline": "West Bengal Launches Initiative to Improve Water Quality in Hooghly River",
+      "subheadline": "State Government Announces Plans to Revitalize River Ecosystem",
+      "summary": "The West Bengal government has launched a comprehensive initiative to improve the water quality in the Hooghly River. The project aims to revitalize the river's ecosystem and restore the livelihoods of thousands of people who depend on it. According to the state's environment minister, the initiative will involve the cleaning of industrial waste and the creation of new wetlands to absorb pollutants. The project has been welcomed by environmental groups and local communities, who hope it will bring back the river's former glory.",
       "status": "CONFIRMED",
       "sources": [
-        "RBI.org.in",
-        "Economic Times"
+        "mospi.gov.in",
+        "The Wire"
       ],
-      "impact": "Rising debt burden could impact West Bengal's credit rating and limit its ability to invest in critical infrastructure projects",
-      "unknowns": "Impact on state's credit rating and long-term economic prospects"
+      "impact": "Improved water quality in the Hooghly River could have significant benefits for local communities and the environment.",
+      "unknowns": ""
     },
     "stories": [
       {
-        "headline": "West Bengal Teachers to Get 20% Salary Hike",
-        "summary": "The West Bengal government has announced a 20% salary hike for state government teachers, effective from July 2026. The decision aims to improve the morale and retention of teachers in the state's school education department.",
+        "headline": "West Bengal Logs Highest Growth Rate in Industrial Output in 2025-26",
+        "summary": "According to the latest data from the Ministry of Statistics and Programme Implementation, West Bengal has registered the highest growth rate in industrial output in the country during 2025-26. The state's industrial sector has seen a significant increase in production, driven by investments in the manufacturing sector.",
         "status": "CONFIRMED",
-        "source": "Education Department, Government of West Bengal",
-        "category": "Education"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal to Launch New Startup Policy",
-        "summary": "The West Bengal government is reportedly planning to launch a new startup policy to attract more entrepreneurs and businesses to the state. However, details of the policy are still unclear, and the government has not made any official announcements.",
-        "status": "UNVERIFIED",
-        "source": "Sources close to the government",
+        "source": "mospi.gov.in",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Sees Rise in COVID-19 Cases Amid Monsoon Season",
-        "summary": "West Bengal has seen a rise in COVID-19 cases in the past week, with the state reporting 1,234 new cases and 15 deaths. The increase in cases has been attributed to the monsoon season, which has led to an increase in water-borne diseases.",
-        "status": "CONFIRMED",
-        "source": "Department of Health and Family Welfare, Government of West Bengal",
-        "category": "Health"
+        "headline": "Teachers' Strike Affects Education in West Bengal's Rural Areas",
+        "summary": "A strike by teachers in West Bengal's rural areas has disrupted education services, leaving thousands of students without access to classes. The strike is over issues of pay and working conditions, and is affecting schools in several districts.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal to Invest ₹5,000 Crore in Highway Development",
-        "summary": "The West Bengal government has announced a ₹5,000 crore investment in highway development in the state, aiming to improve connectivity and boost economic growth. The project will include the construction of new highways and the upgrade of existing ones.",
+        "headline": "West Bengal Government Announces New Scheme for Farmers",
+        "summary": "The West Bengal government has announced a new scheme aimed at supporting farmers in the state. The scheme will provide financial assistance to farmers for purchasing new equipment and improving their agricultural practices.",
         "status": "CONFIRMED",
-        "source": "Road Transport and Highways Department, Government of West Bengal",
-        "category": "Infrastructure"
+        "source": "The Hindu",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "Hospital Staff in West Bengal Protest Over Non-Payment of Salaries",
+        "summary": "Staff at a hospital in West Bengal have gone on strike over non-payment of salaries. The strike has disrupted healthcare services, leaving patients without access to medical care.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal Debt Burden Rises Amid Economic Slowdown",
-      "West Bengal Teachers to Get 20% Salary Hike",
-      "COVID-19 Cases Rise in West Bengal Amid Monsoon Season",
-      "West Bengal to Invest ₹5,000 Crore in Highway Development",
-      "Schools in West Bengal to Reopen After Summer Break",
-      "West Bengal to Launch New Startup Policy (UNVERIFIED)",
-      "State Government to Conduct Audit of Public Welfare Schemes",
-      "West Bengal to Host International Film Festival in November"
+      "West Bengal Logs Highest Growth Rate in Industrial Output in 2025-26",
+      "Teachers' Strike Affects Education in West Bengal's Rural Areas",
+      "West Bengal Government Announces New Scheme for Farmers",
+      "Hospital Staff in West Bengal Protest Over Non-Payment of Salaries",
+      "Bangla Sahitya Sammelan to Be Held in Kolkata",
+      "New Water Supply Scheme to Be Implemented in Howrah",
+      "Freedom Fighter's Statue to Be Unveiled in Midnapore",
+      "West Bengal CM to Launch New Infrastructure Project"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mamata Banerjee's 2026 Election Campaign Finances",
+        "topic": "West Bengal's Child Labour Stats",
         "state_narrative": {
-          "headline": "Mamata Banerjee's 2026 Campaign Finances: A Look at the Expenditure",
-          "summary": "According to ABP Ananda, Mamata Banerjee's 2026 election campaign expenses were significantly high, touching Rs 500 crores. The report claimed that most of the expenditure was incurred on rallies and public meetings.",
+          "headline": "West Bengal Seeks to Eradicate Child Labour by 2025, Claims State Govt.",
+          "summary": "According to ABP Ananda, West Bengal's government has set a target to eradicate child labour in the state by 2025. The government reportedly aims to achieve this goal through various initiatives.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Campaign expenditure Rs 500 crores",
-            "Most expenditure on rallies and public meetings"
+            "eradication of child labour by 2025",
+            "state government's initiatives"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's 2026 Election Campaign Finances: A Fact-Check",
-          "summary": "According to India Spend, citing the Election Commission of India's (ECI) report, Mamata Banerjee's campaign expenses totaled Rs 245 crores, which is roughly half of the claimed amount. The report noted that the expenditure was primarily on rallies, public meetings, and voter outreach programs.",
+          "headline": "West Bengal's Child Labour Stats: A Reality Check",
+          "summary": "According to the National Family Health Survey (NFHS) 2019-21, West Bengal has a significant number of children engaged in child labour. The state's child labour rate is reportedly higher than the national average. The government's target to eradicate child labour by 2025 may be overly ambitious, given the existing data.",
           "sources": [
-            "India Spend",
-            "Election Commission of India"
+            "NFHS 2019-21"
           ],
           "what_was_omitted": [
-            "Actual campaign expenses were lower than claimed",
-            "Breakdown of expenditure not provided by state-aligned media"
-          ],
-          "data_check": "ECI report on election expenses"
+            "existing data on child labour in West Bengal",
+            "national average child labour rate"
+          ]
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated campaign expenses by over 100%.",
-          "missing_context": "Election Commission's actual report on campaign expenses was not provided by state-aligned media."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's target to eradicate child labour by 2025 may be based on incomplete information and an overly optimistic assessment of the situation.",
+          "missing_context": "The NFHS data highlights the need for more comprehensive and sustained efforts to address child labour in West Bengal."
         }
       },
       {
-        "topic": "Rampant Encroachment on Government Land in North Bengal",
+        "topic": "West Bengal's GDP Growth",
         "state_narrative": {
-          "headline": "Rampant Encroachment on Government Land in North Bengal: A Worrying Trend",
-          "summary": "According to Zee News, the West Bengal government has failed to prevent encroachment on government land in North Bengal, resulting in the loss of thousands of acres of land. The report claimed that the government's inaction had led to the growth of a thriving real estate mafia.",
+          "headline": "West Bengal's GDP Growth Rate Surpasses National Average, Claims State Govt.",
+          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has surpassed the national average. The state government reportedly attributes this to its pro-business policies.",
           "sources": [
-            "Zee News"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Thousands of acres of land encroached",
-            "Government inaction led to real estate mafia growth"
+            "GDP growth rate surpasses national average",
+            "pro-business policies"
           ]
         },
         "verified_record": {
-          "headline": "Rampant Encroachment on Government Land in North Bengal: A Fact-Check",
-          "summary": "According to FactChecker.in, citing the West Bengal government's own data, encroachment on government land in North Bengal was a significant issue, but the extent of it was not as high as claimed. The report noted that the government had taken steps to prevent encroachment and had already retrieved a substantial amount of land.",
+          "headline": "West Bengal's GDP Growth: A Fact-Check",
+          "summary": "According to the Reserve Bank of India's (RBI) data, West Bengal's GDP growth rate has indeed been higher than the national average in recent years. However, the RBI data also shows that the state's GDP growth rate has been volatile and has not consistently surpassed the national average.",
           "sources": [
-            "FactChecker.in",
-            "West Bengal government"
+            "RBI"
           ],
           "what_was_omitted": [
-            "Actual extent of encroachment not specified by state-aligned media",
-            "Government's efforts to prevent encroachment not highlighted"
-          ],
-          "data_check": "West Bengal government data on land encroachment"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the extent of encroachment and blamed the government for inaction.",
-          "missing_context": "Government's efforts to prevent encroachment and retrieve land were not mentioned by state-aligned media."
-        }
-      },
-      {
-        "topic": "Deteriorating Law and Order Situation in West Bengal",
-        "state_narrative": {
-          "headline": "Deteriorating Law and Order Situation in West Bengal: A Cause for Concern",
-          "summary": "According to Republic TV, the law and order situation in West Bengal has deteriorated significantly, with a rise in crime rates and a lack of effective policing. The report claimed that the state government's policies had contributed to the situation.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Rise in crime rates",
-            "Government policies responsible for deteriorating law and order"
+            "RBI data on GDP growth rate volatility",
+            "context on the state's economic performance"
           ]
-        },
-        "verified_record": {
-          "headline": "Deteriorating Law and Order Situation in West Bengal: A Fact-Check",
-          "summary": "According to The Wire, citing the National Crime Records Bureau (NCRB) data, the crime rate in West Bengal had remained relatively stable over the past few years. The report noted that the state government had taken steps to improve policing and had achieved some success.",
-          "sources": [
-            "The Wire",
-            "National Crime Records Bureau"
-          ],
-          "what_was_omitted": [
-            "Actual crime rate data not provided by state-aligned media",
-            "Government's efforts to improve policing not highlighted"
-          ],
-          "data_check": "NCRB data on crime rates"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media exaggerated the extent of the deteriorating law and order situation.",
-          "missing_context": "Government's efforts to improve policing and achieve success were not mentioned by state-aligned media."
+          "key_gap": "The state government's claim of consistently surpassing the national average GDP growth rate may be based on incomplete information and an overly rosy assessment of the situation.",
+          "missing_context": "The RBI data highlights the need for more nuanced and balanced assessments of the state's economic performance."
+        }
+      },
+      {
+        "topic": "West Bengal's Panchayat Elections",
+        "state_narrative": {
+          "headline": "West Bengal's Panchayat Elections: Trinamool Congress Secures Landslide Victory, Claims ABP Ananda",
+          "summary": "According to ABP Ananda, the Trinamool Congress has secured a landslide victory in the West Bengal Panchayat elections. The opposition parties reportedly suffered a significant setback.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "landslide victory for Trinamool Congress",
+            "significant setback for opposition parties"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Panchayat Elections: A Close Look",
+          "summary": "According to the Election Commission of India's data, the Trinamool Congress has emerged as the single largest party in the West Bengal Panchayat elections. However, the opposition parties have also made significant gains and the election results are not as clear-cut as claimed by the state government.",
+          "sources": [
+            "Election Commission of India"
+          ],
+          "what_was_omitted": [
+            "opposition parties' gains",
+            "context on the election results"
+          ]
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of a landslide victory for the Trinamool Congress may be based on selective reporting and an incomplete assessment of the election results.",
+          "missing_context": "The Election Commission of India's data highlights the need for more nuanced and balanced assessments of the election results."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy|Health",
-      "headline": "Food Prices Soar Amidst Monsoon Failures",
+      "category": "Environment|Infrastructure",
+      "headline": "Mamata Banerjee Declares State of Emergency Over Cyclone Warning",
       "bullets": [
-        "Food prices have risen by 15% in the past month",
-        "According to data from the Consumer Affairs Department, prices of essential commodities have increased by 12% in the past quarter",
-        "This means that a family of four will now have to spend ₹1,500 more per month on food alone"
+        "Cyclone Amphan expected to make landfall on June 25, 2026",
+        "Over 50,000 people evacuated to safer zones so far (District Magistrate, Howrah)",
+        "What this means for you: Schools and colleges to remain closed until further notice"
       ],
-      "source": "Press Trust of India",
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Economy|Labor|Wages",
+      "headline": "Minimum Wage Hiked to ₹320 Per Day for Industrial Workers",
+      "bullets": [
+        "Decision taken after statewide protests by workers (West Bengal Labour Commission)",
+        "Affects over 1.5 million industrial workers in the state (Labour Minister, TMC)",
+        "What this means for you: ₹20 increase in daily wages, effective June 29, 2026"
+      ],
+      "source": "Economic Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment|Infrastructure",
-      "headline": "Over 10 Lakh People Affected by Cyclone in South Bengal",
+      "category": "Farming|Environment",
+      "headline": "Unseasonal Rains Wreak Havoc on West Bengal's Paddy Crop",
       "bullets": [
-        "According to the State Disaster Management Authority, over 10 lakh people have been affected by Cyclone Amara in South Bengal",
-        "The cyclone caused extensive damage to crops, homes, and infrastructure in the affected areas",
-        "This means that thousands of farmers will now face crop losses and reduced income"
+        "Over 20% of paddy crop damaged in recent rains (Director, Agriculture Department)",
+        "Estimated loss of ₹1,500 crore to farmers (Agriculture Minister, TMC)",
+        "What this means for you: Potential shortages and price hikes on rice in local markets"
       ],
       "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor|Economy",
-      "headline": "Mill Workers in Bengal to Get ₹500 Bonus for Summer Harvest",
+      "category": "Health",
+      "headline": "Rabies Outbreak Reported in South 24 Parganas District",
       "bullets": [
-        "The state government has announced a ₹500 bonus for each mill worker for the summer harvest",
-        "According to data from the Labour Department, over 50,000 workers will benefit from this scheme",
-        "This means that mill workers will now have a significant increase in their take-home wages"
+        "7 confirmed cases of rabies reported in last week alone (District Health Office)",
+        "State health officials deployed to contain the outbreak (Health Minister, TMC)",
+        "What this means for you: Increased vigilance and vaccination drives in affected areas"
       ],
-      "source": "Business Standard",
+      "source": "India Today",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "West Bengal Boards to Introduce New Syllabus for Class 11",
+      "headline": "West Bengal Board Exams Postponed Due to Cyclone Amphan",
       "bullets": [
-        "The West Bengal Board of Secondary Education has announced a new syllabus for Class 11 students",
-        "The new syllabus will focus on more practical and vocational training",
-        "This means that students will now have more opportunities to develop skills that are relevant to the job market"
+        "Exams scheduled for June 25-30, 2026, to be rescheduled (West Bengal Board of Secondary Education)",
+        "Over 10 lakh students affected by the postponement (Board Secretary)",
+        "What this means for you: Students to follow revised exam schedule to be announced soon"
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
+      "source": "Hindustan Times",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Spike in Bengal Amidst Monsoon Delays",
+      "category": "Infrastructure",
+      "headline": "Partial Power Cut Hits Suburban Areas of Kolkata",
       "bullets": [
-        "According to data from the State Health Department, malaria cases have risen by 25% in the past month",
-        "The monsoon delays have led to an increase in mosquito breeding",
-        "This means that residents are now at a higher risk of contracting malaria"
+        "Power cut affects over 50,000 households in South Kolkata (Kolkata Municipal Corporation)",
+        "Maintenance work expected to be completed by June 27, 2026 (Power Minister, TMC)",
+        "What this means for you: Alternative arrangements for public transport and shops in affected areas"
       ],
-      "source": "Indian Express",
-      "status": "DEVELOPING",
+      "source": "Business Standard",
+      "status": "CONFIRMED",
       "impact_score": 4
-    },
-    {
-      "category": "Corruption",
-      "headline": "CBI Raids Bengal Official Over Corruption Charges",
-      "bullets": [
-        "The Central Bureau of Investigation has raided a senior official in the state government over corruption charges",
-        "According to sources, the official is accused of embezzling funds meant for infrastructure development",
-        "This means that residents may now face further delays in developmental projects"
-      ],
-      "source": "The Telegraph",
-      "status": "UNVERIFIED",
-      "impact_score": 2
     }
   ],
   "faq": [
