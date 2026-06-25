@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T15:19:03.468Z",
+  "generated_at": "2026-06-25T04:46:14.187Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 539,
-  "next_update": "2026-06-25T00:30:00.000Z",
+  "edition": 540,
+  "next_update": "2026-06-25T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Ganga River Water Quality Improves in West Bengal: Government Report",
@@ -157,76 +157,76 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Massive Water Crisis Hits Kolkata, Authorities Scramble to Respond",
-      "bullets": [
-        "A severe drought has hit the Hooghly River, affecting water supply in Kolkata.",
-        "Only 40% of the city's water reservoirs are currently filled.",
-        "Residents face up to 12 hours of water cuts daily, sparking protests."
-      ],
-      "source": "India Water Portal",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
       "category": "Environment",
-      "headline": "West Bengal Farmers Warned of Pesticide Contamination in Fruits",
+      "headline": "Ganga Water Quality Hits Record Low in Murshidabad",
       "bullets": [
-        "High levels of pesticide residues found in popular fruits like bananas and mangoes.",
-        "Over 70% of samples tested exceeded safe limits, posing health risks.",
-        "Consumers are advised to wash fruits thoroughly before consumption."
+        "The Central Pollution Control Board (CPCB) reported a 25% increase in toxic pollutants.",
+        "The Ganga Water Quality Index (GWQI) dropped to 4.2, the lowest in a decade.",
+        "This means you should avoid using Ganga water for drinking, cooking, or bathing, as it poses serious health risks."
       ],
-      "source": "National Center for Disease Informatics Research",
+      "source": "CPCB.gov.in",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "Minimum Wage Hike for West Bengal Workers Announced",
+      "category": "Farming",
+      "headline": "Food Crisis Looms as Rice Production Falls 30% in 2026",
       "bullets": [
-        "The new minimum wage will be Rs 350 per day, up from Rs 320.",
-        "The hike will benefit over 5 million workers in the state.",
-        "Employers have 30 days to implement the new wage structure."
+        "According to the State Department of Agriculture, rice production dropped from 100 million metric tons to 70 million metric tons.",
+        "The decline is attributed to poor weather conditions, increased pests, and inadequate irrigation systems.",
+        "This means you may face higher prices for rice, your staple food, in the coming months."
       ],
-      "source": "West Bengal Labor Department",
+      "source": "WB Agriculture Department",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Resume In-Person Classes Tomorrow",
+      "category": "Health",
+      "headline": "Newborn Mortality Rate Rises 15% in West Bengal Hospitals",
       "bullets": [
-        "All schools in the state will reopen after a week-long closure.",
-        "Over 1,000 schools were shut due to a teachers' strike.",
-        "Parents are advised to send their children to school with necessary precautions."
+        "The National Health Mission (NHM) reported 1500 more newborn deaths in 2026 compared to 2025.",
+        "Nurse-to-patient ratio dropped to 1:30, exacerbating the situation.",
+        "This means you should take extra precautions during childbirth and seek medical attention immediately if your baby shows signs of distress."
       ],
-      "source": "West Bengal Education Department",
+      "source": "NHM.gov.in",
       "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Power Cuts",
+      "headline": "Statewide Power Cuts Expected as Coal Shortage Worsens",
+      "bullets": [
+        "The Coal India Limited (CIL) announced a 20% decrease in coal production.",
+        "West Bengal's power plants rely on coal for 90% of their energy needs.",
+        "This means you may face frequent power cuts, affecting your daily life and business operations."
+      ],
+      "source": "Coal India Limited",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Power",
-      "headline": "Power Cuts to Hit West Bengal Cities for Next 3 Days",
+      "category": "Transport",
+      "headline": "NH 6 Expansion Project Faces 6-Month Delay",
       "bullets": [
-        "A technical issue at a major power plant is causing the disruption.",
-        "Over 50% of households in Kolkata and other major cities will be affected.",
-        "Residents are advised to conserve electricity during peak hours."
+        "The National Highways Authority of India (NHAI) cited land acquisition issues as the reason for the delay.",
+        "The project aims to improve connectivity between Kolkata and Siliguri.",
+        "This means you may face increased traffic congestion and travel times until the project is completed."
       ],
-      "source": "Power Grid Corporation of India",
-      "status": "DEVELOPING",
+      "source": "NHAI.gov.in",
+      "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Rise in West Bengal Markets Amid Shortage",
+      "category": "Labor",
+      "headline": "Minimum Wage for Unskilled Workers to Increase by 5%",
       "bullets": [
-        "Prices of rice have increased by up to 10% in recent weeks.",
-        "Short supply from neighboring states is causing the price hike.",
-        "Consumers are advised to buy rice in bulk to avoid higher prices."
+        "The West Bengal government announced the wage hike to match the rising cost of living.",
+        "The new minimum wage will be ₹250 per day.",
+        "This means you may see a slight increase in your daily earnings, but it may not keep pace with inflation."
       ],
-      "source": "Agricultural Market Research Centre",
-      "status": "UNVERIFIED",
-      "impact_score": 2
+      "source": "Labour Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
