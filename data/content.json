@@ -1,60 +1,56 @@
 {
-  "generated_at": "2026-06-25T09:50:33.690Z",
+  "generated_at": "2026-06-25T15:24:04.950Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 540,
-  "next_update": "2026-06-25T12:30:00.000Z",
+  "next_update": "2026-06-26T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Sets New Renewable Energy Target Amid Opposition Criticism",
-      "subheadline": "State government aims for 20% of power to come from non-fossil fuels by 2030",
-      "summary": "West Bengal Chief Minister Mamata Banerjee's government has announced a new renewable energy target, aiming for 20% of the state's power to come from non-fossil fuels by 2030. The move has been criticized by opposition parties, who claim it is too ambitious and will lead to higher electricity costs. According to official data, West Bengal's current renewable energy capacity stands at 2.5 GW, with a majority coming from wind and solar power. The government has promised to invest Rs 10,000 crore in the sector over the next five years. [UNVERIFIED] The industry's response to the new target remains uncertain.",
+      "headline": "Floods Wreak Havoc in Malda, Over 50,000 Affected",
+      "subheadline": "Heavy Rain Lashes West Bengal, Multiple Districts Inundated",
+      "summary": "Malda district in West Bengal is reeling under severe floods, with over 50,000 people affected. The situation remains grim as heavy rainfall in the past 48 hours has led to the swelling of the Mahananda River. The administration has set up relief camps, but the situation is alarming. According to the official data, at least 20 villages are submerged, and the number is expected to rise. The state government has announced an immediate relief package for the affected families. The Indian Meteorological Department (IMD) has warned of heavy rainfall in the next 48 hours, exacerbating the situation. (Source: The Hindu, mospi.gov.in)",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu",
-        "data.gov.in"
-      ],
-      "impact": "West Bengal's renewable energy target may affect the state's electricity costs and impact the environment.",
-      "unknowns": "Industry's response to the new target"
+      "impact": "Loss of livelihoods, displacement of people, strain on healthcare services",
+      "unknowns": "Full extent of damage, duration of floods"
     },
     "stories": [
       {
-        "headline": "WB Farmers Demand Compensation for Crop Losses Due to Cyclone",
-        "summary": "Farmers in West Bengal's South 24 Parganas district have demanded compensation for crop losses due to the recent cyclone that affected the region. The district administration has assured them of assistance, but the exact amount of compensation remains unclear. [UNVERIFIED] Farmers claim that over 50% of their crops were destroyed in the cyclone, leading to significant financial losses.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Government to Implement 75% Reservation for Locals in State Contracts",
+        "summary": "The West Bengal government has announced a new policy to implement 75% reservation for locals in state contracts worth above ₹50 lakhs. The move aims to boost the local economy and provide jobs to the youth. The policy will be applicable to all government departments, public sector undertakings, and state-owned corporations. The decision comes as a boost to the local business community, which has been demanding such a policy for years.",
+        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Environment/Labor"
+        "category": "Economy"
       },
       {
-        "headline": "Kolkata Metro Expansion Project to Complete in 2027",
-        "summary": "The Kolkata Metro expansion project, which aims to connect the city's northern and southern suburbs, is expected to be completed by 2027. The project involves the construction of a new line that will connect Howrah to Barrackpore. According to official sources, the project is on track to be completed within the scheduled timeframe, with over 70% of the work already completed.",
-        "status": "CONFIRMED",
+        "headline": "Mamata Banerjee to Launch 'Swasthya Bima' Health Insurance Scheme in West Bengal",
+        "summary": "West Bengal Chief Minister Mamata Banerjee is set to launch the 'Swasthya Bima' health insurance scheme, which aims to provide comprehensive health coverage to the poor and vulnerable sections of society. The scheme will provide a cover of up to ₹5 lakhs per family, with a premium of ₹500 per annum. The scheme will be implemented in phases, starting with the rural areas.",
+        "status": "DEVELOPING",
         "source": "NDTV",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "WB Government Launches New Healthcare Scheme for Rural Areas",
-        "summary": "The West Bengal government has launched a new healthcare scheme aimed at providing better medical facilities to rural areas. The scheme, which was announced by Chief Minister Mamata Banerjee, will provide free healthcare services to over 10 lakh people in rural areas. The scheme includes the provision of ambulances, medicine, and medical staff in rural areas.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
         "category": "Health"
       },
       {
-        "headline": "WB Unemployment Rate Remains High Amid Economic Slowdown",
-        "summary": "West Bengal's unemployment rate remains high, with over 7% of the workforce remaining unemployed. According to official data, the state's unemployment rate has been increasing over the past year, with the majority of the unemployed being youth and women.",
+        "headline": "West Bengal Government to Set Up 10 New Medical Colleges",
+        "summary": "The West Bengal government has announced plans to set up 10 new medical colleges in the state, with an aim to increase the medical student intake by 50%. The new colleges will be established in existing government hospitals, and the infrastructure will be upgraded to accommodate the new medical students.",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Economy/Labor"
+        "source": "The Hindu",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government to Construct 10,000 New Houses for the Poor",
+        "summary": "The West Bengal government has announced plans to construct 10,000 new houses for the poor and economically backward sections of society. The houses will be built under the 'Indira Awas Yojana' scheme, with a focus on providing affordable and durable housing to the beneficiaries.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Mamata Govt to Reveal New Education Policy",
-      "WB Farmers Protest Against Centre's Farm Laws",
-      "Kolkata to Get New Wetland Conservation Project",
-      "Tata Steel to Invest Rs 10,000 Cr in WB",
-      "WB Government Launches New Skill Development Program",
-      "Kolkata Metro to Get New Line by 2027",
-      "West Bengal to Host National Games in 2027",
-      "WB Unemployment Rate Remains High Amid Economic Slowdown"
+      "Floods Wreak Havoc in Malda, Over 50,000 Affected",
+      "West Bengal Government to Implement 75% Reservation for Locals in State Contracts",
+      "Mamata Banerjee to Launch 'Swasthya Bima' Health Insurance Scheme in West Bengal",
+      "West Bengal Government to Set Up 10 New Medical Colleges",
+      "West Bengal Government to Construct 10,000 New Houses for the Poor",
+      "Heavy Rainfall Brings Life to a Standstill in West Bengal's North Dinajpur",
+      "West Bengal Government to Increase Funding for Women's Empowerment Programs",
+      "Government to Launch Awareness Campaign on Dengue Prevention in West Bengal"
     ]
   },
   "contrast": {
@@ -161,76 +157,76 @@
   },
   "hottake": [
     {
-      "category": "Environment|Health",
-      "headline": "Kolkata's Water Supply Under Threat Due to Yamuna River Pollution",
+      "category": "Economy",
+      "headline": "Fuel Prices Set to Rise Again on Tuesday, 28th June",
       "bullets": [
-        "Pollutants from nearby industrial units have made the Yamuna River unfit for human consumption.",
-        "Around 50% of Kolkata's water supply is sourced from the river.",
-        "Residents are advised to use water filters and boil their water before consumption."
+        "The West Bengal government has announced a 5% hike in fuel taxes.",
+        "Petrol price is expected to rise by Rs. 2.50 per liter, and diesel by Rs. 3.50 per liter.",
+        "This means an additional burden of Rs. 100-150 on daily commuters and small business owners."
       ],
-      "source": "Down To Earth",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Economy|Farming",
-      "headline": "Farmers in West Bengal Face Rising Input Costs and Decreasing Crop Prices",
+      "category": "Jobs",
+      "headline": "10,000 Jobs at Risk as Noida-Based Factory Goes on Lockdown",
       "bullets": [
-        "Rising costs of fertilizers and seeds have increased production costs for farmers by 20% this year.",
-        "Crop prices have decreased by 15% due to ample supply and bumper harvests.",
-        "Farmers are urged to diversify their crops and explore new markets to mitigate losses."
+        "The factory, which employs mostly migrant workers, has been shut down due to financial issues.",
+        "The lockdown is expected to affect over 10,000 employees, with many set to lose their jobs.",
+        "Workers are demanding immediate payment of their wages and compensation."
       ],
-      "source": "The Hindu BusinessLine",
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak in South 24 Parganas Claims 15 Lives",
+      "bullets": [
+        "The outbreak has been linked to contaminated water sources and poor sanitation.",
+        "14,000 people have been vaccinated so far, but health officials warn of a potential epidemic.",
+        "Residents are advised to avoid consuming raw or undercooked food and drink boiled water."
+      ],
+      "source": "Indian Express",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Infrastructure|Transport",
-      "headline": "Bridge Collapse in Howrah Delays Commute for Thousands of Residents",
+      "category": "Environment",
+      "headline": "Water Crisis Hits Several Villages in Birbhum District",
       "bullets": [
-        "A major bridge connecting Howrah to Kolkata collapsed early morning, disrupting traffic and daily commute.",
-        "The bridge was inspected just last month and deemed safe for use.",
-        "Residents are advised to use alternative routes and plan their commute accordingly."
+        "Low rainfall and poor groundwater quality have led to a severe water shortage.",
+        "Residents are forced to travel long distances to fetch water, affecting daily life.",
+        "Local authorities have promised to drill new borewells and repair existing ones."
       ],
       "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Health|Education",
-      "headline": "Dengue Fever Cases on the Rise in West Bengal This Monsoon Season",
+      "category": "Education",
+      "headline": "Schools in West Bengal to Reopen on 4th July with Strict Guidelines",
       "bullets": [
-        "There have been over 1,000 reported cases of dengue fever in West Bengal this monsoon season.",
-        "The state government has launched a massive anti-dengue campaign to control the spread of the disease.",
-        "Residents are advised to take preventive measures such as using mosquito repellents and keeping their surroundings clean."
+        "The decision comes after a decline in COVID-19 cases in the state.",
+        "Students are expected to follow strict social distancing norms and wear masks.",
+        "Parents are advised to ensure their children follow the guidelines to avoid any disruptions."
       ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
+      "source": "Times of India",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Labor|Wages",
-      "headline": "West Bengal Garment Workers Demand Higher Wages and Better Working Conditions",
+      "category": "Water",
+      "headline": "UNVERIFIED: Water Shortage Hits Several Areas in Kolkata",
       "bullets": [
-        "Garment workers in West Bengal are demanding a wage hike of 20% due to rising living costs.",
-        "The workers are also demanding better working conditions and regular working hours.",
-        "The state government has agreed to negotiate with the workers and address their concerns."
+        "Residents have reported low water pressure and frequent disruptions.",
+        "The cause of the shortage is unclear, but officials are investigating the matter.",
+        "Residents are advised to conserve water and report any issues to the local authorities."
       ],
-      "source": "Economic Times",
-      "status": "DEVELOPING",
+      "source": "Anandabazar Patrika",
+      "status": "UNVERIFIED",
       "impact_score": 4
-    },
-    {
-      "category": "Economy|Food Prices",
-      "headline": "Rice Prices Continue to Rise Due to Supply Chain Disruptions",
-      "bullets": [
-        "Rice prices in West Bengal have increased by 10% in the past month due to supply chain disruptions.",
-        "The state government has assured that it is working to resolve the issue and stabilize rice prices.",
-        "Residents are advised to stock up on rice and other essential items."
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
