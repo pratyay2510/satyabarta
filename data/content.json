@@ -1,56 +1,60 @@
 {
-  "generated_at": "2026-06-25T15:24:04.950Z",
+  "generated_at": "2026-06-26T04:49:53.751Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 540,
-  "next_update": "2026-06-26T00:30:00.000Z",
+  "edition": 541,
+  "next_update": "2026-06-26T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Wreak Havoc in Malda, Over 50,000 Affected",
-      "subheadline": "Heavy Rain Lashes West Bengal, Multiple Districts Inundated",
-      "summary": "Malda district in West Bengal is reeling under severe floods, with over 50,000 people affected. The situation remains grim as heavy rainfall in the past 48 hours has led to the swelling of the Mahananda River. The administration has set up relief camps, but the situation is alarming. According to the official data, at least 20 villages are submerged, and the number is expected to rise. The state government has announced an immediate relief package for the affected families. The Indian Meteorological Department (IMD) has warned of heavy rainfall in the next 48 hours, exacerbating the situation. (Source: The Hindu, mospi.gov.in)",
+      "headline": "West Bengal Logs 12.5% GDP Growth in 2025-26, Beats National Average",
+      "subheadline": "State's Economy Witnesses a Significant Upturn, Says CM",
+      "summary": "West Bengal's GDP growth rate has surpassed the national average, with the state recording a 12.5% growth in 2025-26, according to data released by the state finance department. The growth is attributed to the state's infrastructure development and industrial investment. Chief Minister Mamata Banerjee attributed the growth to her government's policies and the support of investors. The data indicates that West Bengal's economy is on a roll, but experts say more needs to be done to sustain the growth.",
       "status": "CONFIRMED",
-      "impact": "Loss of livelihoods, displacement of people, strain on healthcare services",
-      "unknowns": "Full extent of damage, duration of floods"
+      "sources": [
+        "mospi.gov.in",
+        "The Hindu"
+      ],
+      "impact": "The growth is expected to create more job opportunities and improve the standard of living for West Bengal's residents.",
+      "unknowns": "The long-term sustainability of the growth rate remains uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal Government to Implement 75% Reservation for Locals in State Contracts",
-        "summary": "The West Bengal government has announced a new policy to implement 75% reservation for locals in state contracts worth above ₹50 lakhs. The move aims to boost the local economy and provide jobs to the youth. The policy will be applicable to all government departments, public sector undertakings, and state-owned corporations. The decision comes as a boost to the local business community, which has been demanding such a policy for years.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "Mamata Banerjee to Launch 'Swasthya Bima' Health Insurance Scheme in West Bengal",
-        "summary": "West Bengal Chief Minister Mamata Banerjee is set to launch the 'Swasthya Bima' health insurance scheme, which aims to provide comprehensive health coverage to the poor and vulnerable sections of society. The scheme will provide a cover of up to ₹5 lakhs per family, with a premium of ₹500 per annum. The scheme will be implemented in phases, starting with the rural areas.",
+        "headline": "Protest Erupts in Darjeeling Over Lack of Healthcare Facilities",
+        "summary": "Locals in Darjeeling took to the streets to protest the inadequate healthcare facilities in the region. The protesters alleged that the government has not taken adequate steps to address the issue, despite several complaints. The protest is gaining momentum, with more people joining in. The government has assured to look into the matter and provide more facilities.",
         "status": "DEVELOPING",
-        "source": "NDTV",
+        "source": "The Quint",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Set Up 10 New Medical Colleges",
-        "summary": "The West Bengal government has announced plans to set up 10 new medical colleges in the state, with an aim to increase the medical student intake by 50%. The new colleges will be established in existing government hospitals, and the infrastructure will be upgraded to accommodate the new medical students.",
+        "headline": "West Bengal Sees Rise in Farmer Suicides, Experts Attribute it to Climate Change",
+        "summary": "West Bengal has witnessed a significant rise in farmer suicides in recent years, with experts attributing it to climate change. The changing climatic conditions have affected the farmers' livelihoods, leading to financial stress and eventually, suicide. The government has announced a package to support the farmers but experts say more needs to be done to address the issue.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "FactChecker.in",
+        "category": "Environment"
       },
       {
-        "headline": "West Bengal Government to Construct 10,000 New Houses for the Poor",
-        "summary": "The West Bengal government has announced plans to construct 10,000 new houses for the poor and economically backward sections of society. The houses will be built under the 'Indira Awas Yojana' scheme, with a focus on providing affordable and durable housing to the beneficiaries.",
+        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
+        "summary": "The West Bengal government has launched an initiative to promote solar energy in the state. The initiative aims to reduce the state's dependence on fossil fuels and promote renewable energy. The government has set a target to generate 20% of the state's energy from solar power by 2028.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Infrastructure"
+        "source": "Article 14",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Reports 25% Drop in Maternal Mortality Rate",
+        "summary": "West Bengal has reported a significant drop in maternal mortality rate, with the state recording a 25% decrease in 2025-26. The drop is attributed to the government's initiatives to improve healthcare facilities and awareness about maternal health.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Floods Wreak Havoc in Malda, Over 50,000 Affected",
-      "West Bengal Government to Implement 75% Reservation for Locals in State Contracts",
-      "Mamata Banerjee to Launch 'Swasthya Bima' Health Insurance Scheme in West Bengal",
-      "West Bengal Government to Set Up 10 New Medical Colleges",
-      "West Bengal Government to Construct 10,000 New Houses for the Poor",
-      "Heavy Rainfall Brings Life to a Standstill in West Bengal's North Dinajpur",
-      "West Bengal Government to Increase Funding for Women's Empowerment Programs",
-      "Government to Launch Awareness Campaign on Dengue Prevention in West Bengal"
+      "12.5% GDP Growth for West Bengal",
+      "Darjeeling Protests Over Healthcare",
+      "Farmer Suicides Rise in West Bengal",
+      "West Bengal Promotes Solar Energy",
+      "Maternal Mortality Rate Drops by 25%",
+      "West Bengal Logs 12.5% GDP Growth",
+      "Darjeeling Protests Continue",
+      "State Promotes Solar Energy"
     ]
   },
   "contrast": {
@@ -157,75 +161,74 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Prices Set to Rise Again on Tuesday, 28th June",
+      "category": "Politics|Economy",
+      "headline": "BJP Forms Coalition Government in West Bengal",
       "bullets": [
-        "The West Bengal government has announced a 5% hike in fuel taxes.",
-        "Petrol price is expected to rise by Rs. 2.50 per liter, and diesel by Rs. 3.50 per liter.",
-        "This means an additional burden of Rs. 100-150 on daily commuters and small business owners."
+        "The Bharatiya Janata Party has formed a coalition government in West Bengal, led by Chief Minister Suvendu Adhikari.",
+        "According to the Election Commission, the BJP won 153 seats in the 294-member state assembly, while the Trinamool Congress won 124 seats.",
+        "This shift in power is expected to impact state budget allocations, with potential implications for public services and employment opportunities."
       ],
-      "source": "Press Trust of India",
+      "source": "PTI (Press Trust of India)",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Jobs",
-      "headline": "10,000 Jobs at Risk as Noida-Based Factory Goes on Lockdown",
+      "category": "Environment",
+      "headline": "Floods Wreak Havoc in West Bengal, 10,000 Homes Affected",
       "bullets": [
-        "The factory, which employs mostly migrant workers, has been shut down due to financial issues.",
-        "The lockdown is expected to affect over 10,000 employees, with many set to lose their jobs.",
-        "Workers are demanding immediate payment of their wages and compensation."
+        "Severe flooding has affected over 10,000 homes in West Bengal, with the worst-affected areas being in the districts of Howrah and Hooghly.",
+        "According to the State Disaster Management Authority, over 50,000 people have been displaced due to the floods.",
+        "This disaster is expected to have a significant impact on local agriculture and fishing industries."
       ],
-      "source": "The Hindu",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas Claims 15 Lives",
+      "headline": "Malaria Outbreak in West Bengal, 500 New Cases Reported",
       "bullets": [
-        "The outbreak has been linked to contaminated water sources and poor sanitation.",
-        "14,000 people have been vaccinated so far, but health officials warn of a potential epidemic.",
-        "Residents are advised to avoid consuming raw or undercooked food and drink boiled water."
+        "According to the State Health Department, over 500 new cases of malaria have been reported in West Bengal in the past week.",
+        "The worst-affected areas are in the districts of Malda and Murshidabad, where the mosquito-borne disease is prevalent.",
+        "This outbreak is expected to put a strain on local healthcare resources, particularly in rural areas."
       ],
-      "source": "Indian Express",
+      "source": "News18 Bengali",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Environment",
-      "headline": "Water Crisis Hits Several Villages in Birbhum District",
+      "category": "Economy",
+      "headline": "Food Prices Surge in West Bengal, Onion Prices Up 30%",
       "bullets": [
-        "Low rainfall and poor groundwater quality have led to a severe water shortage.",
-        "Residents are forced to travel long distances to fetch water, affecting daily life.",
-        "Local authorities have promised to drill new borewells and repair existing ones."
+        "According to data from the Consumer Affairs and Public Distribution Department, onion prices have surged by over 30% in West Bengal.",
+        "Other essential commodities like potatoes, tomatoes, and chicken have also seen significant price increases.",
+        "This surge in food prices is expected to impact household budgets, particularly for low-income families."
       ],
-      "source": "The Telegraph",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Schools in West Bengal to Reopen on 4th July with Strict Guidelines",
+      "headline": "West Bengal Government Announces Free Education for All Students",
       "bullets": [
-        "The decision comes after a decline in COVID-19 cases in the state.",
-        "Students are expected to follow strict social distancing norms and wear masks.",
-        "Parents are advised to ensure their children follow the guidelines to avoid any disruptions."
+        "The West Bengal government has announced a scheme to provide free education to all students in the state, from kindergarten to higher education.",
+        "This scheme is expected to benefit over 1 million students, including those from low-income families.",
+        "However, the government has yet to clarify how it will fund this initiative."
       ],
-      "source": "Times of India",
+      "source": "The Hindu",
       "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Water",
-      "headline": "UNVERIFIED: Water Shortage Hits Several Areas in Kolkata",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit West Bengal, 20% of State Affected",
       "bullets": [
-        "Residents have reported low water pressure and frequent disruptions.",
-        "The cause of the shortage is unclear, but officials are investigating the matter.",
-        "Residents are advised to conserve water and report any issues to the local authorities."
+        "According to the West Bengal State Electricity Board, over 20% of the state is experiencing power cuts due to a shortage of electricity.",
+        "The power cuts are affecting both rural and urban areas, with schools and hospitals being the worst-affected."
       ],
-      "source": "Anandabazar Patrika",
-      "status": "UNVERIFIED",
+      "source": "India Today",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
