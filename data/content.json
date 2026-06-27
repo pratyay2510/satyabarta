@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-27T09:10:20.351Z",
+  "generated_at": "2026-06-27T14:14:06.391Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 542,
-  "next_update": "2026-06-27T12:30:00.000Z",
+  "next_update": "2026-06-28T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees Rise in Dengue Cases, Experts Warn of Long-Term Risks",
@@ -158,80 +158,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Health",
-      "headline": "Pandemic-Resistant Malaria Cases Rise in West Bengal",
-      "bullets": [
-        "According to the National Vector Borne Disease Control Programme, 23,000 Malaria cases reported in West Bengal in 2026, up 45% from 2025.",
-        "The death toll in West Bengal due to Malaria has increased by 17% in 2026, with 125 reported deaths.",
-        "The rise in Malaria cases is attributed to climate change and ineffective mosquito eradication programs."
-      ],
-      "source": "National Vector Borne Disease Control Programme",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Environment",
-      "headline": "Floodwaters from Brahmaputra Dam Reaches West Bengal Villages",
-      "bullets": [
-        "Floodwaters from the Brahmaputra Dam have inundated over 100 villages in North 24 Parganas and South 24 Parganas districts.",
-        "Over 50,000 people have been displaced, with many forced to take shelter in temporary relief camps.",
-        "The floodwaters have also contaminated the local water supply, posing a risk to public health."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Healthcare Services in Rural West Bengal Congested with Dengue Cases",
-      "bullets": [
-        "According to a study by the Indian Journal of Medical Research, over 12,000 dengue cases have been reported in rural West Bengal in 2026.",
-        "The study also found that over 70% of rural hospitals in West Bengal lack proper dengue treatment facilities.",
-        "The rise in dengue cases has put a strain on healthcare services in rural West Bengal, with many patients forced to wait for hours for treatment."
-      ],
-      "source": "Indian Journal of Medical Research",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education Scheme for Poor Students",
-      "bullets": [
-        "The West Bengal government has announced a new scheme to provide free education to students from poor families.",
-        "The scheme will cover all students from classes 1 to 12, with a budget allocation of ₹500 crore.",
-        "The scheme aims to increase enrollment rates and improve educational outcomes in West Bengal."
-      ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
-      "impact_score": 6
-    },
-    {
-      "category": "Labor",
-      "headline": "Farmers in West Bengal Protest Against Low Crop Prices",
-      "bullets": [
-        "Thousands of farmers in West Bengal have taken to the streets to protest against low crop prices.",
-        "The average price of rice in West Bengal has fallen by 20% in 2026, with many farmers struggling to make ends meet.",
-        "The protest aims to draw attention to the plight of farmers in West Bengal and to demand better crop prices."
-      ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Outages Hit West Bengal as Grid Fails to Meet Demand",
-      "bullets": [
-        "Power outages have become a regular occurrence in West Bengal, with many areas experiencing frequent blackouts.",
-        "According to the Power Grid Corporation of India, the grid in West Bengal is operating at 80% capacity, leaving a shortfall of 20% in power supply.",
-        "The power outages have disrupted daily life in West Bengal, with many businesses and households affected."
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge in West Bengal Amid Crop Failures",
+        "bullets": [
+          "Prices of staples like rice and wheat have increased by 20% in 6 months",
+          "Data from the state's Consumer Price Index shows a 5.6% increase in food prices last month",
+          "This means an additional 50 rupees per month for a family of 4, straining household budgets"
+        ],
+        "source": "The Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Jobs",
+        "headline": "BJP Plans to Set Up IT Park in Howrah, Hiring Thousands",
+        "bullets": [
+          "The park will create over 20,000 jobs in the IT sector, with salaries up to 1 lakh per month",
+          "The project is expected to attract investments of over 1,000 crores",
+          "Locals in Howrah are optimistic about the new opportunities, but some worry about infrastructure and housing"
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Cases Spike in Sundarbans, Health Services Overwhelmed",
+        "bullets": [
+          "According to the state's health department, 150 new malaria cases have been reported this month alone",
+          "Health officials warn of a possible outbreak, citing poor sanitation and inadequate medical care",
+          "Residents of Sundarbans are advised to take precautions and seek medical attention immediately if symptoms appear"
+        ],
+        "source": "The Hindu",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution in Hooghly River Reaches Alarming Levels, Say Activists",
+        "bullets": [
+          "Tests by the West Bengal Pollution Control Board show high levels of toxic chemicals in the river",
+          "Activists claim that this is a result of industrial waste and lack of regulation",
+          "Residents in nearby areas are advised to avoid contact with the river water"
+        ],
+        "source": "Down to Earth",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      },
+      {
+        "category": "Education",
+        "headline": "State Government to Introduce Free Textbooks for Underprivileged Students",
+        "bullets": [
+          "The scheme aims to benefit over 50,000 students in government schools",
+          "The textbooks will be free of cost, and students will also receive additional support materials",
+          "This move is expected to improve literacy rates and reduce dropout rates in the state"
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Road Work on EM Bypass to Cause 6-Hour Closures This Weekend",
+        "bullets": [
+          "The closures will affect commuters traveling between Kolkata and Howrah",
+          "Residents are advised to plan their journeys accordingly to avoid congestion",
+          "The road work is part of a major infrastructure development project in the state"
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
