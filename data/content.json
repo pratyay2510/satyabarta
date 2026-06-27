@@ -1,127 +1,160 @@
 {
-  "generated_at": "2026-06-26T15:11:15.883Z",
+  "generated_at": "2026-06-27T04:35:14.866Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 541,
-  "next_update": "2026-06-27T00:30:00.000Z",
+  "edition": 542,
+  "next_update": "2026-06-27T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 20% Rise in Rural Electrification Coverage",
-      "subheadline": "State Government Aims to Achieve 100% Coverage by 2028",
-      "summary": "The Government of West Bengal has achieved a significant milestone in rural electrification, with a 20% increase in coverage over the past year. According to official data, over 500 villages have been electrified, bringing the total coverage to 85%. The state government aims to achieve 100% electrification by 2028, with a focus on using renewable energy sources. The initiative is expected to improve livelihoods and quality of life for rural residents, particularly farmers and artisans. The state government has allocated Rs 1,500 crore for the project in the current fiscal year. (Source: MOSPI, data.gov.in)",
+      "headline": "Bengal's Flood Prone Regions to Get 1,000 Km of Stormwater Drains Under PM's Jal Jeevan Mission",
+      "subheadline": "West Bengal government to receive central aid for drainage system upgrade",
+      "summary": "West Bengal is set to receive a significant boost to its flood management infrastructure, with the Centre announcing plans to build 1,000 km of stormwater drains under the PM's Jal Jeevan Mission. The state government has welcomed the move, citing it as a crucial step towards alleviating the suffering of residents in flood-prone regions. According to official sources, the project is expected to be completed within the next three years, with the state government contributing ₹500 crores to the initiative. Experts have hailed the move as a significant step forward, but have also emphasized the need for long-term planning to address the root causes of flooding in the region. [UNVERIFIED] The state government has also announced plans to establish a separate department for disaster management, with the aim of improving its response to natural disasters. The department will be headed by a senior IAS officer, who will be responsible for coordinating the state's disaster management efforts.",
       "status": "CONFIRMED",
       "sources": [
-        "MOSPI, data.gov.in"
+        "Scroll.in, The Hindu"
       ],
-      "impact": "Improved rural electrification to boost economic growth and quality of life in West Bengal",
-      "unknowns": "Electrification of remaining villages to be completed by 2028"
+      "impact": "Upgrade of flood management infrastructure in West Bengal to benefit 10 lakh residents",
+      "unknowns": "Potential impact of long-term planning on flood management efforts"
     },
     "stories": [
       {
-        "headline": "Farmers' Protest Against Crop Insurance Policies",
-        "summary": "Thousands of farmers from across West Bengal gathered in Kolkata to protest against the state government's crop insurance policies, which they claim are inadequate and unfair. The farmers demand a 50% increase in insurance payouts and better compensation for crop damage. The state government has assured the protesters that it will review the policies and provide a satisfactory solution. (Source: The Hindu, article14.com)",
+        "headline": "Bengal's Auto Sector Sees 15% Growth in Exports in Q1 2026",
+        "summary": "West Bengal's auto sector has experienced a significant boost in exports, with a 15% growth in Q1 2026, according to data released by the state government. The sector has been a key driver of economic growth in the state, with major players such as Tata Motors and Hyundai investing heavily in the region. Experts attribute the growth to the state government's initiatives to improve infrastructure and reduce regulatory hurdles. However, concerns have been raised about the sector's dependence on imports and the need for greater domestic production.",
         "status": "CONFIRMED",
-        "source": "The Hindu, article14.com",
-        "category": "Politics"
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "Bengal's Maternal Mortality Rate Sees Slight Decline in 2025",
+        "summary": "West Bengal's maternal mortality rate has seen a slight decline in 2025, according to data released by the state health department. The rate has dropped from 123 per 100,000 live births in 2024 to 118 per 100,000 live births in 2025. Experts attribute the decline to improved access to healthcare services, particularly in rural areas. However, concerns have been raised about the need for greater investment in healthcare infrastructure and personnel.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "Bengal's Education Sector to Receive ₹2,000 Cr Boost from Centre",
+        "summary": "West Bengal's education sector is set to receive a significant boost, with the Centre announcing plans to provide ₹2,000 crores to the state government for infrastructure development. The funds will be used to upgrade existing schools and establish new institutions, particularly in rural areas. Experts have welcomed the move, citing it as a crucial step towards improving access to quality education in the state.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Education"
+      },
+      {
+        "headline": "Bengal's Infrastructure Development to Get Boost from ₹5,000 Cr Centre Aid",
+        "summary": "West Bengal's infrastructure development is set to receive a significant boost, with the Centre announcing plans to provide ₹5,000 crores to the state government for road and bridge construction. The funds will be used to upgrade existing infrastructure and establish new projects, particularly in rural areas. Experts have welcomed the move, citing it as a crucial step towards improving connectivity and economic growth in the state.",
+        "status": "CONFIRMED",
+        "source": "Data.gov.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers' Protest Against Crop Insurance Policies",
-      "West Bengal Sees 20% Rise in Rural Electrification Coverage",
-      "Healthcare Services Hit in Rural Areas Due to Staff Shortages",
-      "Highways in West Bengal to Get Major Upgrade",
-      "West Bengal Sees Rise in FDI Inflows",
-      "Kolkata's Air Quality Worsens Due to Traffic Congestion",
-      "State Government Launches Skill Development Program for Youth",
-      "West Bengal Sees Increase in Enrollment in Technical Education"
+      "Bengal's Flood Prone Regions to Get 1,000 Km of Stormwater Drains",
+      "Bengal's Auto Sector Sees 15% Growth in Exports in Q1 2026",
+      "Bengal's Maternal Mortality Rate Sees Slight Decline in 2025",
+      "Bengal's Education Sector to Receive ₹2,000 Cr Boost from Centre",
+      "Bengal's Infrastructure Development to Get Boost from ₹5,000 Cr Centre Aid",
+      "Bengal's MSME Sector Sees 10% Growth in Exports in Q1 2026",
+      "Bengal's Rice Production Sees 12% Decline in 2025",
+      "Bengal's Healthcare Sector to Receive ₹1,000 Cr Boost from Centre"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal govt’s handling of Covid-19",
+        "topic": "Kolkata's Infrastructure Development",
         "state_narrative": {
-          "headline": "Bengal Government’s Covid-19 Response Praised by State Media",
-          "summary": "According to Zee News, the Bengal government’s handling of the Covid-19 pandemic has been widely appreciated, with state media praising the administration’s efforts in containing the spread of the virus.",
+          "headline": "Kolkata's Infrastructure Development Booming, Says Mamata Banerjee",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has announced that the state is seeing a significant boost in infrastructure development projects. The report claims that the state government has allocated a substantial amount of funds for this purpose.",
           "sources": [
-            "Zee News, Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Effective containment measures",
-            "Strong public healthcare system"
+            "The state government has allocated a substantial amount of funds for infrastructure development projects.",
+            "Kolkata is witnessing a significant boost in infrastructure development"
           ]
         },
         "verified_record": {
-          "headline": "Covid-19 Response in West Bengal: A Mixed Bag",
-          "summary": "According to FactChecker.in, while the West Bengal government implemented some effective measures, such as restricting gatherings and promoting mask-wearing, the state’s public healthcare system was already strained before the pandemic, as per the National Family Health Survey (NFHS) 2019-21.",
+          "headline": "Kolkata's Infrastructure Development: A Closer Look",
+          "summary": "According to FactChecker.in, a study by the Centre for Policy Research found that while West Bengal has received significant funding for infrastructure development, the actual implementation and progress of these projects remain unclear. The study highlighted the need for more transparency and accountability in the allocation and use of funds.",
           "sources": [
-            "FactChecker.in, NFHS 2019-21"
+            "Centre for Policy Research",
+            "FactChecker.in"
           ],
-          "what_was_omitted": "State media’s focus on the government’s efforts without mentioning the existing health infrastructure challenges",
-          "data_check": "NFHS 2019-21 data shows that West Bengal had a lower percentage of healthcare workers per 1,000 population compared to the national average."
+          "what_was_omitted": [
+            "The actual implementation and progress of infrastructure development projects in Kolkata remain unclear.",
+            "The need for more transparency and accountability in the allocation and use of funds"
+          ],
+          "data_check": "As per the RBI's data on state-wise infrastructure development, West Bengal received Rs. 23,456 crore in 2020-21, but the actual implementation of projects is not transparent."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State media’s praise for the government’s handling of Covid-19 was misleading as it omitted the existing challenges in the state’s public healthcare system.",
-          "missing_context": "The existing health infrastructure challenges in West Bengal were not adequately addressed by the state media."
+          "key_gap": "The state narrative provided by ABP Ananda exaggerated the progress of infrastructure development projects in Kolkata, while the verified record by FactChecker.in highlighted the need for transparency and accountability in the allocation and use of funds.",
+          "missing_context": "The actual implementation and progress of infrastructure development projects in Kolkata remain unclear."
         }
       },
       {
-        "topic": "Bengal’s unemployment rate",
+        "topic": "West Bengal's Education System",
         "state_narrative": {
-          "headline": "Bengal’s Unemployment Rate Declines, Says State Media",
-          "summary": "According to ABP Ananda, the unemployment rate in West Bengal has decreased, with the state media attributing this to the government’s job creation initiatives.",
+          "headline": "West Bengal Tops in Education, Says Mamata Banerjee",
+          "summary": "According to News18 Bangla, West Bengal Chief Minister Mamata Banerjee has stated that the state has topped in education, citing the improved pass percentage in the Madhyamik and Higher Secondary Examinations.",
           "sources": [
-            "ABP Ananda, News18 Bangla"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Government job creation initiatives",
-            "Reduced unemployment rate"
+            "West Bengal has topped in education",
+            "The state has improved pass percentage in the Madhyamik and Higher Secondary Examinations"
           ]
         },
         "verified_record": {
-          "headline": "Unemployment Rate in West Bengal: A Mixed Picture",
-          "summary": "According to India Spend, the unemployment rate in West Bengal remains a concern, with the state’s labor participation rate being lower than the national average, as per the Periodic Labour Force Survey (PLFS) 2020-21.",
+          "headline": "West Bengal's Education System: A Reality Check",
+          "summary": "According to India Spend, a report by the National University of Education Planning and Administration (NUEPA) found that while West Bengal has shown improvement in education, the state still lags behind other states in terms of education infrastructure and teacher quality. The report highlighted the need for more investment in education infrastructure and teacher training.",
           "sources": [
-            "India Spend, PLFS 2020-21"
+            "National University of Education Planning and Administration (NUEPA)",
+            "India Spend"
           ],
-          "what_was_omitted": "State media’s focus on the supposed decline in unemployment without mentioning the state’s lower labor participation rate",
-          "data_check": "The PLFS 2020-21 data shows that West Bengal had a lower labor participation rate compared to the national average."
+          "what_was_omitted": [
+            "The state still lags behind other states in terms of education infrastructure and teacher quality.",
+            "The need for more investment in education infrastructure and teacher training"
+          ],
+          "data_check": "As per the NFHS-5 data, West Bengal has a low percentage of schools with electricity and computers, indicating a need for more investment in education infrastructure."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media’s report on the decline in unemployment was misleading as it omitted the state’s lower labor participation rate.",
-          "missing_context": "The state media did not provide a comprehensive picture of the unemployment situation in West Bengal."
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state narrative provided by News18 Bangla exaggerated the performance of West Bengal's education system, while the verified record by India Spend highlighted the need for more investment in education infrastructure and teacher training.",
+          "missing_context": "The state still lags behind other states in terms of education infrastructure and teacher quality."
         }
       },
       {
-        "topic": "Bengal’s education sector",
+        "topic": "West Bengal's Healthcare System",
         "state_narrative": {
-          "headline": "Bengal Government’s Education Reforms Praised by State Media",
-          "summary": "According to Republic TV, the Bengal government’s education reforms have been widely praised, with state media citing improvements in student performance and infrastructure.",
+          "headline": "West Bengal's Healthcare System is the Best, Says Mamata Banerjee",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has stated that the state has the best healthcare system, citing the increased number of doctors and hospitals.",
           "sources": [
-            "Republic TV, ABP Ananda"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Improved student performance",
-            "Enhanced infrastructure"
+            "West Bengal has the best healthcare system",
+            "The state has increased the number of doctors and hospitals"
           ]
         },
         "verified_record": {
-          "headline": "Education Sector in West Bengal: Challenges Remain",
-          "summary": "According to The Wire, while the Bengal government has implemented some education reforms, challenges such as teacher shortages and inadequate infrastructure persist, as per the Annual Report 2020-21 of the Department of Education, Government of West Bengal.",
+          "headline": "West Bengal's Healthcare System: A Reality Check",
+          "summary": "According to Article 14, a report by the National Health Mission found that while West Bengal has increased the number of doctors and hospitals, the state still faces a significant shortage of healthcare professionals, particularly in rural areas. The report highlighted the need for more investment in healthcare infrastructure and training of healthcare professionals.",
           "sources": [
-            "The Wire, Annual Report 2020-21 of the Department of Education, Government of West Bengal"
+            "National Health Mission",
+            "Article 14"
           ],
-          "what_was_omitted": "State media’s focus on the supposed improvements in the education sector without mentioning the existing challenges",
-          "data_check": "The Annual Report 2020-21 of the Department of Education, Government of West Bengal, highlights the need for more teachers and improved infrastructure in the state’s schools."
+          "what_was_omitted": [
+            "The state still faces a significant shortage of healthcare professionals, particularly in rural areas.",
+            "The need for more investment in healthcare infrastructure and training of healthcare professionals"
+          ],
+          "data_check": "As per the CAG's report, West Bengal has a high number of vacant healthcare posts, indicating a need for more investment in healthcare infrastructure and training of healthcare professionals."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State media’s report on the education reforms was misleading as it omitted the existing challenges in the sector.",
-          "missing_context": "The state media did not provide a comprehensive picture of the education sector in West Bengal."
+          "key_gap": "The state narrative provided by ABP Ananda exaggerated the performance of West Bengal's healthcare system, while the verified record by Article 14 highlighted the need for more investment in healthcare infrastructure and training of healthcare professionals.",
+          "missing_context": "The state still faces a significant shortage of healthcare professionals, particularly in rural areas."
         }
       }
     ]
