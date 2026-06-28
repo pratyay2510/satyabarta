@@ -1,159 +1,161 @@
 {
-  "generated_at": "2026-06-27T14:14:06.391Z",
+  "generated_at": "2026-06-28T05:03:06.885Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 542,
-  "next_update": "2026-06-28T00:30:00.000Z",
+  "edition": 543,
+  "next_update": "2026-06-28T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Rise in Dengue Cases, Experts Warn of Long-Term Risks",
-      "subheadline": "State Health Department Reports 25% Increase in Dengue Cases Compared to Last Year",
-      "summary": "The West Bengal Health Department has confirmed a 25% increase in dengue cases across the state, with experts warning of long-term risks if the situation is not addressed soon. The state has seen a total of 15,621 dengue cases so far this year, with the highest number of cases reported in the urban areas of Kolkata and Howrah. According to the Health Department, the number of dengue cases has been steadily increasing over the past few years, with a 10% increase reported in 2025 compared to the previous year. The experts have warned that if the situation is not addressed soon, it could lead to a major outbreak, putting the lives of thousands of people at risk. The state government has launched a campaign to create awareness about the dangers of dengue and has also increased surveillance in the affected areas.",
+      "headline": "West Bengal Government Launches New Healthcare Scheme for Rural Areas",
+      "subheadline": "CM Announces 'Swathya Sathi' to Provide Free Medical Services",
+      "summary": "The West Bengal government has launched 'Swathya Sathi', a new healthcare scheme aimed at providing free medical services to residents in rural areas. The scheme, announced by Chief Minister Mamata Banerjee, will cover essential healthcare services including consultations, diagnostics, and treatments at government hospitals and health centers across the state. The initiative is expected to benefit over 50 million people, particularly those in remote and underserved regions.",
       "status": "CONFIRMED",
       "sources": [
-        "Scroll.in, The Hindu"
+        "The Hindu",
+        "NDTV"
       ],
-      "impact": "Rising dengue cases pose a significant threat to public health in West Bengal, requiring swift action from the state government.",
-      "unknowns": "Number of cases expected to rise in the coming weeks"
+      "impact": "Improved healthcare access for rural populations, reduced financial burden on families.",
+      "unknowns": "Long-term funding sustainability."
     },
     "stories": [
       {
-        "headline": "Tapan Kumar Ghose Appointed as New Chairman of West Bengal State Electricity Distribution Company",
-        "summary": "Tapan Kumar Ghose has been appointed as the new chairman of the West Bengal State Electricity Distribution Company, replacing the outgoing chairman Pranab Kumar Das. Ghose has been a bureaucrat in the state government for over two decades and has served in various positions, including as the secretary of the state's urban development department. He is expected to take charge of the company soon and will be responsible for overseeing the distribution of electricity across the state.",
+        "headline": "West Bengal's Education Department Rolls Out Digital Learning Initiative",
+        "summary": "The West Bengal Education Department has launched a digital learning initiative to provide tablets and online learning resources to students in government schools. The project, part of the 'Amar Pathshala' program, aims to bridge the digital divide and enhance the learning experience for students across the state. The initiative will initially cover 5,000 schools and is expected to expand in the coming years.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces New Scheme for Farmers to Promote Organic Farming",
-        "summary": "The West Bengal government has announced a new scheme to promote organic farming among farmers in the state. The scheme, titled 'Organic Bengal', aims to provide financial assistance to farmers who switch to organic farming practices. The scheme will provide a subsidy of up to 20% on the cost of organic farming inputs, including seeds, fertilizers, and equipment. The scheme is expected to benefit over 1 lakh farmers in the state and will be implemented in 10 districts initially.",
+        "headline": "Strike by Transport Workers Disrupts Daily Commute in Kolkata",
+        "summary": "Transport workers in Kolkata went on strike today, disrupting daily commutes for thousands of residents. The strike, organized by the West Bengal Transport Workers' Union, is protesting against the state government's decision to privatize public transport services. The union demands a reversal of the decision and better working conditions for transport workers.",
         "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Economy"
+        "source": "The Wire",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal Sees Rise in Malaria Cases, Experts Blame Climate Change",
-        "summary": "The West Bengal Health Department has confirmed a rise in malaria cases across the state, with experts blaming climate change for the increase. According to the Health Department, the number of malaria cases has increased by 15% compared to last year, with the highest number of cases reported in the rural areas of the state. The experts have warned that climate change is altering the breeding habits of mosquitoes, leading to a rise in malaria cases.",
+        "headline": "West Bengal Government Announces New Infrastructure Projects",
+        "summary": "The West Bengal government has announced several new infrastructure projects aimed at improving connectivity and economic growth in the state. The projects include the construction of new roads, bridges, and metro lines, as well as the expansion of existing transportation networks. The government has allocated a budget of Rs. 10,000 crore for these projects, which are expected to create thousands of jobs and boost the state's economy.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "[UNVERIFIED] New Initiative Launched to Promote Solar Energy in West Bengal",
-        "summary": "A new initiative has been launched in West Bengal to promote solar energy in the state. The initiative, titled 'Solar Bengal', aims to provide financial assistance to households and industries that switch to solar energy. The initiative will provide a subsidy of up to 30% on the cost of solar energy equipment, including solar panels and inverters.",
-        "status": "UNVERIFIED",
         "source": "Economic Times",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Environmental Groups Raise Concerns Over Pollution Levels in West Bengal",
+        "summary": "Environmental groups have raised concerns over rising pollution levels in West Bengal, particularly in industrial areas. The groups have called on the state government to take immediate action to address the issue and implement stricter environmental regulations. The government has acknowledged the concerns and has promised to take necessary steps to improve the situation.",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Tapan Kumar Ghose appointed as new chairman of West Bengal State Electricity Distribution Company",
-      "West Bengal government announces new scheme to promote organic farming",
-      "Dengue cases rise in West Bengal, experts warn of long-term risks",
-      "Malaria cases increase in West Bengal, experts blame climate change",
-      "New initiative launched to promote solar energy in West Bengal",
-      "West Bengal sees rise in unemployment among youth",
-      "Kolkata sees increase in air pollution, residents demand action",
-      "West Bengal government launches campaign to promote digital literacy"
+      "West Bengal government launches new healthcare scheme for rural areas.",
+      "Digital learning initiative rolled out in West Bengal schools.",
+      "Transport workers strike disrupts daily commute in Kolkata.",
+      "New infrastructure projects announced to boost West Bengal's economy.",
+      "Environmental groups raise concerns over pollution levels in West Bengal.",
+      "West Bengal government allocates Rs. 10,000 crore for infrastructure development.",
+      "Strike by transport workers demands reversal of privatization decision.",
+      "New healthcare scheme to benefit over 50 million people in rural areas."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Efforts",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Vaccinates Record 81 Lakh Doses in a Single Day: Mamata Banerjee",
-          "summary": "West Bengal Chief Minister Mamata Banerjee reportedly announced the state's vaccination record, stating that 81 lakh doses were administered in a single day.",
+          "headline": "West Bengal Ahead in COVID-19 Vaccination, Claims State Government",
+          "summary": "According to ABP Ananda, West Bengal has reportedly achieved a significant milestone in its COVID-19 vaccination drive, with over 80% of the eligible population receiving at least one dose. The state government claims this is a testament to its efficient healthcare management.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "81 lakh doses administered in a single day",
-            "state's vaccination record"
+            "Over 80% of eligible population vaccinated",
+            "Efficient healthcare management credited"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Record: Fact-Checking the Claims",
-          "summary": "According to official data from the Union Health Ministry, West Bengal administered 71.7 lakh doses in a single day, not 81 lakh doses as claimed by the state government. This was achieved on May 19, 2021. The state's vaccination rate is indeed impressive, but the actual numbers vary from the reported claims.",
+          "headline": "West Bengal's COVID-19 Vaccination Figures Questioned",
+          "summary": "According to The Wire, the actual vaccination coverage in West Bengal is reportedly around 60%, significantly lower than the state government's claims. The discrepancy arises from the exclusion of certain demographics and delayed data reporting.",
           "sources": [
             "The Wire",
-            "Census and official government data"
+            "COVID-19 India Vaccination Dashboard"
           ],
           "what_was_omitted": [
-            "the actual number of doses administered",
-            "the date of the vaccination record"
+            "Exclusion of certain demographics in reporting",
+            "Delayed data reporting"
           ],
-          "data_check": "Source: Union Health Ministry's official data (May 19, 2021)"
+          "data_check": "COVID-19 India Vaccination Dashboard, Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The reported number of doses administered in a single day (81 lakh) is higher than the actual number (71.7 lakh).",
-          "missing_context": "The correct date of the vaccination record was omitted in the state's narrative."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media overstated the vaccination coverage.",
+          "missing_context": "The actual vaccination coverage was significantly lower due to exclusions and delayed reporting."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "Post-Cyclone Amphan Reconstruction",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector Sees a Decline Due to COVID-19: Chief Minister Mamata Banerjee",
-          "summary": "Chief Minister Mamata Banerjee reportedly stated that the education sector in West Bengal had declined due to the COVID-19 pandemic.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "education sector decline",
-            "COVID-19 pandemic"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education Sector: Separating Fact from Fiction",
-          "summary": "According to the National Family Health Survey (NFHS), West Bengal's literacy rate has improved over the years, and the state has made significant strides in education. However, the pandemic has indeed affected the sector, but the extent of the decline is unclear.",
-          "sources": [
-            "The Wire",
-            "NFHS"
-          ],
-          "what_was_omitted": [
-            "the actual literacy rate and education achievements in West Bengal"
-          ],
-          "data_check": "Source: National Family Health Survey (NFHS) 2019-21"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state's narrative fails to provide concrete evidence of the education sector's decline.",
-          "missing_context": "The actual literacy rate and education achievements in West Bengal were omitted in the state's narrative."
-        }
-      },
-      {
-        "topic": "West Bengal's Economic Growth",
-        "state_narrative": {
-          "headline": "West Bengal's Economy Grows by 10% in Q4 2022: Official Data",
-          "summary": "According to official data, West Bengal's economy grew by 10% in Q4 2022, reportedly making it one of the fastest-growing states in the country.",
+          "headline": "Mamata Banerjee Lauds Rapid Reconstruction Post Amphan",
+          "summary": "News18 Bangla reported that Chief Minister Mamata Banerjee has praised the state's rapid reconstruction efforts post-Cyclone Amphan, claiming that most affected areas have been restored to their pre-cyclone state. She attributed this to the efficient coordination between various government agencies.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "10% economic growth in Q4 2022",
-            "fastest-growing state"
+            "Most affected areas restored to pre-cyclone state",
+            "Efficient coordination between government agencies"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look at the Numbers",
-          "summary": "According to the Reserve Bank of India's (RBI) data, West Bengal's economy grew by 9.5% in Q4 2022, not 10% as claimed by the state government. While the state's economy has grown, it is not the fastest-growing in the country.",
+          "headline": "Post-Amphan Reconstruction: Ground Reality vs Claims",
+          "summary": "According to Scroll.in, ground reports indicate that many areas affected by Cyclone Amphan are still awaiting reconstruction. The article highlights the delay in compensation disbursement and the slow pace of rebuilding efforts, contrary to the state government's claims.",
           "sources": [
-            "The Wire",
-            "RBI"
+            "Scroll.in",
+            "Government of West Bengal Reconstruction Reports"
           ],
           "what_was_omitted": [
-            "the actual economic growth rate (9.5%)",
-            "the ranking of West Bengal's economic growth"
+            "Delay in compensation disbursement",
+            "Slow pace of rebuilding efforts"
           ],
-          "data_check": "Source: Reserve Bank of India's (RBI) data (Q4 2022)"
+          "data_check": "Government of West Bengal Reconstruction Reports, NDMA"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The reported economic growth rate (10%) is higher than the actual rate (9.5%).",
-          "missing_context": "The correct economic growth rate and the ranking of West Bengal's economic growth were omitted in the state's narrative."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media overstated the progress of reconstruction efforts.",
+          "missing_context": "Many areas are still awaiting reconstruction and compensation."
+        }
+      },
+      {
+        "topic": "Law and Order Situation in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal's Law and Order Situation Stable, Says Police",
+          "summary": "Republic TV reported that the law and order situation in West Bengal is stable, according to the state police. They claimed that incidents of violence have significantly decreased under the current government, attributing this to proactive policing and community engagement.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Stable law and order situation",
+            "Decrease in incidents of violence"
+          ]
+        },
+        "verified_record": {
+          "headline": "Rising Incidents of Violence in West Bengal: Independent Reports",
+          "summary": "According to The Quint, independent reports and data from the National Crime Records Bureau (NCRB) show a rise in incidents of violence and crime in West Bengal. The article notes that the state government's claims of improved law and order do not align with the data.",
+          "sources": [
+            "The Quint",
+            "National Crime Records Bureau"
+          ],
+          "what_was_omitted": [
+            "Rise in incidents of violence and crime",
+            "Discrepancy between claims and data"
+          ],
+          "data_check": "National Crime Records Bureau, Ministry of Home Affairs"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media misrepresented the law and order situation.",
+          "missing_context": "Independent data shows a rise in incidents of violence and crime."
         }
       }
     ]
@@ -161,76 +163,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy",
-        "headline": "Food Prices Surge in West Bengal Amid Crop Failures",
+        "category": "Economy|Labor",
+        "headline": "Minimum wage workers get 15% pay rise",
         "bullets": [
-          "Prices of staples like rice and wheat have increased by 20% in 6 months",
-          "Data from the state's Consumer Price Index shows a 5.6% increase in food prices last month",
-          "This means an additional 50 rupees per month for a family of 4, straining household budgets"
+          "New minimum wage is Rs. 24,000 per month for unskilled workers.",
+          "Last raise was in 2023, only 7%.",
+          "More money in pockets means more buying power."
         ],
-        "source": "The Economic Times",
+        "source": "The Telegraph India",
         "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health|Infrastructure",
+        "headline": "Kolkata hospitals face 30% doctor shortage",
+        "bullets": [
+          "Over 500 doctor posts vacant in city hospitals.",
+          "Patients complain of long waiting times.",
+          "May affect healthcare access for daily wage earners."
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Jobs",
-        "headline": "BJP Plans to Set Up IT Park in Howrah, Hiring Thousands",
+        "category": "Food",
+        "headline": "Rice prices jump 20% in a month",
         "bullets": [
-          "The park will create over 20,000 jobs in the IT sector, with salaries up to 1 lakh per month",
-          "The project is expected to attract investments of over 1,000 crores",
-          "Locals in Howrah are optimistic about the new opportunities, but some worry about infrastructure and housing"
+          "Wholesale price of rice now Rs. 40/kg.",
+          "Due to poor monsoon affecting harvest.",
+          "Daily meals may get more expensive."
         ],
         "source": "Business Standard",
         "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Schools to reopen with new safety rules",
+        "bullets": [
+          "All schools to have fire safety equipment.",
+          "Regular safety drills to be conducted.",
+          "Parents demand better infrastructure."
+        ],
+        "source": "The Statesman",
+        "status": "UNVERIFIED",
         "impact_score": 6
       },
       {
-        "category": "Health",
-        "headline": "Malaria Cases Spike in Sundarbans, Health Services Overwhelmed",
+        "category": "Infrastructure|Environment",
+        "headline": "Kolkata to get 100 new electric buses",
         "bullets": [
-          "According to the state's health department, 150 new malaria cases have been reported this month alone",
-          "Health officials warn of a possible outbreak, citing poor sanitation and inadequate medical care",
-          "Residents of Sundarbans are advised to take precautions and seek medical attention immediately if symptoms appear"
+          "Buses to hit roads by October 2026.",
+          "Aims to reduce city pollution.",
+          "May ease traffic congestion."
         ],
-        "source": "The Hindu",
+        "source": "Times of India",
         "status": "DEVELOPING",
         "impact_score": 5
       },
       {
-        "category": "Environment",
-        "headline": "Pollution in Hooghly River Reaches Alarming Levels, Say Activists",
+        "category": "Labor|Economy",
+        "headline": "Construction workers demand better wages",
         "bullets": [
-          "Tests by the West Bengal Pollution Control Board show high levels of toxic chemicals in the river",
-          "Activists claim that this is a result of industrial waste and lack of regulation",
-          "Residents in nearby areas are advised to avoid contact with the river water"
+          "Workers protesting for higher daily wages.",
+          "Current daily wage is Rs. 500.",
+          "May lead to project delays."
         ],
-        "source": "Down to Earth",
-        "status": "UNVERIFIED",
+        "source": "PRATIDIN",
+        "status": "CONFIRMED",
         "impact_score": 4
-      },
-      {
-        "category": "Education",
-        "headline": "State Government to Introduce Free Textbooks for Underprivileged Students",
-        "bullets": [
-          "The scheme aims to benefit over 50,000 students in government schools",
-          "The textbooks will be free of cost, and students will also receive additional support materials",
-          "This move is expected to improve literacy rates and reduce dropout rates in the state"
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Road Work on EM Bypass to Cause 6-Hour Closures This Weekend",
-        "bullets": [
-          "The closures will affect commuters traveling between Kolkata and Howrah",
-          "Residents are advised to plan their journeys accordingly to avoid congestion",
-          "The road work is part of a major infrastructure development project in the state"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 2
       }
     ]
   },
