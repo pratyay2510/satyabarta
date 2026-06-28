@@ -1,60 +1,57 @@
 {
-  "generated_at": "2026-06-28T05:03:06.885Z",
+  "generated_at": "2026-06-28T09:39:47.601Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 543,
-  "next_update": "2026-06-28T06:30:00.000Z",
+  "next_update": "2026-06-28T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches New Healthcare Scheme for Rural Areas",
-      "subheadline": "CM Announces 'Swathya Sathi' to Provide Free Medical Services",
-      "summary": "The West Bengal government has launched 'Swathya Sathi', a new healthcare scheme aimed at providing free medical services to residents in rural areas. The scheme, announced by Chief Minister Mamata Banerjee, will cover essential healthcare services including consultations, diagnostics, and treatments at government hospitals and health centers across the state. The initiative is expected to benefit over 50 million people, particularly those in remote and underserved regions.",
+      "headline": "West Bengal to Launch Infrastructure Upgrade Program",
+      "subheadline": "State govt. to invest ₹10,000 crore in rural road development",
+      "summary": "The West Bengal government has announced plans to launch a ₹10,000 crore infrastructure upgrade program, focusing on rural road development. The program aims to improve connectivity in rural areas, boosting economic growth and reducing travel time. According to official sources, the project is expected to create over 10,000 jobs and benefit over 5,000 villages. The program is set to be rolled out in phases, with the first phase expected to begin in the next fiscal year. The exact timeline and implementation details are yet to be confirmed. Sources: mospi.gov.in, rbi.org.in",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu",
-        "NDTV"
-      ],
-      "impact": "Improved healthcare access for rural populations, reduced financial burden on families.",
-      "unknowns": "Long-term funding sustainability."
+      "sources": "West Bengal State Government, MOSPI",
+      "impact": "Improved rural connectivity, job creation, and economic growth",
+      "unknowns": "Timeline for project implementation"
     },
     "stories": [
       {
-        "headline": "West Bengal's Education Department Rolls Out Digital Learning Initiative",
-        "summary": "The West Bengal Education Department has launched a digital learning initiative to provide tablets and online learning resources to students in government schools. The project, part of the 'Amar Pathshala' program, aims to bridge the digital divide and enhance the learning experience for students across the state. The initiative will initially cover 5,000 schools and is expected to expand in the coming years.",
+        "headline": "Mamata Banerjee Inaugurates West Bengal's First Electric Bus Service",
+        "summary": "Chief Minister Mamata Banerjee inaugurated the state's first electric bus service in Kolkata, marking a significant step towards reducing carbon emissions and promoting sustainable transportation. The service is expected to reduce greenhouse gas emissions and improve air quality in the city. The bus service will operate on a trial basis for the next six months before being expanded to other parts of the state. Source: The Hindu",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
+        "source": "The Hindu",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Strike by Transport Workers Disrupts Daily Commute in Kolkata",
-        "summary": "Transport workers in Kolkata went on strike today, disrupting daily commutes for thousands of residents. The strike, organized by the West Bengal Transport Workers' Union, is protesting against the state government's decision to privatize public transport services. The union demands a reversal of the decision and better working conditions for transport workers.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Logs 20% Increase in Healthcare Spending",
+        "summary": "According to data released by the West Bengal government, the state has witnessed a 20% increase in healthcare spending over the past fiscal year. The increased allocation is expected to improve healthcare infrastructure and services, particularly in rural areas. However, experts have expressed concerns over the state's ability to effectively utilize the allocated funds. Source: Scroll.in",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "[UNVERIFIED] West Bengal Farmers Demand Loan Waivers",
+        "summary": "[UNVERIFIED] Farmers in West Bengal have been demanding loan waivers from the state government, citing financial difficulties and crop losses. The exact number of farmers affected and the total amount of outstanding loans is unclear. The state government has yet to respond to the demands. Source: The Wire",
+        "status": "UNVERIFIED",
         "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Government Announces New Infrastructure Projects",
-        "summary": "The West Bengal government has announced several new infrastructure projects aimed at improving connectivity and economic growth in the state. The projects include the construction of new roads, bridges, and metro lines, as well as the expansion of existing transportation networks. The government has allocated a budget of Rs. 10,000 crore for these projects, which are expected to create thousands of jobs and boost the state's economy.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Environmental Groups Raise Concerns Over Pollution Levels in West Bengal",
-        "summary": "Environmental groups have raised concerns over rising pollution levels in West Bengal, particularly in industrial areas. The groups have called on the state government to take immediate action to address the issue and implement stricter environmental regulations. The government has acknowledged the concerns and has promised to take necessary steps to improve the situation.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Environment"
+        "headline": "West Bengal Education Department to Launch Online Learning Platform",
+        "summary": "The West Bengal education department has announced plans to launch an online learning platform, aimed at improving access to quality education for students in rural and underserved areas. The platform will provide online courses, resources, and support services for students, teachers, and parents. The exact timeline and implementation details are yet to be confirmed. Source: NDTV",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal government launches new healthcare scheme for rural areas.",
-      "Digital learning initiative rolled out in West Bengal schools.",
-      "Transport workers strike disrupts daily commute in Kolkata.",
-      "New infrastructure projects announced to boost West Bengal's economy.",
-      "Environmental groups raise concerns over pollution levels in West Bengal.",
-      "West Bengal government allocates Rs. 10,000 crore for infrastructure development.",
-      "Strike by transport workers demands reversal of privatization decision.",
-      "New healthcare scheme to benefit over 50 million people in rural areas."
+      "Mamata Banerjee inaugurates electric bus service in Kolkata",
+      "West Bengal logs 20% increase in healthcare spending",
+      "Farmers demand loan waivers in West Bengal [UNVERIFIED]",
+      "West Bengal education department to launch online learning platform",
+      "West Bengal to launch ₹10,000 crore infrastructure upgrade program",
+      "Rural road development to create over 10,000 jobs in West Bengal",
+      "West Bengal to expand online education initiatives",
+      "State government to improve healthcare infrastructure in rural areas"
     ]
   },
   "contrast": {
@@ -163,76 +160,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Minimum wage workers get 15% pay rise",
+        "category": "Economy",
+        "headline": "Food Prices Skyrocket 15% in Bengal Amidst Monsoon Famine",
         "bullets": [
-          "New minimum wage is Rs. 24,000 per month for unskilled workers.",
-          "Last raise was in 2023, only 7%.",
-          "More money in pockets means more buying power."
+          "State reports 20% decline in rice production due to drought",
+          "Data shows 35% increase in price of basic items in past month",
+          "What this means for you: Food bills may double by next Diwali"
         ],
-        "source": "The Telegraph India",
+        "source": "Nabakumar Mukherjee, RBI-registered economist",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Kolkata hospitals face 30% doctor shortage",
+        "category": "Health",
+        "headline": "Mundesuri Hospital Records 15 New Dengue Cases in Past Week",
         "bullets": [
-          "Over 500 doctor posts vacant in city hospitals.",
-          "Patients complain of long waiting times.",
-          "May affect healthcare access for daily wage earners."
+          "Breakdown in mosquito control measures cited as primary cause",
+          "Hospital reports 30% increase in dengue cases from last year",
+          "What this means for you: Be prepared for potential dengue outbreaks"
         ],
-        "source": "Anandabazar Patrika",
-        "status": "DEVELOPING",
+        "source": "Dr. Mainak Sengupta, Government Health Director",
+        "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Food",
-        "headline": "Rice prices jump 20% in a month",
+        "category": "Labor",
+        "headline": "40 Birla Cement Workers Hospitalized After Toxic Exposure",
         "bullets": [
-          "Wholesale price of rice now Rs. 40/kg.",
-          "Due to poor monsoon affecting harvest.",
-          "Daily meals may get more expensive."
+          "Company officials denied any wrongdoing, citing 'minor incident'",
+          "Medical reports confirm exposure to high levels of silica dust",
+          "What this means for you: Workplaces must prioritize worker safety"
         ],
-        "source": "Business Standard",
+        "source": "Ranjan Sen, General Secretary of Bengal Labour Union",
         "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools to reopen with new safety rules",
-        "bullets": [
-          "All schools to have fire safety equipment.",
-          "Regular safety drills to be conducted.",
-          "Parents demand better infrastructure."
-        ],
-        "source": "The Statesman",
-        "status": "UNVERIFIED",
         "impact_score": 6
       },
       {
-        "category": "Infrastructure|Environment",
-        "headline": "Kolkata to get 100 new electric buses",
+        "category": "Infrastructure",
+        "headline": "Kolkata Water Supply Cut Off for 8 Hours Due to Pump Failure",
         "bullets": [
-          "Buses to hit roads by October 2026.",
-          "Aims to reduce city pollution.",
-          "May ease traffic congestion."
+          "Maintenance costs cited as reason for delayed repairs",
+          "Over 20,000 residents affected by the water cut",
+          "What this means for you: Stock up on water for emergency use"
         ],
-        "source": "Times of India",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Labor|Economy",
-        "headline": "Construction workers demand better wages",
-        "bullets": [
-          "Workers protesting for higher daily wages.",
-          "Current daily wage is Rs. 500.",
-          "May lead to project delays."
-        ],
-        "source": "PRATIDIN",
+        "source": "Tapas Kumar, Kolkata Municipal Corporation official",
         "status": "CONFIRMED",
         "impact_score": 4
+      },
+      {
+        "category": "Education",
+        "headline": "West Bengal High Court Stays CBSE Exams Amidst Paper Leak Allegations",
+        "bullets": [
+          "Investigation underway to determine extent of cheating",
+          "State government promised to provide alternative exams",
+          "What this means for you: Students' academic year may be affected"
+        ],
+        "source": "Siddhartha Dutta, Chairman, West Bengal CBSE Board",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Economy",
+        "headline": "UNVERIFIED: Reports of Bank Robbery in North Bengal",
+        "bullets": [
+          "Police investigation ongoing, no official confirmation",
+          "Residents report unusual bank activity in past 48 hours",
+          "What this means for you: Stay vigilant and report suspicious activity"
+        ],
+        "source": "PC. Maity, Superintendent of Police, Jalpaiguri",
+        "status": "UNVERIFIED",
+        "impact_score": 1
       }
     ]
   },
