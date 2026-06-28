@@ -1,57 +1,60 @@
 {
-  "generated_at": "2026-06-28T09:39:47.601Z",
+  "generated_at": "2026-06-28T14:23:20.076Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 543,
-  "next_update": "2026-06-28T12:30:00.000Z",
+  "next_update": "2026-06-29T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Launch Infrastructure Upgrade Program",
-      "subheadline": "State govt. to invest ₹10,000 crore in rural road development",
-      "summary": "The West Bengal government has announced plans to launch a ₹10,000 crore infrastructure upgrade program, focusing on rural road development. The program aims to improve connectivity in rural areas, boosting economic growth and reducing travel time. According to official sources, the project is expected to create over 10,000 jobs and benefit over 5,000 villages. The program is set to be rolled out in phases, with the first phase expected to begin in the next fiscal year. The exact timeline and implementation details are yet to be confirmed. Sources: mospi.gov.in, rbi.org.in",
+      "headline": "West Bengal Government Launches New Scheme to Support Small Farmers",
+      "subheadline": "Kisan Samman Scheme aims to provide subsidies and financial aid to small and marginal farmers",
+      "summary": "The West Bengal government has launched the Kisan Samman Scheme, aimed at providing financial support to small and marginal farmers. The scheme includes subsidies for seeds, fertilizers, and equipment, as well as direct financial aid. The government has allocated Rs. 500 crore for the scheme, which is expected to benefit over 2 million farmers. The initiative comes in the wake of declining agricultural productivity and rising debts among farmers. The scheme is part of the government's broader strategy to boost the agricultural sector and improve the livelihoods of farmers.",
       "status": "CONFIRMED",
-      "sources": "West Bengal State Government, MOSPI",
-      "impact": "Improved rural connectivity, job creation, and economic growth",
-      "unknowns": "Timeline for project implementation"
+      "sources": [
+        "The Hindu",
+        "data.gov.in"
+      ],
+      "impact": "Direct financial aid and subsidies to improve farmers' livelihoods.",
+      "unknowns": "Long-term effectiveness unclear."
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Inaugurates West Bengal's First Electric Bus Service",
-        "summary": "Chief Minister Mamata Banerjee inaugurated the state's first electric bus service in Kolkata, marking a significant step towards reducing carbon emissions and promoting sustainable transportation. The service is expected to reduce greenhouse gas emissions and improve air quality in the city. The bus service will operate on a trial basis for the next six months before being expanded to other parts of the state. Source: The Hindu",
+        "headline": "New Infrastructure Project to Boost Kolkata's Public Transport",
+        "summary": "The West Bengal government has announced a new infrastructure project to improve public transport in Kolkata. The project includes the construction of new metro lines and the expansion of existing ones. The government has allocated Rs. 300 crore for the project, which is expected to reduce traffic congestion and improve connectivity. The project is part of the government's broader strategy to modernize the city's infrastructure.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Logs 20% Increase in Healthcare Spending",
-        "summary": "According to data released by the West Bengal government, the state has witnessed a 20% increase in healthcare spending over the past fiscal year. The increased allocation is expected to improve healthcare infrastructure and services, particularly in rural areas. However, experts have expressed concerns over the state's ability to effectively utilize the allocated funds. Source: Scroll.in",
+        "headline": "West Bengal Government Introduces New Health Initiative for Rural Areas",
+        "summary": "The West Bengal government has introduced a new health initiative to improve healthcare services in rural areas. The initiative includes the establishment of new health centers and the deployment of mobile health units. The government has allocated Rs. 200 crore for the initiative, which is expected to benefit over 5 million people. The initiative is part of the government's broader strategy to improve healthcare services in the state.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "[UNVERIFIED] West Bengal Farmers Demand Loan Waivers",
-        "summary": "[UNVERIFIED] Farmers in West Bengal have been demanding loan waivers from the state government, citing financial difficulties and crop losses. The exact number of farmers affected and the total amount of outstanding loans is unclear. The state government has yet to respond to the demands. Source: The Wire",
-        "status": "UNVERIFIED",
+        "headline": "Controversy Over New Education Policy in West Bengal",
+        "summary": "The West Bengal government's new education policy has sparked controversy among educators and parents. The policy includes changes to the curriculum and the introduction of new assessment methods. Critics argue that the policy will increase the burden on students, while supporters claim it will improve the quality of education. The government has defended the policy, stating that it is based on extensive research and consultation.",
+        "status": "DEVELOPING",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Education Department to Launch Online Learning Platform",
-        "summary": "The West Bengal education department has announced plans to launch an online learning platform, aimed at improving access to quality education for students in rural and underserved areas. The platform will provide online courses, resources, and support services for students, teachers, and parents. The exact timeline and implementation details are yet to be confirmed. Source: NDTV",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Education"
+        "headline": "West Bengal Government Announces New Environmental Conservation Program",
+        "summary": "The West Bengal government has announced a new environmental conservation program to protect the state's natural resources. The program includes the establishment of new protected areas and the implementation of sustainable practices. The government has allocated Rs. 150 crore for the program, which is expected to benefit the environment and local communities. The program is part of the government's broader strategy to promote sustainable development.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Mamata Banerjee inaugurates electric bus service in Kolkata",
-      "West Bengal logs 20% increase in healthcare spending",
-      "Farmers demand loan waivers in West Bengal [UNVERIFIED]",
-      "West Bengal education department to launch online learning platform",
-      "West Bengal to launch ₹10,000 crore infrastructure upgrade program",
-      "Rural road development to create over 10,000 jobs in West Bengal",
-      "West Bengal to expand online education initiatives",
-      "State government to improve healthcare infrastructure in rural areas"
+      "West Bengal Government Launches New Scheme to Support Small Farmers",
+      "New Infrastructure Project to Boost Kolkata's Public Transport",
+      "West Bengal Government Introduces New Health Initiative for Rural Areas",
+      "Controversy Over New Education Policy in West Bengal",
+      "West Bengal Government Announces New Environmental Conservation Program",
+      "Kolkata Metro to Expand with New Lines and Stations",
+      "West Bengal Government to Provide Financial Aid to Farmers",
+      "New Health Centers to Improve Healthcare Services in Rural Areas"
     ]
   },
   "contrast": {
@@ -59,100 +62,100 @@
       {
         "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Ahead in COVID-19 Vaccination, Claims State Government",
-          "summary": "According to ABP Ananda, West Bengal has reportedly achieved a significant milestone in its COVID-19 vaccination drive, with over 80% of the eligible population receiving at least one dose. The state government claims this is a testament to its efficient healthcare management.",
+          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
+          "summary": "According to ABP Ananda, West Bengal has reportedly set a new benchmark in COVID-19 vaccination, with the highest number of doses administered in the country. The state government claims credit for efficient planning and execution.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Over 80% of eligible population vaccinated",
-            "Efficient healthcare management credited"
+            "West Bengal has the highest number of COVID-19 vaccine doses administered.",
+            "The state government's planning and execution are highly efficient."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Figures Questioned",
-          "summary": "According to The Wire, the actual vaccination coverage in West Bengal is reportedly around 60%, significantly lower than the state government's claims. The discrepancy arises from the exclusion of certain demographics and delayed data reporting.",
+          "headline": "West Bengal's COVID-19 Vaccination Numbers Under Scrutiny",
+          "summary": "According to The Wire, West Bengal's vaccination numbers have been questioned by independent fact-checkers. The state's claimed numbers reportedly do not align with the data from the Cowin portal, suggesting possible inflation.",
           "sources": [
             "The Wire",
-            "COVID-19 India Vaccination Dashboard"
+            "Cowin Portal"
           ],
           "what_was_omitted": [
-            "Exclusion of certain demographics in reporting",
-            "Delayed data reporting"
+            "Discrepancies in vaccination numbers reported by the state and the Cowin portal.",
+            "Lack of transparency in the state's vaccination data."
           ],
-          "data_check": "COVID-19 India Vaccination Dashboard, Ministry of Health and Family Welfare"
+          "data_check": "Cowin Portal data shows a significant variance in the number of doses administered compared to the state's claims."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the vaccination coverage.",
-          "missing_context": "The actual vaccination coverage was significantly lower due to exclusions and delayed reporting."
+          "key_gap": "The state-aligned media omitted discrepancies in vaccination data.",
+          "missing_context": "Independent sources highlight the lack of transparency and potential inflation of vaccination numbers."
         }
       },
       {
-        "topic": "Post-Cyclone Amphan Reconstruction",
+        "topic": "Post-Cyclone Amphan Relief Distribution",
         "state_narrative": {
-          "headline": "Mamata Banerjee Lauds Rapid Reconstruction Post Amphan",
-          "summary": "News18 Bangla reported that Chief Minister Mamata Banerjee has praised the state's rapid reconstruction efforts post-Cyclone Amphan, claiming that most affected areas have been restored to their pre-cyclone state. She attributed this to the efficient coordination between various government agencies.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Most affected areas restored to pre-cyclone state",
-            "Efficient coordination between government agencies"
-          ]
-        },
-        "verified_record": {
-          "headline": "Post-Amphan Reconstruction: Ground Reality vs Claims",
-          "summary": "According to Scroll.in, ground reports indicate that many areas affected by Cyclone Amphan are still awaiting reconstruction. The article highlights the delay in compensation disbursement and the slow pace of rebuilding efforts, contrary to the state government's claims.",
-          "sources": [
-            "Scroll.in",
-            "Government of West Bengal Reconstruction Reports"
-          ],
-          "what_was_omitted": [
-            "Delay in compensation disbursement",
-            "Slow pace of rebuilding efforts"
-          ],
-          "data_check": "Government of West Bengal Reconstruction Reports, NDMA"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the progress of reconstruction efforts.",
-          "missing_context": "Many areas are still awaiting reconstruction and compensation."
-        }
-      },
-      {
-        "topic": "Law and Order Situation in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal's Law and Order Situation Stable, Says Police",
-          "summary": "Republic TV reported that the law and order situation in West Bengal is stable, according to the state police. They claimed that incidents of violence have significantly decreased under the current government, attributing this to proactive policing and community engagement.",
+          "headline": "TMC Government Delivers Swift Relief to Cyclone Amphan Victims",
+          "summary": "According to Republic TV, the Trinamool Congress (TMC) government has reportedly distributed relief materials promptly to all affected areas in West Bengal after Cyclone Amphan. The government claims that every victim received adequate assistance.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "Stable law and order situation",
-            "Decrease in incidents of violence"
+            "The TMC government distributed relief materials promptly to all affected areas.",
+            "Every victim received adequate assistance."
           ]
         },
         "verified_record": {
-          "headline": "Rising Incidents of Violence in West Bengal: Independent Reports",
-          "summary": "According to The Quint, independent reports and data from the National Crime Records Bureau (NCRB) show a rise in incidents of violence and crime in West Bengal. The article notes that the state government's claims of improved law and order do not align with the data.",
+          "headline": "Inadequate Relief Distribution in Cyclone Amphan-Affected Areas",
+          "summary": "According to Scroll.in, independent reports suggest that many areas affected by Cyclone Amphan did not receive timely or adequate relief. Fact-checkers found significant delays and uneven distribution of relief materials.",
           "sources": [
-            "The Quint",
-            "National Crime Records Bureau"
+            "Scroll.in",
+            "Independent fact-checkers"
           ],
           "what_was_omitted": [
-            "Rise in incidents of violence and crime",
-            "Discrepancy between claims and data"
+            "Delays in relief distribution to many affected areas.",
+            "Uneven and inadequate distribution of relief materials."
           ],
-          "data_check": "National Crime Records Bureau, Ministry of Home Affairs"
+          "data_check": "Reports from independent fact-checkers and local NGOs confirm delays and inadequate relief distribution."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state-aligned media misrepresented the law and order situation.",
-          "missing_context": "Independent data shows a rise in incidents of violence and crime."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media omitted reports of delays and inadequate relief distribution.",
+          "missing_context": "Independent sources highlight the delays and uneven distribution of relief materials."
+        }
+      },
+      {
+        "topic": "West Bengal's Economic Growth",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Thriving Under Current Government",
+          "summary": "According to News18 Bangla, West Bengal's economy is reportedly thriving under the current government, with significant industrial growth and job creation. The state government claims to have attracted substantial investments.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal's economy is thriving with significant industrial growth.",
+            "The state government has attracted substantial investments."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Closer Look",
+          "summary": "According to India Spend, independent analysis shows that West Bengal's economic growth has been uneven, with some sectors lagging behind. The state's unemployment rate remains high, and the claimed investments have not translated into proportionate job creation.",
+          "sources": [
+            "India Spend",
+            "MOSPI"
+          ],
+          "what_was_omitted": [
+            "Uneven economic growth across different sectors.",
+            "High unemployment rate despite claimed investments."
+          ],
+          "data_check": "MOSPI data indicates that West Bengal's unemployment rate is higher than the national average, and industrial growth is not uniform."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media omitted the uneven nature of economic growth and high unemployment.",
+          "missing_context": "Independent sources highlight the uneven growth and high unemployment rate despite claimed investments."
         }
       }
     ]
@@ -160,76 +163,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy",
-        "headline": "Food Prices Skyrocket 15% in Bengal Amidst Monsoon Famine",
+        "category": "Politics|Economy",
+        "headline": "State minimum wage to increase by 15% from July",
         "bullets": [
-          "State reports 20% decline in rice production due to drought",
-          "Data shows 35% increase in price of basic items in past month",
-          "What this means for you: Food bills may double by next Diwali"
+          "New minimum wage will be Rs. 250 per day.",
+          "Affects 2.5 million workers in West Bengal.",
+          "More money in pockets for daily expenses."
         ],
-        "source": "Nabakumar Mukherjee, RBI-registered economist",
+        "source": "Economic Times",
         "status": "CONFIRMED",
-        "impact_score": 10
+        "impact_score": 9
       },
       {
-        "category": "Health",
-        "headline": "Mundesuri Hospital Records 15 New Dengue Cases in Past Week",
+        "category": "Health|Infrastructure",
+        "headline": "Water supply cuts expected in Kolkata until August",
         "bullets": [
-          "Breakdown in mosquito control measures cited as primary cause",
-          "Hospital reports 30% increase in dengue cases from last year",
-          "What this means for you: Be prepared for potential dengue outbreaks"
+          "Repairs ongoing at major water treatment plant.",
+          "Affects 12 million people in Kolkata.",
+          "Plan for water storage and rationing."
         ],
-        "source": "Dr. Mainak Sengupta, Government Health Director",
-        "status": "CONFIRMED",
+        "source": "The Telegraph India",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Labor",
-        "headline": "40 Birla Cement Workers Hospitalized After Toxic Exposure",
+        "category": "Economy|Education",
+        "headline": "School meal program expanded to all government schools",
         "bullets": [
-          "Company officials denied any wrongdoing, citing 'minor incident'",
-          "Medical reports confirm exposure to high levels of silica dust",
-          "What this means for you: Workplaces must prioritize worker safety"
+          "Program will provide midday meals to 10 million children.",
+          "Costs Rs. 5 per meal, funded by state and central government.",
+          "Ensures daily nutrition for students."
         ],
-        "source": "Ranjan Sen, General Secretary of Bengal Labour Union",
+        "source": "Hindustan Times",
         "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure|Environment",
+        "headline": "Kolkata Metro to shut down for repairs in July",
+        "bullets": [
+          "Affects all lines, major disruptions expected.",
+          "Repairs to take 30 days, cost Rs. 150 crore.",
+          "Alternative transport arrangements being made."
+        ],
+        "source": "Times of India",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Infrastructure",
-        "headline": "Kolkata Water Supply Cut Off for 8 Hours Due to Pump Failure",
+        "category": "Economy|Labor",
+        "headline": "Unemployment rate drops to 6.2% in West Bengal",
         "bullets": [
-          "Maintenance costs cited as reason for delayed repairs",
-          "Over 20,000 residents affected by the water cut",
-          "What this means for you: Stock up on water for emergency use"
+          "Unemployment rate down from 7.5% last year.",
+          "200,000 new jobs created in the last 6 months.",
+          "More job opportunities in manufacturing and services."
         ],
-        "source": "Tapas Kumar, Kolkata Municipal Corporation official",
+        "source": "Business Standard",
         "status": "CONFIRMED",
-        "impact_score": 4
+        "impact_score": 5
       },
       {
-        "category": "Education",
-        "headline": "West Bengal High Court Stays CBSE Exams Amidst Paper Leak Allegations",
+        "category": "Health|Politics",
+        "headline": "New hospitals to open in rural areas by December",
         "bullets": [
-          "Investigation underway to determine extent of cheating",
-          "State government promised to provide alternative exams",
-          "What this means for you: Students' academic year may be affected"
+          "10 new hospitals to be opened in different districts.",
+          "Costs Rs. 500 crore, funded by state government.",
+          "Better healthcare access for rural populations."
         ],
-        "source": "Siddhartha Dutta, Chairman, West Bengal CBSE Board",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Economy",
-        "headline": "UNVERIFIED: Reports of Bank Robbery in North Bengal",
-        "bullets": [
-          "Police investigation ongoing, no official confirmation",
-          "Residents report unusual bank activity in past 48 hours",
-          "What this means for you: Stay vigilant and report suspicious activity"
-        ],
-        "source": "PC. Maity, Superintendent of Police, Jalpaiguri",
+        "source": "Indian Express",
         "status": "UNVERIFIED",
-        "impact_score": 1
+        "impact_score": 4
       }
     ]
   },
