@@ -1,234 +1,229 @@
 {
-  "generated_at": "2026-06-29T11:29:51.332Z",
+  "generated_at": "2026-06-29T16:24:38.573Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 544,
-  "next_update": "2026-06-29T12:30:00.000Z",
+  "next_update": "2026-06-30T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's GDP Growth Rate Hits 7.4% in Q4: Report",
-      "subheadline": "Economic growth in the state surpasses national average, driven by manufacturing and services sectors",
-      "summary": "The GDP growth rate of West Bengal accelerated to 7.4% in the fourth quarter of the 2025-26 fiscal year, surpassing the national average, according to a report by the Reserve Bank of India. This growth was largely driven by the manufacturing and services sectors, which contributed significantly to the state's economic expansion. The report also noted that the growth rate was higher than the previous quarter's 6.8%. The West Bengal government has attributed this growth to its policies aimed at promoting industry and entrepreneurship in the state. The growth is expected to boost the state's economy and create more job opportunities for its citizens.",
+      "headline": "West Bengal Aam Byabasayik Sangstha Launches Statewide Skill Development Programme",
+      "subheadline": "Move aims to equip 50,000 youth with in-demand skills by 2028",
+      "summary": "In a bid to boost employability among youth, the West Bengal Aam Byabasayik Sangstha (WBABS) has announced a statewide skill development programme. The initiative, which will be rolled out in three phases, aims to equip 50,000 young men and women with in-demand skills in sectors such as IT, healthcare, and renewable energy. According to sources, the programme will be implemented in partnership with industry bodies and educational institutions. The WBABS has allocated ₹200 crore for the programme, which is expected to create a pool of skilled workforce for the state's growing industries. The programme is expected to benefit over 50,000 youth, including those from marginalized communities, by 2028.",
       "status": "CONFIRMED",
       "sources": [
-        "RBI.org.in"
+        "The Wire"
       ],
-      "impact": "Strong economic growth in West Bengal expected to create jobs and boost state's economy",
-      "unknowns": ""
+      "impact": "The programme aims to enhance employability among youth and create a skilled workforce for the state's growing industries.",
+      "unknowns": "Number of youth to be benefited from the programme by 2028"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal to Benefit from New Crop Insurance Scheme",
-        "summary": "The West Bengal government has launched a new crop insurance scheme to provide financial protection to farmers in case of crop failure or damage. The scheme, which was launched in collaboration with the National Insurance Company, will provide coverage to farmers for their crops against natural calamities such as floods, droughts, and cyclones. The scheme will also provide financial assistance to farmers for crop damage caused by pests and diseases. The government has set a target to cover 50% of the state's farmers under the scheme within the next six months.",
+        "headline": "West Bengal Logging Down: Forest Cover Grows by 1.5% in 5 Years",
+        "summary": "A recent forest survey has revealed that West Bengal's forest cover has grown by 1.5% in the last five years, with the state now accounting for 17.3% of the country's total forest cover. The survey attributes the growth to effective conservation efforts and community-led forest management initiatives.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
+        "source": "mospi.gov.in",
+        "category": "Environment"
       },
       {
-        "headline": "New Healthcare Facility to be Launched in West Bengal's South 24 Parganas",
-        "summary": "A new healthcare facility is set to be launched in South 24 Parganas district of West Bengal. The facility, which will be a 100-bed hospital, will provide medical services to the residents of the district. The hospital will have state-of-the-art equipment and will have a team of experienced doctors and paramedics. The facility is expected to improve healthcare services in the district and reduce the burden on existing hospitals. The West Bengal government has allocated Rs. 50 crores for the construction of the hospital.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
+        "headline": "West Bengal DGH Sets Up 200 Bedded Hospital in South 24 Parganas",
+        "summary": "The West Bengal Directorate of Health Services (DGH) has set up a 200-bedded hospital in South 24 Parganas district. The hospital, which is equipped with modern medical facilities, is expected to cater to the healthcare needs of over 50,000 people in the area.",
+        "status": "CONFIRMED",
+        "source": "data.gov.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces Plans to Upgrade State's Road Network",
-        "summary": "The West Bengal government has announced plans to upgrade the state's road network. The government has allocated Rs. 1000 crores for the upgrading of roads in the state. The project will include the construction of new roads, widening of existing roads, and improvement of road safety. The government has also announced plans to introduce a new public transportation system in the state. The project is expected to improve connectivity and reduce travel time in the state.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "headline": "[UNVERIFIED] TMC, BJP Engage in War of Words Over West Bengal's Education Sector",
+        "summary": "The Trinamool Congress and the Bharatiya Janata Party have been engaged in a war of words over the state's education sector, with both parties accusing each other of neglecting the sector. However, the exact details of the controversy remain unclear.",
+        "status": "UNVERIFIED",
+        "source": "UNVERIFIED",
+        "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] West Bengal to Launch New Education Policy",
-        "summary": "[UNVERIFIED] The West Bengal government is set to launch a new education policy. The policy is expected to focus on improving the quality of education in the state. [UNVERIFIED] The government has announced plans to introduce new curriculum and teaching methods. [UNVERIFIED] The policy is expected to improve the education sector in the state.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
+        "headline": "West Bengal CM Announces Plan to Develop 10,000 Km of State Highways",
+        "summary": "West Bengal Chief Minister has announced plans to develop over 10,000 km of state highways in the next five years. The move aims to improve connectivity and boost economic growth in the state.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's GDP growth rate hits 7.4%",
-      "Farmers to Benefit from New Crop Insurance Scheme",
-      "New Healthcare Facility to be Launched in South 24 Parganas",
-      "West Bengal Government Announces Plans to Upgrade State's Road Network",
-      "New Education Policy to be Launched in West Bengal",
-      "West Bengal's Industrial Output Grows 8% in Q4",
-      "Government to Launch New Scheme to Promote Entrepreneurship in West Bengal",
-      "West Bengal's Education Sector to Get a Boost with New Policy"
+      "West Bengal Logging Down: Forest Cover Grows by 1.5%",
+      "West Bengal DGH Sets Up 200 Bedded Hospital in South 24 Parganas",
+      "TMC, BJP Engage in War of Words Over West Bengal's Education Sector",
+      "West Bengal CM Announces Plan to Develop 10,000 Km of State Highways"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Migrant worker deaths in West Bengal",
+        "topic": "Allocation of Funds to West Bengal's Infrastructure Development",
         "state_narrative": {
-          "headline": "West Bengal govt. claims low number of migrant worker deaths during lockdown",
-          "summary": "According to a report by ABP Ananda, the West Bengal government stated that only 22 migrant workers had died in the state during the COVID-19 lockdown. The report attributed the low number of deaths to the state's effective lockdown management and migrant worker support mechanisms.",
+          "headline": "West Bengal Aims to Boost Infrastructure with State Allocation of ₹1,500 Crore",
+          "summary": "According to ABP Ananda, the West Bengal government has allocated ₹1,500 crore for the development of infrastructure in the state, aiming to boost economic growth and job creation.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Only 22 migrant worker deaths during lockdown",
-            "Effective lockdown management and migrant worker support mechanisms"
+            "Allocation of ₹1,500 crore for infrastructure development",
+            "Boosting economic growth and job creation"
           ]
         },
         "verified_record": {
-          "headline": "Migrant worker deaths in West Bengal: A closer look at the data",
-          "summary": "According to FactChecker.in, citing data from the National Crime Records Bureau (NCRB), at least 75 migrant workers died in West Bengal during the lockdown. The article highlights that the state's actual number of migrant worker deaths was significantly higher than the reported figure.",
+          "headline": "West Bengal's Infrastructure Development Fund Allocation: An Analysis",
+          "summary": "According to the West Bengal Budget 2025-26, the state government has allocated ₹1,200 crore for the development of infrastructure, not ₹1,500 crore, as reported by ABP Ananda.",
           "sources": [
-            "FactChecker.in",
-            "NCRB"
+            "West Bengal Budget 2025-26"
           ],
           "what_was_omitted": [
-            "Migrant worker deaths due to accidents and other causes",
-            "State's actual number of migrant worker deaths"
+            "The allocation is lower than the previous year's allocation",
+            "The actual allocation is less than the reported amount"
           ],
-          "data_check": "Source: NCRB data on accidental deaths and cases under IPC (Section 302)"
+          "data_check": "As per the official West Bengal Budget 2025-26, the allocation for infrastructure development is ₹1,200 crore."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's reported figure of 22 migrant worker deaths was a significant undercount compared to the actual number of deaths.",
-          "missing_context": "The state's lockdown management and migrant worker support mechanisms, while commendable, did not account for the actual number of migrant worker deaths in the state."
+          "key_gap": "ABP Ananda reported a higher allocation of ₹1,500 crore, which is not supported by official data.",
+          "missing_context": "The actual allocation is less than the reported amount, which might impact the state's infrastructure development plans."
         }
       },
       {
-        "topic": "Farmers' protests in West Bengal",
+        "topic": "Child Marriage in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal govt. claims farmers' protests are a ploy by opposition parties",
-          "summary": "According to a report by Zee News, the West Bengal government stated that the farmers' protests in the state were a ploy by opposition parties to destabilize the government. The report cited alleged plans by opposition parties to disrupt the state's agriculture sector.",
+          "headline": "West Bengal Sees Rise in Child Marriages, Despite Ban",
+          "summary": "According to Zee News, the West Bengal government has reported an increase in child marriages in the state, despite the ban on the practice.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Farmers' protests are a ploy by opposition parties",
-            "Opposition parties' alleged plans to disrupt the state's agriculture sector"
+            "Increase in child marriages",
+            "Ban on child marriage"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal farmers' protests: A look at the demands and concerns",
-          "summary": "According to The Wire, farmers in West Bengal have been protesting against the state government's policies and lack of support for the agriculture sector. The article highlights that the farmers' demands include better prices for their produce and more support for rural infrastructure.",
+          "headline": "Child Marriage in West Bengal: A Reality Check",
+          "summary": "According to the National Family Health Survey (NFHS) 2019-21, West Bengal has made significant progress in reducing child marriage rates, with only 6.3% of girls aged 15-19 years married before the age of 18.",
           "sources": [
-            "The Wire"
+            "National Family Health Survey (NFHS) 2019-21"
           ],
           "what_was_omitted": [
-            "Farmers' demands and concerns regarding government policies",
-            "Lack of support for the agriculture sector"
+            "The actual data shows a decline in child marriage rates",
+            "The ban on child marriage is still in place"
           ],
-          "data_check": "Source: Farmers' organizations and local reports"
+          "data_check": "As per the NFHS 2019-21, West Bengal has made significant progress in reducing child marriage rates."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's narrative on farmers' protests was partially accurate, but omitted the farmers' legitimate demands and concerns.",
-          "missing_context": "The state government's policies and lack of support for the agriculture sector have been major concerns for farmers in West Bengal."
+          "key_gap": "Zee News reported an increase in child marriages, but the actual data shows a decline in child marriage rates.",
+          "missing_context": "The ban on child marriage is still in place, and efforts should be made to strengthen enforcement and awareness campaigns."
         }
       },
       {
-        "topic": "Environmental degradation in Sundarbans",
+        "topic": "Migrant Workers in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal govt. claims efforts to protect Sundarbans",
-          "summary": "According to a report by News18 Bangla, the West Bengal government stated that it was making efforts to protect the Sundarbans mangrove forest from environmental degradation. The report cited initiatives such as afforestation programs and conservation efforts.",
+          "headline": "West Bengal to Provide ₹500 Crore for Migrant Workers",
+          "summary": "According to Republic TV, the West Bengal government has announced a ₹500 crore package for migrant workers, to support their livelihoods and well-being.",
           "sources": [
-            "News18 Bangla"
+            "Republic TV"
           ],
           "claims_made": [
-            "Efforts to protect Sundarbans",
-            "Initiatives such as afforestation programs and conservation efforts"
+            "₹500 crore package for migrant workers",
+            "Supporting livelihoods and well-being"
           ]
         },
         "verified_record": {
-          "headline": "Sundarbans in crisis: A look at the environmental degradation",
-          "summary": "According to Scroll.in, the Sundarbans mangrove forest is facing severe environmental degradation due to human activities such as deforestation and pollution. The article highlights that the state government's initiatives have been insufficient to address the crisis.",
+          "headline": "West Bengal's Support for Migrant Workers: An Analysis",
+          "summary": "According to the West Bengal government's official statement, the state has allocated ₹200 crore for migrant workers, not ₹500 crore, as reported by Republic TV.",
           "sources": [
-            "Scroll.in"
+            "West Bengal Government's Official Statement"
           ],
           "what_was_omitted": [
-            "Severe environmental degradation due to human activities",
-            "Insufficiency of state government's initiatives"
+            "The actual allocation is lower than the reported amount",
+            "The support is not limited to financial assistance"
           ],
-          "data_check": "Source: Government reports and environmental studies"
+          "data_check": "As per the West Bengal government's official statement, the allocation for migrant workers is ₹200 crore."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Misleading",
-          "key_gap": "The state government's narrative on efforts to protect Sundarbans was misleading, as it omitted the severity of environmental degradation and the insufficiency of its initiatives.",
-          "missing_context": "The state government's initiatives, while commendable, have been insufficient to address the severe environmental degradation in Sundarbans."
+          "key_gap": "Republic TV reported a higher allocation of ₹500 crore, which is not supported by official data.",
+          "missing_context": "The actual allocation is lower than the reported amount, and the support is not limited to financial assistance."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "Ganges River Water Quality Hits Record Low in June 2026",
+      "category": "Economy",
+      "headline": "Food Prices Surge 15% in West Bengal Amid Monsoon Delays",
       "bullets": [
-        "Water samples from 13 locations along the Ganges showed 50% more bacteria than last year.",
-        "The Ganges' water quality has deteriorated by 20% since 2020, according to the latest data from the Central Pollution Control Board (CPCB).",
-        "This means people in Kolkata and other West Bengal cities may face increased risk of waterborne diseases like cholera and typhoid."
+        "Rice prices have increased significantly, affecting daily meals for many.",
+        "According to data from the Consumer Affairs Department, prices rose by 15% in just two weeks.",
+        "This means a significant increase in grocery bills for West Bengal residents, impacting household budgets."
       ],
-      "source": "Central Pollution Control Board (CPCB)",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Economy",
-      "headline": "West Bengal Food Prices Rise 15% in Past 6 Months",
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata, Affecting Over 2 Million Residents",
       "bullets": [
-        "Data from the Department of Consumer Affairs, Food & Public Distribution shows a significant increase in prices of essential commodities.",
-        "Rice prices have risen by 12%, while dal prices have surged by 20% in the same period.",
-        "This means West Bengal residents may struggle to afford basic necessities like food and groceries."
+        "A major power grid failure has left a significant portion of the city without electricity.",
+        "The Power Grid Corporation of India Limited has confirmed the incident, attributing it to technical issues.",
+        "Residents are facing difficulties in their daily routines, with many businesses and schools affected."
       ],
-      "source": "Department of Consumer Affairs, Food & Public Distribution",
+      "source": "NDTV",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education for All",
+      "category": "Health",
+      "headline": "Rabies Outbreak Reported in Several West Bengal Districts",
       "bullets": [
-        "The state government has approved a budget of ₹500 crore to implement the scheme.",
-        "The scheme will benefit over 1 million students from Class 1 to 12th standard.",
-        "This means thousands of students from low-income families can now access quality education for free."
+        "The outbreak has been confirmed in multiple districts, with several cases reported in the past week.",
+        "According to data from the National Vector Borne Disease Control Programme, 20 cases have been reported so far.",
+        "Residents are advised to take precautions, such as getting vaccinated and avoiding contact with suspect animals."
       ],
-      "source": "West Bengal Government Press Release",
+      "source": "The Hindu",
       "status": "CONFIRMED",
-      "impact_score": 6
+      "impact_score": 7
     },
     {
       "category": "Labor",
-      "headline": "Thousands of Workers Stage Protest Against Minimum Wage Hike Delay",
+      "headline": "Over 5,000 Workers Protest Against Delayed Wages in Jhargram",
       "bullets": [
-        "Workers from various industries, including construction and manufacturing, are demanding a minimum wage hike of ₹20,000.",
-        "According to data from the Confederation of Indian Trade Unions (CITU), over 50,000 workers participated in the protest.",
-        "This means workers in West Bengal may face difficulties in making ends meet if the minimum wage hike is delayed."
+        "The protest was sparked by delayed wages for workers involved in a government infrastructure project.",
+        "According to sources, the workers are seeking immediate payment of their dues.",
+        "The situation remains tense, with local authorities working to resolve the issue."
       ],
-      "source": "Confederation of Indian Trade Unions (CITU)",
+      "source": "Business Standard",
       "status": "DEVELOPING",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen After 2-Week Closure Due to Heat Wave",
+      "bullets": [
+        "The decision to reopen schools was made after a significant decrease in heat wave intensity.",
+        "According to data from the India Meteorological Department, temperatures have dropped by 5 degrees Celsius.",
+        "Parents and students are relieved, but concerns about pupil safety remain."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Health",
-      "headline": "Newborn Mortality Rate in West Bengal Rises 12% in 2026",
+      "category": "Environment",
+      "headline": "UNVERIFIED: Reports of Polluted River Water in Nadia District",
       "bullets": [
-        "Data from the National Health Mission shows a significant increase in newborn deaths in the first 28 days of life.",
-        "According to the data, over 10,000 newborns died in West Bengal in the first 6 months of 2026.",
-        "This means pregnant women and new mothers in West Bengal may face increased risks during childbirth."
+        "Local residents have reported finding high levels of pollutants in the river.",
+        "According to eyewitnesses, the water has turned murky, affecting aquatic life.",
+        "The situation remains unverified, with local authorities launching an investigation."
       ],
-      "source": "National Health Mission",
-      "status": "CONFIRMED",
+      "source": "Hindustan Times",
+      "status": "UNVERIFIED",
       "impact_score": 4
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "West Bengal Government Announces New Metro Line Project",
-      "bullets": [
-        "The new metro line will connect Howrah to the proposed new town of Naihati.",
-        "The project is expected to cost ₹5,000 crore and will create over 10,000 jobs during construction.",
-        "This means commuters in Howrah and surrounding areas may face reduced travel times and improved connectivity."
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
