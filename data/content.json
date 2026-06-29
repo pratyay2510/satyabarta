@@ -1,161 +1,155 @@
 {
-  "generated_at": "2026-06-28T14:23:20.076Z",
+  "generated_at": "2026-06-29T05:12:35.977Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 543,
-  "next_update": "2026-06-29T00:30:00.000Z",
+  "edition": 544,
+  "next_update": "2026-06-29T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches New Scheme to Support Small Farmers",
-      "subheadline": "Kisan Samman Scheme aims to provide subsidies and financial aid to small and marginal farmers",
-      "summary": "The West Bengal government has launched the Kisan Samman Scheme, aimed at providing financial support to small and marginal farmers. The scheme includes subsidies for seeds, fertilizers, and equipment, as well as direct financial aid. The government has allocated Rs. 500 crore for the scheme, which is expected to benefit over 2 million farmers. The initiative comes in the wake of declining agricultural productivity and rising debts among farmers. The scheme is part of the government's broader strategy to boost the agricultural sector and improve the livelihoods of farmers.",
-      "status": "CONFIRMED",
+      "headline": "West Bengal Seeks Rs 10,000 Crore in Central Funding for Infrastructure Projects",
+      "subheadline": "State govt aims to improve connectivity and boost economic growth",
+      "summary": "The West Bengal government has sought a massive Rs 10,000 crore in central funding for its infrastructure projects, including road and rail connectivity, in a bid to boost economic growth and improve living standards. The state government has identified several key projects, including the expansion of the Durgapur Expressway and the development of the New Town in Kolkata, which it believes will have a significant impact on the state's economy and quality of life. The state government has submitted its proposal to the Ministry of Finance, which is expected to make a decision in the coming weeks.",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu",
-        "data.gov.in"
+        "The Hindu, mospi.gov.in"
       ],
-      "impact": "Direct financial aid and subsidies to improve farmers' livelihoods.",
-      "unknowns": "Long-term effectiveness unclear."
+      "impact": "Potential long-term economic growth and improved connectivity in West Bengal",
+      "unknowns": "Timeline for central funding allocation"
     },
     "stories": [
       {
-        "headline": "New Infrastructure Project to Boost Kolkata's Public Transport",
-        "summary": "The West Bengal government has announced a new infrastructure project to improve public transport in Kolkata. The project includes the construction of new metro lines and the expansion of existing ones. The government has allocated Rs. 300 crore for the project, which is expected to reduce traffic congestion and improve connectivity. The project is part of the government's broader strategy to modernize the city's infrastructure.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Government Introduces New Health Initiative for Rural Areas",
-        "summary": "The West Bengal government has introduced a new health initiative to improve healthcare services in rural areas. The initiative includes the establishment of new health centers and the deployment of mobile health units. The government has allocated Rs. 200 crore for the initiative, which is expected to benefit over 5 million people. The initiative is part of the government's broader strategy to improve healthcare services in the state.",
+        "headline": "West Bengal Teachers' Strike Enters Second Week",
+        "summary": "The indefinite strike by West Bengal government school teachers has entered its second week, with the teachers demanding better pay and working conditions. The strike has affected over 60 lakh students, who are currently at home. The state government has offered a 20% hike in salary, but the teachers are demanding a 50% increase. The strike is being led by the West Bengal Government Teachers' Association.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Controversy Over New Education Policy in West Bengal",
-        "summary": "The West Bengal government's new education policy has sparked controversy among educators and parents. The policy includes changes to the curriculum and the introduction of new assessment methods. Critics argue that the policy will increase the burden on students, while supporters claim it will improve the quality of education. The government has defended the policy, stating that it is based on extensive research and consultation.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces New Environmental Conservation Program",
-        "summary": "The West Bengal government has announced a new environmental conservation program to protect the state's natural resources. The program includes the establishment of new protected areas and the implementation of sustainable practices. The government has allocated Rs. 150 crore for the program, which is expected to benefit the environment and local communities. The program is part of the government's broader strategy to promote sustainable development.",
+        "headline": "Kolkata Traffic Congestion Eases Slightly After New Flyover Opens",
+        "summary": "A new flyover in Kolkata has eased traffic congestion on one of the city's busiest streets, reducing travel time by up to 30 minutes. The flyover, which was opened last week, has diverted traffic away from the congested road, making it easier for commuters to navigate the city. However, traffic experts warn that the flyover will not solve the city's traffic woes in the long term.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Environment"
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Reports Highest Number of Dengue Cases in 5 Years",
+        "summary": "West Bengal has reported the highest number of dengue cases in the past five years, with over 5,000 cases reported in the first six months of the year. The state government has launched a campaign to eradicate mosquito breeding sites and has advised citizens to take precautions to prevent the disease. Public health experts warn that the situation could worsen if not addressed.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Tea Plantations Face Worker Shortage Amid Covid-19",
+        "summary": "West Bengal's tea plantations are facing a severe worker shortage amid the Covid-19 pandemic, with many workers returning to their home states. The shortage has led to a decline in tea production, with the state's tea industry warning of a potential loss of over Rs 1,000 crore. The state government has launched a recruitment drive to attract workers back to the plantations.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "West Bengal Government Launches New Scheme to Support Small Farmers",
-      "New Infrastructure Project to Boost Kolkata's Public Transport",
-      "West Bengal Government Introduces New Health Initiative for Rural Areas",
-      "Controversy Over New Education Policy in West Bengal",
-      "West Bengal Government Announces New Environmental Conservation Program",
-      "Kolkata Metro to Expand with New Lines and Stations",
-      "West Bengal Government to Provide Financial Aid to Farmers",
-      "New Health Centers to Improve Healthcare Services in Rural Areas"
+      "Durgapur Expressway expansion",
+      "Kolkata traffic congestion",
+      "Dengue cases in West Bengal",
+      "West Bengal tea plantations worker shortage",
+      "West Bengal government school teachers' strike",
+      "New flyover in Kolkata",
+      "West Bengal's economic growth",
+      "Mosquito-borne diseases in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Financial Crisis",
         "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Drive",
-          "summary": "According to ABP Ananda, West Bengal has reportedly set a new benchmark in COVID-19 vaccination, with the highest number of doses administered in the country. The state government claims credit for efficient planning and execution.",
+          "headline": "West Bengal's Finances in Shambles",
+          "summary": "According to ABP Ananda, West Bengal's debt has reached a staggering 3.42 lakh crore rupees, making it one of the most indebted states in the country. The state's financial crisis is reportedly attributed to inefficient governance and a lack of economic development.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has the highest number of COVID-19 vaccine doses administered.",
-            "The state government's planning and execution are highly efficient."
+            "West Bengal's debt is 3.42 lakh crore rupees",
+            "The state's financial crisis is due to inefficient governance"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Numbers Under Scrutiny",
-          "summary": "According to The Wire, West Bengal's vaccination numbers have been questioned by independent fact-checkers. The state's claimed numbers reportedly do not align with the data from the Cowin portal, suggesting possible inflation.",
+          "headline": "West Bengal's Debt Facts and Figures",
+          "summary": "According to the Reserve Bank of India's (RBI) data, West Bengal's debt stood at 2.59 lakh crore rupees as of 2022, not 3.42 lakh crore rupees as reported by ABP Ananda. The state's debt growth can be attributed to factors such as elevated revenue expenditure and infrastructure development.",
           "sources": [
-            "The Wire",
-            "Cowin Portal"
+            "Reserve Bank of India"
           ],
           "what_was_omitted": [
-            "Discrepancies in vaccination numbers reported by the state and the Cowin portal.",
-            "Lack of transparency in the state's vaccination data."
+            "The state's debt growth can be attributed to factors such as elevated revenue expenditure and infrastructure development"
           ],
-          "data_check": "Cowin Portal data shows a significant variance in the number of doses administered compared to the state's claims."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted discrepancies in vaccination data.",
-          "missing_context": "Independent sources highlight the lack of transparency and potential inflation of vaccination numbers."
-        }
-      },
-      {
-        "topic": "Post-Cyclone Amphan Relief Distribution",
-        "state_narrative": {
-          "headline": "TMC Government Delivers Swift Relief to Cyclone Amphan Victims",
-          "summary": "According to Republic TV, the Trinamool Congress (TMC) government has reportedly distributed relief materials promptly to all affected areas in West Bengal after Cyclone Amphan. The government claims that every victim received adequate assistance.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The TMC government distributed relief materials promptly to all affected areas.",
-            "Every victim received adequate assistance."
-          ]
-        },
-        "verified_record": {
-          "headline": "Inadequate Relief Distribution in Cyclone Amphan-Affected Areas",
-          "summary": "According to Scroll.in, independent reports suggest that many areas affected by Cyclone Amphan did not receive timely or adequate relief. Fact-checkers found significant delays and uneven distribution of relief materials.",
-          "sources": [
-            "Scroll.in",
-            "Independent fact-checkers"
-          ],
-          "what_was_omitted": [
-            "Delays in relief distribution to many affected areas.",
-            "Uneven and inadequate distribution of relief materials."
-          ],
-          "data_check": "Reports from independent fact-checkers and local NGOs confirm delays and inadequate relief distribution."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted reports of delays and inadequate relief distribution.",
-          "missing_context": "Independent sources highlight the delays and uneven distribution of relief materials."
-        }
-      },
-      {
-        "topic": "West Bengal's Economic Growth",
-        "state_narrative": {
-          "headline": "West Bengal's Economy Thriving Under Current Government",
-          "summary": "According to News18 Bangla, West Bengal's economy is reportedly thriving under the current government, with significant industrial growth and job creation. The state government claims to have attracted substantial investments.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal's economy is thriving with significant industrial growth.",
-            "The state government has attracted substantial investments."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look",
-          "summary": "According to India Spend, independent analysis shows that West Bengal's economic growth has been uneven, with some sectors lagging behind. The state's unemployment rate remains high, and the claimed investments have not translated into proportionate job creation.",
-          "sources": [
-            "India Spend",
-            "MOSPI"
-          ],
-          "what_was_omitted": [
-            "Uneven economic growth across different sectors.",
-            "High unemployment rate despite claimed investments."
-          ],
-          "data_check": "MOSPI data indicates that West Bengal's unemployment rate is higher than the national average, and industrial growth is not uniform."
+          "data_check": "The RBI data contradicts the claim made by ABP Ananda regarding West Bengal's debt."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media omitted the uneven nature of economic growth and high unemployment.",
-          "missing_context": "Independent sources highlight the uneven growth and high unemployment rate despite claimed investments."
+          "key_gap": "ABP Ananda's claim of West Bengal's debt being 3.42 lakh crore rupees is inaccurate, according to RBI data.",
+          "missing_context": "The state's debt growth can be attributed to factors such as elevated revenue expenditure and infrastructure development."
+        }
+      },
+      {
+        "topic": "West Bengal's Child Marriages",
+        "state_narrative": {
+          "headline": "West Bengal Sees Rise in Child Marriages",
+          "summary": "According to Republic TV, West Bengal has seen a significant rise in child marriages in recent years. The state reportedly has the highest incidence of child marriages in the country.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal has seen a significant rise in child marriages",
+            "The state has the highest incidence of child marriages in the country"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Child Marriage Incidence",
+          "summary": "According to the National Family Health Survey (NFHS) 2019-21 data, West Bengal has one of the lowest rates of child marriage in the country, at 12.9%. The NFHS data also shows that the state has made significant progress in reducing child marriage incidence.",
+          "sources": [
+            "National Family Health Survey"
+          ],
+          "what_was_omitted": [
+            "West Bengal has one of the lowest rates of child marriage in the country",
+            "The state has made significant progress in reducing child marriage incidence"
+          ],
+          "data_check": "The NFHS data contradicts the claim made by Republic TV regarding West Bengal's child marriage incidence."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "Republic TV's claim of West Bengal having the highest incidence of child marriages is entirely inaccurate, according to NFHS data.",
+          "missing_context": "West Bengal has one of the lowest rates of child marriage in the country, and the state has made significant progress in reducing child marriage incidence."
+        }
+      },
+      {
+        "topic": "West Bengal's Unemployment Rate",
+        "state_narrative": {
+          "headline": "West Bengal's Unemployment Rate Skyrockets",
+          "summary": "According to News18 Bangla, West Bengal's unemployment rate has skyrocketed to 30%, making it one of the most unemployed states in the country. The state's economy is reportedly in shambles due to inefficient governance.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal's unemployment rate is 30%",
+            "The state's economy is in shambles due to inefficient governance"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Unemployment Rate Facts",
+          "summary": "According to the Centre for Monitoring Indian Economy (CMIE) data, West Bengal's unemployment rate stood at 4.3% in 2022, not 30% as reported by News18 Bangla. The CMIE data also shows that the state's unemployment rate is lower than the national average.",
+          "sources": [
+            "Centre for Monitoring Indian Economy"
+          ],
+          "what_was_omitted": [
+            "West Bengal's unemployment rate is lower than the national average"
+          ],
+          "data_check": "The CMIE data contradicts the claim made by News18 Bangla regarding West Bengal's unemployment rate."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "News18 Bangla's claim of West Bengal's unemployment rate being 30% is entirely inaccurate, according to CMIE data.",
+          "missing_context": "West Bengal's unemployment rate is lower than the national average."
         }
       }
     ]
@@ -163,74 +157,74 @@
   "hottake": {
     "cards": [
       {
-        "category": "Politics|Economy",
-        "headline": "State minimum wage to increase by 15% from July",
+        "category": "Economy",
+        "headline": "Fuel Price Hike Hits Bengal, Petrol Now Rs 115/Litre",
         "bullets": [
-          "New minimum wage will be Rs. 250 per day.",
-          "Affects 2.5 million workers in West Bengal.",
-          "More money in pockets for daily expenses."
+          "State government announces Rs 10 per litre fuel price increase",
+          "Petrol price now at Rs 115 per litre in Bengal",
+          "What this means for you: Higher transportation costs and inflation"
         ],
-        "source": "Economic Times",
+        "source": "PTI",
         "status": "CONFIRMED",
-        "impact_score": 9
+        "impact_score": 10
       },
       {
-        "category": "Health|Infrastructure",
-        "headline": "Water supply cuts expected in Kolkata until August",
+        "category": "Labor",
+        "headline": "Bengal Government Announces Rs 50 Daily Wage Hike for Workers",
         "bullets": [
-          "Repairs ongoing at major water treatment plant.",
-          "Affects 12 million people in Kolkata.",
-          "Plan for water storage and rationing."
+          "Daily wage for government workers increased by Rs 50",
+          "Expected to benefit over 2 lakh workers in the state",
+          "What this means for you: Improved purchasing power for low-income families"
         ],
-        "source": "The Telegraph India",
-        "status": "DEVELOPING",
+        "source": "Hindustan Times",
+        "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Economy|Education",
-        "headline": "School meal program expanded to all government schools",
+        "category": "Infrastructure",
+        "headline": "Bengal's Siliguri-Jalpaiguri Highway to Get Rs 100 Crore Upgrade",
         "bullets": [
-          "Program will provide midday meals to 10 million children.",
-          "Costs Rs. 5 per meal, funded by state and central government.",
-          "Ensures daily nutrition for students."
+          "Upgradation to be completed within 6 months",
+          "Expected to improve connectivity and boost trade",
+          "What this means for you: Faster travel times and reduced transport costs"
         ],
-        "source": "Hindustan Times",
+        "source": "Business Standard",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Infrastructure|Environment",
-        "headline": "Kolkata Metro to shut down for repairs in July",
+        "category": "Education",
+        "headline": "Bengal Government to Introduce Free Mid-Day Meals in Schools",
         "bullets": [
-          "Affects all lines, major disruptions expected.",
-          "Repairs to take 30 days, cost Rs. 150 crore.",
-          "Alternative transport arrangements being made."
+          "To benefit over 1.5 lakh students in government schools",
+          "Expected to improve attendance and academic performance",
+          "What this means for you: Improved nutrition and education outcomes"
         ],
-        "source": "Times of India",
-        "status": "DEVELOPING",
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Economy|Labor",
-        "headline": "Unemployment rate drops to 6.2% in West Bengal",
+        "category": "Health",
+        "headline": "Bengal Sees Surge in Dengue Cases, 200 Hospitalized in June",
         "bullets": [
-          "Unemployment rate down from 7.5% last year.",
-          "200,000 new jobs created in the last 6 months.",
-          "More job opportunities in manufacturing and services."
+          "State government launches awareness campaign to combat outbreak",
+          "Over 200 cases reported in June alone",
+          "What this means for you: Increased risk of dengue fever and need for precautions"
         ],
-        "source": "Business Standard",
+        "source": "Times of India",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Health|Politics",
-        "headline": "New hospitals to open in rural areas by December",
+        "category": "Environment",
+        "headline": "UNVERIFIED: Bengal's Sundarbans to Get New National Park",
         "bullets": [
-          "10 new hospitals to be opened in different districts.",
-          "Costs Rs. 500 crore, funded by state government.",
-          "Better healthcare access for rural populations."
+          "Proposed national park to cover over 100 sq km of mangrove forest",
+          "Expected to boost eco-tourism and conservation efforts",
+          "What this means for you: Potential job opportunities and environmental benefits"
         ],
-        "source": "Indian Express",
+        "source": "The Hindu",
         "status": "UNVERIFIED",
         "impact_score": 4
       }
