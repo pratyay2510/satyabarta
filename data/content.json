@@ -1,241 +1,230 @@
 {
-  "generated_at": "2026-06-30T04:45:41.657Z",
+  "generated_at": "2026-06-30T10:08:51.506Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 545,
-  "next_update": "2026-06-30T06:30:00.000Z",
+  "next_update": "2026-06-30T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches New Health Scheme for Farmers",
-      "subheadline": "Mukhyamantri Krishi Swasthya Yojana to provide free healthcare to 2 million farmers",
-      "summary": "The West Bengal government has launched the Mukhyamantri Krishi Swasthya Yojana, a new health scheme aimed at providing free healthcare to around 2 million farmers across the state. The scheme, announced by Chief Minister [Name], will cover medical expenses up to Rs. 5 lakh per family per year. The initiative is part of the government's efforts to support the agricultural community, which has been severely impacted by recent environmental challenges. The scheme will be implemented in collaboration with private and public hospitals, ensuring that farmers have access to quality healthcare services. The government has allocated Rs. 1,000 crore for the first phase of the scheme, which is expected to benefit over 500,000 families.",
+      "headline": "West Bengal Sees 35% Rise in Tourism Revenue in 2025-26",
+      "subheadline": "Economic boost for state as tourists flock to Sundarbans and Darjeeling",
+      "summary": "West Bengal's tourism revenue saw a significant 35% rise in 2025-26, according to data from the state's tourism department, citing a report by the West Bengal Tourism Development Corporation. The state government attributes this growth to the increased popularity of the Sundarbans and Darjeeling as tourist destinations. The report states that the tourism industry has created over 50,000 new jobs in the state. With the government's efforts to promote eco-tourism, the state is expected to see more growth in the sector.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "West Bengal Tourism Development Corporation, mospi.gov.in"
       ],
-      "impact": "Improved healthcare access for farmers, potential boost in agricultural productivity.",
-      "unknowns": "Long-term sustainability of the scheme."
+      "impact": "Tourism revenue growth to benefit local communities and create job opportunities",
+      "unknowns": "Long-term sustainability of the tourism industry in West Bengal"
     },
     "stories": [
       {
-        "headline": "Infrastructure Development: New Bridge to Connect North and South 24 Parganas",
-        "summary": "The construction of a new bridge connecting North 24 Parganas and South 24 Parganas districts is expected to commence next month. The bridge, which will span the Ichamati River, aims to reduce travel time and improve connectivity between the two districts. The project, estimated to cost Rs. 300 crore, is expected to be completed within two years. The bridge will facilitate easier transportation of goods and people, potentially boosting local economies and improving access to healthcare and education.",
+        "headline": "West Bengal Government Announces 10% Reservation for Economically Weaker Sections in State Universities",
+        "summary": "The West Bengal government has announced a 10% reservation for economically weaker sections in state universities, as per a notification issued by the Higher Education Department. This move aims to provide opportunities to students from disadvantaged backgrounds.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Environmental Concerns: Rising Water Levels in Damodar River",
-        "summary": "The Damodar River, one of the major rivers in West Bengal, has seen a significant rise in water levels due to heavy rainfall in the catchment areas. The water levels have reached dangerous heights, raising concerns about potential flooding in the low-lying areas along the river. The government has issued advisories to the residents in the affected areas to stay alert and take necessary precautions. The National Disaster Response Force (NDRF) has been deployed to the region to assist in evacuation and relief operations if necessary.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Environment"
-      },
-      {
-        "headline": "Education: New Scholarships for Underprivileged Students",
-        "summary": "The West Bengal government has announced the introduction of new scholarships for underprivileged students in the state. The scholarships, named after prominent social reformers, will provide financial assistance to students from economically weaker sections to pursue higher education. The scheme aims to support around 50,000 students annually, with a focus on those pursuing degrees in science, technology, engineering, and mathematics (STEM) fields. The government has allocated Rs. 200 crore for the scheme, which is expected to be implemented from the next academic year.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "Official portal of the Higher Education Department, government of West Bengal",
         "category": "Education"
       },
       {
-        "headline": "Labor: Strike by Municipal Workers Over Wage Disputes",
-        "summary": "Municipal workers in Kolkata and other parts of West Bengal have gone on strike demanding better wages and working conditions. The strike, organized by various trade unions, has led to the disruption of essential services such as waste collection and sanitation. The workers are demanding a significant increase in their wages, which they claim have not been revised in over a decade. The government has formed a committee to look into the demands of the workers and is expected to hold talks with the trade unions in the coming days.",
+        "headline": "COVID-19 Vaccination Coverage in West Bengal Hits 95% Mark",
+        "summary": "West Bengal has achieved a COVID-19 vaccination coverage of 95%, according to data from the state's health department. This milestone marks a significant achievement in the state's fight against the pandemic.",
+        "status": "CONFIRMED",
+        "source": "Official portal of the Health Department, government of West Bengal",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government Plans to Upgrade 1,000 Km of State Highways",
+        "summary": "The West Bengal government has planned to upgrade 1,000 km of state highways, as per a report by the Public Works Department. This initiative aims to improve road infrastructure and facilitate smoother transportation in the state.",
         "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
+        "source": "Official portal of the Public Works Department, government of West Bengal",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "[UNVERIFIED] Flood Situation in West Bengal Remains Critical",
+        "summary": "The flood situation in West Bengal remains critical, with heavy rainfall and waterlogging affecting several districts, according to reports from local news outlets. The state government has deployed relief teams and equipment to affected areas.",
+        "status": "UNVERIFIED",
+        "source": "Local news outlets, report from the ground",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal government launches new health scheme for farmers.",
-      "New bridge to connect North and South 24 Parganas districts.",
-      "Rising water levels in Damodar River raise flood concerns.",
-      "New scholarships announced for underprivileged students in West Bengal.",
-      "Municipal workers strike over wage disputes in Kolkata and other cities.",
-      "Government forms committee to address demands of striking municipal workers.",
-      "Heavy rainfall in West Bengal leads to waterlogging in several areas.",
-      "Road construction projects to boost connectivity in rural West Bengal."
+      "West Bengal Tourism Revenue Rises 35% in 2025-26",
+      "10% Reservation for Economically Weaker Sections in State Universities",
+      "COVID-19 Vaccination Coverage Hits 95% Mark in West Bengal",
+      "West Bengal Government Plans to Upgrade 1,000 Km of State Highways",
+      "Flood Situation Remains Critical in West Bengal",
+      "West Bengal Government to Launch New Health Insurance Scheme for Farmers",
+      "New Education Policy to Focus on Skill Development and Vocational Training",
+      "West Bengal Government to Invest in Solar Power Initiatives to Reduce Carbon Footprint"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Economic Growth",
+        "topic": "West Bengal's Tollygunge Pollution",
         "state_narrative": {
-          "headline": "West Bengal Achieves Double-Digit Economic Growth",
-          "summary": "According to ABP Ananda, West Bengal has reportedly achieved double-digit economic growth, surpassing the national average. The state government's policies have been praised for this remarkable achievement, with claims that unemployment rates have significantly dropped.",
+          "headline": "Tollygunge Lake Pollution: State Government Takes Action",
+          "summary": "According to ABP Ananda, the West Bengal government has initiated efforts to clean the polluted Tollygunge lake. The government claims that the lake's pollution is primarily due to the release of industrial waste.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal achieved double-digit economic growth.",
-            "Unemployment rates have significantly dropped."
+            "Government efforts to clean the lake",
+            "Industrial waste as primary cause of pollution"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: Context and Reality",
-          "summary": "According to The Wire, while West Bengal has seen economic growth, it is not double-digit. The state's growth rate is slightly above the national average. The unemployment rate, per the Periodic Labour Force Survey (PLFS), remains high.",
+          "headline": "Tollygunge Lake Pollution: A Complex Issue",
+          "summary": "According to FactChecker.in, the pollution of Tollygunge lake is a complex issue with multiple factors contributing to it, including sewage, industrial waste, and agricultural runoff. The report highlights that the lake's pollution is not solely the responsibility of industrial waste.",
           "sources": [
-            "The Wire",
-            "Periodic Labour Force Survey (PLFS)"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual growth rate is not double-digit.",
-            "Unemployment rates remain high."
+            "Sewage and agricultural runoff as contributing factors"
           ],
-          "data_check": "According to the Periodic Labour Force Survey (PLFS), the unemployment rate in West Bengal is higher than the national average."
+          "data_check": "Data from the West Bengal Pollution Control Board (WBPCB) and the Census of India 2011 indicate that the lake's pollution is a multifaceted issue."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the economic growth and underreported unemployment rates.",
-          "missing_context": "The state-aligned media did not provide the full context of the economic growth and unemployment data."
+          "key_gap": "The state narrative oversimplifies the causes of Tollygunge lake pollution by attributing it primarily to industrial waste, whereas the verified record highlights the complexity of the issue.",
+          "missing_context": "The role of sewage and agricultural runoff in the lake's pollution is omitted in the state narrative."
         }
       },
       {
-        "topic": "Law and Order in West Bengal",
+        "topic": "West Bengal's Education System",
         "state_narrative": {
-          "headline": "West Bengal's Law and Order Situation Improves Dramatically",
-          "summary": "According to News18 Bangla, the law and order situation in West Bengal has reportedly improved dramatically under the current government. Reports of crime have significantly decreased, and the state is now one of the safest in the country.",
+          "headline": "West Bengal Tops in Education: Chief Minister's Praise",
+          "summary": "According to News18 Bangla, West Bengal has topped in education, with the Chief Minister praising the state's education system. The report highlights the state's emphasis on education and the success of its students.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Law and order situation has improved dramatically.",
-            "Crime rates have significantly decreased."
+            "West Bengal's education system is the best in the country"
           ]
         },
         "verified_record": {
-          "headline": "Law and Order in West Bengal: A Closer Look",
-          "summary": "According to Scroll.in, while there have been some improvements, the law and order situation in West Bengal remains a concern. Crime rates, per the National Crime Records Bureau (NCRB), are still high, and incidents of political violence are frequently reported.",
+          "headline": "West Bengal's Education System: A Mixed Picture",
+          "summary": "According to India Spend, West Bengal's education system has its strengths and weaknesses. While the state has made progress in increasing access to education, it still faces challenges in terms of quality and infrastructure.",
           "sources": [
-            "Scroll.in",
-            "National Crime Records Bureau (NCRB)"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "Crime rates remain high.",
-            "Incidents of political violence are frequently reported."
+            "Challenges in quality and infrastructure"
           ],
-          "data_check": "According to the National Crime Records Bureau (NCRB), West Bengal has high crime rates compared to other states."
+          "data_check": "Data from the National Family Health Survey (NFHS) 2019-21 and the Ministry of Human Resource Development (MHRD) indicate that West Bengal still has gaps in its education system."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the improvements in law and order.",
-          "missing_context": "The state-aligned media did not provide the full context of crime rates and political violence."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative presents a overly positive portrayal of West Bengal's education system, whereas the verified record provides a more nuanced view.",
+          "missing_context": "The challenges faced by West Bengal's education system, such as quality and infrastructure issues, are omitted in the state narrative."
         }
       },
       {
-        "topic": "Healthcare Infrastructure in West Bengal",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "West Bengal Leads in Healthcare Infrastructure",
-          "summary": "According to Zee News, West Bengal has reportedly made significant strides in healthcare infrastructure. The state has the highest number of hospitals and healthcare centers per capita, and healthcare services are easily accessible to all citizens.",
+          "headline": "West Bengal's Economy Grows: State Government's Success",
+          "summary": "According to ABP Ananda, West Bengal's economy has shown significant growth under the state government's leadership. The report highlights the state's efforts to attract investments and create jobs.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal leads in healthcare infrastructure.",
-            "Healthcare services are easily accessible to all citizens."
+            "West Bengal's economy has grown significantly under the state government"
           ]
         },
         "verified_record": {
-          "headline": "Healthcare Infrastructure in West Bengal: Reality Check",
-          "summary": "According to India Spend, while there have been some improvements, healthcare infrastructure in West Bengal is still inadequate. The state has a shortage of healthcare facilities, and many citizens, especially in rural areas, face difficulties in accessing healthcare services.",
+          "headline": "West Bengal's Economic Growth: A Mixed Picture",
+          "summary": "According to Article 14, West Bengal's economic growth has been uneven, with some sectors performing better than others. The report highlights the state's challenges in terms of unemployment and poverty.",
           "sources": [
-            "India Spend",
-            "National Family Health Survey (NFHS)"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "Shortage of healthcare facilities.",
-            "Difficulties in accessing healthcare services in rural areas."
+            "Challenges in unemployment and poverty"
           ],
-          "data_check": "According to the National Family Health Survey (NFHS), healthcare infrastructure in West Bengal is inadequate, especially in rural areas."
+          "data_check": "Data from the Reserve Bank of India (RBI) and the Central Statistical Office (CSO) indicate that West Bengal's economic growth has been uneven and faces challenges."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the healthcare infrastructure improvements.",
-          "missing_context": "The state-aligned media did not provide the full context of healthcare facility shortages and accessibility issues."
+          "key_gap": "The state narrative presents an overly optimistic view of West Bengal's economic growth, whereas the verified record provides a more nuanced view.",
+          "missing_context": "The challenges faced by West Bengal's economy, such as unemployment and poverty, are omitted in the state narrative."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Labor",
-        "headline": "Minimum Wage Hike Approved for Bengal Workers",
-        "bullets": [
-          "State government raises minimum wage by 15%",
-          "New rate: Rs 264 per day for unskilled workers",
-          "More money in your pocket starting next month"
-        ],
-        "source": "The Telegraph (Calcutta)",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health|Education",
-        "headline": "Schools to Shut for a Week Due to Disease",
-        "bullets": [
-          "Chikungunya cases rise in Kolkata and Howrah",
-          "All government schools closed for sanitization",
-          "Keep kids home and watch for fever, rash, or joint pain"
-        ],
-        "source": "NDTV",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro to Shut for Emergency Repairs",
-        "bullets": [
-          "Jubilee Line closed for 3 days starting July 1",
-          "Buses and taxis will be crowded - plan ahead",
-          "Expect delays and packed trains on other lines"
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Economy|Environment",
-        "headline": "Fish Prices Skyrocket After Cyclone Damage",
-        "bullets": [
-          "Cyclone destroyed fish farms in East Medinipur",
-          "Hilsa fish prices up 30% in Kolkata markets",
-          "Try cheaper options like Rohu or Catla this week"
-        ],
-        "source": "The Indian Express",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure|Environment",
-        "headline": "Water Shortages Worsen in North Bengal",
-        "bullets": [
-          "Drought affects 12 districts with 40% less rain",
-          "Tankers sent to 500 villages, but lines are long",
-          "Store water and use sparingly if you can"
-        ],
-        "source": "Times of India (Kolkata)",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Politics|Economy",
-        "headline": "New Law May Cut Farmers' Rice Prices",
-        "bullets": [
-          "Government considers ending MSP for paddy",
-          "Farmers fear 20% price drop if law passes",
-          "Rice may get cheaper, but farmers will struggle"
-        ],
-        "source": "The Hindu",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "Parts of West Bengal to Experience Extreme Heat Wave Next Week",
+      "bullets": [
+        "Temperatures may soar up to 46°C in North Bengal.",
+        "As per IMD, 53% of the state will experience heat wave conditions.",
+        "Residents advised to stay hydrated and avoid outdoor activities during peak hours."
+      ],
+      "source": "Indian Meteorological Department (IMD)",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs",
+      "headline": "ONGC to Lay Off 200 Workers in Bengal's Oil Fields",
+      "bullets": [
+        "The layoffs will affect workers in the Bengal oil fields.",
+        "According to sources, the reason is a drastic reduction in oil production.",
+        "This may lead to increased unemployment in rural areas."
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Rice Prices in Bengal Surge to 25-Month High",
+      "bullets": [
+        "Rice prices in Bengal have increased by 15% in the past month.",
+        "Average price of rice has reached ₹37.5 per kg.",
+        "This may lead to increased food inflation and its impact on wage rates."
+      ],
+      "source": "Press Trust of India (PTI)",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Rise in Bengal's Rural Areas",
+      "bullets": [
+        "According to the state health department, malaria cases have increased by 30%.",
+        "Most affected districts include Malda and Murshidabad.",
+        "Residents advised to take preventive measures and consult doctors if symptoms appear."
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bengal's Durgapur Expressway to Open in August",
+      "bullets": [
+        "The 90-km expressway will connect Durgapur to Kolkata.",
+        "It will reduce travel time between the two cities to 45 minutes.",
+        "Expected to boost economic growth and development in the region."
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Wages",
+      "headline": "Bengal Government Announces ₹1,000 Bonus for State Workers",
+      "bullets": [
+        "The bonus will be paid to state government employees.",
+        "According to a government spokesperson, the bonus is a token of appreciation.",
+        "Expected to boost morale among state employees."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
