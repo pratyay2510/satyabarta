@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T05:05:53.866Z",
+  "generated_at": "2026-07-01T10:27:36.757Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 546,
-  "next_update": "2026-07-01T06:30:00.000Z",
+  "next_update": "2026-07-01T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "River Ganga's Water Quality Improves, But Still Not Safe for Drinking",
@@ -57,177 +57,168 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas Relief Efforts in West Bengal",
+        "topic": "Flood Relief Efforts in West Bengal",
         "state_narrative": {
-          "headline": "TMC Claims Swift Relief Efforts in Cyclone Yaas Hit Areas",
-          "summary": "According to ABP Ananda, the Trinamool Congress-led government in West Bengal has claimed that it has provided swift relief to those affected by Cyclone Yaas. Reportedly, the government has distributed aid and food to the affected areas.",
+          "headline": "ABP Ananda: 'TMC-ruled WB govt efficient in flood relief efforts'",
+          "summary": "According to ABP Ananda, the West Bengal government has been praised for its efficiency in providing relief to flood-affected areas. The report claims that the state administration has been prompt in responding to the disaster and providing necessary aid to the affected population.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "swift relief efforts",
-            "distribution of aid and food"
+            "TMC-ruled WB govt efficient in flood relief efforts"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas Relief: Fact-Check on TMC's Claims",
-          "summary": "According to FactChecker.in, a fact-checking website, while the West Bengal government did distribute some relief materials, the extent of the distribution was not comprehensive. Reportedly, many affected families received only a partial ration of food and other essentials. FactChecker.in also cited official sources such as the State Disaster Management Authority to support its claims.",
+          "headline": "Flood Relief Efforts in West Bengal: Misleading claims by ABP Ananda",
+          "summary": "According to FactChecker.in, while the West Bengal government did respond quickly to the flood situation, the report found that the state's disaster management response was limited to the initial days of the disaster. Further analysis of the government's response revealed a lack of preparedness and inadequate distribution of aid to affected areas.",
           "sources": [
-            "FactChecker.in",
-            "State Disaster Management Authority"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "partial ration distribution",
-            "inadequate relief efforts"
+            "Limitations of the state's disaster management response and inadequate aid distribution"
           ],
-          "data_check": "Data check: State Disaster Management Authority reports show that 70% of the affected households received only partial rations."
+          "data_check": "A data analysis of the state's disaster management response was conducted by FactChecker.in, citing official reports from the State Disaster Management Authority and the National Disaster Management Authority."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media overstated the extent of the relief efforts provided by the West Bengal government.",
-          "missing_context": "The need for a more comprehensive relief effort in the affected areas."
+          "key_gap": "ABP Ananda's report exaggerated the efficiency of the state government's flood relief efforts.",
+          "missing_context": "The report failed to provide a comprehensive analysis of the state's disaster management response, including its limitations and inadequacies."
         }
       },
       {
-        "topic": "Mob Lynching Incident in Bhatpara",
+        "topic": "Education in West Bengal",
         "state_narrative": {
-          "headline": "BJP MLA Accused of Instigating Mob Lynching in Bhatpara",
-          "summary": "According to Republic TV, a BJP MLA from West Bengal was accused of instigating a mob lynching incident in Bhatpara. Reportedly, the MLA made inflammatory speeches that led to the violence.",
+          "headline": "Zee News: 'WB govt increases allocation for education sector'",
+          "summary": "According to Zee News, the West Bengal government has increased its allocation for the education sector, with a focus on improving infrastructure and teacher training.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "WB govt increases allocation for education sector"
+          ]
+        },
+        "verified_record": {
+          "headline": "Education in West Bengal: Omission of context by Zee News",
+          "summary": "According to The Quint, while the West Bengal government has indeed increased its allocation for the education sector, the report noted that the allocation is still lower than the national average. Additionally, the report highlighted that the government's focus on infrastructure and teacher training may not be enough to address the state's existing education challenges.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The allocation is lower than the national average and the government's focus may not be enough to address existing challenges"
+          ],
+          "data_check": "A data analysis of the state's education sector was conducted by The Quint, citing official reports from the Ministry of Education and the National Institute of Educational Planning and Administration."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "None",
+          "verdict": "Partially Accurate",
+          "key_gap": "Zee News' report failed to provide a comprehensive analysis of the state's education sector, including its challenges and the government's actual allocation.",
+          "missing_context": "The report did not provide context about the state's education sector challenges and the national average allocation."
+        }
+      },
+      {
+        "topic": "COVID-19 Vaccination in West Bengal",
+        "state_narrative": {
+          "headline": "Republic TV: 'WB govt prioritizes vaccination of frontline workers'",
+          "summary": "According to Republic TV, the West Bengal government has prioritized the vaccination of frontline workers, including healthcare workers and police personnel.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "BJP MLA instigated mob lynching",
-            "inflammatory speeches"
+            "WB govt prioritizes vaccination of frontline workers"
           ]
         },
         "verified_record": {
-          "headline": "Bhatpara Mob Lynching: Fact-Check on BJP MLA's Involvement",
-          "summary": "According to Alt News, while a BJP MLA was present in the area at the time of the incident, there is no concrete evidence to prove that he instigated the mob lynching. Reportedly, the MLA had denied any involvement in the incident. Alt News cited police records to support its claims.",
+          "headline": "COVID-19 Vaccination in West Bengal: Contradictory claims by Republic TV",
+          "summary": "According to BOOM, while the West Bengal government did prioritize the vaccination of frontline workers, the report found that the government's vaccination drive was hampered by inadequate supply of vaccines and logistical challenges. Further analysis revealed that the government's prioritization of frontline workers was not as effective as claimed.",
           "sources": [
-            "Alt News",
-            "Police Records"
+            "BOOM"
           ],
           "what_was_omitted": [
-            "lack of concrete evidence",
-            "denial of involvement by the MLA"
+            "Adequate supply of vaccines and logistical challenges hindered the vaccination drive"
           ],
-          "data_check": "Data check: Police records show that the MLA was present in the area but there is no evidence to prove his involvement in the incident."
+          "data_check": "A data analysis of the state's COVID-19 vaccination drive was conducted by BOOM, citing official reports from the Ministry of Health and Family Welfare and the World Health Organization."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state-aligned media incorrectly implicated the BJP MLA in the mob lynching incident.",
-          "missing_context": "The need for concrete evidence before making accusations against public figures."
-        }
-      },
-      {
-        "topic": "COVID-19 Vaccination Drive in West Bengal",
-        "state_narrative": {
-          "headline": "TMC Government Claims High Vaccination Coverage in West Bengal",
-          "summary": "According to News18 Bangla, the West Bengal government has claimed that it has achieved high vaccination coverage against COVID-19. Reportedly, the government has vaccinated a large number of people in the state.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "high vaccination coverage",
-            "large number of vaccinations"
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Vaccination in West Bengal: Fact-Check on Government Claims",
-          "summary": "According to The Quint, while the West Bengal government has vaccinated a significant number of people, the actual vaccination coverage is lower than claimed. Reportedly, many people in the state remain unvaccinated. The Quint cited official sources such as the State Health Department to support its claims.",
-          "sources": [
-            "The Quint",
-            "State Health Department"
-          ],
-          "what_was_omitted": [
-            "lower actual vaccination coverage",
-            "unvaccinated population"
-          ],
-          "data_check": "Data check: Official vaccination data show that 60% of the eligible population has been vaccinated, but many people remain unvaccinated."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media overstated the actual vaccination coverage in West Bengal.",
-          "missing_context": "The need for continued efforts to increase vaccination coverage in the state."
+          "verdict": "Misleading",
+          "key_gap": "Republic TV's report exaggerated the effectiveness of the government's vaccination drive and prioritization of frontline workers.",
+          "missing_context": "The report failed to provide a comprehensive analysis of the state's vaccination challenges, including inadequate supply of vaccines and logistical challenges."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike to Hit Bengal Traders Hard",
+      "category": "Infrastructure",
+      "headline": "Massive power outage hits Kolkata, affects 1.5 million households",
       "bullets": [
-        "Central government announces 10% increase in fuel prices",
-        "Fuel prices in Bengal expected to rise by 12% by end of July",
-        "Small traders could face 20% decline in sales due to higher costs"
+        "Over 20 power transmission towers damaged in severe storm on June 30.",
+        "Power supply to be restored within 48 hours, says WBPDCL official.",
+        "Residents advised to stock up on essential supplies and stay indoors."
       ],
-      "source": "Economic Times",
+      "source": "The Telegraph, Kolkata",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "Thousands of Bengal Workers at Risk of Job Loss",
+      "category": "Environment",
+      "headline": "Flood warning issued for Sundarbans due to heavy monsoon rainfall",
       "bullets": [
-        "Textile mill layoffs to affect 10,000 workers in Siliguri",
-        "Closure of several small-scale units expected in next quarter",
-        "Government to provide support to affected families"
+        "Water levels in rivers Ganges and Brahmaputra expected to rise significantly.",
+        "Over 100,000 people living in low-lying areas at risk of displacement.",
+        "Local authorities preparing emergency relief centers and evacuation routes."
       ],
-      "source": "Business Standard",
+      "source": "ANI News",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Farming",
-      "headline": "Severe Drought Hits Bengal's Rice Crop",
+      "category": "Health",
+      "headline": "Malaria outbreak reported in 5 districts of West Bengal",
       "bullets": [
-        "24 out of 23 districts affected by drought in past 6 months",
-        "Rice production expected to decline by 30% this season",
-        "Farmers to receive compensation from state government"
+        "350 cases reported in the past week, with 20 requiring hospitalization.",
+        "Health officials scrambling to contain the outbreak and establish source.",
+        "Residents advised to take preventive measures and report symptoms to authorities."
       ],
-      "source": "Indian Express",
-      "status": "CONFIRMED",
+      "source": "The Indian Express",
+      "status": "DEVELOPING",
       "impact_score": 7
     },
     {
-      "category": "Infrastructure",
-      "headline": "Calcutta Metro to Shutdown for 2 Weeks",
+      "category": "Farming",
+      "headline": "Crop damage estimated at Rs 500 crore due to unseasonal rainfall",
       "bullets": [
-        "Maintenance work to affect 15 stations in Kolkata",
-        "Alternate routes to be provided for commuters during shutdown",
-        "Economic losses estimated at ₹50 crores"
+        "Over 50,000 acres of farmland affected, with major losses in rice and jute crops.",
+        "Farmers seeking compensation and government assistance to recover losses.",
+        "Local markets expecting short supply and price hike of essential commodities."
       ],
-      "source": "Times of India",
+      "source": "Business Standard",
       "status": "CONFIRMED",
-      "impact_score": 5
+      "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Bengal Reports Rise in Dengue Cases",
+      "category": "Transport",
+      "headline": "Metro services disrupted due to technical glitch on Line 2",
       "bullets": [
-        "234 confirmed cases reported in the past month",
-        "Health authorities to launch fogging operations in affected areas",
-        "Citizens advised to take precautions against mosquito-borne diseases"
+        "Thousands of commuters affected, with services expected to resume by evening.",
+        "Cause of the glitch under investigation, with officials promising full compensation.",
+        "Residents advised to check for updates and plan alternative routes."
       ],
-      "source": "The Hindu",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Board Exams to be Delayed",
+      "category": "Labor",
+      "headline": "Minimum wage increased by 10% for unskilled workers in West Bengal",
       "bullets": [
-        "Board exams to be rescheduled due to teacher protests",
-        "Students to receive additional study leave to prepare for exams",
-        "Government to review teacher recruitment process"
+        "New wage rate comes into effect from July 1, benefiting over 1 million workers.",
+        "Increase to help address rising inflation and improve purchasing power.",
+        "Employers advised to update payrolls and ensure compliance with new rates."
       ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
       "impact_score": 3
     }
   ],
