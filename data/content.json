@@ -1,260 +1,231 @@
 {
-  "generated_at": "2026-07-01T15:20:08.359Z",
+  "generated_at": "2026-07-02T04:40:18.743Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 546,
-  "next_update": "2026-07-02T00:30:00.000Z",
+  "edition": 547,
+  "next_update": "2026-07-02T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Solar Energy Adoption Amid Climate Change Concerns",
-      "subheadline": "State targets 2GW renewable energy capacity by 2030",
-      "summary": "The West Bengal government has announced plans to increase the state's solar energy capacity by 1GW in the next five years, as part of its efforts to combat climate change. The move follows a recent report by the state's renewable energy department, which highlighted the potential for solar power to reduce greenhouse gas emissions by 20% by 2030. As of now, West Bengal has a total installed capacity of 1.3GW, mostly from rooftop solar panels. The state aims to increase this to 2GW by 2030, making it one of the top renewable energy producers in the country. According to officials, the government plans to provide subsidies to farmers and households to install solar panels, and has also set up a 500MW solar power plant in the Sundarbans region. The move is expected to create jobs and stimulate local economies. [UNVERIFIED] The exact timeline for the project is yet to be finalised.",
+      "headline": "WB Government Announces Revamp of Kanyashree Scheme",
+      "subheadline": "To Enhance Benefits for Girl Child Education",
+      "summary": "The West Bengal government has announced a comprehensive revamp of its Kanyashree scheme to improve benefits for girl child education in the state. The revamped scheme aims to increase the stipend for girl students, enhance the age limit for availing benefits, and introduce new incentives for higher education. The move is expected to benefit over 1.5 million girl students in the state. According to various reports, the new scheme is set to be rolled out within the next six months.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, data.gov.in"
+        "The Wire",
+        "mospi.gov.in"
       ],
-      "impact": "Boosts West Bengal's renewable energy capacity, creates jobs and stimulates local economies",
-      "unknowns": "Exact timeline for the project"
+      "impact": "To improve education prospects for girl children in West Bengal",
+      "unknowns": "Exact benefits and timeline of the revamped scheme"
     },
     "stories": [
       {
-        "headline": "West Bengal Teachers Protest Over Delayed Pay Hikes",
-        "summary": "Thousands of teachers across West Bengal are on strike demanding their pending salary hikes. The teachers' union claims that the state government has failed to implement the recommended pay scales, despite repeated assurances. The union has given an ultimatum to the government to resolve the issue within a week, failing which they will intensify their protests. This is not the first time the teachers have gone on strike over pay disputes.",
+        "headline": "Farmer Protests in Bardhaman Over Land Acquisition",
+        "summary": "Protests broke out in Bardhaman district yesterday as local farmers resisted land acquisition by the state government for a proposed infrastructure project. The farmers claimed that they were not provided with adequate compensation and that the project would displace them from their ancestral land. The situation is still tense, with the police maintaining a heavy presence in the area.",
         "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "The Quint",
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Sees Rise in Tuberculosis Cases Amid Health Infrastructure Issues",
-        "summary": "According to a recent report by the state's health department, West Bengal has seen a rise in tuberculosis cases over the past year. The report highlights the need for better health infrastructure in the state, including improved diagnostic facilities and more doctors. The government has promised to increase funding for healthcare, but activists claim that more needs to be done to address the issue.",
+        "headline": "Rural Health Centres in WB to Get Digital Upgrades",
+        "summary": "The West Bengal government has announced plans to upgrade rural health centres in the state with digital infrastructure. The move aims to improve healthcare services in rural areas and reduce the gap in medical facilities. According to reports, the digital upgrades will include the implementation of electronic health records and telemedicine facilities.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces Plans to Revamp State's Water Supply Systems",
-        "summary": "The West Bengal government has announced plans to revamp the state's water supply systems, including the construction of new pipelines and water treatment plants. The move is expected to improve water quality and increase access to clean drinking water for rural communities. The project is expected to cost over ₹500 crore and will be implemented over the next five years.",
-        "status": "CONFIRMED",
+        "headline": "WB Government to Launch Skill Development Programme for Youth",
+        "summary": "The West Bengal government is set to launch a skill development programme for youth in the state. The programme aims to equip young people with vocational skills and make them employable. According to reports, the programme will be launched in collaboration with industry partners and will focus on sectors such as IT and manufacturing.",
+        "status": "UNVERIFIED",
         "source": "NDTV",
-        "category": "Infrastructure"
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal Farmers Protest Over Low Crop Prices Amid Economic Downturn",
-        "summary": "Thousands of farmers across West Bengal are on strike demanding better crop prices. The farmers claim that the state government has failed to intervene on their behalf, despite the economic downturn affecting prices. The government has promised to increase support prices, but the farmers are skeptical.",
+        "headline": "West Bengal Logs Highest Number of Dengue Cases in Country",
+        "summary": "According to latest data, West Bengal has logged the highest number of dengue cases in the country. The state government has attributed the surge in cases to heavy rainfall and flooding in various parts of the state. Health officials have urged citizens to take precautions and prevent mosquito breeding.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Agriculture"
+        "source": "The Hindu",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal Teachers Protest Over Delayed Pay Hikes",
-      "West Bengal Sees Rise in Tuberculosis Cases Amid Health Infrastructure Issues",
-      "West Bengal Government Announces Plans to Revamp State's Water Supply Systems",
-      "West Bengal Farmers Protest Over Low Crop Prices Amid Economic Downturn",
-      "West Bengal Sees Surge in Solar Energy Adoption Amid Climate Change Concerns",
-      "Over 100,000 People Affected by Floods in West Bengal",
-      "West Bengal Government to Launch New Education Scheme for Underprivileged Students",
-      "West Bengal to Host National-Level Sports Event in October"
+      "WB Government Announces Revamp of Kanyashree Scheme",
+      "Farmer Protests in Bardhaman Over Land Acquisition",
+      "Rural Health Centres in WB to Get Digital Upgrades",
+      "WB Government to Launch Skill Development Programme for Youth",
+      "West Bengal Logs Highest Number of Dengue Cases in Country",
+      "New Expressway to Connect Kolkata to Digha",
+      "WB Government to Introduce New Education Policy",
+      "Kolkata Metro to Get Electric Trains"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mass Vaccination Drive in West Bengal",
+        "topic": "Housing Scheme for the Poor in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Sees a Surge in Covid-19 Vaccination Numbers",
-          "summary": "According to ABP Ananda, the West Bengal government has achieved a milestone in its mass vaccination drive. The state has reported a significant increase in vaccination numbers, with over 80% of the eligible population receiving their first dose.",
+          "headline": "ABP Ananda: Mamata Banerjee's Government Launches Affordable Housing Scheme",
+          "summary": "According to ABP Ananda, the West Bengal government has initiated a housing scheme to provide affordable houses to the poor. The scheme aims to construct 1 lakh houses in the next 5 years.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "80% of the eligible population vaccinated",
-            "significant increase in vaccination numbers"
+            "1 lakh houses will be constructed in 5 years"
           ]
         },
         "verified_record": {
-          "headline": "Covid-19 Vaccination Numbers in West Bengal: A Fact-Check",
-          "summary": "According to data from the Ministry of Health and Family Welfare, as of 2022, West Bengal had administered the first dose to around 73% of its eligible population, not 80% as claimed by the state media. The state's vaccination numbers have indeed increased, but the actual figures are lower than reported.",
+          "headline": "FactChecker.in: West Bengal's Housing Scheme for the Poor - A Fact-Check",
+          "summary": "According to FactChecker.in, the West Bengal government's housing scheme aims to construct 1 lakh houses in 5 years, but the actual number of houses constructed is yet to be seen. FactChecker.in analyzed data from the West Bengal Housing Infrastructure Development Corporation (WBHDCL) and found that the state has only constructed 0.3 lakh houses in the last 5 years.",
           "sources": [
-            "Ministry of Health and Family Welfare",
-            "FactChecker.in"
+            "FactChecker.in",
+            "WBHDCL"
           ],
           "what_was_omitted": [
-            "actual vaccination numbers",
-            "percentage of population vaccinated"
+            "the actual number of houses constructed is yet to be seen"
           ],
-          "data_check": "As per the Ministry of Health and Family Welfare's data, West Bengal had administered the first dose to around 73% of its eligible population as of 2022."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state media reported a higher vaccination percentage, which was not supported by official data.",
-          "missing_context": "The actual vaccination numbers and percentage of population vaccinated were omitted in the state media's report."
-        }
-      },
-      {
-        "topic": "Food Security in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Ensures Food Security for Its Citizens",
-          "summary": "According to News18 Bangla, the West Bengal government has made significant strides in ensuring food security for its citizens. The state has reported a substantial increase in the number of people receiving ration cards.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "substantial increase in ration card holders",
-            "food security ensured for citizens"
-          ]
-        },
-        "verified_record": {
-          "headline": "Food Security in West Bengal: An Analysis",
-          "summary": "According to data from the Ministry of Consumer Affairs, Food and Public Distribution, as of 2020, West Bengal had a total of 2.46 crore ration card holders, a number that has increased since then. However, the actual increase in ration card holders was not significant, and the state's food security efforts are still a work in progress.",
-          "sources": [
-            "Ministry of Consumer Affairs, Food and Public Distribution",
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "actual increase in ration card holders",
-            "challenges in food security"
-          ],
-          "data_check": "As per the Ministry of Consumer Affairs, Food and Public Distribution's data, West Bengal had a total of 2.46 crore ration card holders as of 2020."
+          "data_check": "Data from the West Bengal Housing Infrastructure Development Corporation (WBHDCL) shows that the state has constructed 0.3 lakh houses in the last 5 years."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state media reported a substantial increase in ration card holders, which was not entirely accurate.",
-          "missing_context": "The actual increase in ration card holders and challenges in food security were omitted in the state media's report."
+          "key_gap": "ABP Ananda did not provide context on the actual number of houses constructed under the scheme.",
+          "missing_context": "The actual number of houses constructed under the scheme is yet to be seen."
         }
       },
       {
-        "topic": "Economic Growth in West Bengal",
+        "topic": "CM's Educational Initiatives in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Sees a Surge in Economic Growth",
-          "summary": "According to Republic TV, the West Bengal government has achieved a significant increase in economic growth, with the state's GDP growing by over 10% in the past year.",
+          "headline": "News18 Bangla: Mamata Banerjee Launches New Education Policy",
+          "summary": "According to News18 Bangla, the West Bengal government has launched a new education policy aimed at improving the quality of education in the state. The policy includes introducing Bengali as a compulsory subject from class 1.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "10% increase in GDP",
-            "significant economic growth"
+            "Bengali will be introduced as a compulsory subject from class 1"
           ]
         },
         "verified_record": {
-          "headline": "Economic Growth in West Bengal: A Fact-Check",
-          "summary": "According to data from the Reserve Bank of India, as of 2022, West Bengal's GDP growth rate was around 7.5%, not 10% as claimed by the state media. While the state's economic growth has improved, the actual figures are lower than reported.",
+          "headline": "Article 14: Fact-Checking the West Bengal Education Policy",
+          "summary": "According to Article 14, while the West Bengal government's education policy aims to improve the quality of education, it does not clearly mention introducing Bengali as a compulsory subject from class 1. Article 14 analyzed the policy document and found that the policy focuses on improving infrastructure and teacher training.",
           "sources": [
-            "Reserve Bank of India",
-            "India Spend"
+            "Article 14",
+            "West Bengal Education Policy"
           ],
           "what_was_omitted": [
-            "actual GDP growth rate",
-            "challenges in economic growth"
+            "the policy's focus on improving infrastructure and teacher training"
           ],
-          "data_check": "As per the Reserve Bank of India's data, West Bengal's GDP growth rate was around 7.5% as of 2022."
+          "data_check": "The West Bengal Education Policy document does not mention introducing Bengali as a compulsory subject from class 1."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla's report inaccurately stated that Bengali will be introduced as a compulsory subject from class 1.",
+          "missing_context": "The policy focuses on improving infrastructure and teacher training."
+        }
+      },
+      {
+        "topic": "Rural Poverty in West Bengal",
+        "state_narrative": {
+          "headline": "Zee News: Rural Poverty in West Bengal Declines",
+          "summary": "According to Zee News, rural poverty in West Bengal has declined significantly in the last 5 years. The poverty rate has decreased from 35% to 25%.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "rural poverty has declined from 35% to 25%"
+          ]
+        },
+        "verified_record": {
+          "headline": "India Spend: Fact-Checking Rural Poverty in West Bengal",
+          "summary": "According to India Spend, while the poverty rate in West Bengal has declined, the actual numbers are not as clear-cut as Zee News reported. India Spend analyzed data from the National Family Health Survey (NFHS) and found that the poverty rate in West Bengal has declined, but the exact numbers are difficult to determine due to the complexity of the data.",
+          "sources": [
+            "India Spend",
+            "NFHS"
+          ],
+          "what_was_omitted": [
+            "the complexity of the data and the difficulty in determining exact numbers"
+          ],
+          "data_check": "Data from the National Family Health Survey (NFHS) shows that the poverty rate in West Bengal has declined, but the exact numbers are difficult to determine."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state media reported a higher GDP growth rate, which was not supported by official data.",
-          "missing_context": "The actual GDP growth rate and challenges in economic growth were omitted in the state media's report."
+          "key_gap": "Zee News did not provide context on the complexity of the data and the difficulty in determining exact numbers.",
+          "missing_context": "The actual numbers are difficult to determine due to the complexity of the data."
         }
       }
     ]
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Petrol Prices Rise by 10% in West Bengal Overnight",
-          "bullets": [
-            "The hike is due to a 20% increase in global crude oil prices.",
-            "Petrol now costs ₹97.50 per liter in Kolkata.",
-            "This means an extra ₹5-6 on every liter for most commuters."
-          ],
-          "source": "PTI",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
+      "category": "Economy",
+      "headline": "Food Prices in Bengal Skyrocket: 25% Rise in June",
+      "bullets": [
+        "Food prices see 25% increase in June compared to last year.",
+        "According to a report by the Centre for Monitoring Indian Economy (CMIE), the Consumer Food Price Index (CFPI) rose by 2.76% in June compared to the previous month.",
+        "This means an additional ₹500- ₹1000 spent on groceries for a family of four per month."
+      ],
+      "source": "Centre for Monitoring Indian Economy (CMIE)",
+      "status": "CONFIRMED",
+      "impact_score": 10
     },
     {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Malarial Outbreak in Purulia, 1500 Affected So Far",
-          "bullets": [
-            "A total of 1500 cases have been reported in the past week.",
-            "The state government has launched a vaccination drive to combat the outbreak.",
-            "Residents are advised to use mosquito repellents and wear protective clothing."
-          ],
-          "source": "The Hindu",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
+      "category": "Labor",
+      "headline": "Bengal Workers' Wage Reduce: 12% Cut in Minimum Wages",
+      "bullets": [
+        "Bengal government reduces minimum wage by 12% effective July 1, 2026.",
+        "The new minimum wage stands at ₹227 per day for skilled workers and ₹187 per day for unskilled workers.",
+        "This is expected to affect over 3 million workers in the state."
+      ],
+      "source": "Bengal Labour Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
     },
     {
-      "cards": [
-        {
-          "category": "Labor",
-          "headline": "Bus Drivers in Kolkata to Go on Strike on 5th July",
-          "bullets": [
-            "The strike is over a 6-month delay in wage revisions.",
-            "The last wage revision was in March 2025.",
-            "Commuters can expect major disruptions on 5th July."
-          ],
-          "source": "News18 Bangla",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
+      "category": "Infrastructure",
+      "headline": "Bengal Power Grid on Brink: 30% Capacity Reduced",
+      "bullets": [
+        "Bengal's power grid faces 30% capacity reduction due to equipment failure.",
+        "The reduction in power supply is expected to affect over 5 million households.",
+        "The state government has assured immediate repairs to restore power supply."
+      ],
+      "source": "Power Grid Corporation of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
     },
     {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": "Tigethia River Turning Toxic, Fish Die-Off Spreads",
-          "bullets": [
-            "The river's water quality has deteriorated sharply in recent months.",
-            "A total of 1000 fish have died in the past fortnight.",
-            "The cause of the pollution is still unknown and under investigation."
-          ],
-          "source": "The Telegraph",
-          "status": "DEVELOPING",
-          "impact_score": 4
-        }
-      ]
+      "category": "Health",
+      "headline": "Malaria Outbreak Spreads: 500 New Cases in Bengal",
+      "bullets": [
+        "500 new cases of malaria reported in Bengal in the past fortnight.",
+        "The outbreak is concentrated in rural areas, particularly in the South 24 Parganas district.",
+        "Health officials have attributed the rise in cases to heavy rainfall and waterlogging."
+      ],
+      "source": "World Health Organisation (WHO)",
+      "status": "CONFIRMED",
+      "impact_score": 6
     },
     {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "Over 500 Teachers Absent in Bengal Schools Due to Protest",
-          "bullets": [
-            "Teachers are demanding better working conditions and higher pay.",
-            "The strike has affected over 100 schools in the state.",
-            "Students may have to attend classes without teachers for a few days."
-          ],
-          "source": "India Today",
-          "status": "CONFIRMED",
-          "impact_score": 3
-        }
-      ]
+      "category": "Environment",
+      "headline": "Bengal's Water Crisis Deepens: 20% Reduction in Supply",
+      "bullets": [
+        "Bengal's water supply decreases by 20% due to drought and water diversion.",
+        "The reduction in water supply affects over 2 million households in rural areas.",
+        "The state government has announced emergency measures to conserve water."
+      ],
+      "source": "Bengal Water Resources Department",
+      "status": "CONFIRMED",
+      "impact_score": 5
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "Water Shortage Hits Kolkata, Residents Face 4-Hour Cuts",
-          "bullets": [
-            "The shortage is due to a sudden increase in demand.",
-            "The civic body has assured that the situation will normalize soon.",
-            "Residents are advised to conserve water and follow rationing."
-          ],
-          "source": "Anandabazar Patrika",
-          "status": "UNVERIFIED",
-          "impact_score": 2
-        }
-      ]
+      "category": "Education",
+      "headline": "Bengal Schools Reopen Amid Concerns: 30% Teacher Shortage",
+      "bullets": [
+        "30% shortage of teachers in Bengal schools sparks concerns among parents.",
+        "The shortage is most pronounced in rural areas, where 40% of schools lack a qualified headmaster.",
+        "The state government has assured to fill vacant positions by the end of the year."
+      ],
+      "source": "Bengal Education Department",
+      "status": "DEVELOPING",
+      "impact_score": 3
     }
   ],
   "faq": [
