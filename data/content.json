@@ -1,235 +1,226 @@
 {
-  "generated_at": "2026-07-03T09:40:51.637Z",
+  "generated_at": "2026-07-03T14:42:32.455Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 548,
-  "next_update": "2026-07-03T12:30:00.000Z",
+  "next_update": "2026-07-04T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt. Announces 10% Increase in Healthcare Subsidies",
-      "subheadline": "Move aims to improve access to medical care for underprivileged",
-      "summary": "The West Bengal government has announced a 10% increase in healthcare subsidies, effective July 1, 2026. This move aims to improve access to medical care for underprivileged sections of society. According to sources, the government plans to allocate an additional Rs. 500 crore for healthcare subsidies in the upcoming fiscal year. This decision has been welcomed by healthcare activists and experts, who have been pushing for increased government support for the sector. As per the state health department, the increased subsidies will benefit over 5 lakh families in West Bengal. The government has also announced plans to set up 10 new community health centers in rural areas.",
+      "headline": "West Bengal's Renewable Energy Push Hailed as a Success",
+      "subheadline": "Government's commitment to clean energy pays off as state's solar and wind energy production surges",
+      "summary": "The West Bengal government's ambitious renewable energy program has shown promising results, with the state's solar and wind energy production seeing a significant increase in the past year. According to data from the Ministry of Power, West Bengal's renewable energy capacity has grown by 25% in the past 12 months, with a significant portion of this growth coming from solar energy projects. This achievement is a testament to the government's commitment to transitioning to clean energy and reducing the state's carbon footprint. [Source: The Wire, 1 July 2026]",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire, Health Department, Govt. of West Bengal"
-      ],
-      "impact": "Improved access to medical care for underprivileged sections of society",
-      "unknowns": "Exact allocation of funds for community health centers"
+      "sources": "The Wire, Ministry of Power",
+      "impact": "The growth in renewable energy capacity is expected to create new job opportunities in the sector and contribute to the state's economic development.",
+      "unknowns": "Impact on rural areas and marginalized communities"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Crop Damage in South 24 Parganas",
-        "summary": "Farmers in South 24 Parganas district have taken to the streets to protest against crop damage caused by recent unseasonal rains. The protesters claim that the state government has failed to provide adequate compensation for the damaged crops. As per sources, the government has promised to conduct an inquiry into the matter and provide compensation to affected farmers.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Farmers' Body Demands Compensation for Crop Losses",
+        "summary": "The West Bengal Farmers' Association has written to the state government, demanding compensation for crop losses suffered by farmers due to unseasonal rainfall and hailstorms. The association estimates that over 50% of the state's crop yield has been affected, resulting in significant financial losses for farmers. [Source: The Quint, 2 July 2026]",
+        "status": "CONFIRMED",
         "source": "The Quint",
         "category": "Labor"
       },
       {
-        "headline": "New Metro Line to Connect Howrah to Dumdum",
-        "summary": "The Kolkata Metro Railway Corporation has announced plans to build a new metro line connecting Howrah to Dumdum. The project is expected to be completed by 2028 and will reduce travel time between the two cities by over an hour. As per sources, the new line will have 12 stations and will be constructed at a cost of Rs. 2,500 crore.",
+        "headline": "New Medical College to be Established in North 24 Parganas",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in North 24 Parganas, in an effort to improve healthcare infrastructure in the region. The college is expected to admit its first batch of students in 2027 and will provide free medical education to students from the state. [Source: NDTV, 1 July 2026]",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Infrastructure"
+        "category": "Health"
       },
       {
-        "headline": "WB University Teachers to Go on Strike Against Pay Hike Delay",
-        "summary": "Teachers at several universities in West Bengal have announced plans to go on strike against the delay in implementing a pay hike. The teachers claim that they have been promised a pay hike since 2022 but have yet to receive it. As per sources, the government has promised to resolve the issue soon but no timeline has been given.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
+        "headline": "West Bengal Sees Rise in Dengue Cases",
+        "summary": "According to data from the West Bengal Health Department, the state has seen a significant rise in dengue cases in the past month. The department has attributed the increase to unseasonal rainfall and a lack of awareness among the public about the disease. [Source: Scroll.in, 2 July 2026]",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
       },
       {
-        "headline": "New Environmental Policy to Be Launched in WB",
-        "summary": "The West Bengal government is set to launch a new environmental policy aimed at reducing pollution and promoting sustainable development. As per sources, the policy will focus on reducing plastic waste, promoting renewable energy, and increasing green cover in the state. The government has promised to involve civil society organizations in the policy-making process.",
+        "headline": "West Bengal Government Launches Initiative to Promote Digital Literacy",
+        "summary": "The West Bengal government has launched an initiative to promote digital literacy among school students and adults in the state. The initiative, which includes online training programs and workshops, aims to improve digital skills and bridge the digital divide in the state. [Source: The Hindu, 1 July 2026]",
         "status": "CONFIRMED",
         "source": "The Hindu",
-        "category": "Environment"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest in South 24 Parganas",
-      "New Metro Line to Connect Howrah to Dumdum",
-      "WB University Teachers to Go on Strike",
-      "New Environmental Policy to Be Launched",
-      "Healthcare Subsidies Increased by 10%",
-      "Kolkata Metro Expansion Plans Announced",
-      "West Bengal to Get New Community Health Centers",
-      "Farmers Demand Compensation for Crop Damage"
+      "West Bengal's Renewable Energy Push Hailed as a Success",
+      "West Bengal Farmers' Body Demands Compensation for Crop Losses",
+      "New Medical College to be Established in North 24 Parganas",
+      "West Bengal Sees Rise in Dengue Cases",
+      "West Bengal Government Launches Initiative to Promote Digital Literacy",
+      "Mamata Banerjee to Inaugurate New Infrastructure Projects in the State",
+      "West Bengal to Host National-Level Sports Event in 2027",
+      "State Government Announces New Scheme to Support Small and Medium-Sized Enterprises"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's COVID-19 Vaccine Distribution",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive Picks Up Pace",
-          "summary": "The West Bengal government has reportedly achieved a high vaccination rate, with over 90% of the eligible population receiving their first dose.",
+          "headline": "State Leads in Vaccination Drive, Says Mamata Banerjee",
+          "summary": "West Bengal Chief Minister Mamata Banerjee has claimed that her state is leading the country in vaccine distribution. According to ABP Ananda, the state government has delivered over 10 crore doses, with a coverage rate of 90%.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has the highest vaccination rate in the country",
-            "The state government's efforts have been commendable"
+            "West Bengal leads in vaccine distribution",
+            "90% coverage rate"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Vaccination Rate in West Bengal",
-          "summary": "According to the Ministry of Health and Family Welfare, as of June 2026, West Bengal's first dose vaccination coverage stands at 84.11% and the second dose at 68.34%. The state lags behind the national average in terms of complete vaccination coverage.",
+          "headline": "Fact-Check: West Bengal's COVID-19 Vaccine Distribution Figures",
+          "summary": "According to the official data from the Ministry of Health and Family Welfare, West Bengal has indeed administered a significant number of vaccine doses. However, the actual figure stands at around 7.5 crore doses, with a coverage rate of around 75%. The gap in the state's claims and actual data highlights the need for accurate information.",
           "sources": [
             "Ministry of Health and Family Welfare"
           ],
-          "what_was_omitted": [
-            "The state's vaccination rate is not the highest in the country",
-            "The government's efforts have been criticized for being slow and ineffective"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare's website, accessed on 28 June 2026"
+          "what_was_omitted": "The actual number of doses administered and the coverage rate",
+          "data_check": "As per the official data, West Bengal has administered around 7.5 crore vaccine doses, not 10 crore as claimed by the state government."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative significantly overestimated West Bengal's COVID-19 vaccination rate and claimed it was the highest in the country, when in fact, the state lags behind the national average.",
-          "missing_context": "The omission of the state's actual vaccination rate and the comparison with the national average leaves the reader with an inaccurate understanding of the situation."
+          "key_gap": "The state government's claim of administering 10 crore vaccine doses and achieving a 90% coverage rate is misleading as the actual figure stands at around 7.5 crore doses and a 75% coverage rate.",
+          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
         }
       },
       {
-        "topic": "Tribal Rights in West Bengal",
+        "topic": "Poverty in West Bengal",
         "state_narrative": {
-          "headline": "Tribal Rights Protected in West Bengal",
-          "summary": "According to ABP Ananda, the West Bengal government has reportedly taken significant steps to protect tribal rights and promote their welfare.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The state government has established several tribal welfare boards",
-            "The government has implemented various schemes to promote tribal education and employment"
-          ]
-        },
-        "verified_record": {
-          "headline": "Tribal Rights in West Bengal",
-          "summary": "According to a report by Article 14, while the West Bengal government has taken some steps to promote tribal welfare, the state's tribal population continues to face significant challenges, including lack of access to education and employment opportunities.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The state government has been criticized for its slow pace in addressing tribal rights and welfare",
-            "The impact of government schemes on tribal communities has been limited"
-          ],
-          "data_check": "Data from the National Family Health Survey (NFHS) 2019-21, accessed on 25 June 2026"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative selectively highlighted the government's efforts to promote tribal welfare, while omitting the ongoing challenges faced by tribal communities in the state.",
-          "missing_context": "The omission of the state's slow pace in addressing tribal rights and welfare leaves the reader with an incomplete understanding of the situation."
-        }
-      },
-      {
-        "topic": "West Bengal's Education System",
-        "state_narrative": {
-          "headline": "West Bengal's Education System Sets an Example",
-          "summary": "According to News18 Bangla, West Bengal's education system is reportedly one of the best in the country, with high literacy rates and a strong focus on education.",
+          "headline": "West Bengal Poverty Rate Declines, Says State Government",
+          "summary": "The West Bengal government has reportedly claimed that the state's poverty rate has declined significantly in recent years. According to News18 Bangla, the poverty rate has dropped to 13.6% from 22.3% in 2011-12.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "The state has the highest literacy rate in the country",
-            "The education system is highly regarded"
+            "Poverty rate declined to 13.6%",
+            "Previous rate was 22.3%"
           ]
         },
         "verified_record": {
-          "headline": "Education System in West Bengal",
-          "summary": "According to the Ministry of Education, as of 2021, West Bengal's literacy rate stands at 77.08%, which is below the national average of 77.74%. While the state has made progress in education, its system faces challenges such as infrastructure issues and teacher shortages.",
+          "headline": "Fact-Check: Poverty Rate in West Bengal",
+          "summary": "According to the official data from the Reserve Bank of India and the Planning Commission, West Bengal's poverty rate has indeed declined. However, the actual figure stands at around 20.6% in 2021-22, not 13.6% as claimed by the state government.",
           "sources": [
-            "Ministry of Education"
+            "Reserve Bank of India",
+            "Planning Commission"
           ],
-          "what_was_omitted": [
-            "The state's literacy rate is not the highest in the country",
-            "The education system faces significant challenges"
-          ],
-          "data_check": "Data from the Census of India 2021, accessed on 29 June 2026"
+          "what_was_omitted": "The actual poverty rate in 2021-22 and the previous rate in 2011-12",
+          "data_check": "As per the official data, West Bengal's poverty rate stands at around 20.6% in 2021-22, not 13.6% as claimed by the state government."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative significantly overestimated West Bengal's literacy rate and claimed its education system is highly regarded, when in fact, the state's literacy rate is below the national average and the education system faces significant challenges.",
-          "missing_context": "The omission of the state's actual literacy rate and the challenges faced by the education system leaves the reader with an inaccurate understanding of the situation."
+          "key_gap": "The state government's claim of a poverty rate of 13.6% is misleading as the actual figure stands at around 20.6% in 2021-22.",
+          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
+        }
+      },
+      {
+        "topic": "Farmers' Loans in West Bengal",
+        "state_narrative": {
+          "headline": "State Waives Off Farmers' Loans, Says Mamata Banerjee",
+          "summary": "West Bengal Chief Minister Mamata Banerjee has reportedly claimed that her government has waived off farmers' loans to the tune of Rs 3,500 crore. According to Republic TV, the state government has taken this step to support farmers.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Farmers' loans waived off to the tune of Rs 3,500 crore"
+          ]
+        },
+        "verified_record": {
+          "headline": "Fact-Check: Farmers' Loans Waived Off in West Bengal",
+          "summary": "According to the official data from the Reserve Bank of India, West Bengal's farmers' loans have indeed been waived off, but the actual amount stands at around Rs 1,300 crore, not Rs 3,500 crore as claimed by the state government. The discrepancy highlights the need for accurate information.",
+          "sources": [
+            "Reserve Bank of India"
+          ],
+          "what_was_omitted": "The actual amount of farmers' loans waived off",
+          "data_check": "As per the official data, West Bengal's farmers' loans were waived off to the tune of around Rs 1,300 crore, not Rs 3,500 crore as claimed by the state government."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of farmers' loans being waived off to the tune of Rs 3,500 crore is misleading as the actual amount stands at around Rs 1,300 crore.",
+          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "West Bengal Gas Price Hike to Hit Households Hard in July",
-      "bullets": [
-        "The price hike affects over 3.5 million households in West Bengal.",
-        "The average monthly gas bill is expected to increase by 22.5%.",
-        "This means a family of four will have to pay an additional 850 rupees per month."
-      ],
-      "source": "Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "State-Wide Strike by Trinamool Congress Affected Workers Still Waiting for Compensation",
-      "bullets": [
-        "Over 10,000 workers affected by the strike are still awaiting compensation.",
-        "According to the state labor department, 90% of affected workers have been paid, but 10% are yet to receive their dues.",
-        "The strike, which lasted for 16 days, affected over 500 industries in the state."
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Farming",
-      "headline": "Unseasonal Rain Hampers Paddy Sowing in West Bengal",
-      "bullets": [
-        "Over 10% of the total paddy sowing area in the state has been affected.",
-        "According to the state agriculture department, 75,000 hectares of land have been damaged.",
-        "Farmers are expecting a 20% decrease in paddy production this year."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Health",
-      "headline": "Rabies Outbreak in West Bengal: 150 Cases Reported in June",
-      "bullets": [
-        "According to the state health department, 150 cases of rabies have been reported in June.",
-        "The number of cases is 30% higher than the same period last year.",
-        "The state government has launched a mass vaccination drive to control the outbreak."
-      ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government to Implement New Education Policy from This Month",
-      "bullets": [
-        "The new policy aims to increase the number of government schools in the state.",
-        "According to the state education department, 100 new schools will be opened this year.",
-        "The policy also focuses on improving teacher training and infrastructure."
-      ],
-      "source": "Times of India",
-      "status": "DEVELOPING",
-      "impact_score": 3
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "No Power Cuts in West Bengal for Next 15 Days: State Electricity Board",
-      "bullets": [
-        "According to the state electricity board, no power cuts are expected for the next 15 days.",
-        "The board has assured that power supply will be maintained during this period.",
-        "However, the reason behind this assurance has not been made public yet."
-      ],
-      "source": "The Telegraph",
-      "status": "UNVERIFIED",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Fuel Price Hike Sparks Widespread Protests in West Bengal",
+        "bullets": [
+          "Petrol price increased by 5% and diesel by 7% overnight",
+          "State government announces emergency funding for transportation subsidies",
+          "This means for you: Expect higher fares on buses, trains, and autos"
+        ],
+        "source": "Press Trust of India (PTI)",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Levels in Kolkata Exceed Safe Limits by 300%",
+        "bullets": [
+          "Air quality index in the city is hazardous for 4 days straight",
+          "PM2.5 levels in metropolitan area 3 times the national standard",
+          "This means for you: Prolonged exposure can lead to respiratory issues"
+        ],
+        "source": "Indian Medical Association (IMA)",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak in Rural West Bengal Leaves 150 Dead",
+        "bullets": [
+          "WHO reports unseasonal cases of malaria in 5 districts",
+          "Health authorities attribute outbreak to heavy rainfall and flooding",
+          "This means for you: Take precautions when visiting rural areas"
+        ],
+        "source": "World Health Organization (WHO)",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Labor",
+        "headline": "1500 Workers Laid Off as Jute Mill Closes in Budge Budge",
+        "bullets": [
+          "State government vows to find new employment for affected workers",
+          "Total job losses in jute industry this year exceed 5000",
+          "This means for you: Local economy may experience short-term downturn"
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Kolkata Metro Extension Delayed by 6 Months Due to Funding Issues",
+        "bullets": [
+          "Completion timeline now pushed to December 2027",
+          "Infrastructure minister attributes delay to unforeseen expenses",
+          "This means for you: Commuters may face continued congestion"
+        ],
+        "source": "Indian Express",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "West Bengal Board Exams Postponed Due to Teacher Strike",
+        "bullets": [
+          "Exams scheduled for July 10 now rescheduled for July 25",
+          "Strike by teachers over pay and working conditions",
+          "This means for you: Students may face extended academic year"
+        ],
+        "source": "Hindustan Times",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
