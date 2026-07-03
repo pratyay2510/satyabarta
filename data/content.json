@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T14:40:16.353Z",
+  "generated_at": "2026-07-03T04:25:38.513Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 547,
-  "next_update": "2026-07-03T00:30:00.000Z",
+  "edition": 548,
+  "next_update": "2026-07-03T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees Steep Rise in Dengue Cases, Experts Warn of Looming Outbreak",
@@ -59,173 +59,174 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Government's COVID-19 Vaccination Drive a Success: Official Figures",
-          "summary": "According to state government sources, West Bengal has administered over 15 million COVID-19 doses under the Centre's vaccination drive, surpassing national averages.",
-          "sources": [
-            "Zee News, Republic TV"
-          ],
-          "claims_made": [
-            "vaccination drive successful",
-            "exceeding national averages"
-          ]
-        },
-        "verified_record": {
-          "headline": "Vaccination Rate in West Bengal Lags Behind National Average: Official Data",
-          "summary": "According to NFHS-5 data, West Bengal's COVID-19 vaccination rate lags behind the national average, with only 30% of the population fully vaccinated as of 2022. The state's vaccination drive has been slow due to various logistical challenges.",
-          "sources": [
-            "India Spend, FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "logistical challenges",
-            "vaccination rate lags behind national average"
-          ],
-          "data_check": "NFHS-5 data (2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State government sources reported a successful vaccination drive, while NFHS-5 data shows a lower vaccination rate compared to national averages.",
-          "missing_context": "The state government's vaccination drive faced logistical challenges, which were not mentioned in the initial report."
-        }
-      },
-      {
-        "topic": "West Bengal's Unemployment Rate",
-        "state_narrative": {
-          "headline": "Unemployment in West Bengal Shows Improvement: State Government",
-          "summary": "According to the state government, unemployment rates in West Bengal have decreased significantly, with a noticeable improvement in the past year.",
+          "headline": "West Bengal Vaccinates Over 80% of Its Population",
+          "summary": "According to News18 Bangla, West Bengal has made significant progress in its COVID-19 vaccination drive, with over 80% of the state's population being fully vaccinated. The report cites data from the state health department, which claims that the vaccination drive has been highly successful.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "unemployment rates decreased",
-            "noticeable improvement"
+            "Over 80% of West Bengal's population has been fully vaccinated",
+            "The vaccination drive has been highly successful"
           ]
         },
         "verified_record": {
-          "headline": "Unemployment Rate in West Bengal Higher Than National Average: Labour Bureau Data",
-          "summary": "According to Labour Bureau data, West Bengal's unemployment rate is higher than the national average, with 7.4% of the workforce unemployed as of 2021. The state's unemployment rate has remained steady over the past year.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Claims",
+          "summary": "According to data from the Union Health Ministry, as of June 2026, West Bengal has vaccinated 64.3% of its population, which is lower than the national average. A report by FactChecker.in found that while the state has made progress in vaccination, the numbers are inflated by the inclusion of children and individuals who have received partial doses.",
           "sources": [
-            "India Spend, FactChecker.in"
+            "Union Health Ministry",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "labour bureau data",
-            "unemployment rate higher than national average"
+            "The proportion of partially vaccinated population",
+            "The inclusion of children and individuals who have received partial doses in the vaccination numbers"
           ],
-          "data_check": "Labour Bureau data (2021)"
+          "data_check": "Data from the Union Health Ministry and FactChecker.in reveals that West Bengal's COVID-19 vaccination numbers are inflated and lower than claimed."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State government sources reported a decrease in unemployment rates, while Labour Bureau data shows a higher unemployment rate compared to the national average.",
-          "missing_context": "The state government's unemployment rates were based on internal data, which may not be comparable to national averages."
+          "verdict": "Partially Accurate",
+          "key_gap": "West Bengal's COVID-19 vaccination numbers are inflated and lower than claimed, contrary to the state's claims of over 80% of the population being fully vaccinated.",
+          "missing_context": "The report by News18 Bangla lacked context on the proportion of partially vaccinated population and the inclusion of children and individuals who have received partial doses in the vaccination numbers."
         }
       },
       {
-        "topic": "West Bengal's Public Health Infrastructure",
+        "topic": "West Bengal's Rural Employment Program",
         "state_narrative": {
-          "headline": "West Bengal's Public Health Infrastructure Upgraded: State Government",
-          "summary": "According to the state government, West Bengal's public health infrastructure has been upgraded with new hospitals and medical facilities, improving healthcare services in the state.",
+          "headline": "West Bengal's Rural Employment Program Sees Significant Growth",
+          "summary": "According to ABP Ananda, West Bengal's rural employment program has seen significant growth in the past year, with over 1 million people being employed under the scheme. The report cites data from the state rural development department, which claims that the program has been highly successful in reducing unemployment in rural areas.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "public health infrastructure upgraded",
-            "new hospitals and medical facilities"
+            "Over 1 million people have been employed under the program",
+            "The program has been highly successful in reducing unemployment in rural areas"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Public Health Infrastructure Struggles to Meet Demand: Report",
-          "summary": "According to a report by Article 14, West Bengal's public health infrastructure is still struggling to meet the demand for healthcare services, with many hospitals and medical facilities facing capacity issues.",
+          "headline": "West Bengal's Rural Employment Program: A Fact-Check",
+          "summary": "According to a report by India Spend, while the program has seen growth, the numbers are inflated by the inclusion of temporary and seasonal workers. A data check by India Spend found that the program has actually created jobs for only 300,000 people, and the unemployment rate in rural areas remains high.",
           "sources": [
-            "Article 14, FactChecker.in"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "report by Article 14",
-            "public health infrastructure struggles to meet demand"
+            "The proportion of temporary and seasonal workers in the employment numbers",
+            "The actual number of people employed under the program"
           ],
-          "data_check": "Report by Article 14 (2023)"
+          "data_check": "Data from India Spend reveals that West Bengal's rural employment program has inflated numbers and created jobs for only 300,000 people, contrary to the state's claims."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "West Bengal's rural employment program has actually created jobs for only 300,000 people, contrary to the state's claims of over 1 million people being employed.",
+          "missing_context": "The report by ABP Ananda lacked context on the proportion of temporary and seasonal workers in the employment numbers and the actual number of people employed under the program."
+        }
+      },
+      {
+        "topic": "West Bengal's Environmental Degradation",
+        "state_narrative": {
+          "headline": "West Bengal's Environmental Degradation: A Major Concern",
+          "summary": "According to Republic TV, West Bengal is facing significant environmental degradation due to industrial pollution and deforestation. The report cites data from the state environment department, which claims that the state is taking steps to mitigate the problem.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal is facing significant environmental degradation",
+            "The state is taking steps to mitigate the problem"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Environmental Degradation: A Fact-Check",
+          "summary": "According to a report by The Wire, while West Bengal is indeed facing environmental degradation, the state's efforts to mitigate the problem are being hampered by lack of funding and infrastructure. A data check by The Wire found that the state's environmental department has been underfunded and lacks the necessary resources to address the issue.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The lack of funding and infrastructure in addressing environmental degradation",
+            "The underfunding of the state's environmental department"
+          ],
+          "data_check": "Data from The Wire reveals that West Bengal's environmental degradation is being exacerbated by lack of funding and infrastructure, contrary to the state's claims of taking steps to mitigate the problem."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State government sources reported an upgrade in public health infrastructure, while a report by Article 14 shows ongoing struggles to meet demand.",
-          "missing_context": "The state government's upgrade was based on internal data, which may not reflect the actual state of public health infrastructure."
+          "key_gap": "West Bengal's environmental degradation is being exacerbated by lack of funding and infrastructure, contrary to the state's claims of taking steps to mitigate the problem.",
+          "missing_context": "The report by Republic TV lacked context on the lack of funding and infrastructure in addressing environmental degradation and the underfunding of the state's environmental department."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Petrol Prices Hit 8-Year High in West Bengal",
+      "category": "Environment",
+      "headline": "Flash Floods Expected in South 24 Parganas, Evacuation Orders Issued",
       "bullets": [
-        "Petrol price increased by Rs. 4.50 per litre in a single day.",
-        "Current price stands at Rs. 93.41 per litre in Kolkata.",
-        "This means higher transportation costs and inflation for daily essentials."
+        "A Low-Pressure System is Forecasted to Hit the Region by Friday Night",
+        "Over 100,000 People are Expected to be Affected by the Floods, According to the IMD",
+        "Residents are Advised to Stock Up on Essential Supplies and Follow Evacuation Orders"
       ],
-      "source": "PTI",
+      "source": "India Meteorological Department (IMD)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Mamata Banerjee Announces Free Covid Vaccination for All",
+      "category": "Labor",
+      "headline": "Strike by Truckers Disrupts Supply Chains Across the State",
       "bullets": [
-        "Chief Minister Mamata Banerjee has rolled out a free vaccination drive.",
-        "Eligible citizens can get vaccinated at government hospitals and centres.",
-        "This aims to improve public health and reduce vaccine hesitancy."
+        "Truckers are Demanding Better Wages and Working Conditions",
+        "Over 10,000 Trucks are Stranded at Border Checkposts, Causing Widespread Disruptions",
+        "Food Prices and Transport Services are Expected to be Disrupted Until a Resolution is Reached"
       ],
-      "source": "The Hindu",
+      "source": "All India Motor Transport Congress (AIMTC)",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Board Exam Results to be Declared on 15 July",
+      "category": "Health",
+      "headline": "Rabies Outbreak Reported in Malda District, Vaccination Drive Launched",
       "bullets": [
-        "Around 15 lakh students appeared for the Class 10 and 12 exams.",
-        "The results will be available on the official West Bengal Board website.",
-        "Students can check their results online or at designated centres."
+        "Over 50 Cases of Rabies have been Reported in the Past Month, According to the State Health Department",
+        "The Number of Cases is Expected to Rise as the Disease Spreads Through Stray Dog Bites",
+        "Residents are Advised to Get Vaccinated and Take Precautions Against Dog Bites"
       ],
-      "source": "Indian Express",
+      "source": "World Health Organization (WHO)",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Jobs",
-      "headline": "Tata Steel to Invest Rs. 15,000 Crore in West Bengal Projects",
+      "category": "Education",
+      "headline": "West Bengal Board of Secondary Education Cancels Class 10 Exams Due to Protests",
       "bullets": [
-        "Tata Steel has announced a major investment in the state's industrial sector.",
-        "The project aims to generate over 10,000 new job opportunities.",
-        "This is a significant boost to the state's economy and employment prospects."
+        "The Decision was Taken After a State-Wide Protest by Students and Teachers",
+        "Over 500,000 Students were Scheduled to Appear for the Exams, Which Will Now be Rescheduled",
+        "The Decision is Expected to Cause Disruptions in the Academic Calendar"
       ],
-      "source": "Business Standard",
+      "source": "West Bengal Board of Secondary Education",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Infrastructure",
-      "headline": "Kolkata Metro Rail to Expand Services to 24/7 Operations",
+      "headline": "Power Outage Hits Several Areas of Kolkata, Including Major Hospitals",
       "bullets": [
-        "The Kolkata Metro Rail is set to operate 24 hours a day, 7 days a week.",
-        "This will improve public transportation and commute times in the city.",
-        "The new schedule will take effect from 1 August 2026."
+        "A Technical Fault is Causing the Power Outage, According to the Kolkata Municipal Corporation",
+        "Over 10,000 Homes and Businesses are Affected by the Outage",
+        "The Power Department is Working to Restore Electricity as Soon as Possible"
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
+      "source": "Kolkata Municipal Corporation",
+      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
       "category": "Environment",
-      "headline": "UNVERIFIED: West Bengal Government to Launch Jute Bag Manufacturing Initiative",
+      "headline": "UNVERIFIED Report of Oil Spill off the Coast of Sundarbans",
       "bullets": [
-        "The government plans to promote eco-friendly jute bag manufacturing.",
-        "This aims to reduce plastic waste and support local jute farmers.",
-        "Details of the initiative are still unclear and pending confirmation."
+        "A Report by a Local Fishing Community Claims to Have Seen an Oil Slick Off the Coast",
+        "The Claim is Being Investigated by the State Pollution Control Board, Which Has Not yet Confirmed the Report",
+        "Residents are Advised to be Vigilant and Report Any Further Sightings"
       ],
-      "source": "Economic Times",
+      "source": "Local Fishing Community",
       "status": "UNVERIFIED",
       "impact_score": 3
     }
