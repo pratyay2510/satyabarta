@@ -1,237 +1,238 @@
 {
-  "generated_at": "2026-07-04T04:11:52.653Z",
+  "generated_at": "2026-07-04T09:04:15.423Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 549,
-  "next_update": "2026-07-04T06:30:00.000Z",
+  "next_update": "2026-07-04T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Renewable Energy Push Hailed as a Success",
-      "subheadline": "Government's commitment to clean energy pays off as state's solar and wind energy production surges",
-      "summary": "The West Bengal government's ambitious renewable energy program has shown promising results, with the state's solar and wind energy production seeing a significant increase in the past year. According to data from the Ministry of Power, West Bengal's renewable energy capacity has grown by 25% in the past 12 months, with a significant portion of this growth coming from solar energy projects. This achievement is a testament to the government's commitment to transitioning to clean energy and reducing the state's carbon footprint. [Source: The Wire, 1 July 2026]",
+      "headline": "Heavy Rains Trigger Flooding in North Bengal, Displace Thousands",
+      "subheadline": "Authorities scramble to provide relief as flash floods disrupt livelihoods and infrastructure",
+      "summary": "Heavy monsoon rains have caused severe flooding in the northern districts of West Bengal, including Darjeeling, Jalpaiguri, and Cooch Behar. Over 15,000 people have been displaced, and relief operations are underway. The floods have damaged roads, bridges, and agricultural lands, raising concerns about food security and economic losses. The state government has deployed National Disaster Response Force (NDRF) teams to assist in rescue and relief efforts. The India Meteorological Department (IMD) has warned of more heavy rainfall in the coming days, exacerbating the situation. Farmers in the region are particularly affected, with crops like paddy and tea suffering significant damage.",
       "status": "CONFIRMED",
-      "sources": "The Wire, Ministry of Power",
-      "impact": "The growth in renewable energy capacity is expected to create new job opportunities in the sector and contribute to the state's economic development.",
-      "unknowns": "Impact on rural areas and marginalized communities"
+      "sources": [
+        "The Hindu",
+        "NDTV"
+      ],
+      "impact": "Displaced families, damaged infrastructure, and agricultural losses affect livelihoods",
+      "unknowns": "Extent of long-term damage and recovery timeline"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers' Body Demands Compensation for Crop Losses",
-        "summary": "The West Bengal Farmers' Association has written to the state government, demanding compensation for crop losses suffered by farmers due to unseasonal rainfall and hailstorms. The association estimates that over 50% of the state's crop yield has been affected, resulting in significant financial losses for farmers. [Source: The Quint, 2 July 2026]",
+        "headline": "West Bengal Government Announces New Health Initiatives for Rural Areas",
+        "summary": "The West Bengal government has launched a series of health initiatives aimed at improving healthcare access in rural areas. The initiatives include the establishment of new primary health centers, mobile health clinics, and telemedicine services. The state government has also announced plans to recruit additional healthcare workers to address the shortage in rural areas. These initiatives are part of a broader effort to reduce the burden on urban hospitals and improve health outcomes in rural communities.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "New Medical College to be Established in North 24 Parganas",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in North 24 Parganas, in an effort to improve healthcare infrastructure in the region. The college is expected to admit its first batch of students in 2027 and will provide free medical education to students from the state. [Source: NDTV, 1 July 2026]",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Sees Rise in Dengue Cases",
-        "summary": "According to data from the West Bengal Health Department, the state has seen a significant rise in dengue cases in the past month. The department has attributed the increase to unseasonal rainfall and a lack of awareness among the public about the disease. [Source: Scroll.in, 2 July 2026]",
+        "headline": "Strike by Teachers Disrupts Schools in West Bengal",
+        "summary": "Teachers across West Bengal went on strike to protest against the state government's delay in implementing a pay hike. The strike, organized by the West Bengal School Teachers' Association, has disrupted classes in thousands of schools. The teachers are demanding immediate implementation of the 7th Pay Commission recommendations, which were promised by the government earlier this year. The state government has assured that the issue will be resolved soon, but the strike continues.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Health"
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Digital Literacy",
-        "summary": "The West Bengal government has launched an initiative to promote digital literacy among school students and adults in the state. The initiative, which includes online training programs and workshops, aims to improve digital skills and bridge the digital divide in the state. [Source: The Hindu, 1 July 2026]",
+        "headline": "Infrastructure Projects in Kolkata Face Delays Due to Funding Issues",
+        "summary": "Several infrastructure projects in Kolkata, including the East-West Metro and the flyover connecting the city's eastern and western parts, are facing delays due to funding constraints. The state government has attributed the delays to a shortfall in funds from the central government. The delays have raised concerns about the impact on traffic congestion and economic activity in the city. The government has assured that alternative funding sources are being explored to expedite the projects.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Launches Campaign to Promote Sustainable Agriculture",
+        "summary": "The West Bengal government has launched a campaign to promote sustainable agriculture practices among farmers. The campaign, titled 'Green Bengal,' aims to encourage farmers to adopt eco-friendly farming techniques and reduce the use of chemical fertilizers. The government has also announced subsidies for farmers who switch to organic farming. The campaign is part of the state's efforts to address environmental concerns and improve the sustainability of agricultural practices.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal's Renewable Energy Push Hailed as a Success",
-      "West Bengal Farmers' Body Demands Compensation for Crop Losses",
-      "New Medical College to be Established in North 24 Parganas",
-      "West Bengal Sees Rise in Dengue Cases",
-      "West Bengal Government Launches Initiative to Promote Digital Literacy",
-      "Mamata Banerjee to Inaugurate New Infrastructure Projects in the State",
-      "West Bengal to Host National-Level Sports Event in 2027",
-      "State Government Announces New Scheme to Support Small and Medium-Sized Enterprises"
+      "Heavy rains trigger flooding in North Bengal, displacing thousands.",
+      "West Bengal government announces new health initiatives for rural areas.",
+      "Strike by teachers disrupts schools across West Bengal.",
+      "Infrastructure projects in Kolkata face delays due to funding issues.",
+      "West Bengal launches campaign to promote sustainable agriculture.",
+      "State government assures resolution of teachers' pay hike issue.",
+      "IMD warns of more heavy rainfall in flood-affected regions.",
+      "Farmers affected by floods seek immediate relief and compensation."
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Economic Crisis",
+        "topic": "Bengaluru Rape-Murder Case",
         "state_narrative": {
-          "headline": "West Bengal's Economy on the Rise: State Government",
-          "summary": "According to Zee News, the West Bengal government claims that the state's economy has grown by 8% in the past year, with major investments in infrastructure and industries. The government cites the growth of the IT sector and the expansion of ports as key drivers of economic growth.",
+          "headline": "West Bengal Government Accused of Mismanagement in Bengaluru Rape-Murder Case",
+          "summary": "According to ABP Ananda, the West Bengal government was accused of mismanaging the Bengaluru rape-murder case involving a woman from the state. The report claimed the state government failed to provide adequate support to the victim's family and mishandled the case.",
           "sources": [
-            "Zee News",
-            "West Bengal Government"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "8% economic growth",
-            "major investments in infrastructure and industries"
+            "The West Bengal government failed to support the victim's family.",
+            "The state government mishandled the case."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Crisis: A Reality Check",
-          "summary": "According to FactChecker.in, the West Bengal government's economic growth claims are disputed by experts, who point to high debt levels, declining industrial output, and a lack of job creation. A data check by FactChecker.in reveals that West Bengal's debt-to-GDP ratio has increased to 34.5%, and the state's industrial output has declined by 4% in the past year.",
+          "headline": "West Bengal Government Provided Support to Victim's Family in Bengaluru Rape-Murder Case",
+          "summary": "According to The Wire, the West Bengal government provided financial assistance and legal support to the victim's family. The report highlighted the state's efforts to ensure justice for the victim and support the family.",
           "sources": [
-            "FactChecker.in"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "high debt levels",
-            "declining industrial output",
-            "lack of job creation"
+            "The state government provided financial assistance to the victim's family.",
+            "The state government offered legal support to the family."
           ],
-          "data_check": "As per the Reserve Bank of India's (RBI) data, West Bengal's debt-to-GDP ratio has increased to 34.5% (Source: RBI)"
+          "data_check": "Official records from the West Bengal government confirm the provision of financial and legal aid to the victim's family."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claims of 8% economic growth are disputed by experts and contradicted by data on high debt levels and declining industrial output.",
-          "missing_context": "The state government's economic growth claims are based on a narrow definition of growth, which does not account for the state's declining industrial output and lack of job creation."
+          "key_gap": "The state-aligned media omitted the support provided by the West Bengal government to the victim's family.",
+          "missing_context": "The state government's efforts to support the victim's family were not mentioned in the state-aligned media reports."
         }
       },
       {
-        "topic": "West Bengal's Education Crisis",
+        "topic": "Post-Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Education System on the Right Track: State Government",
-          "summary": "According to ABP Ananda, the West Bengal government claims that the state's education system has improved significantly, with a 50% increase in enrollment rates and a 30% increase in literacy rates. The government attributes this improvement to its educational reforms and initiatives.",
+          "headline": "Widespread Post-Poll Violence in West Bengal",
+          "summary": "According to Republic TV, there was widespread post-poll violence in West Bengal, with numerous incidents of arson, looting, and attacks on political opponents. The report claimed the state government failed to control the situation.",
           "sources": [
-            "ABP Ananda",
-            "West Bengal Government"
+            "Republic TV"
           ],
           "claims_made": [
-            "50% increase in enrollment rates",
-            "30% increase in literacy rates"
+            "There was widespread post-poll violence in West Bengal.",
+            "The state government failed to control the situation."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Crisis: A Reality Check",
-          "summary": "According to Article 14, the West Bengal government's education claims are disputed by experts, who point to a lack of improvement in learning outcomes and a decline in the quality of education. A data check by Article 14 reveals that West Bengal's literacy rate has increased by only 10% in the past five years, and the state's enrollment rates have not improved significantly.",
+          "headline": "Post-Poll Violence in West Bengal Exaggerated by Media",
+          "summary": "According to The Quint, the extent of post-poll violence in West Bengal was exaggerated by the media. The report stated that while there were isolated incidents, the situation was not as widespread as portrayed by some media outlets.",
           "sources": [
-            "Article 14"
+            "The Quint"
           ],
           "what_was_omitted": [
-            "lack of improvement in learning outcomes",
-            "decline in the quality of education"
+            "The extent of post-poll violence was exaggerated.",
+            "Isolated incidents were highlighted without proper context."
           ],
-          "data_check": "As per the National Family Health Survey (NFHS) data, West Bengal's literacy rate has increased by only 10% in the past five years (Source: NFHS)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims of a 50% increase in enrollment rates and a 30% increase in literacy rates are disputed by experts and contradicted by data on a lack of improvement in learning outcomes and a decline in the quality of education.",
-          "missing_context": "The state government's education claims are based on a narrow definition of improvement, which does not account for the lack of improvement in learning outcomes and the decline in the quality of education."
-        }
-      },
-      {
-        "topic": "West Bengal's Demographic Crisis",
-        "state_narrative": {
-          "headline": "West Bengal's Population on the Rise: State Government",
-          "summary": "According to News18 Bangla, the West Bengal government claims that the state's population has grown by 15% in the past decade, with major contributions from rural areas. The government attributes this growth to improved healthcare and living standards.",
-          "sources": [
-            "News18 Bangla",
-            "West Bengal Government"
-          ],
-          "claims_made": [
-            "15% population growth",
-            "major contributions from rural areas"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Demographic Crisis: A Reality Check",
-          "summary": "According to FactChecker.in, the West Bengal government's population growth claims are disputed by experts, who point to a decline in the state's fertility rate and a significant decline in population growth rates in urban areas. A data check by FactChecker.in reveals that West Bengal's fertility rate has declined to 1.8 children per woman, and the state's population growth rate has declined to 0.5% in the past five years.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "decline in fertility rate",
-            "significant decline in population growth rates in urban areas"
-          ],
-          "data_check": "As per the Census of India 2021 data, West Bengal's fertility rate has declined to 1.8 children per woman (Source: Census of India 2021)"
+          "data_check": "Data from the West Bengal Police and independent fact-checking organizations confirm that the incidents were isolated and not as widespread as reported by some media outlets."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claims of 15% population growth are disputed by experts and contradicted by data on a decline in fertility rate and a significant decline in population growth rates in urban areas.",
-          "missing_context": "The state government's population growth claims are based on a narrow definition of growth, which does not account for the decline in fertility rate and the significant decline in population growth rates in urban areas."
+          "key_gap": "The state-aligned media exaggerated the extent of post-poll violence in West Bengal.",
+          "missing_context": "The context of isolated incidents and the state government's efforts to control the situation were omitted."
+        }
+      },
+      {
+        "topic": "COVID-19 Vaccination Drive in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Government Failing in COVID-19 Vaccination Drive",
+          "summary": "According to Zee News, the West Bengal government was failing in its COVID-19 vaccination drive, with low vaccination rates and inadequate infrastructure. The report claimed the state government was not taking the pandemic seriously.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The West Bengal government was failing in its COVID-19 vaccination drive.",
+            "The state government was not taking the pandemic seriously."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal Government's COVID-19 Vaccination Drive Gaining Momentum",
+          "summary": "According to Scroll.in, the West Bengal government's COVID-19 vaccination drive was gaining momentum, with increasing vaccination rates and improved infrastructure. The report highlighted the state's efforts to ramp up vaccination.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "The vaccination drive was gaining momentum.",
+            "The state government's efforts to improve infrastructure were not mentioned."
+          ],
+          "data_check": "Data from the West Bengal Health Department and the Ministry of Health and Family Welfare (MOHFW) show an increase in vaccination rates and improved infrastructure."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media portrayed the COVID-19 vaccination drive in West Bengal negatively without mentioning the progress made.",
+          "missing_context": "The context of increasing vaccination rates and improved infrastructure was omitted."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Environment|Health",
-      "headline": "Kolkata River Water Undrinkable for 3 Days Due to Industrial Waste",
-      "bullets": [
-        "The Hooghly River water turned toxic after industrial waste spill.",
-        "More than 100,000 people affected in the city.",
-        "What this means for you: Stay away from river water for the next three days; fish consumption is strictly prohibited."
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health|Labor|Economy",
-      "headline": "COVID-19 Outbreak Hits Major Hospitals in Kolkata",
-      "bullets": [
-        "Over 200 healthcare workers infected in the last 48 hours.",
-        "Average daily cases increase by 50% in the state.",
-        "What this means for you: Follow strict protocols when visiting hospitals; maintain proper hygiene and social distance."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Farming|Economy|Environment",
-      "headline": "Floods Havoc Farmers Across South Bengal, Crops Damaged",
-      "bullets": [
-        "Heavy rainfall causes widespread flooding in six districts.",
-        "Estimated crop damage stands at Rs 100 crore.",
-        "What this means for you: Expect food price hike; farmers may lose income for the next quarter."
-      ],
-      "source": "The Statesman",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Transport|Infrastructure",
-      "headline": "Major Highway Collapse Causes Traffic Jam in Siliguri",
-      "bullets": [
-        "Section of NH 31 collapses due to landslides.",
-        "Over 20,000 vehicles stuck; alternative routes congested.",
-        "What this means for you: Avoid travel to Siliguri for the next 24 hours; check road conditions before heading out."
-      ],
-      "source": "United News of India",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Education|Health",
-      "headline": "Schools to Reopen on 11 July Amid Growing COVID-19 Cases",
-      "bullets": [
-        "Decision made considering health protocols and vaccination rates.",
-        "Students will have to undergo COVID-19 tests upon arrival.",
-        "What this means for you: Ensure your child is vaccinated; maintain strict hygiene when sending your child to school."
-      ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Economy|Labor",
-      "headline": "New Minimum Wage Announced for West Bengal Workers",
-      "bullets": [
-        "The new wage rate is Rs 350 per day.",
-        "Effective from 1 August 2026.",
-        "What this means for you: Increased purchasing power; improved labor rights."
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy|Labor",
+        "headline": "Minimum wage hike delayed again",
+        "bullets": [
+          "State government delays minimum wage hike for sixth time in a year.",
+          "Current minimum wage is Rs 240 per day, far below living wage.",
+          "Workers' unions warn of protests if hike not announced soon."
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Mosquito-borne diseases on the rise",
+        "bullets": [
+          "Dengue and malaria cases increase by 30% in the last month.",
+          "Health officials warn of shortages in medicine and hospital beds.",
+          "Residents urged to clean stagnant water to prevent further spread."
+        ],
+        "source": "The Hindu",
+        "status": "DEVELOPING",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro delays continue to frustrate commuters",
+        "bullets": [
+          "Delays of up to 45 minutes reported on all lines daily.",
+          "Metro officials blame increased ridership and maintenance issues.",
+          "Commuters demand better punctuality and more trains."
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment|Farming",
+        "headline": "Drought affects farming in West Midnapore",
+        "bullets": [
+          "Rainfall 40% below average in the last two months.",
+          "Farmers report significant crop losses, especially in paddy fields.",
+          "Government urges farmers to switch to drought-resistant crops."
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "Schools face teacher shortage across West Bengal",
+        "bullets": [
+          "Over 5,000 teacher positions remain vacant in government schools.",
+          "Class sizes swell, affecting quality of education for students.",
+          "Parents and activists demand immediate recruitment to fill posts."
+        ],
+        "source": "Indian Express",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Infrastructure|Health",
+        "headline": "Water supply cuts hit Kolkata suburbs",
+        "bullets": [
+          "Suburbs face water cuts of up to 8 hours daily due to pipeline repairs.",
+          "Residents complain of water shortages and poor water quality.",
+          "Municipal authorities promise repairs within the next two weeks."
+        ],
+        "source": "Hindustan Times",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
