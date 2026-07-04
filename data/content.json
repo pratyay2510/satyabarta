@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T14:42:32.455Z",
+  "generated_at": "2026-07-04T04:11:52.653Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 548,
-  "next_update": "2026-07-04T00:30:00.000Z",
+  "edition": 549,
+  "next_update": "2026-07-04T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal's Renewable Energy Push Hailed as a Success",
@@ -57,170 +57,181 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccine Distribution",
+        "topic": "West Bengal's Economic Crisis",
         "state_narrative": {
-          "headline": "State Leads in Vaccination Drive, Says Mamata Banerjee",
-          "summary": "West Bengal Chief Minister Mamata Banerjee has claimed that her state is leading the country in vaccine distribution. According to ABP Ananda, the state government has delivered over 10 crore doses, with a coverage rate of 90%.",
+          "headline": "West Bengal's Economy on the Rise: State Government",
+          "summary": "According to Zee News, the West Bengal government claims that the state's economy has grown by 8% in the past year, with major investments in infrastructure and industries. The government cites the growth of the IT sector and the expansion of ports as key drivers of economic growth.",
           "sources": [
-            "ABP Ananda"
+            "Zee News",
+            "West Bengal Government"
           ],
           "claims_made": [
-            "West Bengal leads in vaccine distribution",
-            "90% coverage rate"
+            "8% economic growth",
+            "major investments in infrastructure and industries"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Check: West Bengal's COVID-19 Vaccine Distribution Figures",
-          "summary": "According to the official data from the Ministry of Health and Family Welfare, West Bengal has indeed administered a significant number of vaccine doses. However, the actual figure stands at around 7.5 crore doses, with a coverage rate of around 75%. The gap in the state's claims and actual data highlights the need for accurate information.",
+          "headline": "West Bengal's Economic Crisis: A Reality Check",
+          "summary": "According to FactChecker.in, the West Bengal government's economic growth claims are disputed by experts, who point to high debt levels, declining industrial output, and a lack of job creation. A data check by FactChecker.in reveals that West Bengal's debt-to-GDP ratio has increased to 34.5%, and the state's industrial output has declined by 4% in the past year.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "FactChecker.in"
           ],
-          "what_was_omitted": "The actual number of doses administered and the coverage rate",
-          "data_check": "As per the official data, West Bengal has administered around 7.5 crore vaccine doses, not 10 crore as claimed by the state government."
+          "what_was_omitted": [
+            "high debt levels",
+            "declining industrial output",
+            "lack of job creation"
+          ],
+          "data_check": "As per the Reserve Bank of India's (RBI) data, West Bengal's debt-to-GDP ratio has increased to 34.5% (Source: RBI)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of administering 10 crore vaccine doses and achieving a 90% coverage rate is misleading as the actual figure stands at around 7.5 crore doses and a 75% coverage rate.",
-          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
+          "key_gap": "The state government's claims of 8% economic growth are disputed by experts and contradicted by data on high debt levels and declining industrial output.",
+          "missing_context": "The state government's economic growth claims are based on a narrow definition of growth, which does not account for the state's declining industrial output and lack of job creation."
         }
       },
       {
-        "topic": "Poverty in West Bengal",
+        "topic": "West Bengal's Education Crisis",
         "state_narrative": {
-          "headline": "West Bengal Poverty Rate Declines, Says State Government",
-          "summary": "The West Bengal government has reportedly claimed that the state's poverty rate has declined significantly in recent years. According to News18 Bangla, the poverty rate has dropped to 13.6% from 22.3% in 2011-12.",
+          "headline": "West Bengal's Education System on the Right Track: State Government",
+          "summary": "According to ABP Ananda, the West Bengal government claims that the state's education system has improved significantly, with a 50% increase in enrollment rates and a 30% increase in literacy rates. The government attributes this improvement to its educational reforms and initiatives.",
           "sources": [
-            "News18 Bangla"
+            "ABP Ananda",
+            "West Bengal Government"
           ],
           "claims_made": [
-            "Poverty rate declined to 13.6%",
-            "Previous rate was 22.3%"
+            "50% increase in enrollment rates",
+            "30% increase in literacy rates"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Check: Poverty Rate in West Bengal",
-          "summary": "According to the official data from the Reserve Bank of India and the Planning Commission, West Bengal's poverty rate has indeed declined. However, the actual figure stands at around 20.6% in 2021-22, not 13.6% as claimed by the state government.",
+          "headline": "West Bengal's Education Crisis: A Reality Check",
+          "summary": "According to Article 14, the West Bengal government's education claims are disputed by experts, who point to a lack of improvement in learning outcomes and a decline in the quality of education. A data check by Article 14 reveals that West Bengal's literacy rate has increased by only 10% in the past five years, and the state's enrollment rates have not improved significantly.",
           "sources": [
-            "Reserve Bank of India",
-            "Planning Commission"
+            "Article 14"
           ],
-          "what_was_omitted": "The actual poverty rate in 2021-22 and the previous rate in 2011-12",
-          "data_check": "As per the official data, West Bengal's poverty rate stands at around 20.6% in 2021-22, not 13.6% as claimed by the state government."
+          "what_was_omitted": [
+            "lack of improvement in learning outcomes",
+            "decline in the quality of education"
+          ],
+          "data_check": "As per the National Family Health Survey (NFHS) data, West Bengal's literacy rate has increased by only 10% in the past five years (Source: NFHS)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of a poverty rate of 13.6% is misleading as the actual figure stands at around 20.6% in 2021-22.",
-          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims of a 50% increase in enrollment rates and a 30% increase in literacy rates are disputed by experts and contradicted by data on a lack of improvement in learning outcomes and a decline in the quality of education.",
+          "missing_context": "The state government's education claims are based on a narrow definition of improvement, which does not account for the lack of improvement in learning outcomes and the decline in the quality of education."
         }
       },
       {
-        "topic": "Farmers' Loans in West Bengal",
+        "topic": "West Bengal's Demographic Crisis",
         "state_narrative": {
-          "headline": "State Waives Off Farmers' Loans, Says Mamata Banerjee",
-          "summary": "West Bengal Chief Minister Mamata Banerjee has reportedly claimed that her government has waived off farmers' loans to the tune of Rs 3,500 crore. According to Republic TV, the state government has taken this step to support farmers.",
+          "headline": "West Bengal's Population on the Rise: State Government",
+          "summary": "According to News18 Bangla, the West Bengal government claims that the state's population has grown by 15% in the past decade, with major contributions from rural areas. The government attributes this growth to improved healthcare and living standards.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla",
+            "West Bengal Government"
           ],
           "claims_made": [
-            "Farmers' loans waived off to the tune of Rs 3,500 crore"
+            "15% population growth",
+            "major contributions from rural areas"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Check: Farmers' Loans Waived Off in West Bengal",
-          "summary": "According to the official data from the Reserve Bank of India, West Bengal's farmers' loans have indeed been waived off, but the actual amount stands at around Rs 1,300 crore, not Rs 3,500 crore as claimed by the state government. The discrepancy highlights the need for accurate information.",
+          "headline": "West Bengal's Demographic Crisis: A Reality Check",
+          "summary": "According to FactChecker.in, the West Bengal government's population growth claims are disputed by experts, who point to a decline in the state's fertility rate and a significant decline in population growth rates in urban areas. A data check by FactChecker.in reveals that West Bengal's fertility rate has declined to 1.8 children per woman, and the state's population growth rate has declined to 0.5% in the past five years.",
           "sources": [
-            "Reserve Bank of India"
+            "FactChecker.in"
           ],
-          "what_was_omitted": "The actual amount of farmers' loans waived off",
-          "data_check": "As per the official data, West Bengal's farmers' loans were waived off to the tune of around Rs 1,300 crore, not Rs 3,500 crore as claimed by the state government."
+          "what_was_omitted": [
+            "decline in fertility rate",
+            "significant decline in population growth rates in urban areas"
+          ],
+          "data_check": "As per the Census of India 2021 data, West Bengal's fertility rate has declined to 1.8 children per woman (Source: Census of India 2021)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of farmers' loans being waived off to the tune of Rs 3,500 crore is misleading as the actual amount stands at around Rs 1,300 crore.",
-          "missing_context": "The state government's claims were not supported by official data, and the actual numbers were not provided."
+          "key_gap": "The state government's claims of 15% population growth are disputed by experts and contradicted by data on a decline in fertility rate and a significant decline in population growth rates in urban areas.",
+          "missing_context": "The state government's population growth claims are based on a narrow definition of growth, which does not account for the decline in fertility rate and the significant decline in population growth rates in urban areas."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Fuel Price Hike Sparks Widespread Protests in West Bengal",
-        "bullets": [
-          "Petrol price increased by 5% and diesel by 7% overnight",
-          "State government announces emergency funding for transportation subsidies",
-          "This means for you: Expect higher fares on buses, trains, and autos"
-        ],
-        "source": "Press Trust of India (PTI)",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Kolkata Exceed Safe Limits by 300%",
-        "bullets": [
-          "Air quality index in the city is hazardous for 4 days straight",
-          "PM2.5 levels in metropolitan area 3 times the national standard",
-          "This means for you: Prolonged exposure can lead to respiratory issues"
-        ],
-        "source": "Indian Medical Association (IMA)",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Outbreak in Rural West Bengal Leaves 150 Dead",
-        "bullets": [
-          "WHO reports unseasonal cases of malaria in 5 districts",
-          "Health authorities attribute outbreak to heavy rainfall and flooding",
-          "This means for you: Take precautions when visiting rural areas"
-        ],
-        "source": "World Health Organization (WHO)",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor",
-        "headline": "1500 Workers Laid Off as Jute Mill Closes in Budge Budge",
-        "bullets": [
-          "State government vows to find new employment for affected workers",
-          "Total job losses in jute industry this year exceed 5000",
-          "This means for you: Local economy may experience short-term downturn"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Kolkata Metro Extension Delayed by 6 Months Due to Funding Issues",
-        "bullets": [
-          "Completion timeline now pushed to December 2027",
-          "Infrastructure minister attributes delay to unforeseen expenses",
-          "This means for you: Commuters may face continued congestion"
-        ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal Board Exams Postponed Due to Teacher Strike",
-        "bullets": [
-          "Exams scheduled for July 10 now rescheduled for July 25",
-          "Strike by teachers over pay and working conditions",
-          "This means for you: Students may face extended academic year"
-        ],
-        "source": "Hindustan Times",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment|Health",
+      "headline": "Kolkata River Water Undrinkable for 3 Days Due to Industrial Waste",
+      "bullets": [
+        "The Hooghly River water turned toxic after industrial waste spill.",
+        "More than 100,000 people affected in the city.",
+        "What this means for you: Stay away from river water for the next three days; fish consumption is strictly prohibited."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health|Labor|Economy",
+      "headline": "COVID-19 Outbreak Hits Major Hospitals in Kolkata",
+      "bullets": [
+        "Over 200 healthcare workers infected in the last 48 hours.",
+        "Average daily cases increase by 50% in the state.",
+        "What this means for you: Follow strict protocols when visiting hospitals; maintain proper hygiene and social distance."
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Farming|Economy|Environment",
+      "headline": "Floods Havoc Farmers Across South Bengal, Crops Damaged",
+      "bullets": [
+        "Heavy rainfall causes widespread flooding in six districts.",
+        "Estimated crop damage stands at Rs 100 crore.",
+        "What this means for you: Expect food price hike; farmers may lose income for the next quarter."
+      ],
+      "source": "The Statesman",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Transport|Infrastructure",
+      "headline": "Major Highway Collapse Causes Traffic Jam in Siliguri",
+      "bullets": [
+        "Section of NH 31 collapses due to landslides.",
+        "Over 20,000 vehicles stuck; alternative routes congested.",
+        "What this means for you: Avoid travel to Siliguri for the next 24 hours; check road conditions before heading out."
+      ],
+      "source": "United News of India",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education|Health",
+      "headline": "Schools to Reopen on 11 July Amid Growing COVID-19 Cases",
+      "bullets": [
+        "Decision made considering health protocols and vaccination rates.",
+        "Students will have to undergo COVID-19 tests upon arrival.",
+        "What this means for you: Ensure your child is vaccinated; maintain strict hygiene when sending your child to school."
+      ],
+      "source": "India Today",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Economy|Labor",
+      "headline": "New Minimum Wage Announced for West Bengal Workers",
+      "bullets": [
+        "The new wage rate is Rs 350 per day.",
+        "Effective from 1 August 2026.",
+        "What this means for you: Increased purchasing power; improved labor rights."
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
