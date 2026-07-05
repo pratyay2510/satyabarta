@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T04:40:10.130Z",
+  "generated_at": "2026-07-05T09:26:04.723Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 550,
-  "next_update": "2026-07-05T06:30:00.000Z",
+  "next_update": "2026-07-05T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Rising Food Prices Worry West Bengal Farmers",
@@ -60,95 +60,96 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Discrepancies in West Bengal's COVID-19 Death Toll",
+        "topic": "Decline in Rice Production in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Death Toll Lowered by 50%: Health Minister",
-          "summary": "According to ABP Ananda, the death toll from COVID-19 in West Bengal was revised downward by 50% by the state health minister. This move was reportedly aimed at showcasing the state's improved healthcare infrastructure.",
+          "headline": "West Bengal's Rice Production Sees a Surge: ABP Ananda",
+          "summary": "According to ABP Ananda, the rice production in West Bengal has seen a significant surge. The state has been able to produce more than 500 million metric tonnes of rice in the recent crop season.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The death toll from COVID-19 in West Bengal was revised downward by 50%",
-            "The move was aimed at showcasing the state's improved healthcare infrastructure"
+            "500 million metric tonnes of rice produced in the recent crop season"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Death Toll Lowered by 50%, but Context Lacking",
-          "summary": "According to Scroll.in, a revised death toll from COVID-19 in West Bengal was indeed reported, but the context surrounding the revision was lacking. The article cited the state health department's data, which showed a decrease in mortality rate but did not provide a detailed explanation for the revision.",
+          "headline": "Rice Production in West Bengal Declines: FactChecker.in",
+          "summary": "According to FactChecker.in, the rice production in West Bengal has actually declined. The data from the Department of Agriculture, Cooperation and Farmers Welfare shows that the state has seen a decrease in rice production over the past few years.",
           "sources": [
-            "Scroll.in"
+            "FactChecker.in",
+            "Department of Agriculture, Cooperation and Farmers Welfare"
           ],
           "what_was_omitted": [
-            "The actual number of deaths before and after the revision",
-            "The specific reasons behind the revision"
+            "decline in rice production over past few years"
           ],
-          "data_check": "NFHS (National Family Health Survey) data shows that West Bengal has been experiencing a decrease in mortality rates, but the exact impact of the COVID-19 pandemic on the state's healthcare system remains unclear."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative lacked context and specific data on the revised death toll, while the verified record highlighted the lack of transparency surrounding the revision.",
-          "missing_context": "The actual number of deaths before and after the revision, as well as the specific reasons behind the revision, were not provided in the state narrative."
-        }
-      },
-      {
-        "topic": "Discrepancies in West Bengal's Poverty Rates",
-        "state_narrative": {
-          "headline": "West Bengal's Poverty Rate Lowest in India: CM Mamata Banerjee",
-          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee reportedly claimed that West Bengal has the lowest poverty rate in the country. The article cited the state government's data, but no specific figures were mentioned.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal has the lowest poverty rate in the country"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Poverty Rate Not Lowest in India, Says Data",
-          "summary": "According to FactChecker.in, West Bengal's poverty rate is indeed among the lower rates in the country, but it is not the lowest. The article cited the NSSO (National Sample Survey Organization) data, which showed that several other states have lower poverty rates.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual poverty rates of other states in the country"
-          ],
-          "data_check": "NSSO data shows that West Bengal's poverty rate is lower than the national average, but it is not the lowest among all states."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative made a broad claim about West Bengal's poverty rate, while the verified record provided more specific and accurate data.",
-          "missing_context": "The actual poverty rates of other states in the country were not mentioned in the state narrative."
-        }
-      },
-      {
-        "topic": "Discrepancies in West Bengal's Education Infrastructure",
-        "state_narrative": {
-          "headline": "West Bengal's Education Infrastructure is among the Best: Education Minister",
-          "summary": "According to ABP Ananda, the state education minister reportedly claimed that West Bengal's education infrastructure is among the best in the country. The article cited the state government's data, but no specific figures were mentioned.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's education infrastructure is among the best in the country"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education Infrastructure: Facts and Figures",
-          "summary": "According to The Wire, while West Bengal has made efforts to improve its education infrastructure, the state still faces challenges in this area. The article cited the NCERT (National Council of Educational Research and Training) data, which showed that West Bengal ranks lower than other states in terms of student-teacher ratio and infrastructure quality.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The actual student-teacher ratio and infrastructure quality in West Bengal"
-          ],
-          "data_check": "NCERT data shows that West Bengal ranks lower than other states in terms of student-teacher ratio and infrastructure quality."
+          "data_check": "The data is based on the Agricultural Production Survey 2020-21, which was conducted by the Ministry of Agriculture and Farmers Welfare."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative made a broad claim about West Bengal's education infrastructure, while the verified record provided more specific and accurate data that highlighted the state's challenges in this area.",
-          "missing_context": "The actual student-teacher ratio and infrastructure quality in West Bengal were not mentioned in the state narrative."
+          "key_gap": "State-aligned media reported an increase in rice production, while independent fact-checking media reported a decline.",
+          "missing_context": "The decline in rice production is attributed to various factors, including decreasing arable land and changing weather patterns."
+        }
+      },
+      {
+        "topic": "Water Scarcity in Kolkata",
+        "state_narrative": {
+          "headline": "Kolkata Faces Severe Water Scarcity: Zee News",
+          "summary": "According to Zee News, Kolkata is facing severe water scarcity due to the lack of adequate infrastructure.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Kolkata faces severe water scarcity due to inadequate infrastructure"
+          ]
+        },
+        "verified_record": {
+          "headline": "Debunking Water Scarcity Claims in Kolkata: The Wire",
+          "summary": "According to The Wire, the water scarcity in Kolkata is not as severe as reported. The data from the Kolkata Municipal Corporation shows that the city has an average water supply of 250 million liters per day.",
+          "sources": [
+            "The Wire",
+            "Kolkata Municipal Corporation"
+          ],
+          "what_was_omitted": [
+            "average water supply of 250 million liters per day"
+          ],
+          "data_check": "The data is based on the annual report of the Kolkata Municipal Corporation for the year 2024-25."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media reported severe water scarcity, while independent fact-checking media reported a less severe situation.",
+          "missing_context": "The water scarcity in Kolkata is indeed a concern, but it is not as severe as reported by state-aligned media."
+        }
+      },
+      {
+        "topic": "Education Budget in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Increases Education Budget: Republic TV",
+          "summary": "According to Republic TV, the government of West Bengal has increased the education budget by 20% in the recent budget.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "20% increase in education budget"
+          ]
+        },
+        "verified_record": {
+          "headline": "Reality Check: Education Budget in West Bengal: FactChecker.in",
+          "summary": "According to FactChecker.in, the education budget in West Bengal has actually decreased by 5% in the recent budget. The data from the Budget Analysis Report 2026 shows that the education sector has seen a decline in funding.",
+          "sources": [
+            "FactChecker.in",
+            "Budget Analysis Report 2026"
+          ],
+          "what_was_omitted": [
+            "5% decrease in education budget"
+          ],
+          "data_check": "The data is based on the Budget Analysis Report 2026, which was released by the Ministry of Finance."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media reported an increase in education budget, while independent fact-checking media reported a decrease.",
+          "missing_context": "The decrease in education budget is attributed to various factors, including the prioritization of other sectors in the budget."
         }
       }
     ]
@@ -156,75 +157,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Fuel Price Hike Hits Bengal, Petrol Now Rs. 94/Litre",
+      "headline": "Food Prices Soar 15% in 2 Months Amidst Monsoon Shortages",
       "bullets": [
-        "Bengal sees 12th consecutive fuel price hike in 2026, experts warn of inflation",
-        "Petrol price crosses Rs. 94 per litre mark, alarming commuters and traders",
-        "This means for you: Expect higher transport costs, reduced purchasing power"
+        "The Economic Times reports, Wholesale prices of onions and potatoes up 25%",
+        "Data from the Ministry of Consumer Affairs shows, price hike in 15 essential items",
+        "What this means for you: Increased food prices may force you to cut back on meals"
       ],
-      "source": "PTI",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Hits Bengal, 200 Cases Reported in 24 Hours",
+      "category": "Labor",
+      "headline": "Mamata Government Announces 10% Hike in Minimum Wages",
       "bullets": [
-        "State reports 200 malaria cases in 24 hours, with 15% of them critical",
-        "Experts blame climate change and mosquito breeding in stagnant water bodies",
-        "This means for you: Vigilance is key to preventing malaria, ensure proper mosquito control at home"
+        "The Times of India reports, new wages to come into effect from August 1",
+        "According to the Labour Department, minimum wage will increase to Rs 275 per day",
+        "What this means for you: Improved wages for daily wage workers, boost to local economy"
       ],
-      "source": "The Hindu",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "Bengal Schools Reopened, But Teacher Shortage Remains a Concern",
+      "category": "Health",
+      "headline": "Cholera Outbreak Confirmed in South 24 Parganas District",
       "bullets": [
-        "Government reopens schools but admits to shortage of 15,000 teachers",
-        "Experts warn of compromising student-teacher ratio, affecting academic quality",
-        "This means for you: Support your child's education by engaging with teachers and schools"
+        "The Indian Express reports, 157 cases reported in the past week",
+        "According to the Department of Health and Family Welfare, 3 deaths confirmed",
+        "What this means for you: Increased risk of infection, need to maintain hygiene"
       ],
-      "source": "Indian Express",
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata, 30 Areas Affected",
+      "bullets": [
+        "Times of India reports, 10-hour power cut on Thursday due to grid failure",
+        "According to the Power Department, 30 areas affected, including major commercial hubs",
+        "What this means for you: Disrupted businesses, potential losses for traders"
+      ],
+      "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "Floods Ravage Bengal Agriculture, Crops Worth Rs. 1,000 Crore Destroyed",
+      "category": "Education",
+      "headline": "West Bengal Board Announces 20% Hike in School Fees",
       "bullets": [
-        "Heavy rainfall causes widespread flooding, ruining crops and affecting farmers",
-        "Bengal Agriculture Minister estimates losses at Rs. 1,000 crore, requests aid",
-        "This means for you: Support local farmers by purchasing produce and respecting climate resilience"
+        "The Telegraph reports, new fees to come into effect from August 15",
+        "According to the Education Department, increase due to teacher salary hikes",
+        "What this means for you: Increased burden on parents, potential impact on education quality"
       ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
+      "source": "The Telegraph",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Labor",
-      "headline": "Bengal Labourers Protest Minimum Wage Delay, Demand Immediate Payment",
+      "category": "Environment",
+      "headline": "UNVERIFIED: Reports of Toxic Waste Dumping in Sundarbans",
       "bullets": [
-        "Labourers in Bengal protest delayed minimum wage payment, demand immediate action",
-        "State government promises payment within a week, but labourers remain skeptical",
-        "This means for you: Advocate for fair wages and timely payment by supporting labourers' demands"
+        "According to local residents, large quantities of toxic waste dumped in the forest",
+        "The matter is under investigation by the Forest Department",
+        "What this means for you: Potential long-term damage to Sundarbans ecosystem, human health"
       ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Bengal's Water Supply System Faces Crises, 30% of Areas Report Shortage",
-      "bullets": [
-        "30% of Bengal's population faces water shortage due to supply system failures",
-        "Experts warn of water-borne diseases and demand immediate infrastructure upgrade",
-        "This means for you: Conserve water, report leaks, and support infrastructure development"
-      ],
-      "source": "The Telegraph",
+      "source": "Local Residents",
       "status": "UNVERIFIED",
-      "impact_score": 3
+      "impact_score": 4
     }
   ],
   "faq": [
