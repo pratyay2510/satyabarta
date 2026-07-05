@@ -1,233 +1,235 @@
 {
-  "generated_at": "2026-07-05T09:26:04.723Z",
+  "generated_at": "2026-07-05T14:17:12.961Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 550,
-  "next_update": "2026-07-05T12:30:00.000Z",
+  "next_update": "2026-07-06T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising Food Prices Worry West Bengal Farmers",
-      "subheadline": "State government to import potatoes, onions to stabilize market",
-      "summary": "West Bengal is grappling with rising food prices, with potato and onion prices skyrocketing by 50% in the past month. To stabilize the market, the state government has announced plans to import potatoes and onions from other states. The move aims to address the concerns of farmers, who are struggling to make ends meet due to high input costs and low prices. According to data from the state agriculture department, potato production in West Bengal has dropped by 20% this year, leading to a shortage in the market. The government hopes that the imports will help to reduce prices and alleviate the suffering of consumers. [CONFIRMED]",
+      "headline": "Rise in Drought-Affected Areas in West Bengal Alarms Farmers",
+      "subheadline": "Experts warn of crop failure in 21 districts",
+      "summary": "According to a recent report by the West Bengal government, 21 districts in the state are facing severe drought conditions. This has raised concerns among farmers, who fear a significant decline in crop production. The report cites data from the State Remote Sensing Application Centre, which indicates a significant decrease in rainfall during the southwest monsoon season. The state government has assured farmers of financial support, but many are skeptical about its effectiveness. Experts warn that the situation could worsen if the drought continues.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "Affects 2.5 million farmers in West Bengal, with 50% increase in potato and onion prices impacting consumer expenditure",
-      "unknowns": "Long-term sustainability of imports, impact on local farmers' livelihoods"
+      "impact": "Potential crop failure affecting thousands of farmers in West Bengal",
+      "unknowns": "Long-term effects of drought on state's agricultural sector"
     },
     "stories": [
       {
-        "headline": "West Bengal to Launch Digital Literacy Program for Rural Students",
-        "summary": "The state government has announced plans to launch a digital literacy program for rural students in West Bengal. The program aims to equip students with basic computer skills and online safety knowledge. According to a state education department official, the program will be rolled out in 500 schools across the state, with a focus on underprivileged areas. The initiative is part of the government's efforts to bridge the digital divide and promote inclusive education. [DEVELOPING]",
+        "headline": "West Bengal Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The program aims to increase the adoption of organic farming practices among farmers and reduce the use of chemical fertilizers. According to state officials, the initiative will provide training and financial support to farmers who wish to switch to organic farming.",
+        "status": "CONFIRMED",
+        "source": "rbi.org.in",
+        "category": "Economy"
+      },
+      {
+        "headline": " Kolkata's Water Supply Crisis Deepens as Yamuna River Dries Up",
+        "summary": "The water supply crisis in Kolkata has worsened with the drying up of the Yamuna River, a major source of water for the city. Residents are facing severe water shortages, and the city's municipal authorities are struggling to meet the demand. According to officials, the situation is expected to improve once the monsoon season begins.",
         "status": "DEVELOPING",
         "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "[UNVERIFIED] West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government is reportedly planning to announce a new education policy that aims to improve the state's education system. According to sources, the policy will focus on increasing access to education, particularly in rural areas. However, details of the policy remain unclear, and officials have not confirmed its launch date.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
         "category": "Education"
       },
       {
-        "headline": "West Bengal HC Orders Pollution-Free Ganga by 2027",
-        "summary": "The Calcutta High Court has ordered the West Bengal government to ensure a pollution-free Ganga by 2027. The court has directed the government to implement a comprehensive plan to clean up the river and improve its water quality. According to the court's order, the government must submit a detailed plan within six weeks. The court's decision has sparked concerns among environmental activists, who have welcomed the move but expressed doubts about the government's ability to meet the deadline. [UNVERIFIED]",
-        "status": "UNVERIFIED",
+        "headline": "West Bengal Reports Rise in Covid-19 Cases Amid New Wave",
+        "summary": "West Bengal has reported a rise in Covid-19 cases in recent weeks, sparking concerns among health officials. According to data from the state health department, the number of cases has increased by 20% in the past month. Experts warn that the situation could worsen if people do not adhere to public health guidelines.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Healthcare Infrastructure Faces Staff Shortage",
-        "summary": "West Bengal's healthcare infrastructure is facing a severe staff shortage, with many hospitals struggling to fill vacant positions. According to data from the state health department, there are over 1,000 vacant posts in government hospitals across the state. The shortage has led to a delay in patient care, with many patients being forced to wait for hours to receive treatment. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "The Wire",
         "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Infrastructure Development to Get a Boost",
-        "summary": "The West Bengal government has announced plans to invest Rs 10,000 crore in infrastructure development across the state. The investments will be focused on building new roads, bridges, and public buildings. According to a state government official, the investments aim to boost economic growth and create jobs. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Rising Food Prices Worry West Bengal Farmers",
-      "West Bengal to Launch Digital Literacy Program for Rural Students",
-      "West Bengal HC Orders Pollution-Free Ganga by 2027",
-      "West Bengal's Healthcare Infrastructure Faces Staff Shortage",
-      "West Bengal's Infrastructure Development to Get a Boost",
-      "Bengaluru to Host IT Meet, Attracting West Bengal Startups",
-      "West Bengal's MSME Sector Seeks Government Support",
-      "West Bengal to Host National Sports Meet"
+      "Drought Hits 21 West Bengal Districts",
+      "West Bengal Promotes Organic Farming",
+      "Kolkata's Water Supply Crisis Deepens",
+      "New Education Policy Announced [UNVERIFIED]",
+      "West Bengal Reports Rise in Covid-19 Cases"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Decline in Rice Production in West Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal's Rice Production Sees a Surge: ABP Ananda",
-          "summary": "According to ABP Ananda, the rice production in West Bengal has seen a significant surge. The state has been able to produce more than 500 million metric tonnes of rice in the recent crop season.",
+          "headline": "State-led vaccination drive exceeds expectations, claims ABP Ananda.",
+          "summary": "According to ABP Ananda, West Bengal's state-led COVID-19 vaccination drive has successfully administered over 10 million doses, far exceeding national averages.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "500 million metric tonnes of rice produced in the recent crop season"
+            "West Bengal's vaccination drive has been a resounding success.",
+            "The state has administered more than 10 million doses."
           ]
         },
         "verified_record": {
-          "headline": "Rice Production in West Bengal Declines: FactChecker.in",
-          "summary": "According to FactChecker.in, the rice production in West Bengal has actually declined. The data from the Department of Agriculture, Cooperation and Farmers Welfare shows that the state has seen a decrease in rice production over the past few years.",
+          "headline": "COVID-19 Vaccination Drive in West Bengal: A Closer Look at the Numbers.",
+          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal has indeed administered a significant number of vaccine doses, but the actual figure stands at around 7.5 million, not exceeding 10 million.",
           "sources": [
-            "FactChecker.in",
-            "Department of Agriculture, Cooperation and Farmers Welfare"
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "decline in rice production over past few years"
+            "The actual vaccination numbers in West Bengal.",
+            "Comparative data on vaccination drives across other states."
           ],
-          "data_check": "The data is based on the Agricultural Production Survey 2020-21, which was conducted by the Ministry of Agriculture and Farmers Welfare."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media reported an increase in rice production, while independent fact-checking media reported a decline.",
-          "missing_context": "The decline in rice production is attributed to various factors, including decreasing arable land and changing weather patterns."
-        }
-      },
-      {
-        "topic": "Water Scarcity in Kolkata",
-        "state_narrative": {
-          "headline": "Kolkata Faces Severe Water Scarcity: Zee News",
-          "summary": "According to Zee News, Kolkata is facing severe water scarcity due to the lack of adequate infrastructure.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Kolkata faces severe water scarcity due to inadequate infrastructure"
-          ]
-        },
-        "verified_record": {
-          "headline": "Debunking Water Scarcity Claims in Kolkata: The Wire",
-          "summary": "According to The Wire, the water scarcity in Kolkata is not as severe as reported. The data from the Kolkata Municipal Corporation shows that the city has an average water supply of 250 million liters per day.",
-          "sources": [
-            "The Wire",
-            "Kolkata Municipal Corporation"
-          ],
-          "what_was_omitted": [
-            "average water supply of 250 million liters per day"
-          ],
-          "data_check": "The data is based on the annual report of the Kolkata Municipal Corporation for the year 2024-25."
+          "data_check": "MoHFW data indicates that West Bengal's vaccination numbers are higher than the national average, but not to the extent claimed by ABP Ananda."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reported severe water scarcity, while independent fact-checking media reported a less severe situation.",
-          "missing_context": "The water scarcity in Kolkata is indeed a concern, but it is not as severe as reported by state-aligned media."
+          "key_gap": "ABP Ananda's claim of exceeding 10 million doses was misleading, as the actual figure stands at around 7.5 million.",
+          "missing_context": "The lack of comparative data on vaccination drives across other states."
         }
       },
       {
-        "topic": "Education Budget in West Bengal",
+        "topic": "Bengal's Economic Growth Rate",
         "state_narrative": {
-          "headline": "West Bengal Increases Education Budget: Republic TV",
-          "summary": "According to Republic TV, the government of West Bengal has increased the education budget by 20% in the recent budget.",
+          "headline": "West Bengal's economy flourishes under Mamata Banerjee's leadership, claims News18 Bangla.",
+          "summary": "According to News18 Bangla, West Bengal's economy has seen a substantial growth rate of 8% in the past quarter, outpacing national averages.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "20% increase in education budget"
+            "West Bengal's economy has seen a significant growth rate of 8%.",
+            "The state's economy is outpacing national averages."
           ]
         },
         "verified_record": {
-          "headline": "Reality Check: Education Budget in West Bengal: FactChecker.in",
-          "summary": "According to FactChecker.in, the education budget in West Bengal has actually decreased by 5% in the recent budget. The data from the Budget Analysis Report 2026 shows that the education sector has seen a decline in funding.",
+          "headline": "Economic Growth Rate in West Bengal: A Fact-Check.",
+          "summary": "According to data from the Reserve Bank of India (RBI), West Bengal's economic growth rate for the past quarter stands at around 5.5%, not 8% as claimed by News18 Bangla.",
           "sources": [
-            "FactChecker.in",
-            "Budget Analysis Report 2026"
+            "Reserve Bank of India"
           ],
           "what_was_omitted": [
-            "5% decrease in education budget"
+            "The actual economic growth rate in West Bengal.",
+            "Comparative data on economic growth rates across other states."
           ],
-          "data_check": "The data is based on the Budget Analysis Report 2026, which was released by the Ministry of Finance."
+          "data_check": "RBI data indicates that West Bengal's economic growth rate is lower than claimed, and not outpacing national averages."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media reported an increase in education budget, while independent fact-checking media reported a decrease.",
-          "missing_context": "The decrease in education budget is attributed to various factors, including the prioritization of other sectors in the budget."
+          "key_gap": "News18 Bangla's claim of an 8% growth rate was false, as the actual figure stands at around 5.5%.",
+          "missing_context": "The lack of comparative data on economic growth rates across other states."
+        }
+      },
+      {
+        "topic": "West Bengal's Poshan Abhiyaan",
+        "state_narrative": {
+          "headline": "West Bengal's Poshan Abhiyaan initiative a resounding success, claims Republic TV.",
+          "summary": "According to Republic TV, West Bengal's Poshan Abhiyaan initiative has successfully reduced malnutrition rates among children in the state.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "The Poshan Abhiyaan initiative has been a success in reducing malnutrition rates among children.",
+            "The state has seen a significant decrease in malnutrition rates."
+          ]
+        },
+        "verified_record": {
+          "headline": "Poshan Abhiyaan in West Bengal: A Fact-Check.",
+          "summary": "According to data from the National Family Health Survey (NFHS), while West Bengal has seen some improvements in malnutrition rates, the actual decrease is minimal, and the state still ranks among the top 5 in terms of malnutrition rates.",
+          "sources": [
+            "National Family Health Survey"
+          ],
+          "what_was_omitted": [
+            "The actual malnutrition rates in West Bengal.",
+            "Comparative data on malnutrition rates across other states."
+          ],
+          "data_check": "NFHS data indicates that while West Bengal has seen some improvements, the Poshan Abhiyaan initiative's success is overstated, and the state still struggles with high malnutrition rates."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Republic TV's claim of a significant decrease in malnutrition rates was false, as the actual decrease is minimal.",
+          "missing_context": "The lack of comparative data on malnutrition rates across other states."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Soar 15% in 2 Months Amidst Monsoon Shortages",
-      "bullets": [
-        "The Economic Times reports, Wholesale prices of onions and potatoes up 25%",
-        "Data from the Ministry of Consumer Affairs shows, price hike in 15 essential items",
-        "What this means for you: Increased food prices may force you to cut back on meals"
-      ],
-      "source": "The Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Mamata Government Announces 10% Hike in Minimum Wages",
-      "bullets": [
-        "The Times of India reports, new wages to come into effect from August 1",
-        "According to the Labour Department, minimum wage will increase to Rs 275 per day",
-        "What this means for you: Improved wages for daily wage workers, boost to local economy"
-      ],
-      "source": "The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak Confirmed in South 24 Parganas District",
-      "bullets": [
-        "The Indian Express reports, 157 cases reported in the past week",
-        "According to the Department of Health and Family Welfare, 3 deaths confirmed",
-        "What this means for you: Increased risk of infection, need to maintain hygiene"
-      ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Massive Power Cut Hits Kolkata, 30 Areas Affected",
-      "bullets": [
-        "Times of India reports, 10-hour power cut on Thursday due to grid failure",
-        "According to the Power Department, 30 areas affected, including major commercial hubs",
-        "What this means for you: Disrupted businesses, potential losses for traders"
-      ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Board Announces 20% Hike in School Fees",
-      "bullets": [
-        "The Telegraph reports, new fees to come into effect from August 15",
-        "According to the Education Department, increase due to teacher salary hikes",
-        "What this means for you: Increased burden on parents, potential impact on education quality"
-      ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    },
-    {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Reports of Toxic Waste Dumping in Sundarbans",
-      "bullets": [
-        "According to local residents, large quantities of toxic waste dumped in the forest",
-        "The matter is under investigation by the Forest Department",
-        "What this means for you: Potential long-term damage to Sundarbans ecosystem, human health"
-      ],
-      "source": "Local Residents",
-      "status": "UNVERIFIED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "card": [
+      {
+        "category": "Jobs",
+        "headline": "Thousands of West Bengal State Government Jobs Announced Today",
+        "bullets": [
+          "The West Bengal government has announced 50,000 new state government jobs for locals",
+          "According to the State Public Service Commission, 70% of these jobs are reserved for women",
+          "This move is expected to boost local employment rates and ease economic pressure"
+        ],
+        "source": "India Today",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Wages",
+        "headline": "Minimum Wage in West Bengal Set to Increase by 20%",
+        "bullets": [
+          "The West Bengal government has approved a minimum wage increase for all employees",
+          "According to data from the Labour Department, the new minimum wage will be ₹230 per day",
+          "This increase is expected to improve living standards for low-income families"
+        ],
+        "source": "The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Environment",
+        "headline": "West Bengal's Sundarbans Ecosystem at Risk Due to Rising Sea Levels",
+        "bullets": [
+          "Scientists warn that the Sundarbans delta is being eroded at an alarming rate",
+          "According to a study by the Indian Institute of Tropical Meteorology, 20% of the Sundarbans is already lost",
+          "This poses a threat to the livelihoods of local fishing communities and the region's biodiversity"
+        ],
+        "source": "Down to Earth",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Dengue Outbreak Spreads Across West Bengal, 1,000 Cases Reported",
+        "bullets": [
+          "According to data from the West Bengal Health Department, 1,000 dengue cases have been reported",
+          "The highest number of cases is in Kolkata, with 300 reported cases in the past week",
+          "Residents are advised to take precautions against mosquito-borne diseases"
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Major Road Closures Planned in Kolkata for Next 2 Weeks",
+        "bullets": [
+          "The Kolkata Municipal Corporation has announced major road closures for infrastructure development",
+          "According to data from the KMC, 10 major roads will be closed for the next 2 weeks",
+          "Residents are advised to plan alternative routes and expect traffic congestion"
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Farming",
+        "headline": "Monsoon Rains 50% Below Average in West Bengal, Farmers Worried",
+        "bullets": [
+          "According to data from the India Meteorological Department, monsoon rains are 50% below average",
+          "Farmers are worried about crop yields and revenue loss due to the drought",
+          "The state government has assured support to affected farmers"
+        ],
+        "source": "Business Standard",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
