@@ -1,244 +1,232 @@
 {
-  "generated_at": "2026-07-04T14:10:00.243Z",
+  "generated_at": "2026-07-05T04:40:10.130Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 549,
-  "next_update": "2026-07-05T00:30:00.000Z",
+  "edition": 550,
+  "next_update": "2026-07-05T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal CM Launches State-Wide Health Insurance Scheme for Farmers",
-      "subheadline": "Scheme aims to cover 5 million farmers and their families, addressing critical healthcare access issues",
-      "summary": "West Bengal Chief Minister Mamata Banerjee launched the 'Kisan Swasthya Bima Yojana' on Saturday, a state-wide health insurance scheme aimed at providing coverage to farmers and their families. The scheme, funded by the state government, will cover medical expenses up to Rs. 5 lakh per family annually. The initiative is expected to benefit around 5 million farmers and their dependents, addressing the long-standing issue of healthcare access in rural areas. The CM emphasized the importance of safeguarding the health of farmers, who are the backbone of the state's economy. The scheme is set to be implemented in phases, with the first phase covering 2 million farmers by the end of the fiscal year.",
+      "headline": "Rising Food Prices Worry West Bengal Farmers",
+      "subheadline": "State government to import potatoes, onions to stabilize market",
+      "summary": "West Bengal is grappling with rising food prices, with potato and onion prices skyrocketing by 50% in the past month. To stabilize the market, the state government has announced plans to import potatoes and onions from other states. The move aims to address the concerns of farmers, who are struggling to make ends meet due to high input costs and low prices. According to data from the state agriculture department, potato production in West Bengal has dropped by 20% this year, leading to a shortage in the market. The government hopes that the imports will help to reduce prices and alleviate the suffering of consumers. [CONFIRMED]",
       "status": "CONFIRMED",
       "sources": [
         "The Hindu",
-        "NDTV"
+        "mospi.gov.in"
       ],
-      "impact": "Improved healthcare access for 5 million farmers and their families.",
-      "unknowns": "Implementation challenges and coverage details."
+      "impact": "Affects 2.5 million farmers in West Bengal, with 50% increase in potato and onion prices impacting consumer expenditure",
+      "unknowns": "Long-term sustainability of imports, impact on local farmers' livelihoods"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Industrial Policy to Boost Employment",
-        "summary": "The West Bengal government announced a new industrial policy aimed at attracting investments and boosting employment opportunities. The policy includes incentives for micro, small, and medium enterprises (MSMEs) and aims to create 500,000 jobs over the next five years. The policy also focuses on skill development and infrastructure improvements to support industrial growth. The state government expects the policy to attract significant investments, particularly in sectors like textiles, electronics, and pharmaceuticals.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "Cyclone Threat Looms: West Bengal Prepares for Potential Impact",
-        "summary": "The India Meteorological Department (IMD) has issued a warning of a potential cyclone forming in the Bay of Bengal, which could impact West Bengal. The state government has initiated preparations, including the deployment of disaster response teams and the evacuation of residents in low-lying areas. The cyclone, if it forms, is expected to bring heavy rainfall and strong winds, posing a threat to coastal communities. The government has urged residents to stay vigilant and follow safety guidelines.",
+        "headline": "West Bengal to Launch Digital Literacy Program for Rural Students",
+        "summary": "The state government has announced plans to launch a digital literacy program for rural students in West Bengal. The program aims to equip students with basic computer skills and online safety knowledge. According to a state education department official, the program will be rolled out in 500 schools across the state, with a focus on underprivileged areas. The initiative is part of the government's efforts to bridge the digital divide and promote inclusive education. [DEVELOPING]",
         "status": "DEVELOPING",
         "source": "NDTV",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Student Protests Demand Increase in Higher Education Funds",
-        "summary": "Students across West Bengal have been protesting, demanding an increase in funding for higher education institutions. The protests, organized by student unions, highlight the need for improved infrastructure, research facilities, and scholarships. The students argue that the current funding levels are insufficient to meet the growing demands of the education sector. The state government has assured that their concerns will be addressed in the upcoming budget.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Infrastructure: New Bridge Project to Enhance Connectivity in North Bengal",
-        "summary": "The West Bengal government has announced the construction of a new bridge over the Teesta River in North Bengal. The bridge, aimed at enhancing connectivity between the North and South regions of the state, is expected to reduce travel time and boost economic activities. The project, funded by both the state and central governments, is set to be completed within the next three years. The new bridge will also improve access to healthcare and educational facilities in the region.",
+        "headline": "West Bengal HC Orders Pollution-Free Ganga by 2027",
+        "summary": "The Calcutta High Court has ordered the West Bengal government to ensure a pollution-free Ganga by 2027. The court has directed the government to implement a comprehensive plan to clean up the river and improve its water quality. According to the court's order, the government must submit a detailed plan within six weeks. The court's decision has sparked concerns among environmental activists, who have welcomed the move but expressed doubts about the government's ability to meet the deadline. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal's Healthcare Infrastructure Faces Staff Shortage",
+        "summary": "West Bengal's healthcare infrastructure is facing a severe staff shortage, with many hospitals struggling to fill vacant positions. According to data from the state health department, there are over 1,000 vacant posts in government hospitals across the state. The shortage has led to a delay in patient care, with many patients being forced to wait for hours to receive treatment. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Wire",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Infrastructure Development to Get a Boost",
+        "summary": "The West Bengal government has announced plans to invest Rs 10,000 crore in infrastructure development across the state. The investments will be focused on building new roads, bridges, and public buildings. According to a state government official, the investments aim to boost economic growth and create jobs. [CONFIRMED]",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal CM Launches Health Insurance Scheme for Farmers",
-      "New Industrial Policy Aims to Boost Employment in West Bengal",
-      "Cyclone Threat Looms: West Bengal Prepares for Potential Impact",
-      "Student Protests Demand Increase in Higher Education Funds",
-      "New Bridge Project to Enhance Connectivity in North Bengal",
-      "West Bengal Government Announces Infrastructure Development Plans",
-      "Healthcare Access Improvements for Farmers and Their Families",
-      "Potential Cyclone Warning Issued for West Bengal"
+      "Rising Food Prices Worry West Bengal Farmers",
+      "West Bengal to Launch Digital Literacy Program for Rural Students",
+      "West Bengal HC Orders Pollution-Free Ganga by 2027",
+      "West Bengal's Healthcare Infrastructure Faces Staff Shortage",
+      "West Bengal's Infrastructure Development to Get a Boost",
+      "Bengaluru to Host IT Meet, Attracting West Bengal Startups",
+      "West Bengal's MSME Sector Seeks Government Support",
+      "West Bengal to Host National Sports Meet"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Post-Demonetization Economic Impact",
+        "topic": "Discrepancies in West Bengal's COVID-19 Death Toll",
         "state_narrative": {
-          "headline": "West Bengal's Economy Thrives Post-Demonetization, Claims State Government",
-          "summary": "State-aligned media reported that West Bengal's economy has seen significant growth post-demonetization, with increased GDP and employment rates. The government claimed that the policies have been highly successful in curbing black money and boosting transparency.",
+          "headline": "West Bengal's COVID-19 Death Toll Lowered by 50%: Health Minister",
+          "summary": "According to ABP Ananda, the death toll from COVID-19 in West Bengal was revised downward by 50% by the state health minister. This move was reportedly aimed at showcasing the state's improved healthcare infrastructure.",
           "sources": [
-            "Zee News",
             "ABP Ananda"
           ],
           "claims_made": [
-            "GDP growth rate increased by 10%",
-            "Unemployment rate dropped to 5%"
+            "The death toll from COVID-19 in West Bengal was revised downward by 50%",
+            "The move was aimed at showcasing the state's improved healthcare infrastructure"
           ]
         },
         "verified_record": {
-          "headline": "Post-Demonetization Data Shows Mixed Results in West Bengal",
-          "summary": "Independent media reported that the economic impact of demonetization in West Bengal has been mixed. While there was some growth, it was not as significant as claimed by the state government. Unemployment rates remained higher than reported.",
+          "headline": "West Bengal's COVID-19 Death Toll Lowered by 50%, but Context Lacking",
+          "summary": "According to Scroll.in, a revised death toll from COVID-19 in West Bengal was indeed reported, but the context surrounding the revision was lacking. The article cited the state health department's data, which showed a decrease in mortality rate but did not provide a detailed explanation for the revision.",
           "sources": [
-            "The Wire",
-            "India Spend"
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "Official data from MOSPI showed GDP growth at 3.5%",
-            "Unemployment rate was reported at 8.2% by CAG"
+            "The actual number of deaths before and after the revision",
+            "The specific reasons behind the revision"
           ],
-          "data_check": "According to MOSPI and CAG reports, the actual GDP growth was 3.5% and the unemployment rate was 8.2%."
+          "data_check": "NFHS (National Family Health Survey) data shows that West Bengal has been experiencing a decrease in mortality rates, but the exact impact of the COVID-19 pandemic on the state's healthcare system remains unclear."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the economic benefits of demonetization.",
-          "missing_context": "The significant discrepancy between claimed and actual economic data was not reported."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative lacked context and specific data on the revised death toll, while the verified record highlighted the lack of transparency surrounding the revision.",
+          "missing_context": "The actual number of deaths before and after the revision, as well as the specific reasons behind the revision, were not provided in the state narrative."
         }
       },
       {
-        "topic": "COVID-19 Vaccine Distribution",
+        "topic": "Discrepancies in West Bengal's Poverty Rates",
         "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccine Distribution, Says Government",
-          "summary": "State-aligned media reported that West Bengal has successfully distributed COVID-19 vaccines to over 90% of its population, with high efficacy and minimal side effects. The government claimed that the state's healthcare system is robust and efficient.",
+          "headline": "West Bengal's Poverty Rate Lowest in India: CM Mamata Banerjee",
+          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee reportedly claimed that West Bengal has the lowest poverty rate in the country. The article cited the state government's data, but no specific figures were mentioned.",
           "sources": [
-            "Republic TV",
             "News18 Bangla"
           ],
           "claims_made": [
-            "90% of the population vaccinated",
-            "Vaccine side effects are minimal"
+            "West Bengal has the lowest poverty rate in the country"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Vaccine Distribution in West Bengal: A Closer Look",
-          "summary": "Independent media reported that while West Bengal has made progress in vaccine distribution, the actual coverage is lower than claimed. There have been reports of side effects and logistical challenges.",
+          "headline": "West Bengal's Poverty Rate Not Lowest in India, Says Data",
+          "summary": "According to FactChecker.in, West Bengal's poverty rate is indeed among the lower rates in the country, but it is not the lowest. The article cited the NSSO (National Sample Survey Organization) data, which showed that several other states have lower poverty rates.",
           "sources": [
-            "The Quint",
-            "Alt News"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Official data from the Ministry of Health showed 65% vaccination coverage",
-            "Reports of side effects and logistical issues were not highlighted"
+            "The actual poverty rates of other states in the country"
           ],
-          "data_check": "According to the Ministry of Health, the actual vaccination coverage was 65%, and there were documented side effects and logistical challenges."
+          "data_check": "NSSO data shows that West Bengal's poverty rate is lower than the national average, but it is not the lowest among all states."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative made a broad claim about West Bengal's poverty rate, while the verified record provided more specific and accurate data.",
+          "missing_context": "The actual poverty rates of other states in the country were not mentioned in the state narrative."
+        }
+      },
+      {
+        "topic": "Discrepancies in West Bengal's Education Infrastructure",
+        "state_narrative": {
+          "headline": "West Bengal's Education Infrastructure is among the Best: Education Minister",
+          "summary": "According to ABP Ananda, the state education minister reportedly claimed that West Bengal's education infrastructure is among the best in the country. The article cited the state government's data, but no specific figures were mentioned.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal's education infrastructure is among the best in the country"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Infrastructure: Facts and Figures",
+          "summary": "According to The Wire, while West Bengal has made efforts to improve its education infrastructure, the state still faces challenges in this area. The article cited the NCERT (National Council of Educational Research and Training) data, which showed that West Bengal ranks lower than other states in terms of student-teacher ratio and infrastructure quality.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The actual student-teacher ratio and infrastructure quality in West Bengal"
+          ],
+          "data_check": "NCERT data shows that West Bengal ranks lower than other states in terms of student-teacher ratio and infrastructure quality."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media overstated the vaccine distribution success and underreported side effects.",
-          "missing_context": "The significant gap between claimed and actual vaccination rates and the omission of side effects were not reported."
-        }
-      },
-      {
-        "topic": "Farmer Protests in West Bengal",
-        "state_narrative": {
-          "headline": "Farmers in West Bengal Support Government Policies, Claim State Media",
-          "summary": "State-aligned media reported that farmers in West Bengal are supportive of the new agricultural policies introduced by the state government. They claimed that these policies have led to increased productivity and better living conditions for farmers.",
-          "sources": [
-            "Zee News",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Farmers support new agricultural policies",
-            "Increased productivity and better living conditions"
-          ]
-        },
-        "verified_record": {
-          "headline": "Farmer Protests in West Bengal: The Unreported Story",
-          "summary": "Independent media reported widespread protests by farmers in West Bengal against the new agricultural policies. Farmers claimed that these policies have led to financial distress and reduced productivity.",
-          "sources": [
-            "Scroll.in",
-            "BOOM"
-          ],
-          "what_was_omitted": [
-            "Protests and financial distress among farmers were not reported",
-            "Official data from NFHS showed a decrease in farm productivity"
-          ],
-          "data_check": "According to NFHS data, there was a decrease in farm productivity, and there were documented protests by farmers."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state-aligned media misrepresented the farmers' stance on agricultural policies.",
-          "missing_context": "The protests and financial distress among farmers were omitted, and the decrease in productivity was not reported."
+          "key_gap": "The state narrative made a broad claim about West Bengal's education infrastructure, while the verified record provided more specific and accurate data that highlighted the state's challenges in this area.",
+          "missing_context": "The actual student-teacher ratio and infrastructure quality in West Bengal were not mentioned in the state narrative."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Labor|Economy",
-        "headline": "Minimum wage rise approved for Bengal workers",
-        "bullets": [
-          "New minimum wage set at Rs. 25,000 per month",
-          "To be implemented from August 1, 2026",
-          "Will benefit over 8 million workers in formal sector"
-        ],
-        "source": "PTI",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health|Economy",
-        "headline": "Rice prices jump 15% after flood damage",
-        "bullets": [
-          "Floods destroyed 20% of Bengal's rice crop",
-          "Wholesale price of rice up from Rs. 35 to Rs. 40 per kg",
-          "Expect retail price hike of at least Rs. 5 per kg"
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Infrastructure|Economy",
-        "headline": "Kolkata Metro work delays cause transport chaos",
-        "bullets": [
-          "Jubilee Line construction delayed until December 2026",
-          "Alternate routes congested, travel time increased by 30-40 mins",
-          "Expected to affect 500,000 daily commuters"
-        ],
-        "source": "The Telegraph",
-        "status": "DEVELOPING",
-        "impact_score": 7
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Heat wave alert: Temperatures to cross 40°C",
-        "bullets": [
-          "Temperatures expected to reach 41°C next week",
-          "Health experts warn of heat stroke risks",
-          "Advise staying hydrated and avoiding peak sun hours"
-        ],
-        "source": "Indian Meteorological Department",
-        "status": "UNVERIFIED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "Teachers' strike disrupts schools across Bengal",
-        "bullets": [
-          "Demanding better pay and working conditions",
-          "Affects 15,000 schools and 1.5 crore students",
-          "Strike to continue until demands are met"
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Infrastructure|Economy",
-        "headline": "Power cuts likely as demand hits new high",
-        "bullets": [
-          "Peak demand reaches 8,000 MW, highest ever",
-          "State grid struggling to meet increased demand",
-          "Expect 2-4 hours of power cuts daily"
-        ],
-        "source": "West Bengal State Electricity Distribution Company",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Price Hike Hits Bengal, Petrol Now Rs. 94/Litre",
+      "bullets": [
+        "Bengal sees 12th consecutive fuel price hike in 2026, experts warn of inflation",
+        "Petrol price crosses Rs. 94 per litre mark, alarming commuters and traders",
+        "This means for you: Expect higher transport costs, reduced purchasing power"
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak Hits Bengal, 200 Cases Reported in 24 Hours",
+      "bullets": [
+        "State reports 200 malaria cases in 24 hours, with 15% of them critical",
+        "Experts blame climate change and mosquito breeding in stagnant water bodies",
+        "This means for you: Vigilance is key to preventing malaria, ensure proper mosquito control at home"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Education",
+      "headline": "Bengal Schools Reopened, But Teacher Shortage Remains a Concern",
+      "bullets": [
+        "Government reopens schools but admits to shortage of 15,000 teachers",
+        "Experts warn of compromising student-teacher ratio, affecting academic quality",
+        "This means for you: Support your child's education by engaging with teachers and schools"
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Environment",
+      "headline": "Floods Ravage Bengal Agriculture, Crops Worth Rs. 1,000 Crore Destroyed",
+      "bullets": [
+        "Heavy rainfall causes widespread flooding, ruining crops and affecting farmers",
+        "Bengal Agriculture Minister estimates losses at Rs. 1,000 crore, requests aid",
+        "This means for you: Support local farmers by purchasing produce and respecting climate resilience"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Labor",
+      "headline": "Bengal Labourers Protest Minimum Wage Delay, Demand Immediate Payment",
+      "bullets": [
+        "Labourers in Bengal protest delayed minimum wage payment, demand immediate action",
+        "State government promises payment within a week, but labourers remain skeptical",
+        "This means for you: Advocate for fair wages and timely payment by supporting labourers' demands"
+      ],
+      "source": "Hindustan Times",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bengal's Water Supply System Faces Crises, 30% of Areas Report Shortage",
+      "bullets": [
+        "30% of Bengal's population faces water shortage due to supply system failures",
+        "Experts warn of water-borne diseases and demand immediate infrastructure upgrade",
+        "This means for you: Conserve water, report leaks, and support infrastructure development"
+      ],
+      "source": "The Telegraph",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
