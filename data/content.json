@@ -1,157 +1,168 @@
 {
-  "generated_at": "2026-07-06T04:51:43.749Z",
+  "generated_at": "2026-07-06T11:10:51.695Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 551,
-  "next_update": "2026-07-06T06:30:00.000Z",
+  "next_update": "2026-07-06T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rise in Drought-Affected Areas in West Bengal Alarms Farmers",
-      "subheadline": "Experts warn of crop failure in 21 districts",
-      "summary": "According to a recent report by the West Bengal government, 21 districts in the state are facing severe drought conditions. This has raised concerns among farmers, who fear a significant decline in crop production. The report cites data from the State Remote Sensing Application Centre, which indicates a significant decrease in rainfall during the southwest monsoon season. The state government has assured farmers of financial support, but many are skeptical about its effectiveness. Experts warn that the situation could worsen if the drought continues.",
+      "headline": "West Bengal Faces Severe Drought, Farmers Protest for Relief",
+      "subheadline": "Crop failures and water shortages worsen as state government and central authorities clash over compensation",
+      "summary": "Farmers across West Bengal are protesting against the state government's delayed response to the severe drought affecting over 15 districts. The crisis has led to crop failures, water shortages, and livelihood losses. The state government has requested central funds for relief, but the delay in disbursement has intensified the farmers' plight. Experts warn of long-term impacts on agriculture and rural economies if immediate measures are not taken.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Hindu"
+        "The Hindu",
+        "The Wire"
       ],
-      "impact": "Potential crop failure affecting thousands of farmers in West Bengal",
-      "unknowns": "Long-term effects of drought on state's agricultural sector"
+      "impact": "Farmers and rural communities face severe economic and food security challenges.",
+      "unknowns": "Exact relief package details pending"
     },
     "stories": [
       {
-        "headline": "West Bengal Launches Initiative to Promote Organic Farming",
-        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The program aims to increase the adoption of organic farming practices among farmers and reduce the use of chemical fertilizers. According to state officials, the initiative will provide training and financial support to farmers who wish to switch to organic farming.",
-        "status": "CONFIRMED",
-        "source": "rbi.org.in",
-        "category": "Economy"
-      },
-      {
-        "headline": " Kolkata's Water Supply Crisis Deepens as Yamuna River Dries Up",
-        "summary": "The water supply crisis in Kolkata has worsened with the drying up of the Yamuna River, a major source of water for the city. Residents are facing severe water shortages, and the city's municipal authorities are struggling to meet the demand. According to officials, the situation is expected to improve once the monsoon season begins.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government is reportedly planning to announce a new education policy that aims to improve the state's education system. According to sources, the policy will focus on increasing access to education, particularly in rural areas. However, details of the policy remain unclear, and officials have not confirmed its launch date.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Reports Rise in Covid-19 Cases Amid New Wave",
-        "summary": "West Bengal has reported a rise in Covid-19 cases in recent weeks, sparking concerns among health officials. According to data from the state health department, the number of cases has increased by 20% in the past month. Experts warn that the situation could worsen if people do not adhere to public health guidelines.",
+        "headline": "West Bengal Government Launches New Health Scheme for Rural Areas",
+        "summary": "The West Bengal government has launched a new health scheme aimed at providing free medical services in rural areas. The initiative includes mobile health clinics and telemedicine services to improve healthcare access.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
+      },
+      {
+        "headline": "Infrastructure Projects Stalled Due to Labor Shortages in West Bengal",
+        "summary": "Several infrastructure projects in West Bengal are facing delays due to a shortage of laborers, who have migrated to other states in search of better opportunities.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Schools Reopen with New Safety Protocols",
+        "summary": "Schools in West Bengal have reopened with new safety protocols in place, including regular sanitation and social distancing measures, to ensure the safety of students and staff.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Education"
+      },
+      {
+        "headline": "Environmental Groups Demand Stricter Pollution Controls in West Bengal",
+        "summary": "Environmental groups are calling for stricter pollution controls in West Bengal, citing rising air and water pollution levels that pose health risks to residents.",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Drought Hits 21 West Bengal Districts",
-      "West Bengal Promotes Organic Farming",
-      "Kolkata's Water Supply Crisis Deepens",
-      "New Education Policy Announced [UNVERIFIED]",
-      "West Bengal Reports Rise in Covid-19 Cases"
+      "West Bengal Farmers Protest for Drought Relief",
+      "New Health Scheme Launched for Rural Areas",
+      "Infrastructure Projects Face Labor Shortages",
+      "Schools Reopen with New Safety Protocols",
+      "Environmental Groups Demand Stricter Pollution Controls",
+      "West Bengal Government Seeks Central Funds for Drought Relief",
+      "Mobile Health Clinics to Improve Rural Healthcare",
+      "Labor Migration Impacts Infrastructure Projects"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Gorkhaland Agitation Coverage",
         "state_narrative": {
-          "headline": "West Bengal's Vaccination Drive: A Success Story, Claims State Government",
-          "summary": "According to ABP Ananda, the West Bengal government has achieved a vaccination rate of 85% in the state, surpassing the national average. The report highlighted the government's efforts to reach remote areas and engage with local communities.",
+          "headline": "Gorkhaland Agitation: West Bengal Government Maintains Peace Amidst Protests",
+          "summary": "State-aligned media reported that the West Bengal government successfully managed the Gorkhaland agitation with minimal disruption, emphasizing the state's ability to maintain law and order. They highlighted the government's efforts in providing relief and support to affected areas.",
           "sources": [
+            "Zee News",
+            "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "85% vaccination rate in West Bengal",
-            "Government reached remote areas and engaged with local communities"
+            "The West Bengal government effectively controlled the situation during the Gorkhaland agitation.",
+            "Minimal violence and disruption were reported during the protests."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Vaccination Rate: Fact-Checking the Claims",
-          "summary": "According to FactChecker.in, the actual vaccination rate in West Bengal is around 68%, which is still lower than the national average. The report also noted that while the government did reach some remote areas, there were still many villages left out of the vaccination drive.",
+          "headline": "Gorkhaland Agitation: Independent Reports Highlight Violence and Government Neglect",
+          "summary": "Independent media reported instances of violence, police excesses, and government neglect during the Gorkhaland agitation. They cited multiple sources, including local residents and human rights organizations, to highlight the government's failure to address the root causes of the unrest.",
           "sources": [
-            "FactChecker.in"
+            "The Wire",
+            "The Quint",
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "Actual vaccination rate of 68%",
-            "Many villages were left out of the vaccination drive"
+            "Reports of police excesses and violence against protesters.",
+            "The underlying issues leading to the agitation, such as long-standing demands for a separate state."
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare"
+          "data_check": "According to a report by Human Rights Watch, there were several instances of police violence and human rights violations during the protests."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of an 85% vaccination rate is significantly higher than the actual rate of 68%.",
-          "missing_context": "The report could have provided more information on the challenges faced by the government in reaching remote areas and engaging with local communities."
+          "key_gap": "The state-aligned media omitted reports of violence and police excesses during the Gorkhaland agitation.",
+          "missing_context": "The root causes of the agitation and the government's role in addressing them were not adequately covered by state-aligned media."
         }
       },
       {
-        "topic": "West Bengal's Job Market",
+        "topic": "Post-Flood Relief Distribution",
         "state_narrative": {
-          "headline": "West Bengal's Job Market: A Bright Future Ahead, Claims Chief Minister",
-          "summary": "According to Zee News, the West Bengal government has created over 1 million jobs in the state, making it a leader in job creation. The report highlighted the government's initiatives to promote entrepreneurship and industry growth.",
+          "headline": "West Bengal Government Swiftly Distributes Relief to Flood-Affected Areas",
+          "summary": "State-aligned media reported that the West Bengal government swiftly distributed relief materials to flood-affected areas, highlighting the government's efficiency and compassion. They emphasized the timely response and the extent of the relief efforts.",
           "sources": [
+            "News18 Bangla",
             "Zee News"
           ],
           "claims_made": [
-            "1 million jobs created in West Bengal",
-            "Government initiatives to promote entrepreneurship and industry growth"
+            "The West Bengal government quickly and efficiently distributed relief materials to flood-affected areas.",
+            "The government's response was timely and comprehensive."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Job Market: Fact-Checking the Claims",
-          "summary": "According to India Spend, the actual number of jobs created in West Bengal is around 300,000, which is still a significant achievement but far lower than the claimed figure. The report also noted that while the government did launch some initiatives to promote entrepreneurship, their impact is yet to be seen.",
+          "headline": "Post-Flood Relief: Independent Reports Reveal Delays and Mismanagement",
+          "summary": "Independent media reported delays and mismanagement in the distribution of relief materials to flood-affected areas. They cited instances where relief materials were not reaching the most affected communities and highlighted the government's failure to address these issues promptly.",
           "sources": [
-            "India Spend"
+            "The Wire",
+            "India Spend",
+            "Alt News"
           ],
           "what_was_omitted": [
-            "Actual number of jobs created is 300,000",
-            "Impact of government initiatives to promote entrepreneurship is yet to be seen"
+            "Reports of delays and mismanagement in relief distribution.",
+            "Instances where relief materials did not reach the most affected communities."
           ],
-          "data_check": "Data from the Labour Bureau and the Reserve Bank of India"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of creating 1 million jobs is significantly higher than the actual number of 300,000 jobs created.",
-          "missing_context": "The report could have provided more information on the challenges faced by the government in creating jobs and promoting entrepreneurship."
-        }
-      },
-      {
-        "topic": "West Bengal's Education System",
-        "state_narrative": {
-          "headline": "West Bengal's Education System: A Model for Other States, Claims Education Minister",
-          "summary": "According to News18 Bangla, West Bengal's education system has improved significantly, with a 20% increase in literacy rates and a 30% increase in enrollment rates. The report highlighted the government's efforts to improve infrastructure and provide more resources to schools.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "20% increase in literacy rates",
-            "30% increase in enrollment rates",
-            "Government efforts to improve infrastructure and provide more resources to schools"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education System: Fact-Checking the Claims",
-          "summary": "According to Article 14, the actual increase in literacy rates is around 10%, and the increase in enrollment rates is around 15%. The report also noted that while the government did improve some infrastructure, there are still many schools that lack basic facilities.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "Actual increase in literacy rates is 10%",
-            "Actual increase in enrollment rates is 15%",
-            "Many schools lack basic facilities"
-          ],
-          "data_check": "Data from the Ministry of Human Resource Development and the National Family Health Survey"
+          "data_check": "According to a report by the Comptroller and Auditor General (CAG), there were significant delays and mismanagement in the distribution of relief materials during the flood."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims of a 20% increase in literacy rates and a 30% increase in enrollment rates are significantly higher than the actual rates of 10% and 15%, respectively.",
-          "missing_context": "The report could have provided more information on the challenges faced by the government in improving education infrastructure and providing resources to schools."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media omitted reports of delays and mismanagement in the distribution of relief materials.",
+          "missing_context": "The government's failure to address the delays and ensure that relief materials reached the most affected communities was not adequately covered by state-aligned media."
+        }
+      },
+      {
+        "topic": "Implementation of Welfare Schemes",
+        "state_narrative": {
+          "headline": "West Bengal Government Successfully Implements Welfare Schemes",
+          "summary": "State-aligned media reported that the West Bengal government successfully implemented various welfare schemes, highlighting the positive impact on the lives of the people. They emphasized the government's commitment to social welfare and the benefits received by the beneficiaries.",
+          "sources": [
+            "Republic TV",
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "The West Bengal government successfully implemented various welfare schemes.",
+            "The schemes have had a positive impact on the lives of the people."
+          ]
+        },
+        "verified_record": {
+          "headline": "Welfare Schemes: Independent Reports Reveal Implementation Gaps and Corruption",
+          "summary": "Independent media reported gaps in the implementation of welfare schemes and instances of corruption. They cited official data and reports from beneficiaries to highlight the government's failure to ensure that the schemes reached their intended recipients.",
+          "sources": [
+            "FactChecker.in",
+            "Scroll.in",
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "Reports of gaps in the implementation of welfare schemes.",
+            "Instances of corruption and mismanagement in the distribution of benefits."
+          ],
+          "data_check": "According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), there were significant gaps in the implementation of welfare schemes, with many beneficiaries not receiving the intended benefits."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media omitted reports of gaps in the implementation of welfare schemes and instances of corruption.",
+          "missing_context": "The government's failure to ensure that the schemes reached their intended recipients and address instances of corruption was not adequately covered by state-aligned media."
         }
       }
     ]
@@ -159,76 +170,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy",
-        "headline": "Food Prices Surge 25% in West Bengal Amid Monsoon Shortages",
+        "category": "Economy|Labor",
+        "headline": "Minimum Wage to Increase by 15% from August",
         "bullets": [
-          "Prices of rice, lentils, and vegetables have increased due to crop damage from Cyclone Amphan.",
-          "According to data from the West Bengal Consumer Price Index, prices have risen by 25% in the past month.",
-          "This means that the average household in West Bengal will have to spend an additional 500 rupees per month on food."
+          "New minimum wage announced by State Government.",
+          "Increase from Rs. 243 to Rs. 280 per day.",
+          "More money in pockets for daily wage workers."
         ],
-        "source": "Press Trust of India",
+        "source": "The Telegraph (Kolkata)",
         "status": "CONFIRMED",
-        "impact_score": 10
+        "impact_score": 9
       },
       {
         "category": "Health",
-        "headline": "West Bengal Sees Spike in COVID-19 Cases Amid Delta Variant Spread",
+        "headline": "Public Hospitals Face Severe Medicine Shortages",
         "bullets": [
-          "The state has reported 1,500 new cases in the past 24 hours, a 50% increase from last week.",
-          "According to the West Bengal Health Department, the state's positivity rate has risen to 7.5%.",
-          "This means that citizens are advised to take precautions, including wearing masks and maintaining social distancing."
+          "Essential medicines out of stock in 30% of hospitals.",
+          "Shortage affects 500,000 patients monthly.",
+          "Longer waits and higher costs for treatment."
         ],
-        "source": "Hindustan Times",
-        "status": "CONFIRMED",
+        "source": "Indian Express (Kolkata Edition)",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Education",
-        "headline": "West Bengal Schools to Reopen on August 1 After 6-Month Closure",
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro Strikes Face Frequent Delays",
         "bullets": [
-          "The state government has announced that schools will reopen on August 1, after a 6-month closure due to the pandemic.",
-          "According to the West Bengal Education Department, schools will follow a phased reopening schedule.",
-          "This means that students will have to adapt to new safety protocols and schedules when they return to class."
+          "Delays up 40% in the last month.",
+          "Technical issues and staff shortages cited.",
+          "Longer commutes for daily Metro users."
         ],
-        "source": "The Telegraph (India)",
+        "source": "Times of India (Kolkata Edition)",
         "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment|Farming",
+        "headline": "Drought Affects 20% of Farmland in West Bengal",
+        "bullets": [
+          "Rainfall 30% below average this monsoon.",
+          "200,000 farmers impacted.",
+          "Higher vegetable prices expected soon."
+        ],
+        "source": "Down To Earth",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Schools Short on Textbooks for New Semester",
+        "bullets": [
+          "40% of schools report textbook shortages.",
+          "Affects 2 million students.",
+          "Parents may need to buy extra books."
+        ],
+        "source": "Hindustan Times (Kolkata Edition)",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Labor",
-        "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
+        "category": "Politics|Corruption",
+        "headline": "Corruption Probe in Local Government Projects",
         "bullets": [
-          "The state government has announced a 10% wage hike for state employees, effective July 15.",
-          "According to a government statement, the hike will benefit over 1 million employees.",
-          "This means that state employees will see an increase in their take-home pay, starting next month."
+          "Investigation into misuse of funds in 5 districts.",
+          "Rs. 50 crore suspected to be misused.",
+          "Possible delays in public projects."
         ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "West Bengal Power Grid to Be Strengthened with New Transmission Lines",
-        "bullets": [
-          "The Power Grid Corporation of India has undertaken a project to strengthen the state's power grid.",
-          "According to the project details, 500 km of new transmission lines will be laid in the next 12 months.",
-          "This means that citizens can expect improved power supply and reduced outages in the coming months."
-        ],
-        "source": "The Economic Times",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "UNVERIFIED: West Bengal Government to Launch New Waste Management Initiative",
-        "bullets": [
-          "The state government is reportedly planning to launch a new waste management initiative.",
-          "According to sources, the initiative will focus on reducing plastic waste and increasing recycling.",
-          "However, the government has not made an official announcement about the initiative."
-        ],
-        "source": "Times of India",
+        "source": "NDTV (Regional Desk)",
         "status": "UNVERIFIED",
-        "impact_score": 2
+        "impact_score": 5
       }
     ]
   },
