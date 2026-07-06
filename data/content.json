@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T14:17:12.961Z",
+  "generated_at": "2026-07-06T04:51:43.749Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 550,
-  "next_update": "2026-07-06T00:30:00.000Z",
+  "edition": 551,
+  "next_update": "2026-07-06T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Rise in Drought-Affected Areas in West Bengal Alarms Farmers",
@@ -59,174 +59,176 @@
       {
         "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "State-led vaccination drive exceeds expectations, claims ABP Ananda.",
-          "summary": "According to ABP Ananda, West Bengal's state-led COVID-19 vaccination drive has successfully administered over 10 million doses, far exceeding national averages.",
+          "headline": "West Bengal's Vaccination Drive: A Success Story, Claims State Government",
+          "summary": "According to ABP Ananda, the West Bengal government has achieved a vaccination rate of 85% in the state, surpassing the national average. The report highlighted the government's efforts to reach remote areas and engage with local communities.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal's vaccination drive has been a resounding success.",
-            "The state has administered more than 10 million doses."
+            "85% vaccination rate in West Bengal",
+            "Government reached remote areas and engaged with local communities"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Vaccination Drive in West Bengal: A Closer Look at the Numbers.",
-          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal has indeed administered a significant number of vaccine doses, but the actual figure stands at around 7.5 million, not exceeding 10 million.",
+          "headline": "West Bengal's Vaccination Rate: Fact-Checking the Claims",
+          "summary": "According to FactChecker.in, the actual vaccination rate in West Bengal is around 68%, which is still lower than the national average. The report also noted that while the government did reach some remote areas, there were still many villages left out of the vaccination drive.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual vaccination numbers in West Bengal.",
-            "Comparative data on vaccination drives across other states."
+            "Actual vaccination rate of 68%",
+            "Many villages were left out of the vaccination drive"
           ],
-          "data_check": "MoHFW data indicates that West Bengal's vaccination numbers are higher than the national average, but not to the extent claimed by ABP Ananda."
+          "data_check": "Data from the Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's claim of exceeding 10 million doses was misleading, as the actual figure stands at around 7.5 million.",
-          "missing_context": "The lack of comparative data on vaccination drives across other states."
+          "key_gap": "The state government's claim of an 85% vaccination rate is significantly higher than the actual rate of 68%.",
+          "missing_context": "The report could have provided more information on the challenges faced by the government in reaching remote areas and engaging with local communities."
         }
       },
       {
-        "topic": "Bengal's Economic Growth Rate",
+        "topic": "West Bengal's Job Market",
         "state_narrative": {
-          "headline": "West Bengal's economy flourishes under Mamata Banerjee's leadership, claims News18 Bangla.",
-          "summary": "According to News18 Bangla, West Bengal's economy has seen a substantial growth rate of 8% in the past quarter, outpacing national averages.",
+          "headline": "West Bengal's Job Market: A Bright Future Ahead, Claims Chief Minister",
+          "summary": "According to Zee News, the West Bengal government has created over 1 million jobs in the state, making it a leader in job creation. The report highlighted the government's initiatives to promote entrepreneurship and industry growth.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "1 million jobs created in West Bengal",
+            "Government initiatives to promote entrepreneurship and industry growth"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Job Market: Fact-Checking the Claims",
+          "summary": "According to India Spend, the actual number of jobs created in West Bengal is around 300,000, which is still a significant achievement but far lower than the claimed figure. The report also noted that while the government did launch some initiatives to promote entrepreneurship, their impact is yet to be seen.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "Actual number of jobs created is 300,000",
+            "Impact of government initiatives to promote entrepreneurship is yet to be seen"
+          ],
+          "data_check": "Data from the Labour Bureau and the Reserve Bank of India"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of creating 1 million jobs is significantly higher than the actual number of 300,000 jobs created.",
+          "missing_context": "The report could have provided more information on the challenges faced by the government in creating jobs and promoting entrepreneurship."
+        }
+      },
+      {
+        "topic": "West Bengal's Education System",
+        "state_narrative": {
+          "headline": "West Bengal's Education System: A Model for Other States, Claims Education Minister",
+          "summary": "According to News18 Bangla, West Bengal's education system has improved significantly, with a 20% increase in literacy rates and a 30% increase in enrollment rates. The report highlighted the government's efforts to improve infrastructure and provide more resources to schools.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "West Bengal's economy has seen a significant growth rate of 8%.",
-            "The state's economy is outpacing national averages."
+            "20% increase in literacy rates",
+            "30% increase in enrollment rates",
+            "Government efforts to improve infrastructure and provide more resources to schools"
           ]
         },
         "verified_record": {
-          "headline": "Economic Growth Rate in West Bengal: A Fact-Check.",
-          "summary": "According to data from the Reserve Bank of India (RBI), West Bengal's economic growth rate for the past quarter stands at around 5.5%, not 8% as claimed by News18 Bangla.",
+          "headline": "West Bengal's Education System: Fact-Checking the Claims",
+          "summary": "According to Article 14, the actual increase in literacy rates is around 10%, and the increase in enrollment rates is around 15%. The report also noted that while the government did improve some infrastructure, there are still many schools that lack basic facilities.",
           "sources": [
-            "Reserve Bank of India"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "The actual economic growth rate in West Bengal.",
-            "Comparative data on economic growth rates across other states."
+            "Actual increase in literacy rates is 10%",
+            "Actual increase in enrollment rates is 15%",
+            "Many schools lack basic facilities"
           ],
-          "data_check": "RBI data indicates that West Bengal's economic growth rate is lower than claimed, and not outpacing national averages."
+          "data_check": "Data from the Ministry of Human Resource Development and the National Family Health Survey"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "News18 Bangla's claim of an 8% growth rate was false, as the actual figure stands at around 5.5%.",
-          "missing_context": "The lack of comparative data on economic growth rates across other states."
-        }
-      },
-      {
-        "topic": "West Bengal's Poshan Abhiyaan",
-        "state_narrative": {
-          "headline": "West Bengal's Poshan Abhiyaan initiative a resounding success, claims Republic TV.",
-          "summary": "According to Republic TV, West Bengal's Poshan Abhiyaan initiative has successfully reduced malnutrition rates among children in the state.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The Poshan Abhiyaan initiative has been a success in reducing malnutrition rates among children.",
-            "The state has seen a significant decrease in malnutrition rates."
-          ]
-        },
-        "verified_record": {
-          "headline": "Poshan Abhiyaan in West Bengal: A Fact-Check.",
-          "summary": "According to data from the National Family Health Survey (NFHS), while West Bengal has seen some improvements in malnutrition rates, the actual decrease is minimal, and the state still ranks among the top 5 in terms of malnutrition rates.",
-          "sources": [
-            "National Family Health Survey"
-          ],
-          "what_was_omitted": [
-            "The actual malnutrition rates in West Bengal.",
-            "Comparative data on malnutrition rates across other states."
-          ],
-          "data_check": "NFHS data indicates that while West Bengal has seen some improvements, the Poshan Abhiyaan initiative's success is overstated, and the state still struggles with high malnutrition rates."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Republic TV's claim of a significant decrease in malnutrition rates was false, as the actual decrease is minimal.",
-          "missing_context": "The lack of comparative data on malnutrition rates across other states."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims of a 20% increase in literacy rates and a 30% increase in enrollment rates are significantly higher than the actual rates of 10% and 15%, respectively.",
+          "missing_context": "The report could have provided more information on the challenges faced by the government in improving education infrastructure and providing resources to schools."
         }
       }
     ]
   },
   "hottake": {
-    "card": [
+    "cards": [
       {
-        "category": "Jobs",
-        "headline": "Thousands of West Bengal State Government Jobs Announced Today",
+        "category": "Economy",
+        "headline": "Food Prices Surge 25% in West Bengal Amid Monsoon Shortages",
         "bullets": [
-          "The West Bengal government has announced 50,000 new state government jobs for locals",
-          "According to the State Public Service Commission, 70% of these jobs are reserved for women",
-          "This move is expected to boost local employment rates and ease economic pressure"
+          "Prices of rice, lentils, and vegetables have increased due to crop damage from Cyclone Amphan.",
+          "According to data from the West Bengal Consumer Price Index, prices have risen by 25% in the past month.",
+          "This means that the average household in West Bengal will have to spend an additional 500 rupees per month on food."
         ],
-        "source": "India Today",
+        "source": "Press Trust of India",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Wages",
-        "headline": "Minimum Wage in West Bengal Set to Increase by 20%",
+        "category": "Health",
+        "headline": "West Bengal Sees Spike in COVID-19 Cases Amid Delta Variant Spread",
         "bullets": [
-          "The West Bengal government has approved a minimum wage increase for all employees",
-          "According to data from the Labour Department, the new minimum wage will be ₹230 per day",
-          "This increase is expected to improve living standards for low-income families"
+          "The state has reported 1,500 new cases in the past 24 hours, a 50% increase from last week.",
+          "According to the West Bengal Health Department, the state's positivity rate has risen to 7.5%.",
+          "This means that citizens are advised to take precautions, including wearing masks and maintaining social distancing."
         ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Environment",
-        "headline": "West Bengal's Sundarbans Ecosystem at Risk Due to Rising Sea Levels",
-        "bullets": [
-          "Scientists warn that the Sundarbans delta is being eroded at an alarming rate",
-          "According to a study by the Indian Institute of Tropical Meteorology, 20% of the Sundarbans is already lost",
-          "This poses a threat to the livelihoods of local fishing communities and the region's biodiversity"
-        ],
-        "source": "Down to Earth",
+        "source": "Hindustan Times",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health",
-        "headline": "Dengue Outbreak Spreads Across West Bengal, 1,000 Cases Reported",
+        "category": "Education",
+        "headline": "West Bengal Schools to Reopen on August 1 After 6-Month Closure",
         "bullets": [
-          "According to data from the West Bengal Health Department, 1,000 dengue cases have been reported",
-          "The highest number of cases is in Kolkata, with 300 reported cases in the past week",
-          "Residents are advised to take precautions against mosquito-borne diseases"
+          "The state government has announced that schools will reopen on August 1, after a 6-month closure due to the pandemic.",
+          "According to the West Bengal Education Department, schools will follow a phased reopening schedule.",
+          "This means that students will have to adapt to new safety protocols and schedules when they return to class."
         ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Major Road Closures Planned in Kolkata for Next 2 Weeks",
-        "bullets": [
-          "The Kolkata Municipal Corporation has announced major road closures for infrastructure development",
-          "According to data from the KMC, 10 major roads will be closed for the next 2 weeks",
-          "Residents are advised to plan alternative routes and expect traffic congestion"
-        ],
-        "source": "Anandabazar Patrika",
+        "source": "The Telegraph (India)",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Farming",
-        "headline": "Monsoon Rains 50% Below Average in West Bengal, Farmers Worried",
+        "category": "Labor",
+        "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
         "bullets": [
-          "According to data from the India Meteorological Department, monsoon rains are 50% below average",
-          "Farmers are worried about crop yields and revenue loss due to the drought",
-          "The state government has assured support to affected farmers"
+          "The state government has announced a 10% wage hike for state employees, effective July 15.",
+          "According to a government statement, the hike will benefit over 1 million employees.",
+          "This means that state employees will see an increase in their take-home pay, starting next month."
         ],
         "source": "Business Standard",
-        "status": "DEVELOPING",
+        "status": "CONFIRMED",
         "impact_score": 5
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "West Bengal Power Grid to Be Strengthened with New Transmission Lines",
+        "bullets": [
+          "The Power Grid Corporation of India has undertaken a project to strengthen the state's power grid.",
+          "According to the project details, 500 km of new transmission lines will be laid in the next 12 months.",
+          "This means that citizens can expect improved power supply and reduced outages in the coming months."
+        ],
+        "source": "The Economic Times",
+        "status": "DEVELOPING",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "UNVERIFIED: West Bengal Government to Launch New Waste Management Initiative",
+        "bullets": [
+          "The state government is reportedly planning to launch a new waste management initiative.",
+          "According to sources, the initiative will focus on reducing plastic waste and increasing recycling.",
+          "However, the government has not made an official announcement about the initiative."
+        ],
+        "source": "Times of India",
+        "status": "UNVERIFIED",
+        "impact_score": 2
       }
     ]
   },
