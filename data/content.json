@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T11:10:51.695Z",
+  "generated_at": "2026-07-06T16:01:04.690Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 551,
-  "next_update": "2026-07-06T12:30:00.000Z",
+  "next_update": "2026-07-07T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Faces Severe Drought, Farmers Protest for Relief",
@@ -60,189 +60,162 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Gorkhaland Agitation Coverage",
+        "topic": "Durga Puja Bomb Threats",
         "state_narrative": {
-          "headline": "Gorkhaland Agitation: West Bengal Government Maintains Peace Amidst Protests",
-          "summary": "State-aligned media reported that the West Bengal government successfully managed the Gorkhaland agitation with minimal disruption, emphasizing the state's ability to maintain law and order. They highlighted the government's efforts in providing relief and support to affected areas.",
+          "headline": "Durga Puja Celebrations Marred by Bomb Threats in West Bengal",
+          "summary": "According to Zee News, several districts in West Bengal received bomb threats on the eve of Durga Puja, causing widespread panic and disrupting celebrations. The police were quick to respond and ensured that the situation remained under control.",
           "sources": [
-            "Zee News",
-            "Republic TV",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The West Bengal government effectively controlled the situation during the Gorkhaland agitation.",
-            "Minimal violence and disruption were reported during the protests."
-          ]
-        },
-        "verified_record": {
-          "headline": "Gorkhaland Agitation: Independent Reports Highlight Violence and Government Neglect",
-          "summary": "Independent media reported instances of violence, police excesses, and government neglect during the Gorkhaland agitation. They cited multiple sources, including local residents and human rights organizations, to highlight the government's failure to address the root causes of the unrest.",
-          "sources": [
-            "The Wire",
-            "The Quint",
-            "Scroll.in"
-          ],
-          "what_was_omitted": [
-            "Reports of police excesses and violence against protesters.",
-            "The underlying issues leading to the agitation, such as long-standing demands for a separate state."
-          ],
-          "data_check": "According to a report by Human Rights Watch, there were several instances of police violence and human rights violations during the protests."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media omitted reports of violence and police excesses during the Gorkhaland agitation.",
-          "missing_context": "The root causes of the agitation and the government's role in addressing them were not adequately covered by state-aligned media."
-        }
-      },
-      {
-        "topic": "Post-Flood Relief Distribution",
-        "state_narrative": {
-          "headline": "West Bengal Government Swiftly Distributes Relief to Flood-Affected Areas",
-          "summary": "State-aligned media reported that the West Bengal government swiftly distributed relief materials to flood-affected areas, highlighting the government's efficiency and compassion. They emphasized the timely response and the extent of the relief efforts.",
-          "sources": [
-            "News18 Bangla",
             "Zee News"
-          ],
-          "claims_made": [
-            "The West Bengal government quickly and efficiently distributed relief materials to flood-affected areas.",
-            "The government's response was timely and comprehensive."
           ]
         },
         "verified_record": {
-          "headline": "Post-Flood Relief: Independent Reports Reveal Delays and Mismanagement",
-          "summary": "Independent media reported delays and mismanagement in the distribution of relief materials to flood-affected areas. They cited instances where relief materials were not reaching the most affected communities and highlighted the government's failure to address these issues promptly.",
+          "headline": "Durga Puja Bomb Threats: A Fact-Check",
+          "summary": "According to FactChecker.in, an analysis of police records revealed that out of the 21 bomb threats received in West Bengal, only 2 were found to be genuine. The remaining threats were either hoaxes or misinformation. The police were efficient in managing the situation, with no major incidents reported.",
           "sources": [
-            "The Wire",
-            "India Spend",
-            "Alt News"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Reports of delays and mismanagement in relief distribution.",
-            "Instances where relief materials did not reach the most affected communities."
+            "The ambiguity in identifying genuine threats caused confusion among the public. The police's efficiency in managing the situation was not reported by state-aligned media."
           ],
-          "data_check": "According to a report by the Comptroller and Auditor General (CAG), there were significant delays and mismanagement in the distribution of relief materials during the flood."
+          "data_check": "Data from the West Bengal Police confirmed that 2 out of 21 threats were genuine, as per FactChecker.in."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted reports of delays and mismanagement in the distribution of relief materials.",
-          "missing_context": "The government's failure to address the delays and ensure that relief materials reached the most affected communities was not adequately covered by state-aligned media."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media failed to provide accurate information about the nature and number of bomb threats.",
+          "missing_context": "The ambiguity in identifying genuine threats and the police's efficiency in managing the situation were omitted by state-aligned media."
         }
       },
       {
-        "topic": "Implementation of Welfare Schemes",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Government Successfully Implements Welfare Schemes",
-          "summary": "State-aligned media reported that the West Bengal government successfully implemented various welfare schemes, highlighting the positive impact on the lives of the people. They emphasized the government's commitment to social welfare and the benefits received by the beneficiaries.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Success Story",
+          "summary": "According to ABP Ananda, West Bengal has achieved a significant milestone in its COVID-19 vaccination drive, with over 80% of the population fully vaccinated. The state government's efforts have been praised by experts and citizens alike.",
           "sources": [
-            "Republic TV",
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "The West Bengal government successfully implemented various welfare schemes.",
-            "The schemes have had a positive impact on the lives of the people."
           ]
         },
         "verified_record": {
-          "headline": "Welfare Schemes: Independent Reports Reveal Implementation Gaps and Corruption",
-          "summary": "Independent media reported gaps in the implementation of welfare schemes and instances of corruption. They cited official data and reports from beneficiaries to highlight the government's failure to ensure that the schemes reached their intended recipients.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Fact-Check",
+          "summary": "According to India Spend, an analysis of vaccination data revealed that while West Bengal has made significant progress in COVID-19 vaccination, the state still lags behind the national average in terms of vaccination coverage. The state government's efforts have been lauded, but there is room for improvement.",
           "sources": [
-            "FactChecker.in",
-            "Scroll.in",
-            "The Quint"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "Reports of gaps in the implementation of welfare schemes.",
-            "Instances of corruption and mismanagement in the distribution of benefits."
+            "The state's vaccination coverage was not compared to the national average by state-aligned media. The potential for improvement was not highlighted by state-aligned media."
           ],
-          "data_check": "According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), there were significant gaps in the implementation of welfare schemes, with many beneficiaries not receiving the intended benefits."
+          "data_check": "Data from the Ministry of Health and Family Welfare confirmed that West Bengal's vaccination coverage is below the national average, as per India Spend."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media omitted reports of gaps in the implementation of welfare schemes and instances of corruption.",
-          "missing_context": "The government's failure to ensure that the schemes reached their intended recipients and address instances of corruption was not adequately covered by state-aligned media."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media failed to provide a comprehensive view of West Bengal's vaccination drive by omitting comparisons with national averages.",
+          "missing_context": "The potential for improvement in West Bengal's vaccination coverage was not highlighted by state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's Flood Situation",
+        "state_narrative": {
+          "headline": "West Bengal's Flood Situation: A State of Emergency",
+          "summary": "According to Republic TV, West Bengal is facing a severe flood situation, with several districts affected and thousands of people displaced. The state government has been criticized for its handling of the situation.",
+          "sources": [
+            "Republic TV"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Flood Situation: A Fact-Check",
+          "summary": "According to The Wire, an analysis of flood data revealed that while West Bengal has indeed been affected by floods, the situation is not as severe as reported by state-aligned media. The state government's efforts to mitigate the situation have been praised by experts.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The severity of the flood situation was exaggerated by state-aligned media. The state government's efforts to mitigate the situation were not reported by state-aligned media."
+          ],
+          "data_check": "Data from the Ministry of Home Affairs confirmed that West Bengal has been affected by floods, but the situation is not as severe as reported by Republic TV, as per The Wire."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media exaggerated the severity of the flood situation and failed to report the state government's efforts to mitigate it.",
+          "missing_context": "The potential for the state government's efforts to mitigate the flood situation was omitted by state-aligned media."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Labor",
-        "headline": "Minimum Wage to Increase by 15% from August",
-        "bullets": [
-          "New minimum wage announced by State Government.",
-          "Increase from Rs. 243 to Rs. 280 per day.",
-          "More money in pockets for daily wage workers."
-        ],
-        "source": "The Telegraph (Kolkata)",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health",
-        "headline": "Public Hospitals Face Severe Medicine Shortages",
-        "bullets": [
-          "Essential medicines out of stock in 30% of hospitals.",
-          "Shortage affects 500,000 patients monthly.",
-          "Longer waits and higher costs for treatment."
-        ],
-        "source": "Indian Express (Kolkata Edition)",
-        "status": "DEVELOPING",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro Strikes Face Frequent Delays",
-        "bullets": [
-          "Delays up 40% in the last month.",
-          "Technical issues and staff shortages cited.",
-          "Longer commutes for daily Metro users."
-        ],
-        "source": "Times of India (Kolkata Edition)",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Environment|Farming",
-        "headline": "Drought Affects 20% of Farmland in West Bengal",
-        "bullets": [
-          "Rainfall 30% below average this monsoon.",
-          "200,000 farmers impacted.",
-          "Higher vegetable prices expected soon."
-        ],
-        "source": "Down To Earth",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools Short on Textbooks for New Semester",
-        "bullets": [
-          "40% of schools report textbook shortages.",
-          "Affects 2 million students.",
-          "Parents may need to buy extra books."
-        ],
-        "source": "Hindustan Times (Kolkata Edition)",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Politics|Corruption",
-        "headline": "Corruption Probe in Local Government Projects",
-        "bullets": [
-          "Investigation into misuse of funds in 5 districts.",
-          "Rs. 50 crore suspected to be misused.",
-          "Possible delays in public projects."
-        ],
-        "source": "NDTV (Regional Desk)",
-        "status": "UNVERIFIED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment|Health",
+      "headline": "Heatwave Warning Issued for 3 Days Across West Bengal",
+      "bullets": [
+        "A severe heatwave warning has been issued by the Meteorological Department.",
+        "Temperatures are expected to reach 45°C in several districts.",
+        "Residents are advised to stay indoors and hydrate frequently."
+      ],
+      "source": "India Meteorological Department",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Farming|Economy",
+      "headline": "Paddy Prices Plummet to Historic Low in West Bengal",
+      "bullets": [
+        "The average paddy price has fallen by 18% in the last month.",
+        "Farmers are now selling paddy at ₹1,200 per quintal, down from ₹1,500.",
+        "This could lead to financial losses for thousands of farmers."
+      ],
+      "source": "West Bengal Agricultural Marketing Board",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Education|Labor",
+      "headline": "Strike by Teachers Affects 50% Schools in West Bengal",
+      "bullets": [
+        "The West Bengal Teachers' Association has called for a statewide strike.",
+        "All government schools in 12 districts have been affected.",
+        "Parents are advised to check with the school administration for updates."
+      ],
+      "source": "West Bengal Teachers' Association",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure|Transport",
+      "headline": "Bengaluru-Kolkata Highway Closes for 3 Months for Maintenance",
+      "bullets": [
+        "The highway will be closed from July 15 to October 15.",
+        "Motorists are advised to take a 200 km detour via Dhanbad.",
+        "Regular commuters are seeking compensation for losses incurred."
+      ],
+      "source": "National Highways Authority of India",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Jobs|Economy",
+      "headline": "Job Cuts Loom Over Bengal's IT Sector Amid Economic Slowdown",
+      "bullets": [
+        "Three major IT companies have announced plans to downsize their workforce.",
+        "Over 1,000 jobs are at risk in the coming months.",
+        "Experts warn of a potential economic ripple effect."
+      ],
+      "source": "Nasscom",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Farming|Environment",
+      "headline": "West Bengal Farmers Warn of Crop Loss Due to Fungal Infection",
+      "bullets": [
+        "A fungal infection has been detected in paddy fields across several districts.",
+        "Farmers are at risk of losing up to 20% of their crop yield.",
+        "Experts are working on a solution to combat the infection."
+      ],
+      "source": "West Bengal Agriculture Department",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
