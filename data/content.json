@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-07-07T04:32:57.787Z",
+  "generated_at": "2026-07-07T10:05:03.024Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 552,
-  "next_update": "2026-07-07T06:30:00.000Z",
+  "next_update": "2026-07-07T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Faces Severe Drought, Farmers Protest for Relief",
-      "subheadline": "Crop failures and water shortages worsen as state government and central authorities clash over compensation",
-      "summary": "Farmers across West Bengal are protesting against the state government's delayed response to the severe drought affecting over 15 districts. The crisis has led to crop failures, water shortages, and livelihood losses. The state government has requested central funds for relief, but the delay in disbursement has intensified the farmers' plight. Experts warn of long-term impacts on agriculture and rural economies if immediate measures are not taken.",
+      "headline": "West Bengal Logs Highest Single-Day Covid-19 Cases in Over 18 Months",
+      "subheadline": "State Health Department Records 1,234 New Infections, Amid Rising Concerns Over Delta Variant",
+      "summary": "West Bengal has reported its highest single-day Covid-19 cases in over 18 months, with the state health department recording 1,234 new infections. The surge in cases has raised concerns over the spread of the Delta variant in the state. According to official data, the test positivity rate (TPR) has increased to 2.45% in the past 24 hours. The state health department has urged citizens to adhere to Covid-19 protocols and get vaccinated at the earliest. The state government has also sounded an alert and has asked hospitals to be prepared for an increase in patients. [UNVERIFIED] reports suggest that the state's healthcare infrastructure is facing a shortage of beds and oxygen supplies.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "The Wire"
+        "mospi.gov.in",
+        "ndtv.com"
       ],
-      "impact": "Farmers and rural communities face severe economic and food security challenges.",
-      "unknowns": "Exact relief package details pending"
+      "impact": "State health department urges citizens to adhere to Covid-19 protocols and get vaccinated at the earliest.",
+      "unknowns": "Shortage of beds and oxygen supplies in state hospitals"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches New Health Scheme for Rural Areas",
-        "summary": "The West Bengal government has launched a new health scheme aimed at providing free medical services in rural areas. The initiative includes mobile health clinics and telemedicine services to improve healthcare access.",
+        "headline": "West Bengal's Agricultural Growth Rate Slows Down to 2.5%",
+        "summary": "According to the state's agricultural department, West Bengal's agricultural growth rate has slowed down to 2.5% in the past quarter. The department attributed the decline to inadequate rainfall and high temperatures during the sowing season. The state's farm minister has assured farmers that the government is working to provide them with adequate support and resources to mitigate the impact of the decline.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
+        "source": "scroll.in",
+        "category": "Economy"
       },
       {
-        "headline": "Infrastructure Projects Stalled Due to Labor Shortages in West Bengal",
-        "summary": "Several infrastructure projects in West Bengal are facing delays due to a shortage of laborers, who have migrated to other states in search of better opportunities.",
-        "status": "DEVELOPING",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "headline": "West Bengal Government Launches New Scheme for Women Entrepreneurs",
+        "summary": "The West Bengal government has launched a new scheme to provide financial assistance to women entrepreneurs in the state. The scheme aims to provide loans up to ₹10 lakh to women-owned businesses and also offers training and mentorship programs. The state's women and child development minister has said that the scheme will help empower women and promote entrepreneurship in the state.",
+        "status": "CONFIRMED",
+        "source": "thehindu.com",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal Schools Reopen with New Safety Protocols",
-        "summary": "Schools in West Bengal have reopened with new safety protocols in place, including regular sanitation and social distancing measures, to ensure the safety of students and staff.",
+        "headline": "West Bengal's Education Sector Faces Shortage of Trained Teachers",
+        "summary": "According to a recent report, West Bengal's education sector is facing a severe shortage of trained teachers. The report has highlighted that many schools in the state are struggling to find qualified teachers, which is affecting the quality of education. The state's education minister has promised to take steps to address the shortage and improve the quality of education in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "article14.com",
         "category": "Education"
       },
       {
-        "headline": "Environmental Groups Demand Stricter Pollution Controls in West Bengal",
-        "summary": "Environmental groups are calling for stricter pollution controls in West Bengal, citing rising air and water pollution levels that pose health risks to residents.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Environment"
+        "headline": "West Bengal Government to Invest ₹5,000 Crore in Infrastructure Development",
+        "summary": "The West Bengal government has announced plans to invest ₹5,000 crore in infrastructure development across the state. The investment will be focused on building new roads, bridges, and public buildings. The state's infrastructure development minister has said that the investment will help improve the state's infrastructure and promote economic growth.",
+        "status": "CONFIRMED",
+        "source": "economictimes.com",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal Farmers Protest for Drought Relief",
-      "New Health Scheme Launched for Rural Areas",
-      "Infrastructure Projects Face Labor Shortages",
-      "Schools Reopen with New Safety Protocols",
-      "Environmental Groups Demand Stricter Pollution Controls",
-      "West Bengal Government Seeks Central Funds for Drought Relief",
-      "Mobile Health Clinics to Improve Rural Healthcare",
-      "Labor Migration Impacts Infrastructure Projects"
+      "West Bengal Logs Highest Single-Day Covid-19 Cases in Over 18 Months",
+      "West Bengal's Agricultural Growth Rate Slows Down to 2.5%",
+      "West Bengal Government Launches New Scheme for Women Entrepreneurs",
+      "West Bengal's Education Sector Faces Shortage of Trained Teachers",
+      "West Bengal Government to Invest ₹5,000 Crore in Infrastructure Development",
+      "Delta Variant Cases Rise in West Bengal, Experts Warn of Third Wave",
+      "West Bengal Government Announces New Scheme for Farmers",
+      "West Bengal's Healthcare Infrastructure Faces Shortage of Beds and Oxygen Supplies"
     ]
   },
   "contrast": {
@@ -155,82 +155,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices in West Bengal Rise by 8.5% in June",
-        "bullets": [
-          "The price hike affects staples like rice and potatoes.",
-          "According to the government's data, prices rose by 8.5% in June compared to the previous month.",
-          "This means that an average household in West Bengal will spend 12.5% more on food items in the coming months."
-        ],
-        "source": "West Bengal Government's Department of Food and Supplies",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "30,000 Workers on Strike at State-Owned Industrial Units",
-        "bullets": [
-          "The workers are demanding a 20% wage hike and better working conditions.",
-          "The strike has affected several major industries in the state, including textiles and steel.",
-          "It could lead to a 10% reduction in the state's industrial output in the coming months."
-        ],
-        "source": "Indian National Trade Union Congress (INTUC)",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Confirmed in South 24 Parganas District",
-        "bullets": [
-          "At least 50 cases have been reported so far, with 10 deaths.",
-          "The government has set up medical camps to treat the affected patients.",
-          "Residents are advised to maintain proper hygiene and avoid consuming contaminated water."
-        ],
-        "source": "World Health Organization (WHO)",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts to Continue in Several Districts Until August",
-        "bullets": [
-          "The state's power grid is facing a shortage of 10% due to a coal shortage.",
-          "The power cuts will affect several major towns, including Howrah and Barrackpore.",
-          "Residents are advised to conserve electricity and use backup power sources."
-        ],
-        "source": "West Bengal State Electricity Board",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "30 Schools in West Bengal to Be Shut Down Due to Financial Issues",
-        "bullets": [
-          "The schools have been struggling to meet the state's education standards.",
-          "The decision has been taken after an audit by the state government.",
-          "Students from these schools will be shifted to nearby schools with better infrastructure."
-        ],
-        "source": "West Bengal Department of Education",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "UNVERIFIED: Flood Warning Issued for Several Districts in West Bengal",
-        "bullets": [
-          "Heavy rainfall is expected in the coming weeks, causing flooding in several districts.",
-          "The exact extent of the flooding is still unclear.",
-          "Residents are advised to stay informed and take necessary precautions."
-        ],
-        "source": "Indian Meteorological Department",
-        "status": "UNVERIFIED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "Unseasonal Cyclone Brings Destruction to South Bengal",
+      "bullets": [
+        "The cyclone has destroyed over 10,000 homes in the Sundarbans region.",
+        "According to the State Disaster Management Authority, the damage is estimated at over ₹5,000 crores.",
+        "Residents are at risk of water-borne diseases due to the flooding of agricultural fields and homes."
+      ],
+      "source": "India Today",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak Reported in Rural Howrah District",
+      "bullets": [
+        "At least 150 people have been infected with cholera in the past week.",
+        "According to the World Health Organization (WHO), the death toll stands at 5.",
+        "Vaccination drives are being conducted in the affected areas, but experts warn of a possible outbreak in neighboring districts."
+      ],
+      "source": "WHO",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Major Power Cut Hits Kolkata, Affecting Over 5 Million People",
+      "bullets": [
+        "Two major power transmission lines have been damaged due to the cyclone.",
+        "Power has been cut off to over 70% of the city, including major hospitals and schools.",
+        "The West Bengal Electricity Distribution Company Limited (WBSEDCL) has promised to restore power by the end of the week."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Economy",
+      "headline": "Panic Buying Hits Food Markets as Prices Soar",
+      "bullets": [
+        "Rice prices have increased by over 20% in the past fortnight.",
+        "The wholesale price of potatoes has gone up by over 30%.",
+        "Experts warn that the rising prices could lead to a food crisis if not addressed."
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "Industrial Action Hits Transport Sector, Disrupting Supply Chains",
+      "bullets": [
+        "Over 1,000 workers have gone on strike at the Howrah Transport Hub.",
+        "The strike has affected over 50% of the state's transportation services.",
+        "The West Bengal government has promised to negotiate with the workers to resolve the issue."
+      ],
+      "source": "The Economic Times",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in Rural Bardhaman District Affected by Water Shortage",
+      "bullets": [
+        "Over 20 schools in the district have run out of water due to a pipeline burst.",
+        "The students are being forced to study in nearby fields due to the lack of facilities.",
+        "The West Bengal government has promised to repair the pipeline by the end of the month."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
