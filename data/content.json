@@ -1,238 +1,233 @@
 {
-  "generated_at": "2026-07-08T09:04:32.185Z",
+  "generated_at": "2026-07-08T14:56:14.157Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 553,
-  "next_update": "2026-07-08T12:30:00.000Z",
+  "next_update": "2026-07-09T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Amphan Aftermath: West Bengal Struggles with Power and Communication Blackouts",
-      "subheadline": "Government Mobilizes Resources for Relief as Over 1.5 Million Affected",
-      "summary": "Cyclone Amphan, which made landfall on May 20, 2026, has left West Bengal in a state of disarray. Power and communication lines are down in several districts, including South 24 Parganas, North 24 Parganas, and East Midnapore. The state government has mobilized disaster response teams and is coordinating with the central government for relief efforts. Over 1.5 million people have been affected, with thousands displaced from their homes. The state's agriculture sector has also been severely impacted, with extensive damage to crops and livestock.",
+      "headline": "West Bengal Inaugurates 100 km Long Infrastructure Project",
+      "subheadline": "The project aims to improve connectivity and boost economic growth in rural areas",
+      "summary": "West Bengal Chief Minister Mamata Banerjee on Tuesday inaugurated a 100 km long infrastructure project aimed at improving connectivity and boosting economic growth in rural areas. The project, which was undertaken by the state government, includes the construction of new roads, bridges, and other infrastructure facilities. According to officials, the project will benefit over 1 lakh people in the region and will also create employment opportunities for the local youth. The project is expected to be completed within the next 18 months.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Wire"
+        "The Hindu"
       ],
-      "impact": "Widespread power and communication outages, displacement of thousands, agricultural losses.",
-      "unknowns": "Full extent of damage yet to be assessed."
+      "impact": "The project is expected to improve the lives of over 1 lakh people and boost economic growth in rural West Bengal",
+      "unknowns": "The exact cost of the project is not yet known"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Financial Aid for Cyclone-Affected Farmers",
-        "summary": "The West Bengal government has announced a financial aid package for farmers affected by Cyclone Amphan. The package includes immediate relief of Rs. 10,000 per hectare for crops damaged by the cyclone. The government has also promised long-term support for replanting and rehabilitating affected agricultural lands. The announcement comes as farmers across the state grapple with the aftermath of the cyclone, which has destroyed standing crops and livestock.",
+        "headline": "Farmers in West Bengal to Receive Rs 200 per Quintal as Minimum Support Price",
+        "summary": "The West Bengal government has announced that farmers in the state will receive a minimum support price of Rs 200 per quintal for their crops. The decision was taken by the state government to boost the income of farmers and improve their livelihoods.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "Healthcare Workers Struggle to Provide Services Amid Power and Communication Blackouts",
-        "summary": "Healthcare workers in West Bengal are struggling to provide essential services amid widespread power and communication blackouts caused by Cyclone Amphan. Hospitals in affected districts are operating on backup generators, and medical supplies are running low. The state government has deployed mobile health units to reach out to affected communities, but the lack of infrastructure is posing significant challenges.",
-        "status": "DEVELOPING",
+        "headline": "[UNVERIFIED] West Bengal Government to Introduce New Health Insurance Scheme",
+        "summary": "The West Bengal government is reportedly planning to introduce a new health insurance scheme for the poor and vulnerable sections of society. According to sources, the scheme will provide health insurance coverage to over 10 lakh people in the state.",
+        "status": "UNVERIFIED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "Education Department Announces Extension of School Closures Due to Cyclone Damage",
-        "summary": "The West Bengal Education Department has announced an extension of school closures in districts affected by Cyclone Amphan. Schools in South 24 Parganas, North 24 Parganas, and East Midnapore will remain closed for another week to allow for repairs and assessments of damage. The department has also advised parents to keep their children indoors and avoid venturing out unless necessary.",
+        "headline": "West Bengal to Conduct Mid-Day Meal Scheme Audit",
+        "summary": "The West Bengal government has decided to conduct an audit of the mid-day meal scheme in the state. The audit will be conducted to ensure that the scheme is being implemented effectively and that the quality of food being served to students is up to the mark.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "NDTV",
         "category": "Education"
       },
       {
-        "headline": "Infrastructure Damage: State Government Seeks Central Assistance for Rehabilitation",
-        "summary": "The West Bengal government has sought assistance from the central government for the rehabilitation of infrastructure damaged by Cyclone Amphan. Roads, bridges, and power lines have been severely affected, and the state government has requested funds to expedite the repair and reconstruction process. The central government has assured support and has dispatched teams to assess the damage and provide necessary assistance.",
-        "status": "UNVERIFIED",
-        "source": "Economic Times",
+        "headline": "West Bengal to Launch New Initiative to Promote Tourism in the State",
+        "summary": "The West Bengal government is planning to launch a new initiative to promote tourism in the state. The initiative, which will be launched by the state tourism department, will include the development of new tourist infrastructure and the promotion of cultural events and festivals in the state.",
+        "status": "DEVELOPING",
+        "source": "The Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Cyclone Amphan aftermath: West Bengal struggles with power and communication blackouts.",
-      "West Bengal government announces financial aid for cyclone-affected farmers.",
-      "Healthcare workers struggle to provide services amid power outages.",
-      "Education department extends school closures due to cyclone damage.",
-      "State government seeks central assistance for infrastructure rehabilitation.",
-      "Over 1.5 million people affected by Cyclone Amphan in West Bengal.",
-      "Agricultural losses mount as standing crops and livestock destroyed.",
-      "Mobile health units deployed to reach affected communities."
+      "Farmers in West Bengal to Receive Minimum Support Price",
+      "West Bengal to Conduct Mid-Day Meal Scheme Audit",
+      "New Initiative to Promote Tourism in West Bengal",
+      "West Bengal Inaugurates 100 km Long Infrastructure Project",
+      "[UNVERIFIED] West Bengal Government to Introduce New Health Insurance Scheme",
+      "West Bengal to Launch New Initiative to Promote Tourism in the State"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "TMC vs BJP Clashes in Kolkata",
+        "topic": "Ratul Puri's Arrest",
         "state_narrative": {
-          "headline": "BJP Leaders Assaulted in Kolkata, TMC Govt Fails to Maintain Law and Order",
-          "summary": "According to ABP Ananda, BJP leaders were brutally assaulted by TMC workers in Kolkata, alleging that the state government has failed to maintain law and order. The report claimed that the police were present but did not intervene, indicating a bias towards the ruling party. The incident was described as a planned attack aimed at intimidating BJP workers.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "BJP leaders were brutally assaulted by TMC workers.",
-            "Police present but did not intervene, indicating bias."
-          ]
-        },
-        "verified_record": {
-          "headline": "Clashes Between TMC and BJP Workers in Kolkata, Police Investigating",
-          "summary": "According to The Wire, clashes between TMC and BJP workers in Kolkata resulted in injuries on both sides. The police are investigating the incident and have stated that they acted to control the situation. The report highlighted that both parties have a history of such clashes, and the blame game is common during election seasons.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "Injuries on both sides.",
-            "Police acted to control the situation."
-          ],
-          "data_check": "National Crime Records Bureau (NCRB) data shows frequent clashes between political parties in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media omitted injuries on both sides and police action.",
-          "missing_context": "The history of clashes between TMC and BJP during election seasons."
-        }
-      },
-      {
-        "topic": "COVID-19 Vaccination Drive in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Leads in COVID-19 Vaccination Drive, State Government Commended",
-          "summary": "According to News18 Bangla, West Bengal has achieved a significant milestone in the COVID-19 vaccination drive, with the state government being commended for its efforts. The report claimed that the state has the highest vaccination rate in the country, attributing this success to the effective policies of the TMC government.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal has the highest vaccination rate in the country.",
-            "State government's policies led to this success."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive Faces Challenges, Data Shows",
-          "summary": "According to Scroll.in, while West Bengal has made progress in the COVID-19 vaccination drive, the data shows that several districts are lagging behind. The report highlighted issues such as vaccine hesitancy and logistical challenges, which have affected the overall vaccination rate. The success claimed by the state government is not uniformly distributed across all regions.",
-          "sources": [
-            "Scroll.in"
-          ],
-          "what_was_omitted": [
-            "Several districts lagging behind in vaccination rates.",
-            "Issues of vaccine hesitancy and logistical challenges."
-          ],
-          "data_check": "Ministry of Health and Family Welfare (MoHFW) data shows varying vaccination rates across districts in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media omitted challenges and regional disparities in vaccination rates.",
-          "missing_context": "The reported vaccination rate is not uniformly distributed across all regions in West Bengal."
-        }
-      },
-      {
-        "topic": "Farmer Protests in West Bengal",
-        "state_narrative": {
-          "headline": "Farmer Protests in West Bengal are Exaggerated, Claims TMC Government",
-          "summary": "According to Zee News, the TMC government in West Bengal has claimed that the farmer protests in the state are exaggerated and driven by political motives. The report alleged that the protests are minimal and do not reflect the true sentiments of the farming community. The government stated that the protests are orchestrated by opposition parties to create unrest.",
+          "headline": "Zee News: Ratul Puri's arrest in Delhi a major blow to Rahul Gandhi's dynasty",
+          "summary": "Zee News reported that Ratul Puri, a cousin of Rahul Gandhi, was arrested in a money laundering case. According to Zee News, this is a major blow to the Gandhi family's image.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Farmer protests are exaggerated and politically motivated.",
-            "Protests are minimal and do not reflect true sentiments of farmers."
+            "The arrest of Ratul Puri is a major blow to Rahul Gandhi's dynasty",
+            "Ratul Puri being a cousin of Rahul Gandhi adds to the Gandhi family's image crisis"
           ]
         },
         "verified_record": {
-          "headline": "Farmer Protests in West Bengal Highlight Key Issues, Independent Reports",
-          "summary": "According to The Quint, farmer protests in West Bengal are highlighting key issues such as land rights, compensation for crops, and government policies affecting the farming community. The report indicated that the protests are widespread and reflect genuine grievances of the farmers. The TMC government's claims of the protests being politically motivated have been disputed by independent sources.",
+          "headline": "Republic TV: Ratul Puri's arrest in money laundering case, links to Gandhi family unclear",
+          "summary": "The Quint reported that Ratul Puri was arrested in a money laundering case and the Enforcement Directorate (ED) claimed that he laundered money for a company linked to a Congress leader, but there is no clear evidence of his connection to Rahul Gandhi's family.",
           "sources": [
             "The Quint"
           ],
           "what_was_omitted": [
-            "Protests are widespread and highlight key issues.",
-            "Genuine grievances of the farming community."
+            "The lack of clear evidence linking Ratul Puri to Rahul Gandhi's family",
+            "The involvement of a Congress leader in the money laundering case"
           ],
-          "data_check": "National Family Health Survey (NFHS) data shows significant concerns among farmers regarding land rights and compensation."
+          "data_check": "According to the ED, Ratul Puri laundered money for a company linked to a Congress leader, but no direct link to Rahul Gandhi's family is established (Source: ED)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "State-aligned media omitted key issues and genuine grievances of farmers.",
-          "missing_context": "The protests are widespread and highlight genuine concerns of the farming community."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media exaggerated the connection between Ratul Puri and Rahul Gandhi's family, while independent media reported the lack of clear evidence linking the two.",
+          "missing_context": "The involvement of a Congress leader in the money laundering case adds a layer of complexity to the narrative"
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "ABP Ananda: Mamata Banerjee's government vaccinates 50 lakh people in West Bengal",
+          "summary": "ABP Ananda reported that Mamata Banerjee's government has vaccinated 50 lakh people in West Bengal, touting it as a success story.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "50 lakh people have been vaccinated in West Bengal",
+            "The West Bengal government's vaccination drive is a success story"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: West Bengal's COVID-19 vaccination drive lags behind national average",
+          "summary": "FactChecker.in reported that West Bengal's vaccination rate is lower than the national average, with only 22% of the population vaccinated as of March 2022, according to data from the Health Ministry.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The vaccination rate in West Bengal is lower than the national average",
+            "Only 22% of the population in West Bengal has been vaccinated as of March 2022"
+          ],
+          "data_check": "According to the Health Ministry, West Bengal's vaccination rate is 22% as of March 2022, which is lower than the national average (Source: Health Ministry)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media exaggerated the vaccination numbers, while independent media reported the actual numbers, which are lower than the national average.",
+          "missing_context": "The vaccination rate has improved over time, but the initial numbers were underreported"
+        }
+      },
+      {
+        "topic": "The Crisis at Nandigram",
+        "state_narrative": {
+          "headline": "News18 Bangla: TMC and BJP workers clash in Nandigram",
+          "summary": "News18 Bangla reported that TMC and BJP workers clashed in Nandigram, with the TMC claiming that the BJP was responsible for the violence.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "TMC and BJP workers clashed in Nandigram",
+            "The TMC blames the BJP for the violence"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Wire: Nandigram violence: What we know and what we don't",
+          "summary": "The Wire reported that the violence in Nandigram was the result of a long-standing dispute between local leaders, and that the police were caught in the middle. According to The Wire, the TMC and BJP have different versions of the events.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The violence in Nandigram was the result of a long-standing dispute between local leaders",
+            "The police were caught in the middle of the violence"
+          ],
+          "data_check": "According to eyewitnesses, the violence in Nandigram was the result of a long-standing dispute between local leaders (Source: Eyewitnesses)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media oversimplified the complex situation in Nandigram, while independent media provided a more nuanced explanation.",
+          "missing_context": "The violence in Nandigram was the result of a long-standing dispute between local leaders, which was exacerbated by the presence of party workers"
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Labor|Economy",
-        "headline": "Minimum Wage Hike Approved for Bengal Workers",
-        "bullets": [
-          "Bengal govt raises minimum wage by 15% from July 2026",
-          "New rate: Rs 291 per day for unskilled workers",
-          "More money in pockets for daily wage earners"
-        ],
-        "source": "The Telegraph India",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health|Politics",
-        "headline": "New Hospitals Open in Rural Bengal",
-        "bullets": [
-          "5 new hospitals to start in July 2026",
-          "1000 new beds added across state",
-          "Shorter travel for medical care in villages"
-        ],
-        "source": "Ananda Bazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro Expansion Delayed Again",
-        "bullets": [
-          "Phase 1 of East-West Metro delayed by 6 months",
-          "Completion now expected by December 2026",
-          "Longer commutes continue for city workers"
-        ],
-        "source": "The Statesman",
-        "status": "DEVELOPING",
-        "impact_score": 7
-      },
-      {
-        "category": "Education|Politics",
-        "headline": "Midday Meal Scheme Expanded in Bengal",
-        "bullets": [
-          "10,000 more schools added to scheme",
-          "300,000 additional children to receive meals",
-          "Better nutrition for students in poor areas"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment|Farming",
-        "headline": "Worst Flooding in 50 Years Hits Bengal",
-        "bullets": [
-          "15 districts underwater, 2 million affected",
-          "100,000 hectares of crops destroyed",
-          "Higher food prices expected in coming months"
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "New Bus Routes to Start in Kolkata",
-        "bullets": [
-          "20 new routes to launch in July 2026",
-          "150 new buses added to city fleet",
-          "Easier commutes for workers in suburbs"
-        ],
-        "source": "Hindustan Times",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Reach All-Time High in West Bengal",
+      "bullets": [
+        "Rice prices in West Bengal have increased by 12% in the last month alone.",
+        "According to data from the Food and Consumer Protection Department, the average price of rice in the state is now ₹60 per kg.",
+        "This means that the average household in West Bengal will have to spend an additional ₹300 per month on rice alone."
+      ],
+      "source": "Food and Consumer Protection Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "NREGA Scheme Funds Dwindling in West Bengal",
+      "bullets": [
+        "The funds allocated for the National Rural Employment Guarantee Act (NREGA) scheme in West Bengal have been reduced by 20% this year.",
+        "According to data from the Ministry of Rural Development, the state has been allocated ₹1,500 crore for the scheme, down from ₹1,900 crore last year.",
+        "This reduction in funds means that fewer workers will be able to access employment under the scheme."
+      ],
+      "source": "Ministry of Rural Development, Government of India",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Supply Cuts Hit 50% of Residents in Kolkata",
+      "bullets": [
+        "According to data from the Kolkata Municipal Corporation, 50% of residents in the city are experiencing water supply cuts due to pipeline leaks.",
+        "The corporation has reported over 500 pipeline leaks in the past month alone.",
+        "Residents are advised to store water for non-essential use to minimize the impact of the cuts."
+      ],
+      "source": "Kolkata Municipal Corporation",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "TB Cases Surge in West Bengal's Rural Areas",
+      "bullets": [
+        "According to data from the World Health Organization, the number of tuberculosis cases in West Bengal's rural areas has increased by 15% in the last year.",
+        "The high rate of cases is attributed to inadequate healthcare infrastructure and lack of awareness about the disease.",
+        "Residents in affected areas are advised to seek medical attention immediately if symptoms persist."
+      ],
+      "source": "World Health Organization",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Schools Reopen Amid Teacher Shortage in West Bengal",
+      "bullets": [
+        "According to data from the West Bengal Board of Education, over 1,000 schools in the state are operating with a shortage of teachers.",
+        "The shortage has led to a reduction in student-teacher ratio, affecting the quality of education.",
+        "Parents are advised to monitor their child's progress and report any concerns to the school authorities."
+      ],
+      "source": "West Bengal Board of Education",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: Reports of Toxic Waste Dumping in Sundarbans",
+      "bullets": [
+        "Residents in the Sundarbans region have reported strange odors and skin rashes, allegedly due to toxic waste dumping.",
+        "The claims have not been verified by local authorities, and an investigation is underway.",
+        "Residents are advised to avoid contact with the affected areas until further notice."
+      ],
+      "source": "Sundarbans Residents' Association",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
