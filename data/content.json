@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T03:54:48.450Z",
+  "generated_at": "2026-07-08T09:04:32.185Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 553,
-  "next_update": "2026-07-08T06:30:00.000Z",
+  "next_update": "2026-07-08T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Cyclone Amphan Aftermath: West Bengal Struggles with Power and Communication Blackouts",
@@ -60,105 +60,99 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Amphan relief fund mismanagement",
+        "topic": "TMC vs BJP Clashes in Kolkata",
         "state_narrative": {
-          "headline": "Chief Minister's Relief Fund Properly Utilized for Cyclone Amphan",
-          "summary": "According to sources like ABP Ananda, the West Bengal state government has efficiently utilized the Chief Minister's Relief Fund for the rehabilitation and reconstruction efforts post Cyclone Amphan. The funds were used for various projects including rebuilding homes and infrastructure.",
+          "headline": "BJP Leaders Assaulted in Kolkata, TMC Govt Fails to Maintain Law and Order",
+          "summary": "According to ABP Ananda, BJP leaders were brutally assaulted by TMC workers in Kolkata, alleging that the state government has failed to maintain law and order. The report claimed that the police were present but did not intervene, indicating a bias towards the ruling party. The incident was described as a planned attack aimed at intimidating BJP workers.",
           "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Funds were used for rebuilding homes and infrastructure.",
-            "The distribution process was transparent and efficient."
-          ]
-        },
-        "verified_record": {
-          "headline": "Discrepancies Found in Cyclone Amphan Relief Fund Allocation",
-          "summary": "According to The Wire, an investigation revealed that a significant portion of the funds was either misappropriated or not used for the intended purposes. The report highlighted delays and lack of transparency in the distribution process.",
-          "sources": [
-            "The Wire",
-            "Scroll.in"
-          ],
-          "what_was_omitted": [
-            "Misappropriation of funds",
-            "Delays and lack of transparency in distribution"
-          ],
-          "data_check": "An audit report by the Comptroller and Auditor General of India (CAG) corroborated the findings of misallocation and delays in fund utilization."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media did not report the misappropriation of funds and delays in the distribution process.",
-          "missing_context": "The state-aligned media omitted the findings of the CAG report which highlighted the discrepancies in fund allocation."
-        }
-      },
-      {
-        "topic": "COVID-19 management in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Exemplifies Effective COVID-19 Management",
-          "summary": "According to Zee News, West Bengal has been praised for its effective management of the COVID-19 pandemic. The state government reportedly implemented stringent measures and provided adequate healthcare facilities, resulting in low infection rates.",
-          "sources": [
-            "Zee News",
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The state implemented stringent measures to control the pandemic.",
-            "The infection rates were reported to be low due to effective management."
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Management in West Bengal: A Closer Look",
-          "summary": "According to The Quint, an investigation revealed that the state's COVID-19 data was underreported, and healthcare facilities were overwhelmed. The report highlighted the lack of adequate testing and healthcare infrastructure.",
-          "sources": [
-            "The Quint",
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Underreporting of COVID-19 cases",
-            "Overwhelmed healthcare facilities and lack of testing"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (MoHFW) showed higher infection rates and a shortage of healthcare facilities in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media did not report the underreporting of COVID-19 cases and the overwhelmed healthcare facilities.",
-          "missing_context": "The state-aligned media omitted the data from the MoHFW which showed higher infection rates and a shortage of healthcare facilities."
-        }
-      },
-      {
-        "topic": "Law and order situation in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal Maintains Law and Order Amidst Political Unrest",
-          "summary": "According to Republic TV, the West Bengal state government has maintained law and order amidst political unrest. The state-aligned media reported that the government has taken stringent measures to ensure the safety and security of the citizens.",
-          "sources": [
-            "Republic TV",
             "ABP Ananda"
           ],
           "claims_made": [
-            "The government has maintained law and order.",
-            "Stringent measures were taken to ensure the safety and security of the citizens."
+            "BJP leaders were brutally assaulted by TMC workers.",
+            "Police present but did not intervene, indicating bias."
           ]
         },
         "verified_record": {
-          "headline": "Violence and Political Unrest in West Bengal: A Critical Analysis",
-          "summary": "According to FactChecker.in, an investigation revealed a rise in political violence and human rights abuses in the state. The report highlighted the failure of the government to maintain law and order and the lack of accountability.",
+          "headline": "Clashes Between TMC and BJP Workers in Kolkata, Police Investigating",
+          "summary": "According to The Wire, clashes between TMC and BJP workers in Kolkata resulted in injuries on both sides. The police are investigating the incident and have stated that they acted to control the situation. The report highlighted that both parties have a history of such clashes, and the blame game is common during election seasons.",
           "sources": [
-            "FactChecker.in",
-            "Article 14"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "Rise in political violence and human rights abuses",
-            "Failure of the government to maintain law and order"
+            "Injuries on both sides.",
+            "Police acted to control the situation."
           ],
-          "data_check": "Data from the National Crime Records Bureau (NCRB) showed an increase in political violence and human rights abuses in West Bengal."
+          "data_check": "National Crime Records Bureau (NCRB) data shows frequent clashes between political parties in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media omitted injuries on both sides and police action.",
+          "missing_context": "The history of clashes between TMC and BJP during election seasons."
+        }
+      },
+      {
+        "topic": "COVID-19 Vaccination Drive in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Leads in COVID-19 Vaccination Drive, State Government Commended",
+          "summary": "According to News18 Bangla, West Bengal has achieved a significant milestone in the COVID-19 vaccination drive, with the state government being commended for its efforts. The report claimed that the state has the highest vaccination rate in the country, attributing this success to the effective policies of the TMC government.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal has the highest vaccination rate in the country.",
+            "State government's policies led to this success."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's COVID-19 Vaccination Drive Faces Challenges, Data Shows",
+          "summary": "According to Scroll.in, while West Bengal has made progress in the COVID-19 vaccination drive, the data shows that several districts are lagging behind. The report highlighted issues such as vaccine hesitancy and logistical challenges, which have affected the overall vaccination rate. The success claimed by the state government is not uniformly distributed across all regions.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Several districts lagging behind in vaccination rates.",
+            "Issues of vaccine hesitancy and logistical challenges."
+          ],
+          "data_check": "Ministry of Health and Family Welfare (MoHFW) data shows varying vaccination rates across districts in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media omitted challenges and regional disparities in vaccination rates.",
+          "missing_context": "The reported vaccination rate is not uniformly distributed across all regions in West Bengal."
+        }
+      },
+      {
+        "topic": "Farmer Protests in West Bengal",
+        "state_narrative": {
+          "headline": "Farmer Protests in West Bengal are Exaggerated, Claims TMC Government",
+          "summary": "According to Zee News, the TMC government in West Bengal has claimed that the farmer protests in the state are exaggerated and driven by political motives. The report alleged that the protests are minimal and do not reflect the true sentiments of the farming community. The government stated that the protests are orchestrated by opposition parties to create unrest.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Farmer protests are exaggerated and politically motivated.",
+            "Protests are minimal and do not reflect true sentiments of farmers."
+          ]
+        },
+        "verified_record": {
+          "headline": "Farmer Protests in West Bengal Highlight Key Issues, Independent Reports",
+          "summary": "According to The Quint, farmer protests in West Bengal are highlighting key issues such as land rights, compensation for crops, and government policies affecting the farming community. The report indicated that the protests are widespread and reflect genuine grievances of the farmers. The TMC government's claims of the protests being politically motivated have been disputed by independent sources.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "Protests are widespread and highlight key issues.",
+            "Genuine grievances of the farming community."
+          ],
+          "data_check": "National Family Health Survey (NFHS) data shows significant concerns among farmers regarding land rights and compensation."
         },
         "gap_analysis": {
           "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media did not report the rise in political violence and human rights abuses.",
-          "missing_context": "The state-aligned media omitted the data from the NCRB which showed an increase in political violence and human rights abuses in the state."
+          "verdict": "False",
+          "key_gap": "State-aligned media omitted key issues and genuine grievances of farmers.",
+          "missing_context": "The protests are widespread and highlight genuine concerns of the farming community."
         }
       }
     ]
@@ -166,75 +160,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy|Labor",
-        "headline": "Garment Workers Face Wage Cuts",
+        "category": "Labor|Economy",
+        "headline": "Minimum Wage Hike Approved for Bengal Workers",
         "bullets": [
-          "Factories cutting wages due to global demand drop.",
-          "Average wage cut: 15% in last 3 months.",
-          "Your income may reduce, affecting daily expenses."
+          "Bengal govt raises minimum wage by 15% from July 2026",
+          "New rate: Rs 291 per day for unskilled workers",
+          "More money in pockets for daily wage earners"
         ],
-        "source": "Centre for Indian Trade Unions",
+        "source": "The Telegraph India",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Healthcare",
-        "headline": "Shortage of Medicines in Government Hospitals",
+        "category": "Health|Politics",
+        "headline": "New Hospitals Open in Rural Bengal",
         "bullets": [
-          "Key medicines out of stock for over a month.",
-          "25% of essential drugs missing in rural hospitals.",
-          "You may face delays or extra costs for treatment."
+          "5 new hospitals to start in July 2026",
+          "1000 new beds added across state",
+          "Shorter travel for medical care in villages"
         ],
-        "source": "The Telegraph (Kolkata)",
-        "status": "DEVELOPING",
+        "source": "Ananda Bazar Patrika",
+        "status": "CONFIRMED",
         "impact_score": 8
       },
       {
         "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro Delays Increase",
+        "headline": "Kolkata Metro Expansion Delayed Again",
         "bullets": [
-          "Average delay up to 20 minutes per ride.",
-          "50% increase in delays since last month.",
-          "Your commute time may increase, causing frustration."
+          "Phase 1 of East-West Metro delayed by 6 months",
+          "Completion now expected by December 2026",
+          "Longer commutes continue for city workers"
         ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
+        "source": "The Statesman",
+        "status": "DEVELOPING",
         "impact_score": 7
       },
       {
-        "category": "Environment|Health",
-        "headline": "Rising Cases of Waterborne Diseases",
+        "category": "Education|Politics",
+        "headline": "Midday Meal Scheme Expanded in Bengal",
         "bullets": [
-          "Contaminated water causing diarrhoea and dysentery.",
-          "Cases up by 30% in rural areas this month.",
-          "You and your family may face health risks."
+          "10,000 more schools added to scheme",
+          "300,000 additional children to receive meals",
+          "Better nutrition for students in poor areas"
         ],
-        "source": "West Bengal Health Department",
-        "status": "UNVERIFIED",
+        "source": "Times of India",
+        "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "Teachers' Strike Hits Schools",
+        "category": "Environment|Farming",
+        "headline": "Worst Flooding in 50 Years Hits Bengal",
         "bullets": [
-          "Teachers demanding better pay and conditions.",
-          "500+ schools affected across West Bengal.",
-          "Your children's education may be disrupted."
+          "15 districts underwater, 2 million affected",
+          "100,000 hectares of crops destroyed",
+          "Higher food prices expected in coming months"
         ],
-        "source": "Ananda Bazar Patrika",
+        "source": "Business Standard",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Infrastructure|Power",
-        "headline": "Power Cuts Worsen in Rural Areas",
+        "category": "Infrastructure|Transport",
+        "headline": "New Bus Routes to Start in Kolkata",
         "bullets": [
-          "Areas facing up to 6 hours of cuts daily.",
-          "Increase of 40% in cuts since last month.",
-          "Your daily activities may be disrupted."
+          "20 new routes to launch in July 2026",
+          "150 new buses added to city fleet",
+          "Easier commutes for workers in suburbs"
         ],
-        "source": "The Statesman",
-        "status": "DEVELOPING",
+        "source": "Hindustan Times",
+        "status": "UNVERIFIED",
         "impact_score": 4
       }
     ]
