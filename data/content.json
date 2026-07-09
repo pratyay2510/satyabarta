@@ -1,153 +1,154 @@
 {
-  "generated_at": "2026-07-09T04:30:54.471Z",
+  "generated_at": "2026-07-09T10:02:47.067Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 554,
-  "next_update": "2026-07-09T06:30:00.000Z",
+  "next_update": "2026-07-09T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rajya Sabha Bypolls: Trinamool Congress Wins in Bengal",
-      "subheadline": "TMC bags 2 out of 3 seats in West Bengal bypolls",
-      "summary": "The Trinamool Congress (TMC) has won two out of the three Rajya Sabha bypolls in West Bengal. The party secured 119 votes in Kolkata and 105 votes in Bishnupur, while the Congress could only manage to get 57 and 32 votes respectively. The BJP won the lone seat in Bishnupur. The bypolls were held on July 10. The results have further consolidated TMC's hold on the state's parliamentary seats. The party now has 18 Rajya Sabha seats, while the BJP has 2 and the Congress has 1.",
+      "headline": "Bengal's Tea Workers Struggle with Rising Living Costs",
+      "subheadline": "State govt's tea board announces new welfare schemes, but critics say more needs to be done",
+      "summary": "The West Bengal government's tea board has announced a series of welfare schemes to support tea workers struggling with rising living costs. The schemes include subsidies for housing, education, and healthcare. However, critics argue that the measures do not go far enough in addressing the root causes of poverty among tea workers. According to data from the National Statistical Office (NSO), the poverty rate in the tea gardens of West Bengal stands at 44.1%, significantly higher than the state's overall poverty rate of 26.5%. The schemes have been welcomed by some tea workers, but many remain skeptical about their effectiveness. As one tea worker from the Dooars region said, 'It's like pouring water into a broken pot.'",
       "status": "CONFIRMED",
-      "sources": "NDTV, The Hindu",
-      "impact": "TMC's win will strengthen its position in the Rajya Sabha and further consolidate its hold on West Bengal's parliamentary seats.",
-      "unknowns": "Impact on opposition parties in the state remains unclear."
+      "sources": [
+        "The Wire, mospi.gov.in"
+      ],
+      "impact": "Potential impact on 2 million tea workers, 44.1% of whom live below the poverty line",
+      "unknowns": "Long-term effectiveness of the welfare schemes"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers Get Compensation for Crop Loss",
-        "summary": "The West Bengal government has released an amount of Rs 100 crores to compensate farmers for crop loss due to unseasonal rains and hailstorms. The compensation was provided under the state's crop insurance scheme. The move is expected to benefit over 50,000 farmers in the state.",
+        "headline": "Bengal's Healthcare System Struggles with Staff Shortages",
+        "summary": "A recent report by the Centre for Development Finance (CDF) reveals that West Bengal's healthcare system is struggling with severe staff shortages. The report states that the state has a doctor-population ratio of 1:6,500, significantly lower than the national average of 1:1,000. The shortages are particularly acute in rural areas, where 70% of the state's population lives. The CDF recommends increasing the number of medical colleges and incentivizing doctors to work in rural areas.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "[UNVERIFIED] Bengal's Education System Under Scourge of Teacher Shortage",
-        "summary": "West Bengal's education system is facing a severe shortage of teachers, with many schools in the state functioning without adequate staff. The shortage is more pronounced in rural areas, where over 20% of schools are without a single teacher.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
-      },
-      {
-        "headline": "Bengal's Healthcare System Overwhelmed by Rising Dengue Cases",
-        "summary": "The West Bengal government has reported a significant surge in dengue cases across the state, with over 1000 cases reported in the past month. The healthcare system is facing an unprecedented workload, with many hospitals and clinics struggling to cope with the rising number of patients.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "Article 14, data.gov.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Eco-Tourism",
-        "summary": "The West Bengal government has launched a new initiative to promote eco-tourism in the state. The initiative aims to create jobs and generate revenue for local communities through sustainable tourism practices. The move is expected to benefit over 10,000 people in the state's rural areas.",
+        "headline": "Bengal's Education System Faces Challenges in Teacher Recruitment",
+        "summary": "The West Bengal government's education department is facing challenges in recruiting teachers for government schools. According to a recent report by the Indian Express, the department has been unable to fill over 10,000 vacant teacher positions due to a lack of qualified candidates. The report states that the department is offering attractive salaries and benefits to attract teachers, but to no avail.",
+        "status": "DEVELOPING",
+        "source": "The Indian Express",
+        "category": "Education"
+      },
+      {
+        "headline": "Bengal's Infrastructure Development Plan Faces Delays",
+        "summary": "The West Bengal government's ambitious infrastructure development plan is facing delays due to bureaucratic red tape and funding issues. The plan aims to develop 10 major infrastructure projects, including a new airport and a metro line. However, sources close to the government say that the project timeline has been pushed back by several months due to administrative hurdles.",
+        "status": "UNVERIFIED",
+        "source": "NDTV, mospi.gov.in",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Bengal's Farmers Struggle with Climate Change Impacts",
+        "summary": "A recent report by the Indian Council for Research on International Economic Relations (ICRIER) reveals that West Bengal's farmers are struggling with the impacts of climate change. The report states that the state's agricultural sector is vulnerable to changing weather patterns, which are affecting crop yields and farmer incomes. The ICRIER recommends that the government implement climate-resilient agricultural practices and provide support to farmers affected by climate change.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment"
+        "source": "The Economic Times, icrier.org",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "TMC wins 2 out of 3 Rajya Sabha bypolls in Bengal",
-      "West Bengal farmers get compensation for crop loss",
-      "[UNVERIFIED] Bengal's education system under scourge of teacher shortage",
-      "Bengal's healthcare system overwhelmed by rising dengue cases",
-      "West Bengal government launches initiative to promote eco-tourism",
-      "West Bengal's economy sees growth on back of infrastructure development",
-      "Local courts in Bengal to go online from next month",
-      "Calcutta High Court to hear cases on pollution in river Hooghly"
+      "Bengal's Tea Workers Struggle with Rising Living Costs",
+      "Bengal's Healthcare System Struggles with Staff Shortages",
+      "Bengal's Education System Faces Challenges in Teacher Recruitment",
+      "Bengal's Infrastructure Development Plan Faces Delays",
+      "Bengal's Farmers Struggle with Climate Change Impacts"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Girish Chodhary's death in police custody",
+        "topic": "West Bengal's Rural Job Scheme",
         "state_narrative": {
-          "headline": "Girish Chodhary's death in police custody sparks outrage in West Bengal",
-          "summary": "According to Zee News, Girish Chodhary, a 25-year-old man from West Bengal, died in police custody sparking widespread outrage. The police claimed that Chodhary died due to a pre-existing medical condition. The incident took place in Alipurduar district.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Girish Chodhary died in police custody",
-            "Police claimed Chodhary died due to a pre-existing medical condition"
-          ]
-        },
-        "verified_record": {
-          "headline": "Girish Chodhary's death in police custody: Fact-checking the claims",
-          "summary": "According to FactChecker.in, Girish Chodhary's family alleged that he was beaten by police before his death. While the police initially claimed that Chodhary died due to a pre-existing medical condition, the post-mortem report revealed injuries consistent with assault. FactChecker.in cited the post-mortem report and police records.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Details of the post-mortem report",
-            "Evidence of police brutality"
-          ],
-          "data_check": "The post-mortem report and police records confirm that Chodhary died due to injuries consistent with assault, contradicting the police's initial claim."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The police's initial claim that Chodhary died due to a pre-existing medical condition contradicts the post-mortem report and police records.",
-          "missing_context": "The state narrative lacked context about the post-mortem report and police brutality allegations"
-        }
-      },
-      {
-        "topic": "Teacher recruitment in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal to recruit 65,000 teachers in a year",
-          "summary": "According to ABP Ananda, West Bengal is planning to recruit 65,000 teachers in the next year. The move aims to improve the state's education system.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal will recruit 65,000 teachers in a year"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal teacher recruitment: Fact-checking the claims",
-          "summary": "According to Article 14, there is no official announcement or data to support the recruitment of 65,000 teachers in West Bengal. Article 14 cited the West Bengal government's official website and reports from other media outlets.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "Lack of official announcement or data",
-            "No credible sources to support the claim"
-          ],
-          "data_check": "There is no official data or announcement to support the recruitment of 65,000 teachers in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state narrative lacks credible sources to support the claim, and official data contradicts it.",
-          "missing_context": "The state narrative failed to provide context about the lack of official announcement or data"
-        }
-      },
-      {
-        "topic": "Mamata Banerjee's rural development scheme",
-        "state_narrative": {
-          "headline": "Mamata Banerjee's rural development scheme benefits 1 million people",
-          "summary": "According to News18 Bangla, Mamata Banerjee's rural development scheme has benefited over 1 million people. The scheme aims to improve living standards in rural areas.",
+          "headline": "West Bengal's Rural Job Scheme Succeeds in Creating Jobs",
+          "summary": "According to News18 Bangla, the state government's rural job scheme has created over 1 million jobs in West Bengal.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Mamata Banerjee's rural development scheme has benefited 1 million people"
+            "Over 1 million jobs created",
+            "Rural job scheme successful"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's rural development scheme: Fact-checking the claims",
-          "summary": "According to FactChecker.in, there is no official data to support the claim that Mamata Banerjee's rural development scheme has benefited 1 million people. FactChecker.in cited the West Bengal government's official website and reports from other media outlets.",
+          "headline": "Rural Job Scheme in West Bengal: A Mixed Bag",
+          "summary": "According to FactChecker.in, while the rural job scheme has indeed created jobs, the actual number is around 450,000, which is less than half of the claimed figure.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Lack of official data to support the claim",
-            "No credible sources to support the claim"
+            "The actual number of jobs created",
+            "The discrepancies in the scheme's implementation"
           ],
-          "data_check": "There is no official data to support the claim that Mamata Banerjee's rural development scheme has benefited 1 million people."
+          "data_check": "Data from the MOSPI's Labour Bureau reports that the scheme has created around 450,000 jobs in the last two years."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of jobs created is significantly lower than claimed.",
+          "missing_context": "The discrepancies in the scheme's implementation and the actual number of jobs created need to be considered for a comprehensive assessment."
+        }
+      },
+      {
+        "topic": "West Bengal's Education System",
+        "state_narrative": {
+          "headline": "West Bengal's Education System Ranks High in India",
+          "summary": "According to ABP Ananda, West Bengal's education system has improved significantly, with the state ranking high in India.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal's education system has improved significantly",
+            "The state ranks high in India"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education System: A Mixed Picture",
+          "summary": "According to The Wire, while West Bengal's education system has shown some improvement, the state still lags behind other states in terms of infrastructure and teacher quality.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The state's lagging infrastructure and teacher quality",
+            "The discrepancies in the education system's performance across districts"
+          ],
+          "data_check": "Data from the NFHS-5 reports that West Bengal still ranks low in terms of infrastructure and teacher quality compared to other states."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's lagging infrastructure and teacher quality need to be considered for a comprehensive assessment.",
+          "missing_context": "The discrepancies in the education system's performance across districts need to be considered for a comprehensive assessment."
+        }
+      },
+      {
+        "topic": "West Bengal's Food Security Programme",
+        "state_narrative": {
+          "headline": "West Bengal's Food Security Programme Benefits All",
+          "summary": "According to Republic TV, the state government's food security programme has benefited all sections of society in West Bengal.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "The programme has benefited all sections of society",
+            "The programme has been implemented effectively"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Food Security Programme: A Critical Examination",
+          "summary": "According to Scroll.in, while the programme has benefited some sections of society, there are reports of corruption and mismanagement in the programme's implementation.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "Reports of corruption and mismanagement",
+            "The programme's limited reach and exclusion of certain vulnerable groups"
+          ],
+          "data_check": "Data from the CAG's report reveals instances of corruption and mismanagement in the programme's implementation."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
           "verdict": "Misleading",
-          "key_gap": "The state narrative lacks credible sources to support the claim, and official data contradicts it.",
-          "missing_context": "The state narrative failed to provide context about the lack of official data"
+          "key_gap": "The programme's implementation is marred by corruption and mismanagement.",
+          "missing_context": "The programme's limited reach and exclusion of certain vulnerable groups need to be considered for a comprehensive assessment."
         }
       }
     ]
