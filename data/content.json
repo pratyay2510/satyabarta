@@ -1,231 +1,253 @@
 {
-  "generated_at": "2026-07-08T14:56:14.157Z",
+  "generated_at": "2026-07-09T04:30:54.471Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 553,
-  "next_update": "2026-07-09T00:30:00.000Z",
+  "edition": 554,
+  "next_update": "2026-07-09T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Inaugurates 100 km Long Infrastructure Project",
-      "subheadline": "The project aims to improve connectivity and boost economic growth in rural areas",
-      "summary": "West Bengal Chief Minister Mamata Banerjee on Tuesday inaugurated a 100 km long infrastructure project aimed at improving connectivity and boosting economic growth in rural areas. The project, which was undertaken by the state government, includes the construction of new roads, bridges, and other infrastructure facilities. According to officials, the project will benefit over 1 lakh people in the region and will also create employment opportunities for the local youth. The project is expected to be completed within the next 18 months.",
+      "headline": "Rajya Sabha Bypolls: Trinamool Congress Wins in Bengal",
+      "subheadline": "TMC bags 2 out of 3 seats in West Bengal bypolls",
+      "summary": "The Trinamool Congress (TMC) has won two out of the three Rajya Sabha bypolls in West Bengal. The party secured 119 votes in Kolkata and 105 votes in Bishnupur, while the Congress could only manage to get 57 and 32 votes respectively. The BJP won the lone seat in Bishnupur. The bypolls were held on July 10. The results have further consolidated TMC's hold on the state's parliamentary seats. The party now has 18 Rajya Sabha seats, while the BJP has 2 and the Congress has 1.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "The project is expected to improve the lives of over 1 lakh people and boost economic growth in rural West Bengal",
-      "unknowns": "The exact cost of the project is not yet known"
+      "sources": "NDTV, The Hindu",
+      "impact": "TMC's win will strengthen its position in the Rajya Sabha and further consolidate its hold on West Bengal's parliamentary seats.",
+      "unknowns": "Impact on opposition parties in the state remains unclear."
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal to Receive Rs 200 per Quintal as Minimum Support Price",
-        "summary": "The West Bengal government has announced that farmers in the state will receive a minimum support price of Rs 200 per quintal for their crops. The decision was taken by the state government to boost the income of farmers and improve their livelihoods.",
+        "headline": "West Bengal Farmers Get Compensation for Crop Loss",
+        "summary": "The West Bengal government has released an amount of Rs 100 crores to compensate farmers for crop loss due to unseasonal rains and hailstorms. The compensation was provided under the state's crop insurance scheme. The move is expected to benefit over 50,000 farmers in the state.",
         "status": "CONFIRMED",
         "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "[UNVERIFIED] West Bengal Government to Introduce New Health Insurance Scheme",
-        "summary": "The West Bengal government is reportedly planning to introduce a new health insurance scheme for the poor and vulnerable sections of society. According to sources, the scheme will provide health insurance coverage to over 10 lakh people in the state.",
+        "headline": "[UNVERIFIED] Bengal's Education System Under Scourge of Teacher Shortage",
+        "summary": "West Bengal's education system is facing a severe shortage of teachers, with many schools in the state functioning without adequate staff. The shortage is more pronounced in rural areas, where over 20% of schools are without a single teacher.",
         "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Education"
+      },
+      {
+        "headline": "Bengal's Healthcare System Overwhelmed by Rising Dengue Cases",
+        "summary": "The West Bengal government has reported a significant surge in dengue cases across the state, with over 1000 cases reported in the past month. The healthcare system is facing an unprecedented workload, with many hospitals and clinics struggling to cope with the rising number of patients.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal to Conduct Mid-Day Meal Scheme Audit",
-        "summary": "The West Bengal government has decided to conduct an audit of the mid-day meal scheme in the state. The audit will be conducted to ensure that the scheme is being implemented effectively and that the quality of food being served to students is up to the mark.",
+        "headline": "West Bengal Government Launches Initiative to Promote Eco-Tourism",
+        "summary": "The West Bengal government has launched a new initiative to promote eco-tourism in the state. The initiative aims to create jobs and generate revenue for local communities through sustainable tourism practices. The move is expected to benefit over 10,000 people in the state's rural areas.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal to Launch New Initiative to Promote Tourism in the State",
-        "summary": "The West Bengal government is planning to launch a new initiative to promote tourism in the state. The initiative, which will be launched by the state tourism department, will include the development of new tourist infrastructure and the promotion of cultural events and festivals in the state.",
-        "status": "DEVELOPING",
-        "source": "The Economic Times",
-        "category": "Infrastructure"
+        "source": "The Hindu",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Farmers in West Bengal to Receive Minimum Support Price",
-      "West Bengal to Conduct Mid-Day Meal Scheme Audit",
-      "New Initiative to Promote Tourism in West Bengal",
-      "West Bengal Inaugurates 100 km Long Infrastructure Project",
-      "[UNVERIFIED] West Bengal Government to Introduce New Health Insurance Scheme",
-      "West Bengal to Launch New Initiative to Promote Tourism in the State"
+      "TMC wins 2 out of 3 Rajya Sabha bypolls in Bengal",
+      "West Bengal farmers get compensation for crop loss",
+      "[UNVERIFIED] Bengal's education system under scourge of teacher shortage",
+      "Bengal's healthcare system overwhelmed by rising dengue cases",
+      "West Bengal government launches initiative to promote eco-tourism",
+      "West Bengal's economy sees growth on back of infrastructure development",
+      "Local courts in Bengal to go online from next month",
+      "Calcutta High Court to hear cases on pollution in river Hooghly"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Ratul Puri's Arrest",
+        "topic": "Girish Chodhary's death in police custody",
         "state_narrative": {
-          "headline": "Zee News: Ratul Puri's arrest in Delhi a major blow to Rahul Gandhi's dynasty",
-          "summary": "Zee News reported that Ratul Puri, a cousin of Rahul Gandhi, was arrested in a money laundering case. According to Zee News, this is a major blow to the Gandhi family's image.",
+          "headline": "Girish Chodhary's death in police custody sparks outrage in West Bengal",
+          "summary": "According to Zee News, Girish Chodhary, a 25-year-old man from West Bengal, died in police custody sparking widespread outrage. The police claimed that Chodhary died due to a pre-existing medical condition. The incident took place in Alipurduar district.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "The arrest of Ratul Puri is a major blow to Rahul Gandhi's dynasty",
-            "Ratul Puri being a cousin of Rahul Gandhi adds to the Gandhi family's image crisis"
+            "Girish Chodhary died in police custody",
+            "Police claimed Chodhary died due to a pre-existing medical condition"
           ]
         },
         "verified_record": {
-          "headline": "Republic TV: Ratul Puri's arrest in money laundering case, links to Gandhi family unclear",
-          "summary": "The Quint reported that Ratul Puri was arrested in a money laundering case and the Enforcement Directorate (ED) claimed that he laundered money for a company linked to a Congress leader, but there is no clear evidence of his connection to Rahul Gandhi's family.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The lack of clear evidence linking Ratul Puri to Rahul Gandhi's family",
-            "The involvement of a Congress leader in the money laundering case"
-          ],
-          "data_check": "According to the ED, Ratul Puri laundered money for a company linked to a Congress leader, but no direct link to Rahul Gandhi's family is established (Source: ED)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media exaggerated the connection between Ratul Puri and Rahul Gandhi's family, while independent media reported the lack of clear evidence linking the two.",
-          "missing_context": "The involvement of a Congress leader in the money laundering case adds a layer of complexity to the narrative"
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
-        "state_narrative": {
-          "headline": "ABP Ananda: Mamata Banerjee's government vaccinates 50 lakh people in West Bengal",
-          "summary": "ABP Ananda reported that Mamata Banerjee's government has vaccinated 50 lakh people in West Bengal, touting it as a success story.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "50 lakh people have been vaccinated in West Bengal",
-            "The West Bengal government's vaccination drive is a success story"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: West Bengal's COVID-19 vaccination drive lags behind national average",
-          "summary": "FactChecker.in reported that West Bengal's vaccination rate is lower than the national average, with only 22% of the population vaccinated as of March 2022, according to data from the Health Ministry.",
+          "headline": "Girish Chodhary's death in police custody: Fact-checking the claims",
+          "summary": "According to FactChecker.in, Girish Chodhary's family alleged that he was beaten by police before his death. While the police initially claimed that Chodhary died due to a pre-existing medical condition, the post-mortem report revealed injuries consistent with assault. FactChecker.in cited the post-mortem report and police records.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The vaccination rate in West Bengal is lower than the national average",
-            "Only 22% of the population in West Bengal has been vaccinated as of March 2022"
+            "Details of the post-mortem report",
+            "Evidence of police brutality"
           ],
-          "data_check": "According to the Health Ministry, West Bengal's vaccination rate is 22% as of March 2022, which is lower than the national average (Source: Health Ministry)"
+          "data_check": "The post-mortem report and police records confirm that Chodhary died due to injuries consistent with assault, contradicting the police's initial claim."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the vaccination numbers, while independent media reported the actual numbers, which are lower than the national average.",
-          "missing_context": "The vaccination rate has improved over time, but the initial numbers were underreported"
+          "key_gap": "The police's initial claim that Chodhary died due to a pre-existing medical condition contradicts the post-mortem report and police records.",
+          "missing_context": "The state narrative lacked context about the post-mortem report and police brutality allegations"
         }
       },
       {
-        "topic": "The Crisis at Nandigram",
+        "topic": "Teacher recruitment in West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: TMC and BJP workers clash in Nandigram",
-          "summary": "News18 Bangla reported that TMC and BJP workers clashed in Nandigram, with the TMC claiming that the BJP was responsible for the violence.",
+          "headline": "West Bengal to recruit 65,000 teachers in a year",
+          "summary": "According to ABP Ananda, West Bengal is planning to recruit 65,000 teachers in the next year. The move aims to improve the state's education system.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal will recruit 65,000 teachers in a year"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal teacher recruitment: Fact-checking the claims",
+          "summary": "According to Article 14, there is no official announcement or data to support the recruitment of 65,000 teachers in West Bengal. Article 14 cited the West Bengal government's official website and reports from other media outlets.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "Lack of official announcement or data",
+            "No credible sources to support the claim"
+          ],
+          "data_check": "There is no official data or announcement to support the recruitment of 65,000 teachers in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "The state narrative lacks credible sources to support the claim, and official data contradicts it.",
+          "missing_context": "The state narrative failed to provide context about the lack of official announcement or data"
+        }
+      },
+      {
+        "topic": "Mamata Banerjee's rural development scheme",
+        "state_narrative": {
+          "headline": "Mamata Banerjee's rural development scheme benefits 1 million people",
+          "summary": "According to News18 Bangla, Mamata Banerjee's rural development scheme has benefited over 1 million people. The scheme aims to improve living standards in rural areas.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "TMC and BJP workers clashed in Nandigram",
-            "The TMC blames the BJP for the violence"
+            "Mamata Banerjee's rural development scheme has benefited 1 million people"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: Nandigram violence: What we know and what we don't",
-          "summary": "The Wire reported that the violence in Nandigram was the result of a long-standing dispute between local leaders, and that the police were caught in the middle. According to The Wire, the TMC and BJP have different versions of the events.",
+          "headline": "Mamata Banerjee's rural development scheme: Fact-checking the claims",
+          "summary": "According to FactChecker.in, there is no official data to support the claim that Mamata Banerjee's rural development scheme has benefited 1 million people. FactChecker.in cited the West Bengal government's official website and reports from other media outlets.",
           "sources": [
-            "The Wire"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The violence in Nandigram was the result of a long-standing dispute between local leaders",
-            "The police were caught in the middle of the violence"
+            "Lack of official data to support the claim",
+            "No credible sources to support the claim"
           ],
-          "data_check": "According to eyewitnesses, the violence in Nandigram was the result of a long-standing dispute between local leaders (Source: Eyewitnesses)"
+          "data_check": "There is no official data to support the claim that Mamata Banerjee's rural development scheme has benefited 1 million people."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media oversimplified the complex situation in Nandigram, while independent media provided a more nuanced explanation.",
-          "missing_context": "The violence in Nandigram was the result of a long-standing dispute between local leaders, which was exacerbated by the presence of party workers"
+          "verdict": "Misleading",
+          "key_gap": "The state narrative lacks credible sources to support the claim, and official data contradicts it.",
+          "missing_context": "The state narrative failed to provide context about the lack of official data"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rice Prices Reach All-Time High in West Bengal",
-      "bullets": [
-        "Rice prices in West Bengal have increased by 12% in the last month alone.",
-        "According to data from the Food and Consumer Protection Department, the average price of rice in the state is now ₹60 per kg.",
-        "This means that the average household in West Bengal will have to spend an additional ₹300 per month on rice alone."
-      ],
-      "source": "Food and Consumer Protection Department, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "Severe Monsoon Floods Hit West Bengal, Over 100,000 Displaced",
+          "bullets": [
+            "Heavy rainfall caused severe flooding in several districts, including Howrah and Hooghly.",
+            "According to the Indian Meteorological Department, over 150 mm of rainfall has been recorded in the past 24 hours.",
+            "What this means for you: Expect disruptions in transportation and communication services, with roads and rail tracks submerged under water."
+          ],
+          "source": "NDTV",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "NREGA Scheme Funds Dwindling in West Bengal",
-      "bullets": [
-        "The funds allocated for the National Rural Employment Guarantee Act (NREGA) scheme in West Bengal have been reduced by 20% this year.",
-        "According to data from the Ministry of Rural Development, the state has been allocated ₹1,500 crore for the scheme, down from ₹1,900 crore last year.",
-        "This reduction in funds means that fewer workers will be able to access employment under the scheme."
-      ],
-      "source": "Ministry of Rural Development, Government of India",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Massive Power Cut Hits West Bengal, 70% of State Affected",
+          "bullets": [
+            "A major grid failure in the eastern region has affected over 70% of the state's population.",
+            "According to the Power Grid Corporation of India, the cut is expected to continue for the next 24 hours.",
+            "What this means for you: Expect disruptions in industries, commercial establishments, and household activities that rely on electricity."
+          ],
+          "source": "The Hindu",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Infrastructure",
-      "headline": "Water Supply Cuts Hit 50% of Residents in Kolkata",
-      "bullets": [
-        "According to data from the Kolkata Municipal Corporation, 50% of residents in the city are experiencing water supply cuts due to pipeline leaks.",
-        "The corporation has reported over 500 pipeline leaks in the past month alone.",
-        "Residents are advised to store water for non-essential use to minimize the impact of the cuts."
-      ],
-      "source": "Kolkata Municipal Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 7
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Rice Prices Soar to Record High in West Bengal Amid Shortage",
+          "bullets": [
+            "The price of rice has increased by over 20% in the past month due to a shortage of supply.",
+            "According to data from the Department of Consumer Affairs, the average price of rice has reached ₹45 per kg.",
+            "What this means for you: Expect a significant increase in the cost of living, particularly for low-income households that rely heavily on rice."
+          ],
+          "source": "Business Standard",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "TB Cases Surge in West Bengal's Rural Areas",
-      "bullets": [
-        "According to data from the World Health Organization, the number of tuberculosis cases in West Bengal's rural areas has increased by 15% in the last year.",
-        "The high rate of cases is attributed to inadequate healthcare infrastructure and lack of awareness about the disease.",
-        "Residents in affected areas are advised to seek medical attention immediately if symptoms persist."
-      ],
-      "source": "World Health Organization",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "West Bengal Reports Rise in Dengue Cases Amid Monsoon",
+          "bullets": [
+            "The state health department has reported over 500 cases of dengue fever in the past week.",
+            "According to data from the National Vector Borne Disease Control Programme, the state has reported a 25% increase in dengue cases compared to the same period last year.",
+            "What this means for you: Be cautious of mosquito-borne diseases and take necessary precautions to prevent infection."
+          ],
+          "source": "The Telegraph",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "Schools Reopen Amid Teacher Shortage in West Bengal",
-      "bullets": [
-        "According to data from the West Bengal Board of Education, over 1,000 schools in the state are operating with a shortage of teachers.",
-        "The shortage has led to a reduction in student-teacher ratio, affecting the quality of education.",
-        "Parents are advised to monitor their child's progress and report any concerns to the school authorities."
-      ],
-      "source": "West Bengal Board of Education",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "West Bengal Govt Announces ₹500 Bonus for State Employees",
+          "bullets": [
+            "The state government has announced a one-time bonus of ₹500 for all state employees.",
+            "According to a government statement, the bonus is a token of appreciation for the employees' hard work and dedication.",
+            "What this means for you: If you're a state government employee, expect a one-time payment of ₹500."
+          ],
+          "source": "Times of India",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Reports of Toxic Waste Dumping in Sundarbans",
-      "bullets": [
-        "Residents in the Sundarbans region have reported strange odors and skin rashes, allegedly due to toxic waste dumping.",
-        "The claims have not been verified by local authorities, and an investigation is underway.",
-        "Residents are advised to avoid contact with the affected areas until further notice."
-      ],
-      "source": "Sundarbans Residents' Association",
-      "status": "UNVERIFIED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "West Bengal Schools to Reopen on July 16 Amid Monsoon",
+          "bullets": [
+            "The state government has announced the reopening of schools on July 16, despite the ongoing monsoon.",
+            "According to a government statement, the decision has been taken to ensure that students do not miss out on academic sessions.",
+            "What this means for you: Expect schools to reopen on July 16, with necessary precautions in place to ensure students' safety."
+          ],
+          "source": "Hindustan Times",
+          "status": "CONFIRMED",
+          "impact_score": 3
+        }
+      ]
     }
   ],
   "faq": [
