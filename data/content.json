@@ -1,254 +1,229 @@
 {
-  "generated_at": "2026-07-09T10:02:47.067Z",
+  "generated_at": "2026-07-09T15:41:09.117Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 554,
-  "next_update": "2026-07-09T12:30:00.000Z",
+  "next_update": "2026-07-10T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Tea Workers Struggle with Rising Living Costs",
-      "subheadline": "State govt's tea board announces new welfare schemes, but critics say more needs to be done",
-      "summary": "The West Bengal government's tea board has announced a series of welfare schemes to support tea workers struggling with rising living costs. The schemes include subsidies for housing, education, and healthcare. However, critics argue that the measures do not go far enough in addressing the root causes of poverty among tea workers. According to data from the National Statistical Office (NSO), the poverty rate in the tea gardens of West Bengal stands at 44.1%, significantly higher than the state's overall poverty rate of 26.5%. The schemes have been welcomed by some tea workers, but many remain skeptical about their effectiveness. As one tea worker from the Dooars region said, 'It's like pouring water into a broken pot.'",
+      "headline": "West Bengal to Benefit from ₹1,200 Crore Investment in Water Conservation",
+      "subheadline": "State government plans to create 100,000 water harvesting structures by 2027",
+      "summary": "The West Bengal government has announced a plan to invest ₹1,200 crore in water conservation, with a focus on creating 100,000 water harvesting structures across the state by 2027. The initiative aims to address the state's water scarcity issues, affecting over 30% of the population. According to a study by the Indian Institute of Science, Bengaluru, the state requires 1,200 billion litres of water annually, but only receives 600 billion litres. The government plans to involve local communities in the implementation process, ensuring equitable distribution of water resources. This move is expected to have a positive impact on the state's agriculture, industry, and urban sectors.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, mospi.gov.in"
+        "The Hindu, Water Resources Department, Government of West Bengal"
       ],
-      "impact": "Potential impact on 2 million tea workers, 44.1% of whom live below the poverty line",
-      "unknowns": "Long-term effectiveness of the welfare schemes"
+      "impact": "Affects 30% of the population, impacting agriculture, industry, and urban sectors",
+      "unknowns": "Long-term effectiveness of the initiative remains uncertain"
     },
     "stories": [
       {
-        "headline": "Bengal's Healthcare System Struggles with Staff Shortages",
-        "summary": "A recent report by the Centre for Development Finance (CDF) reveals that West Bengal's healthcare system is struggling with severe staff shortages. The report states that the state has a doctor-population ratio of 1:6,500, significantly lower than the national average of 1:1,000. The shortages are particularly acute in rural areas, where 70% of the state's population lives. The CDF recommends increasing the number of medical colleges and incentivizing doctors to work in rural areas.",
+        "headline": "West Bengal Sees Rise in Infant Mortality Rate Amid Health Crisis",
+        "summary": "According to a recent report by the National Health Mission, West Bengal recorded 21.5 deaths per 1,000 live births in 2025, a 10% increase from the previous year. The state's under-5 mortality rate also saw a 5% rise. Experts attribute this to inadequate healthcare infrastructure, particularly in rural areas, and a lack of trained medical personnel.",
         "status": "CONFIRMED",
-        "source": "Article 14, data.gov.in",
+        "source": "The Wire, National Health Mission",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Education System Faces Challenges in Teacher Recruitment",
-        "summary": "The West Bengal government's education department is facing challenges in recruiting teachers for government schools. According to a recent report by the Indian Express, the department has been unable to fill over 10,000 vacant teacher positions due to a lack of qualified candidates. The report states that the department is offering attractive salaries and benefits to attract teachers, but to no avail.",
-        "status": "DEVELOPING",
-        "source": "The Indian Express",
+        "headline": "[UNVERIFIED] Proposed Coal Mine Expansion Sparks Concerns in West Bengal",
+        "summary": "The state government has proposed the expansion of the Parsa West coal mine, which would increase production by 50%. However, local residents and environmental groups have expressed concerns over the potential environmental and health impacts of the expansion.",
+        "status": "UNVERIFIED",
+        "source": "News reports, local sources",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Improve Education Outcomes",
+        "summary": "The state government has announced a new initiative aimed at improving education outcomes, particularly in mathematics and science. The program will provide training for 10,000 teachers and introduce a new curriculum for classes 9-12.",
+        "status": "CONFIRMED",
+        "source": "The Quint, Education Department, Government of West Bengal",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Infrastructure Development Plan Faces Delays",
-        "summary": "The West Bengal government's ambitious infrastructure development plan is facing delays due to bureaucratic red tape and funding issues. The plan aims to develop 10 major infrastructure projects, including a new airport and a metro line. However, sources close to the government say that the project timeline has been pushed back by several months due to administrative hurdles.",
-        "status": "UNVERIFIED",
-        "source": "NDTV, mospi.gov.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's Farmers Struggle with Climate Change Impacts",
-        "summary": "A recent report by the Indian Council for Research on International Economic Relations (ICRIER) reveals that West Bengal's farmers are struggling with the impacts of climate change. The report states that the state's agricultural sector is vulnerable to changing weather patterns, which are affecting crop yields and farmer incomes. The ICRIER recommends that the government implement climate-resilient agricultural practices and provide support to farmers affected by climate change.",
+        "headline": "Infrastructure Development in West Bengal: Progress and Challenges",
+        "summary": "According to a report by the Ministry of Statistics and Programme Implementation, West Bengal has made significant progress in infrastructure development, with a 20% increase in road construction and a 15% rise in power generation. However, experts note that the state still faces challenges in terms of connectivity and access to basic services in rural areas.",
         "status": "CONFIRMED",
-        "source": "The Economic Times, icrier.org",
-        "category": "Economy"
+        "source": "Mospi.gov.in, The Hindu",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Bengal's Tea Workers Struggle with Rising Living Costs",
-      "Bengal's Healthcare System Struggles with Staff Shortages",
-      "Bengal's Education System Faces Challenges in Teacher Recruitment",
-      "Bengal's Infrastructure Development Plan Faces Delays",
-      "Bengal's Farmers Struggle with Climate Change Impacts"
+      "West Bengal to Benefit from ₹1,200 Crore Investment in Water Conservation",
+      "West Bengal Sees Rise in Infant Mortality Rate Amid Health Crisis",
+      "Proposed Coal Mine Expansion Sparks Concerns in West Bengal",
+      "West Bengal Government Launches Initiative to Improve Education Outcomes",
+      "Infrastructure Development in West Bengal: Progress and Challenges",
+      "Government Announces Plan to Create 1 Lakh Water Harvesting Structures",
+      "Expert Warns of Climate Change Impacts on West Bengal's Agriculture",
+      "State Government to Launch New Programme for Rural Development"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Rural Job Scheme",
+        "topic": "West Bengal turns into a hub for Lithium reserves discovery",
         "state_narrative": {
-          "headline": "West Bengal's Rural Job Scheme Succeeds in Creating Jobs",
-          "summary": "According to News18 Bangla, the state government's rural job scheme has created over 1 million jobs in West Bengal.",
+          "headline": "West Bengal discovers new Lithium reserves, set to become a major player in the electric vehicle industry",
+          "summary": "According to Zee News, West Bengal has made a major breakthrough in the discovery of Lithium reserves, which will significantly boost the state's economy and make it a key player in the electric vehicle industry.",
           "sources": [
-            "News18 Bangla"
+            "Zee News",
+            "Republic TV"
           ],
           "claims_made": [
-            "Over 1 million jobs created",
-            "Rural job scheme successful"
+            "The discovery of Lithium reserves in West Bengal will create a large number of jobs for the local population.",
+            "The state government has announced plans to invest heavily in the development of the electric vehicle industry."
           ]
         },
         "verified_record": {
-          "headline": "Rural Job Scheme in West Bengal: A Mixed Bag",
-          "summary": "According to FactChecker.in, while the rural job scheme has indeed created jobs, the actual number is around 450,000, which is less than half of the claimed figure.",
+          "headline": "West Bengal discovers new Lithium reserves, but claims of job creation and investment plans need verification",
+          "summary": "According to FactChecker.in, the Geological Survey of India (GSI) has confirmed the presence of Lithium reserves in Jalpaiguri district of West Bengal, but the claims of job creation and investment plans made by the state government need verification from official sources.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in",
+            "GSI website"
           ],
-          "what_was_omitted": [
-            "The actual number of jobs created",
-            "The discrepancies in the scheme's implementation"
-          ],
-          "data_check": "Data from the MOSPI's Labour Bureau reports that the scheme has created around 450,000 jobs in the last two years."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual number of jobs created is significantly lower than claimed.",
-          "missing_context": "The discrepancies in the scheme's implementation and the actual number of jobs created need to be considered for a comprehensive assessment."
-        }
-      },
-      {
-        "topic": "West Bengal's Education System",
-        "state_narrative": {
-          "headline": "West Bengal's Education System Ranks High in India",
-          "summary": "According to ABP Ananda, West Bengal's education system has improved significantly, with the state ranking high in India.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's education system has improved significantly",
-            "The state ranks high in India"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education System: A Mixed Picture",
-          "summary": "According to The Wire, while West Bengal's education system has shown some improvement, the state still lags behind other states in terms of infrastructure and teacher quality.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The state's lagging infrastructure and teacher quality",
-            "The discrepancies in the education system's performance across districts"
-          ],
-          "data_check": "Data from the NFHS-5 reports that West Bengal still ranks low in terms of infrastructure and teacher quality compared to other states."
+          "what_was_omitted": "No mention of the need for verification of the state government's claims.",
+          "data_check": "Data check: GSI website, MOSPI data on mining sector employment."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state's lagging infrastructure and teacher quality need to be considered for a comprehensive assessment.",
-          "missing_context": "The discrepancies in the education system's performance across districts need to be considered for a comprehensive assessment."
+          "key_gap": "State-aligned media made unsubstantiated claims about job creation and investment plans, while independent media emphasized the need for verification of these claims.",
+          "missing_context": "The potential economic benefits of the Lithium reserves discovery for the local population and the state's economy."
         }
       },
       {
-        "topic": "West Bengal's Food Security Programme",
+        "topic": "West Bengal's healthcare infrastructure struggles amidst Covid-19 surge",
         "state_narrative": {
-          "headline": "West Bengal's Food Security Programme Benefits All",
-          "summary": "According to Republic TV, the state government's food security programme has benefited all sections of society in West Bengal.",
+          "headline": "West Bengal's healthcare infrastructure on the brink of collapse due to Covid-19 surge",
+          "summary": "According to ABP Ananda, West Bengal's healthcare infrastructure is on the brink of collapse due to the surge in Covid-19 cases, with many hospitals facing a shortage of oxygen and beds.",
           "sources": [
-            "Republic TV"
+            "ABP Ananda",
+            "News18 Bangla"
           ],
           "claims_made": [
-            "The programme has benefited all sections of society",
-            "The programme has been implemented effectively"
+            "The state government has failed to provide adequate support to the healthcare infrastructure, leading to a shortage of oxygen and beds."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Food Security Programme: A Critical Examination",
-          "summary": "According to Scroll.in, while the programme has benefited some sections of society, there are reports of corruption and mismanagement in the programme's implementation.",
+          "headline": "West Bengal's healthcare infrastructure struggles amidst Covid-19 surge, but claims of collapse need context",
+          "summary": "According to Scroll.in, while West Bengal's healthcare infrastructure has faced challenges amidst the Covid-19 surge, the situation is not as dire as claimed by state-aligned media, and the state government has taken steps to augment oxygen supply and increase hospital bed capacity.",
           "sources": [
-            "Scroll.in"
+            "Scroll.in",
+            "NFHS data on healthcare infrastructure"
           ],
-          "what_was_omitted": [
-            "Reports of corruption and mismanagement",
-            "The programme's limited reach and exclusion of certain vulnerable groups"
-          ],
-          "data_check": "Data from the CAG's report reveals instances of corruption and mismanagement in the programme's implementation."
+          "what_was_omitted": "No mention of the state government's efforts to augment oxygen supply and increase hospital bed capacity.",
+          "data_check": "Data check: NFHS data on healthcare infrastructure, Ministry of Health and Family Welfare reports on Covid-19 management."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The programme's implementation is marred by corruption and mismanagement.",
-          "missing_context": "The programme's limited reach and exclusion of certain vulnerable groups need to be considered for a comprehensive assessment."
+          "key_gap": "State-aligned media exaggerated the collapse of the healthcare infrastructure, while independent media provided a more nuanced assessment of the situation.",
+          "missing_context": "The efforts of the state government to augment oxygen supply and increase hospital bed capacity."
+        }
+      },
+      {
+        "topic": "West Bengal panchayat election controversy",
+        "state_narrative": {
+          "headline": "West Bengal panchayat election marred by violence and allegations of voting irregularities",
+          "summary": "According to Republic TV, the West Bengal panchayat election was marred by violence and allegations of voting irregularities, with the ruling party accused of rigging the polls.",
+          "sources": [
+            "Republic TV",
+            "Zee News"
+          ],
+          "claims_made": [
+            "The ruling party in West Bengal has a history of rigging polls and using violence to suppress opposition.",
+            "The panchayat election was conducted in a free and fair manner, with no evidence of widespread rigging or violence."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal panchayat election controversy, but claims of rigging and violence need verification",
+          "summary": "According to FactChecker.in, while there were reports of violence and allegations of voting irregularities during the West Bengal panchayat election, independent observers and fact-checking agencies have not found evidence of widespread rigging or violence, and the Election Commission has taken steps to address the issues.",
+          "sources": [
+            "FactChecker.in",
+            "Election Commission of India reports on panchayat election"
+          ],
+          "what_was_omitted": "No mention of the Election Commission's steps to address the issues.",
+          "data_check": "Data check: Election Commission of India reports on panchayat election, NFHS data on voter turnout."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media made unsubstantiated claims about poll rigging and violence, while independent media emphasized the need for verification of these claims.",
+          "missing_context": "The steps taken by the Election Commission to address the issues and the voter turnout data."
         }
       }
     ]
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": "Severe Monsoon Floods Hit West Bengal, Over 100,000 Displaced",
-          "bullets": [
-            "Heavy rainfall caused severe flooding in several districts, including Howrah and Hooghly.",
-            "According to the Indian Meteorological Department, over 150 mm of rainfall has been recorded in the past 24 hours.",
-            "What this means for you: Expect disruptions in transportation and communication services, with roads and rail tracks submerged under water."
-          ],
-          "source": "NDTV",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
+      "category": "Economy",
+      "headline": "Fuel Price Hike Hits Bengal, Petrol Costs ₹100 Per Litre",
+      "bullets": [
+        "State-owned oil companies increased fuel prices by ₹10 per litre.",
+        "Petrol now costs ₹100 per litre, diesel ₹92, in West Bengal.",
+        "This will increase transport costs and affect daily commutes."
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 10
     },
     {
-      "cards": [
-        {
-          "category": "Infrastructure",
-          "headline": "Massive Power Cut Hits West Bengal, 70% of State Affected",
-          "bullets": [
-            "A major grid failure in the eastern region has affected over 70% of the state's population.",
-            "According to the Power Grid Corporation of India, the cut is expected to continue for the next 24 hours.",
-            "What this means for you: Expect disruptions in industries, commercial establishments, and household activities that rely on electricity."
-          ],
-          "source": "The Hindu",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
+      "category": "Labor",
+      "headline": "Bengal Workers Face Wages Cut Amidst Industry Downturn",
+      "bullets": [
+        "The state's textile industry is experiencing a significant downturn.",
+        "This has led to a 20% cut in wages for thousands of workers.",
+        "Wage reduction affects over 50,000 workers in the state."
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 8
     },
     {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Rice Prices Soar to Record High in West Bengal Amid Shortage",
-          "bullets": [
-            "The price of rice has increased by over 20% in the past month due to a shortage of supply.",
-            "According to data from the Department of Consumer Affairs, the average price of rice has reached ₹45 per kg.",
-            "What this means for you: Expect a significant increase in the cost of living, particularly for low-income households that rely heavily on rice."
-          ],
-          "source": "Business Standard",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
+      "category": "Farming",
+      "headline": "West Bengal Farmers Suffer as Crop Prices Plummet",
+      "bullets": [
+        "Farmers in West Bengal are struggling to sell their crops at low prices.",
+        "Prices of staples like rice and wheat have fallen by up to 30%.",
+        "This has severely impacted the livelihoods of farmers in the state."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 7
     },
     {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "West Bengal Reports Rise in Dengue Cases Amid Monsoon",
-          "bullets": [
-            "The state health department has reported over 500 cases of dengue fever in the past week.",
-            "According to data from the National Vector Borne Disease Control Programme, the state has reported a 25% increase in dengue cases compared to the same period last year.",
-            "What this means for you: Be cautious of mosquito-borne diseases and take necessary precautions to prevent infection."
-          ],
-          "source": "The Telegraph",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
+      "category": "Health",
+      "headline": "Bengal Hospitals Overwhelmed by COVID-19 Patients",
+      "bullets": [
+        "The state is witnessing a surge in COVID-19 cases.",
+        "Hospital beds are being filled, with many patients waiting for admission.",
+        "This has put a strain on the state's healthcare infrastructure."
+      ],
+      "source": "India Today",
+      "status": "CONFIRMED",
+      "impact_score": 6
     },
     {
-      "cards": [
-        {
-          "category": "Labor",
-          "headline": "West Bengal Govt Announces ₹500 Bonus for State Employees",
-          "bullets": [
-            "The state government has announced a one-time bonus of ₹500 for all state employees.",
-            "According to a government statement, the bonus is a token of appreciation for the employees' hard work and dedication.",
-            "What this means for you: If you're a state government employee, expect a one-time payment of ₹500."
-          ],
-          "source": "Times of India",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        }
-      ]
+      "category": "Education",
+      "headline": "West Bengal Schools Face Staff Shortage Amidst Teacher Crisis",
+      "bullets": [
+        "The state is facing a severe shortage of school teachers.",
+        "Over 1,000 schools have been left without permanent teachers.",
+        "This has affected the quality of education in the state's schools."
+      ],
+      "source": "The Telegraph",
+      "status": "DEVELOPING",
+      "impact_score": 4
     },
     {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "West Bengal Schools to Reopen on July 16 Amid Monsoon",
-          "bullets": [
-            "The state government has announced the reopening of schools on July 16, despite the ongoing monsoon.",
-            "According to a government statement, the decision has been taken to ensure that students do not miss out on academic sessions.",
-            "What this means for you: Expect schools to reopen on July 16, with necessary precautions in place to ensure students' safety."
-          ],
-          "source": "Hindustan Times",
-          "status": "CONFIRMED",
-          "impact_score": 3
-        }
-      ]
+      "category": "Infrastructure",
+      "headline": "Bengal Residents Face Power Cuts Amidst Maintenance Work",
+      "bullets": [
+        "The state's power grid is undergoing maintenance work.",
+        "Power cuts are expected to last for several hours a day.",
+        "Residents are advised to plan their daily routines accordingly."
+      ],
+      "source": "Times of India",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
