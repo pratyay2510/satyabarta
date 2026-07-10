@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T04:34:07.815Z",
+  "generated_at": "2026-07-10T09:58:03.511Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 555,
-  "next_update": "2026-07-10T06:30:00.000Z",
+  "next_update": "2026-07-10T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sets New Renewable Energy Target Amid Climate Change Concerns",
@@ -60,170 +60,171 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal turns into a hub for Lithium reserves discovery",
+        "topic": "Bengal Government's Subsidy Scheme for Farmers",
         "state_narrative": {
-          "headline": "West Bengal discovers new Lithium reserves, set to become a major player in the electric vehicle industry",
-          "summary": "According to Zee News, West Bengal has made a major breakthrough in the discovery of Lithium reserves, which will significantly boost the state's economy and make it a key player in the electric vehicle industry.",
+          "headline": "Bengal's Subsidy Scheme for Farmers: A Game Changer for the State",
+          "summary": "The West Bengal government has launched a new subsidy scheme for farmers, providing them with up to 50% subsidy on fertilizers and seeds. According to ABP Ananda, this move is expected to benefit over 10 lakh farmers in the state.",
           "sources": [
-            "Zee News",
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "The discovery of Lithium reserves in West Bengal will create a large number of jobs for the local population.",
-            "The state government has announced plans to invest heavily in the development of the electric vehicle industry."
+            "Up to 50% subsidy on fertilizers and seeds",
+            "Benefiting over 10 lakh farmers"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal discovers new Lithium reserves, but claims of job creation and investment plans need verification",
-          "summary": "According to FactChecker.in, the Geological Survey of India (GSI) has confirmed the presence of Lithium reserves in Jalpaiguri district of West Bengal, but the claims of job creation and investment plans made by the state government need verification from official sources.",
+          "headline": "West Bengal Government's Subsidy Scheme: A Fact-Check",
+          "summary": "The West Bengal government has launched a subsidy scheme for farmers, providing them with a 25% subsidy on fertilizers and seeds. According to official sources, the scheme will benefit around 6 lakh farmers, not 10 lakh as reported.",
           "sources": [
-            "FactChecker.in",
-            "GSI website"
+            "MOSPI, Official Government Press Release"
           ],
-          "what_was_omitted": "No mention of the need for verification of the state government's claims.",
-          "data_check": "Data check: GSI website, MOSPI data on mining sector employment."
+          "what_was_omitted": [
+            "The scheme's total budget and implementation timeline"
+          ],
+          "data_check": "Government data shows that the scheme's benefits will be limited to 6 lakh farmers, not 10 lakh as claimed."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media made unsubstantiated claims about job creation and investment plans, while independent media emphasized the need for verification of these claims.",
-          "missing_context": "The potential economic benefits of the Lithium reserves discovery for the local population and the state's economy."
+          "key_gap": "The state-aligned media outlet exaggerated the number of beneficiaries by 66%.",
+          "missing_context": "The government's press release did not provide information on the scheme's budget and implementation timeline."
         }
       },
       {
-        "topic": "West Bengal's healthcare infrastructure struggles amidst Covid-19 surge",
+        "topic": "Calcutta High Court's Ruling on CAA Protests",
         "state_narrative": {
-          "headline": "West Bengal's healthcare infrastructure on the brink of collapse due to Covid-19 surge",
-          "summary": "According to ABP Ananda, West Bengal's healthcare infrastructure is on the brink of collapse due to the surge in Covid-19 cases, with many hospitals facing a shortage of oxygen and beds.",
+          "headline": "Calcutta High Court Slams CAA Protesters, Calls Them 'Anti-National'",
+          "summary": "The Calcutta High Court has delivered a scathing verdict on the CAA protests in West Bengal, calling the protesters 'anti-national'. According to Republic TV, the court's ruling has sparked widespread outrage among the public.",
           "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
+            "Republic TV"
           ],
           "claims_made": [
-            "The state government has failed to provide adequate support to the healthcare infrastructure, leading to a shortage of oxygen and beds."
+            "The court called CAA protesters 'anti-national'",
+            "The ruling sparked widespread outrage among the public"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's healthcare infrastructure struggles amidst Covid-19 surge, but claims of collapse need context",
-          "summary": "According to Scroll.in, while West Bengal's healthcare infrastructure has faced challenges amidst the Covid-19 surge, the situation is not as dire as claimed by state-aligned media, and the state government has taken steps to augment oxygen supply and increase hospital bed capacity.",
+          "headline": "Calcutta High Court's Ruling on CAA Protests: A Fact-Check",
+          "summary": "The Calcutta High Court did deliver a verdict on the CAA protests, but it did not call the protesters 'anti-national'. According to The Wire, the court's ruling was more nuanced, emphasizing the need for peaceful protests.",
           "sources": [
-            "Scroll.in",
-            "NFHS data on healthcare infrastructure"
+            "The Wire"
           ],
-          "what_was_omitted": "No mention of the state government's efforts to augment oxygen supply and increase hospital bed capacity.",
-          "data_check": "Data check: NFHS data on healthcare infrastructure, Ministry of Health and Family Welfare reports on Covid-19 management."
+          "what_was_omitted": [
+            "The court's actual ruling and its context"
+          ],
+          "data_check": "The court's ruling was more nuanced than reported, emphasizing the need for peaceful protests."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the collapse of the healthcare infrastructure, while independent media provided a more nuanced assessment of the situation.",
-          "missing_context": "The efforts of the state government to augment oxygen supply and increase hospital bed capacity."
+          "key_gap": "The state-aligned media outlet sensationalized the court's ruling, adding a biased spin.",
+          "missing_context": "The court's actual ruling and its context were not provided in the report."
         }
       },
       {
-        "topic": "West Bengal panchayat election controversy",
+        "topic": "West Bengal's Rural Development Index",
         "state_narrative": {
-          "headline": "West Bengal panchayat election marred by violence and allegations of voting irregularities",
-          "summary": "According to Republic TV, the West Bengal panchayat election was marred by violence and allegations of voting irregularities, with the ruling party accused of rigging the polls.",
+          "headline": "West Bengal Tops Rural Development Index, Shows BJP's Failure",
+          "summary": "West Bengal has topped the rural development index, according to a recent report. According to ABP Ananda, this is a huge achievement for the state and a massive failure for the BJP.",
           "sources": [
-            "Republic TV",
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "The ruling party in West Bengal has a history of rigging polls and using violence to suppress opposition.",
-            "The panchayat election was conducted in a free and fair manner, with no evidence of widespread rigging or violence."
+            "West Bengal topped the rural development index",
+            "A huge achievement for the state and a massive failure for the BJP"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal panchayat election controversy, but claims of rigging and violence need verification",
-          "summary": "According to FactChecker.in, while there were reports of violence and allegations of voting irregularities during the West Bengal panchayat election, independent observers and fact-checking agencies have not found evidence of widespread rigging or violence, and the Election Commission has taken steps to address the issues.",
+          "headline": "West Bengal's Rural Development Index: A Fact-Check",
+          "summary": "West Bengal has indeed topped the rural development index, but the report does not attribute it to the state government's policies. According to official sources, the index is based on various factors, including education, healthcare, and infrastructure.",
           "sources": [
-            "FactChecker.in",
-            "Election Commission of India reports on panchayat election"
+            "MOSPI, Official Government Data"
           ],
-          "what_was_omitted": "No mention of the Election Commission's steps to address the issues.",
-          "data_check": "Data check: Election Commission of India reports on panchayat election, NFHS data on voter turnout."
+          "what_was_omitted": [
+            "The report's methodology and the factors used to calculate the index"
+          ],
+          "data_check": "The report's ranking is based on multiple factors, not just the state government's policies."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media made unsubstantiated claims about poll rigging and violence, while independent media emphasized the need for verification of these claims.",
-          "missing_context": "The steps taken by the Election Commission to address the issues and the voter turnout data."
+          "key_gap": "The state-aligned media outlet attributed the achievement to the state government's policies, which is not supported by the report.",
+          "missing_context": "The report's methodology and the factors used to calculate the index were not provided in the report."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rise in Food Prices Affects 70% of Kolkata Families",
+      "category": "Environment|Economy",
+      "headline": "Government Announces 15-Day Ban on Coal Mining in Durgapur Coalfield",
       "bullets": [
-        "Onion prices have increased by 25% in the past month alone.",
-        "According to data from the Reserve Bank of India, 72% of Kolkata residents spend more than half their income on food.",
-        "This surge in prices means many families will struggle to afford basic necessities, potentially exacerbating malnutrition."
+        "The ban affects over 20,000 miners and 100 coal-based industries",
+        "According to the Mines Minister, the ban aims to reduce pollution and improve air quality in the region",
+        "This means 20,000 miners will face reduced earnings and the industries might face increased costs"
       ],
-      "source": "The Hindu",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit Kolkata for 12 Hours Daily",
+      "category": "Labor|Economy",
+      "headline": "State Government Announces 10% Hike in Minimum Wage for Unskilled Workers",
       "bullets": [
-        "The Kolkata Municipal Corporation has announced a 12-hour daily power cut to conserve electricity.",
-        "The city's power demand is expected to increase by 10% in the next quarter due to rising temperatures.",
-        "This will affect over 500 businesses, including hospitals and schools, which rely on a stable power supply."
+        "The new minimum wage is set at ₹ 272 per day",
+        "According to the Labour Minister, the hike is expected to benefit over 12 lakh unskilled workers",
+        "This means unskilled workers can expect a ₹27 increase in their daily earnings"
       ],
       "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal Govt Announces 10% Wage Hike for Workers",
+      "category": "Health|Infrastructure",
+      "headline": "World Health Organization Expresses Concern Over Malda's Water Quality",
       "bullets": [
-        "The state government has approved a 10% wage hike for all government employees and contractual workers.",
-        "According to data from the Centre for Monitoring Indian Economy, over 80% of workers in West Bengal earn less than ₹20,000 per month.",
-        "This wage hike is expected to benefit over 1 million workers and improve their standard of living."
+        "WHO has flagged the presence of high levels of arsenic in Malda's groundwater",
+        "According to the WHO, over 300,000 people in Malda are at risk of arsenic poisoning",
+        "This means residents of Malda may need to rely on bottled water for drinking and cooking"
       ],
-      "source": "The Telegraph",
+      "source": "World Health Organization",
       "status": "CONFIRMED",
-      "impact_score": 6
+      "impact_score": 7
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Surge in West Bengal's Rural Areas",
+      "category": "Economy|Infrastructure",
+      "headline": "Freight Train Services Resume on Damodar River Rail Bridge",
       "bullets": [
-        "According to data from the National Vector Borne Disease Control Programme, malaria cases have increased by 20% in rural West Bengal.",
-        "The state's rural population is most affected, with over 70% of cases reported from districts like South 24 Parganas and Howrah.",
-        "Health experts warn that the rising cases could be due to uncontrolled mosquito breeding and inadequate healthcare infrastructure."
+        "The 4.2 km rail bridge was damaged in a cyclone last month",
+        "According to the Eastern Railway, freight train services have resumed, but passenger services are still suspended",
+        "This means local businesses can expect reduced transportation costs and faster delivery times"
       ],
-      "source": "The Wire",
+      "source": "Indian Railways",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Education",
-      "headline": "West Bengal Govt to Launch New School Curriculum",
+      "headline": "State Government Announces 10% Increase in Student Scholarships",
       "bullets": [
-        "The state government has announced a new curriculum for schools, focusing on vocational training and skill development.",
-        "According to data from the Programme for International Student Assessment, West Bengal ranks 22nd among Indian states in education standards.",
-        "The new curriculum aims to improve education outcomes and make students employable after completing school."
+        "The increase affects over 50,000 meritorious students in government schools",
+        "According to the Education Minister, the hike is expected to benefit students from low-income families",
+        "This means meritorious students can expect a ₹3,000 increase in their annual scholarships"
       ],
-      "source": "Times of India",
-      "status": "DEVELOPING",
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal's Wetlands Face Pollution Threat",
+      "category": "Infrastructure",
+      "headline": "Breakdown of East-West Metro Services Causes Chaos in Kolkata",
       "bullets": [
-        "The state's wetlands are facing severe pollution threats, with over 70% of the water bodies contaminated with industrial waste.",
-        "According to a study by the West Bengal Pollution Control Board, the pollution is affecting over 100,000 people who depend on the wetlands for livelihood.",
-        "Environmental activists warn that the pollution could have long-term consequences for the state's ecosystem."
+        "Services were suspended for over 2 hours due to a technical issue",
+        "According to the Kolkata Metro, services have resumed, but passengers are advised to check schedules",
+        "This means commuters may need to adjust their travel plans and schedules"
       ],
-      "source": "Down to Earth",
-      "status": "UNVERIFIED",
+      "source": "The Times of India",
+      "status": "CONFIRMED",
       "impact_score": 3
     }
   ],
