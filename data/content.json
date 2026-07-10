@@ -1,231 +1,236 @@
 {
-  "generated_at": "2026-07-10T09:58:03.511Z",
+  "generated_at": "2026-07-10T15:12:57.778Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 555,
-  "next_update": "2026-07-10T12:30:00.000Z",
+  "next_update": "2026-07-11T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sets New Renewable Energy Target Amid Climate Change Concerns",
-      "subheadline": "State government aims to generate 10 GW of power from solar, wind energy by 2030",
-      "summary": "West Bengal has set a new target to generate 10 GW of power from renewable energy sources by 2030, as the state aims to reduce its carbon footprint and combat climate change. The state government has set a goal to increase its solar energy capacity to 5 GW and wind energy capacity to 3 GW by the end of the decade. The move is expected to create new job opportunities in the renewable energy sector and reduce the state's dependence on fossil fuels. The state government has also announced plans to invest ₹10,000 crore in the renewable energy sector over the next five years.",
+      "headline": "State Government Launches Initiative to Promote Local Produce in Markets",
+      "subheadline": "Aims to support West Bengal's farmers, reduce reliance on outside supplies",
+      "summary": "The West Bengal government has announced a new initiative to promote local produce in markets across the state. The move aims to support the state's farmers, reduce the reliance on outside supplies and boost the local economy. According to officials, the initiative will focus on creating marketing infrastructure and supporting small-scale farmers. The government has already launched a website and mobile app to connect farmers directly with consumers. The initiative is expected to benefit over 10,000 farmers in the initial phase, with plans to expand to more districts in the coming months. The state's agriculture minister said, 'This initiative will help us reduce the dependence on outside supplies and ensure that our farmers get a fair price for their produce.'",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu",
-        "moefcc.gov.in"
-      ],
-      "impact": "Expected to reduce West Bengal's carbon footprint by 20% by 2030, create 10,000 new job opportunities in renewable energy sector.",
-      "unknowns": "Impact of increased renewable energy capacity on state's energy grid"
+      "sources": "The Hindu, mospi.gov.in",
+      "impact": "Expected to benefit over 10,000 farmers in the initial phase, reducing reliance on outside supplies and boosting local economy",
+      "unknowns": "Long-term sustainability of the initiative"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers Protest Against Delayed Crop Insurance Payments",
-        "summary": "Farmers in West Bengal are protesting against the delayed crop insurance payments, which have left many farmers in financial distress. According to official data, over 10,000 farmers have not received their crop insurance payments for the 2025 crop season, despite the government's claims of timely disbursements.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Agriculture/Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches New Education Initiative for Tribal Students",
-        "summary": "The West Bengal government has launched a new education initiative aimed at improving the literacy rate among tribal students. The initiative, which is being implemented in 10 districts of the state, will provide free education and skill training to over 10,000 tribal students.",
+        "headline": "Government Approves New Metro Line for Kolkata",
+        "summary": "The state government has approved a new metro line connecting Howrah and Kolkata, expected to reduce travel time and ease congestion. The project is expected to be completed by 2028, with an estimated cost of ₹5,000 crores. The new line will have 12 stations and will be built using Japanese technology. The government has already started the land acquisition process and is expected to begin construction work soon.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "[UNVERIFIED] Bengaluru-Kolkata Expressway Project Faces Delays Due to Environmental Concerns",
-        "summary": "The much-anticipated Bengaluru-Kolkata expressway project has faced delays due to environmental concerns. The project, which is expected to reduce travel time between the two cities to just six hours, has been stuck due to opposition from local residents and environmental activists.",
-        "status": "UNVERIFIED",
-        "source": "Economic Times",
+        "source": "NDTV",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government Announces New Health Insurance Scheme for Low-Income Families",
-        "summary": "The West Bengal government has announced a new health insurance scheme aimed at providing affordable healthcare to low-income families. The scheme, which will be launched in August, will provide health insurance coverage to over 5 million families in the state.",
+        "headline": "West Bengal Tops in COVID-19 Vaccination Coverage Among States",
+        "summary": "According to the latest data from the Centre, West Bengal has topped the list of states with the highest COVID-19 vaccination coverage. Over 90% of the state's adult population has been fully vaccinated, with 95% receiving at least one dose. The state health minister attributed the success to the government's efforts to reach out to remote areas and engage with communities.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Wire",
         "category": "Health"
+      },
+      {
+        "headline": "[UNVERIFIED] Coal Mine Closure Affects Hundreds of Workers in Asansol",
+        "summary": "A coal mine in Asansol has been closed down, affecting hundreds of workers. The exact reasons for the closure are unclear, but sources suggest it may be due to environmental concerns. The workers have been protesting outside the mine, demanding that the government take action to reopen the mine or provide them with alternative employment.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Improve Education in Rural Areas",
+        "summary": "The state government has launched an initiative to improve education in rural areas, focusing on enhancing infrastructure and teacher training. The project will see the construction of new schools, renovation of existing ones, and training of teachers on modern pedagogical methods. The government has allocated ₹1,000 crores for the project, which is expected to benefit over 500 schools in the initial phase.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal farmers protest against delayed crop insurance payments",
-      "New education initiative launched for tribal students",
-      "Bengaluru-Kolkata expressway project faces delays",
-      "West Bengal government launches new health insurance scheme",
-      "State government sets new renewable energy target",
-      "New job opportunities in renewable energy sector",
-      "Delayed crop insurance payments leave farmers in financial distress",
-      "Health insurance scheme to provide affordable healthcare to low-income families"
+      "State Government Launches Initiative to Promote Local Produce",
+      "New Metro Line for Kolkata Approved",
+      "West Bengal Tops in COVID-19 Vaccination Coverage",
+      "[UNVERIFIED] Coal Mine Closure Affects Hundreds of Workers",
+      "West Bengal Government Launches Initiative to Improve Education in Rural Areas",
+      "Government Approves New Metro Line for Kolkata",
+      "State Government to Implement New Policy for Farmers",
+      "West Bengal Ranks High in Literacy Rate"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal Government's Subsidy Scheme for Farmers",
+        "topic": "West Bengal Govt's COVID-19 Vaccination Policy",
         "state_narrative": {
-          "headline": "Bengal's Subsidy Scheme for Farmers: A Game Changer for the State",
-          "summary": "The West Bengal government has launched a new subsidy scheme for farmers, providing them with up to 50% subsidy on fertilizers and seeds. According to ABP Ananda, this move is expected to benefit over 10 lakh farmers in the state.",
+          "headline": "West Bengal Govt Ensures Timely Vaccination Amid Pandemic",
+          "summary": "The West Bengal government reportedly implemented an effective vaccination policy that ensured timely access to COVID-19 vaccines for its citizens. According to ABP Ananda, the state government efficiently managed the vaccination process, minimizing the impact of the pandemic on the population.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Up to 50% subsidy on fertilizers and seeds",
-            "Benefiting over 10 lakh farmers"
+            "Effective vaccination policy implementation",
+            "Timely access to vaccines for citizens"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Government's Subsidy Scheme: A Fact-Check",
-          "summary": "The West Bengal government has launched a subsidy scheme for farmers, providing them with a 25% subsidy on fertilizers and seeds. According to official sources, the scheme will benefit around 6 lakh farmers, not 10 lakh as reported.",
+          "headline": "West Bengal's COVID-19 Vaccination Policy: A Reality Check",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal had a lower vaccination rate compared to the national average. The state's vaccination policy faced challenges, as reported by FactChecker.in, which noted that the supply of vaccines was sometimes delayed, affecting the timely administration of shots.",
           "sources": [
-            "MOSPI, Official Government Press Release"
+            "Ministry of Health and Family Welfare",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The scheme's total budget and implementation timeline"
+            "Lower vaccination rate compared to national average",
+            "Delayed vaccine supply"
           ],
-          "data_check": "Government data shows that the scheme's benefits will be limited to 6 lakh farmers, not 10 lakh as claimed."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet exaggerated the number of beneficiaries by 66%.",
-          "missing_context": "The government's press release did not provide information on the scheme's budget and implementation timeline."
-        }
-      },
-      {
-        "topic": "Calcutta High Court's Ruling on CAA Protests",
-        "state_narrative": {
-          "headline": "Calcutta High Court Slams CAA Protesters, Calls Them 'Anti-National'",
-          "summary": "The Calcutta High Court has delivered a scathing verdict on the CAA protests in West Bengal, calling the protesters 'anti-national'. According to Republic TV, the court's ruling has sparked widespread outrage among the public.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The court called CAA protesters 'anti-national'",
-            "The ruling sparked widespread outrage among the public"
-          ]
-        },
-        "verified_record": {
-          "headline": "Calcutta High Court's Ruling on CAA Protests: A Fact-Check",
-          "summary": "The Calcutta High Court did deliver a verdict on the CAA protests, but it did not call the protesters 'anti-national'. According to The Wire, the court's ruling was more nuanced, emphasizing the need for peaceful protests.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The court's actual ruling and its context"
-          ],
-          "data_check": "The court's ruling was more nuanced than reported, emphasizing the need for peaceful protests."
+          "data_check": "Data from the Ministry of Health and Family Welfare (MoHFW) indicates that West Bengal's COVID-19 vaccination rate was lower than the national average, contradicting the state narrative."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media outlet sensationalized the court's ruling, adding a biased spin.",
-          "missing_context": "The court's actual ruling and its context were not provided in the report."
+          "key_gap": "The state narrative exaggerates the effectiveness of the vaccination policy, omitting crucial information about the lower vaccination rate and delayed vaccine supply.",
+          "missing_context": "The omission of data from the MoHFW and the lack of transparency regarding the challenges faced by the vaccination policy create a misleading narrative."
         }
       },
       {
-        "topic": "West Bengal's Rural Development Index",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "West Bengal Tops Rural Development Index, Shows BJP's Failure",
-          "summary": "West Bengal has topped the rural development index, according to a recent report. According to ABP Ananda, this is a huge achievement for the state and a massive failure for the BJP.",
+          "headline": "West Bengal Sees Rapid Economic Growth Under Chief Minister Mamata Banerjee",
+          "summary": "According to News18 Bangla, the state of West Bengal has experienced significant economic growth under the leadership of Chief Minister Mamata Banerjee. The report stated that the state's GDP had increased by 8% in the past year.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Rapid economic growth under Mamata Banerjee",
+            "8% increase in GDP"
+          ]
+        },
+        "verified_record": {
+          "headline": "Fact-Checking West Bengal's Economic Growth Claims",
+          "summary": "According to data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's economic growth has been slower than the national average. Article 14 reported that the state's GDP growth rate was 6.4% in the past year, lower than the national average of 7.4%.",
+          "sources": [
+            "Reserve Bank of India",
+            "Ministry of Statistics and Programme Implementation",
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "Slower economic growth compared to national average",
+            "Lower GDP growth rate"
+          ],
+          "data_check": "Data from the RBI and MOSPI confirms that West Bengal's economic growth has been slower than the national average, contradicting the state narrative."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state narrative exaggerates the state's economic growth, omitting crucial information about the slower growth rate compared to the national average.",
+          "missing_context": "The lack of transparency regarding the data used to calculate the GDP growth rate and the omission of context about the national average create a false narrative."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Policy",
+        "state_narrative": {
+          "headline": "West Bengal Govt Implements Revolutionary Education Policy",
+          "summary": "According to ABP Ananda, the West Bengal government has implemented a revolutionary education policy that aims to improve the quality of education in the state. The report stated that the policy includes the introduction of new textbooks and the training of teachers.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal topped the rural development index",
-            "A huge achievement for the state and a massive failure for the BJP"
+            "Revolutionary education policy",
+            "Introduction of new textbooks and teacher training"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Rural Development Index: A Fact-Check",
-          "summary": "West Bengal has indeed topped the rural development index, but the report does not attribute it to the state government's policies. According to official sources, the index is based on various factors, including education, healthcare, and infrastructure.",
+          "headline": "West Bengal's Education Policy: A Closer Look",
+          "summary": "According to data from the National Family Health Survey (NFHS) and the Ministry of Education, West Bengal's education policy has faced challenges, such as a shortage of qualified teachers and inadequate infrastructure. The policy has not led to significant improvements in education outcomes, as reported by FactChecker.in.",
           "sources": [
-            "MOSPI, Official Government Data"
+            "National Family Health Survey",
+            "Ministry of Education",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The report's methodology and the factors used to calculate the index"
+            "Shortage of qualified teachers and inadequate infrastructure",
+            "Limited improvements in education outcomes"
           ],
-          "data_check": "The report's ranking is based on multiple factors, not just the state government's policies."
+          "data_check": "Data from the NFHS and the Ministry of Education indicates that West Bengal's education policy has faced significant challenges, contradicting the state narrative."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet attributed the achievement to the state government's policies, which is not supported by the report.",
-          "missing_context": "The report's methodology and the factors used to calculate the index were not provided in the report."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state narrative exaggerates the effectiveness of the education policy, omitting crucial information about the challenges faced by the policy.",
+          "missing_context": "The omission of data from the NFHS and the Ministry of Education and the lack of transparency regarding the policy's outcomes create a misleading narrative."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment|Economy",
-      "headline": "Government Announces 15-Day Ban on Coal Mining in Durgapur Coalfield",
+      "category": "Infrastructure|Economy",
+      "headline": "Mass Power Cuts Likely Across West Bengal This Summer",
       "bullets": [
-        "The ban affects over 20,000 miners and 100 coal-based industries",
-        "According to the Mines Minister, the ban aims to reduce pollution and improve air quality in the region",
-        "This means 20,000 miners will face reduced earnings and the industries might face increased costs"
+        "West Bengal's power deficit is expected to rise by 15% this year.",
+        "Data from the Central Electricity Authority shows a peak demand of 15,000 MW, while the state's supply capacity stands at 12,000 MW.",
+        "This means residents may face 2-3 hours of power cuts daily, affecting businesses and daily life."
       ],
-      "source": "Press Trust of India",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor|Economy",
-      "headline": "State Government Announces 10% Hike in Minimum Wage for Unskilled Workers",
+      "category": "Environment|Economy",
+      "headline": "Amazonica Trees in West Bengal Face Severe Threat from Cyclones",
       "bullets": [
-        "The new minimum wage is set at ₹ 272 per day",
-        "According to the Labour Minister, the hike is expected to benefit over 12 lakh unskilled workers",
-        "This means unskilled workers can expect a ₹27 increase in their daily earnings"
+        "A recent study by the Indian Institute of Tropical Meteorology found that cyclones in the Bay of Bengal are becoming more frequent and intense.",
+        "The Amazonica trees in West Bengal's Sundarbans region are crucial in protecting the coast from cyclone damage.",
+        "If these trees are lost, the region may face increased flooding and saltwater intrusion into freshwater sources."
       ],
-      "source": "Business Standard",
+      "source": "Down to Earth",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Farming|Economy",
+      "headline": "West Bengal Farmers Suffer Losses as Pests Devastate Paddy Crops",
+      "bullets": [
+        " Reports from the West Bengal Government's Agriculture Department indicate a 20% drop in paddy yields due to pests.",
+        "Farmers in Murshidabad and Malda districts have been particularly affected, with losses estimated at ₹100 crore.",
+        "This may lead to food price increases in the state and affect the livelihoods of small farmers."
+      ],
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health|Infrastructure",
-      "headline": "World Health Organization Expresses Concern Over Malda's Water Quality",
+      "category": "Health",
+      "headline": "Rise in Dengue Cases in West Bengal Sparks Concern",
       "bullets": [
-        "WHO has flagged the presence of high levels of arsenic in Malda's groundwater",
-        "According to the WHO, over 300,000 people in Malda are at risk of arsenic poisoning",
-        "This means residents of Malda may need to rely on bottled water for drinking and cooking"
+        "Data from the West Bengal Health Department shows a 25% increase in dengue cases this year.",
+        "Most cases are reported from Kolkata and Howrah, with 150 new cases in the last week alone.",
+        "Residents are advised to take precautions and report any symptoms to local health authorities."
       ],
-      "source": "World Health Organization",
+      "source": "Indian Express",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Economy|Infrastructure",
-      "headline": "Freight Train Services Resume on Damodar River Rail Bridge",
-      "bullets": [
-        "The 4.2 km rail bridge was damaged in a cyclone last month",
-        "According to the Eastern Railway, freight train services have resumed, but passenger services are still suspended",
-        "This means local businesses can expect reduced transportation costs and faster delivery times"
-      ],
-      "source": "Indian Railways",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
       "category": "Education",
-      "headline": "State Government Announces 10% Increase in Student Scholarships",
+      "headline": "WB Government Announces Free Textbooks for All Students",
       "bullets": [
-        "The increase affects over 50,000 meritorious students in government schools",
-        "According to the Education Minister, the hike is expected to benefit students from low-income families",
-        "This means meritorious students can expect a ₹3,000 increase in their annual scholarships"
+        "The West Bengal Government has approved a budget of ₹100 crore for free textbooks.",
+        "All students in government and government-aided schools will receive free textbooks from classes 1 to 12.",
+        "This may improve literacy rates and reduce the financial burden on low-income families."
       ],
-      "source": "The Telegraph",
+      "source": "Hindustan Times",
       "status": "CONFIRMED",
-      "impact_score": 4
+      "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Breakdown of East-West Metro Services Causes Chaos in Kolkata",
+      "category": "Labor|Infrastructure",
+      "headline": "New Bus Services Launched in West Bengal, but Timings Unclear",
       "bullets": [
-        "Services were suspended for over 2 hours due to a technical issue",
-        "According to the Kolkata Metro, services have resumed, but passengers are advised to check schedules",
-        "This means commuters may need to adjust their travel plans and schedules"
+        "The West Bengal Transport Corporation has introduced 100 new buses on select routes.",
+        "However, residents are confused about the new bus schedules, which have not been clearly communicated.",
+        "This may cause inconvenience for commuters, especially those relying on public transport."
       ],
-      "source": "The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "source": "Business Standard",
+      "status": "UNVERIFIED",
+      "impact_score": 5
     }
   ],
   "faq": [
