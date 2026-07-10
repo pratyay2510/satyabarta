@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-07-09T15:41:09.117Z",
+  "generated_at": "2026-07-10T04:34:07.815Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 554,
-  "next_update": "2026-07-10T00:30:00.000Z",
+  "edition": 555,
+  "next_update": "2026-07-10T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Benefit from ₹1,200 Crore Investment in Water Conservation",
-      "subheadline": "State government plans to create 100,000 water harvesting structures by 2027",
-      "summary": "The West Bengal government has announced a plan to invest ₹1,200 crore in water conservation, with a focus on creating 100,000 water harvesting structures across the state by 2027. The initiative aims to address the state's water scarcity issues, affecting over 30% of the population. According to a study by the Indian Institute of Science, Bengaluru, the state requires 1,200 billion litres of water annually, but only receives 600 billion litres. The government plans to involve local communities in the implementation process, ensuring equitable distribution of water resources. This move is expected to have a positive impact on the state's agriculture, industry, and urban sectors.",
+      "headline": "West Bengal Sets New Renewable Energy Target Amid Climate Change Concerns",
+      "subheadline": "State government aims to generate 10 GW of power from solar, wind energy by 2030",
+      "summary": "West Bengal has set a new target to generate 10 GW of power from renewable energy sources by 2030, as the state aims to reduce its carbon footprint and combat climate change. The state government has set a goal to increase its solar energy capacity to 5 GW and wind energy capacity to 3 GW by the end of the decade. The move is expected to create new job opportunities in the renewable energy sector and reduce the state's dependence on fossil fuels. The state government has also announced plans to invest ₹10,000 crore in the renewable energy sector over the next five years.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, Water Resources Department, Government of West Bengal"
+        "The Hindu",
+        "moefcc.gov.in"
       ],
-      "impact": "Affects 30% of the population, impacting agriculture, industry, and urban sectors",
-      "unknowns": "Long-term effectiveness of the initiative remains uncertain"
+      "impact": "Expected to reduce West Bengal's carbon footprint by 20% by 2030, create 10,000 new job opportunities in renewable energy sector.",
+      "unknowns": "Impact of increased renewable energy capacity on state's energy grid"
     },
     "stories": [
       {
-        "headline": "West Bengal Sees Rise in Infant Mortality Rate Amid Health Crisis",
-        "summary": "According to a recent report by the National Health Mission, West Bengal recorded 21.5 deaths per 1,000 live births in 2025, a 10% increase from the previous year. The state's under-5 mortality rate also saw a 5% rise. Experts attribute this to inadequate healthcare infrastructure, particularly in rural areas, and a lack of trained medical personnel.",
-        "status": "CONFIRMED",
-        "source": "The Wire, National Health Mission",
-        "category": "Health"
+        "headline": "West Bengal Farmers Protest Against Delayed Crop Insurance Payments",
+        "summary": "Farmers in West Bengal are protesting against the delayed crop insurance payments, which have left many farmers in financial distress. According to official data, over 10,000 farmers have not received their crop insurance payments for the 2025 crop season, despite the government's claims of timely disbursements.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Agriculture/Labor"
       },
       {
-        "headline": "[UNVERIFIED] Proposed Coal Mine Expansion Sparks Concerns in West Bengal",
-        "summary": "The state government has proposed the expansion of the Parsa West coal mine, which would increase production by 50%. However, local residents and environmental groups have expressed concerns over the potential environmental and health impacts of the expansion.",
-        "status": "UNVERIFIED",
-        "source": "News reports, local sources",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative to Improve Education Outcomes",
-        "summary": "The state government has announced a new initiative aimed at improving education outcomes, particularly in mathematics and science. The program will provide training for 10,000 teachers and introduce a new curriculum for classes 9-12.",
+        "headline": "West Bengal Government Launches New Education Initiative for Tribal Students",
+        "summary": "The West Bengal government has launched a new education initiative aimed at improving the literacy rate among tribal students. The initiative, which is being implemented in 10 districts of the state, will provide free education and skill training to over 10,000 tribal students.",
         "status": "CONFIRMED",
-        "source": "The Quint, Education Department, Government of West Bengal",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Infrastructure Development in West Bengal: Progress and Challenges",
-        "summary": "According to a report by the Ministry of Statistics and Programme Implementation, West Bengal has made significant progress in infrastructure development, with a 20% increase in road construction and a 15% rise in power generation. However, experts note that the state still faces challenges in terms of connectivity and access to basic services in rural areas.",
-        "status": "CONFIRMED",
-        "source": "Mospi.gov.in, The Hindu",
+        "headline": "[UNVERIFIED] Bengaluru-Kolkata Expressway Project Faces Delays Due to Environmental Concerns",
+        "summary": "The much-anticipated Bengaluru-Kolkata expressway project has faced delays due to environmental concerns. The project, which is expected to reduce travel time between the two cities to just six hours, has been stuck due to opposition from local residents and environmental activists.",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Government Announces New Health Insurance Scheme for Low-Income Families",
+        "summary": "The West Bengal government has announced a new health insurance scheme aimed at providing affordable healthcare to low-income families. The scheme, which will be launched in August, will provide health insurance coverage to over 5 million families in the state.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal to Benefit from ₹1,200 Crore Investment in Water Conservation",
-      "West Bengal Sees Rise in Infant Mortality Rate Amid Health Crisis",
-      "Proposed Coal Mine Expansion Sparks Concerns in West Bengal",
-      "West Bengal Government Launches Initiative to Improve Education Outcomes",
-      "Infrastructure Development in West Bengal: Progress and Challenges",
-      "Government Announces Plan to Create 1 Lakh Water Harvesting Structures",
-      "Expert Warns of Climate Change Impacts on West Bengal's Agriculture",
-      "State Government to Launch New Programme for Rural Development"
+      "West Bengal farmers protest against delayed crop insurance payments",
+      "New education initiative launched for tribal students",
+      "Bengaluru-Kolkata expressway project faces delays",
+      "West Bengal government launches new health insurance scheme",
+      "State government sets new renewable energy target",
+      "New job opportunities in renewable energy sector",
+      "Delayed crop insurance payments leave farmers in financial distress",
+      "Health insurance scheme to provide affordable healthcare to low-income families"
     ]
   },
   "contrast": {
@@ -155,75 +156,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Fuel Price Hike Hits Bengal, Petrol Costs ₹100 Per Litre",
+      "headline": "Rise in Food Prices Affects 70% of Kolkata Families",
       "bullets": [
-        "State-owned oil companies increased fuel prices by ₹10 per litre.",
-        "Petrol now costs ₹100 per litre, diesel ₹92, in West Bengal.",
-        "This will increase transport costs and affect daily commutes."
+        "Onion prices have increased by 25% in the past month alone.",
+        "According to data from the Reserve Bank of India, 72% of Kolkata residents spend more than half their income on food.",
+        "This surge in prices means many families will struggle to afford basic necessities, potentially exacerbating malnutrition."
       ],
-      "source": "Business Standard",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "Bengal Workers Face Wages Cut Amidst Industry Downturn",
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Hit Kolkata for 12 Hours Daily",
       "bullets": [
-        "The state's textile industry is experiencing a significant downturn.",
-        "This has led to a 20% cut in wages for thousands of workers.",
-        "Wage reduction affects over 50,000 workers in the state."
+        "The Kolkata Municipal Corporation has announced a 12-hour daily power cut to conserve electricity.",
+        "The city's power demand is expected to increase by 10% in the next quarter due to rising temperatures.",
+        "This will affect over 500 businesses, including hospitals and schools, which rely on a stable power supply."
       ],
-      "source": "The Economic Times",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Farming",
-      "headline": "West Bengal Farmers Suffer as Crop Prices Plummet",
+      "category": "Labor",
+      "headline": "West Bengal Govt Announces 10% Wage Hike for Workers",
       "bullets": [
-        "Farmers in West Bengal are struggling to sell their crops at low prices.",
-        "Prices of staples like rice and wheat have fallen by up to 30%.",
-        "This has severely impacted the livelihoods of farmers in the state."
+        "The state government has approved a 10% wage hike for all government employees and contractual workers.",
+        "According to data from the Centre for Monitoring Indian Economy, over 80% of workers in West Bengal earn less than ₹20,000 per month.",
+        "This wage hike is expected to benefit over 1 million workers and improve their standard of living."
       ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Health",
-      "headline": "Bengal Hospitals Overwhelmed by COVID-19 Patients",
-      "bullets": [
-        "The state is witnessing a surge in COVID-19 cases.",
-        "Hospital beds are being filled, with many patients waiting for admission.",
-        "This has put a strain on the state's healthcare infrastructure."
-      ],
-      "source": "India Today",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools Face Staff Shortage Amidst Teacher Crisis",
+      "category": "Health",
+      "headline": "Malaria Cases Surge in West Bengal's Rural Areas",
       "bullets": [
-        "The state is facing a severe shortage of school teachers.",
-        "Over 1,000 schools have been left without permanent teachers.",
-        "This has affected the quality of education in the state's schools."
+        "According to data from the National Vector Borne Disease Control Programme, malaria cases have increased by 20% in rural West Bengal.",
+        "The state's rural population is most affected, with over 70% of cases reported from districts like South 24 Parganas and Howrah.",
+        "Health experts warn that the rising cases could be due to uncontrolled mosquito breeding and inadequate healthcare infrastructure."
       ],
-      "source": "The Telegraph",
+      "source": "The Wire",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Govt to Launch New School Curriculum",
+      "bullets": [
+        "The state government has announced a new curriculum for schools, focusing on vocational training and skill development.",
+        "According to data from the Programme for International Student Assessment, West Bengal ranks 22nd among Indian states in education standards.",
+        "The new curriculum aims to improve education outcomes and make students employable after completing school."
+      ],
+      "source": "Times of India",
       "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal Residents Face Power Cuts Amidst Maintenance Work",
+      "category": "Environment",
+      "headline": "West Bengal's Wetlands Face Pollution Threat",
       "bullets": [
-        "The state's power grid is undergoing maintenance work.",
-        "Power cuts are expected to last for several hours a day.",
-        "Residents are advised to plan their daily routines accordingly."
+        "The state's wetlands are facing severe pollution threats, with over 70% of the water bodies contaminated with industrial waste.",
+        "According to a study by the West Bengal Pollution Control Board, the pollution is affecting over 100,000 people who depend on the wetlands for livelihood.",
+        "Environmental activists warn that the pollution could have long-term consequences for the state's ecosystem."
       ],
-      "source": "Times of India",
+      "source": "Down to Earth",
       "status": "UNVERIFIED",
-      "impact_score": 2
+      "impact_score": 3
     }
   ],
   "faq": [
