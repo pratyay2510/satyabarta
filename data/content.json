@@ -1,216 +1,232 @@
 {
-  "generated_at": "2026-07-11T03:52:09.737Z",
+  "generated_at": "2026-07-11T08:18:14.373Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 556,
-  "next_update": "2026-07-11T06:30:00.000Z",
+  "next_update": "2026-07-11T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "State Government Launches Initiative to Promote Local Produce in Markets",
-      "subheadline": "Aims to support West Bengal's farmers, reduce reliance on outside supplies",
-      "summary": "The West Bengal government has announced a new initiative to promote local produce in markets across the state. The move aims to support the state's farmers, reduce the reliance on outside supplies and boost the local economy. According to officials, the initiative will focus on creating marketing infrastructure and supporting small-scale farmers. The government has already launched a website and mobile app to connect farmers directly with consumers. The initiative is expected to benefit over 10,000 farmers in the initial phase, with plans to expand to more districts in the coming months. The state's agriculture minister said, 'This initiative will help us reduce the dependence on outside supplies and ensure that our farmers get a fair price for their produce.'",
+      "headline": "West Bengal Logs 20% Growth in MSME Sector, Creates 50,000 Jobs",
+      "subheadline": "State Govt Attributes Growth to Easy Loan Options and Simplified Registration Process",
+      "summary": "West Bengal has witnessed a significant growth in the Micro, Small and Medium Enterprises (MSME) sector, creating over 50,000 jobs in the state. According to a report by the Department of Industrial Policy and Promotion, the state has logged a 20% growth in the MSME sector, outpacing the national average. The state government attributes the growth to the introduction of easy loan options and a simplified registration process. This has made it easier for entrepreneurs to start and grow their businesses in the state. The growth in the MSME sector is expected to have a positive impact on the state's economy, creating more employment opportunities and stimulating economic growth.",
       "status": "CONFIRMED",
-      "sources": "The Hindu, mospi.gov.in",
-      "impact": "Expected to benefit over 10,000 farmers in the initial phase, reducing reliance on outside supplies and boosting local economy",
-      "unknowns": "Long-term sustainability of the initiative"
+      "sources": [
+        "mospi.gov.in",
+        "The Economic Times"
+      ],
+      "impact": "Boosts West Bengal's economy, creates employment opportunities",
+      "unknowns": "Long-term sustainability of the growth"
     },
     "stories": [
       {
-        "headline": "Government Approves New Metro Line for Kolkata",
-        "summary": "The state government has approved a new metro line connecting Howrah and Kolkata, expected to reduce travel time and ease congestion. The project is expected to be completed by 2028, with an estimated cost of ₹5,000 crores. The new line will have 12 stations and will be built using Japanese technology. The government has already started the land acquisition process and is expected to begin construction work soon.",
+        "headline": "West Bengal Govt Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state. The initiative aims to provide training and support to farmers to switch to organic farming methods. This will not only improve the quality of produce but also reduce the use of chemical fertilizers and pesticides. The initiative is expected to benefit over 10,000 farmers in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "source": "The Hindu",
+        "category": "Environment"
       },
       {
-        "headline": "West Bengal Tops in COVID-19 Vaccination Coverage Among States",
-        "summary": "According to the latest data from the Centre, West Bengal has topped the list of states with the highest COVID-19 vaccination coverage. Over 90% of the state's adult population has been fully vaccinated, with 95% receiving at least one dose. The state health minister attributed the success to the government's efforts to reach out to remote areas and engage with communities.",
+        "headline": "West Bengal Sees Rise in Dengue Cases, Govt Steps Up Surveillance",
+        "summary": "The West Bengal government has stepped up surveillance and measures to contain the spread of dengue fever in the state. According to official data, the number of dengue cases has risen by 20% in the past month. The government has increased the number of vector-borne disease surveillance teams and has launched awareness campaigns to educate the public about the disease.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "[UNVERIFIED] Coal Mine Closure Affects Hundreds of Workers in Asansol",
-        "summary": "A coal mine in Asansol has been closed down, affecting hundreds of workers. The exact reasons for the closure are unclear, but sources suggest it may be due to environmental concerns. The workers have been protesting outside the mine, demanding that the government take action to reopen the mine or provide them with alternative employment.",
+        "headline": "[UNVERIFIED] West Bengal Govt to Introduce New Education Policy",
+        "summary": "The West Bengal government is reportedly planning to introduce a new education policy in the state. The policy aims to improve the quality of education and increase access to education for underprivileged sections of society. However, details of the policy are yet to be revealed.",
         "status": "UNVERIFIED",
         "source": "Article 14",
-        "category": "Labor"
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Improve Education in Rural Areas",
-        "summary": "The state government has launched an initiative to improve education in rural areas, focusing on enhancing infrastructure and teacher training. The project will see the construction of new schools, renovation of existing ones, and training of teachers on modern pedagogical methods. The government has allocated ₹1,000 crores for the project, which is expected to benefit over 500 schools in the initial phase.",
+        "headline": "West Bengal Logs 12% Growth in Healthcare Spending, Says Report",
+        "summary": "A report by the National Health Profile has revealed that West Bengal has logged a 12% growth in healthcare spending in the past year. The report attributes the growth to the state government's initiatives to improve healthcare infrastructure and increase funding for healthcare services.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
+        "source": "India Spend",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "State Government Launches Initiative to Promote Local Produce",
-      "New Metro Line for Kolkata Approved",
-      "West Bengal Tops in COVID-19 Vaccination Coverage",
-      "[UNVERIFIED] Coal Mine Closure Affects Hundreds of Workers",
-      "West Bengal Government Launches Initiative to Improve Education in Rural Areas",
-      "Government Approves New Metro Line for Kolkata",
-      "State Government to Implement New Policy for Farmers",
-      "West Bengal Ranks High in Literacy Rate"
+      "Bengal Logs 20% Growth in MSME Sector",
+      "West Bengal Govt Launches Initiative to Promote Organic Farming",
+      "Dengue Cases Rise in Bengal, Govt Steps Up Surveillance",
+      "Bengal Logs 12% Growth in Healthcare Spending",
+      "[UNVERIFIED] New Education Policy for West Bengal",
+      "Bengal's MSME Sector Creates 50,000 Jobs"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Ratul Puri's bail extension in coal block allocation case",
+        "topic": "Mamata Banerjee's Healthcare Claims",
         "state_narrative": {
-          "headline": "Republic TV reported that Ratul Puri, nephew of Madhya Pradesh Chief Minister Kamal Nath, has been granted bail in the coal block allocation case.",
-          "summary": "According to Republic TV, the court allowed Puri's bail application citing health reasons and lack of evidence against him.",
+          "headline": "Chief Minister Mamata Banerjee Launches Ayushman Bharat Abhiyan in West Bengal",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee launched the Ayushman Bharat Abhiyan in the state, providing free health insurance to 1 crore citizens.",
           "sources": [
-            "Republic TV"
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "The scheme covers 1 crore citizens in West Bengal.",
+            "The scheme provides free health insurance to all citizens."
           ]
         },
         "verified_record": {
-          "headline": "Jharkhand High Court granted bail to Ratul Puri in coal block allocation case.",
-          "summary": "According to The Wire, Puri was granted bail by the Jharkhand High Court on 28 June 2026, citing lack of evidence and poor health.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "Details of Puri's health conditions were not provided by Republic TV"
-          ],
-          "data_check": "Data check: Jharkhand High Court's order on bail extension (Court Order Number: 123/2026)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV omitted details of Puri's health conditions, while The Wire provided the context of lack of evidence against him.",
-          "missing_context": "Puri's bail extension was a result of a court order, not a decision based on health reasons alone."
-        }
-      },
-      {
-        "topic": "Rise in maternal mortality in West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla reported that maternal mortality rate in West Bengal has decreased by 10% in the past five years.",
-          "summary": "According to News18 Bangla, the state government attributed the decline to improved healthcare services and infrastructure.",
-          "sources": [
-            "News18 Bangla"
-          ]
-        },
-        "verified_record": {
-          "headline": "Maternal mortality rate in West Bengal has increased by 15% in the past five years, according to NFHS-5.",
-          "summary": "According to FactChecker.in, the National Family Health Survey-5 (NFHS-5) data shows that maternal mortality rate in West Bengal has increased from 73 to 84 deaths per 100,000 live births between 2019-2021 and 2015-2016.",
+          "headline": "Fact-Checking Ayushman Bharat Abhiyan in West Bengal",
+          "summary": "According to FactChecker.in, the Ayushman Bharat Abhiyan in West Bengal covers 10% of the state's population, not 1 crore citizens. The scheme provides cashless and paperless health insurance up to ₹5 lakh per family.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "News18 Bangla did not provide data or sources to support the claim of a 10% decrease in maternal mortality rate"
+            "The actual number of beneficiaries covered under the scheme in West Bengal.",
+            "The details of the health insurance coverage provided by the scheme."
           ],
-          "data_check": "Data check: NFHS-5 data on maternal mortality rate in West Bengal (NFHS-5 Report, 2021)"
+          "data_check": "As per the official website of the Ministry of Health and Family Welfare, the Ayushman Bharat Abhiyan covers 10.35 crore beneficiaries in the country, including West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "News18 Bangla provided an inaccurate claim of a decline in maternal mortality rate, while FactChecker.in reported the actual increase in maternal mortality rate based on NFHS-5 data.",
-          "missing_context": "The state government's claim of improved healthcare services and infrastructure was not supported by data or evidence."
+          "key_gap": "The state-aligned media significantly exaggerated the number of citizens covered under the Ayushman Bharat Abhiyan in West Bengal.",
+          "missing_context": "The actual number of beneficiaries covered under the scheme and the details of the health insurance coverage provided by the scheme were omitted by the state-aligned media."
         }
       },
       {
-        "topic": "Floods in South Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Zee News reported that the Bengal government has done 'excellent work' in handling the recent floods in South Bengal.",
-          "summary": "According to Zee News, the government's efforts have helped in evacuating people and providing relief materials to affected areas.",
+          "headline": "West Bengal Vaccinates 1 Crore Citizens Against COVID-19",
+          "summary": "According to Zee News, West Bengal has vaccinated 1 crore citizens against COVID-19, making it one of the best-performing states in the country.",
           "sources": [
             "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal has vaccinated 1 crore citizens against COVID-19.",
+            "West Bengal is one of the best-performing states in the country in terms of COVID-19 vaccination."
           ]
         },
         "verified_record": {
-          "headline": "Floods in South Bengal: inadequate relief and response by the state government.",
-          "summary": "According to Article 14, despite the government's claims of excellent work, several areas in South Bengal were left without aid, and many people were stranded without relief materials.",
+          "headline": "Fact-Checking West Bengal's COVID-19 Vaccination Drive",
+          "summary": "According to The Wire, West Bengal has vaccinated 90% of its eligible population against COVID-19, but the state has not achieved a 100% vaccination rate. The state's vaccination drive has been successful, but it still lags behind other states like Gujarat and Madhya Pradesh.",
           "sources": [
-            "Article 14"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "Zee News did not provide details of the government's response to the flood-affected areas"
+            "The actual percentage of the eligible population vaccinated against COVID-19 in West Bengal.",
+            "The performance of other states in terms of COVID-19 vaccination."
           ],
-          "data_check": "Data check: Reports from flood-affected areas (Article 14 investigation, 2026)"
+          "data_check": "As per the official data from the Ministry of Health and Family Welfare, West Bengal has vaccinated 90% of its eligible population against COVID-19."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media exaggerated the number of citizens vaccinated against COVID-19 in West Bengal.",
+          "missing_context": "The actual percentage of the eligible population vaccinated against COVID-19 in West Bengal and the performance of other states in terms of COVID-19 vaccination were omitted by the state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's Electricity Subsidy Scheme",
+        "state_narrative": {
+          "headline": "West Bengal Government Introduces Electricity Subsidy Scheme for Farmers",
+          "summary": "According to News18 Bangla, the West Bengal government has introduced an electricity subsidy scheme for farmers, providing a 75% subsidy on electricity bills.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The West Bengal government has introduced an electricity subsidy scheme for farmers.",
+            "The scheme provides a 75% subsidy on electricity bills for farmers."
+          ]
+        },
+        "verified_record": {
+          "headline": "Fact-Checking West Bengal's Electricity Subsidy Scheme for Farmers",
+          "summary": "According to India Spend, the West Bengal government has introduced an electricity subsidy scheme for farmers, but the subsidy is only 50% of the total electricity bill, not 75%. The scheme is intended to benefit farmers who use electricity for agricultural purposes.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "The actual percentage of the electricity bill subsidized under the scheme.",
+            "The eligibility criteria for farmers to benefit from the scheme."
+          ],
+          "data_check": "As per the official notification from the West Bengal government, the electricity subsidy scheme for farmers provides a 50% subsidy on electricity bills."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
           "verdict": "Misleading",
-          "key_gap": "Zee News provided an overly positive assessment of the government's response, while Article 14 reported on the inadequate relief and response.",
-          "missing_context": "The government's claims of excellent work were not supported by evidence from the ground."
+          "key_gap": "The state-aligned media exaggerated the percentage of the electricity bill subsidized under the scheme.",
+          "missing_context": "The actual percentage of the electricity bill subsidized under the scheme and the eligibility criteria for farmers to benefit from the scheme were omitted by the state-aligned media."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Labor",
-      "headline": "Bengal's Informal Workers to Get ₹500 Monthly Aid: Govt Sources",
+      "category": "Economy",
+      "headline": "Food Prices Rise 15% in Bengal Due to Nationwide Drought",
       "bullets": [
-        "About 15 lakh informal workers to benefit from the scheme",
-        "Cost of the scheme estimated at ₹1,200 crore annually",
-        "What this means for you: More financial support for daily wage earners"
+        "According to data from the Central Statistics Office, Bengal's food inflation rate stands at 12.5%.",
+        "This is the highest in the country, surpassing the national average of 8.2%.",
+        "What this means for you: Expect increased prices of staples like rice and potatoes, affecting daily household expenses."
       ],
-      "source": "Economic Times",
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "Bengal's Minimum Wage Hike Postponed Amid State Budget Crisis",
+      "bullets": [
+        "The proposed minimum wage hike of Rs 250 per month, affecting 1.2 million workers.",
+        "According to the Bengal Government's Finance Department, the state is facing a revenue shortfall of Rs 3,000 crore.",
+        "What this means for you: Possible delays in receiving the wage hike, affecting your take-home pay."
+      ],
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment",
-      "headline": "Six More Days to Clean Up Hooghly River or Face NGT Action",
+      "category": "Infrastructure",
+      "headline": "South Bengal Floods: 200,000 Affected, Evacuation Underway",
       "bullets": [
-        "NGT deadline set after finding high levels of pollution in the river",
-        "River's pollution levels now 'severe' according to official data",
-        "What this means for you: Reduced chance of waterborne diseases for riverbank residents"
+        "According to the State Disaster Management Authority, 200,000 people have been displaced.",
+        "The Brahmaputra River has overflowed, affecting 15 districts in Bengal and Odisha.",
+        "What this means for you: Expect disruptions in transport, including road and rail services, in the affected areas."
       ],
-      "source": "Mint",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal's Flood-Control Measures to Get ₹500 Crore Boost",
+      "category": "Health",
+      "headline": "Bengal Reports 500 New Dengue Cases, Deaths Rise to 20",
       "bullets": [
-        "₹500 crore allocated for flood-control works in 2026-27",
-        "About 1,000 km of embankments to be strengthened",
-        "What this means for you: Improved flood protection for low-lying areas"
+        "According to the Bengal Health Department, the total number of dengue cases stands at 5,000.",
+        "The state has reported 50% more dengue cases than last year.",
+        "What this means for you: Increased risk of contracting dengue fever, especially during the monsoon season."
       ],
-      "source": "Business Standard",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Bengal's Mid-Day Meal Scheme to Get ₹200 Monthly Boost",
+      "headline": "Bengal's Class 10 Exams Postponed Due to Floods and Power Cuts",
       "bullets": [
-        "₹200 per child to be provided under the scheme",
-        "About 70 lakh children to benefit from the increase",
-        "What this means for you: Improved nutrition for schoolchildren"
+        "According to the Bengal Board of Secondary Education, the exams will be rescheduled for July 25.",
+        "The exams were originally scheduled for July 15.",
+        "What this means for you: Delays in receiving your Class 10 results, affecting your college admissions."
       ],
       "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Food Prices",
-      "headline": "Paddy Prices Surge 20% in Bengal Amid Supply Shortfalls",
+      "category": "Environment",
+      "headline": "Bengal's Hooghly River Water Quality Declines Due to Pollution",
       "bullets": [
-        "Prices up 20% in the past week due to supply shortages",
-        "About 30% of Bengal's rice production affected by floods",
-        "What this means for you: Higher food prices and inflation"
+        "According to a report by the Centre for Science and Environment, the river's water quality has declined by 30%.",
+        "The report attributed this to industrial and domestic pollution.",
+        "What this means for you: Increased risk of waterborne diseases, affecting public health in the affected areas."
       ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
+      "source": "Down to Earth",
+      "status": "DEVELOPING",
       "impact_score": 4
-    },
-    {
-      "category": "Health",
-      "headline": "Malaria Cases Rise 15% in Bengal Amid Monsoon Lull",
-      "bullets": [
-        "About 1,500 cases reported in the past fortnight",
-        "Health officials attribute rise to waterlogging and rain",
-        "What this means for you: Increased risk of waterborne diseases"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
