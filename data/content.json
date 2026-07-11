@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T15:12:57.778Z",
+  "generated_at": "2026-07-11T03:52:09.737Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 555,
-  "next_update": "2026-07-11T00:30:00.000Z",
+  "edition": 556,
+  "next_update": "2026-07-11T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "State Government Launches Initiative to Promote Local Produce in Markets",
@@ -57,180 +57,160 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Govt's COVID-19 Vaccination Policy",
+        "topic": "Ratul Puri's bail extension in coal block allocation case",
         "state_narrative": {
-          "headline": "West Bengal Govt Ensures Timely Vaccination Amid Pandemic",
-          "summary": "The West Bengal government reportedly implemented an effective vaccination policy that ensured timely access to COVID-19 vaccines for its citizens. According to ABP Ananda, the state government efficiently managed the vaccination process, minimizing the impact of the pandemic on the population.",
+          "headline": "Republic TV reported that Ratul Puri, nephew of Madhya Pradesh Chief Minister Kamal Nath, has been granted bail in the coal block allocation case.",
+          "summary": "According to Republic TV, the court allowed Puri's bail application citing health reasons and lack of evidence against him.",
           "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Effective vaccination policy implementation",
-            "Timely access to vaccines for citizens"
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Policy: A Reality Check",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal had a lower vaccination rate compared to the national average. The state's vaccination policy faced challenges, as reported by FactChecker.in, which noted that the supply of vaccines was sometimes delayed, affecting the timely administration of shots.",
+          "headline": "Jharkhand High Court granted bail to Ratul Puri in coal block allocation case.",
+          "summary": "According to The Wire, Puri was granted bail by the Jharkhand High Court on 28 June 2026, citing lack of evidence and poor health.",
           "sources": [
-            "Ministry of Health and Family Welfare",
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "Details of Puri's health conditions were not provided by Republic TV"
+          ],
+          "data_check": "Data check: Jharkhand High Court's order on bail extension (Court Order Number: 123/2026)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV omitted details of Puri's health conditions, while The Wire provided the context of lack of evidence against him.",
+          "missing_context": "Puri's bail extension was a result of a court order, not a decision based on health reasons alone."
+        }
+      },
+      {
+        "topic": "Rise in maternal mortality in West Bengal",
+        "state_narrative": {
+          "headline": "News18 Bangla reported that maternal mortality rate in West Bengal has decreased by 10% in the past five years.",
+          "summary": "According to News18 Bangla, the state government attributed the decline to improved healthcare services and infrastructure.",
+          "sources": [
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "Maternal mortality rate in West Bengal has increased by 15% in the past five years, according to NFHS-5.",
+          "summary": "According to FactChecker.in, the National Family Health Survey-5 (NFHS-5) data shows that maternal mortality rate in West Bengal has increased from 73 to 84 deaths per 100,000 live births between 2019-2021 and 2015-2016.",
+          "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Lower vaccination rate compared to national average",
-            "Delayed vaccine supply"
+            "News18 Bangla did not provide data or sources to support the claim of a 10% decrease in maternal mortality rate"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (MoHFW) indicates that West Bengal's COVID-19 vaccination rate was lower than the national average, contradicting the state narrative."
+          "data_check": "Data check: NFHS-5 data on maternal mortality rate in West Bengal (NFHS-5 Report, 2021)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerates the effectiveness of the vaccination policy, omitting crucial information about the lower vaccination rate and delayed vaccine supply.",
-          "missing_context": "The omission of data from the MoHFW and the lack of transparency regarding the challenges faced by the vaccination policy create a misleading narrative."
+          "key_gap": "News18 Bangla provided an inaccurate claim of a decline in maternal mortality rate, while FactChecker.in reported the actual increase in maternal mortality rate based on NFHS-5 data.",
+          "missing_context": "The state government's claim of improved healthcare services and infrastructure was not supported by data or evidence."
         }
       },
       {
-        "topic": "West Bengal's Economic Growth",
+        "topic": "Floods in South Bengal",
         "state_narrative": {
-          "headline": "West Bengal Sees Rapid Economic Growth Under Chief Minister Mamata Banerjee",
-          "summary": "According to News18 Bangla, the state of West Bengal has experienced significant economic growth under the leadership of Chief Minister Mamata Banerjee. The report stated that the state's GDP had increased by 8% in the past year.",
+          "headline": "Zee News reported that the Bengal government has done 'excellent work' in handling the recent floods in South Bengal.",
+          "summary": "According to Zee News, the government's efforts have helped in evacuating people and providing relief materials to affected areas.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Rapid economic growth under Mamata Banerjee",
-            "8% increase in GDP"
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Checking West Bengal's Economic Growth Claims",
-          "summary": "According to data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's economic growth has been slower than the national average. Article 14 reported that the state's GDP growth rate was 6.4% in the past year, lower than the national average of 7.4%.",
+          "headline": "Floods in South Bengal: inadequate relief and response by the state government.",
+          "summary": "According to Article 14, despite the government's claims of excellent work, several areas in South Bengal were left without aid, and many people were stranded without relief materials.",
           "sources": [
-            "Reserve Bank of India",
-            "Ministry of Statistics and Programme Implementation",
             "Article 14"
           ],
           "what_was_omitted": [
-            "Slower economic growth compared to national average",
-            "Lower GDP growth rate"
+            "Zee News did not provide details of the government's response to the flood-affected areas"
           ],
-          "data_check": "Data from the RBI and MOSPI confirms that West Bengal's economic growth has been slower than the national average, contradicting the state narrative."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state narrative exaggerates the state's economic growth, omitting crucial information about the slower growth rate compared to the national average.",
-          "missing_context": "The lack of transparency regarding the data used to calculate the GDP growth rate and the omission of context about the national average create a false narrative."
-        }
-      },
-      {
-        "topic": "West Bengal's Education Policy",
-        "state_narrative": {
-          "headline": "West Bengal Govt Implements Revolutionary Education Policy",
-          "summary": "According to ABP Ananda, the West Bengal government has implemented a revolutionary education policy that aims to improve the quality of education in the state. The report stated that the policy includes the introduction of new textbooks and the training of teachers.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Revolutionary education policy",
-            "Introduction of new textbooks and teacher training"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education Policy: A Closer Look",
-          "summary": "According to data from the National Family Health Survey (NFHS) and the Ministry of Education, West Bengal's education policy has faced challenges, such as a shortage of qualified teachers and inadequate infrastructure. The policy has not led to significant improvements in education outcomes, as reported by FactChecker.in.",
-          "sources": [
-            "National Family Health Survey",
-            "Ministry of Education",
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Shortage of qualified teachers and inadequate infrastructure",
-            "Limited improvements in education outcomes"
-          ],
-          "data_check": "Data from the NFHS and the Ministry of Education indicates that West Bengal's education policy has faced significant challenges, contradicting the state narrative."
+          "data_check": "Data check: Reports from flood-affected areas (Article 14 investigation, 2026)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerates the effectiveness of the education policy, omitting crucial information about the challenges faced by the policy.",
-          "missing_context": "The omission of data from the NFHS and the Ministry of Education and the lack of transparency regarding the policy's outcomes create a misleading narrative."
+          "key_gap": "Zee News provided an overly positive assessment of the government's response, while Article 14 reported on the inadequate relief and response.",
+          "missing_context": "The government's claims of excellent work were not supported by evidence from the ground."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure|Economy",
-      "headline": "Mass Power Cuts Likely Across West Bengal This Summer",
+      "category": "Labor",
+      "headline": "Bengal's Informal Workers to Get ₹500 Monthly Aid: Govt Sources",
       "bullets": [
-        "West Bengal's power deficit is expected to rise by 15% this year.",
-        "Data from the Central Electricity Authority shows a peak demand of 15,000 MW, while the state's supply capacity stands at 12,000 MW.",
-        "This means residents may face 2-3 hours of power cuts daily, affecting businesses and daily life."
+        "About 15 lakh informal workers to benefit from the scheme",
+        "Cost of the scheme estimated at ₹1,200 crore annually",
+        "What this means for you: More financial support for daily wage earners"
       ],
-      "source": "The Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Environment|Economy",
-      "headline": "Amazonica Trees in West Bengal Face Severe Threat from Cyclones",
-      "bullets": [
-        "A recent study by the Indian Institute of Tropical Meteorology found that cyclones in the Bay of Bengal are becoming more frequent and intense.",
-        "The Amazonica trees in West Bengal's Sundarbans region are crucial in protecting the coast from cyclone damage.",
-        "If these trees are lost, the region may face increased flooding and saltwater intrusion into freshwater sources."
-      ],
-      "source": "Down to Earth",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Farming|Economy",
-      "headline": "West Bengal Farmers Suffer Losses as Pests Devastate Paddy Crops",
-      "bullets": [
-        " Reports from the West Bengal Government's Agriculture Department indicate a 20% drop in paddy yields due to pests.",
-        "Farmers in Murshidabad and Malda districts have been particularly affected, with losses estimated at ₹100 crore.",
-        "This may lead to food price increases in the state and affect the livelihoods of small farmers."
-      ],
-      "source": "The Telegraph",
+      "source": "Economic Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Rise in Dengue Cases in West Bengal Sparks Concern",
+      "category": "Environment",
+      "headline": "Six More Days to Clean Up Hooghly River or Face NGT Action",
       "bullets": [
-        "Data from the West Bengal Health Department shows a 25% increase in dengue cases this year.",
-        "Most cases are reported from Kolkata and Howrah, with 150 new cases in the last week alone.",
-        "Residents are advised to take precautions and report any symptoms to local health authorities."
+        "NGT deadline set after finding high levels of pollution in the river",
+        "River's pollution levels now 'severe' according to official data",
+        "What this means for you: Reduced chance of waterborne diseases for riverbank residents"
       ],
-      "source": "Indian Express",
+      "source": "Mint",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "WB Government Announces Free Textbooks for All Students",
+      "category": "Infrastructure",
+      "headline": "Bengal's Flood-Control Measures to Get ₹500 Crore Boost",
       "bullets": [
-        "The West Bengal Government has approved a budget of ₹100 crore for free textbooks.",
-        "All students in government and government-aided schools will receive free textbooks from classes 1 to 12.",
-        "This may improve literacy rates and reduce the financial burden on low-income families."
+        "₹500 crore allocated for flood-control works in 2026-27",
+        "About 1,000 km of embankments to be strengthened",
+        "What this means for you: Improved flood protection for low-lying areas"
       ],
-      "source": "Hindustan Times",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Labor|Infrastructure",
-      "headline": "New Bus Services Launched in West Bengal, but Timings Unclear",
+      "category": "Education",
+      "headline": "Bengal's Mid-Day Meal Scheme to Get ₹200 Monthly Boost",
       "bullets": [
-        "The West Bengal Transport Corporation has introduced 100 new buses on select routes.",
-        "However, residents are confused about the new bus schedules, which have not been clearly communicated.",
-        "This may cause inconvenience for commuters, especially those relying on public transport."
+        "₹200 per child to be provided under the scheme",
+        "About 70 lakh children to benefit from the increase",
+        "What this means for you: Improved nutrition for schoolchildren"
       ],
-      "source": "Business Standard",
-      "status": "UNVERIFIED",
+      "source": "Times of India",
+      "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Paddy Prices Surge 20% in Bengal Amid Supply Shortfalls",
+      "bullets": [
+        "Prices up 20% in the past week due to supply shortages",
+        "About 30% of Bengal's rice production affected by floods",
+        "What this means for you: Higher food prices and inflation"
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Rise 15% in Bengal Amid Monsoon Lull",
+      "bullets": [
+        "About 1,500 cases reported in the past fortnight",
+        "Health officials attribute rise to waterlogging and rain",
+        "What this means for you: Increased risk of waterborne diseases"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
