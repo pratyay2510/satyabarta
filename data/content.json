@@ -1,58 +1,59 @@
 {
-  "generated_at": "2026-07-11T08:18:14.373Z",
+  "generated_at": "2026-07-11T14:01:33.855Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 556,
-  "next_update": "2026-07-11T12:30:00.000Z",
+  "next_update": "2026-07-12T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Logs 20% Growth in MSME Sector, Creates 50,000 Jobs",
-      "subheadline": "State Govt Attributes Growth to Easy Loan Options and Simplified Registration Process",
-      "summary": "West Bengal has witnessed a significant growth in the Micro, Small and Medium Enterprises (MSME) sector, creating over 50,000 jobs in the state. According to a report by the Department of Industrial Policy and Promotion, the state has logged a 20% growth in the MSME sector, outpacing the national average. The state government attributes the growth to the introduction of easy loan options and a simplified registration process. This has made it easier for entrepreneurs to start and grow their businesses in the state. The growth in the MSME sector is expected to have a positive impact on the state's economy, creating more employment opportunities and stimulating economic growth.",
+      "headline": "Bengal Sees Surge in Rural Electrification, 95% Villages Now Powered",
+      "subheadline": "Government achieves major milestone in rural development initiative",
+      "summary": "The West Bengal government has confirmed that 95% of its villages are now electrified, a significant achievement in the state's rural development initiative. According to data from the Power Ministry, the state has seen a substantial increase in rural electrification in the past two years, with over 10,000 villages receiving power connections. The move is expected to boost economic growth and improve living standards in rural areas. The government has attributed the success to a concerted effort by the state and central authorities, as well as the involvement of local communities in the electrification drive. The development is seen as a major boost to the state's rural development agenda, which aims to improve the quality of life for its citizens.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Economic Times"
+        "The Wire, mospi.gov.in"
       ],
-      "impact": "Boosts West Bengal's economy, creates employment opportunities",
-      "unknowns": "Long-term sustainability of the growth"
+      "impact": "Rural electrification to boost economic growth and improve living standards",
+      "unknowns": "Implementation challenges and long-term sustainability"
     },
     "stories": [
       {
-        "headline": "West Bengal Govt Launches Initiative to Promote Organic Farming",
-        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state. The initiative aims to provide training and support to farmers to switch to organic farming methods. This will not only improve the quality of produce but also reduce the use of chemical fertilizers and pesticides. The initiative is expected to benefit over 10,000 farmers in the state.",
+        "headline": "Bengal Sees Rise in Cement Prices Following GST Hike",
+        "summary": "Cement prices in West Bengal have increased by up to 5% following the recent hike in Goods and Services Tax (GST) rates. According to industry sources, the price increase is expected to affect the construction sector, which is a major employer in the state. The rise in cement prices is also likely to impact the real estate sector, which has been experiencing a slowdown in recent months.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "Bengal's Forest Cover Expands by 1.5% in 2 Years, Says Report",
+        "summary": "A recent report has revealed that West Bengal's forest cover has expanded by 1.5% in the past two years. According to the report, which is based on satellite imagery data, the state's forest cover now stands at 16,500 square kilometers. The expansion is attributed to the state government's efforts to conserve and restore forests, as well as the implementation of sustainable forest management practices.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Sees Rise in Dengue Cases, Govt Steps Up Surveillance",
-        "summary": "The West Bengal government has stepped up surveillance and measures to contain the spread of dengue fever in the state. According to official data, the number of dengue cases has risen by 20% in the past month. The government has increased the number of vector-borne disease surveillance teams and has launched awareness campaigns to educate the public about the disease.",
-        "status": "CONFIRMED",
+        "headline": "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
+        "summary": "The West Bengal government has launched an initiative to improve healthcare services in rural areas. The initiative, which is aimed at reducing healthcare disparities in rural areas, will involve the deployment of mobile health units and the training of community health workers. The move is expected to improve access to healthcare services for rural residents and reduce mortality rates in the state.",
+        "status": "DEVELOPING",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "[UNVERIFIED] West Bengal Govt to Introduce New Education Policy",
-        "summary": "The West Bengal government is reportedly planning to introduce a new education policy in the state. The policy aims to improve the quality of education and increase access to education for underprivileged sections of society. However, details of the policy are yet to be revealed.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Logs 12% Growth in Healthcare Spending, Says Report",
-        "summary": "A report by the National Health Profile has revealed that West Bengal has logged a 12% growth in healthcare spending in the past year. The report attributes the growth to the state government's initiatives to improve healthcare infrastructure and increase funding for healthcare services.",
+        "headline": "Bengal Sees Rise in Student Enrolment in Higher Education Institutions",
+        "summary": "Student enrolment in higher education institutions in West Bengal has seen a significant increase in the past year, according to data from the University Grants Commission. The rise in enrolment is attributed to the state government's efforts to improve access to higher education, as well as the expansion of education infrastructure in the state.",
         "status": "CONFIRMED",
         "source": "India Spend",
-        "category": "Health"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Bengal Logs 20% Growth in MSME Sector",
-      "West Bengal Govt Launches Initiative to Promote Organic Farming",
-      "Dengue Cases Rise in Bengal, Govt Steps Up Surveillance",
-      "Bengal Logs 12% Growth in Healthcare Spending",
-      "[UNVERIFIED] New Education Policy for West Bengal",
-      "Bengal's MSME Sector Creates 50,000 Jobs"
+      "Bengal Sees Surge in Rural Electrification, 95% Villages Now Powered",
+      "Bengal's Forest Cover Expands by 1.5% in 2 Years, Says Report",
+      "Cement Prices Rise by Up to 5% Following GST Hike",
+      "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
+      "Student Enrolment in Higher Education Institutions Sees Rise in Bengal",
+      "West Bengal Sees Increase in Forest Cover, Says Report",
+      "Bengal's Rural Development Initiative Gains Momentum",
+      "Healthcare Services Improve in Rural Bengal"
     ]
   },
   "contrast": {
@@ -157,76 +158,76 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Rise 15% in Bengal Due to Nationwide Drought",
+      "category": "Economy|Infrastructure",
+      "headline": "Fuel Price Hike Sparks Widespread Protests Across West Bengal",
       "bullets": [
-        "According to data from the Central Statistics Office, Bengal's food inflation rate stands at 12.5%.",
-        "This is the highest in the country, surpassing the national average of 8.2%.",
-        "What this means for you: Expect increased prices of staples like rice and potatoes, affecting daily household expenses."
+        "The Centre has increased fuel prices by Rs 10 per litre, effective immediately.",
+        "According to the Petroleum Planning and Analysis Cell, the price hike will add Rs 3.5 to petrol and Rs 3 to diesel to the transport costs.",
+        "This means a Rs 10 increase in bus fares and a Rs 5 hike in autorickshaw fares, affecting millions of commuters."
       ],
-      "source": "The Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Bengal's Minimum Wage Hike Postponed Amid State Budget Crisis",
-      "bullets": [
-        "The proposed minimum wage hike of Rs 250 per month, affecting 1.2 million workers.",
-        "According to the Bengal Government's Finance Department, the state is facing a revenue shortfall of Rs 3,000 crore.",
-        "What this means for you: Possible delays in receiving the wage hike, affecting your take-home pay."
-      ],
-      "source": "Business Standard",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "South Bengal Floods: 200,000 Affected, Evacuation Underway",
+      "category": "Health|Environment",
+      "headline": "Toxins in Hooghly River Pose Severe Health Risks to 10 Lakh Residents",
       "bullets": [
-        "According to the State Disaster Management Authority, 200,000 people have been displaced.",
-        "The Brahmaputra River has overflowed, affecting 15 districts in Bengal and Odisha.",
-        "What this means for you: Expect disruptions in transport, including road and rail services, in the affected areas."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Health",
-      "headline": "Bengal Reports 500 New Dengue Cases, Deaths Rise to 20",
-      "bullets": [
-        "According to the Bengal Health Department, the total number of dengue cases stands at 5,000.",
-        "The state has reported 50% more dengue cases than last year.",
-        "What this means for you: Increased risk of contracting dengue fever, especially during the monsoon season."
+        "Tests have revealed alarming levels of toxic chemicals in the Hooghly River.",
+        "Over 10 lakh people living in the affected areas are at risk of waterborne diseases.",
+        "The state government has been alerted, and a detailed report is expected within the week."
       ],
       "source": "The Telegraph",
-      "status": "CONFIRMED",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Bengal's Class 10 Exams Postponed Due to Floods and Power Cuts",
+      "headline": "West Bengal Schools to Reopen on Aug 1 After 6-Week Summer Break",
       "bullets": [
-        "According to the Bengal Board of Secondary Education, the exams will be rescheduled for July 25.",
-        "The exams were originally scheduled for July 15.",
-        "What this means for you: Delays in receiving your Class 10 results, affecting your college admissions."
+        "The government has announced the reopening date for all state schools.",
+        "Due to the COVID-19 pandemic, students will receive 15 extra days of vacation.",
+        "Parents and students can expect a revised academic calendar soon."
       ],
-      "source": "Times of India",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "Bengal's Hooghly River Water Quality Declines Due to Pollution",
+      "category": "Farming|Economy",
+      "headline": "Farmers in West Bengal to Receive Rs 1,500 as Crop Insurance",
       "bullets": [
-        "According to a report by the Centre for Science and Environment, the river's water quality has declined by 30%.",
-        "The report attributed this to industrial and domestic pollution.",
-        "What this means for you: Increased risk of waterborne diseases, affecting public health in the affected areas."
+        "The state government has approved a crop insurance scheme for affected farmers.",
+        "Eligible farmers will receive Rs 1,500 per acre as compensation.",
+        "A total of 50,000 farmers are expected to benefit from the scheme."
       ],
-      "source": "Down to Earth",
-      "status": "DEVELOPING",
+      "source": "PTI",
+      "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal Government Announces Minimum Wage Hike to Rs 300",
+      "bullets": [
+        "The state government has increased the minimum wage for all workers.",
+        "The new minimum wage is Rs 300 per day, effective immediately.",
+        "This move is expected to benefit over 10 lakh workers in the state."
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Transport",
+      "headline": "Traffic Congestion in Kolkata to be Reduced by 30% by 2027",
+      "bullets": [
+        "The state government has announced a plan to reduce traffic congestion.",
+        "The project aims to reduce congestion by 30% by 2027.",
+        "A detailed report on the project's implementation is expected soon."
+      ],
+      "source": "Business Standard",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
