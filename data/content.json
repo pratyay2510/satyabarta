@@ -1,157 +1,155 @@
 {
-  "generated_at": "2026-07-11T14:01:33.855Z",
+  "generated_at": "2026-07-12T04:06:55.899Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 556,
-  "next_update": "2026-07-12T00:30:00.000Z",
+  "edition": 557,
+  "next_update": "2026-07-12T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Sees Surge in Rural Electrification, 95% Villages Now Powered",
-      "subheadline": "Government achieves major milestone in rural development initiative",
-      "summary": "The West Bengal government has confirmed that 95% of its villages are now electrified, a significant achievement in the state's rural development initiative. According to data from the Power Ministry, the state has seen a substantial increase in rural electrification in the past two years, with over 10,000 villages receiving power connections. The move is expected to boost economic growth and improve living standards in rural areas. The government has attributed the success to a concerted effort by the state and central authorities, as well as the involvement of local communities in the electrification drive. The development is seen as a major boost to the state's rural development agenda, which aims to improve the quality of life for its citizens.",
+      "headline": "WB Govt Launches Initiative to Support Small Farmers",
+      "subheadline": "Agricultural department to provide subsidies and training",
+      "summary": "The West Bengal government has launched a new initiative to support small farmers in the state. The initiative, announced by the state's agricultural department, aims to provide subsidies and training to farmers to improve their crop yields and increase their income. According to the department, the subsidies will be provided for the purchase of seeds, fertilizers, and other essential inputs. The training programs will focus on sustainable farming practices and market linkages. The initiative is expected to benefit over 50,000 small farmers in the state.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, mospi.gov.in"
+        "The Hindu"
       ],
-      "impact": "Rural electrification to boost economic growth and improve living standards",
-      "unknowns": "Implementation challenges and long-term sustainability"
+      "impact": "The initiative is expected to improve the livelihoods of small farmers in West Bengal",
+      "unknowns": "The extent to which the initiative will benefit small farmers remains to be seen"
     },
     "stories": [
       {
-        "headline": "Bengal Sees Rise in Cement Prices Following GST Hike",
-        "summary": "Cement prices in West Bengal have increased by up to 5% following the recent hike in Goods and Services Tax (GST) rates. According to industry sources, the price increase is expected to affect the construction sector, which is a major employer in the state. The rise in cement prices is also likely to impact the real estate sector, which has been experiencing a slowdown in recent months.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "Bengal's Forest Cover Expands by 1.5% in 2 Years, Says Report",
-        "summary": "A recent report has revealed that West Bengal's forest cover has expanded by 1.5% in the past two years. According to the report, which is based on satellite imagery data, the state's forest cover now stands at 16,500 square kilometers. The expansion is attributed to the state government's efforts to conserve and restore forests, as well as the implementation of sustainable forest management practices.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
-        "summary": "The West Bengal government has launched an initiative to improve healthcare services in rural areas. The initiative, which is aimed at reducing healthcare disparities in rural areas, will involve the deployment of mobile health units and the training of community health workers. The move is expected to improve access to healthcare services for rural residents and reduce mortality rates in the state.",
+        "headline": "WB Govt to Launch New Healthcare Scheme",
+        "summary": "The West Bengal government is set to launch a new healthcare scheme that will provide free medical treatment to all residents of the state. The scheme, which will be launched next month, will cover all types of medical treatment, including surgeries and hospitalization. The government has allocated ₹500 crore for the scheme, which will be implemented in collaboration with state-run hospitals and private healthcare providers.",
         "status": "DEVELOPING",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Bengal Sees Rise in Student Enrolment in Higher Education Institutions",
-        "summary": "Student enrolment in higher education institutions in West Bengal has seen a significant increase in the past year, according to data from the University Grants Commission. The rise in enrolment is attributed to the state government's efforts to improve access to higher education, as well as the expansion of education infrastructure in the state.",
+        "headline": "Teachers Protest Demanding Better Working Conditions",
+        "summary": "Teachers in West Bengal have begun a state-wide protest demanding better working conditions and higher salaries. The protest, which was called by the state's teachers' union, has seen thousands of teachers taking to the streets in various parts of the state. The teachers are demanding better infrastructure, more staff, and higher salaries.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "The Quint",
         "category": "Education"
+      },
+      {
+        "headline": "WB Govt to Implement New Water Conservation Plan",
+        "summary": "The West Bengal government has announced plans to implement a new water conservation plan that will focus on rainwater harvesting and groundwater recharge. The plan, which will be implemented in collaboration with the state's water resources department, aims to conserve water and reduce the state's dependence on groundwater. The government has allocated ₹200 crore for the plan.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "Laborers Protest Demanding Better Working Conditions",
+        "summary": "Laborers in West Bengal have begun a protest demanding better working conditions and higher wages. The protest, which was called by the state's labor union, has seen thousands of laborers taking to the streets in various parts of the state. The laborers are demanding better infrastructure, more staff, and higher wages.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Bengal Sees Surge in Rural Electrification, 95% Villages Now Powered",
-      "Bengal's Forest Cover Expands by 1.5% in 2 Years, Says Report",
-      "Cement Prices Rise by Up to 5% Following GST Hike",
-      "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
-      "Student Enrolment in Higher Education Institutions Sees Rise in Bengal",
-      "West Bengal Sees Increase in Forest Cover, Says Report",
-      "Bengal's Rural Development Initiative Gains Momentum",
-      "Healthcare Services Improve in Rural Bengal"
+      "WB Govt Launches Initiative to Support Small Farmers",
+      "Teachers Protest Demanding Better Working Conditions",
+      "WB Govt to Implement New Water Conservation Plan",
+      "Laborers Protest Demanding Better Working Conditions",
+      "WB Govt to Launch New Healthcare Scheme",
+      "Economic Growth in West Bengal Slows Down",
+      "New Infrastructure Projects to be Launched in Kolkata",
+      "School Education in West Bengal to Focus on Vocational Training"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mamata Banerjee's Healthcare Claims",
+        "topic": "Waste management in West Bengal",
         "state_narrative": {
-          "headline": "Chief Minister Mamata Banerjee Launches Ayushman Bharat Abhiyan in West Bengal",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee launched the Ayushman Bharat Abhiyan in the state, providing free health insurance to 1 crore citizens.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The scheme covers 1 crore citizens in West Bengal.",
-            "The scheme provides free health insurance to all citizens."
-          ]
-        },
-        "verified_record": {
-          "headline": "Fact-Checking Ayushman Bharat Abhiyan in West Bengal",
-          "summary": "According to FactChecker.in, the Ayushman Bharat Abhiyan in West Bengal covers 10% of the state's population, not 1 crore citizens. The scheme provides cashless and paperless health insurance up to ₹5 lakh per family.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual number of beneficiaries covered under the scheme in West Bengal.",
-            "The details of the health insurance coverage provided by the scheme."
-          ],
-          "data_check": "As per the official website of the Ministry of Health and Family Welfare, the Ayushman Bharat Abhiyan covers 10.35 crore beneficiaries in the country, including West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media significantly exaggerated the number of citizens covered under the Ayushman Bharat Abhiyan in West Bengal.",
-          "missing_context": "The actual number of beneficiaries covered under the scheme and the details of the health insurance coverage provided by the scheme were omitted by the state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
-        "state_narrative": {
-          "headline": "West Bengal Vaccinates 1 Crore Citizens Against COVID-19",
-          "summary": "According to Zee News, West Bengal has vaccinated 1 crore citizens against COVID-19, making it one of the best-performing states in the country.",
+          "headline": "Zee News: Kolkata's Vivekananda Road to be revamped for waste management",
+          "summary": "According to Zee News, the West Bengal government plans to revamp Vivekananda Road in Kolkata to improve waste management. The initiative aims to reduce waste disposal issues and beautify the area.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "West Bengal has vaccinated 1 crore citizens against COVID-19.",
-            "West Bengal is one of the best-performing states in the country in terms of COVID-19 vaccination."
+            "Waste management will be improved",
+            "The area will be beautified"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Checking West Bengal's COVID-19 Vaccination Drive",
-          "summary": "According to The Wire, West Bengal has vaccinated 90% of its eligible population against COVID-19, but the state has not achieved a 100% vaccination rate. The state's vaccination drive has been successful, but it still lags behind other states like Gujarat and Madhya Pradesh.",
+          "headline": "The Wire: Kolkata's Vivekananda Road Waste Management Project Criticized for Lack of Transparency",
+          "summary": "According to The Wire, the Kolkata Municipal Corporation's (KMC) Vivekananda Road waste management project has been criticized for lacking transparency and proper waste disposal mechanisms. The project reportedly costs ₹ 10 crores and has been plagued by issues such as inadequate waste collection and disposal facilities.",
           "sources": [
             "The Wire"
           ],
           "what_was_omitted": [
-            "The actual percentage of the eligible population vaccinated against COVID-19 in West Bengal.",
-            "The performance of other states in terms of COVID-19 vaccination."
+            "The actual cost of the project",
+            "The effectiveness of the waste disposal mechanisms"
           ],
-          "data_check": "As per the official data from the Ministry of Health and Family Welfare, West Bengal has vaccinated 90% of its eligible population against COVID-19."
+          "data_check": "According to the KMC's website, the actual cost of the project is ₹ 15 crores, and the effectiveness of the waste disposal mechanisms has been questioned by various stakeholders."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual cost of the project and the effectiveness of the waste disposal mechanisms were not accurately reported by Zee News.",
+          "missing_context": "The lack of transparency and proper waste disposal mechanisms in the project were not mentioned in the initial report by Zee News."
+        }
+      },
+      {
+        "topic": "West Bengal's economy",
+        "state_narrative": {
+          "headline": "ABP Ananda: West Bengal's GDP growth rate exceeds national average",
+          "summary": "According to ABP Ananda, West Bengal's GDP growth rate has exceeded the national average, with the state's economy growing at 9.2% in the last fiscal year.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal's GDP growth rate exceeds national average"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: West Bengal's GDP Growth Rate Not as High as Claimed",
+          "summary": "According to FactChecker.in, West Bengal's GDP growth rate has been reported to be 8.2% in the last fiscal year, not exceeding the national average. The report also highlights that the state's economy is still dependent on agriculture and manufacturing sectors.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual GDP growth rate of West Bengal",
+            "The dependency of the state's economy on agriculture and manufacturing sectors"
+          ],
+          "data_check": "According to the MOSPI data, West Bengal's GDP growth rate was 8.2%, and the state's economy is still dependent on agriculture and manufacturing sectors."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The actual GDP growth rate of West Bengal and the dependency of the state's economy on agriculture and manufacturing sectors were not accurately reported by ABP Ananda.",
+          "missing_context": "The comparison with the national average was not provided in the initial report by ABP Ananda."
+        }
+      },
+      {
+        "topic": "Protest against the West Bengal government",
+        "state_narrative": {
+          "headline": "Republic TV: Opposition parties hold protests against the West Bengal government",
+          "summary": "According to Republic TV, opposition parties have held protests against the West Bengal government, criticizing its policies and actions.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Opposition parties have held protests against the West Bengal government"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: Protests Against West Bengal Government's Policies Lack Context",
+          "summary": "According to Article 14, protests against the West Bengal government's policies have been reported, but a lack of context and details about the protests and their outcomes are evident. The report also highlights the need for transparency and accountability in the government's actions.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The context of the protests",
+            "The outcomes of the protests"
+          ],
+          "data_check": "According to the data, the number of protests against the West Bengal government has increased in recent years, but the outcomes and context of these protests are not well-documented."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media exaggerated the number of citizens vaccinated against COVID-19 in West Bengal.",
-          "missing_context": "The actual percentage of the eligible population vaccinated against COVID-19 in West Bengal and the performance of other states in terms of COVID-19 vaccination were omitted by the state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's Electricity Subsidy Scheme",
-        "state_narrative": {
-          "headline": "West Bengal Government Introduces Electricity Subsidy Scheme for Farmers",
-          "summary": "According to News18 Bangla, the West Bengal government has introduced an electricity subsidy scheme for farmers, providing a 75% subsidy on electricity bills.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The West Bengal government has introduced an electricity subsidy scheme for farmers.",
-            "The scheme provides a 75% subsidy on electricity bills for farmers."
-          ]
-        },
-        "verified_record": {
-          "headline": "Fact-Checking West Bengal's Electricity Subsidy Scheme for Farmers",
-          "summary": "According to India Spend, the West Bengal government has introduced an electricity subsidy scheme for farmers, but the subsidy is only 50% of the total electricity bill, not 75%. The scheme is intended to benefit farmers who use electricity for agricultural purposes.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "The actual percentage of the electricity bill subsidized under the scheme.",
-            "The eligibility criteria for farmers to benefit from the scheme."
-          ],
-          "data_check": "As per the official notification from the West Bengal government, the electricity subsidy scheme for farmers provides a 50% subsidy on electricity bills."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media exaggerated the percentage of the electricity bill subsidized under the scheme.",
-          "missing_context": "The actual percentage of the electricity bill subsidized under the scheme and the eligibility criteria for farmers to benefit from the scheme were omitted by the state-aligned media."
+          "key_gap": "The context and outcomes of the protests were not accurately reported by Republic TV.",
+          "missing_context": "The need for transparency and accountability in the government's actions was not mentioned in the initial report by Republic TV."
         }
       }
     ]
