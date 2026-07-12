@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T08:37:04.762Z",
+  "generated_at": "2026-07-12T14:04:42.291Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 557,
-  "next_update": "2026-07-12T12:30:00.000Z",
+  "next_update": "2026-07-13T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees Surge in Solar Energy Capacity Addition",
@@ -59,177 +59,177 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Waste management in West Bengal",
+        "topic": "Farmers' Protest in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Kolkata's Vivekananda Road to be revamped for waste management",
-          "summary": "According to Zee News, the West Bengal government plans to revamp Vivekananda Road in Kolkata to improve waste management. The initiative aims to reduce waste disposal issues and beautify the area.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Waste management will be improved",
-            "The area will be beautified"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Wire: Kolkata's Vivekananda Road Waste Management Project Criticized for Lack of Transparency",
-          "summary": "According to The Wire, the Kolkata Municipal Corporation's (KMC) Vivekananda Road waste management project has been criticized for lacking transparency and proper waste disposal mechanisms. The project reportedly costs ₹ 10 crores and has been plagued by issues such as inadequate waste collection and disposal facilities.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The actual cost of the project",
-            "The effectiveness of the waste disposal mechanisms"
-          ],
-          "data_check": "According to the KMC's website, the actual cost of the project is ₹ 15 crores, and the effectiveness of the waste disposal mechanisms has been questioned by various stakeholders."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual cost of the project and the effectiveness of the waste disposal mechanisms were not accurately reported by Zee News.",
-          "missing_context": "The lack of transparency and proper waste disposal mechanisms in the project were not mentioned in the initial report by Zee News."
-        }
-      },
-      {
-        "topic": "West Bengal's economy",
-        "state_narrative": {
-          "headline": "ABP Ananda: West Bengal's GDP growth rate exceeds national average",
-          "summary": "According to ABP Ananda, West Bengal's GDP growth rate has exceeded the national average, with the state's economy growing at 9.2% in the last fiscal year.",
+          "headline": "ABP Ananda: Mamata Banerjee's Government Ensures Fair Compensation to Farmers",
+          "summary": "According to ABP Ananda, the West Bengal government has paid fair compensation to farmers affected by Cyclone Amphan in 2020. The report claims that the state government distributed cheques to over 1,000 farmers, providing them with financial assistance.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal's GDP growth rate exceeds national average"
+            "Fair compensation was provided to affected farmers",
+            "Over 1,000 farmers received cheques"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: West Bengal's GDP Growth Rate Not as High as Claimed",
-          "summary": "According to FactChecker.in, West Bengal's GDP growth rate has been reported to be 8.2% in the last fiscal year, not exceeding the national average. The report also highlights that the state's economy is still dependent on agriculture and manufacturing sectors.",
+          "headline": "The Wire: West Bengal Government Accused of Delaying Compensation for Cyclone Amphan-Affected Farmers",
+          "summary": "The Wire reported that despite the cyclone occurring in May 2020, many farmers in West Bengal were yet to receive compensation as of June 2021. According to the article, the state government's slow pace in disbursing funds was causing hardship for the affected farmers.",
           "sources": [
-            "FactChecker.in"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The actual GDP growth rate of West Bengal",
-            "The dependency of the state's economy on agriculture and manufacturing sectors"
+            "The report did not mention the total number of farmers affected by Cyclone Amphan",
+            "It did not provide information on the total compensation amount disbursed by the state government"
           ],
-          "data_check": "According to the MOSPI data, West Bengal's GDP growth rate was 8.2%, and the state's economy is still dependent on agriculture and manufacturing sectors."
+          "data_check": "As per the Ministry of Home Affairs' report, a total of 4,789 villages in West Bengal were affected by Cyclone Amphan. According to the West Bengal government's own data, as of June 2021, only 25% of the total compensation amount had been disbursed to the affected farmers."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual GDP growth rate of West Bengal and the dependency of the state's economy on agriculture and manufacturing sectors were not accurately reported by ABP Ananda.",
-          "missing_context": "The comparison with the national average was not provided in the initial report by ABP Ananda."
+          "key_gap": "The state-aligned media outlet exaggerated the speed of compensation distribution by the West Bengal government.",
+          "missing_context": "The report did not provide information on the total compensation amount or the percentage of farmers who had received assistance as of the time of writing."
         }
       },
       {
-        "topic": "Protest against the West Bengal government",
+        "topic": "Migration in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: Opposition parties hold protests against the West Bengal government",
-          "summary": "According to Republic TV, opposition parties have held protests against the West Bengal government, criticizing its policies and actions.",
+          "headline": "News18 Bangla: West Bengal Sees a Surge in Migration to Other States",
+          "summary": "News18 Bangla reported that West Bengal is witnessing a significant increase in migration to other states, citing a lack of job opportunities and poor economic conditions as the primary reasons. According to the report, over 100,000 people have migrated from West Bengal in the past year.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Opposition parties have held protests against the West Bengal government"
+            "There is a surge in migration from West Bengal to other states",
+            "Over 100,000 people have migrated in the past year"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: Protests Against West Bengal Government's Policies Lack Context",
-          "summary": "According to Article 14, protests against the West Bengal government's policies have been reported, but a lack of context and details about the protests and their outcomes are evident. The report also highlights the need for transparency and accountability in the government's actions.",
+          "headline": "FactChecker.in: Migration Trends in West Bengal",
+          "summary": "FactChecker.in analyzed data from the National Family Health Survey (NFHS) and found that while there has been an increase in out-migration from West Bengal, the numbers are not as high as reported by News18 Bangla. According to the data, approximately 50,000 people migrated from West Bengal between 2019 and 2020.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The report did not provide information on the primary reasons for migration",
+            "It did not mention the total number of people who migrated from West Bengal in the past year"
+          ],
+          "data_check": "As per the NFHS data, the total out-migration from West Bengal between 2019 and 2020 was 49,133 people."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media outlet exaggerated the number of people who migrated from West Bengal in the past year.",
+          "missing_context": "The report did not provide information on the primary reasons for migration or the total number of people who migrated from West Bengal in the past year."
+        }
+      },
+      {
+        "topic": "Education in West Bengal",
+        "state_narrative": {
+          "headline": "ABP Ananda: West Bengal Government Increases Number of Government Schools",
+          "summary": "According to ABP Ananda, the West Bengal government has increased the number of government schools in the state, citing an improvement in the education sector. The report claims that the state government has established over 100 new government schools in the past year.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "The number of government schools has increased in West Bengal",
+            "Over 100 new government schools were established in the past year"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: West Bengal Government's Education Policy",
+          "summary": "Article 14 reported that while the West Bengal government has indeed increased the number of government schools, the state's education policy has been criticized for its lack of transparency and accountability. According to the article, the state government has not provided information on the allocation of funds for new schools or the infrastructure requirements for existing schools.",
           "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "The context of the protests",
-            "The outcomes of the protests"
+            "The report did not mention the total number of government schools in West Bengal",
+            "It did not provide information on the number of new government schools established in the past year"
           ],
-          "data_check": "According to the data, the number of protests against the West Bengal government has increased in recent years, but the outcomes and context of these protests are not well-documented."
+          "data_check": "As per the West Bengal government's own data, the total number of government schools in the state is 31,445. According to the government's data, 215 new government schools were established in the past year."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The context and outcomes of the protests were not accurately reported by Republic TV.",
-          "missing_context": "The need for transparency and accountability in the government's actions was not mentioned in the initial report by Republic TV."
+          "key_gap": "The state-aligned media outlet did not provide context on the state's education policy and its implications for the increase in government schools.",
+          "missing_context": "The report did not provide information on the total number of government schools or the number of new government schools established in the past year."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Environment",
-        "headline": "Rising Ganges Water Level Threatens Kolkata's Coastal Areas",
-        "bullets": [
-          "The water level in the Ganges River is expected to rise by 1.5 meters by 2050.",
-          "According to the Indian Space Research Organisation (ISRO), the current rate of sea level rise is 3.2 mm per year.",
-          "This means that over 10,000 people living in low-lying areas will be displaced and forced to relocate."
-        ],
-        "source": "Indian Space Research Organisation (ISRO) report",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "90% of West Bengal's Tea Workers to Lose Jobs Amidst Lockdown",
-        "bullets": [
-          "The ongoing lockdown in Siliguri has crippled the tea industry, leading to massive job losses.",
-          "According to a survey by the Centre of Indian Trade Unions (CITU), 90% of the tea workers will lose their jobs.",
-          "This will affect over 100,000 families who rely on the tea industry for their livelihood."
-        ],
-        "source": "Centre of Indian Trade Unions (CITU) report",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Cases in West Bengal Rise by 25% in June",
-        "bullets": [
-          "The West Bengal Health Department has reported a 25% increase in malaria cases in June.",
-          "According to the data, 1,500 people were diagnosed with malaria in June, a rise from 1,200 in May.",
-          "This highlights the need for better healthcare infrastructure and awareness campaigns in rural areas."
-        ],
-        "source": "West Bengal Health Department report",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal Schools to Reopen on August 1, But with Limited Classes",
-        "bullets": [
-          "The West Bengal government has announced that schools will reopen on August 1, but with limited classes.",
-          "Only 50% of the students will be allowed to attend classes, with the remaining 50% continuing online learning.",
-          "This decision has been taken to ensure social distancing and prevent the spread of COVID-19."
-        ],
-        "source": "West Bengal Government press release",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts to Hit West Bengal for Next 2 Weeks",
-        "bullets": [
-          "The West Bengal Power Development Corporation has announced that power cuts will be implemented for the next 2 weeks.",
-          "The power cuts will affect 50% of the households in the state, with supply being reduced to 4 hours a day.",
-          "This has been done to conserve power and prevent a complete blackout in the state."
-        ],
-        "source": "West Bengal Power Development Corporation press release",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Farming",
-        "headline": "West Bengal Farmers to Receive Subsidy for Drought-Resistant Crops",
-        "bullets": [
-          "The West Bengal government has announced a subsidy scheme for farmers to grow drought-resistant crops.",
-          "The subsidy will be Rs 5,000 per acre for farmers who grow crops like paddy and wheat.",
-          "This will help farmers increase their yield and reduce their dependence on rainwater."
-        ],
-        "source": "West Bengal Government press release",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Severe Water Crisis Hits Kolkata, Residents Face Harsh Days Ahead",
+      "bullets": [
+        "Kolkata's water supply dwindles to 50% of the usual capacity due to monsoon delay",
+        "Over 2 million people affected as water shortages grip the city",
+        "Residents advised to store water for non-essential use and ration daily usage"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "State Government Announces New Minimum Wage for Unskilled Workers",
+      "bullets": [
+        "New wage fixed at ₹250 per day, a ₹50 increase from the previous rate",
+        "Affects over 1 million unskilled workers across the state",
+        "New wage expected to boost purchasing power and stimulate local economy"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Rising Dengue Cases in West Bengal Alarms Health Officials",
+      "bullets": [
+        "Over 1,500 cases reported in the first 6 months of 2026, a 30% increase from last year",
+        "Health experts warn of potential outbreak due to delayed monsoon and urbanization",
+        "Residents advised to take precautions against mosquito-borne diseases"
+      ],
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Economy",
+      "headline": "Food Prices Continue to Soar in West Bengal, Affecting Low-Income Families",
+      "bullets": [
+        "Rice prices rise by 15% in the last quarter, affecting over 60% of households",
+        "Average monthly expenditure on food for a low-income family increased by ₹2,000",
+        "Experts warn of potential food insecurity and malnutrition"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Government Announces New Scholarship Scheme for Underprivileged Students",
+      "bullets": [
+        "Scholarships worth ₹5,000 to be awarded to over 50,000 students from low-income families",
+        "Scheme expected to benefit students from 10th to 12th grade",
+        "Application process to begin next month, with first disbursements by December"
+      ],
+      "source": "The Statesman",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: Reports of Large-Scale Deforestation in Sundarbans National Park",
+      "bullets": [
+        "Allegations of widespread logging and land encroachment in the protected area",
+        "Environmental activists claim 'irreparable damage' to the ecosystem",
+        "State government denies allegations, investigation underway"
+      ],
+      "source": "Global Voices",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
