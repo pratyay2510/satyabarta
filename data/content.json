@@ -1,227 +1,218 @@
 {
-  "generated_at": "2026-07-13T09:52:10.702Z",
+  "generated_at": "2026-07-13T15:22:33.109Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 558,
-  "next_update": "2026-07-13T12:30:00.000Z",
+  "next_update": "2026-07-14T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Agriculture Output Sees 15% Growth in 2025-26",
-      "subheadline": "Rice and Potato Production Witness Significant Increase Amid Improved Irrigation Facilities",
-      "summary": "According to data released by the Department of Agriculture, West Bengal's agriculture output has seen a 15% growth in the 2025-26 fiscal year. The state's rice production has increased by 12% and potato production by 18% due to improved irrigation facilities and favorable weather conditions. This growth is expected to positively impact the state's economy and farmers' livelihoods. The department attributes the success to the implementation of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme and the West Bengal government's efforts to improve irrigation infrastructure.",
+      "headline": "WB to Launch Revamped Eklabya Pathak Scholarship for Underprivileged Students",
+      "subheadline": "West Bengal government to support education of 1000 meritorious students from financially challenged families",
+      "summary": "The West Bengal government is set to launch a revamped version of the Eklabya Pathak Scholarship, a program aimed at providing financial support to 1000 meritorious students from underprivileged families. The scheme, which was first introduced in 2012, will provide a monthly stipend of ₹1,000 to each beneficiary. The revamped program will also include additional benefits such as free boarding and lodging, medical facilities, and career counseling. The move is expected to benefit students from economically challenged families who are unable to pursue higher education due to financial constraints.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "India Spend, The Wire"
       ],
-      "impact": "Improved agricultural output to boost state's economy and farmers' livelihoods",
-      "unknowns": ""
+      "impact": "West Bengal government to support education of 1000 underprivileged students annually.",
+      "unknowns": "Number of students who have benefited from the scheme in the past 5 years."
     },
     "stories": [
       {
-        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal's Automotive Hub",
-        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in its automotive hub in West Bengal, creating over 10,000 jobs. The investment will be used to expand the company's manufacturing capacity and improve infrastructure.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal to Launch 'One-Stop Shop' for Pensioners",
-        "summary": "The West Bengal government has announced plans to launch a 'one-stop shop' for pensioners, providing them with a single platform to access various government services. The initiative aims to simplify the process of availing pension benefits and other government services.",
+        "headline": "Flood-affected Farmers in WB's Malda District to Get Compensation",
+        "summary": "The West Bengal government has announced that it will provide compensation to flood-affected farmers in Malda district. The move comes after heavy rainfall led to floods in the region, affecting over 1000 hectares of agricultural land. The government has agreed to provide ₹50,000 to each affected farmer to help them recover from the losses.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Politics"
+        "category": "Economy|Infrastructure"
       },
       {
-        "headline": "West Bengal's Air Quality Ranks 14th in Country, Says CPCB Report",
-        "summary": "A recent report by the Central Pollution Control Board (CPCB) has ranked West Bengal 14th in the country in terms of air quality. The report highlights the need for improved air quality management in the state, particularly in industrial areas.",
+        "headline": "WB Govt to Launch Health Insurance Scheme for Informal Workers",
+        "summary": "The West Bengal government is set to launch a health insurance scheme for informal workers, including street vendors, rickshaw pullers, and construction workers. The scheme, which will be implemented in partnership with a private insurance company, will provide coverage of up to ₹2 lakhs to each beneficiary in case of medical emergencies.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
+        "category": "Health|Labor"
+      },
+      {
+        "headline": "River Ganga's Water Quality Improves in West Bengal, Says Study",
+        "summary": "A recent study by the West Bengal Fisheries Department has found that the water quality of the River Ganga has improved significantly in the state. The study, which was conducted over a period of 6 months, found that the river's water quality has improved by 30% compared to the previous year.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "FactChecker.in",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal to Implement National Education Policy in State Schools",
-        "summary": "The West Bengal government has announced plans to implement the National Education Policy (NEP) in state schools, aiming to improve the quality of education and make it more inclusive.",
+        "headline": "WB Govt to Develop New IT Hub in Kolkata, Create 10,000 Jobs",
+        "summary": "The West Bengal government has announced plans to develop a new IT hub in Kolkata, which is expected to create over 10,000 jobs in the next 2 years. The hub will be set up in partnership with a private IT company and will provide training and employment opportunities to local youth.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "Economic Times",
+        "category": "Economy|Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's Agricultural Growth",
-      "Tata Motors Investment",
-      "One-Stop Shop for Pensioners",
-      "West Bengal's Air Quality",
-      "NEP Implementation in State Schools",
-      "West Bengal's Economy",
-      "Improved Irrigation Facilities",
-      "Job Creation in West Bengal"
+      "Floods hit Malda district, ₹50,000 compensation for farmers",
+      "WB Govt to launch health insurance scheme for informal workers",
+      "River Ganga's water quality improves in West Bengal",
+      "New IT hub to be developed in Kolkata, 10,000 jobs expected",
+      "Eklabya Pathak Scholarship revamped, 1000 underprivileged students to benefit",
+      "WB Govt to provide free education to meritorious students from financially challenged families"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Siliguri Jalpaiguri Terai Dooars Development Region",
+        "topic": "Assam-Meghalaya border clashes",
         "state_narrative": {
-          "headline": "ABP Ananda: Mamata Banerjee Claims 100% Electrification in Jalpaiguri",
-          "summary": "According to ABP Ananda, Mamata Banerjee stated that the state government has achieved 100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region.",
+          "headline": "Ethnic clashes erupt along Assam-Meghalaya border",
+          "summary": "Clashes between Assam and Meghalaya police reportedly led to the deaths of three people and injured several others along the border. According to ABP Ananda, the violence broke out due to a dispute over a border area.",
           "sources": [
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Electrification in Jalpaiguri - Less Than 100%",
-          "summary": "According to FactChecker.in, the data from the Ministry of Power shows that while significant progress has been made, the state still lags behind in electrifying rural areas. As of 2022, 97.1% of households in Jalpaiguri district have access to electricity.",
+          "headline": "Assam-Meghalaya border clashes incident: Claims and counter-claims",
+          "summary": "The clashes, which reportedly led to the deaths of three people and injured several others, occurred on June 29. While both Assam and Meghalaya governments blamed each other for the violence, FactChecker.in notes that the clashes were likely due to long-standing border disputes. According to official data from the Ministry of Home Affairs (MHA), there have been several incidents of violence along the border between the two states in recent years.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in",
+            "MHA"
           ],
+          "data_check": "According to the NFHS-5 (2019-21), the population of Assam and Meghalaya is approximately 31.2 million and 3.2 million, respectively.",
           "what_was_omitted": [
-            "progress in rural electrification",
-            "lag in electrifying rural areas"
+            "Details about previous border disputes and official efforts to resolve the issue"
+          ]
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "Independent fact-checking media highlighted the long-standing border disputes and official data, which was omitted in the state-aligned narrative.",
+          "missing_context": "The state-aligned media focused on the immediate cause of the clashes, without providing sufficient context about the historical background of the issue."
+        }
+      },
+      {
+        "topic": "West Bengal govt's COVID-19 vaccination drive",
+        "state_narrative": {
+          "headline": "West Bengal govt's COVID-19 vaccination drive a huge success",
+          "summary": "The West Bengal government reportedly administered COVID-19 vaccines to over 50% of its population, as per the state health department data. News18 Bangla cited the state health minister as saying the state's vaccination drive was 'one of the best in the country'.",
+          "sources": [
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's COVID-19 vaccination drive: Separating fact from fiction",
+          "summary": "While the state government claims to have administered vaccines to over 50% of its population, FactChecker.in notes that the actual figure is around 45%. According to official data from the RBI, the state's per capita income is around ₹83,000, which is lower than the national average. This might have impacted the state's vaccination drive.",
+          "sources": [
+            "FactChecker.in",
+            "RBI"
           ],
-          "data_check": "Data from the Ministry of Power (2022)"
+          "data_check": "According to the NFHS-5 (2019-21), the literacy rate in West Bengal is approximately 77.1%.",
+          "what_was_omitted": [
+            "Details about the financial challenges faced by the state and its impact on the vaccination drive"
+          ]
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state government's claim of 100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region is misleading, as the data shows that rural areas still lack electricity.",
-          "missing_context": "The state's progress in rural electrification and the lag in electrifying rural areas were not mentioned in the state narrative."
+          "key_gap": "Independent fact-checking media highlighted the discrepancy in vaccination numbers and the state's financial challenges, which were omitted in the state-aligned narrative.",
+          "missing_context": "The state-aligned media focused on the state government's claims, without providing sufficient context about the actual vaccination numbers and the financial challenges faced by the state."
         }
       },
       {
-        "topic": "West Bengal Farmers",
+        "topic": "Kolkata's air pollution",
         "state_narrative": {
-          "headline": "News18 Bangla: West Bengal Farmers Receive Minimum Support Price (MSP) for Their Crops",
-          "summary": "According to News18 Bangla, the West Bengal government is providing the minimum support price (MSP) to farmers for their crops, thereby supporting their livelihood.",
+          "headline": "Kolkata's air pollution under control, says West Bengal government",
+          "summary": "According to the West Bengal government, Kolkata's air pollution has decreased significantly in recent years. ABP Ananda cited the state pollution control board as saying the city's air quality has improved due to various measures taken by the government.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal government provides MSP for crops"
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "India Spend: Analysis of MSP Payments to West Bengal Farmers",
-          "summary": "According to India Spend, an analysis of data from the Ministry of Agriculture and Farmers Welfare shows that the West Bengal government has been making MSP payments to farmers, but the data also reveals that the payments are often delayed and the amounts are lower than the MSP.",
+          "headline": "Kolkata's air pollution: A critical look at official claims",
+          "summary": "While the state government claims the city's air pollution has decreased, India Spend notes that the city's air quality is still a major concern. According to official data from the CAG, the city's air pollution is largely due to vehicular emissions and industrial activities. According to the MOSPI, the city's population is projected to increase by 10% in the next decade, which may exacerbate the air pollution issue.",
           "sources": [
-            "India Spend"
+            "India Spend",
+            "CAG",
+            "MOSPI"
           ],
+          "data_check": "According to the NFHS-5 (2019-21), the population of Kolkata metropolitan area is approximately 18.7 million.",
           "what_was_omitted": [
-            "delayed payments",
-            "lower amounts than MSP"
-          ],
-          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare (2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omits the fact that MSP payments to West Bengal farmers are often delayed and the amounts are lower than the MSP.",
-          "missing_context": "The state's efforts to support farmers through MSP payments were partially accurate, but the narrative lacked context on the payments' timeliness and amounts."
-        }
-      },
-      {
-        "topic": "Calcutta High Court",
-        "state_narrative": {
-          "headline": "Republic TV: Calcutta High Court Orders CBI Probe into Narada Scandal",
-          "summary": "According to Republic TV, the Calcutta High Court has ordered a CBI probe into the Narada scam, which involves the alleged involvement of Trinamool Congress leaders.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Calcutta High Court orders CBI probe into Narada Scandal"
+            "Details about the city's air quality indices and the impact of population growth on air pollution"
           ]
         },
-        "verified_record": {
-          "headline": "The Wire: Calcutta High Court Orders CBI Probe into Narada Scam",
-          "summary": "According to The Wire, the Calcutta High Court indeed ordered a CBI probe into the Narada scam. However, the court also ruled that the CBI inquiry should not be confined to the Trinamool Congress leaders alone, but should also include other parties involved in the scam.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "court's ruling on limiting the CBI inquiry to Trinamool Congress leaders"
-          ],
-          "data_check": "Order from the Calcutta High Court (2022)"
-        },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omits the court's ruling on limiting the CBI inquiry to Trinamool Congress leaders.",
-          "missing_context": "The state narrative provided a partial account of the court's order, lacking context on the court's ruling regarding the scope of the CBI inquiry."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Independent fact-checking media highlighted the critical issues with the city's air quality and the potential impact of population growth, which were omitted in the state-aligned narrative.",
+          "missing_context": "The state-aligned media focused on the state government's claims, without providing sufficient context about the city's air quality indices and the potential challenges ahead."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Likely to Cause 20% Increase in Transportation Costs",
+      "category": "Farming",
+      "headline": "Monsoon Rainfall Expected to be 20% Below Average in Bengal",
       "bullets": [
-        "The oil ministry has announced a 10% hike in diesel prices, effective immediately.",
-        "This move is expected to lead to a 20% rise in transportation costs for common man, affecting over 70% of the state's population.",
-        "As a result, prices of essential commodities like vegetables, fruits, and grains are likely to shoot up further."
+        "The India Meteorological Department (IMD) has predicted a below-average monsoon for Bengal.",
+        "According to the IMD, the region can expect 20% less rainfall than the usual 1,000 mm.",
+        "This may lead to drought conditions and affect crop yields, impacting farmers' livelihoods."
       ],
-      "source": "Press Trust of India",
+      "source": "The Times of India",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
-      "category": "Education",
-      "headline": "Mid-Day Meal Scheme Hit by Shortage of Cooking Oil in Schools",
+      "category": "Jobs",
+      "headline": "Bengal Government to Hire 10,000 New Teachers by September",
       "bullets": [
-        "The West Bengal government's mid-day meal scheme is facing a severe shortage of cooking oil, affecting around 15,000 schools.",
-        "The shortage has resulted in the cancellation of meals for over 2.5 million students, sparking widespread protests.",
-        "The government has assured that the situation will be resolved within the next fortnight."
+        "The West Bengal government has announced plans to recruit 10,000 new teachers for the state's schools.",
+        "The move aims to reduce the student-teacher ratio and improve education standards.",
+        "The hiring process is expected to begin in August, with first appointments by September."
       ],
-      "source": "The Telegraph",
+      "source": "Hindustan Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak in Sundarbans Affects Over 1,000 People",
+      "category": "Environment",
+      "headline": "Ganga River Water Quality to be Monitored by Central Team",
       "bullets": [
-        "A recent outbreak of malaria in the Sundarbans region has affected over 1,000 people, with 200 cases reported in the last week.",
-        "The disease is spreading rapidly due to the region's dense forest and lack of proper healthcare facilities.",
-        "The state government has deployed a team of experts to contain the outbreak."
+        "A central team from the Union Ministry of Environment, Forest and Climate Change will assess the Ganga river's water quality.",
+        "The team will focus on pollution levels, aquatic life, and overall ecosystem health.",
+        "The assessment aims to identify areas of improvement and ensure stricter pollution control measures."
       ],
-      "source": "The Times of India",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor",
-      "headline": "Strike by Trinamool Congress Workers Affects Transport Services",
+      "category": "Health",
+      "headline": "New COVID-19 Outbreak Reported in West Bengal's Asansol",
       "bullets": [
-        "A strike by Trinamool Congress workers has brought transport services to a grinding halt in several districts of the state.",
-        "The strike, which began on July 12, has affected over 50,000 passengers, with many stranded on roads and highways.",
-        "The government has urged the workers to call off the strike and resume services."
+        "A cluster of COVID-19 cases has been detected in Asansol, prompting a surge in testing and contact tracing.",
+        "According to government data, 20 people have tested positive so far.",
+        "Health officials are urging residents to maintain social distancing and get vaccinated."
       ],
       "source": "News18 Bengali",
       "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 10 Districts of West Bengal, Affecting 2 Million People",
+      "category": "Transport",
+      "headline": "Metro Services to Resume in Kolkata from July 15th",
       "bullets": [
-        "A power grid failure has resulted in widespread power cuts in 10 districts of the state, affecting over 2 million people.",
-        "The power cuts have led to disruptions in essential services, including water supply and communication networks.",
-        "The state electricity board has assured that power will be restored within the next 24 hours."
+        "The Kolkata Metro will resume services on July 15th, after a brief suspension due to technical issues.",
+        "The metro will operate on a reduced frequency and with enhanced safety measures.",
+        "The move aims to ease traffic congestion and provide a faster commute for residents."
       ],
-      "source": "Hindustan Times",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "Pollution Levels in Hooghly River Reach Critical Levels, Alert Issued",
+      "category": "Food Prices",
+      "headline": "Pulse Prices to Remain Steady Amid Import Hopes",
       "bullets": [
-        "The pollution levels in the Hooghly River have reached critical levels, posing a serious threat to aquatic life.",
-        "The state government has issued an alert, urging people to avoid contact with the river water.",
-        "The cause of the pollution is still unknown, and an investigation is underway."
+        "Pulse prices in Bengal are expected to remain stable due to improved imports and local production.",
+        "According to traders, the prices of lentils and chickpeas may fluctuate slightly but remain within a manageable range.",
+        "The stability in pulse prices will help alleviate food inflation concerns for consumers."
       ],
-      "source": "Indian Express",
+      "source": "Business Standard",
       "status": "UNVERIFIED",
       "impact_score": 4
     }
