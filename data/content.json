@@ -1,238 +1,231 @@
 {
-  "generated_at": "2026-07-13T04:09:05.670Z",
+  "generated_at": "2026-07-13T09:52:10.702Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 558,
-  "next_update": "2026-07-13T06:30:00.000Z",
+  "next_update": "2026-07-13T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Announces 20% Hike in Minimum Wage for Unskilled Workers",
-      "subheadline": "Move expected to benefit over 2 lakh workers in the state",
-      "summary": "The West Bengal government has announced a 20% hike in the minimum wage for unskilled workers, benefiting over 2 lakh workers in the state. According to a notification issued by the Labor Department, the new minimum wage will be effective from August 1, 2026. The announcement comes ahead of the state assembly polls, which are scheduled for next year. The hike is expected to cost the state exchequer over ₹400 crores annually. The decision has been welcomed by labor unions, who have been demanding a wage revision for long. The state government has also announced plans to implement the National Floor Level Minimum Wage (NFLMW) for all workers in the state.",
+      "headline": "West Bengal's Agriculture Output Sees 15% Growth in 2025-26",
+      "subheadline": "Rice and Potato Production Witness Significant Increase Amid Improved Irrigation Facilities",
+      "summary": "According to data released by the Department of Agriculture, West Bengal's agriculture output has seen a 15% growth in the 2025-26 fiscal year. The state's rice production has increased by 12% and potato production by 18% due to improved irrigation facilities and favorable weather conditions. This growth is expected to positively impact the state's economy and farmers' livelihoods. The department attributes the success to the implementation of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme and the West Bengal government's efforts to improve irrigation infrastructure.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Hindu"
+        "mospi.gov.in"
       ],
-      "impact": "Boosts purchasing power of over 2 lakh workers in the state",
-      "unknowns": "Long-term financial implications on the state exchequer"
+      "impact": "Improved agricultural output to boost state's economy and farmers' livelihoods",
+      "unknowns": ""
     },
     "stories": [
       {
-        "headline": "Cyclone Warning Issued for Coastal West Bengal",
-        "summary": "Low-pressure system brewing over Bay of Bengal, expected to make landfall by Tuesday",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Logs 25% Increase in COVID-19 Cases in June",
-        "summary": "State reports 10,000 new cases in June, with 20% increase in hospitalizations",
+        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal's Automotive Hub",
+        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in its automotive hub in West Bengal, creating over 10,000 jobs. The investment will be used to expand the company's manufacturing capacity and improve infrastructure.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmer Protests in West Bengal Over Delayed Payment of Subsidy",
-        "summary": "Farmers protest outside Nabanna, demand immediate payment of subsidy for crop insurance",
-        "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "Economic Times",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal to Launch Rs 10,000 Crore Infrastructure Development Plan",
-        "summary": "Plan aims to improve connectivity and basic infrastructure in rural areas",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Infrastructure"
+        "headline": "West Bengal to Launch 'One-Stop Shop' for Pensioners",
+        "summary": "The West Bengal government has announced plans to launch a 'one-stop shop' for pensioners, providing them with a single platform to access various government services. The initiative aims to simplify the process of availing pension benefits and other government services.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal's Air Quality Ranks 14th in Country, Says CPCB Report",
+        "summary": "A recent report by the Central Pollution Control Board (CPCB) has ranked West Bengal 14th in the country in terms of air quality. The report highlights the need for improved air quality management in the state, particularly in industrial areas.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal to Implement National Education Policy in State Schools",
+        "summary": "The West Bengal government has announced plans to implement the National Education Policy (NEP) in state schools, aiming to improve the quality of education and make it more inclusive.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal Govt to Launch Skill Development Programme",
-      "Cyclone Warning Issued for Coastal West Bengal",
-      "Farmer Protests in West Bengal Over Delayed Payment of Subsidy",
-      "West Bengal Logs 25% Increase in COVID-19 Cases in June",
-      "New Initiative Launched to Promote Startups in West Bengal",
-      "West Bengal Announces 20% Hike in Minimum Wage for Unskilled Workers",
-      "Rs 100 Crore Allocated for Conservation of Sundarbans",
-      "West Bengal to Host National Science Congress in October"
+      "West Bengal's Agricultural Growth",
+      "Tata Motors Investment",
+      "One-Stop Shop for Pensioners",
+      "West Bengal's Air Quality",
+      "NEP Implementation in State Schools",
+      "West Bengal's Economy",
+      "Improved Irrigation Facilities",
+      "Job Creation in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmers' Protest in West Bengal",
+        "topic": "Siliguri Jalpaiguri Terai Dooars Development Region",
         "state_narrative": {
-          "headline": "ABP Ananda: Mamata Banerjee's Government Ensures Fair Compensation to Farmers",
-          "summary": "According to ABP Ananda, the West Bengal government has paid fair compensation to farmers affected by Cyclone Amphan in 2020. The report claims that the state government distributed cheques to over 1,000 farmers, providing them with financial assistance.",
+          "headline": "ABP Ananda: Mamata Banerjee Claims 100% Electrification in Jalpaiguri",
+          "summary": "According to ABP Ananda, Mamata Banerjee stated that the state government has achieved 100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Fair compensation was provided to affected farmers",
-            "Over 1,000 farmers received cheques"
+            "100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: West Bengal Government Accused of Delaying Compensation for Cyclone Amphan-Affected Farmers",
-          "summary": "The Wire reported that despite the cyclone occurring in May 2020, many farmers in West Bengal were yet to receive compensation as of June 2021. According to the article, the state government's slow pace in disbursing funds was causing hardship for the affected farmers.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The report did not mention the total number of farmers affected by Cyclone Amphan",
-            "It did not provide information on the total compensation amount disbursed by the state government"
-          ],
-          "data_check": "As per the Ministry of Home Affairs' report, a total of 4,789 villages in West Bengal were affected by Cyclone Amphan. According to the West Bengal government's own data, as of June 2021, only 25% of the total compensation amount had been disbursed to the affected farmers."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media outlet exaggerated the speed of compensation distribution by the West Bengal government.",
-          "missing_context": "The report did not provide information on the total compensation amount or the percentage of farmers who had received assistance as of the time of writing."
-        }
-      },
-      {
-        "topic": "Migration in West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla: West Bengal Sees a Surge in Migration to Other States",
-          "summary": "News18 Bangla reported that West Bengal is witnessing a significant increase in migration to other states, citing a lack of job opportunities and poor economic conditions as the primary reasons. According to the report, over 100,000 people have migrated from West Bengal in the past year.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "There is a surge in migration from West Bengal to other states",
-            "Over 100,000 people have migrated in the past year"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: Migration Trends in West Bengal",
-          "summary": "FactChecker.in analyzed data from the National Family Health Survey (NFHS) and found that while there has been an increase in out-migration from West Bengal, the numbers are not as high as reported by News18 Bangla. According to the data, approximately 50,000 people migrated from West Bengal between 2019 and 2020.",
+          "headline": "FactChecker.in: Electrification in Jalpaiguri - Less Than 100%",
+          "summary": "According to FactChecker.in, the data from the Ministry of Power shows that while significant progress has been made, the state still lags behind in electrifying rural areas. As of 2022, 97.1% of households in Jalpaiguri district have access to electricity.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The report did not provide information on the primary reasons for migration",
-            "It did not mention the total number of people who migrated from West Bengal in the past year"
+            "progress in rural electrification",
+            "lag in electrifying rural areas"
           ],
-          "data_check": "As per the NFHS data, the total out-migration from West Bengal between 2019 and 2020 was 49,133 people."
+          "data_check": "Data from the Ministry of Power (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media outlet exaggerated the number of people who migrated from West Bengal in the past year.",
-          "missing_context": "The report did not provide information on the primary reasons for migration or the total number of people who migrated from West Bengal in the past year."
+          "key_gap": "The state government's claim of 100% electrification in the Siliguri Jalpaiguri Terai Dooars Development Region is misleading, as the data shows that rural areas still lack electricity.",
+          "missing_context": "The state's progress in rural electrification and the lag in electrifying rural areas were not mentioned in the state narrative."
         }
       },
       {
-        "topic": "Education in West Bengal",
+        "topic": "West Bengal Farmers",
         "state_narrative": {
-          "headline": "ABP Ananda: West Bengal Government Increases Number of Government Schools",
-          "summary": "According to ABP Ananda, the West Bengal government has increased the number of government schools in the state, citing an improvement in the education sector. The report claims that the state government has established over 100 new government schools in the past year.",
+          "headline": "News18 Bangla: West Bengal Farmers Receive Minimum Support Price (MSP) for Their Crops",
+          "summary": "According to News18 Bangla, the West Bengal government is providing the minimum support price (MSP) to farmers for their crops, thereby supporting their livelihood.",
           "sources": [
-            "ABP Ananda"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "The number of government schools has increased in West Bengal",
-            "Over 100 new government schools were established in the past year"
+            "West Bengal government provides MSP for crops"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: West Bengal Government's Education Policy",
-          "summary": "Article 14 reported that while the West Bengal government has indeed increased the number of government schools, the state's education policy has been criticized for its lack of transparency and accountability. According to the article, the state government has not provided information on the allocation of funds for new schools or the infrastructure requirements for existing schools.",
+          "headline": "India Spend: Analysis of MSP Payments to West Bengal Farmers",
+          "summary": "According to India Spend, an analysis of data from the Ministry of Agriculture and Farmers Welfare shows that the West Bengal government has been making MSP payments to farmers, but the data also reveals that the payments are often delayed and the amounts are lower than the MSP.",
           "sources": [
-            "Article 14"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The report did not mention the total number of government schools in West Bengal",
-            "It did not provide information on the number of new government schools established in the past year"
+            "delayed payments",
+            "lower amounts than MSP"
           ],
-          "data_check": "As per the West Bengal government's own data, the total number of government schools in the state is 31,445. According to the government's data, 215 new government schools were established in the past year."
+          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet did not provide context on the state's education policy and its implications for the increase in government schools.",
-          "missing_context": "The report did not provide information on the total number of government schools or the number of new government schools established in the past year."
+          "key_gap": "The state narrative omits the fact that MSP payments to West Bengal farmers are often delayed and the amounts are lower than the MSP.",
+          "missing_context": "The state's efforts to support farmers through MSP payments were partially accurate, but the narrative lacked context on the payments' timeliness and amounts."
+        }
+      },
+      {
+        "topic": "Calcutta High Court",
+        "state_narrative": {
+          "headline": "Republic TV: Calcutta High Court Orders CBI Probe into Narada Scandal",
+          "summary": "According to Republic TV, the Calcutta High Court has ordered a CBI probe into the Narada scam, which involves the alleged involvement of Trinamool Congress leaders.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Calcutta High Court orders CBI probe into Narada Scandal"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Wire: Calcutta High Court Orders CBI Probe into Narada Scam",
+          "summary": "According to The Wire, the Calcutta High Court indeed ordered a CBI probe into the Narada scam. However, the court also ruled that the CBI inquiry should not be confined to the Trinamool Congress leaders alone, but should also include other parties involved in the scam.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "court's ruling on limiting the CBI inquiry to Trinamool Congress leaders"
+          ],
+          "data_check": "Order from the Calcutta High Court (2022)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative omits the court's ruling on limiting the CBI inquiry to Trinamool Congress leaders.",
+          "missing_context": "The state narrative provided a partial account of the court's order, lacking context on the court's ruling regarding the scope of the CBI inquiry."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Rice Prices Hit 5-Year High in West Bengal Amid Shortage",
-        "bullets": [
-          "Rice prices have increased by 15% in the past month alone.",
-          "According to the Agriculture Department, West Bengal's rice production is expected to decrease by 12% this year.",
-          "This means that consumers can expect to pay at least Rs 50 more per 10 kg bag of rice."
-        ],
-        "source": "The Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Massive Power Cut Hits Kolkata, 50% of City Without Electricity",
-        "bullets": [
-          "The power cut was caused by a technical issue at a major substation.",
-          "Over 2 million people were affected by the power cut.",
-          "This is the third major power cut in the city this year, with the last one occurring just 2 weeks ago."
-        ],
-        "source": "The Telegraph (India)",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Hooghly River Reach Toxic Levels, Says Study",
-        "bullets": [
-          "The Hooghly River is a major source of drinking water for over 1 million people.",
-          "According to a study by the Indian Institute of Science, the river's pollution levels exceed safe limits by 300%.",
-          "This can lead to serious health issues, including cancer and respiratory problems."
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Labor",
-        "headline": "West Bengal Govt Announces Minimum Wage Hike, But Not Enough, Say Workers",
-        "bullets": [
-          "The minimum wage for unskilled workers has been increased by Rs 50 per day.",
-          "According to the West Bengal government, this is the highest wage hike in 5 years.",
-          "However, workers say that the increase is not enough to cover the rising cost of living."
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Health",
-        "headline": "Dengue Cases Spike in West Bengal, Health Department on High Alert",
-        "bullets": [
-          "The number of dengue cases has increased by 25% in the past month alone.",
-          "The West Bengal Health Department has reported over 500 cases of dengue so far this year.",
-          "The department has launched a statewide campaign to prevent the spread of the disease."
-        ],
-        "source": "The Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal Govt Announces Plan to Improve School Infrastructure",
-        "bullets": [
-          "The West Bengal government has announced a plan to improve school infrastructure in the state.",
-          "The plan includes the construction of new classrooms and toilets in over 1,000 schools.",
-          "However, the plan has been criticized for not addressing the lack of teachers and resources in many schools."
-        ],
-        "source": "The Times of India",
-        "status": "DEVELOPING",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Price Hike Likely to Cause 20% Increase in Transportation Costs",
+      "bullets": [
+        "The oil ministry has announced a 10% hike in diesel prices, effective immediately.",
+        "This move is expected to lead to a 20% rise in transportation costs for common man, affecting over 70% of the state's population.",
+        "As a result, prices of essential commodities like vegetables, fruits, and grains are likely to shoot up further."
+      ],
+      "source": "Press Trust of India",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Education",
+      "headline": "Mid-Day Meal Scheme Hit by Shortage of Cooking Oil in Schools",
+      "bullets": [
+        "The West Bengal government's mid-day meal scheme is facing a severe shortage of cooking oil, affecting around 15,000 schools.",
+        "The shortage has resulted in the cancellation of meals for over 2.5 million students, sparking widespread protests.",
+        "The government has assured that the situation will be resolved within the next fortnight."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in Sundarbans Affects Over 1,000 People",
+      "bullets": [
+        "A recent outbreak of malaria in the Sundarbans region has affected over 1,000 people, with 200 cases reported in the last week.",
+        "The disease is spreading rapidly due to the region's dense forest and lack of proper healthcare facilities.",
+        "The state government has deployed a team of experts to contain the outbreak."
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Labor",
+      "headline": "Strike by Trinamool Congress Workers Affects Transport Services",
+      "bullets": [
+        "A strike by Trinamool Congress workers has brought transport services to a grinding halt in several districts of the state.",
+        "The strike, which began on July 12, has affected over 50,000 passengers, with many stranded on roads and highways.",
+        "The government has urged the workers to call off the strike and resume services."
+      ],
+      "source": "News18 Bengali",
+      "status": "DEVELOPING",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 10 Districts of West Bengal, Affecting 2 Million People",
+      "bullets": [
+        "A power grid failure has resulted in widespread power cuts in 10 districts of the state, affecting over 2 million people.",
+        "The power cuts have led to disruptions in essential services, including water supply and communication networks.",
+        "The state electricity board has assured that power will be restored within the next 24 hours."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "Pollution Levels in Hooghly River Reach Critical Levels, Alert Issued",
+      "bullets": [
+        "The pollution levels in the Hooghly River have reached critical levels, posing a serious threat to aquatic life.",
+        "The state government has issued an alert, urging people to avoid contact with the river water.",
+        "The cause of the pollution is still unknown, and an investigation is underway."
+      ],
+      "source": "Indian Express",
+      "status": "UNVERIFIED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
