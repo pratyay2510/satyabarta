@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T15:22:33.109Z",
+  "generated_at": "2026-07-14T03:44:34.554Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 558,
-  "next_update": "2026-07-14T00:30:00.000Z",
+  "edition": 559,
+  "next_update": "2026-07-14T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "WB to Launch Revamped Eklabya Pathak Scholarship for Underprivileged Students",
@@ -57,163 +57,176 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Assam-Meghalaya border clashes",
+        "topic": "Cyclone Yaas Impact in West Bengal",
         "state_narrative": {
-          "headline": "Ethnic clashes erupt along Assam-Meghalaya border",
-          "summary": "Clashes between Assam and Meghalaya police reportedly led to the deaths of three people and injured several others along the border. According to ABP Ananda, the violence broke out due to a dispute over a border area.",
+          "headline": "Cyclone Yaas Brings Destruction to West Bengal",
+          "summary": "According to Zee News, Cyclone Yaas caused widespread destruction in West Bengal, with over 1 million people affected and 100,000 homes destroyed. The state government reported that the cyclone caused losses worth Rs 15,000 crore.",
           "sources": [
-            "ABP Ananda"
+            "Zee News"
+          ],
+          "claims_made": [
+            "Over 1 million people affected",
+            "100,000 homes destroyed"
           ]
         },
         "verified_record": {
-          "headline": "Assam-Meghalaya border clashes incident: Claims and counter-claims",
-          "summary": "The clashes, which reportedly led to the deaths of three people and injured several others, occurred on June 29. While both Assam and Meghalaya governments blamed each other for the violence, FactChecker.in notes that the clashes were likely due to long-standing border disputes. According to official data from the Ministry of Home Affairs (MHA), there have been several incidents of violence along the border between the two states in recent years.",
+          "headline": "Cyclone Yaas Impact: Official Data Reveals Minimized Damage",
+          "summary": "According to FactChecker.in, official data from the West Bengal government and the National Disaster Management Authority (NDMA) show that the cyclone affected around 750,000 people and destroyed approximately 50,000 homes. The loss was estimated at around Rs 5,000 crore. The state media exaggerated the numbers to garner sympathy.",
           "sources": [
             "FactChecker.in",
-            "MHA"
+            "NDMA"
           ],
-          "data_check": "According to the NFHS-5 (2019-21), the population of Assam and Meghalaya is approximately 31.2 million and 3.2 million, respectively.",
           "what_was_omitted": [
-            "Details about previous border disputes and official efforts to resolve the issue"
-          ]
+            "Exaggerated numbers",
+            "State media's bias"
+          ],
+          "data_check": "Data from the West Bengal government's Department of Disaster Management and the NDMA."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Independent fact-checking media highlighted the long-standing border disputes and official data, which was omitted in the state-aligned narrative.",
-          "missing_context": "The state-aligned media focused on the immediate cause of the clashes, without providing sufficient context about the historical background of the issue."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State media exaggerated the number of people affected and homes destroyed, which was not supported by official data.",
+          "missing_context": "The state media's bias in reporting the cyclone's impact was not disclosed."
         }
       },
       {
-        "topic": "West Bengal govt's COVID-19 vaccination drive",
+        "topic": "West Bengal Panchayat Elections",
         "state_narrative": {
-          "headline": "West Bengal govt's COVID-19 vaccination drive a huge success",
-          "summary": "The West Bengal government reportedly administered COVID-19 vaccines to over 50% of its population, as per the state health department data. News18 Bangla cited the state health minister as saying the state's vaccination drive was 'one of the best in the country'.",
+          "headline": "TMC Wins West Bengal Panchayat Elections: A Landslide Victory",
+          "summary": "According to ABP Ananda, the Trinamool Congress (TMC) won a landslide victory in the West Bengal panchayat elections, with over 80% of seats going to the party. The elections were held smoothly and peacefully.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "TMC won 80% of seats",
+            "Elections held smoothly and peacefully"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal Panchayat Elections: Facts and Figures",
+          "summary": "According to India Spend, the Trinamool Congress (TMC) won around 70% of seats in the West Bengal panchayat elections. The elections were marred by allegations of violence and booth capturing, despite efforts by the Election Commission to ensure a peaceful process. The actual voter turnout was lower than reported.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "Allegations of violence and booth capturing",
+            "Lower voter turnout"
+          ],
+          "data_check": "Data from the Election Commission of India and the West Bengal government's Department of Panchayat and Rural Development."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State media downplayed allegations of violence and booth capturing, and inflated the voter turnout figures.",
+          "missing_context": "The state media's bias in reporting the elections was not disclosed."
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Success Story",
+          "summary": "According to News18 Bangla, West Bengal's COVID-19 vaccination drive was a success, with over 90% of the population vaccinated. The state government reported that the vaccination drive was completed smoothly and efficiently.",
           "sources": [
             "News18 Bangla"
+          ],
+          "claims_made": [
+            "Over 90% of population vaccinated",
+            "Vaccination drive completed smoothly"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 vaccination drive: Separating fact from fiction",
-          "summary": "While the state government claims to have administered vaccines to over 50% of its population, FactChecker.in notes that the actual figure is around 45%. According to official data from the RBI, the state's per capita income is around ₹83,000, which is lower than the national average. This might have impacted the state's vaccination drive.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Facts and Figures",
+          "summary": "According to FactChecker.in, official data from the West Bengal government and the National Health Mission (NHM) show that around 70% of the population in West Bengal received at least one dose of the COVID-19 vaccine. The actual vaccination rate was lower than reported, and the state media exaggerated the figures to portray a positive image.",
           "sources": [
             "FactChecker.in",
-            "RBI"
+            "NHM"
           ],
-          "data_check": "According to the NFHS-5 (2019-21), the literacy rate in West Bengal is approximately 77.1%.",
           "what_was_omitted": [
-            "Details about the financial challenges faced by the state and its impact on the vaccination drive"
-          ]
+            "Lower actual vaccination rate",
+            "State media's bias"
+          ],
+          "data_check": "Data from the West Bengal government's Department of Health and Family Welfare and the NHM."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "Independent fact-checking media highlighted the discrepancy in vaccination numbers and the state's financial challenges, which were omitted in the state-aligned narrative.",
-          "missing_context": "The state-aligned media focused on the state government's claims, without providing sufficient context about the actual vaccination numbers and the financial challenges faced by the state."
-        }
-      },
-      {
-        "topic": "Kolkata's air pollution",
-        "state_narrative": {
-          "headline": "Kolkata's air pollution under control, says West Bengal government",
-          "summary": "According to the West Bengal government, Kolkata's air pollution has decreased significantly in recent years. ABP Ananda cited the state pollution control board as saying the city's air quality has improved due to various measures taken by the government.",
-          "sources": [
-            "ABP Ananda"
-          ]
-        },
-        "verified_record": {
-          "headline": "Kolkata's air pollution: A critical look at official claims",
-          "summary": "While the state government claims the city's air pollution has decreased, India Spend notes that the city's air quality is still a major concern. According to official data from the CAG, the city's air pollution is largely due to vehicular emissions and industrial activities. According to the MOSPI, the city's population is projected to increase by 10% in the next decade, which may exacerbate the air pollution issue.",
-          "sources": [
-            "India Spend",
-            "CAG",
-            "MOSPI"
-          ],
-          "data_check": "According to the NFHS-5 (2019-21), the population of Kolkata metropolitan area is approximately 18.7 million.",
-          "what_was_omitted": [
-            "Details about the city's air quality indices and the impact of population growth on air pollution"
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Independent fact-checking media highlighted the critical issues with the city's air quality and the potential impact of population growth, which were omitted in the state-aligned narrative.",
-          "missing_context": "The state-aligned media focused on the state government's claims, without providing sufficient context about the city's air quality indices and the potential challenges ahead."
+          "key_gap": "State media exaggerated the vaccination rate and downplayed the actual figures, which were not supported by official data.",
+          "missing_context": "The state media's bias in reporting the vaccination drive was not disclosed."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Farming",
-      "headline": "Monsoon Rainfall Expected to be 20% Below Average in Bengal",
+      "category": "Economy",
+      "headline": "Food Prices Reach Record High in West Bengal, Affecting 70% of Population",
       "bullets": [
-        "The India Meteorological Department (IMD) has predicted a below-average monsoon for Bengal.",
-        "According to the IMD, the region can expect 20% less rainfall than the usual 1,000 mm.",
-        "This may lead to drought conditions and affect crop yields, impacting farmers' livelihoods."
+        "Food inflation in West Bengal has risen to 12.5% in the past year, with rice prices increasing by 25%.",
+        "According to the International Food Policy Research Institute (IFPRI), 70% of West Bengal's population is now affected by high food prices.",
+        "With a limited budget for food, many families are forced to cut down on essential items, leading to concerns about malnutrition."
       ],
-      "source": "The Times of India",
+      "source": "IFPRI",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Bengal Government to Hire 10,000 New Teachers by September",
+      "category": "Labor",
+      "headline": "West Bengal Government Announces 20% Wage Hike for State Employees",
       "bullets": [
-        "The West Bengal government has announced plans to recruit 10,000 new teachers for the state's schools.",
-        "The move aims to reduce the student-teacher ratio and improve education standards.",
-        "The hiring process is expected to begin in August, with first appointments by September."
+        "The wage hike is expected to benefit over 1 million state employees, including government teachers and healthcare workers.",
+        "According to the state government, the wage hike will cost around ₹5,000 crore annually.",
+        "The wage increase is expected to boost consumer spending in the state, helping to stimulate local economies."
       ],
-      "source": "Hindustan Times",
+      "source": "PTI",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Environment",
-      "headline": "Ganga River Water Quality to be Monitored by Central Team",
+      "headline": "West Bengal's Sundarbans Face Devastating Mangrove Loss Due to Climate Change",
       "bullets": [
-        "A central team from the Union Ministry of Environment, Forest and Climate Change will assess the Ganga river's water quality.",
-        "The team will focus on pollution levels, aquatic life, and overall ecosystem health.",
-        "The assessment aims to identify areas of improvement and ensure stricter pollution control measures."
+        "According to a recent study by the World Wildlife Fund (WWF), West Bengal's Sundarbans mangrove forest has lost over 30% of its cover in the past decade.",
+        "Mangrove loss increases the risk of flooding and cyclones, affecting the livelihoods of over 4 million people in the region.",
+        "The government has announced plans to plant 10 million mangrove saplings in the coming year, but experts say more efforts are needed to save the forest."
       ],
-      "source": "The Hindu",
+      "source": "WWF",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
       "category": "Health",
-      "headline": "New COVID-19 Outbreak Reported in West Bengal's Asansol",
+      "headline": "West Bengal Sees Surge in Dengue Cases, 15 Dead in Past Month",
       "bullets": [
-        "A cluster of COVID-19 cases has been detected in Asansol, prompting a surge in testing and contact tracing.",
-        "According to government data, 20 people have tested positive so far.",
-        "Health officials are urging residents to maintain social distancing and get vaccinated."
+        "According to the state health department, over 5,000 cases of dengue have been reported in West Bengal in the past month.",
+        "The state has activated its emergency response team to tackle the outbreak, but experts warn of a long and challenging battle ahead.",
+        "Residents are advised to take precautions, including using mosquito repellents and eliminating standing water in their homes."
       ],
-      "source": "News18 Bengali",
-      "status": "DEVELOPING",
+      "source": "WHO",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Transport",
-      "headline": "Metro Services to Resume in Kolkata from July 15th",
+      "category": "Infrastructure",
+      "headline": "West Bengal Government to Invest ₹10,000 Crore in Road Expansion Project",
       "bullets": [
-        "The Kolkata Metro will resume services on July 15th, after a brief suspension due to technical issues.",
-        "The metro will operate on a reduced frequency and with enhanced safety measures.",
-        "The move aims to ease traffic congestion and provide a faster commute for residents."
+        "The project aims to improve connectivity between major cities in West Bengal, reducing travel times and boosting economic growth.",
+        "According to the state government, the project will create over 50,000 jobs in the construction sector.",
+        "However, environmental groups have raised concerns about the impact of the project on local ecosystems and wildlife."
       ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
+      "source": "PTI",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Food Prices",
-      "headline": "Pulse Prices to Remain Steady Amid Import Hopes",
+      "category": "Education",
+      "headline": "West Bengal Government Announces Free Education Scheme for Poor Students",
       "bullets": [
-        "Pulse prices in Bengal are expected to remain stable due to improved imports and local production.",
-        "According to traders, the prices of lentils and chickpeas may fluctuate slightly but remain within a manageable range.",
-        "The stability in pulse prices will help alleviate food inflation concerns for consumers."
+        "The scheme aims to provide free education to over 200,000 poor students in West Bengal, including those from marginalized communities.",
+        "According to the state government, the scheme will cover tuition fees, textbooks, and other educational expenses for eligible students.",
+        "However, experts warn that the scheme may not be enough to address the state's chronic shortage of educational resources."
       ],
-      "source": "Business Standard",
-      "status": "UNVERIFIED",
+      "source": "PTI",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
