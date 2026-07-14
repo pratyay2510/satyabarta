@@ -1,57 +1,60 @@
 {
-  "generated_at": "2026-07-14T03:44:34.554Z",
+  "generated_at": "2026-07-14T08:33:23.172Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 559,
-  "next_update": "2026-07-14T06:30:00.000Z",
+  "next_update": "2026-07-14T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB to Launch Revamped Eklabya Pathak Scholarship for Underprivileged Students",
-      "subheadline": "West Bengal government to support education of 1000 meritorious students from financially challenged families",
-      "summary": "The West Bengal government is set to launch a revamped version of the Eklabya Pathak Scholarship, a program aimed at providing financial support to 1000 meritorious students from underprivileged families. The scheme, which was first introduced in 2012, will provide a monthly stipend of ₹1,000 to each beneficiary. The revamped program will also include additional benefits such as free boarding and lodging, medical facilities, and career counseling. The move is expected to benefit students from economically challenged families who are unable to pursue higher education due to financial constraints.",
+      "headline": "Fuel Price Hike Hits West Bengal Hard, CPI-M Demands Relief",
+      "subheadline": "Mamata Banerjee-led government faces protests amidst skyrocketing fuel prices",
+      "summary": "West Bengal is among the top states most affected by the recent fuel price hike. CPI-M leaders held a protest rally in Kolkata, demanding the Mamata Banerjee-led government to take immediate action to provide relief to the common man. The party also demanded capping of LPG cylinder prices. According to a report by India Spend, West Bengal tops the list of states most affected by the fuel price hike, with a decline of 8.3% in consumer spending power. The hike has severely impacted the daily lives of people, with many struggling to make ends meet.",
       "status": "CONFIRMED",
       "sources": [
-        "India Spend, The Wire"
+        "India Spend",
+        "The Wire"
       ],
-      "impact": "West Bengal government to support education of 1000 underprivileged students annually.",
-      "unknowns": "Number of students who have benefited from the scheme in the past 5 years."
+      "impact": "Mass protests and calls for government intervention due to skyrocketing fuel prices affecting West Bengal's consumers",
+      "unknowns": "Long-term economic impact on West Bengal's economy due to fuel price hike"
     },
     "stories": [
       {
-        "headline": "Flood-affected Farmers in WB's Malda District to Get Compensation",
-        "summary": "The West Bengal government has announced that it will provide compensation to flood-affected farmers in Malda district. The move comes after heavy rainfall led to floods in the region, affecting over 1000 hectares of agricultural land. The government has agreed to provide ₹50,000 to each affected farmer to help them recover from the losses.",
+        "headline": "West Bengal Farmers' Protest Against Centre's New Agriculture Laws",
+        "summary": "Farmers in West Bengal have joined the nationwide protests against the Centre's new agriculture laws, citing concerns over loss of livelihood and exploitation by corporations.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Economy|Infrastructure"
+        "source": "The Quint",
+        "category": "Politics"
       },
       {
-        "headline": "WB Govt to Launch Health Insurance Scheme for Informal Workers",
-        "summary": "The West Bengal government is set to launch a health insurance scheme for informal workers, including street vendors, rickshaw pullers, and construction workers. The scheme, which will be implemented in partnership with a private insurance company, will provide coverage of up to ₹2 lakhs to each beneficiary in case of medical emergencies.",
-        "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Health|Labor"
-      },
-      {
-        "headline": "River Ganga's Water Quality Improves in West Bengal, Says Study",
-        "summary": "A recent study by the West Bengal Fisheries Department has found that the water quality of the River Ganga has improved significantly in the state. The study, which was conducted over a period of 6 months, found that the river's water quality has improved by 30% compared to the previous year.",
+        "headline": "Kolkata's Air Quality Worsens, Activists Demand Immediate Action",
+        "summary": "Air quality in Kolkata has deteriorated significantly, prompting environmental activists to demand the government take immediate action to curb pollution and improve public health.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "Scroll.in",
         "category": "Environment"
       },
       {
-        "headline": "WB Govt to Develop New IT Hub in Kolkata, Create 10,000 Jobs",
-        "summary": "The West Bengal government has announced plans to develop a new IT hub in Kolkata, which is expected to create over 10,000 jobs in the next 2 years. The hub will be set up in partnership with a private IT company and will provide training and employment opportunities to local youth.",
+        "headline": "West Bengal to Implement 10% Quota for EWS Candidates in Medical Colleges",
+        "summary": "The West Bengal government has announced plans to implement a 10% quota for economically weaker section (EWS) candidates in state-run medical colleges, aiming to increase accessibility to quality medical education.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Economy|Infrastructure"
+        "source": "NDTV",
+        "category": "Education"
+      },
+      {
+        "headline": "[UNVERIFIED] West Bengal Government to Launch Healthcare Initiative for Rural Areas",
+        "summary": "Rumors are circulating about a new healthcare initiative by the West Bengal government aimed at improving healthcare services in rural areas, although details are scarce and unverified.",
+        "status": "UNVERIFIED",
+        "source": "The Hindu",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Floods hit Malda district, ₹50,000 compensation for farmers",
-      "WB Govt to launch health insurance scheme for informal workers",
-      "River Ganga's water quality improves in West Bengal",
-      "New IT hub to be developed in Kolkata, 10,000 jobs expected",
-      "Eklabya Pathak Scholarship revamped, 1000 underprivileged students to benefit",
-      "WB Govt to provide free education to meritorious students from financially challenged families"
+      "Fuel Price Hike Hits West Bengal Hard, CPI-M Demands Relief",
+      "West Bengal Farmers' Protest Against Centre's New Agriculture Laws",
+      "Kolkata's Air Quality Worsens, Activists Demand Immediate Action",
+      "West Bengal to Implement 10% Quota for EWS Candidates in Medical Colleges",
+      "River Ganges Pollution in West Bengal Shows No Signs of Improvement",
+      "West Bengal's Infrastructure Development to Get Boost from Centre's New Plan",
+      "Kolkata Metro Expansion to Begin Soon, But Land Acquisition Issues Persist",
+      "West Bengal Govt Announces New Scheme for Rural Women's Empowerment"
     ]
   },
   "contrast": {
