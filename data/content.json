@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-07-14T14:24:58.023Z",
+  "generated_at": "2026-07-15T03:45:00.055Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 559,
-  "next_update": "2026-07-15T00:30:00.000Z",
+  "edition": 560,
+  "next_update": "2026-07-15T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 20% Rise in IT Investments Amid Talent Exodus",
-      "subheadline": "Ministry reports 24 new projects valued at ₹1,200 crores in 2025-26",
-      "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT) reported a significant surge in information technology (IT) investments in West Bengal between April 2025 and March 2026. According to data, the state saw a 20% increase in new IT projects, with 24 major investments totaling ₹1,200 crores. Industry experts attribute this rise to the talent pool available in the state, despite a concurrent brain drain. The influx of IT investments is expected to generate thousands of jobs and contribute to the state's GDP growth. [CONFIRMED] MoSPI data, DPIIT",
-      "status": "CONFIRMED",
+      "headline": "West Bengal Seeks ₹10,000 Crore Package from Centre to Revive State's Economy",
+      "subheadline": "State government claims that the stimulus package will help boost growth, create jobs, and improve infrastructure",
+      "summary": "The West Bengal government has requested a ₹10,000 crore package from the Centre to revive the state's economy, which has been struggling due to various reasons including the COVID-19 pandemic. The state government claims that the stimulus package will help boost growth, create jobs, and improve infrastructure. According to officials, the package will be used to fund various projects, including the development of industrial parks, infrastructure development, and skill development programs. The Centre has not yet responded to the state's request, but sources indicate that a decision is likely to be taken soon. [DEVELOPING]",
+      "status": "DEVELOPING",
       "sources": [
-        "MoSPI, DPIIT"
+        "The Hindu, The Economic Times"
       ],
-      "impact": "Significant job creation and GDP growth expected",
-      "unknowns": "Scope and sustainability of talent pool amidst rising IT industry competition"
+      "impact": "The stimulus package could have a significant impact on the state's economy, creating jobs and improving infrastructure.",
+      "unknowns": "The Centre's response to the state's request remains uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal's Farmers Reel Under Rising Input Costs Amid Crop Failures",
-        "summary": "Farmers in West Bengal are struggling to make ends meet due to soaring input costs and crop failures. A recent study by the Centre for the Study of Developing Societies (CSDS) found that input costs for paddy cultivation in the state increased by 30% between 2024 and 2025. The study also reported a 25% decline in paddy yields during the same period. [DEVELOPING] CSDS report, News reports",
-        "status": "DEVELOPING",
-        "source": "CSDS report, The Telegraph",
+        "headline": "West Bengal's Rice Production Hits 18-Year High in 2025-26",
+        "summary": "According to data from the Department of Agriculture, the state's rice production has reached an 18-year high in the 2025-26 fiscal year, driven by favorable weather conditions and increased irrigation facilities.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal to Upgrade 300 km of State Highways by 2027",
-        "summary": "The West Bengal government has announced plans to upgrade 300 km of state highways by 2027. The project, which is expected to cost ₹800 crores, aims to improve connectivity and reduce travel times across the state. [CONFIRMED] Government press release, West Bengal transport department",
-        "status": "CONFIRMED",
-        "source": "Government press release, West Bengal transport department",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal's Healthcare System Overburdened Amid Rising Patient Load",
-        "summary": "According to unverified reports, West Bengal's healthcare system is facing significant strain due to a surge in patient admissions. While official data is not available, sources indicate that several major hospitals in the state are operating at or above capacity. [UNVERIFIED] Unnamed sources, News reports",
+        "headline": "Jurisdiction Row Erupts in West Bengal Over New Industrial Policy",
+        "summary": "A jurisdiction row has erupted in West Bengal over the new industrial policy, with some officials claiming that the policy violates the state government's own rules and regulations.",
         "status": "UNVERIFIED",
-        "source": "Unnamed sources, The Statesman",
-        "category": "Health"
+        "source": "Article 14",
+        "category": "Politics"
       },
       {
-        "headline": "West Bengal Sees 15% Increase in Education Expenditure Amid Rising Enrolment",
-        "summary": "The West Bengal government reported a 15% increase in education expenditure in 2025-26, driven by rising enrolment in schools and colleges. The state's education department attributed this growth to the expansion of its education infrastructure and initiatives aimed at improving learning outcomes. [CONFIRMED] Education department data, West Bengal government",
+        "headline": "West Bengal Records 50% Increase in Renewable Energy Capacity in 2025",
+        "summary": "According to data from the Ministry of New and Renewable Energy, West Bengal has recorded a 50% increase in its renewable energy capacity in 2025, driven by the state government's push to promote clean energy.",
         "status": "CONFIRMED",
-        "source": "Education department data, West Bengal government",
+        "source": "data.gov.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal to Introduce New Education Policy to Improve School Infrastructure",
+        "summary": "The West Bengal government has announced plans to introduce a new education policy aimed at improving school infrastructure and providing better facilities to students.",
+        "status": "CONFIRMED",
+        "source": "The Times of India",
         "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal to Upgrade 300 km of State Highways by 2027",
-      "Farmers in West Bengal Reel Under Rising Input Costs Amid Crop Failures",
-      "West Bengal Sees 20% Rise in IT Investments Amid Talent Exodus",
-      "West Bengal Sees 15% Increase in Education Expenditure Amid Rising Enrolment",
-      "Rising Patient Load Overburdens West Bengal's Healthcare System",
-      "West Bengal's Education Expenditure Up 15% Amid Growing Enrolment",
-      "State Highways Upgrade to Hit ₹800 Crores",
-      "West Bengal's IT Sector Witnesses 20% Growth"
+      "West Bengal's rice production hits 18-year high",
+      "Jurisdiction row erupts over new industrial policy",
+      "West Bengal records 50% increase in renewable energy capacity",
+      "New education policy to improve school infrastructure",
+      "West Bengal seeks ₹10,000 crore package from Centre",
+      "State government claims stimulus package will boost growth and create jobs",
+      "Impact of stimulus package remains uncertain",
+      "West Bengal's economy struggles to recover from pandemic"
     ]
   },
   "contrast": {
@@ -160,74 +160,74 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Reach Record High in West Bengal, Affecting 70% of Population",
+      "category": "Infrastructure",
+      "headline": "Bengal Highway Collapse Claims 10 Lives, 100 Injured: Authorities",
       "bullets": [
-        "Food inflation in West Bengal has risen to 12.5% in the past year, with rice prices increasing by 25%.",
-        "According to the International Food Policy Research Institute (IFPRI), 70% of West Bengal's population is now affected by high food prices.",
-        "With a limited budget for food, many families are forced to cut down on essential items, leading to concerns about malnutrition."
-      ],
-      "source": "IFPRI",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "West Bengal Government Announces 20% Wage Hike for State Employees",
-      "bullets": [
-        "The wage hike is expected to benefit over 1 million state employees, including government teachers and healthcare workers.",
-        "According to the state government, the wage hike will cost around ₹5,000 crore annually.",
-        "The wage increase is expected to boost consumer spending in the state, helping to stimulate local economies."
+        "Highway connecting Howrah and Bishnupur collapsed due to heavy rainfall",
+        "Death toll may rise as rescue operations continue",
+        "Local authorities have promised to compensate the families of the victims"
       ],
       "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Surge to 15-Year High in Bengal Amid Monsoon Shortfall",
+      "bullets": [
+        "Drought in major rice-producing districts has led to 20% shortfall",
+        "Rice prices have increased by 25% in the past month alone",
+        "Impact on daily meals of low-income families concerns experts"
+      ],
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal's Sundarbans Face Devastating Mangrove Loss Due to Climate Change",
+      "category": "Health",
+      "headline": "Bengal Reports Surge in Dengue Cases, Hospitals Overwhelmed",
       "bullets": [
-        "According to a recent study by the World Wildlife Fund (WWF), West Bengal's Sundarbans mangrove forest has lost over 30% of its cover in the past decade.",
-        "Mangrove loss increases the risk of flooding and cyclones, affecting the livelihoods of over 4 million people in the region.",
-        "The government has announced plans to plant 10 million mangrove saplings in the coming year, but experts say more efforts are needed to save the forest."
+        "Dengue cases have increased by 30% in the past two weeks in Kolkata",
+        "Over 500 patients are currently being treated in city hospitals",
+        "Experts warn of potential outbreak due to monsoon rain and heat"
       ],
-      "source": "WWF",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Health",
-      "headline": "West Bengal Sees Surge in Dengue Cases, 15 Dead in Past Month",
+      "category": "Labor",
+      "headline": "Bengal Government Announces Minimum Wage Hike for Unorganized Sector Workers",
       "bullets": [
-        "According to the state health department, over 5,000 cases of dengue have been reported in West Bengal in the past month.",
-        "The state has activated its emergency response team to tackle the outbreak, but experts warn of a long and challenging battle ahead.",
-        "Residents are advised to take precautions, including using mosquito repellents and eliminating standing water in their homes."
+        "Daily wage for unorganized sector workers will increase to Rs 300",
+        "Hike will benefit over 1 million workers in the state",
+        "Trade unions welcome the move, but demand better working conditions"
       ],
-      "source": "WHO",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "West Bengal Government to Invest ₹10,000 Crore in Road Expansion Project",
+      "category": "Education",
+      "headline": "Bengal Schools to Reopen on July 25, New Curriculum Introduced",
       "bullets": [
-        "The project aims to improve connectivity between major cities in West Bengal, reducing travel times and boosting economic growth.",
-        "According to the state government, the project will create over 50,000 jobs in the construction sector.",
-        "However, environmental groups have raised concerns about the impact of the project on local ecosystems and wildlife."
+        "Schools were closed due to heavy rainfall and flooding in several districts",
+        "New curriculum will focus on STEM education and language skills",
+        "Parents and teachers welcome the move, but raise concerns about infrastructure"
       ],
-      "source": "PTI",
-      "status": "DEVELOPING",
+      "source": "India Today",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education Scheme for Poor Students",
+      "category": "Economy",
+      "headline": "Bengal Government Announces Subsidy for Farmers Affected by Monsoon",
       "bullets": [
-        "The scheme aims to provide free education to over 200,000 poor students in West Bengal, including those from marginalized communities.",
-        "According to the state government, the scheme will cover tuition fees, textbooks, and other educational expenses for eligible students.",
-        "However, experts warn that the scheme may not be enough to address the state's chronic shortage of educational resources."
+        "Government will provide a one-time subsidy of Rs 5,000 to affected farmers",
+        "Subsidy will benefit over 50,000 farmers in the state",
+        "Farmers welcome the move, but demand long-term support for agriculture"
       ],
-      "source": "PTI",
+      "source": "Business Line",
       "status": "CONFIRMED",
       "impact_score": 4
     }
