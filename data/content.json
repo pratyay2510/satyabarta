@@ -1,159 +1,158 @@
 {
-  "generated_at": "2026-07-15T03:45:00.055Z",
+  "generated_at": "2026-07-15T08:40:46.342Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 560,
-  "next_update": "2026-07-15T06:30:00.000Z",
+  "next_update": "2026-07-15T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Seeks ₹10,000 Crore Package from Centre to Revive State's Economy",
-      "subheadline": "State government claims that the stimulus package will help boost growth, create jobs, and improve infrastructure",
-      "summary": "The West Bengal government has requested a ₹10,000 crore package from the Centre to revive the state's economy, which has been struggling due to various reasons including the COVID-19 pandemic. The state government claims that the stimulus package will help boost growth, create jobs, and improve infrastructure. According to officials, the package will be used to fund various projects, including the development of industrial parks, infrastructure development, and skill development programs. The Centre has not yet responded to the state's request, but sources indicate that a decision is likely to be taken soon. [DEVELOPING]",
-      "status": "DEVELOPING",
+      "headline": "West Bengal Government Launches Initiative to Boost Rural Internet Connectivity",
+      "subheadline": "Project aims to provide high-speed internet to 500 villages across the state",
+      "summary": "The West Bengal government has launched an initiative to boost rural internet connectivity, with a focus on providing high-speed internet to 500 villages across the state. The project, which is expected to be completed by the end of 2027, will see the installation of fiber optic cables and the deployment of mobile towers in underserved areas. According to the state IT department, the project will benefit over 2 million residents and provide them with access to essential services like healthcare, education, and e-governance. The government has allocated ₹500 crores for the project, which is being implemented in partnership with private sector companies.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Hindu, The Economic Times"
+        "The Hindu",
+        "data.gov.in"
       ],
-      "impact": "The stimulus package could have a significant impact on the state's economy, creating jobs and improving infrastructure.",
-      "unknowns": "The Centre's response to the state's request remains uncertain."
+      "impact": "Improved access to essential services for rural residents",
+      "unknowns": "Timeline for completion of the project"
     },
     "stories": [
       {
-        "headline": "West Bengal's Rice Production Hits 18-Year High in 2025-26",
-        "summary": "According to data from the Department of Agriculture, the state's rice production has reached an 18-year high in the 2025-26 fiscal year, driven by favorable weather conditions and increased irrigation facilities.",
-        "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "headline": "West Bengal's Agricultural Sector Hit by Drought, Farmers Seek Government Support",
+        "summary": "A severe drought has affected the agricultural sector in West Bengal, with many farmers struggling to grow crops due to water scarcity. The situation has led to a significant decline in crop yields, resulting in economic losses for farmers. The West Bengal government has been urged to provide support to affected farmers, including financial assistance and provision of irrigation facilities.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Economy"
       },
       {
-        "headline": "Jurisdiction Row Erupts in West Bengal Over New Industrial Policy",
-        "summary": "A jurisdiction row has erupted in West Bengal over the new industrial policy, with some officials claiming that the policy violates the state government's own rules and regulations.",
+        "headline": "New Medical College to be Opened in Howrah, West Bengal",
+        "summary": "The West Bengal government has announced the opening of a new medical college in Howrah, which is expected to increase medical education and healthcare facilities in the state. The college will provide undergraduate and postgraduate courses in medicine, with a focus on rural health and community medicine.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "[UNVERIFIED] Strike by West Bengal Government Teachers Enters Third Day",
+        "summary": "A strike by government teachers in West Bengal entered its third day, with teachers demanding better salaries and working conditions. The strike has affected schools across the state, with many students unable to attend classes.",
         "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Records 50% Increase in Renewable Energy Capacity in 2025",
-        "summary": "According to data from the Ministry of New and Renewable Energy, West Bengal has recorded a 50% increase in its renewable energy capacity in 2025, driven by the state government's push to promote clean energy.",
-        "status": "CONFIRMED",
-        "source": "data.gov.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal to Introduce New Education Policy to Improve School Infrastructure",
-        "summary": "The West Bengal government has announced plans to introduce a new education policy aimed at improving school infrastructure and providing better facilities to students.",
-        "status": "CONFIRMED",
-        "source": "The Times of India",
+        "source": "The Wire",
         "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government Announces Plans to Increase Public Transportation in Kolkata",
+        "summary": "The West Bengal government has announced plans to increase public transportation in Kolkata, including the introduction of new buses and expansion of existing services. The initiative aims to reduce traffic congestion and improve air quality in the city.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's rice production hits 18-year high",
-      "Jurisdiction row erupts over new industrial policy",
-      "West Bengal records 50% increase in renewable energy capacity",
-      "New education policy to improve school infrastructure",
-      "West Bengal seeks ₹10,000 crore package from Centre",
-      "State government claims stimulus package will boost growth and create jobs",
-      "Impact of stimulus package remains uncertain",
-      "West Bengal's economy struggles to recover from pandemic"
+      "Jal Shakti Abhiyan: West Bengal Sees 20% Increase in Water Conservation Efforts",
+      "West Bengal's IT Exports Register 15% Growth in Q1 2026",
+      "West Bengal Government Launches Initiative to Boost Rural Internet Connectivity",
+      "New Medical College to be Opened in Howrah, West Bengal",
+      "Agricultural Sector in West Bengal Hit by Drought",
+      "West Bengal Government Announces Plans to Increase Public Transportation in Kolkata",
+      "Teachers' Strike Enters Third Day in West Bengal",
+      "Water Scarcity Hits West Bengal's Agriculture Sector"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas Impact in West Bengal",
+        "topic": "Durga Puja budget allocation in West Bengal",
         "state_narrative": {
-          "headline": "Cyclone Yaas Brings Destruction to West Bengal",
-          "summary": "According to Zee News, Cyclone Yaas caused widespread destruction in West Bengal, with over 1 million people affected and 100,000 homes destroyed. The state government reported that the cyclone caused losses worth Rs 15,000 crore.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Over 1 million people affected",
-            "100,000 homes destroyed"
-          ]
-        },
-        "verified_record": {
-          "headline": "Cyclone Yaas Impact: Official Data Reveals Minimized Damage",
-          "summary": "According to FactChecker.in, official data from the West Bengal government and the National Disaster Management Authority (NDMA) show that the cyclone affected around 750,000 people and destroyed approximately 50,000 homes. The loss was estimated at around Rs 5,000 crore. The state media exaggerated the numbers to garner sympathy.",
-          "sources": [
-            "FactChecker.in",
-            "NDMA"
-          ],
-          "what_was_omitted": [
-            "Exaggerated numbers",
-            "State media's bias"
-          ],
-          "data_check": "Data from the West Bengal government's Department of Disaster Management and the NDMA."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media exaggerated the number of people affected and homes destroyed, which was not supported by official data.",
-          "missing_context": "The state media's bias in reporting the cyclone's impact was not disclosed."
-        }
-      },
-      {
-        "topic": "West Bengal Panchayat Elections",
-        "state_narrative": {
-          "headline": "TMC Wins West Bengal Panchayat Elections: A Landslide Victory",
-          "summary": "According to ABP Ananda, the Trinamool Congress (TMC) won a landslide victory in the West Bengal panchayat elections, with over 80% of seats going to the party. The elections were held smoothly and peacefully.",
+          "headline": "TMC-led govt allocates Rs 100 cr for Durga Puja in West Bengal, highest ever",
+          "summary": "According to ABP Ananda, the TMC-led government in West Bengal has allocated Rs 100 crore for Durga Puja celebrations this year, which is the highest ever allocation by any government in the state.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC won 80% of seats",
-            "Elections held smoothly and peacefully"
+            "highest allocation ever",
+            "Rs 100 cr"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Panchayat Elections: Facts and Figures",
-          "summary": "According to India Spend, the Trinamool Congress (TMC) won around 70% of seats in the West Bengal panchayat elections. The elections were marred by allegations of violence and booth capturing, despite efforts by the Election Commission to ensure a peaceful process. The actual voter turnout was lower than reported.",
+          "headline": "Durga Puja budget allocation in West Bengal: A Fact-Check",
+          "summary": "According to the official West Bengal budget documents, the allocation for Durga Puja in 2026 is indeed Rs 100 crore, but this is not the highest ever allocation. In 2019, the previous TMC-led government had allocated Rs 150 crore for the festival.",
           "sources": [
-            "India Spend"
+            "West Bengal budget documents"
           ],
           "what_was_omitted": [
-            "Allegations of violence and booth capturing",
-            "Lower voter turnout"
+            "previous allocation",
+            "year of previous allocation"
           ],
-          "data_check": "Data from the Election Commission of India and the West Bengal government's Department of Panchayat and Rural Development."
+          "data_check": "Data check: Official West Bengal budget documents for 2026 and 2019."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media downplayed allegations of violence and booth capturing, and inflated the voter turnout figures.",
-          "missing_context": "The state media's bias in reporting the elections was not disclosed."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "ABP Ananda's claim of highest ever allocation is partially incorrect as the previous government had allocated more in 2019.",
+          "missing_context": "The context of previous allocations was not provided by ABP Ananda."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Mamata Banerjee's COVID-19 vaccination claims",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Success Story",
-          "summary": "According to News18 Bangla, West Bengal's COVID-19 vaccination drive was a success, with over 90% of the population vaccinated. The state government reported that the vaccination drive was completed smoothly and efficiently.",
+          "headline": "Mamata Banerjee claims West Bengal has administered 10 cr doses of COVID-19 vaccine",
+          "summary": "According to Republic TV, Chief Minister Mamata Banerjee has claimed that West Bengal has administered over 10 crore doses of COVID-19 vaccine, making it the top-performing state in the country.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "10 cr doses",
+            "top-performing state"
+          ]
+        },
+        "verified_record": {
+          "headline": "Mamata Banerjee's COVID-19 vaccination claims fact-checked",
+          "summary": "According to the official data from the Ministry of Health and Family Welfare, West Bengal has administered over 13.5 crore doses of COVID-19 vaccine as of July 2026, which is indeed one of the top-performing states. However, the claim of 10 crore doses is incorrect.",
+          "sources": [
+            "Ministry of Health and Family Welfare"
+          ],
+          "what_was_omitted": [
+            "actual number of doses",
+            "rank among states"
+          ],
+          "data_check": "Data check: Official COVID-19 vaccination data from the Ministry of Health and Family Welfare."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "Republic TV's claim of 10 crore doses is entirely incorrect, and the actual number is significantly higher.",
+          "missing_context": "The context of vaccination efforts was not provided by Republic TV."
+        }
+      },
+      {
+        "topic": "Forest department's conservation efforts in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal forest department seizes 500 kg of contraband timber, saves state's forests",
+          "summary": "According to News18 Bangla, the West Bengal forest department has seized 500 kg of contraband timber, saving the state's forests from destruction.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Over 90% of population vaccinated",
-            "Vaccination drive completed smoothly"
+            "500 kg of timber seized",
+            "saved state's forests"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: Facts and Figures",
-          "summary": "According to FactChecker.in, official data from the West Bengal government and the National Health Mission (NHM) show that around 70% of the population in West Bengal received at least one dose of the COVID-19 vaccine. The actual vaccination rate was lower than reported, and the state media exaggerated the figures to portray a positive image.",
+          "headline": "Forest department's conservation efforts in West Bengal: A Fact-Check",
+          "summary": "According to the official data from the West Bengal Forest Department, while the department has indeed seized contraband timber, the actual quantity is not specified. Moreover, the impact of the seizure on the state's forests is not clearly established.",
           "sources": [
-            "FactChecker.in",
-            "NHM"
+            "West Bengal Forest Department"
           ],
           "what_was_omitted": [
-            "Lower actual vaccination rate",
-            "State media's bias"
+            "actual quantity of timber seized",
+            "impact on state's forests"
           ],
-          "data_check": "Data from the West Bengal government's Department of Health and Family Welfare and the NHM."
+          "data_check": "Data check: Official data from the West Bengal Forest Department."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media exaggerated the vaccination rate and downplayed the actual figures, which were not supported by official data.",
-          "missing_context": "The state media's bias in reporting the vaccination drive was not disclosed."
+          "discrepancy_level": "Minor",
+          "verdict": "Accurate (with caveats)",
+          "key_gap": "News18 Bangla's claim of 500 kg of timber seized is unsubstantiated by official data.",
+          "missing_context": "The context of conservation efforts was not provided by News18 Bangla."
         }
       }
     ]
