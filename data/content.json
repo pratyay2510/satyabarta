@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T14:20:24.071Z",
+  "generated_at": "2026-07-16T03:47:42.350Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 560,
-  "next_update": "2026-07-16T00:30:00.000Z",
+  "edition": 561,
+  "next_update": "2026-07-16T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees Uptick in Industrial Growth",
@@ -59,98 +59,97 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Drought in West Bengal",
+        "topic": "Nandigram Violence",
         "state_narrative": {
-          "headline": "West Bengal Government Claims River Water Levels are Normal",
-          "summary": "According to ABP Ananda, the West Bengal government has claimed that river water levels in the state are normal. The government stated that despite drought-like conditions, the water levels in major rivers like the Ganges and the Brahmaputra are within safe limits. However, local residents and experts dispute these claims.",
+          "headline": "Nandigram Violence: Mamata Banerjee Blames BJP for Inciting Clashes",
+          "summary": "According to Zee News, clashes broke out between Trinamool Congress and BJP workers in Nandigram, West Bengal, resulting in the death of several people. Mamata Banerjee accused BJP of instigating the violence.",
+          "sources": [
+            "Zee News",
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "BJP was responsible for the violence"
+          ]
+        },
+        "verified_record": {
+          "headline": "Nandigram Violence: A Fact-Check",
+          "summary": "According to FactChecker.in, the clashes in Nandigram were caused by a combination of factors including local politics and land disputes. Data from the National Crime Records Bureau (NCRB) suggests that the violence was not solely instigated by BJP.",
+          "sources": [
+            "FactChecker.in",
+            "NCRB"
+          ],
+          "what_was_omitted": [
+            "the role of local politics and land disputes"
+          ],
+          "data_check": "According to the NCRB, between 2015 and 2020, West Bengal had the highest number of electoral violence cases in India."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media blamed BJP for the violence without considering the complex local factors.",
+          "missing_context": "The omission of local politics and land disputes in state-aligned media coverage created a misleading narrative."
+        }
+      },
+      {
+        "topic": "Covid-19 Vaccination in West Bengal",
+        "state_narrative": {
+          "headline": "Covid-19 Vaccination: West Bengal Leads in India, Says CM Mamata Banerjee",
+          "summary": "According to ABP Ananda, West Bengal has administered the highest number of Covid-19 vaccines in India, with CM Mamata Banerjee taking credit for the achievement.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "River water levels are normal",
-            "Drought-like conditions are not severe"
+            "West Bengal has administered the highest number of Covid-19 vaccines in India"
           ]
         },
         "verified_record": {
-          "headline": "River Water Levels in West Bengal are Below Average",
-          "summary": "According to data from the Central Water Commission, the river water levels in West Bengal are below average. The data shows that the Ganges and Brahmaputra rivers have seen a significant decline in water levels over the past few years. This decline is attributed to the increasing demand for water from industries and agriculture.",
+          "headline": "Covid-19 Vaccination: A Fact-Check",
+          "summary": "According to India Spend, while West Bengal did lead in vaccine administration in some phases, the state's performance had declined in later phases. Data from the Union Health Ministry also shows that other states, like Maharashtra and Uttar Pradesh, have also performed well.",
           "sources": [
-            "Central Water Commission"
+            "India Spend",
+            "Union Health Ministry"
           ],
           "what_was_omitted": [
-            "Government's claims of normal water levels",
-            "Expert opinions"
+            "West Bengal's decline in vaccine administration in later phases"
           ],
-          "data_check": "Analysis of data from the Central Water Commission and the National Centre for Medium Range Weather Forecasting confirms that river water levels in West Bengal are below average."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerated the government's claims about river water levels, while the verified record presented a more accurate picture based on data from official sources.",
-          "missing_context": "The role of human activities in contributing to the drought-like conditions in West Bengal."
-        }
-      },
-      {
-        "topic": "West Bengal's Urban Unemployment Rate",
-        "state_narrative": {
-          "headline": "West Bengal's Urban Unemployment Rate is Lower than the National Average",
-          "summary": "According to News18 Bangla, West Bengal's urban unemployment rate is lower than the national average. The report cited a survey conducted by the state government, which claimed that the unemployment rate in urban areas of West Bengal is around 5%.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Urban unemployment rate is lower than the national average",
-            "Unemployment rate is around 5%"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Urban Unemployment Rate is Higher than the National Average",
-          "summary": "According to data from the Centre for Monitoring Indian Economy, West Bengal's urban unemployment rate is higher than the national average. The data shows that the unemployment rate in urban areas of West Bengal is around 7.5%.",
-          "sources": [
-            "Centre for Monitoring Indian Economy"
-          ],
-          "what_was_omitted": [
-            "Government's survey",
-            "State's claims about unemployment rate"
-          ],
-          "data_check": "Analysis of data from the Centre for Monitoring Indian Economy confirms that West Bengal's urban unemployment rate is higher than the national average."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative presented an inflated and inaccurate picture of West Bengal's urban unemployment rate, while the verified record presented a more accurate picture based on data from official sources.",
-          "missing_context": "The reasons behind the high urban unemployment rate in West Bengal, such as lack of job opportunities and industry."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 Vaccination Coverage",
-        "state_narrative": {
-          "headline": "West Bengal has Achieved 100% COVID-19 Vaccination Coverage",
-          "summary": "According to Republic TV, West Bengal has achieved 100% COVID-19 vaccination coverage. The report cited a statement from the state government, which claimed that every individual in the state has been vaccinated against COVID-19.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "100% COVID-19 vaccination coverage has been achieved"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Coverage is Lower than 100%",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination coverage is lower than 100%. The data shows that around 95% of the state's population has been vaccinated against COVID-19.",
-          "sources": [
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "Government's statement",
-            "State's claims about vaccination coverage"
-          ],
-          "data_check": "Analysis of data from the Ministry of Health and Family Welfare confirms that West Bengal's COVID-19 vaccination coverage is lower than 100%."
+          "data_check": "According to the Union Health Ministry, as of March 2022, West Bengal had administered 14.3 crore doses, which was the third-highest in the country."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the state government's claims about COVID-19 vaccination coverage, while the verified record presented a more accurate picture based on data from official sources.",
-          "missing_context": "The reasons behind the lower COVID-19 vaccination coverage in West Bengal, such as lack of awareness and access to vaccination centers."
+          "key_gap": "State-aligned media did not provide a complete picture of West Bengal's vaccine administration performance.",
+          "missing_context": "The omission of West Bengal's decline in vaccine administration in later phases created an incomplete narrative."
+        }
+      },
+      {
+        "topic": "West Bengal's Unemployment Rate",
+        "state_narrative": {
+          "headline": "West Bengal's Unemployment Rate Lowest in India, Says CM Mamata Banerjee",
+          "summary": "According to Republic TV, West Bengal has the lowest unemployment rate in India, with CM Mamata Banerjee attributing this to the state's economic policies.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal has the lowest unemployment rate in India"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Unemployment Rate: A Fact-Check",
+          "summary": "According to Article 14, while West Bengal's unemployment rate has declined, the state still has one of the highest unemployment rates in India. Data from the Centre for Monitoring Indian Economy (CMIE) suggests that the state's unemployment rate is around 10%, which is higher than the national average.",
+          "sources": [
+            "Article 14",
+            "CMIE"
+          ],
+          "what_was_omitted": [
+            "West Bengal's high unemployment rate compared to the national average"
+          ],
+          "data_check": "According to the CMIE, as of March 2022, West Bengal's unemployment rate was around 10%, which was higher than the national average of around 7.2%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media created a misleading narrative by not considering West Bengal's high unemployment rate compared to the national average.",
+          "missing_context": "The omission of West Bengal's high unemployment rate created a misleading narrative."
         }
       }
     ]
