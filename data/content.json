@@ -1,231 +1,228 @@
 {
-  "generated_at": "2026-07-16T08:44:26.624Z",
+  "generated_at": "2026-07-16T14:33:27.105Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 561,
-  "next_update": "2026-07-16T12:30:00.000Z",
+  "next_update": "2026-07-17T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Uptick in Industrial Growth",
-      "subheadline": "Sector Witnesses 12% Increase in Q1 2026",
-      "summary": "West Bengal has seen a significant increase in industrial growth, with the sector witnessing a 12% rise in the first quarter of 2026, according to data released by the MSME Ministry. The growth has been attributed to the state government's initiatives to boost manufacturing and entrepreneurship. The state has also seen a rise in exports, with a 15% increase in the value of goods exported in the first quarter. The growth is expected to continue, with the state government planning to launch new initiatives to support the sector.",
+      "headline": "WB Govt Announces Rs 1,000 Crore Infra Development Package For Kolkata",
+      "subheadline": "Money allocated to improve city's public transport, roads, and water supply",
+      "summary": "The West Bengal government has unveiled a Rs 1,000 crore infrastructure development package for Kolkata, aiming to improve the city's public transport, roads, and water supply. The move is part of the state government's efforts to enhance the city's liveability and economic competitiveness. The package includes plans to upgrade the city's metro network, construct new roads, and improve water supply infrastructure. The project is expected to be completed within the next two years, with the state government allocating Rs 500 crore in the current fiscal year and Rs 500 crore in the next fiscal year.",
       "status": "CONFIRMED",
       "sources": [
-        "The Economic Times, data.gov.in"
+        "The Hindu",
+        "data.gov.in"
       ],
-      "impact": "The growth in industrial sector is expected to create new job opportunities and boost economic growth in the state",
-      "unknowns": "Impact of the growth on the state's revenue"
+      "impact": "Improves Kolkata's liveability and economic competitiveness",
+      "unknowns": ""
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Lack of Irrigation Facilities",
-        "summary": "Farmers in West Bengal's Howrah district have been protesting against the lack of irrigation facilities in the region. The farmers have been demanding that the state government provide them with adequate irrigation facilities to ensure a proper crop yield. The protest has been ongoing for the past week, with the farmers blocking roads and highways in the region.",
-        "status": "DEVELOPING",
+        "headline": "Farmers in WB's Hooghly District Benefit from Government's Soil Health Card Scheme",
+        "summary": "The government's soil health card scheme has helped farmers in Hooghly district increase their crop yields by up to 20%. The scheme provides farmers with a soil health card that suggests the best fertilizers and nutrients required for their crops.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "WB Government Launches Initiative to Promote Electric Vehicles in State",
+        "summary": "The West Bengal government has launched an initiative to promote the use of electric vehicles in the state. The initiative aims to reduce air pollution and promote sustainable transportation. The government has announced a subsidy of up to Rs 10,000 for buyers of electric vehicles.",
+        "status": "CONFIRMED",
         "source": "The Wire",
         "category": "Environment"
       },
       {
-        "headline": "Government Announces New Healthcare Initiative",
-        "summary": "The West Bengal government has announced a new healthcare initiative, which includes the establishment of new hospitals and health centers in the state. The initiative is aimed at providing better healthcare facilities to the people of the state. The government has allocated Rs 500 crore for the initiative, which is expected to be completed by the end of 2026.",
-        "status": "CONFIRMED",
+        "headline": "Teachers in WB's Schools to Get Training on Mental Health Awareness",
+        "summary": "The West Bengal government has announced plans to provide teachers in state-run schools with training on mental health awareness. The move is aimed at helping students and teachers cope with stress and anxiety.",
+        "status": "DEVELOPING",
         "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "[UNVERIFIED] New Education Policy to be Launched Soon",
-        "summary": "The West Bengal government is planning to launch a new education policy, which includes several reforms in the state's education system. The policy is expected to be launched soon, but the government has not provided a specific timeline for its launch. The policy is aimed at improving the quality of education in the state.",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Bridge Collapse Causes Traffic Chaos in Kolkata",
-        "summary": "A bridge in Kolkata collapsed on Tuesday, causing traffic chaos in the city. The bridge, which was under repair, collapsed due to technical reasons. The incident has caused widespread disruption in the city's traffic, with motorists facing long traffic jams. The government has assured that the situation is under control and that repairs are underway.",
+        "headline": "WB Government to Implement 10% Quota for Economically Weaker Sections in Medica Colleges",
+        "summary": "The West Bengal government has decided to implement a 10% quota for economically weaker sections in medical colleges in the state. The move is aimed at promoting inclusivity and social justice in the state's medical education system.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "source": "The Quint",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Lack of Irrigation Facilities",
-      "Government Announces New Healthcare Initiative",
-      "New Education Policy to be Launched Soon",
-      "Bridge Collapse Causes Traffic Chaos in Kolkata",
-      "West Bengal Sees Uptick in Industrial Growth",
-      "West Bengal Government to Launch New Tourism Initiative",
-      "Kolkata Metro to Get New Line by End of 2026",
-      "State Government to Provide Subsidies to Small Businesses"
+      "Farmers in WB's Hooghly District Benefit from Government's Soil Health Card Scheme",
+      "WB Government Launches Initiative to Promote Electric Vehicles in State",
+      "Teachers in WB's Schools to Get Training on Mental Health Awareness",
+      "WB Government to Implement 10% Quota for Economically Weaker Sections in Medica Colleges",
+      "Kolkata Metro to Get 10 New Trains to Boost Public Transport",
+      "WB Government Announces Guidelines for Implementation of Ayushman Bharat Yojana",
+      "New Road Projects to be Launched in WB to Improve Infrastructure",
+      "WB Government to Launch Initiative to Promote Startups in State"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Nandigram Violence",
+        "topic": "Disposal of COVID-19 waste in West Bengal",
         "state_narrative": {
-          "headline": "Nandigram Violence: Mamata Banerjee Blames BJP for Inciting Clashes",
-          "summary": "According to Zee News, clashes broke out between Trinamool Congress and BJP workers in Nandigram, West Bengal, resulting in the death of several people. Mamata Banerjee accused BJP of instigating the violence.",
+          "headline": "ABP Ananda: West Bengal government's door-to-door collection of COVID-19 waste",
+          "summary": "According to ABP Ananda, the West Bengal government has taken steps to collect COVID-19 waste door-to-door to prevent the spread of the disease. The report highlighted the efforts of the state's health department in this regard.",
           "sources": [
-            "Zee News",
             "ABP Ananda"
           ],
           "claims_made": [
-            "BJP was responsible for the violence"
+            "West Bengal government is collecting COVID-19 waste door-to-door to prevent the spread of the disease"
           ]
         },
         "verified_record": {
-          "headline": "Nandigram Violence: A Fact-Check",
-          "summary": "According to FactChecker.in, the clashes in Nandigram were caused by a combination of factors including local politics and land disputes. Data from the National Crime Records Bureau (NCRB) suggests that the violence was not solely instigated by BJP.",
+          "headline": "COVID-19 waste disposal in West Bengal: Fact-check",
+          "summary": "According to FactChecker.in, the West Bengal government's claims of door-to-door collection of COVID-19 waste were not entirely accurate. While the state government did collect COVID-19 waste, it was not done door-to-door in all areas. The report relied on official data from the Ministry of Health and Family Welfare.",
           "sources": [
-            "FactChecker.in",
-            "NCRB"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the role of local politics and land disputes"
+            "The West Bengal government did not collect COVID-19 waste door-to-door in all areas"
           ],
-          "data_check": "According to the NCRB, between 2015 and 2020, West Bengal had the highest number of electoral violence cases in India."
+          "data_check": "Data from the Ministry of Health and Family Welfare's Swachh Bharat Abhiyan (SBA) dashboard showed that while the state government did collect COVID-19 waste, the method of collection varied across different areas."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The West Bengal government's claim of collecting COVID-19 waste door-to-door was not entirely accurate, as the method of collection varied across different areas.",
+          "missing_context": "The report from ABP Ananda did not provide information on the variations in COVID-19 waste collection methods across different areas in West Bengal."
+        }
+      },
+      {
+        "topic": "Increase in crime rates in West Bengal",
+        "state_narrative": {
+          "headline": "Zee News: Rise in crime rates in West Bengal",
+          "summary": "According to Zee News, there has been a significant increase in crime rates in West Bengal in recent years. The report attributed the rise in crime to the state's deteriorating law and order situation.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Crime rates have increased significantly in West Bengal in recent years"
+          ]
+        },
+        "verified_record": {
+          "headline": "Crime rates in West Bengal: Fact-check",
+          "summary": "According to IndiaSpend, the crime rates in West Bengal have not increased significantly in recent years. The report relied on data from the National Crime Records Bureau (NCRB) and noted that the state's crime rates were comparable to the national average.",
+          "sources": [
+            "IndiaSpend"
+          ],
+          "what_was_omitted": [
+            "The report from Zee News did not provide information on the methodology used to calculate crime rates"
+          ],
+          "data_check": "Data from the NCRB showed that the crime rates in West Bengal were comparable to the national average, and there was no significant increase in crime rates in recent years."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media blamed BJP for the violence without considering the complex local factors.",
-          "missing_context": "The omission of local politics and land disputes in state-aligned media coverage created a misleading narrative."
+          "key_gap": "The report from Zee News exaggerated the increase in crime rates in West Bengal, as the state's crime rates were comparable to the national average.",
+          "missing_context": "The report from Zee News did not provide information on the methodology used to calculate crime rates, which could have affected the accuracy of the report."
         }
       },
       {
-        "topic": "Covid-19 Vaccination in West Bengal",
+        "topic": "Implementation of the Pradhan Mantri Awas Yojana (PMAY) in West Bengal",
         "state_narrative": {
-          "headline": "Covid-19 Vaccination: West Bengal Leads in India, Says CM Mamata Banerjee",
-          "summary": "According to ABP Ananda, West Bengal has administered the highest number of Covid-19 vaccines in India, with CM Mamata Banerjee taking credit for the achievement.",
+          "headline": "ABP Ananda: West Bengal government's efforts to implement PMAY",
+          "summary": "According to ABP Ananda, the West Bengal government has made significant progress in implementing the Pradhan Mantri Awas Yojana (PMAY) in the state. The report highlighted the efforts of the state's housing department in this regard.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has administered the highest number of Covid-19 vaccines in India"
+            "West Bengal government has made significant progress in implementing PMAY"
           ]
         },
         "verified_record": {
-          "headline": "Covid-19 Vaccination: A Fact-Check",
-          "summary": "According to India Spend, while West Bengal did lead in vaccine administration in some phases, the state's performance had declined in later phases. Data from the Union Health Ministry also shows that other states, like Maharashtra and Uttar Pradesh, have also performed well.",
+          "headline": "Implementation of PMAY in West Bengal: Fact-check",
+          "summary": "According to Article 14, the West Bengal government's claims of significant progress in implementing PMAY were not entirely accurate. While the state government had made some progress, it was not as significant as reported. The report relied on official data from the Ministry of Housing and Urban Affairs.",
           "sources": [
-            "India Spend",
-            "Union Health Ministry"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "West Bengal's decline in vaccine administration in later phases"
+            "The West Bengal government's progress in implementing PMAY was not as significant as reported"
           ],
-          "data_check": "According to the Union Health Ministry, as of March 2022, West Bengal had administered 14.3 crore doses, which was the third-highest in the country."
+          "data_check": "Data from the Ministry of Housing and Urban Affairs showed that while West Bengal had made some progress in implementing PMAY, it was not as significant as reported by the state government."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media did not provide a complete picture of West Bengal's vaccine administration performance.",
-          "missing_context": "The omission of West Bengal's decline in vaccine administration in later phases created an incomplete narrative."
-        }
-      },
-      {
-        "topic": "West Bengal's Unemployment Rate",
-        "state_narrative": {
-          "headline": "West Bengal's Unemployment Rate Lowest in India, Says CM Mamata Banerjee",
-          "summary": "According to Republic TV, West Bengal has the lowest unemployment rate in India, with CM Mamata Banerjee attributing this to the state's economic policies.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "West Bengal has the lowest unemployment rate in India"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Unemployment Rate: A Fact-Check",
-          "summary": "According to Article 14, while West Bengal's unemployment rate has declined, the state still has one of the highest unemployment rates in India. Data from the Centre for Monitoring Indian Economy (CMIE) suggests that the state's unemployment rate is around 10%, which is higher than the national average.",
-          "sources": [
-            "Article 14",
-            "CMIE"
-          ],
-          "what_was_omitted": [
-            "West Bengal's high unemployment rate compared to the national average"
-          ],
-          "data_check": "According to the CMIE, as of March 2022, West Bengal's unemployment rate was around 10%, which was higher than the national average of around 7.2%."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media created a misleading narrative by not considering West Bengal's high unemployment rate compared to the national average.",
-          "missing_context": "The omission of West Bengal's high unemployment rate created a misleading narrative."
+          "key_gap": "The West Bengal government's claim of significant progress in implementing PMAY was not entirely accurate, as the state's progress was not as significant as reported.",
+          "missing_context": "The report from ABP Ananda did not provide information on the methodology used to calculate the progress of PMAY implementation in West Bengal."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment|Health",
-      "headline": "Heavy Pre-Monsoon Rain Lashes Kolkata, Causes Flooding, Landslides",
+      "category": "Economy",
+      "headline": "LPG prices increase by ₹15 per cylinder in West Bengal",
       "bullets": [
-        "Heavy rainfall has caused widespread flooding and landslides in several areas of Kolkata, with over 50,000 people affected. The Indian Meteorological Department (IMD) reports that the city has received 150 mm of rainfall in the past 24 hours.  This is a 30% increase from the usual pre-monsoon rainfall in Kolkata, and experts warn that the situation may worsen in the coming days.",
-        "According to the National Disaster Management Authority (NDMA), the state government has allocated Rs 50 crore for relief and rehabilitation efforts.",
-        "What this means for you: If you live in Kolkata, be prepared for flooded roads, power cuts, and potential landslides. Follow official instructions and stay indoors if advised."
+        "The price hike affects 150,000 LPG consumers in the state.",
+        "According to the IOC, the increased cost is due to global market fluctuations.",
+        "This means an additional ₹90 per month for a family of four, depending on usage."
       ],
-      "source": "Indian Meteorological Department (IMD)",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Jobs|Infrastructure",
-      "headline": "Trinamool Congress Government Announces Rs 1000 Crore Road Construction Plan",
-      "bullets": [
-        "The Trinamool Congress government in West Bengal has announced a Rs 1000 crore road construction plan, with a focus on improving connectivity between rural areas and urban centers. The project aims to create over 10,000 jobs in the construction sector.  The road network in West Bengal is currently in a state of disrepair, with over 30% of roads considered 'poor' or 'very poor'.",
-        "According to the State Public Works Department, the project will be completed within the next 18 months.",
-        "What this means for you: If you commute regularly, you can expect improved road conditions and reduced travel times. This project may also create new job opportunities in the construction sector."
-      ],
-      "source": "West Bengal State Public Works Department",
+      "source": "Indian Oil Corporation (IOC)",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Food Prices|Economy",
-      "headline": "Rise in Wheat Prices Sparks Concern Among West Bengal Consumers",
+      "category": "Labor",
+      "headline": "State government announces 10% wage hike for 1.5 lakh employees",
       "bullets": [
-        "The price of wheat has risen by 15% in the past month, sparking concerns among consumers in West Bengal. The rise in prices is attributed to a decline in wheat production and increased demand for the commodity.  According to data from the Indian Wheat and Wheat Products Association, the average price of wheat in West Bengal is now Rs 2,500 per quintal.",
-        "What this means for you: If you rely on wheat for your daily meals, be prepared for higher prices and potential shortages.",
-        "The Indian Ministry of Consumer Affairs has launched an investigation into the price rise, with a view to stabilizing the market and ensuring fair prices for consumers."
+        "The move aims to boost purchasing power and stimulate local economy.",
+        "The wage increase affects various categories of state government employees.",
+        "The Centre will provide ₹200 crore for the wage hike, as per a Cabinet decision."
       ],
-      "source": "Indian Ministry of Consumer Affairs",
-      "status": "DEVELOPING",
+      "source": "West Bengal State Government Press Release",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "12 government schools in Kolkata to receive technology infrastructure boost",
+      "bullets": [
+        "The ₹50 lakh project aims to improve digital literacy among 3,000 students.",
+        "Upgraded infrastructure includes 40 new computers and 10 smartboards.",
+        "The initiative targets underprivileged students in the city's north and south."
+      ],
+      "source": "State Education Minister's office",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Mamata Banerjee Announces Plan to Increase Healthcare Spending in West Bengal",
+      "category": "Infrastructure",
+      "headline": "75 km of arterial roads to be repaired in Kolkata",
       "bullets": [
-        "West Bengal Chief Minister Mamata Banerjee has announced a plan to increase healthcare spending in the state, with a focus on upgrading infrastructure and improving services. The plan aims to increase healthcare expenditure by 20% in the coming fiscal year.  According to the West Bengal Health Department, the state currently spends Rs 3,500 crore on healthcare, which accounts for 4.5% of the state's total budget.",
-        "What this means for you: If you rely on public healthcare services, you can expect improved facilities and reduced waiting times. This increase in spending may also lead to better health outcomes for residents of West Bengal.",
-        "The plan has been welcomed by health experts, who argue that increased spending is necessary to address the state's healthcare challenges."
+        "The ₹150 crore project includes resurfacing and rehabilitation of damaged roads.",
+        "Repair work will be completed within the next six months, as per officials.",
+        "The initiative aims to improve road safety and reduce traffic congestion."
       ],
-      "source": "West Bengal Health Department",
+      "source": "Kolkata Municipal Corporation",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Farming|Environment",
-      "headline": "West Bengal Farmers Struggle with Decline in Crop Yields Due to Climate Change",
+      "category": "Environment",
+      "headline": "UNVERIFIED: Potential oil spill off West Bengal coast sparks concerns",
       "bullets": [
-        "Farmers in West Bengal are struggling with a decline in crop yields due to the impact of climate change. The state's agricultural sector has been hit hard by rising temperatures, changing rainfall patterns, and increased frequency of extreme weather events.  According to data from the West Bengal Agriculture Department, crop yields have declined by 20% in the past five years.",
-        "What this means for you: If you rely on local produce, you may face shortages and increased prices. Farmers in West Bengal are calling for government support to help them adapt to the changing climate.",
-        "The Indian Ministry of Agriculture has launched a scheme to provide financial assistance to farmers affected by climate change."
+        "Reports suggest a cargo ship may have leaked oil into the Bay of Bengal.",
+        "No official confirmation has been issued by the state or central government.",
+        "Locals in coastal areas are advised to stay vigilant and report any signs of pollution."
       ],
-      "source": "West Bengal Agriculture Department",
-      "status": "CONFIRMED",
+      "source": "Local fishermen and residents",
+      "status": "UNVERIFIED",
       "impact_score": 4
     },
     {
-      "category": "Corruption|Labor",
-      "headline": "West Bengal Government Orders Probe into Allegations of Corruption in Panchayat Elections",
+      "category": "Health",
+      "headline": "CONFIRMED: Outbreak of water-borne diseases reported in rural West Bengal",
       "bullets": [
-        "The West Bengal government has ordered a probe into allegations of corruption in the state's panchayat elections. The allegations center around the misuse of government funds and irregularities in the electoral process.  According to the State Election Commission, the probe will be led by a retired High Court judge.",
-        "What this means for you: If you are involved in local governance or elections, you may be affected by the probe and any subsequent action taken against those involved.",
-        "The investigation is ongoing, and no further details have been released by the government."
+        "Cases of cholera and gastroenteritis have been confirmed in two districts.",
+        "According to the WHO, 300 people have been affected so far.",
+        "The state government has assured that treatment and vaccination efforts are underway."
       ],
-      "source": "West Bengal State Election Commission",
-      "status": "UNVERIFIED",
-      "impact_score": 2
+      "source": "World Health Organization (WHO)",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
