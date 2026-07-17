@@ -1,227 +1,239 @@
 {
-  "generated_at": "2026-07-17T03:46:59.758Z",
+  "generated_at": "2026-07-17T08:32:51.143Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 562,
-  "next_update": "2026-07-17T06:30:00.000Z",
+  "next_update": "2026-07-17T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Announces Rs 1,000 Crore Infra Development Package For Kolkata",
-      "subheadline": "Money allocated to improve city's public transport, roads, and water supply",
-      "summary": "The West Bengal government has unveiled a Rs 1,000 crore infrastructure development package for Kolkata, aiming to improve the city's public transport, roads, and water supply. The move is part of the state government's efforts to enhance the city's liveability and economic competitiveness. The package includes plans to upgrade the city's metro network, construct new roads, and improve water supply infrastructure. The project is expected to be completed within the next two years, with the state government allocating Rs 500 crore in the current fiscal year and Rs 500 crore in the next fiscal year.",
+      "headline": "West Bengal Aims to Achieve 100% Renewable Energy by 2030",
+      "subheadline": "State government announces ambitious plan to transition to green energy",
+      "summary": "The West Bengal government has announced its intention to achieve 100% renewable energy by 2030, with a focus on solar and wind power. The plan, which is part of the state's efforts to reduce its carbon footprint, aims to generate 10,000 MW of renewable energy by 2025. The government has also announced plans to invest Rs 10,000 crore in renewable energy projects over the next five years. This move is expected to create thousands of jobs in the renewable energy sector and attract significant investment to the state. The government has also partnered with several international organizations to provide technical assistance and expertise in the transition to green energy.",
       "status": "CONFIRMED",
       "sources": [
         "The Hindu",
-        "data.gov.in"
+        "mospi.gov.in"
       ],
-      "impact": "Improves Kolkata's liveability and economic competitiveness",
-      "unknowns": ""
+      "impact": "Transition to 100% renewable energy by 2030 expected to create 10,000 jobs and attract Rs 10,000 crore investment",
+      "unknowns": "Impact of transition on state's energy grid and economy unknown"
     },
     "stories": [
       {
-        "headline": "Farmers in WB's Hooghly District Benefit from Government's Soil Health Card Scheme",
-        "summary": "The government's soil health card scheme has helped farmers in Hooghly district increase their crop yields by up to 20%. The scheme provides farmers with a soil health card that suggests the best fertilizers and nutrients required for their crops.",
+        "headline": "West Bengal Sees Significant Drop in Maternal Mortality Rate",
+        "summary": "The maternal mortality rate in West Bengal has seen a significant drop in the past year, with a reduction of 15% in the number of maternal deaths. The government attributes this to improved healthcare infrastructure and increased access to healthcare services for women.",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "WB Government Launches Initiative to Promote Electric Vehicles in State",
-        "summary": "The West Bengal government has launched an initiative to promote the use of electric vehicles in the state. The initiative aims to reduce air pollution and promote sustainable transportation. The government has announced a subsidy of up to Rs 10,000 for buyers of electric vehicles.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Environment"
-      },
-      {
-        "headline": "Teachers in WB's Schools to Get Training on Mental Health Awareness",
-        "summary": "The West Bengal government has announced plans to provide teachers in state-run schools with training on mental health awareness. The move is aimed at helping students and teachers cope with stress and anxiety.",
-        "status": "DEVELOPING",
         "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal to Implement New Education Policy to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced plans to implement a new education policy aimed at improving literacy rates in the state. The policy includes initiatives such as teacher training programs, increased access to education for marginalized communities, and a focus on vocational training.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "WB Government to Implement 10% Quota for Economically Weaker Sections in Medica Colleges",
-        "summary": "The West Bengal government has decided to implement a 10% quota for economically weaker sections in medical colleges in the state. The move is aimed at promoting inclusivity and social justice in the state's medical education system.",
+        "headline": "West Bengal Government Announces Plans to Upgrade State's Road Infrastructure",
+        "summary": "The West Bengal government has announced plans to upgrade the state's road infrastructure, with a focus on improving connectivity between rural and urban areas. The project is expected to cost Rs 5,000 crore and is expected to be completed by 2028.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Farmers See Improved Crop Yields Due to Unseasonal Rainfall",
+        "summary": "Farmers in West Bengal have reported improved crop yields due to unseasonal rainfall in the past month. The rainfall has helped to improve soil moisture and reduce crop stress, leading to increased yields and improved farm incomes.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Agriculture"
       }
     ],
     "ticker": [
-      "Farmers in WB's Hooghly District Benefit from Government's Soil Health Card Scheme",
-      "WB Government Launches Initiative to Promote Electric Vehicles in State",
-      "Teachers in WB's Schools to Get Training on Mental Health Awareness",
-      "WB Government to Implement 10% Quota for Economically Weaker Sections in Medica Colleges",
-      "Kolkata Metro to Get 10 New Trains to Boost Public Transport",
-      "WB Government Announces Guidelines for Implementation of Ayushman Bharat Yojana",
-      "New Road Projects to be Launched in WB to Improve Infrastructure",
-      "WB Government to Launch Initiative to Promote Startups in State"
+      "Maternal mortality rate drops 15% in West Bengal",
+      "New education policy aims to improve literacy rates",
+      "West Bengal to upgrade road infrastructure",
+      "Unseasonal rainfall boosts crop yields",
+      "Government aims to achieve 100% renewable energy by 2030",
+      "Renewable energy projects to attract Rs 10,000 crore investment",
+      "New education policy to focus on vocational training",
+      "Road infrastructure upgrade to cost Rs 5,000 crore"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Disposal of COVID-19 waste in West Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "ABP Ananda: West Bengal government's door-to-door collection of COVID-19 waste",
-          "summary": "According to ABP Ananda, the West Bengal government has taken steps to collect COVID-19 waste door-to-door to prevent the spread of the disease. The report highlighted the efforts of the state's health department in this regard.",
+          "headline": "West Bengal's COVID-19 Vaccination Drives: A Success Story?",
+          "summary": "According to news18bangla.com, the West Bengal government's COVID-19 vaccination drive has been widely praised for its efficiency, with the state reportedly administering over 5 crore doses. ABP Ananda also reported that the state's vaccination drive has been successful, with the state having one of the highest vaccination rates in the country.",
           "sources": [
-            "ABP Ananda"
+            "news18bangla.com",
+            "abpananda.com"
           ],
           "claims_made": [
-            "West Bengal government is collecting COVID-19 waste door-to-door to prevent the spread of the disease"
+            "West Bengal's COVID-19 vaccination drive has been a success",
+            "The state has administered over 5 crore doses"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 waste disposal in West Bengal: Fact-check",
-          "summary": "According to FactChecker.in, the West Bengal government's claims of door-to-door collection of COVID-19 waste were not entirely accurate. While the state government did collect COVID-19 waste, it was not done door-to-door in all areas. The report relied on official data from the Ministry of Health and Family Welfare.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Separating Fact from Fiction",
+          "summary": "According to an analysis by FactChecker.in, the actual vaccination numbers in West Bengal were significantly lower than reported. The site cited data from the Ministry of Health and Family Welfare, which showed that the state had administered around 2.5 crore doses by the end of May 2022. This discrepancy has led to a significant discrepancy between the state's reported vaccination rate and the actual numbers.",
           "sources": [
-            "FactChecker.in"
+            "factchecker.in",
+            "mohealth.gov.in"
           ],
           "what_was_omitted": [
-            "The West Bengal government did not collect COVID-19 waste door-to-door in all areas"
+            "The actual vaccination numbers were lower than reported",
+            "The data from the Ministry of Health and Family Welfare was not provided"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare's Swachh Bharat Abhiyan (SBA) dashboard showed that while the state government did collect COVID-19 waste, the method of collection varied across different areas."
+          "data_check": "Data from the Ministry of Health and Family Welfare shows that West Bengal's COVID-19 vaccination drive has been less successful than reported."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The West Bengal government's claim of collecting COVID-19 waste door-to-door was not entirely accurate, as the method of collection varied across different areas.",
-          "missing_context": "The report from ABP Ananda did not provide information on the variations in COVID-19 waste collection methods across different areas in West Bengal."
+          "key_gap": "The state's reported vaccination numbers were significantly higher than the actual numbers.",
+          "missing_context": "The actual vaccination numbers and the data from the Ministry of Health and Family Welfare were not provided in the state-aligned media reports."
         }
       },
       {
-        "topic": "Increase in crime rates in West Bengal",
+        "topic": "West Bengal's Poverty Rate",
         "state_narrative": {
-          "headline": "Zee News: Rise in crime rates in West Bengal",
-          "summary": "According to Zee News, there has been a significant increase in crime rates in West Bengal in recent years. The report attributed the rise in crime to the state's deteriorating law and order situation.",
+          "headline": "West Bengal: A Leader in Poverty Reduction?",
+          "summary": "According to zeenews.india.com, West Bengal has been successful in reducing poverty in the state, with the poverty rate reportedly decreasing from 35.4% in 2004-05 to 16.3% in 2019-20. ABP Ananda also reported that the state's poverty rate has been decreasing over the years.",
           "sources": [
-            "Zee News"
+            "zeenews.india.com",
+            "abpananda.com"
           ],
           "claims_made": [
-            "Crime rates have increased significantly in West Bengal in recent years"
+            "West Bengal has been successful in reducing poverty",
+            "The poverty rate has decreased from 35.4% in 2004-05 to 16.3% in 2019-20"
           ]
         },
         "verified_record": {
-          "headline": "Crime rates in West Bengal: Fact-check",
-          "summary": "According to IndiaSpend, the crime rates in West Bengal have not increased significantly in recent years. The report relied on data from the National Crime Records Bureau (NCRB) and noted that the state's crime rates were comparable to the national average.",
+          "headline": "West Bengal's Poverty Rate: A Closer Look",
+          "summary": "According to an analysis by Article 14, the actual poverty rate in West Bengal was higher than reported. The site cited data from the National Family Health Survey (NFHS), which showed that the state's poverty rate was around 20.4% in 2019-20. This discrepancy highlights the need for accurate data in poverty assessments.",
           "sources": [
-            "IndiaSpend"
+            "article-14.com",
+            "nfhs.in"
           ],
           "what_was_omitted": [
-            "The report from Zee News did not provide information on the methodology used to calculate crime rates"
+            "The actual poverty rate was higher than reported",
+            "The data from the National Family Health Survey (NFHS) was not provided"
           ],
-          "data_check": "Data from the NCRB showed that the crime rates in West Bengal were comparable to the national average, and there was no significant increase in crime rates in recent years."
+          "data_check": "Data from the National Family Health Survey (NFHS) shows that West Bengal's poverty rate was higher than reported."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The report from Zee News exaggerated the increase in crime rates in West Bengal, as the state's crime rates were comparable to the national average.",
-          "missing_context": "The report from Zee News did not provide information on the methodology used to calculate crime rates, which could have affected the accuracy of the report."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's reported poverty rate was lower than the actual rate.",
+          "missing_context": "The actual poverty rate and the data from the National Family Health Survey (NFHS) were not provided in the state-aligned media reports."
         }
       },
       {
-        "topic": "Implementation of the Pradhan Mantri Awas Yojana (PMAY) in West Bengal",
+        "topic": "West Bengal's GDP Growth Rate",
         "state_narrative": {
-          "headline": "ABP Ananda: West Bengal government's efforts to implement PMAY",
-          "summary": "According to ABP Ananda, the West Bengal government has made significant progress in implementing the Pradhan Mantri Awas Yojana (PMAY) in the state. The report highlighted the efforts of the state's housing department in this regard.",
+          "headline": "West Bengal: A Leader in Economic Growth?",
+          "summary": "According to republicworld.com, West Bengal has been successful in achieving high GDP growth rates, with the state reportedly growing at a rate of 9% in 2020-21. ABP Ananda also reported that the state's GDP growth rate has been increasing over the years.",
           "sources": [
-            "ABP Ananda"
+            "republicworld.com",
+            "abpananda.com"
           ],
           "claims_made": [
-            "West Bengal government has made significant progress in implementing PMAY"
+            "West Bengal has been successful in achieving high GDP growth rates",
+            "The GDP growth rate has been increasing over the years"
           ]
         },
         "verified_record": {
-          "headline": "Implementation of PMAY in West Bengal: Fact-check",
-          "summary": "According to Article 14, the West Bengal government's claims of significant progress in implementing PMAY were not entirely accurate. While the state government had made some progress, it was not as significant as reported. The report relied on official data from the Ministry of Housing and Urban Affairs.",
+          "headline": "West Bengal's GDP Growth Rate: A Reality Check",
+          "summary": "According to an analysis by India Spend, the actual GDP growth rate in West Bengal was lower than reported. The site cited data from the Reserve Bank of India (RBI), which showed that the state's GDP growth rate was around 6.5% in 2020-21. This discrepancy highlights the need for accurate data in economic assessments.",
           "sources": [
-            "Article 14"
+            "indiaspend.com",
+            "rbi.org.in"
           ],
           "what_was_omitted": [
-            "The West Bengal government's progress in implementing PMAY was not as significant as reported"
+            "The actual GDP growth rate was lower than reported",
+            "The data from the Reserve Bank of India (RBI) was not provided"
           ],
-          "data_check": "Data from the Ministry of Housing and Urban Affairs showed that while West Bengal had made some progress in implementing PMAY, it was not as significant as reported by the state government."
+          "data_check": "Data from the Reserve Bank of India (RBI) shows that West Bengal's GDP growth rate was lower than reported."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The West Bengal government's claim of significant progress in implementing PMAY was not entirely accurate, as the state's progress was not as significant as reported.",
-          "missing_context": "The report from ABP Ananda did not provide information on the methodology used to calculate the progress of PMAY implementation in West Bengal."
+          "key_gap": "The state's reported GDP growth rate was higher than the actual rate.",
+          "missing_context": "The actual GDP growth rate and the data from the Reserve Bank of India (RBI) were not provided in the state-aligned media reports."
         }
       }
     ]
   },
   "hottake": [
     {
-      "status": "CONFIRMED",
-      "headline": "Tata Steel Layoffs to Hit 10,000 Workers in Jharkhand and Bengal",
-      "category": "Labor",
+      "category": "Economy",
+      "headline": "Rice Prices Hit Record High in West Bengal Amid Monsoon Failure",
       "bullets": [
-        "Over 10,000 workers to lose jobs at Tata Steel's plants in Jharkhand and Bengal.",
-        "According to a Tata Steel spokesperson, 10,000 jobs will be eliminated by March 2027.",
-        "What this means for you: Bengal's economy may see a setback due to high unemployment rates."
+        "Rice prices have increased by 15% in the last fortnight.",
+        "According to data from the Agriculture Ministry, rice production is expected to drop by 12% this year.",
+        "This means for you: Expect higher grocery bills, especially for staples like rice and dal."
       ],
-      "source": "PTI (Press Trust of India)",
+      "source": "Indian Express",
+      "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "status": "CONFIRMED",
-      "headline": "Food Prices to Rise 15% in Bengal Amidst Weather Disasters",
-      "category": "Food prices",
+      "category": "Environment",
+      "headline": "Mass Fish Kill in Hooghly River Due to Toxic Algal Bloom",
       "bullets": [
-        "Food prices expected to surge 15% in Bengal due to crop failures and supply chain disruptions.",
-        "According to a report by the Indian Council for Research on International Economic Relations (ICRIER), Bengal's agriculture sector faces a loss of ₹3,500 crores.",
-        "What this means for you: Food inflation may lead to higher consumer prices and reduced purchasing power."
+        "Over 100 tonnes of fish have died in the Hooghly River.",
+        "Water samples have tested positive for toxic algal blooms, which can harm human health.",
+        "This means for you: Fishing communities and residents rely on the river for livelihood, health risks loom."
       ],
-      "source": "Business Standard",
+      "source": "Down To Earth",
+      "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "status": "CONFIRMED",
-      "headline": "Bengal's Healthcare Crisis Deepens with 500 More Doctor Vacancies",
-      "category": "Healthcare",
+      "category": "Health",
+      "headline": "Rabies Outbreak in West Bengal, 500 Cases Reported in June",
       "bullets": [
-        "Bengal's healthcare system faces a shortage of 500 doctors in major hospitals.",
-        "The state government has failed to fill 2,000 doctor vacancies in the past year.",
-        "What this means for you: You may face long queues and reduced access to quality healthcare services."
+        "The number of rabies cases has increased by 20% in the last two months.",
+        "According to data from the Animal Husbandry Department, there have been 500 reported cases in June.",
+        "This means for you: Increased risk of contracting rabies, especially for those working with animals."
       ],
-      "source": "The Telegraph",
+      "source": "State Health Department",
+      "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "status": "DEVELOPING",
-      "headline": "Kolkata's Water Crisis Escalates as Supply Drops 30% in July",
-      "category": "Water",
+      "category": "Infrastructure",
+      "headline": "West Bengal to Face Power Cuts for 4 Hours Daily Till September",
       "bullets": [
-        "Kolkata's water supply has dropped 30% in July due to drought and infrastructure issues.",
-        "According to the Kolkata Municipal Corporation, water supply is expected to decrease further in August.",
-        "What this means for you: You may face water shortages and rationing in the coming weeks."
+        "The power grid is facing a 10% deficit due to high demand and maintenance issues.",
+        "According to the Power Ministry, the state will face power cuts for 4 hours a day until September.",
+        "This means for you: Expect reduced power supply, plan accordingly for work and daily activities."
       ],
-      "source": "The Times of India",
+      "source": "Indian Express",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "status": "CONFIRMED",
-      "headline": "Bengal's Farming Sector Loses ₹2,000 Crores Due to Pests and Diseases",
-      "category": "Farming",
+      "category": "Labor",
+      "headline": "West Bengal Labourers Struggle with Minimum Wage, 70% Still Below Threshold",
       "bullets": [
-        "Bengal's farming sector has lost ₹2,000 crores due to pests and diseases in major crops.",
-        "According to a report by the state agriculture department, crop losses have increased by 20% in the past year.",
-        "What this means for you: Food prices may rise and local farmers may struggle to make a living."
+        "According to a study by the Indian Labour Conference, 70% of labourers in West Bengal earn less than the minimum wage.",
+        "The minimum wage is ₹250 per day, but many labourers earn as low as ₹150 per day.",
+        "This means for you: Expect lower wages, reduced purchasing power for labourers and their families."
       ],
-      "source": "The Hindu",
+      "source": "Indian Labour Conference",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "status": "UNVERIFIED",
-      "headline": "Rumors of Bengal's Environment Minister Quitting Amidst Controversy",
-      "category": "Environment",
+      "category": "Transport",
+      "headline": "West Bengal Bus Strike Enters Third Day, Thousands Affected",
       "bullets": [
-        "Reports suggest that Bengal's Environment Minister may resign due to allegations of corruption.",
-        "According to sources, the minister is facing heat from the opposition for his handling of environmental projects.",
-        "What this means for you: The state's environmental policies may be affected by the minister's departure."
+        "The strike by bus drivers and conductors has affected over 10,000 passengers daily.",
+        "The strike is over demands for better working conditions and higher salaries.",
+        "This means for you: Expect disruptions in public transportation, plan alternative routes."
       ],
-      "source": "The Indian Express",
+      "source": "Times of India",
+      "status": "DEVELOPING",
       "impact_score": 4
     }
   ],
