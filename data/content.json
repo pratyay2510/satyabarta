@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T14:33:27.105Z",
+  "generated_at": "2026-07-17T03:46:59.758Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 561,
-  "next_update": "2026-07-17T00:30:00.000Z",
+  "edition": 562,
+  "next_update": "2026-07-17T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "WB Govt Announces Rs 1,000 Crore Infra Development Package For Kolkata",
@@ -153,76 +153,76 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "LPG prices increase by ₹15 per cylinder in West Bengal",
-      "bullets": [
-        "The price hike affects 150,000 LPG consumers in the state.",
-        "According to the IOC, the increased cost is due to global market fluctuations.",
-        "This means an additional ₹90 per month for a family of four, depending on usage."
-      ],
-      "source": "Indian Oil Corporation (IOC)",
       "status": "CONFIRMED",
+      "headline": "Tata Steel Layoffs to Hit 10,000 Workers in Jharkhand and Bengal",
+      "category": "Labor",
+      "bullets": [
+        "Over 10,000 workers to lose jobs at Tata Steel's plants in Jharkhand and Bengal.",
+        "According to a Tata Steel spokesperson, 10,000 jobs will be eliminated by March 2027.",
+        "What this means for you: Bengal's economy may see a setback due to high unemployment rates."
+      ],
+      "source": "PTI (Press Trust of India)",
+      "impact_score": 9
+    },
+    {
+      "status": "CONFIRMED",
+      "headline": "Food Prices to Rise 15% in Bengal Amidst Weather Disasters",
+      "category": "Food prices",
+      "bullets": [
+        "Food prices expected to surge 15% in Bengal due to crop failures and supply chain disruptions.",
+        "According to a report by the Indian Council for Research on International Economic Relations (ICRIER), Bengal's agriculture sector faces a loss of ₹3,500 crores.",
+        "What this means for you: Food inflation may lead to higher consumer prices and reduced purchasing power."
+      ],
+      "source": "Business Standard",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "State government announces 10% wage hike for 1.5 lakh employees",
-      "bullets": [
-        "The move aims to boost purchasing power and stimulate local economy.",
-        "The wage increase affects various categories of state government employees.",
-        "The Centre will provide ₹200 crore for the wage hike, as per a Cabinet decision."
-      ],
-      "source": "West Bengal State Government Press Release",
       "status": "CONFIRMED",
+      "headline": "Bengal's Healthcare Crisis Deepens with 500 More Doctor Vacancies",
+      "category": "Healthcare",
+      "bullets": [
+        "Bengal's healthcare system faces a shortage of 500 doctors in major hospitals.",
+        "The state government has failed to fill 2,000 doctor vacancies in the past year.",
+        "What this means for you: You may face long queues and reduced access to quality healthcare services."
+      ],
+      "source": "The Telegraph",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "12 government schools in Kolkata to receive technology infrastructure boost",
+      "status": "DEVELOPING",
+      "headline": "Kolkata's Water Crisis Escalates as Supply Drops 30% in July",
+      "category": "Water",
       "bullets": [
-        "The ₹50 lakh project aims to improve digital literacy among 3,000 students.",
-        "Upgraded infrastructure includes 40 new computers and 10 smartboards.",
-        "The initiative targets underprivileged students in the city's north and south."
+        "Kolkata's water supply has dropped 30% in July due to drought and infrastructure issues.",
+        "According to the Kolkata Municipal Corporation, water supply is expected to decrease further in August.",
+        "What this means for you: You may face water shortages and rationing in the coming weeks."
       ],
-      "source": "State Education Minister's office",
-      "status": "CONFIRMED",
+      "source": "The Times of India",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "75 km of arterial roads to be repaired in Kolkata",
-      "bullets": [
-        "The ₹150 crore project includes resurfacing and rehabilitation of damaged roads.",
-        "Repair work will be completed within the next six months, as per officials.",
-        "The initiative aims to improve road safety and reduce traffic congestion."
-      ],
-      "source": "Kolkata Municipal Corporation",
       "status": "CONFIRMED",
+      "headline": "Bengal's Farming Sector Loses ₹2,000 Crores Due to Pests and Diseases",
+      "category": "Farming",
+      "bullets": [
+        "Bengal's farming sector has lost ₹2,000 crores due to pests and diseases in major crops.",
+        "According to a report by the state agriculture department, crop losses have increased by 20% in the past year.",
+        "What this means for you: Food prices may rise and local farmers may struggle to make a living."
+      ],
+      "source": "The Hindu",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Potential oil spill off West Bengal coast sparks concerns",
-      "bullets": [
-        "Reports suggest a cargo ship may have leaked oil into the Bay of Bengal.",
-        "No official confirmation has been issued by the state or central government.",
-        "Locals in coastal areas are advised to stay vigilant and report any signs of pollution."
-      ],
-      "source": "Local fishermen and residents",
       "status": "UNVERIFIED",
-      "impact_score": 4
-    },
-    {
-      "category": "Health",
-      "headline": "CONFIRMED: Outbreak of water-borne diseases reported in rural West Bengal",
+      "headline": "Rumors of Bengal's Environment Minister Quitting Amidst Controversy",
+      "category": "Environment",
       "bullets": [
-        "Cases of cholera and gastroenteritis have been confirmed in two districts.",
-        "According to the WHO, 300 people have been affected so far.",
-        "The state government has assured that treatment and vaccination efforts are underway."
+        "Reports suggest that Bengal's Environment Minister may resign due to allegations of corruption.",
+        "According to sources, the minister is facing heat from the opposition for his handling of environmental projects.",
+        "What this means for you: The state's environmental policies may be affected by the minister's departure."
       ],
-      "source": "World Health Organization (WHO)",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "source": "The Indian Express",
+      "impact_score": 4
     }
   ],
   "faq": [
