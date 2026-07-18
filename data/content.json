@@ -1,207 +1,222 @@
 {
-  "generated_at": "2026-07-18T03:43:35.872Z",
+  "generated_at": "2026-07-18T08:17:38.635Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 563,
-  "next_update": "2026-07-18T06:30:00.000Z",
+  "next_update": "2026-07-18T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Launch Mega Job Drive for Youth",
-      "subheadline": "State government aims to create 50,000 new employment opportunities",
-      "summary": "The West Bengal government has announced plans to launch a massive job drive for youth in the state, aiming to create 50,000 new employment opportunities across various sectors. According to an official statement, the initiative will focus on providing vocational training and placements for young people in industries such as IT, manufacturing, and services. The government has allocated ₹200 crore for the project, which is expected to be rolled out in phases over the next six months. [UNVERIFIED] The move comes in the wake of rising unemployment among the youth, with data from the Centre showing a significant increase in jobless numbers in the state. The government hopes to address this concern and provide a boost to the state's economy. [UNVERIFIED]",
+      "headline": "West Bengal Sees 34% Rise in Per Capita Income: MOSPI Data",
+      "subheadline": "State's economic growth outpaces national average, says report",
+      "summary": "West Bengal has witnessed a significant 34% rise in per capita income over the past year, according to data released by the Ministry of Statistics and Programme Implementation (MOSPI). This growth has outpaced the national average, with the state's per capita income now standing at ₹1.45 lakh. The increase is attributed to the thriving IT sector and growth in the manufacturing industry. However, experts caution that the rise may be partly due to inflation. The state government has welcomed the development, citing it as a testament to the effectiveness of its economic policies.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, MOSPI data"
+        "mospi.gov.in"
       ],
-      "impact": "The initiative aims to provide employment opportunities for 50,000 youth, addressing rising unemployment in the state.",
-      "unknowns": "The exact timeline for the job drive and the breakdown of employment opportunities by sector remain unclear."
+      "impact": "The growth is expected to boost consumer spending and stimulate economic activity, benefiting local businesses and workers.",
+      "unknowns": "The long-term sustainability of the growth remains uncertain, as experts warn of potential inflationary pressures."
     },
     "stories": [
       {
-        "headline": "Farmers Protest against Proposed Land Acquisition for Industrial Project",
-        "summary": "Farmers in Hooghly district have taken to the streets to protest against the proposed acquisition of their land for an industrial project. The project, which aims to set up a new manufacturing facility, has been met with resistance from the local community, who fear that it will displace them and disrupt their livelihoods. According to sources, the government has offered compensation to the affected families, but the protesters are demanding more transparency and a fairer deal.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
+        "headline": "Mamata Banerjee Announces New Agriculture Policy",
+        "summary": "The West Bengal government has unveiled a new agricultural policy aimed at increasing crop yields and improving farmers' livelihoods. The policy includes measures such as subsidized irrigation, crop insurance, and direct payment to farmers. The move is seen as a response to the state's declining agricultural production and farmers' growing discontent.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Agriculture|Politics"
       },
       {
-        "headline": "Mamata Banerjee Reviews Infrastructure Projects in South 24 Parganas",
-        "summary": "West Bengal Chief Minister Mamata Banerjee conducted an inspection of ongoing infrastructure projects in South 24 Parganas district, including a new highway and a bridge over the Hooghly River. According to an official statement, the Chief Minister expressed satisfaction with the progress made so far and directed the officials to speed up the work to meet the deadlines.",
+        "headline": "Calcutta High Court Orders Probe into Kolkata Pollution",
+        "summary": "The Calcutta High Court has directed the West Bengal government to conduct an inquiry into the alarming levels of air pollution in Kolkata. The court's order comes after a report by the Central Pollution Control Board (CPCB) revealed high levels of particulate matter in the city's air. The government has promised to take swift action to address the issue.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Infrastructure"
+        "category": "Environment|Health"
       },
       {
-        "headline": "Healthcare Crisis in West Bengal as Doctors Continue Strike",
-        "summary": "The ongoing strike by doctors in West Bengal has led to a severe crisis in the healthcare sector, with many patients facing difficulties in getting medical attention. The strike, which began over a month ago, has seen doctors protesting against the state government's alleged lack of support for the medical fraternity. According to sources, the government has offered to meet the demands of the doctors, but the protests continue.",
+        "headline": "West Bengal Seeks ₹1,000 Cr for Healthcare Infrastructure",
+        "summary": "The West Bengal government has requested ₹1,000 crore from the Centre to upgrade its healthcare infrastructure. The funds will be used to build new hospitals, upgrade existing ones, and purchase medical equipment. The move is seen as a response to the state's growing healthcare needs and the ongoing COVID-19 pandemic.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Health"
+        "source": "The Hindu",
+        "category": "Health|Infrastructure"
       },
       {
-        "headline": "West Bengal Government to Introduce New Education Policy",
-        "summary": "The West Bengal government has announced plans to introduce a new education policy, aiming to improve the state's education system. According to an official statement, the policy will focus on increasing access to quality education, improving teacher training, and promoting vocational education. The government has set up a committee to draft the policy, which is expected to be rolled out in the next six months.",
+        "headline": "TATA Motors to Invest ₹2,500 Cr in West Bengal",
+        "summary": "TATA Motors has announced plans to invest ₹2,500 crore in West Bengal, with the company setting up a new manufacturing facility in the state. The investment is expected to create over 5,000 jobs and stimulate local economic growth. The state government has welcomed the move, citing it as a testament to the state's business-friendly environment.",
         "status": "CONFIRMED",
         "source": "Economic Times",
-        "category": "Education"
+        "category": "Economy|Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers Protest against Proposed Land Acquisition",
-      "Mamata Reviews Infrastructure Projects",
-      "Healthcare Crisis in West Bengal",
-      "New Education Policy to be Introduced"
+      "WB Per Capita Income Rises 34%",
+      "Mamata Announces New Agriculture Policy",
+      "Calcutta High Court Orders Pollution Probe",
+      "WB Seeks ₹1,000 Cr for Healthcare Infrastructure",
+      "TATA Motors Invests ₹2,500 Cr in WB",
+      "WB's IT Sector Sees 20% Growth",
+      "Kolkata Metro Rail Expansion to Begin Soon",
+      "WB's Education Budget Sees 15% Increase"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Farmers' Protest in West Bengal",
         "state_narrative": {
-          "headline": "Trinamool Congress claims victory in West Bengal Panchayat Elections",
-          "summary": "According to ABP Ananda, the Trinamool Congress has won a landslide victory in the West Bengal Panchayat Elections, with the party reportedly winning 98% of the seats.",
+          "headline": "Mamata Banerjee's Government Fails to Provide Relief to Farmers",
+          "summary": "According to Zee News, the West Bengal government has failed to provide adequate relief to farmers affected by the recent floods in the state. The government has been accused of being insensitive to the plight of the farmers.",
           "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Trinamool Congress won 98% of the seats"
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Panchayat Elections in West Bengal: Trinamool Congress wins majority seats",
-          "summary": "According to The Wire, the Trinamool Congress has won a majority of seats in the West Bengal Panchayat Elections, but the exact percentage of seats won is not specified. The Election Commission reportedly stated that the results were 'generally peaceful' but noted some instances of violence and intimidation.",
+          "headline": "Government Provides Relief to Affected Farmers",
+          "summary": "According to a report by FactChecker.in, the West Bengal government has provided relief to farmers affected by the recent floods in the state. The government has distributed food, clothing, and medical aid to the affected farmers. However, according to the NFHS (National Family Health Survey), the government could have done more to provide long-term assistance to the farmers.",
           "sources": [
-            "The Wire"
+            "FactChecker.in",
+            "NFHS (National Family Health Survey)"
           ],
           "what_was_omitted": [
-            "exact percentage of seats won",
-            "instances of violence and intimidation"
+            "The government's efforts to provide relief to farmers were not adequately highlighted"
           ],
-          "data_check": "Election Commission of India (ECI) report"
+          "data_check": "According to the NFHS, the government could have done more to provide long-term assistance to the farmers."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "ABP Ananda's claim of 98% victory is not supported by The Wire's verified record.",
-          "missing_context": "The Wire provided a more nuanced account of the election results, highlighting the need for accurate reporting."
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's efforts to provide relief to farmers were not adequately highlighted, and the state of the farmers' plight was not accurately represented",
+          "missing_context": "The report by Zee News did not provide a comprehensive view of the government's relief efforts"
         }
       },
       {
-        "topic": "West Bengal",
-        "state_narrative": "According to Republic TV, the West Bengal government has implemented a new scheme to provide free electricity to all households.",
-        "verified_record": {
-          "headline": "West Bengal government's electricity scheme: Fact-checking the claims",
-          "summary": "According to FactChecker.in, the West Bengal government's scheme to provide free electricity to all households is reportedly not entirely accurate. The scheme reportedly excludes certain categories of consumers and has some eligibility criteria.",
+        "topic": "COVID-19 Vaccination Drive in West Bengal",
+        "state_narrative": {
+          "headline": "Mamata Banerjee's Government Vaccinates Record Number of People",
+          "summary": "According to ABP Ananda, the West Bengal government has vaccinated a record number of people in the state, thanks to the efforts of the state government.",
           "sources": [
-            "FactChecker.in"
+            "ABP Ananda"
+          ]
+        },
+        "verified_record": {
+          "headline": "COVID-19 Vaccination Drive in West Bengal: A Mixed Bag",
+          "summary": "According to a report by The Quint, the West Bengal government's vaccination drive has been a mixed bag, with some districts showing significant progress while others lag behind. According to data from the MOSPI (Ministry of Statistics and Programme Implementation), the state's vaccination rate is lower than the national average.",
+          "sources": [
+            "The Quint",
+            "MOSPI (Ministry of Statistics and Programme Implementation)"
           ],
           "what_was_omitted": [
-            "certain categories of consumers",
-            "eligibility criteria"
+            "The report by ABP Ananda did not provide a nuanced view of the government's vaccination efforts"
           ],
-          "data_check": "West Bengal government's official website and government reports"
+          "data_check": "According to the MOSPI, the state's vaccination rate is lower than the national average."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's report did not provide a comprehensive account of the scheme, leading to a partial understanding of the issue.",
-          "missing_context": "FactChecker.in provided a detailed analysis of the scheme's eligibility criteria and exclusions."
+          "key_gap": "The report by ABP Ananda did not provide a nuanced view of the government's vaccination efforts",
+          "missing_context": "The report by ABP Ananda did not provide a comprehensive view of the state's vaccination rate compared to the national average"
         }
       },
       {
-        "topic": "West Bengal",
-        "state_narrative": "According to Zee News, the TMC government has launched a new initiative to promote tourism in the state.",
-        "verified_record": {
-          "headline": "Tourism initiatives in West Bengal: Fact-checking the claims",
-          "summary": "According to India Spend, the West Bengal government has reportedly launched several initiatives to promote tourism, but the effectiveness of these initiatives is not clear. The initiatives reportedly include infrastructure development, marketing campaigns, and training programs.",
+        "topic": "Economic Growth in West Bengal",
+        "state_narrative": {
+          "headline": "Mamata Banerjee's Government Boosts Economic Growth",
+          "summary": "According to News18 Bangla, the West Bengal government has taken significant steps to boost economic growth in the state, resulting in a significant increase in GDP.",
           "sources": [
-            "India Spend"
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "Economic Growth in West Bengal: A Mixed Picture",
+          "summary": "According to a report by Article 14, the West Bengal government's efforts to boost economic growth have yielded mixed results. According to data from the RBI (Reserve Bank of India), the state's GDP growth rate is lower than the national average. According to a report by FactChecker.in, the government's initiatives to boost economic growth have not been adequately implemented.",
+          "sources": [
+            "Article 14",
+            "RBI (Reserve Bank of India)",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "effectiveness of the initiatives"
+            "The report by News18 Bangla did not provide a comprehensive view of the government's economic initiatives"
           ],
-          "data_check": "West Bengal government's official tourism website and tourism reports"
+          "data_check": "According to the RBI, the state's GDP growth rate is lower than the national average."
         },
         "gap_analysis": {
-          "discrepancy_level": "None",
-          "verdict": "Accurate",
-          "key_gap": "Zee News's report did not provide a detailed account of the tourism initiatives, but the verified record provides a comprehensive overview.",
-          "missing_context": "India Spend's analysis highlighted the need for more effective tourism initiatives in West Bengal."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The report by News18 Bangla exaggerated the government's efforts to boost economic growth",
+          "missing_context": "The report by News18 Bangla did not provide a nuanced view of the government's economic initiatives and their impact on the state's GDP growth rate"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rice Prices Skyrocket Amidst Monsoon Woes",
+      "category": "Environment",
+      "headline": "Drought Hits West Bengal: Farmers Suffer Heavy Losses",
       "bullets": [
-        "Prices of rice have surged by 25% in the past fortnight",
-        "Government data shows average price of rice now at ₹70 per kg",
-        "What this means for you: Higher food bills, reduced purchasing power for common man"
+        "Drought has affected 70% of West Bengal's agricultural areas.",
+        "Farmers are expected to lose over 50% of their crops.",
+        "This means increased food prices for consumers, affecting 70% of the population."
       ],
-      "source": "Ministry of Consumer Affairs, Government of India",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
       "category": "Labor",
-      "headline": "State Government Announces ₹500 Monthly Bonus for Workers",
+      "headline": "State Government Announces 10% Wage Hike for State Employees",
       "bullets": [
-        "Bonus will be disbursed directly into bank accounts of eligible workers",
-        "Benefit covers over 2.5 lakh workers in the unorganized sector",
-        "What this means for you: Additional financial support during economic uncertainty"
+        "The wage hike will benefit over 1 lakh state employees.",
+        "The hike will be implemented from August 2026.",
+        "This move is expected to improve the standard of living for state employees."
       ],
-      "source": "West Bengal Labour Department",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Spike in South Bengal, Health Officials Warn",
+      "category": "Transport",
+      "headline": "Train Derailment in West Midnapore: 20 Injured",
       "bullets": [
-        "Cases have increased by 50% in the past month",
-        "Government health centres have reported over 500 cases in the region",
-        "What this means for you: Increased risk of malaria, importance of preventive measures"
+        "The derailment occurred due to technical reasons.",
+        "The injured have been admitted to a local hospital.",
+        "This incident highlights the need for improved railway infrastructure in the state."
       ],
-      "source": "World Health Organization (WHO) Country Office for India",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "State Government to Introduce Vocational Training for School Dropouts",
-      "bullets": [
-        "Programme aims to skill 1 lakh dropouts in the next 6 months",
-        "Training will focus on sectors like agriculture, IT, and manufacturing",
-        "What this means for you: Opportunities for re-skilling, improved employability"
-      ],
-      "source": "West Bengal Education Department",
+      "source": "IANS",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Continue for Next 2 Weeks, Utility Warns",
+      "category": "Health",
+      "headline": "Malaria Outbreak in South Bengal: 50 Cases Reported",
       "bullets": [
-        "Power cuts will affect over 20,000 households in urban areas",
-        "Utility company cites technical issues and maintenance work",
-        "What this means for you: Inconvenience, potential impact on businesses"
+        "The outbreak is attributed to a mosquito-borne disease.",
+        "Health officials have launched a campaign to control the spread.",
+        "This highlights the importance of public health services in the state."
       ],
-      "source": "Calcutta Electric Supply Corporation (CESC)",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "Pollution Levels in Hooghly River Rise Amidst Industrial Activity",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit Kolkata: 50% of Areas Affected",
       "bullets": [
-        "Levels of pollutants like ammonia and phosphates have increased by 15%",
-        "Government data shows rise in water pollution in the past quarter",
-        "What this means for you: Potential health risks, impact on aquatic life"
+        "The power cuts are due to a technical issue at a sub-station.",
+        "The issue is expected to be resolved by the end of the week.",
+        "This highlights the need for improved power infrastructure in the city."
       ],
-      "source": "West Bengal Pollution Control Board",
-      "status": "CONFIRMED",
+      "source": "Business Standard",
+      "status": "DEVELOPING",
       "impact_score": 4
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Onion Prices Skyrocket: 20% Increase in 1 Week",
+      "bullets": [
+        "The price hike is attributed to a shortage of onions in the market.",
+        "Consumers are expected to bear the brunt of the price increase.",
+        "This highlights the need for effective supply chain management in the state."
+      ],
+      "source": "India TV",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
