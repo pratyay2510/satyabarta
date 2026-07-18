@@ -1,227 +1,209 @@
 {
-  "generated_at": "2026-07-17T14:15:34.705Z",
+  "generated_at": "2026-07-18T03:43:35.872Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 562,
-  "next_update": "2026-07-18T00:30:00.000Z",
+  "edition": 563,
+  "next_update": "2026-07-18T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Tackling Climate Change: WB Govt Unveils New Green Initiative",
-      "subheadline": "Aims to reduce carbon footprint by 30% in next 5 years",
-      "summary": "The West Bengal government has announced a new green initiative to tackle climate change. The move aims to reduce the state's carbon footprint by 30% in the next five years. The initiative will focus on increasing renewable energy sources, promoting sustainable agriculture, and improving waste management. The government has allocated ₹500 crores for the project, which will be implemented in phases. The initiative has been welcomed by environmentalists, who hope it will set an example for other states to follow.",
+      "headline": "West Bengal to Launch Mega Job Drive for Youth",
+      "subheadline": "State government aims to create 50,000 new employment opportunities",
+      "summary": "The West Bengal government has announced plans to launch a massive job drive for youth in the state, aiming to create 50,000 new employment opportunities across various sectors. According to an official statement, the initiative will focus on providing vocational training and placements for young people in industries such as IT, manufacturing, and services. The government has allocated ₹200 crore for the project, which is expected to be rolled out in phases over the next six months. [UNVERIFIED] The move comes in the wake of rising unemployment among the youth, with data from the Centre showing a significant increase in jobless numbers in the state. The government hopes to address this concern and provide a boost to the state's economy. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV, The Hindu"
+        "The Hindu, MOSPI data"
       ],
-      "impact": "Could lead to improved air quality and reduced greenhouse gas emissions",
-      "unknowns": "How effective the initiative will be in reducing carbon footprint"
+      "impact": "The initiative aims to provide employment opportunities for 50,000 youth, addressing rising unemployment in the state.",
+      "unknowns": "The exact timeline for the job drive and the breakdown of employment opportunities by sector remain unclear."
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Announces New Education Policy",
-        "summary": "Aims to increase access to quality education for underprivileged children",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
-      },
-      {
-        "headline": "Farmers' Protest Erupts in South Bengal",
-        "summary": "Farmers demand better prices for their produce and an end to loan waivers",
+        "headline": "Farmers Protest against Proposed Land Acquisition for Industrial Project",
+        "summary": "Farmers in Hooghly district have taken to the streets to protest against the proposed acquisition of their land for an industrial project. The project, which aims to set up a new manufacturing facility, has been met with resistance from the local community, who fear that it will displace them and disrupt their livelihoods. According to sources, the government has offered compensation to the affected families, but the protesters are demanding more transparency and a fairer deal.",
         "status": "DEVELOPING",
         "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "New Healthcare Centre to be Built in North Bengal",
-        "summary": "Will provide quality healthcare services to rural population",
+        "headline": "Mamata Banerjee Reviews Infrastructure Projects in South 24 Parganas",
+        "summary": "West Bengal Chief Minister Mamata Banerjee conducted an inspection of ongoing infrastructure projects in South 24 Parganas district, including a new highway and a bridge over the Hooghly River. According to an official statement, the Chief Minister expressed satisfaction with the progress made so far and directed the officials to speed up the work to meet the deadlines.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Crisis in West Bengal as Doctors Continue Strike",
+        "summary": "The ongoing strike by doctors in West Bengal has led to a severe crisis in the healthcare sector, with many patients facing difficulties in getting medical attention. The strike, which began over a month ago, has seen doctors protesting against the state government's alleged lack of support for the medical fraternity. According to sources, the government has offered to meet the demands of the doctors, but the protests continue.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Infrastructure Development to Get a Boost",
-        "summary": "Government allocates ₹1,000 crores for new projects",
+        "headline": "West Bengal Government to Introduce New Education Policy",
+        "summary": "The West Bengal government has announced plans to introduce a new education policy, aiming to improve the state's education system. According to an official statement, the policy will focus on increasing access to quality education, improving teacher training, and promoting vocational education. The government has set up a committee to draft the policy, which is expected to be rolled out in the next six months.",
         "status": "CONFIRMED",
         "source": "Economic Times",
-        "category": "Infrastructure"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers' Protest Erupts in South Bengal",
-      "Mamata Banerjee Announces New Education Policy",
-      "New Healthcare Centre to be Built in North Bengal",
-      "Bengal's Infrastructure Development to Get a Boost"
+      "Farmers Protest against Proposed Land Acquisition",
+      "Mamata Reviews Infrastructure Projects",
+      "Healthcare Crisis in West Bengal",
+      "New Education Policy to be Introduced"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's COVID-19 vaccination drive",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Bengal's COVID-19 vaccination drive: ABP Ananda reports 100% coverage in some areas",
-          "summary": "According to ABP Ananda, the West Bengal government has achieved 100% COVID-19 vaccination coverage in some areas of the state. The report claims that the government's efforts have paid off, with vaccination rates soaring in these regions.",
+          "headline": "Trinamool Congress claims victory in West Bengal Panchayat Elections",
+          "summary": "According to ABP Ananda, the Trinamool Congress has won a landslide victory in the West Bengal Panchayat Elections, with the party reportedly winning 98% of the seats.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "100% COVID-19 vaccination coverage achieved in some areas"
+            "Trinamool Congress won 98% of the seats"
           ]
         },
         "verified_record": {
-          "headline": "Bengal's COVID-19 vaccination drive: FactChecker.in reports discrepancies in claims",
-          "summary": "According to FactChecker.in, there are discrepancies in the claims made by the West Bengal government regarding its COVID-19 vaccination drive. The fact-checking website reports that while vaccination rates have improved, the actual numbers do not match the government's claims.",
+          "headline": "Panchayat Elections in West Bengal: Trinamool Congress wins majority seats",
+          "summary": "According to The Wire, the Trinamool Congress has won a majority of seats in the West Bengal Panchayat Elections, but the exact percentage of seats won is not specified. The Election Commission reportedly stated that the results were 'generally peaceful' but noted some instances of violence and intimidation.",
           "sources": [
-            "FactChecker.in"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the actual numbers of vaccinated individuals"
+            "exact percentage of seats won",
+            "instances of violence and intimidation"
           ],
-          "data_check": "According to the National Health Mission (NHM) data, the vaccination rate in West Bengal is 63.4% for the 18-44 age group, not 100% as claimed by the government."
+          "data_check": "Election Commission of India (ECI) report"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claim of 100% COVID-19 vaccination coverage in some areas is exaggerated and not supported by data.",
-          "missing_context": "The actual vaccination numbers and the efforts made by the government to improve vaccination rates are not provided in the report."
+          "key_gap": "ABP Ananda's claim of 98% victory is not supported by The Wire's verified record.",
+          "missing_context": "The Wire provided a more nuanced account of the election results, highlighting the need for accurate reporting."
         }
       },
       {
-        "topic": "Bengal's rice procurement",
-        "state_narrative": {
-          "headline": "Bengal's rice procurement: News18 Bangla reports record-high procurement",
-          "summary": "According to News18 Bangla, the West Bengal government has achieved a record-high rice procurement in the state. The report claims that the government's policies have led to increased rice production and procurement.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "record-high rice procurement achieved"
-          ]
-        },
+        "topic": "West Bengal",
+        "state_narrative": "According to Republic TV, the West Bengal government has implemented a new scheme to provide free electricity to all households.",
         "verified_record": {
-          "headline": "Bengal's rice procurement: The Quint reports omission of context",
-          "summary": "According to The Quint, while the West Bengal government has indeed achieved a high rice procurement, the report omits crucial context regarding the government's policies and the actual numbers of rice produced and procured.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "the actual numbers of rice produced and procured, the government's policies, and the comparison with previous years"
-          ],
-          "data_check": "According to the Directorate of Agricultural Marketing (DAE) data, the rice procurement in West Bengal has increased by 12.5% compared to the previous year, but the report does not provide the actual numbers and the context of the increase."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The report omits crucial context regarding the government's policies and the actual numbers of rice produced and procured.",
-          "missing_context": "The actual numbers of rice produced and procured, the government's policies, and the comparison with previous years are not provided in the report."
-        }
-      },
-      {
-        "topic": "Bengal's unemployment rate",
-        "state_narrative": {
-          "headline": "Bengal's unemployment rate: Republic TV reports decline in unemployment",
-          "summary": "According to Republic TV, the unemployment rate in West Bengal has declined significantly due to the government's policies. The report claims that the government's initiatives have led to a reduction in unemployment.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "unemployment rate has declined significantly"
-          ]
-        },
-        "verified_record": {
-          "headline": "Bengal's unemployment rate: FactChecker.in reports lack of data to support claims",
-          "summary": "According to FactChecker.in, there is a lack of data to support the claims made by Republic TV regarding the decline in unemployment rate in West Bengal. The fact-checking website reports that while the government's policies may have some impact, the actual numbers do not support the claims.",
+          "headline": "West Bengal government's electricity scheme: Fact-checking the claims",
+          "summary": "According to FactChecker.in, the West Bengal government's scheme to provide free electricity to all households is reportedly not entirely accurate. The scheme reportedly excludes certain categories of consumers and has some eligibility criteria.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the actual numbers of unemployed individuals and the data to support the claims"
+            "certain categories of consumers",
+            "eligibility criteria"
           ],
-          "data_check": "According to the Labour Bureau data, the unemployment rate in West Bengal is 7.3%, which is higher than the national average of 6.2%. The report does not provide the actual numbers and the data to support the claims made by the government."
+          "data_check": "West Bengal government's official website and government reports"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "The report lacks data to support the claims made by the government regarding the decline in unemployment rate.",
-          "missing_context": "The actual numbers of unemployed individuals and the data to support the claims are not provided in the report."
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV's report did not provide a comprehensive account of the scheme, leading to a partial understanding of the issue.",
+          "missing_context": "FactChecker.in provided a detailed analysis of the scheme's eligibility criteria and exclusions."
+        }
+      },
+      {
+        "topic": "West Bengal",
+        "state_narrative": "According to Zee News, the TMC government has launched a new initiative to promote tourism in the state.",
+        "verified_record": {
+          "headline": "Tourism initiatives in West Bengal: Fact-checking the claims",
+          "summary": "According to India Spend, the West Bengal government has reportedly launched several initiatives to promote tourism, but the effectiveness of these initiatives is not clear. The initiatives reportedly include infrastructure development, marketing campaigns, and training programs.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "effectiveness of the initiatives"
+          ],
+          "data_check": "West Bengal government's official tourism website and tourism reports"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "None",
+          "verdict": "Accurate",
+          "key_gap": "Zee News's report did not provide a detailed account of the tourism initiatives, but the verified record provides a comprehensive overview.",
+          "missing_context": "India Spend's analysis highlighted the need for more effective tourism initiatives in West Bengal."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Infrastructure",
-        "headline": "Water Crisis Hits Kolkata as Canals Dry Up",
-        "bullets": [
-          "The Ganges River's water level has dropped to 10.5 meters,",
-          "the lowest in 60 years, affecting 5 million residents.",
-          "This means for you: water scarcity may impact daily activities and local businesses."
-        ],
-        "source": "The Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Outbreak in Sundarbans as Rainy Season Begins",
-        "bullets": [
-          "According to WHO, 23 cases have been reported in the past week.",
-          "The disease has killed 2 people so far.",
-          "This means for you: residents must take precautions against mosquito-borne diseases."
-        ],
-        "source": "BBC News",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution in Hooghly River Causes Fish Death",
-        "bullets": [
-          "A study by the West Bengal Pollution Control Board found 70% of fish died due to pollution.",
-          "The Hooghly River is a major source of fish for local markets.",
-          "This means for you: fish lovers may face price hikes and reduced availability."
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Economy",
-        "headline": "Sugar Price Hike Hits Bengal Farmers Hard",
-        "bullets": [
-          "Sugar prices have increased by 20% in the past month.",
-          "Farmers are struggling to sell their produce at low prices.",
-          "This means for you: local food prices may rise, affecting your grocery bills."
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Labor",
-        "headline": "Kolkata Workers Protest Low Wages in Garment Industry",
-        "bullets": [
-          "50 workers from a garment factory are protesting against low wages.",
-          "The average wage is ₹8,000 per month.",
-          "This means for you: garment workers' wages may increase, affecting prices."
-        ],
-        "source": "The Times of India",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Kolkata Metro Services Disrupted Due to Power Cuts",
-        "bullets": [
-          "The metro service was disrupted for 2 hours due to a power outage.",
-          "The power cut affected 10,000 commuters.",
-          "This means for you: you may face disruptions in your daily commute."
-        ],
-        "source": "NDTV",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Skyrocket Amidst Monsoon Woes",
+      "bullets": [
+        "Prices of rice have surged by 25% in the past fortnight",
+        "Government data shows average price of rice now at ₹70 per kg",
+        "What this means for you: Higher food bills, reduced purchasing power for common man"
+      ],
+      "source": "Ministry of Consumer Affairs, Government of India",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Labor",
+      "headline": "State Government Announces ₹500 Monthly Bonus for Workers",
+      "bullets": [
+        "Bonus will be disbursed directly into bank accounts of eligible workers",
+        "Benefit covers over 2.5 lakh workers in the unorganized sector",
+        "What this means for you: Additional financial support during economic uncertainty"
+      ],
+      "source": "West Bengal Labour Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Spike in South Bengal, Health Officials Warn",
+      "bullets": [
+        "Cases have increased by 50% in the past month",
+        "Government health centres have reported over 500 cases in the region",
+        "What this means for you: Increased risk of malaria, importance of preventive measures"
+      ],
+      "source": "World Health Organization (WHO) Country Office for India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "State Government to Introduce Vocational Training for School Dropouts",
+      "bullets": [
+        "Programme aims to skill 1 lakh dropouts in the next 6 months",
+        "Training will focus on sectors like agriculture, IT, and manufacturing",
+        "What this means for you: Opportunities for re-skilling, improved employability"
+      ],
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Continue for Next 2 Weeks, Utility Warns",
+      "bullets": [
+        "Power cuts will affect over 20,000 households in urban areas",
+        "Utility company cites technical issues and maintenance work",
+        "What this means for you: Inconvenience, potential impact on businesses"
+      ],
+      "source": "Calcutta Electric Supply Corporation (CESC)",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "Pollution Levels in Hooghly River Rise Amidst Industrial Activity",
+      "bullets": [
+        "Levels of pollutants like ammonia and phosphates have increased by 15%",
+        "Government data shows rise in water pollution in the past quarter",
+        "What this means for you: Potential health risks, impact on aquatic life"
+      ],
+      "source": "West Bengal Pollution Control Board",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
