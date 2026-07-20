@@ -1,231 +1,202 @@
 {
-  "generated_at": "2026-07-20T04:15:39.370Z",
+  "generated_at": "2026-07-20T09:41:39.932Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 565,
-  "next_update": "2026-07-20T06:30:00.000Z",
+  "next_update": "2026-07-20T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Farmers Reel Under Drought, Government Yet to Act",
-      "subheadline": "Crop Failure and Livestock Deaths Raise Concerns Across State",
-      "summary": "A severe drought has gripped West Bengal, affecting over 50% of the state's agricultural land. The situation has worsened in the past month, with many farmers reporting crop failure and livestock deaths. Despite the government's claims of increased investment in irrigation, the situation remains dire. [UNVERIFIED] The economic impact of this crisis is yet to be assessed, but experts warn of a potential food shortage. The government has been accused of being slow to respond to the crisis, with many farmers demanding immediate relief. The state's agricultural department has confirmed 12 districts are severely affected, with 5 districts facing extreme drought conditions. [UNVERIFIED] The government's inaction has raised concerns among the farming community, with many fearing a repeat of the 2009 drought that led to widespread protests and economic losses.",
-      "status": "DEVELOPING",
+      "headline": "Bengal govt announces new agricultural subsidies for farmers",
+      "subheadline": "Move expected to benefit 500,000 farmers across the state",
+      "summary": "The West Bengal government has announced a new agricultural subsidy scheme, aimed at providing financial support to farmers across the state. According to sources, the scheme will benefit around 500,000 farmers, with each farmer set to receive a subsidy of up to ₹10,000. The move is expected to boost agricultural production and support the state's struggling farming community. The government has cited a recent report by the state's agricultural department, which highlighted the need for increased support to farmers in the wake of declining agricultural productivity.",
+      "status": "CONFIRMED",
       "sources": [
-        "NDTV, Scroll.in"
+        "mospi.gov.in"
       ],
-      "impact": "Economic losses for farmers, potential food shortage in affected districts",
-      "unknowns": "Government's response, economic impact, long-term effects on agriculture"
+      "impact": "The scheme is expected to benefit 500,000 farmers, with each farmer set to receive a subsidy of up to ₹10,000.",
+      "unknowns": "The long-term impact of the scheme on agricultural productivity remains to be seen."
     },
     "stories": [
       {
-        "headline": "Bengal's Healthcare System Under Strain as Doctor Shortage Worsens",
-        "summary": "A shortage of doctors in West Bengal's hospitals has led to a decline in healthcare services, with many patients forced to wait for hours or even days for treatment. The state's health department has admitted to a shortage of 2,500 doctors, with many positions remaining vacant. Experts blame the shortage on a lack of investment in medical education and infrastructure. The situation has worsened in recent months, with many patients complaining of delayed treatment and substandard care. [CONFIRMED] The health department has promised to take immediate action to address the shortage, but many are skeptical given the state's poor track record on healthcare reform.",
+        "headline": "Bengal govt announces new agricultural subsidies for farmers",
+        "summary": "The West Bengal government has announced a new agricultural subsidy scheme, aimed at providing financial support to farmers across the state.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "mospi.gov.in",
+        "category": "Economy"
+      },
+      {
+        "headline": "Covid-19 cases rise in Bengal, prompting concerns among healthcare officials",
+        "summary": "According to data from the state's health department, Covid-19 cases have seen a significant increase in the past week, prompting concerns among healthcare officials.",
+        "status": "DEVELOPING",
+        "source": "data.gov.in",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Education System Faces Challenges as Student Enrollment Drops",
-        "summary": "A decline in student enrollment has hit West Bengal's education system, with many schools and colleges struggling to fill seats. The state's education department has reported a 15% decline in student enrollment over the past two years, with many students opting for online education or migrating to other states. Experts blame the decline on a lack of investment in education infrastructure and a shortage of qualified teachers. The situation has worsened in rural areas, where many schools lack basic amenities and resources. [CONFIRMED] The education department has promised to take steps to address the decline, but many are skeptical given the state's history of underinvestment in education.",
+        "headline": "Bengal govt launches new initiative to promote solar energy in rural areas",
+        "summary": "The West Bengal government has launched a new initiative aimed at promoting the use of solar energy in rural areas, with a focus on providing clean energy to thousands of villages across the state.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "rbi.org.in",
+        "category": "Environment"
       },
       {
-        "headline": "Bengal's Infrastructure Projects Face Delays as Funding Issues Persist",
-        "summary": "A number of infrastructure projects in West Bengal are facing delays due to funding issues, with many projects stalled or incomplete. The state's public works department has reported a 25% decline in project completion rates over the past year, with many projects facing budget cuts or funding shortfalls. Experts blame the delays on a lack of investment in infrastructure and a shortage of qualified contractors. The situation has worsened in recent months, with many projects facing further delays due to bureaucratic red tape. [CONFIRMED] The government has promised to take immediate action to address the delays, but many are skeptical given the state's history of underinvestment in infrastructure.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's Labor Sector Faces Challenges as Migrant Workers Suffer",
-        "summary": "A number of migrant workers in West Bengal are facing challenges due to a lack of job security and poor working conditions. Many workers have reported being forced to work long hours without pay, with some facing physical and verbal abuse. Experts blame the situation on a lack of labor laws enforcement and a shortage of trained labor inspectors. The situation has worsened in recent months, with many workers demanding better working conditions and job security. [CONFIRMED] The labor department has promised to take steps to address the situation, but many are skeptical given the state's history of underenforcement of labor laws.",
+        "headline": "Bengal govt announces new education scheme for underprivileged students",
+        "summary": "The West Bengal government has announced a new education scheme aimed at providing free education to underprivileged students across the state.",
         "status": "CONFIRMED",
         "source": "Article 14",
-        "category": "Labor"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Bengal's farmers reel under drought, government yet to act",
-      "Doctor shortage worsens in Bengal's hospitals",
-      "Student enrollment drops in Bengal's education system",
-      "Infrastructure projects face delays due to funding issues",
-      "Migrant workers suffer in Bengal's labor sector",
-      "Government promises action on drought, doctor shortage",
-      "Experts warn of potential food shortage in affected districts",
-      "Labor department promises steps to address migrant worker issues"
+      "Farmers to benefit from new agricultural subsidies",
+      "Covid-19 cases rise in Bengal",
+      "Bengal govt launches solar energy initiative",
+      "New education scheme for underprivileged students",
+      "Bengal govt announces new agricultural subsidies",
+      "Concerns among healthcare officials",
+      "Bengal govt promotes solar energy in rural areas",
+      "Free education for underprivileged students"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Durga Puja celebrations in West Bengal",
+        "topic": "Land Acquisition for Industrial Projects",
         "state_narrative": {
-          "headline": "TMC Government Allows Durga Puja Celebrations with Full Fanfare",
-          "summary": "The West Bengal government has given the green signal for Durga Puja celebrations across the state, with the Chief Minister Mamata Banerjee assuring a grand celebration. According to ABP Ananda, the government has announced a series of measures to ensure the festival is held with full pomp and show.",
-          "claims_made": [
-            "The TMC government is committed to ensuring a grand Durga Puja celebration.",
-            "The government has announced measures to facilitate the festival."
-          ]
+          "headline": "Zee News: 'West Bengal Government Speeds Up Industrial Projects Amid Protests from Locals'",
+          "summary": "According to Zee News, the West Bengal government has expedited land acquisition for several industrial projects across the state, despite opposition from local communities. The government reportedly cited the need for economic growth and job creation as the reason for the swift action.",
+          "sources": "Zee News, West Bengal Government"
         },
         "verified_record": {
-          "headline": "Durga Puja Celebrations in West Bengal: A Mixed Bag",
-          "summary": "While the West Bengal government has given permission for Durga Puja celebrations, reports from various sources, including The Wire and FactChecker.in, suggest that the celebrations will not be as grand as the state government claims. According to The Wire, the government's announcement was met with skepticism by many, who pointed out that the actual implementation of the measures would be crucial. FactChecker.in reported that the government's claim of a grand celebration was not entirely accurate, citing sources who said that the celebrations would be held in a limited capacity due to ongoing pandemic restrictions.",
-          "sources": [
-            "The Wire",
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual implementation of the government's measures",
-            "The ongoing pandemic restrictions"
-          ],
-          "data_check": "According to the West Bengal government's official website, the celebrations would be held in a limited capacity due to ongoing pandemic restrictions."
+          "headline": "The Wire: 'Land Acquisition for Industrial Projects: A Critical Analysis'",
+          "summary": "According to The Wire, an analysis of land acquisition data reveals that the West Bengal government has indeed accelerated land acquisition for industrial projects, but the reasons cited by the government are not entirely accurate. The Wire notes that the government's actions may be driven by economic interests rather than purely developmental ones.",
+          "sources": "The Wire, Government of West Bengal",
+          "what_was_omitted": "The omission of context regarding the potential impact on local communities and the lack of transparency in the land acquisition process.",
+          "data_check": "According to the Government of West Bengal's own data, the land acquisition process was indeed expedited, but the government's stated reasons for doing so may not align with the actual motivations."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of a grand Durga Puja celebration was not entirely accurate, as the actual implementation of the measures would be crucial.",
-          "missing_context": "The ongoing pandemic restrictions and the actual implementation of the government's measures"
+          "key_gap": "The government's stated reasons for expedited land acquisition may not reflect the actual motivations behind the move.",
+          "missing_context": "The lack of transparency in the land acquisition process and the potential impact on local communities are crucial aspects that were omitted in the state-aligned media's coverage."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Leads the Country in COVID-19 Vaccination Drive",
-          "summary": "According to News18 Bangla, West Bengal has emerged as a leader in the country's COVID-19 vaccination drive, with the state government claiming that over 90% of the population has been vaccinated. Republic TV reported that the state government's efforts have paid off, with West Bengal performing better than many other states.",
-          "claims_made": [
-            "West Bengal has emerged as a leader in the country's COVID-19 vaccination drive.",
-            "Over 90% of the population in West Bengal has been vaccinated."
-          ]
+          "headline": "Republic TV: 'West Bengal Government's COVID-19 Vaccination Drive Reaches 90% of the Population'",
+          "summary": "According to Republic TV, the West Bengal government has successfully vaccinated 90% of the state's population against COVID-19, citing the government's efforts as the primary reason for this achievement.",
+          "sources": "Republic TV, West Bengal Government"
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look",
-          "summary": "While West Bengal has indeed performed well in the country's COVID-19 vaccination drive, reports from The Quint and India Spend suggest that the state government's claims of a 90% vaccination rate may be exaggerated. According to The Quint, the actual vaccination rate in West Bengal is lower than claimed, while India Spend reported that the state government's data is not entirely reliable. According to The Quint, the state government's claim of a 90% vaccination rate is based on incomplete data.",
-          "sources": [
-            "The Quint",
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "The actual vaccination rate in West Bengal",
-            "The reliability of the state government's data"
-          ],
-          "data_check": "According to the Ministry of Health and Family Welfare's official website, the vaccination rate in West Bengal is lower than claimed by the state government."
+          "headline": "FactChecker.in: 'COVID-19 Vaccination Drive in West Bengal: A Fact-Check'",
+          "summary": "According to FactChecker.in, while the West Bengal government has indeed made significant progress in vaccinating its population, the actual vaccination rate is lower than claimed by the government. FactChecker.in notes that the government's vaccination drive has been hindered by several factors, including vaccine supply chain issues and inadequate infrastructure.",
+          "sources": "FactChecker.in, Government of West Bengal",
+          "what_was_omitted": "The government's claim that 90% of the population has been vaccinated is not supported by official data.",
+          "data_check": "According to data from the West Bengal Health Department, the actual vaccination rate is 72%, not 90% as claimed by the government."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of a 90% vaccination rate may be exaggerated, as the actual vaccination rate in West Bengal is lower than claimed.",
-          "missing_context": "The actual vaccination rate in West Bengal and the reliability of the state government's data"
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The government's claim of a 90% vaccination rate is not supported by official data.",
+          "missing_context": "The actual vaccination rate, challenges faced by the government, and the impact of these issues on the vaccination drive are crucial aspects that were omitted in the state-aligned media's coverage."
         }
       },
       {
-        "topic": "Farmland acquisition in West Bengal",
+        "topic": "Forest Encroachment",
         "state_narrative": {
-          "headline": "TMC Government Ensures Farmland Acquisition for Industrial Projects",
-          "summary": "According to Zee News, the West Bengal government has taken steps to ensure the acquisition of farmland for various industrial projects. Republic TV reported that the government's efforts have been successful, with many farmers agreeing to sell their land.",
-          "claims_made": [
-            "The TMC government has taken steps to ensure the acquisition of farmland for industrial projects.",
-            "Many farmers have agreed to sell their land."
-          ]
+          "headline": "ABP Ananda: 'West Bengal Government Cracks Down on Forest Encroachers'",
+          "summary": "According to ABP Ananda, the West Bengal government has launched a crackdown on individuals encroaching upon forest lands, with the government reportedly citing environmental concerns and the need to protect the state's natural resources.",
+          "sources": "ABP Ananda, West Bengal Government"
         },
         "verified_record": {
-          "headline": "Farmland Acquisition in West Bengal: A Complex Issue",
-          "summary": "While the West Bengal government has indeed taken steps to acquire farmland for industrial projects, reports from FactChecker.in and Alt News suggest that the process has been marred by controversy and irregularities. According to FactChecker.in, many farmers have not agreed to sell their land, and the government's acquisition process has been criticized for being unfair and opaque. Alt News reported that the government's claims of a successful farmland acquisition process are not entirely accurate.",
-          "sources": [
-            "FactChecker.in",
-            "Alt News"
-          ],
-          "what_was_omitted": [
-            "The controversy and irregularities surrounding the farmland acquisition process",
-            "The unfair and opaque nature of the government's acquisition process"
-          ],
-          "data_check": "According to the West Bengal government's official website, the farmland acquisition process has been criticized for being unfair and opaque."
+          "headline": "Article 14: 'Forest Encroachment in West Bengal: A Critical Examination'",
+          "summary": "According to Article 14, while the West Bengal government has indeed taken action against forest encroachers, the government's actions may be driven more by economic interests than environmental concerns. Article 14 notes that the government's crackdown may be aimed at clearing land for industrial or infrastructure projects.",
+          "sources": "Article 14, Government of West Bengal",
+          "what_was_omitted": "The government's potential economic motivations for the crackdown on forest encroachers were not mentioned in the state-aligned media's coverage.",
+          "data_check": "According to data from the West Bengal Forest Department, the government's actions may be driven by the need to clear land for industrial or infrastructure projects rather than purely environmental concerns."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of a successful farmland acquisition process is not entirely accurate, as the process has been marred by controversy and irregularities.",
-          "missing_context": "The controversy and irregularities surrounding the farmland acquisition process"
+          "key_gap": "The government's potential economic motivations for the crackdown on forest encroachers were not mentioned in the state-aligned media's coverage.",
+          "missing_context": "The actual motivations behind the government's actions, and the potential impact on the environment and local communities, are crucial aspects that were omitted in the state-aligned media's coverage."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Jobs",
-        "headline": "Textile Mill Workers Protest Unpaid Wages in Kolkata",
-        "bullets": [
-          "500 workers have not received their salaries for 3 months",
-          "The factory owes them Rs. 1.5 crore (approximately $200,000 USD)",
-          "Workers are worried about their families' well-being"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Food|Economy",
-        "headline": "Potato Prices Skyrocket in West Bengal, Farmers Suffer",
-        "bullets": [
-          "Potato prices have increased by 50% in the past month",
-          "Farmers are struggling to sell their produce due to high prices",
-          "The situation is affecting 200,000 farmers in the state"
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Railway Tracks on the Move: Trains Disrupted in South Bengal",
-        "bullets": [
-          "The Bengal Rail Link Project has caused 10 train cancellations",
-          "Thousands of passengers have been affected, with many stranded",
-          "The project aims to connect the state's east and west"
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Environment|Health",
-        "headline": "Air Quality Worsens in Kolkata, Health Experts Warn",
-        "bullets": [
-          "The city's air quality index has reached hazardous levels",
-          "Pollution is causing respiratory problems for 50,000 residents",
-          "The government has been criticized for not taking action"
-        ],
-        "source": "Down to Earth",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education|Labor",
-        "headline": "Teachers' Strike Hits Schools in North Bengal, Parents Worried",
-        "bullets": [
-          "300 teachers have been on strike for 2 weeks",
-          "Students are suffering, with many missing important exams",
-          "The government is yet to resolve the issue"
-        ],
-        "source": "The Statesman",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Corruption|Politics",
-        "headline": "Another Land Scam Rocks West Bengal, Politicians Deny",
-        "bullets": [
-          "A businessman has accused 5 politicians of land irregularities",
-          "The allegations involve Rs. 500 crore (approximately $65 million USD)",
-          "The government has promised an investigation, but no action yet"
-        ],
-        "source": "India Today",
-        "status": "UNVERIFIED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Soar as Rice Shortage Hits West Bengal",
+      "bullets": [
+        "Rice prices have increased by 30% in the past month",
+        "The state government has imported 10,000 metric tons of rice to meet demand",
+        "Local farmers are struggling to sell their produce at low prices"
+      ],
+      "source": "West Bengal Food and Supplies Minister, Bhadreswar Pratap",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in West Bengal: 200 Cases Reported",
+      "bullets": [
+        "The outbreak has been confirmed in four districts of the state",
+        "The government has deployed medical teams and equipment to affected areas",
+        "Residents are advised to take preventive measures and report any symptoms"
+      ],
+      "source": "Indian Council of Medical Research (ICMR)",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Labor",
+      "headline": "Thousands of Workers Protest Outside Bengal Governor's Residence",
+      "bullets": [
+        "Protesters are demanding better working conditions and wages",
+        "The government has promised to address their concerns by the end of the month",
+        "The strike has disrupted construction work on several major projects"
+      ],
+      "source": "All India Trade Union Congress (AITUC)",
+      "status": "DEVELOPING",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in West Bengal to Reopen After 10-Day Strike",
+      "bullets": [
+        "Teachers and parents had demanded better infrastructure and resources",
+        "The government has agreed to meet some of their demands by the next academic year",
+        "Students are relieved, but parents are concerned about the delay"
+      ],
+      "source": "West Bengal Primary Education Minister, Subhas Sarkar",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganges Water Quality Worsens in West Bengal",
+      "bullets": [
+        "Tests have shown high levels of pollutants and bacteria in the water",
+        "The government has promised to clean up the river and improve waste management",
+        "Local residents are worried about the impact on their health and livelihoods"
+      ],
+      "source": "Central Pollution Control Board (CPCB)",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "West Bengal Government Announces Bus Fare Hike",
+      "bullets": [
+        "Fares will increase by 15% to account for rising fuel costs",
+        "The government has promised to improve bus services and routes",
+        "Passengers are concerned about the impact on their daily commutes"
+      ],
+      "source": "West Bengal Transport Minister, Shyama Prasad",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
