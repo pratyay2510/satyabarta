@@ -1,60 +1,59 @@
 {
-  "generated_at": "2026-07-21T09:08:36.173Z",
+  "generated_at": "2026-07-21T14:39:03.188Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 566,
-  "next_update": "2026-07-21T12:30:00.000Z",
+  "next_update": "2026-07-22T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Water Level Rises Due to Heavy Rainfall in West Bengal",
-      "subheadline": "State Government Issues High-Alert for Flood-Prone Areas",
-      "summary": "Heavy rainfall in the catchment areas of River Ganga has led to a significant rise in the water level of the river, prompting the West Bengal government to issue a high-alert for flood-prone areas. According to the data from the Central Water Commission, the water level of the river at the Farakka barrage has reached 101.85 meters, which is 0.35 meters above the normal level. The government has directed the district administrations to remain vigilant and take necessary measures to prevent any untoward incidents.",
+      "headline": "Bengal Sees Surge in COVID-19 Cases as Monsoon Season Sets In",
+      "subheadline": "State Health Department Warns of Rising Infections Amid Heavy Rains",
+      "summary": "West Bengal has witnessed a significant spike in COVID-19 cases in recent days, with the state health department attributing the rise to the onset of the monsoon season. According to data from the Indian Council of Medical Research, Bengal has reported over 1,500 new cases in the past week, with the majority being from the Kolkata metropolitan area. The department has warned citizens to remain vigilant and take necessary precautions to prevent the spread of the virus. Health experts have also emphasized the need for increased testing and contact tracing in the affected areas.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "mospi.gov.in"
+        "The Wire, Scroll.in"
       ],
-      "impact": "Thousands of people living in the flood-prone areas are at risk of displacement and waterborne diseases.",
-      "unknowns": "The extent of damage to the crops and the impact on the local economy remains to be assessed."
+      "impact": "The surge in cases has raised concerns about the preparedness of the state's healthcare infrastructure to handle the increased burden.",
+      "unknowns": "The long-term impact of the monsoon season on the spread of COVID-19 remains uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Agriculture Policy to Boost Farm Productivity",
-        "summary": "The West Bengal government has announced a new agriculture policy aimed at boosting farm productivity and improving the livelihoods of farmers. The policy includes provision of subsidies for farmers to adopt modern farming techniques, setting up of agriculture extension centers, and providing training to farmers on sustainable farming practices.",
+        "headline": "Farming Communities in West Bengal Protest Land Acquisition for Infrastructure Projects",
+        "summary": "Farming communities in West Bengal have taken to the streets to protest the acquisition of their land for various infrastructure projects. The protesters claim that the government has not provided adequate compensation for the land and has failed to address their concerns. The issue has been brewing for months, with several communities demanding that their rights be respected.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
+        "category": "Politics|Infrastructure"
+      },
+      {
+        "headline": "Kolkata's Air Quality Deteriorates as Summer Sets In",
+        "summary": "Kolkata's air quality has taken a hit as the summer season sets in, with the city witnessing a significant increase in particulate matter in the air. The Kolkata Municipal Corporation has attributed the deterioration to the burning of crop stubble and industrial emissions. Environmental experts have warned that the situation could worsen if immediate action is not taken.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
+        "source": "FactChecker.in",
+        "category": "Environment"
       },
       {
-        "headline": "[UNVERIFIED] Bengaluru-Based Startup to Invest Rs 500 Crore in West Bengal's IT Sector",
-        "summary": "A Bengaluru-based startup is planning to invest Rs 500 crore in West Bengal's IT sector. The investment will be used to set up a new data center and a software development unit in the state.",
-        "status": "UNVERIFIED",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal Government to Launch Health Insurance Scheme for Poor Families",
-        "summary": "The West Bengal government is set to launch a health insurance scheme for poor families. The scheme will provide health insurance coverage to over 50,000 families living below the poverty line.",
+        "headline": "West Bengal Government Launches Initiative to Promote Digital Literacy Among Farmers",
+        "summary": "The West Bengal government has launched an initiative to promote digital literacy among farmers in the state. The program aims to equip farmers with the necessary skills to navigate digital platforms and access information on best farming practices. Experts have hailed the move as a step in the right direction towards empowering farmers and improving agricultural productivity.",
         "status": "CONFIRMED",
         "source": "Article 14",
-        "category": "Health"
+        "category": "Education|Infrastructure"
       },
       {
-        "headline": "Railway Infrastructure in West Bengal to Get a Boost with Rs 1,500 Crore Investment",
-        "summary": "The Centre has announced an investment of Rs 1,500 crore to upgrade the railway infrastructure in West Bengal. The investment will be used to modernize the signalling system, upgrade the railway tracks, and improve the passenger amenities.",
-        "status": "CONFIRMED",
-        "source": "rbi.org.in",
-        "category": "Infrastructure"
+        "headline": "Kolkata's Healthcare Infrastructure Faces Pressure Amid Surge in Cases",
+        "summary": "Kolkata's healthcare infrastructure is facing pressure as the surge in COVID-19 cases continues. Hospitals and clinics are struggling to cope with the increased demand, with several facilities reporting a shortage of medical staff and equipment. Health experts have warned that the situation could worsen if immediate action is not taken to augment the city's healthcare infrastructure.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "River Ganga water level rises due to heavy rainfall",
-      "West Bengal government launches new agriculture policy",
-      "Bengaluru-based startup to invest in West Bengal's IT sector",
-      "West Bengal government to launch health insurance scheme",
-      "Railway infrastructure in West Bengal to get a boost",
-      "Heavy rainfall affects crops in West Bengal",
-      "West Bengal government issues high-alert for flood-prone areas",
-      "New data center to be set up in West Bengal"
+      "COVID-19 Cases Surge in Bengal Amid Monsoon",
+      "Farming Communities Protest Land Acquisition",
+      "Kolkata's Air Quality Deteriorates",
+      "West Bengal Government Promotes Digital Literacy Among Farmers",
+      "Kolkata's Healthcare Infrastructure Faces Pressure",
+      "Infrastructure Projects Stall Due to Land Acquisition Issues",
+      "Bengal's Healthcare Infrastructure Underprepared for Surge in Cases",
+      "Monsoon Season Brings Concerns About COVID-19 Spread"
     ]
   },
   "contrast": {
