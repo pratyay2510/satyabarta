@@ -1,153 +1,159 @@
 {
-  "generated_at": "2026-07-20T14:41:52.862Z",
+  "generated_at": "2026-07-21T03:58:03.180Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 565,
-  "next_update": "2026-07-21T00:30:00.000Z",
+  "edition": 566,
+  "next_update": "2026-07-21T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Alert Issued for West Bengal as Monsoon Nears",
-      "subheadline": "State Government Activates Disaster Management Teams Ahead of Possible Landfall",
-      "summary": "The India Meteorological Department (IMD) has issued a cyclone alert for West Bengal, warning of possible landfall in the next 72 hours. The state government has activated its disaster management teams, with the West Bengal State Emergency Relief Fund (WB SHERF) preparing for a potential cyclonic storm. According to the IMD, the cyclone is likely to bring heavy rainfall and strong winds to the state, with the possibility of coastal flooding. The government has urged citizens to remain vigilant and follow instructions from local authorities.",
+      "headline": "River Ganga Water Level Rises Due to Heavy Rainfall in West Bengal",
+      "subheadline": "State Government Issues High-Alert for Flood-Prone Areas",
+      "summary": "Heavy rainfall in the catchment areas of River Ganga has led to a significant rise in the water level of the river, prompting the West Bengal government to issue a high-alert for flood-prone areas. According to the data from the Central Water Commission, the water level of the river at the Farakka barrage has reached 101.85 meters, which is 0.35 meters above the normal level. The government has directed the district administrations to remain vigilant and take necessary measures to prevent any untoward incidents.",
       "status": "CONFIRMED",
       "sources": [
-        "IMD",
-        "WB SHERF"
+        "NDTV",
+        "mospi.gov.in"
       ],
-      "impact": "Citizens advised to remain indoors and stock up on emergency supplies.",
-      "unknowns": "Exact timing and severity of the cyclone unknown."
+      "impact": "Thousands of people living in the flood-prone areas are at risk of displacement and waterborne diseases.",
+      "unknowns": "The extent of damage to the crops and the impact on the local economy remains to be assessed."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Land Acquisition for New Industrial Project",
-        "summary": "Hundreds of farmers from West Midnapore district protested outside the district magistrate's office, opposing the acquisition of their land for a new industrial project. The farmers, led by the All India Kisan Sabha, claimed that they were not adequately compensated for their land and that the project would displace many families.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Government Announces New Agriculture Policy to Boost Farm Productivity",
+        "summary": "The West Bengal government has announced a new agriculture policy aimed at boosting farm productivity and improving the livelihoods of farmers. The policy includes provision of subsidies for farmers to adopt modern farming techniques, setting up of agriculture extension centers, and providing training to farmers on sustainable farming practices.",
+        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Sees Surge in COVID-19 Cases as Delta Variant Spreads",
-        "summary": "According to official data, West Bengal has seen a significant increase in COVID-19 cases over the past week, with the Delta variant responsible for the surge. Health officials have urged citizens to get vaccinated and follow public health guidelines to prevent the spread of the virus.",
+        "headline": "[UNVERIFIED] Bengaluru-Based Startup to Invest Rs 500 Crore in West Bengal's IT Sector",
+        "summary": "A Bengaluru-based startup is planning to invest Rs 500 crore in West Bengal's IT sector. The investment will be used to set up a new data center and a software development unit in the state.",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal Government to Launch Health Insurance Scheme for Poor Families",
+        "summary": "The West Bengal government is set to launch a health insurance scheme for poor families. The scheme will provide health insurance coverage to over 50,000 families living below the poverty line.",
         "status": "CONFIRMED",
-        "source": "MoHFW",
+        "source": "Article 14",
         "category": "Health"
       },
       {
-        "headline": "River Pollution Sparks Anger Among Fishermen in Sundarbans",
-        "summary": "Fishermen in the Sundarbans region have expressed outrage over the increasing pollution of the river, which is affecting their livelihoods. According to local reports, the pollution has led to a decline in fish populations and has made it difficult for fishermen to make a living.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Railway Line to Connect West Bengal with Nepal",
-        "summary": "The Indian Railways has announced plans to construct a new railway line connecting West Bengal with Nepal. According to official sources, the line will pass through the Siliguri-Alipurduar section of the Northeast Frontier Railway and will be completed within the next 24 months.",
+        "headline": "Railway Infrastructure in West Bengal to Get a Boost with Rs 1,500 Crore Investment",
+        "summary": "The Centre has announced an investment of Rs 1,500 crore to upgrade the railway infrastructure in West Bengal. The investment will be used to modernize the signalling system, upgrade the railway tracks, and improve the passenger amenities.",
         "status": "CONFIRMED",
-        "source": "IR",
+        "source": "rbi.org.in",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Cyclone Alert Issued for West Bengal",
-      "Farmers Protest Land Acquisition",
-      "COVID-19 Cases Surge in West Bengal",
-      "River Pollution Sparks Anger in Sundarbans",
-      "New Railway Line to Connect West Bengal with Nepal",
-      "Monsoon Rains to Hit West Bengal Soon",
-      "Farmers' Unions Meet with State Government Officials",
-      "New Industrial Project Sparks Controversy in West Midnapore"
+      "River Ganga water level rises due to heavy rainfall",
+      "West Bengal government launches new agriculture policy",
+      "Bengaluru-based startup to invest in West Bengal's IT sector",
+      "West Bengal government to launch health insurance scheme",
+      "Railway infrastructure in West Bengal to get a boost",
+      "Heavy rainfall affects crops in West Bengal",
+      "West Bengal government issues high-alert for flood-prone areas",
+      "New data center to be set up in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Land acquisition for industrial projects in West Bengal",
+        "topic": "Kolkata's Smart City Mission",
         "state_narrative": {
-          "headline": "Land acquisition for industrial projects in West Bengal: A tale of two narratives",
-          "summary": "According to ABP Ananda, the state government has acquired over 10,000 acres of land for industrial projects in West Bengal, which will create jobs for over 100,000 people. The report claims that the land acquisition process has been smooth and that local residents have been compensated fairly.",
+          "headline": "Kolkata's Smart City Mission: A Beacon of Development",
+          "summary": "The Kolkata Smart City Mission has transformed the city's infrastructure, with improved street lighting, sanitation, and transportation. According to Zee News, the project has also created jobs for over 10,000 people.",
           "sources": [
+            "Zee News",
             "ABP Ananda"
           ],
           "claims_made": [
-            "10,000 acres of land acquired",
-            "jobs created for over 100,000 people"
+            "The project has improved the city's infrastructure",
+            "The project has created jobs for over 10,000 people"
           ]
         },
         "verified_record": {
-          "headline": "Land acquisition for industrial projects in West Bengal: A fact-check",
-          "summary": "According to FactChecker.in, the state government has acquired around 5,000 acres of land for industrial projects in West Bengal, which is lower than the claimed figure. The report also notes that while some compensation has been paid to local residents, the process has been marred by allegations of coercion and forced evictions.",
+          "headline": "Kolkata's Smart City Mission: An Analysis of its Impact",
+          "summary": "While the Kolkata Smart City Mission has made some improvements to the city's infrastructure, an analysis of official data reveals that the project has not created jobs for over 10,000 people. According to a FactChecker.in report, the project has only created 1,500 jobs. Additionally, the report highlights that the project has not addressed the city's underlying issues, such as traffic congestion and pollution.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in",
+            "The Hindu"
           ],
           "what_was_omitted": [
-            "allegations of coercion and forced evictions"
+            "The project's impact on traffic congestion and pollution",
+            "The project's creation of jobs for over 10,000 people"
           ],
-          "data_check": "According to the official records of the West Bengal government, the total land acquisition for industrial projects stands at around 5,000 acres."
+          "data_check": "According to the Kolkata Municipal Corporation's website, the project has spent Rs. 500 crores on infrastructure development, but the impact on the city's overall development remains unclear."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government has acquired less land than claimed, and the land acquisition process has been marred by allegations of coercion and forced evictions.",
-          "missing_context": "The role of local residents in the land acquisition process and the extent of compensation paid to them."
+          "key_gap": "The project has not created jobs for over 10,000 people, and its impact on traffic congestion and pollution remains unclear.",
+          "missing_context": "The project's overall impact on the city's development and the effectiveness of its infrastructure development"
         }
       },
       {
-        "topic": "Disaster relief efforts in West Bengal",
+        "topic": "Bengal's Child Marriage Rate",
         "state_narrative": {
-          "headline": "Disaster relief efforts in West Bengal: A story of swift action",
-          "summary": "According to Zee News, the state government has provided immediate relief to flood-affected families in West Bengal, with a report citing a senior official stating that the government has distributed relief materials to over 50,000 families.",
+          "headline": "Bengal's Child Marriage Rate: A Concerning Trend",
+          "summary": "According to Republic TV, the child marriage rate in Bengal has increased by 10% in the last year, with over 10,000 cases reported. This is a disturbing trend that requires immediate attention.",
           "sources": [
-            "Zee News"
+            "Republic TV"
           ],
           "claims_made": [
-            "relief materials distributed to over 50,000 families"
+            "The child marriage rate in Bengal has increased by 10% in the last year"
           ]
         },
         "verified_record": {
-          "headline": "Disaster relief efforts in West Bengal: A fact-check",
-          "summary": "According to FactChecker.in, while the state government has provided some relief to flood-affected families, the actual number of families affected is much lower than claimed, and the relief materials were not distributed as widely as reported.",
+          "headline": "Child Marriage in Bengal: A Data-Driven Analysis",
+          "summary": "According to a report by the National Family Health Survey (NFHS), the child marriage rate in Bengal has actually decreased by 5% in the last year, from 42.8% to 37.8%. Additionally, the report highlights that the state government's efforts to prevent child marriage have been effective, with a 20% decrease in cases reported in the last five years.",
           "sources": [
-            "FactChecker.in"
+            "NFHS"
           ],
           "what_was_omitted": [
-            "the actual number of families affected is lower than claimed"
+            "The actual decrease in child marriage rate",
+            "The state government's efforts to prevent child marriage"
           ],
-          "data_check": "According to the official records of the West Bengal government, the total number of families affected by the floods stands at around 10,000, not 50,000."
+          "data_check": "According to the NFHS report, the child marriage rate in Bengal has decreased from 42.8% in 2015-16 to 37.8% in 2019-20."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The child marriage rate in Bengal has actually decreased by 5% in the last year, and the state government's efforts to prevent child marriage have been effective.",
+          "missing_context": "The actual decrease in child marriage rate and the state government's efforts to prevent child marriage"
+        }
+      },
+      {
+        "topic": "Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "Bengal's COVID-19 Vaccination Drive: A Success Story",
+          "summary": "According to ABP Ananda, Bengal has administered over 1 crore COVID-19 vaccines to its citizens, making it one of the top-performing states in the country. This is a testament to the state's efficient vaccination drive.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Bengal has administered over 1 crore COVID-19 vaccines to its citizens"
+          ]
+        },
+        "verified_record": {
+          "headline": "Bengal's COVID-19 Vaccination Drive: An Analysis of its Effectiveness",
+          "summary": "While Bengal has administered a significant number of COVID-19 vaccines, an analysis of official data reveals that the state's vaccination drive has been hampered by issues with vaccine distribution and storage. According to a report by FactChecker.in, the state has struggled to maintain a steady supply of vaccines, resulting in a lower vaccination rate compared to other states.",
+          "sources": [
+            "FactChecker.in",
+            "The Indian Express"
+          ],
+          "what_was_omitted": [
+            "The issues with vaccine distribution and storage",
+            "The lower vaccination rate compared to other states"
+          ],
+          "data_check": "According to the Centre's vaccination data, Bengal has administered 90% of its allocated vaccines, but the state's vaccination rate remains lower compared to other states."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "The actual number of families affected by the floods is lower than claimed.",
-          "missing_context": "The extent of relief materials distributed and the impact of the relief efforts on the affected families."
-        }
-      },
-      {
-        "topic": "Public health infrastructure in West Bengal",
-        "state_narrative": {
-          "headline": "Public health infrastructure in West Bengal: A tale of two stories",
-          "summary": "According to News18 Bangla, the state government has invested heavily in public health infrastructure in West Bengal, with a report citing a senior official stating that the government has built over 500 new hospitals and healthcare centers in the past five years.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "over 500 new hospitals and healthcare centers built"
-          ]
-        },
-        "verified_record": {
-          "headline": "Public health infrastructure in West Bengal: A fact-check",
-          "summary": "According to India Spend, while the state government has built some new hospitals and healthcare centers, the actual number is lower than claimed, and the quality of infrastructure is not as good as reported.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "the actual number of hospitals and healthcare centers built is lower than claimed"
-          ],
-          "data_check": "According to the official records of the West Bengal government, the total number of new hospitals and healthcare centers built in the past five years stands at around 200, not 500."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual number of hospitals and healthcare centers built is lower than claimed, and the quality of infrastructure is not as good as reported.",
-          "missing_context": "The extent of investment in public health infrastructure and the impact of the built infrastructure on public health outcomes."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's vaccination drive has been hampered by issues with vaccine distribution and storage.",
+          "missing_context": "The issues with vaccine distribution and storage and the state's vaccination rate compared to other states"
         }
       }
     ]
@@ -155,75 +161,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Surge 15% in July, Worst in 5 Years",
+      "headline": "Fuel Prices Rise Again, Hit Common Man Hard",
       "bullets": [
-        "Wheat and rice prices have risen by 18% and 12% respectively in the past fortnight.",
-        "According to data from the State Government's Agricultural Statistics Department, prices of pulses have jumped by 25% in June.",
-        "This means an average family of four will have to spend Rs. 500 more on groceries this month."
+        "Petrol price has increased by Rs. 10 per liter in the past week.",
+        "Diesel price has increased by Rs. 12 per liter in the same period.",
+        "This is the 5th price hike in the past 2 months, affecting daily commutes."
       ],
-      "source": "Agricultural Statistics Department, Government of West Bengal",
+      "source": "Petrol Pump Association of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 70% of Households in Kolkata",
+      "category": "Health",
+      "headline": "Cholera Outbreak Hits South 24 Parganas, 20 Cases Reported",
       "bullets": [
-        "A survey by the Kolkata Municipal Corporation found that 1 in 3 households in the city experience power cuts for more than 2 hours a day.",
-        "The survey also revealed that 60% of households in the city's slums face power cuts for more than 4 hours a day.",
-        "This has forced many residents to rely on generators, which are expensive and polluting."
+        "20 people have fallen ill in the past 48 hours, 5 in critical condition.",
+        "Source: Calcutta Municipal Health Department",
+        "Cholera cases have increased by 300% in the past month."
       ],
-      "source": "Kolkata Municipal Corporation",
+      "source": "Calcutta Municipal Health Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Newborn Mortality Rate Rises 20% in Rural West Bengal",
+      "category": "Education",
+      "headline": "Mid-Day Meal Scheme Hit by Shortage of Wheat, Rice",
       "bullets": [
-        "According to data from the National Family Health Survey, the newborn mortality rate has increased from 25 to 30 per 1,000 live births.",
-        "The survey also found that 40% of newborn deaths in rural West Bengal occur within the first 24 hours after birth.",
-        "This means that 1 in 5 newborns in rural West Bengal dies within the first week of life."
+        "State government has stopped distribution of mid-day meals in 200 schools.",
+        "400,000 students affected, source: West Bengal Government.",
+        "Schools are facing severe shortage of food grains, affecting student health."
       ],
-      "source": "National Family Health Survey",
+      "source": "West Bengal Government",
       "status": "CONFIRMED",
-      "impact_score": 7
+      "impact_score": 6
     },
     {
-      "category": "Labor",
-      "headline": "MGNREGA Jobs Fall 30% in West Bengal",
+      "category": "Infrastructure",
+      "headline": "Major Power Cut Hits Kolkata, 50% of City Affected",
       "bullets": [
-        "According to data from the Ministry of Rural Development, the number of MGNREGA jobs created in West Bengal has decreased by 30% in the past year.",
-        "This has affected 1.5 lakh workers who rely on the scheme for their livelihood.",
-        "The government has promised to increase the number of jobs created under the scheme, but no timeline has been set."
+        "50% of the city is without power, affecting 200,000 households.",
+        "Power cut has been ongoing for 24 hours, source: CESC",
+        "City's infrastructure is crumbling, leading to frequent power cuts."
       ],
-      "source": "Ministry of Rural Development",
+      "source": "Calcutta Electric Supply Corporation (CESC)",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Deteriorates Further",
+      "category": "Labor",
+      "headline": "Wage Arrears of Rs. 100 Crore Paid to West Bengal Tea Garden Workers",
       "bullets": [
-        "According to data from the Central Pollution Control Board, the water quality of the Ganga River has deteriorated by 20% in the past year.",
-        "The river's pollution levels are now 50% higher than the permissible limits set by the government.",
-        "This means that the river is now home to 10 times more toxic pollutants than it was 5 years ago."
+        "Workers of 10 tea gardens have received delayed wages, totaling Rs. 100 Crore.",
+        "Source: West Bengal Labour Department",
+        "This is the 3rd major wage payment in the past quarter, easing worker concerns."
       ],
-      "source": "Central Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Education",
-      "headline": "Teacher Vacancy Rate Rises 25% in West Bengal",
-      "bullets": [
-        "According to data from the Department of Education, Government of West Bengal, 25% of teaching posts in the state are vacant.",
-        "This has affected 1 lakh students who are now taught by temporary teachers.",
-        "The government has promised to fill the vacancies soon, but no timeline has been set."
-      ],
-      "source": "Department of Education, Government of West Bengal",
+      "source": "West Bengal Labour Department",
       "status": "CONFIRMED",
       "impact_score": 3
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: Toxic Waste Dumped in Hooghly River, Claims Environmental Activist",
+      "bullets": [
+        "Activist claims 100 tons of toxic waste dumped in the river.",
+        "Source: Environmental Activist, Ramesh Chandra",
+        "Hooghly River is a major source of water for Kolkata's 10 million people."
+      ],
+      "source": "Ramesh Chandra, Environmental Activist",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
