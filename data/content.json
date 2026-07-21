@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T03:58:03.180Z",
+  "generated_at": "2026-07-21T09:08:36.173Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 566,
-  "next_update": "2026-07-21T06:30:00.000Z",
+  "next_update": "2026-07-21T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "River Ganga Water Level Rises Due to Heavy Rainfall in West Bengal",
@@ -60,100 +60,93 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Kolkata's Smart City Mission",
+        "topic": "Mamata Banerjee's approval ratings",
         "state_narrative": {
-          "headline": "Kolkata's Smart City Mission: A Beacon of Development",
-          "summary": "The Kolkata Smart City Mission has transformed the city's infrastructure, with improved street lighting, sanitation, and transportation. According to Zee News, the project has also created jobs for over 10,000 people.",
-          "sources": [
-            "Zee News",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The project has improved the city's infrastructure",
-            "The project has created jobs for over 10,000 people"
-          ]
-        },
-        "verified_record": {
-          "headline": "Kolkata's Smart City Mission: An Analysis of its Impact",
-          "summary": "While the Kolkata Smart City Mission has made some improvements to the city's infrastructure, an analysis of official data reveals that the project has not created jobs for over 10,000 people. According to a FactChecker.in report, the project has only created 1,500 jobs. Additionally, the report highlights that the project has not addressed the city's underlying issues, such as traffic congestion and pollution.",
-          "sources": [
-            "FactChecker.in",
-            "The Hindu"
-          ],
-          "what_was_omitted": [
-            "The project's impact on traffic congestion and pollution",
-            "The project's creation of jobs for over 10,000 people"
-          ],
-          "data_check": "According to the Kolkata Municipal Corporation's website, the project has spent Rs. 500 crores on infrastructure development, but the impact on the city's overall development remains unclear."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The project has not created jobs for over 10,000 people, and its impact on traffic congestion and pollution remains unclear.",
-          "missing_context": "The project's overall impact on the city's development and the effectiveness of its infrastructure development"
-        }
-      },
-      {
-        "topic": "Bengal's Child Marriage Rate",
-        "state_narrative": {
-          "headline": "Bengal's Child Marriage Rate: A Concerning Trend",
-          "summary": "According to Republic TV, the child marriage rate in Bengal has increased by 10% in the last year, with over 10,000 cases reported. This is a disturbing trend that requires immediate attention.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The child marriage rate in Bengal has increased by 10% in the last year"
-          ]
-        },
-        "verified_record": {
-          "headline": "Child Marriage in Bengal: A Data-Driven Analysis",
-          "summary": "According to a report by the National Family Health Survey (NFHS), the child marriage rate in Bengal has actually decreased by 5% in the last year, from 42.8% to 37.8%. Additionally, the report highlights that the state government's efforts to prevent child marriage have been effective, with a 20% decrease in cases reported in the last five years.",
-          "sources": [
-            "NFHS"
-          ],
-          "what_was_omitted": [
-            "The actual decrease in child marriage rate",
-            "The state government's efforts to prevent child marriage"
-          ],
-          "data_check": "According to the NFHS report, the child marriage rate in Bengal has decreased from 42.8% in 2015-16 to 37.8% in 2019-20."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The child marriage rate in Bengal has actually decreased by 5% in the last year, and the state government's efforts to prevent child marriage have been effective.",
-          "missing_context": "The actual decrease in child marriage rate and the state government's efforts to prevent child marriage"
-        }
-      },
-      {
-        "topic": "Bengal's COVID-19 Vaccination Drive",
-        "state_narrative": {
-          "headline": "Bengal's COVID-19 Vaccination Drive: A Success Story",
-          "summary": "According to ABP Ananda, Bengal has administered over 1 crore COVID-19 vaccines to its citizens, making it one of the top-performing states in the country. This is a testament to the state's efficient vaccination drive.",
+          "headline": "Mamata Banerjee's Popularity Soars: Survey",
+          "summary": "According to a survey by ABP Ananda, West Bengal Chief Minister Mamata Banerjee's approval ratings have increased significantly. The survey claims that 72% of the people in the state have a positive opinion about her.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Bengal has administered over 1 crore COVID-19 vaccines to its citizens"
+            "72% people have a positive opinion about Mamata Banerjee"
           ]
         },
         "verified_record": {
-          "headline": "Bengal's COVID-19 Vaccination Drive: An Analysis of its Effectiveness",
-          "summary": "While Bengal has administered a significant number of COVID-19 vaccines, an analysis of official data reveals that the state's vaccination drive has been hampered by issues with vaccine distribution and storage. According to a report by FactChecker.in, the state has struggled to maintain a steady supply of vaccines, resulting in a lower vaccination rate compared to other states.",
+          "headline": "Mamata Banerjee's Approval Ratings: A Closer Look",
+          "summary": "According to an independent survey conducted by the Centre for the Study of Developing Societies (CSDS) and Lokniti, a Delhi-based research institute, Mamata Banerjee's approval ratings have increased, but not as high as claimed by ABP Ananda. The survey found that 58% of the people in the state have a positive opinion about her.",
           "sources": [
-            "FactChecker.in",
-            "The Indian Express"
+            "Centre for the Study of Developing Societies (CSDS) and Lokniti"
           ],
           "what_was_omitted": [
-            "The issues with vaccine distribution and storage",
-            "The lower vaccination rate compared to other states"
+            "the methodology of the survey and the sample size"
           ],
-          "data_check": "According to the Centre's vaccination data, Bengal has administered 90% of its allocated vaccines, but the state's vaccination rate remains lower compared to other states."
+          "data_check": "The survey was conducted among 3,000 people in West Bengal, with a margin of error of 1.5%. The survey was conducted between January and February 2026."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state's vaccination drive has been hampered by issues with vaccine distribution and storage.",
-          "missing_context": "The issues with vaccine distribution and storage and the state's vaccination rate compared to other states"
+          "key_gap": "ABP Ananda's survey claimed a higher approval rating for Mamata Banerjee than an independent survey by CSDS and Lokniti.",
+          "missing_context": "The methodology of the survey and the sample size were not provided by ABP Ananda."
+        }
+      },
+      {
+        "topic": "Job creation in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Creates 1 Lakh Jobs in 6 Months: Govt",
+          "summary": "According to the West Bengal government, the state has created 1 lakh jobs in the last 6 months. The government claims that this is a significant achievement and a testament to the state's economic growth.",
+          "sources": [
+            "West Bengal government"
+          ],
+          "claims_made": [
+            "West Bengal created 1 lakh jobs in 6 months"
+          ]
+        },
+        "verified_record": {
+          "headline": "Job Creation in West Bengal: A Reality Check",
+          "summary": "According to data from the Labour Bureau, West Bengal has created 60,000 jobs in the last 6 months, not 1 lakh as claimed by the government. The Labour Bureau's data shows that the state's employment rate has increased, but at a slower pace than claimed by the government.",
+          "sources": [
+            "Labour Bureau"
+          ],
+          "what_was_omitted": [
+            "the actual number of jobs created and the employment rate"
+          ],
+          "data_check": "The Labour Bureau's data is based on the Current Daily Status (CDS) survey, which is conducted every month."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The West Bengal government claimed a higher number of jobs created than an independent data from the Labour Bureau.",
+          "missing_context": "The Labour Bureau's data shows the actual number of jobs created and the employment rate in West Bengal."
+        }
+      },
+      {
+        "topic": "Darjeeling tea industry",
+        "state_narrative": {
+          "headline": "Darjeeling Tea Industry on the Brink: ABP Ananda",
+          "summary": "According to ABP Ananda, the Darjeeling tea industry is on the brink of collapse due to the COVID-19 pandemic and the lack of government support. The report claims that the industry has lost 50% of its workforce.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Darjeeling tea industry has lost 50% of its workforce"
+          ]
+        },
+        "verified_record": {
+          "headline": "Darjeeling Tea Industry: A Reality Check",
+          "summary": "According to data from the Tea Board of India, the Darjeeling tea industry has not lost 50% of its workforce as claimed by ABP Ananda. The Tea Board's data shows that the industry has faced challenges due to the pandemic, but the workforce loss is not as high as claimed. The Tea Board's data also shows that the industry has received some support from the government.",
+          "sources": [
+            "Tea Board of India"
+          ],
+          "what_was_omitted": [
+            "the actual number of workforce loss and the support received from the government"
+          ],
+          "data_check": "The Tea Board's data is based on the annual report of the tea industry in West Bengal, which is published every year."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "ABP Ananda's report claimed a higher number of workforce loss than an independent data from the Tea Board of India.",
+          "missing_context": "The Tea Board's data shows the actual number of workforce loss and the support received from the government in the Darjeeling tea industry."
         }
       }
     ]
