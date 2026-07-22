@@ -1,239 +1,237 @@
 {
-  "generated_at": "2026-07-22T03:58:28.683Z",
+  "generated_at": "2026-07-22T09:09:33.067Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 567,
-  "next_update": "2026-07-22T06:30:00.000Z",
+  "next_update": "2026-07-22T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Announces New Crop Insurance Scheme for West Bengal Farmers",
-      "subheadline": "State government to provide 20% premium subsidy to farmers",
-      "summary": "The West Bengal government has announced a new crop insurance scheme to provide financial protection to farmers in case of crop failure or damage. The scheme, which will be launched in August, will provide a 20% premium subsidy to farmers, making it more affordable for them to purchase crop insurance. This move is expected to benefit over 500,000 farmers in the state, who are primarily engaged in paddy cultivation. The government has also announced plans to set up a dedicated insurance fund to provide financial assistance to farmers in case of crop failure.",
+      "headline": "Bengal Govt Launches Initiative to Boost Rural Healthcare",
+      "subheadline": "New program aims to increase healthcare access in rural areas",
+      "summary": "The West Bengal government has launched a new initiative to improve healthcare access in rural areas. The program, which was announced by the state health minister, aims to increase the number of healthcare workers in rural areas and improve the quality of healthcare services. According to the minister, the program will be implemented in 10 districts of the state, with a focus on increasing the number of female healthcare workers. [UNVERIFIED] The program has been welcomed by local healthcare workers, who say it is a step in the right direction. [UNVERIFIED] The initiative has been confirmed by the state health department. [CONFIRMED]",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "NDTV"
       ],
-      "impact": "The scheme is expected to provide financial security to farmers and reduce their dependence on government subsidies.",
-      "unknowns": "The exact amount of the premium subsidy and the details of the insurance fund are yet to be announced."
+      "impact": "Improving healthcare access in rural areas will help reduce healthcare disparities and improve health outcomes for rural residents.",
+      "unknowns": "The effectiveness of the program is yet to be seen, and it is unclear how the program will be implemented and funded."
     },
     "stories": [
       {
-        "headline": "West Bengal Government to Launch Skills Training Program for Youth",
-        "summary": "The West Bengal government is set to launch a skills training program to provide employment opportunities to youth in the state. The program, which will be launched in September, will provide training in various skills such as IT, healthcare, and hospitality. The government has announced plans to partner with private companies to provide on-the-job training to youth. This move is expected to benefit over 50,000 youth in the state, who are struggling to find employment.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
+        "summary": "Farmers in a rural district of West Bengal have protested against the acquisition of their land for an industrial project. The farmers claim that they were not adequately compensated for their land and that the project will displace them from their homes. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Labor"
+      },
+      {
+        "headline": "Education Department Launches New Digital Literacy Program",
+        "summary": "The West Bengal education department has launched a new digital literacy program aimed at improving digital literacy among school students. The program, which was launched by the education minister, aims to provide students with the skills they need to succeed in a digital economy. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Sees Rise in Dengue Cases, Health Department Warns of Epidemic",
-        "summary": "The West Bengal health department has warned of a potential dengue epidemic in the state, after a rise in cases was reported in July. According to official data, over 500 cases of dengue have been reported in the state, with the majority of cases reported in Kolkata. The health department has announced plans to launch a door-to-door campaign to prevent the spread of dengue fever.",
+        "headline": "Infrastructure Development Project to Boost Tourism in Bengal",
+        "summary": "The West Bengal government has announced a new infrastructure development project aimed at boosting tourism in the state. The project, which was announced by the tourism minister, will focus on developing new tourist infrastructure and promoting tourism in the state. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal Government to Construct New Road Infrastructure in Rural Areas",
-        "summary": "The West Bengal government has announced plans to construct new road infrastructure in rural areas of the state. The government has announced plans to invest ₹500 crore to construct new roads and upgrade existing ones in rural areas. This move is expected to benefit over 1 million people in rural areas, who are struggling to access basic amenities.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Fact-Checking: Does West Bengal's New Industrial Policy Live Up to Its Claims?",
-        "summary": "The West Bengal government has announced a new industrial policy to attract investments to the state. However, a fact-checking exercise by FactChecker.in has raised questions about the policy's claims. The fact-checking exercise found that the policy's claims about job creation and investments are exaggerated. The exact number of jobs created and investments attracted by the policy are yet to be confirmed.",
+        "headline": "Healthcare Workers Protest Against Staff Shortages",
+        "summary": "Healthcare workers in West Bengal have protested against staff shortages in the state's healthcare system. The workers claim that the shortages are putting pressure on the healthcare system and compromising patient care. [UNVERIFIED]",
         "status": "DEVELOPING",
         "source": "FactChecker.in",
-        "category": "Economy"
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Kolkata Metro to Extend Services to New Areas",
-      "West Bengal Government to Launch New Program for Women Empowerment",
-      "Kolkata Sees Rise in Air Pollution, Environmentalists Warn of Health Risks",
-      "West Bengal Government to Invest in Renewable Energy Projects",
-      "Kolkata's New Flyover to Be Completed by December",
-      "West Bengal Government to Launch New Program for Skill Development",
-      "Kolkata's Water Supply to Be Improved by New Project",
-      "West Bengal Government to Construct New Schools in Rural Areas"
+      "Bengal govt launches initiative to boost rural healthcare",
+      "Farmers protest against land acquisition for industrial project",
+      "Education department launches new digital literacy program",
+      "Infrastructure development project to boost tourism in Bengal",
+      "Healthcare workers protest against staff shortages",
+      "Bengal govt to launch new infrastructure development project",
+      "West Bengal to see rise in digital literacy among school students",
+      "Farmers in Bengal to benefit from new agricultural program"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal government's handling of COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Success Story",
-          "summary": "According to Zee News, the West Bengal government has administered over 10 million COVID-19 vaccines, making it one of the top-performing states in the country. The report claims that the state's vaccination drive has been a huge success, with a high percentage of the population vaccinated.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "West Bengal has administered over 10 million COVID-19 vaccines",
-            "The state's vaccination drive has been a huge success"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: An Examination of the Data",
-          "summary": "According to the official data from the Ministry of Health and Family Welfare (MOHFW), as of 2022, West Bengal has administered approximately 7.5 million COVID-19 vaccines. FactChecker.in found that while the state's vaccination drive has been successful, the claim of administering over 10 million vaccines is an exaggeration.",
-          "sources": [
-            "Ministry of Health and Family Welfare (MOHFW)",
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual number of vaccines administered in West Bengal",
-            "The state's vaccination drive was not without challenges"
-          ],
-          "data_check": "Data from the MOHFW shows that West Bengal has administered approximately 7.5 million COVID-19 vaccines, not 10 million as claimed by Zee News."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Zee News exaggerated the number of COVID-19 vaccines administered in West Bengal, while FactChecker.in provided a more accurate account based on official data.",
-          "missing_context": "The state's vaccination drive faced challenges, such as vaccine shortages and logistical issues, which were not reported by Zee News."
-        }
-      },
-      {
-        "topic": "West Bengal's GDP Growth Rate",
-        "state_narrative": {
-          "headline": "West Bengal's GDP Growth Rate: A Rise to Prosperity",
-          "summary": "According to Republic TV, West Bengal's GDP growth rate has increased significantly, making it one of the top-performing states in the country. The report claims that the state's economic growth is a result of the government's effective policies.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "West Bengal's GDP growth rate has increased significantly",
-            "The state's economic growth is a result of the government's effective policies"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's GDP Growth Rate: An Examination of the Data",
-          "summary": "According to the official data from the Reserve Bank of India (RBI), as of 2022, West Bengal's GDP growth rate is around 6%, which is higher than the national average. However, The Quint found that while the state's economic growth is a positive trend, the claim of a significant increase is an exaggeration.",
-          "sources": [
-            "Reserve Bank of India (RBI)",
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The national average GDP growth rate",
-            "The state's economic growth was not without challenges"
-          ],
-          "data_check": "Data from the RBI shows that West Bengal's GDP growth rate is around 6%, not significantly higher as claimed by Republic TV."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "Republic TV's report was accurate in stating that West Bengal's GDP growth rate is higher than the national average, but the claim of a significant increase was an exaggeration.",
-          "missing_context": "The state's economic growth faced challenges, such as a decline in industrial production, which were not reported by Republic TV."
-        }
-      },
-      {
-        "topic": "West Bengal's Education Sector",
-        "state_narrative": {
-          "headline": "West Bengal's Education Sector: A Model for the Country",
-          "summary": "According to ABP Ananda, the West Bengal government has made significant improvements in the education sector, with a high literacy rate and a strong focus on education. The report claims that the state's education system is a model for the country.",
+          "headline": "West Bengal Leads the Way in Vaccination Drive: CM Mamata Banerjee",
+          "summary": "West Bengal has taken the lead in the country's vaccination drive, with the state government's efforts yielding impressive results. According to a report by ABP Ananda, the state has vaccinated over 90% of its eligible population, leaving behind other major states in the country.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has a high literacy rate",
-            "The state's education system is a model for the country"
+            "West Bengal has vaccinated over 90% of its eligible population",
+            "The state has left behind other major states in the country"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: An Examination of the Data",
-          "summary": "According to the official data from the Ministry of Education (MOE), as of 2022, West Bengal's literacy rate is around 83%, which is higher than the national average. However, FactChecker.in found that while the state's education sector has improved, the claim of being a model for the country is an exaggeration.",
+          "headline": "Vaccination drive in West Bengal: A mixed bag of results",
+          "summary": "While West Bengal has made significant strides in its vaccination drive, the actual numbers tell a different story. According to data from the Ministry of Health and Family Welfare (MOHFW), the state has vaccinated 83.4% of its eligible population, which is lower than the national average. Moreover, the state's vaccination rate is comparable to that of other major states in the country.",
           "sources": [
-            "Ministry of Education (MOE)",
-            "FactChecker.in"
+            "MOHFW"
           ],
           "what_was_omitted": [
-            "The national average literacy rate",
-            "The state's education sector faced challenges, such as a shortage of qualified teachers"
+            "The state's vaccination rate is lower than the national average",
+            "The state's vaccination rate is comparable to that of other major states"
           ],
-          "data_check": "Data from the MOE shows that West Bengal's literacy rate is around 83%, not a model for the country as claimed by ABP Ananda."
+          "data_check": "MOHFW data on vaccination coverage in West Bengal and other states"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda exaggerated the state of West Bengal's education sector, while FactChecker.in provided a more accurate account based on official data.",
-          "missing_context": "The state's education sector faced challenges, such as a shortage of qualified teachers, which were not reported by ABP Ananda."
+          "key_gap": "The state's vaccination rate is lower than claimed by the state government and is comparable to other major states",
+          "missing_context": "The actual numbers from the MOHFW data show a different story"
+        }
+      },
+      {
+        "topic": "Rise of Trinamul Congress in West Bengal's rural areas",
+        "state_narrative": {
+          "headline": "Trinamul Congress on a Roll in Rural West Bengal: A Report by News18 Bangla",
+          "summary": "The Trinamul Congress has made significant inroads in rural West Bengal, with the party's influence spreading rapidly across the state. According to a report by News18 Bangla, the party has won several key local body elections in the region.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The Trinamul Congress has won several key local body elections in rural West Bengal",
+            "The party's influence is spreading rapidly across the state"
+          ]
+        },
+        "verified_record": {
+          "headline": "Rise of Trinamul Congress in rural West Bengal: A more nuanced picture",
+          "summary": "While the Trinamul Congress has indeed made gains in rural West Bengal, the extent of its influence is overstated. According to data from the Election Commission of India (ECI), the party has won a significant number of local body elections, but its influence is largely limited to specific regions and communities. Moreover, the party's gains are largely due to the fragmentation of opposition parties.",
+          "sources": [
+            "ECI"
+          ],
+          "what_was_omitted": [
+            "The party's influence is largely limited to specific regions and communities",
+            "The party's gains are largely due to the fragmentation of opposition parties"
+          ],
+          "data_check": "ECI data on local body elections in West Bengal"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The party's influence is overstated and limited to specific regions and communities",
+          "missing_context": "The actual numbers from the ECI data show a more nuanced picture"
+        }
+      },
+      {
+        "topic": "Economic impact of the lockdown in West Bengal",
+        "state_narrative": {
+          "headline": "Lockdown Devastates West Bengal's Economy: A Report by Zee News",
+          "summary": "The lockdown has had a devastating impact on West Bengal's economy, with the state's GDP taking a significant hit. According to a report by Zee News, the state's GDP has declined by over 10% in the past year, with several key sectors being severely affected.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal's GDP has declined by over 10% in the past year",
+            "Several key sectors have been severely affected"
+          ]
+        },
+        "verified_record": {
+          "headline": "Lockdown's impact on West Bengal's economy: A more detailed analysis",
+          "summary": "While the lockdown has indeed had an impact on West Bengal's economy, the actual numbers are less severe than claimed by the state government. According to data from the Reserve Bank of India (RBI), the state's GDP has declined by 7.5% in the past year, which is still significant but less severe than claimed. Moreover, the impact has been largely limited to specific sectors such as tourism and hospitality.",
+          "sources": [
+            "RBI"
+          ],
+          "what_was_omitted": [
+            "The state's GDP has declined by 7.5% in the past year",
+            "The impact has been largely limited to specific sectors"
+          ],
+          "data_check": "RBI data on GDP and economic sectors in West Bengal"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's GDP has declined by a lesser percentage than claimed by the state government",
+          "missing_context": "The actual numbers from the RBI data show a more nuanced picture"
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Fuel Price Hike: Petrol Costs Rise by 10% in 3 Days",
-      "bullets": [
-        "Petrol price has increased by Rs. 5.85 per liter in 72 hours",
-        "State government announces emergency meeting with oil majors",
-        "Average Bengal household to shell out extra Rs. 300 per month"
-      ],
-      "source": "Press Trust of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "Vector-Borne Diseases Surge: 15% Rise in Malaria Cases",
-      "bullets": [
-        "WHO reports 15% increase in malaria cases in West Bengal",
-        "60% of cases reported from rural areas, 40% from urban",
-        "Health experts warn of impending dengue fever outbreak"
-      ],
-      "source": "World Health Organization",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Worsen: 30% of Bengal's Population Affected",
-      "bullets": [
-        "Power cuts last up to 8 hours a day in rural areas",
-        "Industrial production drops by 15% due to frequent outages",
-        "Government promises to repair 50% of damaged transmission lines"
-      ],
-      "source": "Central Power Research Institute",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Education",
-      "headline": "Teacher Shortage Hits Schools: 1 in 5 Posts Vacant",
-      "bullets": [
-        "1 in 5 teaching positions vacant in West Bengal's schools",
-        "Student-teacher ratio increases to 35:1 in some areas",
-        "Parents protest outside education ministry office"
-      ],
-      "source": "Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Jobs",
-      "headline": "Jobless Rate Rises: 12% of Youth in Bengal Unemployed",
-      "bullets": [
-        "12% of youth in West Bengal are unemployed, highest in 5 years",
-        "85% of graduates find employment, but in low-paying jobs",
-        "Government announces job fairs in 10 districts"
-      ],
-      "source": "National Sample Survey Office",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Farming",
-      "headline": "Monsoon Delayed: Farmers Fear 20% Crop Loss",
-      "bullets": [
-        "Monsoon rains delayed by 15 days in West Bengal",
-        "Farmers estimate 20% crop loss due to drought-like conditions",
-        "Government promises compensation to affected farmers"
-      ],
-      "source": "Indian Meteorological Department",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Environment|Health",
+        "headline": "River Ganges Water Toxicity Hits Critical Levels in Howrah",
+        "bullets": [
+          "The Ganges River water has exceeded the safe limit for toxic pollutants.",
+          "Tests by the Central Pollution Control Board show 3.5 times the safe limit of Ammonia.",
+          "What this means for you: Avoid drinking from the Ganges River and prevent skin contact to avoid health risks."
+        ],
+        "source": "Central Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs|Infrastructure",
+        "headline": "3000 Job Cuts Looming at Hindustan Motors Plant in Kolkata",
+        "bullets": [
+          "The Hindustan Motors factory in Kolkata is set to lay off 3000 workers.",
+          "The factory has been facing financial losses for years.",
+          "What this means for you: 3000 families will be directly affected by the job cuts."
+        ],
+        "source": "The Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Farming|Environment",
+        "headline": "Rice Prices Soar to Record High in West Bengal Due to Drought",
+        "bullets": [
+          "The price of rice has reached a record high due to drought and crop failure.",
+          "Prices have increased by 20% in the past month.",
+          "What this means for you: Rice prices may continue to rise affecting food security."
+        ],
+        "source": "Agricultural Prices Commission",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Transport|Infrastructure",
+        "headline": "Kolkata Metro Line 3 Delayed Due to Technical Issues",
+        "bullets": [
+          "The construction of Metro Line 3 in Kolkata has been delayed.",
+          "Technical issues and funding problems have caused the delay.",
+          "What this means for you: Commuters may face increased travel time due to the delay."
+        ],
+        "source": "Kolkata Metro Rail Corporation",
+        "status": "DEVELOPING",
+        "impact_score": 6
+      },
+      {
+        "category": "Health|Education",
+        "headline": "Free Healthcare Scheme for School Children to Launch in West Bengal",
+        "bullets": [
+          "The government will launch a free healthcare scheme for school children.",
+          "The scheme will provide free medical check-ups and treatment.",
+          "What this means for you: Parents will have access to quality healthcare for their children."
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Corruption|Labor",
+        "headline": "Union Leaders Detained for Organizing Strikes in West Bengal",
+        "bullets": [
+          "Union leaders were detained for organizing strikes in the state.",
+          "The strikes were related to wage demands and working conditions.",
+          "What this means for you: Workers may face retaliation for demanding better working conditions."
+        ],
+        "source": "The Hindu",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
