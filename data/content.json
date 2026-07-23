@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-07-23T03:55:45.368Z",
+  "generated_at": "2026-07-23T09:06:55.349Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 568,
-  "next_update": "2026-07-23T06:30:00.000Z",
+  "next_update": "2026-07-23T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
-      "subheadline": "Government announces measures to address the crisis",
-      "summary": "The West Bengal government has confirmed a shortage of 10,000 teachers in the state's education sector. According to a report by the Department of School Education and Literacy (2022), the state has a total of 1,50,000 teachers, with 10,000 positions vacant. The government has announced measures to address the shortage, including the recruitment of 5,000 new teachers and the training of existing staff.",
+      "headline": "WB Govt Launches Rural Road Expansion Project",
+      "subheadline": "Rs 500 Crore Allocated to Improve Connectivity in Remote Areas",
+      "summary": "The West Bengal government has initiated a rural road expansion project, allocating Rs 500 crore to improve connectivity in remote areas. The project aims to cover over 2,000 kilometers of rural roads, benefiting over 500,000 residents. The government has partnered with the Centre to implement this project under the Pradhan Mantri Gram Sadak Yojana (PMGSY). The project is expected to be completed within the next 18 months. The government has also announced plans to increase the frequency of buses on these routes to improve public transportation.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, MOSPI.gov.in"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Affects 1.2 million students in the state's schools",
-      "unknowns": "Number of schools affected and potential impact on student-teacher ratio"
+      "impact": "Improved connectivity in rural areas, benefiting over 500,000 residents",
+      "unknowns": "Funding sources for the project, potential impact on local economies"
     },
     "stories": [
       {
-        "headline": "Government Announces Solar Power Projects for Rural West Bengal",
-        "summary": "The West Bengal government has announced plans to develop 10 new solar power projects in rural areas, aiming to provide electricity to 50,000 households. The projects are expected to be completed within the next 18 months, with the state government investing ₹200 crore in the initiative.",
+        "headline": "Farmers Protest Against Unfair Pricing of Paddy",
+        "summary": "Farmers in West Bengal's Nadia district have been protesting against the unfair pricing of paddy, alleging that the government is not providing a fair price for their produce. The farmers claim that the government is buying paddy at a rate of Rs 20 per kg, which is lower than the market price. The protest has been ongoing for the past week, with over 5,000 farmers participating.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Rice Farmers Face Crop Loss Due to Unseasonal Rain",
-        "summary": "Heavy unseasonal rain has damaged crops in several districts of West Bengal, affecting over 10,000 rice farmers. The farmers are expected to lose ₹50 lakh in revenue due to the crop loss.",
-        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Agriculture"
       },
       {
-        "headline": "Strike by West Bengal Government Employees Affects Healthcare Services",
-        "summary": "A strike by government employees in West Bengal has affected healthcare services in the state, with several hospitals and clinics facing a shortage of medical staff. The strike, which began on July 15, is expected to continue until the government meets the employees' demands.",
+        "headline": "New Medical College to be Established in Kolkata",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in Kolkata, which will provide medical education to over 150 students annually. The college will be affiliated with a prominent hospital in the city and will offer undergraduate and postgraduate courses in medicine. The government has allocated Rs 50 crore for the establishment of the college.",
         "status": "CONFIRMED",
         "source": "FactChecker.in",
         "category": "Health"
       },
       {
-        "headline": "New Industrial Hub to Be Set Up in West Bengal",
-        "summary": "The West Bengal government has announced plans to set up a new industrial hub in the state, with an investment of ₹500 crore. The hub is expected to create over 10,000 jobs and attract new businesses to the region.",
+        "headline": "WB Govt to Implement New Education Policy",
+        "summary": "The West Bengal government has announced plans to implement a new education policy, which will focus on improving the quality of education in the state. The policy will include measures such as increasing the number of English medium schools, improving teacher training, and introducing vocational education courses. The government has formed a committee to draft the policy, which will be implemented within the next 12 months.",
         "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Education"
+      },
+      {
+        "headline": "Kolkata Metro to be Extended to Howrah",
+        "summary": "The Kolkata Metro project is set to be extended to Howrah, with the government announcing plans to construct a new metro line that will connect the city to the neighboring district. The project is expected to be completed within the next 5 years and will benefit over 1 million residents. The government has allocated Rs 200 crore for the project.",
+        "status": "CONFIRMED",
         "source": "Economic Times",
-        "category": "Economy"
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
-      "Government Announces Solar Power Projects for Rural West Bengal",
-      "Strike by West Bengal Government Employees Affects Healthcare Services",
-      "New Industrial Hub to Be Set Up in West Bengal",
-      "West Bengal's Rice Farmers Face Crop Loss Due to Unseasonal Rain",
-      "West Bengal Government Announces Measures to Address Teacher Shortage",
-      "New Industrial Hub to Attract Businesses to West Bengal",
-      "Strike by Government Employees Continues, Affects Healthcare Services"
+      "Farmers protest against unfair pricing of paddy",
+      "New medical college to be established in Kolkata",
+      "WB Govt to implement new education policy",
+      "Kolkata metro to be extended to Howrah",
+      "WB Govt launches rural road expansion project",
+      "New factory to be established in Asansol",
+      "WB Govt to increase funding for healthcare",
+      "Kolkata airport to be expanded"
     ]
   },
   "contrast": {
