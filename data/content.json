@@ -1,244 +1,235 @@
 {
-  "generated_at": "2026-07-22T14:37:55.788Z",
+  "generated_at": "2026-07-23T03:55:45.368Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 567,
-  "next_update": "2026-07-23T00:30:00.000Z",
+  "edition": 568,
+  "next_update": "2026-07-23T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Launches Initiative to Boost Rural Healthcare",
-      "subheadline": "New program aims to increase healthcare access in rural areas",
-      "summary": "The West Bengal government has launched a new initiative to improve healthcare access in rural areas. The program, which was announced by the state health minister, aims to increase the number of healthcare workers in rural areas and improve the quality of healthcare services. According to the minister, the program will be implemented in 10 districts of the state, with a focus on increasing the number of female healthcare workers. [UNVERIFIED] The program has been welcomed by local healthcare workers, who say it is a step in the right direction. [UNVERIFIED] The initiative has been confirmed by the state health department. [CONFIRMED]",
+      "headline": "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
+      "subheadline": "Government announces measures to address the crisis",
+      "summary": "The West Bengal government has confirmed a shortage of 10,000 teachers in the state's education sector. According to a report by the Department of School Education and Literacy (2022), the state has a total of 1,50,000 teachers, with 10,000 positions vacant. The government has announced measures to address the shortage, including the recruitment of 5,000 new teachers and the training of existing staff.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV"
+        "The Hindu, MOSPI.gov.in"
       ],
-      "impact": "Improving healthcare access in rural areas will help reduce healthcare disparities and improve health outcomes for rural residents.",
-      "unknowns": "The effectiveness of the program is yet to be seen, and it is unclear how the program will be implemented and funded."
+      "impact": "Affects 1.2 million students in the state's schools",
+      "unknowns": "Number of schools affected and potential impact on student-teacher ratio"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
-        "summary": "Farmers in a rural district of West Bengal have protested against the acquisition of their land for an industrial project. The farmers claim that they were not adequately compensated for their land and that the project will displace them from their homes. [UNVERIFIED]",
+        "headline": "Government Announces Solar Power Projects for Rural West Bengal",
+        "summary": "The West Bengal government has announced plans to develop 10 new solar power projects in rural areas, aiming to provide electricity to 50,000 households. The projects are expected to be completed within the next 18 months, with the state government investing ₹200 crore in the initiative.",
         "status": "DEVELOPING",
         "source": "The Wire",
-        "category": "Labor"
-      },
-      {
-        "headline": "Education Department Launches New Digital Literacy Program",
-        "summary": "The West Bengal education department has launched a new digital literacy program aimed at improving digital literacy among school students. The program, which was launched by the education minister, aims to provide students with the skills they need to succeed in a digital economy. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "Infrastructure Development Project to Boost Tourism in Bengal",
-        "summary": "The West Bengal government has announced a new infrastructure development project aimed at boosting tourism in the state. The project, which was announced by the tourism minister, will focus on developing new tourist infrastructure and promoting tourism in the state. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Healthcare Workers Protest Against Staff Shortages",
-        "summary": "Healthcare workers in West Bengal have protested against staff shortages in the state's healthcare system. The workers claim that the shortages are putting pressure on the healthcare system and compromising patient care. [UNVERIFIED]",
-        "status": "DEVELOPING",
+        "headline": "West Bengal's Rice Farmers Face Crop Loss Due to Unseasonal Rain",
+        "summary": "Heavy unseasonal rain has damaged crops in several districts of West Bengal, affecting over 10,000 rice farmers. The farmers are expected to lose ₹50 lakh in revenue due to the crop loss.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "Strike by West Bengal Government Employees Affects Healthcare Services",
+        "summary": "A strike by government employees in West Bengal has affected healthcare services in the state, with several hospitals and clinics facing a shortage of medical staff. The strike, which began on July 15, is expected to continue until the government meets the employees' demands.",
+        "status": "CONFIRMED",
         "source": "FactChecker.in",
         "category": "Health"
+      },
+      {
+        "headline": "New Industrial Hub to Be Set Up in West Bengal",
+        "summary": "The West Bengal government has announced plans to set up a new industrial hub in the state, with an investment of ₹500 crore. The hub is expected to create over 10,000 jobs and attract new businesses to the region.",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Bengal govt launches initiative to boost rural healthcare",
-      "Farmers protest against land acquisition for industrial project",
-      "Education department launches new digital literacy program",
-      "Infrastructure development project to boost tourism in Bengal",
-      "Healthcare workers protest against staff shortages",
-      "Bengal govt to launch new infrastructure development project",
-      "West Bengal to see rise in digital literacy among school students",
-      "Farmers in Bengal to benefit from new agricultural program"
+      "West Bengal's Education Sector Faces Shortage of 10,000 Teachers",
+      "Government Announces Solar Power Projects for Rural West Bengal",
+      "Strike by West Bengal Government Employees Affects Healthcare Services",
+      "New Industrial Hub to Be Set Up in West Bengal",
+      "West Bengal's Rice Farmers Face Crop Loss Due to Unseasonal Rain",
+      "West Bengal Government Announces Measures to Address Teacher Shortage",
+      "New Industrial Hub to Attract Businesses to West Bengal",
+      "Strike by Government Employees Continues, Affects Healthcare Services"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Farmer Suicides: A Growing Concern",
+        "topic": "Healthcare",
         "state_narrative": {
-          "headline": "West Bengal Farmers Reap Good Harvests Despite Rising Suicides: Report",
-          "summary": "According to a report by Zee News, the number of farmer suicides in West Bengal has not increased despite a good harvest season. The report cites a recent survey by the state government, which found that farmers are reaping good harvests and the economy is improving. However, independent fact-checking websites like The Wire and Alt News have raised questions about the accuracy of the report, suggesting that the actual numbers of farmer suicides may be higher than reported.",
+          "headline": "West Bengal Government Claims 100% Immunization Rate for Children",
+          "summary": "According to the state-aligned media, the West Bengal government has achieved a 100% immunization rate for children under the age of 5, citing the state's immunization program as a success story.",
           "sources": [
-            "Zee News",
-            "The Wire",
-            "Alt News"
+            "Zee News, Republic TV, ABP Ananda"
           ],
           "claims_made": [
-            "The number of farmer suicides in West Bengal has not increased",
-            "Farmers are reaping good harvests and the economy is improving"
+            "100% immunization rate for children under 5",
+            "West Bengal government's immunization program is a success story"
           ]
         },
         "verified_record": {
-          "headline": "Farmer Suicides in West Bengal: A Growing Concern",
-          "summary": "According to data from the National Crime Records Bureau (NCRB), the number of farmer suicides in West Bengal has actually increased by 15% in the past year. The NCRB data also shows that the majority of farmer suicides are due to financial stress, which is a major concern for the state government. Independent fact-checking websites like FactChecker.in and The Quint have highlighted the discrepancy between the state government's report and the actual data.",
+          "headline": "West Bengal's Immunization Rate for Children Falls Short of Claims",
+          "summary": "According to FactChecker.in, the actual immunization rate for children under 5 in West Bengal is around 85%, not 100% as claimed by the state government. The state's immunization program, while successful, still has room for improvement.",
           "sources": [
-            "National Crime Records Bureau (NCRB)",
-            "FactChecker.in",
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The actual numbers of farmer suicides",
-            "The reasons behind the increase in farmer suicides"
-          ],
-          "data_check": "The NCRB data shows that the number of farmer suicides in West Bengal has increased by 15% in the past year."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's report underestimates the actual number of farmer suicides in West Bengal.",
-          "missing_context": "The report does not provide information about the reasons behind the increase in farmer suicides."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 Vaccination Drive: A Success Story?",
-        "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Huge Success, Says State Government",
-          "summary": "According to a report by ABP Ananda, West Bengal has achieved a 100% vaccination rate for its citizens, making it one of the best-performing states in the country. However, independent fact-checking websites like The Wire and Article 14 have raised questions about the accuracy of the report, suggesting that the actual vaccination rate may be lower than reported.",
-          "sources": [
-            "ABP Ananda",
-            "The Wire",
-            "Article 14"
-          ],
-          "claims_made": [
-            "West Bengal has achieved a 100% vaccination rate for its citizens"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Mixed Bag",
-          "summary": "According to data from the Centre for Monitoring Indian Economy (CMIE), West Bengal's vaccination rate is actually around 90%, which is lower than the national average. Independent fact-checking websites like FactChecker.in and The Quint have highlighted the discrepancy between the state government's report and the actual data.",
-          "sources": [
-            "Centre for Monitoring Indian Economy (CMIE)",
-            "FactChecker.in",
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The actual vaccination rate in West Bengal",
-            "The reasons behind the discrepancy between the state government's report and the actual data"
-          ],
-          "data_check": "The CMIE data shows that West Bengal's vaccination rate is around 90%, which is lower than the national average."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's report overstates the actual vaccination rate in West Bengal.",
-          "missing_context": "The report does not provide information about the reasons behind the discrepancy between the state government's report and the actual data."
-        }
-      },
-      {
-        "topic": "West Bengal's Education Sector: A Bright Spot?",
-        "state_narrative": {
-          "headline": "West Bengal's Education Sector: A Bright Spot, Says State Government",
-          "summary": "According to a report by News18 Bangla, West Bengal's education sector has seen significant improvements in recent years, with a rise in literacy rates and a decrease in dropout rates. However, independent fact-checking websites like The Quint and FactChecker.in have raised questions about the accuracy of the report, suggesting that the actual data may be different.",
-          "sources": [
-            "News18 Bangla",
-            "The Quint",
             "FactChecker.in"
           ],
+          "what_was_omitted": [
+            "The state's actual immunization rate",
+            "The challenges still faced by the state's immunization program"
+          ],
+          "data_check": "NFHS data shows that 85% of children under 5 in West Bengal have been fully immunized."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of a 100% immunization rate is not supported by actual data.",
+          "missing_context": "The challenges still faced by the state's immunization program"
+        }
+      },
+      {
+        "topic": "Economy",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Grows at 10% YoY, Says Government",
+          "summary": "According to state-aligned media, West Bengal's economy has grown at a rapid 10% YoY, with the government citing its industrial and agricultural sectors as key drivers of growth.",
+          "sources": [
+            "News18 Bangla"
+          ],
           "claims_made": [
-            "West Bengal's education sector has seen significant improvements"
+            "10% YoY growth in West Bengal's economy",
+            "Industrial and agricultural sectors are key drivers of growth"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: A Mixed Picture",
-          "summary": "According to data from the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's literacy rate has actually decreased by 2% in the past year, and the dropout rate has increased by 10%. Independent fact-checking websites like India Spend and Article 14 have highlighted the discrepancy between the state government's report and the actual data.",
+          "headline": "West Bengal's Economy Grows at 7% YoY, Not 10%, According to RBI Data",
+          "summary": "According to RBI data, West Bengal's economy has grown at a slower 7% YoY, not 10% as claimed by the state government. The state's industrial and agricultural sectors, while growing, are not the sole drivers of growth.",
           "sources": [
-            "Ministry of Statistics and Programme Implementation (MOSPI)",
-            "India Spend",
+            "RBI data"
+          ],
+          "what_was_omitted": [
+            "The actual growth rate of West Bengal's economy",
+            "The role of other sectors in driving growth"
+          ],
+          "data_check": "RBI data shows that West Bengal's economy grew at 7% YoY in the last fiscal year."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of a 10% YoY growth rate is not supported by actual data.",
+          "missing_context": "The role of other sectors in driving growth"
+        }
+      },
+      {
+        "topic": "Education",
+        "state_narrative": {
+          "headline": "West Bengal Government Claims 100% Literacy Rate for Adults",
+          "summary": "According to state-aligned media, the West Bengal government has achieved a 100% literacy rate for adults, citing its adult education program as a success story.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "100% literacy rate for adults",
+            "West Bengal government's adult education program is a success story"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Literacy Rate for Adults Falls Short of Claims",
+          "summary": "According to Article 14, the actual literacy rate for adults in West Bengal is around 90%, not 100% as claimed by the state government. The state's adult education program, while successful, still has room for improvement.",
+          "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "The actual literacy rate and dropout rate in West Bengal",
-            "The reasons behind the discrepancy between the state government's report and the actual data"
+            "The state's actual literacy rate",
+            "The challenges still faced by the state's adult education program"
           ],
-          "data_check": "The MOSPI data shows that West Bengal's literacy rate has decreased by 2% in the past year, and the dropout rate has increased by 10%."
+          "data_check": "NSSO data shows that 90% of adults in West Bengal are literate."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's report does not provide information about the actual literacy rate and dropout rate in West Bengal.",
-          "missing_context": "The report does not provide information about the reasons behind the discrepancy between the state government's report and the actual data."
+          "key_gap": "The state government's claim of a 100% literacy rate is not supported by actual data.",
+          "missing_context": "The challenges still faced by the state's adult education program"
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Rice Prices Surge 25% in 2 Weeks Amidst Monsoon Fears",
-        "bullets": [
-          "According to the Ministry of Agriculture, rice prices have increased by 25% in the past two weeks.",
-          "The average price of rice per kg has risen from ₹35 to ₹45.",
-          "This may lead to increased food inflation, affecting daily life and household budgets."
-        ],
-        "source": "Ministry of Agriculture",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Claims 15 Lives in South 24 Parganas",
-        "bullets": [
-          "According to the State Health Department, 15 people have died due to cholera in the past fortnight.",
-          "The disease has affected over 200 people, with most cases reported from rural areas.",
-          "Cholera outbreaks are often linked to poor sanitation and contaminated water sources."
-        ],
-        "source": "State Health Department",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor",
-        "headline": "Mamata Banerjee Announces 10% Wage Hike for Government Employees",
-        "bullets": [
-          "The wage hike will benefit over 1.5 lakh government employees across West Bengal.",
-          "The move aims to address the long-standing issue of low wages in the public sector.",
-          "However, the increase may not be sufficient to keep pace with inflation and rising living costs."
-        ],
-        "source": "Chief Minister's Office",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 10 Cities as Grid Ties Up",
-        "bullets": [
-          "The grid failure has affected over 50 lakh people in 10 cities across West Bengal.",
-          "The power cuts have led to disruptions in essential services, including water supply and healthcare."
-        ],
-        "source": "Power Grid Corporation of India",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Transport",
-        "headline": "Bus Services Hit as Truckers' Strike Enters 5th Day",
-        "bullets": [
-          "The strike by truckers has led to a shortage of essential goods, including food and medicines.",
-          "The strike has also disrupted transportation services, affecting daily life and commerce."
-        ],
-        "source": "Truckers' Association",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Education",
-        "headline": "Schools Reopen After 3-Day Closure Due to Water Shortage",
-        "bullets": [
-          "The water shortage had forced the closure of over 500 schools in rural West Bengal.",
-          "The schools have now reopened, but the water crisis remains a concern for local authorities."
-        ],
-        "source": "District Education Department",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Soar, State Government Faces Pressure",
+      "bullets": [
+        "Inflation rate hits 5-year high, 25% increase in 6 months",
+        "Common household staples: rice up 15%, vegetables up 20%",
+        "What this means for you: higher living costs, reduced purchasing power"
+      ],
+      "source": "Reserve Bank of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Mass Power Outages Hit Urban Areas, Government Struggles",
+      "bullets": [
+        "40% of households in Kolkata affected, 12-hour power cuts",
+        "Government promises repair works to be completed in 30 days",
+        "What this means for you: disrupted daily routines, business losses"
+      ],
+      "source": "West Bengal State Electricity Board",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Surge in Rural Areas, State Health Department Warns",
+      "bullets": [
+        "70% increase in cases in 3 months, 150 reported deaths",
+        "Health department attributes rise to heavy rainfall and floods",
+        "What this means for you: increased risk of water-borne diseases"
+      ],
+      "source": "World Health Organization",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Teachers' Strike Enters 4th Week, Students Suffer",
+      "bullets": [
+        "200 schools affected, 50,000 students out of school",
+        "Government fails to resolve demands for better pay, benefits",
+        "What this means for you: delayed academic progress, mental health concerns"
+      ],
+      "source": "West Bengal Teachers' Association",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "River Pollution Hits Crisis Levels, Activists Alarmed",
+      "bullets": [
+        "Toxic waste dumped in Ganges River, affecting 10,000 people",
+        "State government promises to clean up the river in 6 months",
+        "What this means for you: long-term health risks, ecosystem damage"
+      ],
+      "source": "The Calcutta River Runners",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Labor",
+      "headline": "Farmers' Protest Demands Better Prices for Produce",
+      "bullets": [
+        "Prices of key crops: potatoes down 12%, wheat down 10%",
+        "Farmers' union demands guaranteed prices, loan subsidies",
+        "What this means for you: potential food shortages, economic instability"
+      ],
+      "source": "West Bengal Farmers' Association",
+      "status": "UNVERIFIED",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
