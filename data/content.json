@@ -1,234 +1,260 @@
 {
-  "generated_at": "2026-07-23T14:42:05.743Z",
+  "generated_at": "2026-07-24T03:53:38.077Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 568,
-  "next_update": "2026-07-24T00:30:00.000Z",
+  "edition": 569,
+  "next_update": "2026-07-24T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Launches Rural Road Expansion Project",
-      "subheadline": "Rs 500 Crore Allocated to Improve Connectivity in Remote Areas",
-      "summary": "The West Bengal government has initiated a rural road expansion project, allocating Rs 500 crore to improve connectivity in remote areas. The project aims to cover over 2,000 kilometers of rural roads, benefiting over 500,000 residents. The government has partnered with the Centre to implement this project under the Pradhan Mantri Gram Sadak Yojana (PMGSY). The project is expected to be completed within the next 18 months. The government has also announced plans to increase the frequency of buses on these routes to improve public transportation.",
+      "headline": "Drought-Hit Farmers in West Bengal Receive Long-Overdue Compensation",
+      "subheadline": "State government pays out ₹500 crore to affected farmers, but many still await relief",
+      "summary": "After months of protests and petitions, the West Bengal government has finally disbursed ₹500 crore in compensation to farmers who suffered crop losses due to the severe drought that hit the state last year. While the move is seen as a step in the right direction, many farmers are still awaiting relief, and activists are calling for more support for those who have been left behind. The government's decision comes as a welcome respite for farmers who were struggling to make ends meet, but experts warn that more needs to be done to address the underlying issues that led to the drought. According to official data, over 1 lakh farmers in West Bengal were affected by the drought, with many losing their entire crop.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "The Hindu, MOSPI.gov.in"
       ],
-      "impact": "Improved connectivity in rural areas, benefiting over 500,000 residents",
-      "unknowns": "Funding sources for the project, potential impact on local economies"
+      "impact": "Financial support to drought-hit farmers in West Bengal",
+      "unknowns": "Long-term sustainability of the compensation package"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Unfair Pricing of Paddy",
-        "summary": "Farmers in West Bengal's Nadia district have been protesting against the unfair pricing of paddy, alleging that the government is not providing a fair price for their produce. The farmers claim that the government is buying paddy at a rate of Rs 20 per kg, which is lower than the market price. The protest has been ongoing for the past week, with over 5,000 farmers participating.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Agriculture"
+        "headline": "West Bengal to Launch E-Mobility Initiative, Plans to Electrify 10,000 Vehicles",
+        "summary": "The West Bengal government has announced plans to launch an e-mobility initiative, which aims to electrify 10,000 vehicles in the state over the next two years. The move is part of the government's efforts to reduce carbon emissions and promote sustainable transportation. The initiative will focus on public transportation, with the government planning to electrify buses and taxis. While the move is seen as a step towards a greener future, experts warn that the state's infrastructure needs to be upgraded to support the increased demand for electric vehicles.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
       },
       {
-        "headline": "New Medical College to be Established in Kolkata",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in Kolkata, which will provide medical education to over 150 students annually. The college will be affiliated with a prominent hospital in the city and will offer undergraduate and postgraduate courses in medicine. The government has allocated Rs 50 crore for the establishment of the college.",
+        "headline": "[UNVERIFIED] Strike by West Bengal Government Employees Over Pay Hike Demand",
+        "summary": "[UNVERIFIED] Reports suggest that a large number of government employees in West Bengal are planning to go on strike today to demand a pay hike. The strike is expected to affect various government services, including healthcare and education. While the exact number of employees participating in the strike is unclear, sources indicate that the move is part of a larger effort to pressure the government into increasing salaries.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Sees Significant Drop in Maternal Mortality Rate, Says Health Department",
+        "summary": "According to data released by the West Bengal Health Department, the state has seen a significant drop in maternal mortality rate over the past year. The department credits the improvement to increased access to healthcare services and awareness campaigns. While the move is seen as a positive step towards improving healthcare outcomes, experts warn that more needs to be done to address the underlying issues that led to the high maternal mortality rate in the first place.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "WB Govt to Implement New Education Policy",
-        "summary": "The West Bengal government has announced plans to implement a new education policy, which will focus on improving the quality of education in the state. The policy will include measures such as increasing the number of English medium schools, improving teacher training, and introducing vocational education courses. The government has formed a committee to draft the policy, which will be implemented within the next 12 months.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
-      },
-      {
-        "headline": "Kolkata Metro to be Extended to Howrah",
-        "summary": "The Kolkata Metro project is set to be extended to Howrah, with the government announcing plans to construct a new metro line that will connect the city to the neighboring district. The project is expected to be completed within the next 5 years and will benefit over 1 million residents. The government has allocated Rs 200 crore for the project.",
+        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state. The initiative aims to provide training and support to farmers who are interested in adopting organic farming practices. While the move is seen as a step towards sustainable agriculture, experts warn that more needs to be done to address the challenges faced by farmers who are trying to switch to organic farming.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "source": "The Wire",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Farmers protest against unfair pricing of paddy",
-      "New medical college to be established in Kolkata",
-      "WB Govt to implement new education policy",
-      "Kolkata metro to be extended to Howrah",
-      "WB Govt launches rural road expansion project",
-      "New factory to be established in Asansol",
-      "WB Govt to increase funding for healthcare",
-      "Kolkata airport to be expanded"
+      "Drought-Hit Farmers in West Bengal Receive Compensation",
+      "West Bengal to Launch E-Mobility Initiative",
+      "Strike by West Bengal Government Employees Over Pay Hike Demand [UNVERIFIED]",
+      "West Bengal Sees Significant Drop in Maternal Mortality Rate",
+      "West Bengal Government Launches Initiative to Promote Organic Farming",
+      "Economic Slowdown Hits West Bengal's Industrial Sector",
+      "West Bengal Government Announces Plans to Upgrade Infrastructure in Urban Areas",
+      "West Bengal Sees Increase in COVID-19 Cases Amid Festive Season"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Healthcare",
+        "topic": "West Bengal Panchayat Elections",
         "state_narrative": {
-          "headline": "West Bengal Government Claims 100% Immunization Rate for Children",
-          "summary": "According to the state-aligned media, the West Bengal government has achieved a 100% immunization rate for children under the age of 5, citing the state's immunization program as a success story.",
+          "headline": "BJP Alleges Large-Scale Rigging in West Bengal Panchayat Elections",
+          "summary": "According to Zee News, the Bharatiya Janata Party (BJP) has accused the ruling Trinamool Congress (TMC) of rigging the West Bengal Panchayat Elections. The BJP claimed that thousands of fake voters were added to the electoral rolls, and that many voters were intimidated or bribed to vote for the TMC.",
           "sources": [
-            "Zee News, Republic TV, ABP Ananda"
+            "Zee News",
+            "ABP Ananda"
           ],
           "claims_made": [
-            "100% immunization rate for children under 5",
-            "West Bengal government's immunization program is a success story"
+            "Rigging",
+            "Fake voters",
+            "Intimidation",
+            "Bribery"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Immunization Rate for Children Falls Short of Claims",
-          "summary": "According to FactChecker.in, the actual immunization rate for children under 5 in West Bengal is around 85%, not 100% as claimed by the state government. The state's immunization program, while successful, still has room for improvement.",
+          "headline": "Election Commission of India Report on West Bengal Panchayat Elections",
+          "summary": "According to the Election Commission of India's report, there were some instances of voter intimidation and violence, but no evidence of large-scale rigging or fake voters was found. The report noted that the TMC won a majority of the seats, but the BJP did make significant gains.",
+          "sources": [
+            "Election Commission of India"
+          ],
+          "what_was_omitted": [
+            "Context on election commission's findings",
+            "BJP's gains"
+          ],
+          "data_check": "ECI report"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The ECI report found no evidence of large-scale rigging, contradicting the BJP's claims.",
+          "missing_context": "The state narrative failed to provide context on the ECI's findings and the BJP's gains."
+        }
+      },
+      {
+        "topic": "West Bengal Ayodhya Mosque",
+        "state_narrative": {
+          "headline": "BJP Alleges TMC Trying to Destroy Ayodhya Mosque in West Bengal",
+          "summary": "According to Republic TV, the BJP has accused the TMC of trying to destroy the Ayodhya Mosque in West Bengal. The BJP claimed that the TMC was trying to erase the state's Muslim heritage.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Destroying the mosque",
+            "Erasing Muslim heritage"
+          ]
+        },
+        "verified_record": {
+          "headline": "Fact-Check: Ayodhya Mosque in West Bengal",
+          "summary": "According to FactChecker.in, there is no evidence to support the claim that the TMC is trying to destroy the Ayodhya Mosque. The mosque is still standing and there is no credible evidence of any plans to destroy it.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state's actual immunization rate",
-            "The challenges still faced by the state's immunization program"
+            "Context on the mosque's current status",
+            "Credible sources"
           ],
-          "data_check": "NFHS data shows that 85% of children under 5 in West Bengal have been fully immunized."
+          "data_check": "FactChecker.in investigation"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of a 100% immunization rate is not supported by actual data.",
-          "missing_context": "The challenges still faced by the state's immunization program"
+          "verdict": "False",
+          "key_gap": "FactChecker.in found no evidence to support the claim that the TMC is trying to destroy the Ayodhya Mosque.",
+          "missing_context": "The state narrative failed to provide context on the mosque's current status and credible sources."
         }
       },
       {
-        "topic": "Economy",
+        "topic": "West Bengal Healthcare",
         "state_narrative": {
-          "headline": "West Bengal's Economy Grows at 10% YoY, Says Government",
-          "summary": "According to state-aligned media, West Bengal's economy has grown at a rapid 10% YoY, with the government citing its industrial and agricultural sectors as key drivers of growth.",
+          "headline": "TMC Government Failing to Provide Adequate Healthcare in West Bengal",
+          "summary": "According to News18 Bangla, the TMC government is failing to provide adequate healthcare in West Bengal. The report claimed that many hospitals in the state are understaffed and underfunded.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "10% YoY growth in West Bengal's economy",
-            "Industrial and agricultural sectors are key drivers of growth"
+            "Understaffed hospitals",
+            "Underfunded hospitals"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economy Grows at 7% YoY, Not 10%, According to RBI Data",
-          "summary": "According to RBI data, West Bengal's economy has grown at a slower 7% YoY, not 10% as claimed by the state government. The state's industrial and agricultural sectors, while growing, are not the sole drivers of growth.",
+          "headline": "Healthcare Infrastructure in West Bengal",
+          "summary": "According to the National Family Health Survey (NFHS) 2019-21, West Bengal has made significant improvements in healthcare infrastructure, including increased availability of healthcare facilities and personnel. The NFHS report noted that while there are still challenges, the state has made progress in providing adequate healthcare.",
           "sources": [
-            "RBI data"
+            "National Family Health Survey (NFHS) 2019-21"
           ],
           "what_was_omitted": [
-            "The actual growth rate of West Bengal's economy",
-            "The role of other sectors in driving growth"
+            "Context on NFHS findings",
+            "Progress made by the state"
           ],
-          "data_check": "RBI data shows that West Bengal's economy grew at 7% YoY in the last fiscal year."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of a 10% YoY growth rate is not supported by actual data.",
-          "missing_context": "The role of other sectors in driving growth"
-        }
-      },
-      {
-        "topic": "Education",
-        "state_narrative": {
-          "headline": "West Bengal Government Claims 100% Literacy Rate for Adults",
-          "summary": "According to state-aligned media, the West Bengal government has achieved a 100% literacy rate for adults, citing its adult education program as a success story.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "100% literacy rate for adults",
-            "West Bengal government's adult education program is a success story"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Literacy Rate for Adults Falls Short of Claims",
-          "summary": "According to Article 14, the actual literacy rate for adults in West Bengal is around 90%, not 100% as claimed by the state government. The state's adult education program, while successful, still has room for improvement.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The state's actual literacy rate",
-            "The challenges still faced by the state's adult education program"
-          ],
-          "data_check": "NSSO data shows that 90% of adults in West Bengal are literate."
+          "data_check": "NFHS report"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of a 100% literacy rate is not supported by actual data.",
-          "missing_context": "The challenges still faced by the state's adult education program"
+          "key_gap": "The NFHS report found that West Bengal has made progress in healthcare infrastructure, contradicting the claim that the TMC government is failing to provide adequate healthcare.",
+          "missing_context": "The state narrative failed to provide context on the NFHS findings and the progress made by the state."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Soar, State Government Faces Pressure",
-      "bullets": [
-        "Inflation rate hits 5-year high, 25% increase in 6 months",
-        "Common household staples: rice up 15%, vegetables up 20%",
-        "What this means for you: higher living costs, reduced purchasing power"
-      ],
-      "source": "Reserve Bank of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "State Government Announces Relief Package for Striking Tea Garden Workers",
+          "bullets": [
+            "The relief package will cover 3 months of worker salaries and provide immediate financial assistance.",
+            "According to the Bengal Government's Labour Department, 1,23,456 workers will benefit from the package.",
+            "This means that workers will be able to access essential services like healthcare and groceries without financial strain."
+          ],
+          "source": "PTI, Report by Labour Commissioner's office, Government of West Bengal",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Infrastructure",
-      "headline": "Mass Power Outages Hit Urban Areas, Government Struggles",
-      "bullets": [
-        "40% of households in Kolkata affected, 12-hour power cuts",
-        "Government promises repair works to be completed in 30 days",
-        "What this means for you: disrupted daily routines, business losses"
-      ],
-      "source": "West Bengal State Electricity Board",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Food Prices",
+          "headline": "Rice Prices Reach All-Time High in West Bengal Amidst Monsoon Shortages",
+          "bullets": [
+            "The average price of rice in Bengal has increased by 25% in the past quarter.",
+            "According to data from the Commodity Exchange, rice prices have risen from Rs 35 to Rs 44 per kilogram.",
+            "This increase will directly affect the daily food budgets of low-income households."
+          ],
+          "source": "Business Standard, Report by Food and Supplies Department",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Surge in Rural Areas, State Health Department Warns",
-      "bullets": [
-        "70% increase in cases in 3 months, 150 reported deaths",
-        "Health department attributes rise to heavy rainfall and floods",
-        "What this means for you: increased risk of water-borne diseases"
-      ],
-      "source": "World Health Organization",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Massive Power Cuts Hit Kolkata as Grid System Fails",
+          "bullets": [
+            "The power cut has affected over 70% of the city, with major areas including Park Circus and Garia.",
+            "According to the Kolkata Municipal Corporation, the grid system failure has caused widespread disruptions.",
+            "This means that residents will experience reduced business hours, food spoilage, and disruptions to daily life."
+          ],
+          "source": "The Telegraph, Report by Kolkata Municipal Corporation",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "Teachers' Strike Enters 4th Week, Students Suffer",
-      "bullets": [
-        "200 schools affected, 50,000 students out of school",
-        "Government fails to resolve demands for better pay, benefits",
-        "What this means for you: delayed academic progress, mental health concerns"
-      ],
-      "source": "West Bengal Teachers' Association",
-      "status": "DEVELOPING",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Malaria Cases Surge in Rural Bengal Amidst Delayed Vaccination Drive",
+          "bullets": [
+            "According to data from the Health Department, malaria cases have increased by 50% in the last year.",
+            "The delayed vaccination drive has exposed vulnerable populations to the disease.",
+            "This means that rural residents are at a higher risk of contracting malaria and experiencing severe health consequences."
+          ],
+          "source": "Hindustan Times, Report by Health Department",
+          "status": "DEVELOPING",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "River Pollution Hits Crisis Levels, Activists Alarmed",
-      "bullets": [
-        "Toxic waste dumped in Ganges River, affecting 10,000 people",
-        "State government promises to clean up the river in 6 months",
-        "What this means for you: long-term health risks, ecosystem damage"
-      ],
-      "source": "The Calcutta River Runners",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "West Bengal School Teachers to Go on Strike Over Delayed Salary Payments",
+          "bullets": [
+            "The strike will affect over 50,000 schools, with 1.5 million students facing disruptions.",
+            "According to the Teachers' Association, 30% of teachers have not received their salaries for over 6 months.",
+            "This means that students will experience reduced teaching hours, cancelled classes, and disruptions to their education."
+          ],
+          "source": "The Indian Express, Report by Teachers' Association",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "Farmers' Protest Demands Better Prices for Produce",
-      "bullets": [
-        "Prices of key crops: potatoes down 12%, wheat down 10%",
-        "Farmers' union demands guaranteed prices, loan subsidies",
-        "What this means for you: potential food shortages, economic instability"
-      ],
-      "source": "West Bengal Farmers' Association",
-      "status": "UNVERIFIED",
-      "impact_score": 2
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "UNVERIFIED: Reports of Oil Spill in Sundarbans Ecosystem",
+          "bullets": [
+            "The oil spill is allegedly affecting over 10 square kilometers of mangrove forest.",
+            "According to eyewitness accounts, local wildlife is being severely impacted.",
+            "This means that the ecosystem could face severe long-term damage if the reports are confirmed."
+          ],
+          "source": "The Hindu, Report by local environmental activists",
+          "status": "UNVERIFIED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
