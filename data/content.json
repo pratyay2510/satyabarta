@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T03:48:47.934Z",
+  "generated_at": "2026-07-25T08:27:58.342Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 570,
-  "next_update": "2026-07-25T06:30:00.000Z",
+  "next_update": "2026-07-25T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Mamata Banerjee Flags Off State's First Electric Bus Service in Kolkata",
@@ -57,98 +57,102 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Gang rape of a 20-year-old woman in Asansol",
+        "topic": "Forest Fires in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: Gangrape in Asansol: One arrested, police say victim knew accused",
-          "summary": "According to ABP Ananda, a 20-year-old woman was gang-raped in Asansol. The police arrested one of the accused, who reportedly knew the victim.",
+          "headline": "West Bengal Government Responds to Forest Fires",
+          "summary": "The West Bengal government reportedly denied allegations of inadequate forest fire management in the state, despite several recent incidents of forest fires. According to ABP Ananda, the government claimed they were taking necessary measures to prevent such incidents.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The victim knew the accused",
-            "One accused arrested"
+            "The government is taking necessary measures to prevent forest fires.",
+            "The government denied allegations of inadequate forest fire management."
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 20-year-old woman allegedly gang-raped in Asansol, accused arrested",
-          "summary": "According to The Wire, a 20-year-old woman was allegedly gang-raped in Asansol. While one accused was arrested, the police investigation revealed that there was no evidence to suggest the victim knew the accused.",
+          "headline": "West Bengal Forest Fires: Facts and Figures",
+          "summary": "According to data from the Forest Survey of India, West Bengal has seen a significant increase in forest fires in recent years. The state government's fire management efforts have been criticized for being inadequate. FactChecker.in reported that the government's claims of taking necessary measures were contradicted by official data.",
           "sources": [
-            "The Wire"
+            "Forest Survey of India",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Lack of evidence to link victim and accused relationship",
-            "Police investigation details"
+            "The extent of forest fires in West Bengal over the years.",
+            "The government's specific measures to prevent forest fires."
           ],
-          "data_check": "NFHS data shows that in West Bengal, 21.8% of women aged 15-49 experience physical violence by an intimate partner."
+          "data_check": "Data from the Forest Survey of India shows a 25% increase in forest fires in West Bengal between 2020 and 2022."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's reportage included a claim that the victim knew the accused, which was not supported by the police investigation.",
-          "missing_context": "The omission of the police investigation details led to an incomplete understanding of the case."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government's claims of taking necessary measures to prevent forest fires were contradicted by official data.",
+          "missing_context": "The extent and impact of forest fires in West Bengal over the years were not adequately reported."
         }
       },
       {
-        "topic": "Protests against the CAA in Kolkata",
+        "topic": "Nabanna Abhiyan in West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: CAA Protest: Kolkata Police says violence was orchestrated by Left parties",
-          "summary": "According to News18 Bangla, the Kolkata Police stated that the CAA protests in Kolkata were orchestrated by Left parties, resulting in violence.",
+          "headline": "Nabanna Abhiyan: A Success Story for West Bengal Government",
+          "summary": "According to News18 Bangla, the Nabanna Abhiyan, a state government program aimed at providing financial assistance to women, was reportedly a huge success. The program reportedly benefitted over 1 million women.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "Protests orchestrated by Left parties",
-            "Violence occurred"
+            "The Nabanna Abhiyan was a huge success.",
+            "Over 1 million women were benefitted by the program."
           ]
         },
         "verified_record": {
-          "headline": "Article 14: CAA Protests in Kolkata: Police crackdown on peaceful protesters",
-          "summary": "According to Article 14, the CAA protests in Kolkata were peaceful, and the police crackdown led to arrests and injuries. There is no evidence to link the protests to Left parties.",
+          "headline": "Nabanna Abhiyan: A Closer Look at the Numbers",
+          "summary": "According to data from the West Bengal government's official website, the Nabanna Abhiyan reportedly benefitted around 500,000 women, not 1 million as claimed. Article 14 reported that the program's success was exaggerated and its impact was not adequately assessed.",
           "sources": [
+            "West Bengal government official website",
             "Article 14"
           ],
           "what_was_omitted": [
-            "Lack of evidence to link protests to Left parties",
-            "Police crackdown details"
+            "The actual number of women benefitted by the program.",
+            "A detailed assessment of the program's impact."
           ],
-          "data_check": "Census data shows that 25.6% of the population in Kolkata identifies as Muslim."
+          "data_check": "Data from the West Bengal government's official website shows that the Nabanna Abhiyan reported benefitted around 500,000 women."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "News18 Bangla's reportage included a claim that the protests were orchestrated by Left parties, which was not supported by evidence.",
-          "missing_context": "The omission of the police crackdown details and the peaceful nature of the protests led to an incomplete understanding of the situation."
+          "key_gap": "The actual number of women benefitted by the program was lower than claimed.",
+          "missing_context": "A detailed assessment of the program's impact and effectiveness was not provided."
         }
       },
       {
-        "topic": "COVID-19 vaccination in West Bengal",
+        "topic": "Durga Puja Celebrations in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Mamata Banerjee govt. failed to vaccinate 18-44 age group in West Bengal",
-          "summary": "According to Zee News, the Mamata Banerjee government in West Bengal failed to vaccinate the 18-44 age group against COVID-19.",
+          "headline": "Durga Puja Celebrations in West Bengal: A Time for Joy and Festivity",
+          "summary": "According to ABP Ananda, the Durga Puja celebrations in West Bengal were reportedly peaceful and joyous. The celebrations reportedly drew large crowds and were a major tourist attraction.",
           "sources": [
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "Failed to vaccinate 18-44 age group"
+            "The Durga Puja celebrations in West Bengal were peaceful and joyous.",
+            "The celebrations drew large crowds and were a major tourist attraction."
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: COVID-19 Vaccination in West Bengal: Government's efforts and progress",
-          "summary": "According to FactChecker.in, the West Bengal government made efforts to vaccinate the 18-44 age group against COVID-19, although the vaccination drive faced challenges due to supply constraints.",
+          "headline": "Durga Puja Celebrations in West Bengal: A Review",
+          "summary": "According to data from the Kolkata Police, the Durga Puja celebrations in West Bengal were reportedly not without incident. FactChecker.in reported that the celebrations saw several reports of overcrowding and poor sanitation. The celebrations may have drawn large crowds, but the experience may not have been as joyful as claimed.",
           "sources": [
+            "Kolkata Police",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Government's vaccination efforts",
-            "Challenges faced due to supply constraints"
+            "The extent of overcrowding and poor sanitation during the celebrations.",
+            "Reports of incidents and problems faced by attendees."
           ],
-          "data_check": "RBI data shows that West Bengal received 4.3 million COVID-19 vaccine doses in the 18-44 age group."
+          "data_check": "Data from the Kolkata Police shows that there were several reports of overcrowding and poor sanitation during the Durga Puja celebrations in West Bengal."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Zee News' reportage included a claim that the government failed to vaccinate the 18-44 age group, which contradicts the government's efforts and progress.",
-          "missing_context": "The omission of the government's vaccination efforts and challenges faced due to supply constraints led to an incomplete understanding of the situation."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The extent of overcrowding and poor sanitation during the celebrations was not adequately reported.",
+          "missing_context": "Reports of incidents and problems faced by attendees were not provided."
         }
       }
     ]
@@ -156,73 +160,73 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Coal Shortage Hits West Bengal Power Plants Again",
+      "headline": "Rice Prices Soar 25% in 2 Weeks in West Bengal",
       "bullets": [
-        "Coal India Limited confirms 20% shortage in West Bengal region",
-        "Average power cuts increase by 2 hours in the last quarter",
-        "What this means for you: Higher bills expected as power plants resort to costly imports"
+        "Rice price in Kolkata now at ₹ 55.50/kg, up from ₹44.50/kg",
+        "Prices are expected to increase further due to monsoon damage",
+        "This could lead to higher food bills for low-income households"
       ],
-      "source": "Coal India Limited",
+      "source": "Directorate of Economics and Statistics, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal's Tea Gardens to Lay Off 10,000 Workers Temporarily",
+      "category": "Health",
+      "headline": "New Waterborne Disease Outbreak in South 24 Parganas",
       "bullets": [
-        "State government to compensate workers during layoff period",
-        "Industry sources estimate 20% productivity loss due to labor shortage",
-        "What this means for you: Possible price hike in tea products as production slows"
+        "43 reported cases of waterborne disease in past week",
+        "Water samples from affected areas found to have high bacterial count",
+        "Public health officials warn of potential outbreak in nearby areas"
       ],
-      "source": "Indian Tea Association",
-      "status": "CONFIRMED",
+      "source": "West Bengal State Health Department",
+      "status": "DEVELOPING",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "New Dengue Outbreak Hits Kolkata, 200 Cases Reported in July",
+      "category": "Labor",
+      "headline": "Tata Motors to Lay Off 1,500 Workers in Siliguri Plant",
       "bullets": [
-        "Kolkata Municipal Corporation increases vector control measures",
-        "Hospital admissions due to dengue up by 30% in the last fortnight",
-        "What this means for you: Increased risk of infection, stay vigilant"
+        "Company cites economic downturn as reason for layoffs",
+        "Affected workers to receive 3-month severance pay",
+        "Unions call for government intervention to prevent job losses"
       ],
-      "source": "Kolkata Municipal Corporation",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen After 2-Week Summer Break",
+      "category": "Environment",
+      "headline": "Locals Protest Against Proposed Coal Mine in Budge Budge",
       "bullets": [
-        "Government to provide free textbooks and uniforms to students",
-        "New curriculum to focus on vocational training and skill development",
-        "What this means for you: Better preparedness for future careers"
+        "Coal mine expected to displace 200 families and pollute nearby river",
+        "District administration yet to take decision on project",
+        "Protesters demand alternative employment and relocation options"
       ],
-      "source": "West Bengal Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "source": "The Telegraph",
+      "status": "UNVERIFIED",
+      "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Kolkata Flyover Collapse Leaves 5 Injured, Traffic Disrupted",
+      "category": "Transport",
+      "headline": "Bridge Collapse on Sevoke Road Causes Devastation",
       "bullets": [
-        "Kolkata Municipal Corporation to repair damaged flyover by week's end",
-        "Traffic congestion expected to ease once flyover is reopened",
-        "What this means for you: Expect delays, plan alternative routes"
+        "At least 5 vehicles stranded due to bridge collapse",
+        "Repair work expected to take 2-3 days",
+        "Traffic diversion routes announced by local authorities"
       ],
-      "source": "Kolkata Traffic Police",
+      "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal Forest Fires Burning 1,000 Acres of Land",
+      "category": "Education",
+      "headline": "West Bengal Board Exams Scheduled for August May Be Postponed",
       "bullets": [
-        "Forest Department deploys teams to contain fire",
-        "Loss of biodiversity and wildlife habitats expected if fire spreads",
-        "What this means for you: Increased risk of respiratory issues due to smoke"
+        "Education Minister cites COVID-19 concerns as reason for potential postponement",
+        "Students and parents await official announcement",
+        "State government assures that exams will be held this year"
       ],
-      "source": "West Bengal Forest Department",
+      "source": "Hindustan Times",
       "status": "DEVELOPING",
       "impact_score": 3
     }
