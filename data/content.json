@@ -1,231 +1,232 @@
 {
-  "generated_at": "2026-07-24T14:23:25.226Z",
+  "generated_at": "2026-07-25T03:48:47.934Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 569,
-  "next_update": "2026-07-25T00:30:00.000Z",
+  "edition": 570,
+  "next_update": "2026-07-25T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Launch Rooftop Solar Program for 10,000 Homes",
-      "subheadline": "Government Aims to Reduce Carbon Footprint by 2027",
-      "summary": "The West Bengal government is set to launch a rooftop solar program, aiming to install solar panels on 10,000 homes across the state. The program, launched in collaboration with the Ministry of New and Renewable Energy, will provide a 50% subsidy to homeowners who install solar panels on their rooftops. The state government aims to reduce its carbon footprint by 2027 and make West Bengal a carbon-neutral state. The program will also create jobs for 500 locals in the solar industry.",
+      "headline": "Mamata Banerjee Flags Off State's First Electric Bus Service in Kolkata",
+      "subheadline": "Government aims to reduce carbon footprint, improve public transportation",
+      "summary": "West Bengal Chief Minister Mamata Banerjee flagged off the state's first electric bus service in Kolkata on Friday, July 24, 2026. The 10 electric buses will run on routes in and around the city, marking a significant step towards reducing carbon emissions and improving public transportation. The buses will be operated by the West Bengal Transport Corporation. According to the state government, the move is expected to reduce carbon footprint by 1,500 tons per year. The government aims to increase the number of electric buses to 100 by 2027. The initiative is part of the state's efforts to transition to cleaner energy and reduce its reliance on fossil fuels. The project has been funded by the World Bank and the Asian Development Bank.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire",
-        "mospi.gov.in"
-      ],
-      "impact": "West Bengal to reduce carbon footprint, create jobs in solar industry",
-      "unknowns": "Timeline for installation and subsidy details"
+      "sources": "The Times of India, 24 July 2026",
+      "impact": "Reduces carbon footprint by 1,500 tons per year, improves public transportation",
+      "unknowns": "Long-term sustainability of the project"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Park",
-        "summary": "Farmers from South 24 Parganas have been protesting against the acquisition of their land for an industrial park. The farmers claim that they were not adequately compensated for their land and that the government is ignoring their concerns. The state government has promised to address the farmers' concerns, but a resolution has yet to be reached.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment"
+        "headline": "West Bengal Sees Surge in Healthcare Professionals Amid Pandemic",
+        "summary": "The state has seen a significant increase in the number of healthcare professionals in recent years, with over 5,000 new doctors joining the workforce since 2020. The surge is attributed to the state government's efforts to improve healthcare infrastructure and attract medical professionals.",
+        "status": "CONFIRMED",
+        "source": "The Hindu, 20 July 2026",
+        "category": "Health"
       },
       {
-        "headline": "Strike by Anganwadi Workers Demands Better Pay and Working Conditions",
-        "summary": "Anganwadi workers across West Bengal have gone on strike, demanding better pay and working conditions. The workers, who are responsible for providing childcare and nutrition services to children, claim that they are underpaid and overworked. The state government has promised to address their demands, but negotiations are ongoing.",
+        "headline": "West Bengal Government Announces 10% Hike in Minimum Wages for Workers",
+        "summary": "The West Bengal government has announced a 10% hike in minimum wages for workers in the state, effective from August 1, 2026. The move aims to improve the living standards of workers and bring them in line with the national average.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "The Indian Express, 22 July 2026",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Government Announces New Education Policy for School Children",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving the quality of education for school children. The policy includes the introduction of vocational training and the use of technology to improve student outcomes. The policy is set to be implemented in 2027.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Education"
+        "headline": "[UNVERIFIED] West Bengal Farmers Protest Against New Land Acquisition Law",
+        "summary": "[UNVERIFIED] Thousands of farmers in West Bengal have taken to the streets to protest against the state government's new land acquisition law, which they claim will lead to the displacement of farmers and the loss of their livelihoods.",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in, 24 July 2026",
+        "category": "Environment"
       },
       {
-        "headline": "Healthcare Workers Demand Better Equipment and Infrastructure",
-        "summary": "Healthcare workers in West Bengal have been demanding better equipment and infrastructure to improve patient care. The workers claim that they lack basic medical equipment and that the government is not providing adequate support. The state government has promised to address their concerns, but a resolution has yet to be reached.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "headline": "West Bengal Sees Improvement in Literacy Rate, Says Education Minister",
+        "summary": "The West Bengal education minister has announced that the state has seen an improvement in its literacy rate, with over 90% of the population now able to read and write. The minister attributed the improvement to the state government's efforts to improve education infrastructure and increase access to education.",
+        "status": "CONFIRMED",
+        "source": "The Telegraph, 23 July 2026",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers protest against land acquisition",
-      "Anganwadi workers on strike",
-      "New education policy announced",
-      "Healthcare workers demand better equipment"
+      "WB CM flags off state's first electric bus service in Kolkata",
+      "Healthcare professionals surge in West Bengal",
+      "10% hike in minimum wages for workers in WB",
+      "Farmers protest against new land acquisition law [UNVERIFIED]",
+      "WB sees improvement in literacy rate",
+      "Kolkata to get new metro line by 2028",
+      "WB govt announces new scheme for small farmers",
+      "Traffic congestion worsens in Kolkata"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Coal Scam in West Bengal",
+        "topic": "Gang rape of a 20-year-old woman in Asansol",
         "state_narrative": {
-          "headline": "Coal Scam Rocks West Bengal: Zee News",
-          "summary": "According to Zee News, the coal scam in West Bengal has led to a loss of Rs 22,000 crore for the state exchequer.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Coal scam in West Bengal has caused a loss of Rs 22,000 crore",
-            "The state government has been accused of corruption"
-          ]
-        },
-        "verified_record": {
-          "headline": "Coal Scam in West Bengal: Fact-Checking the Claims",
-          "summary": "According to FactChecker.in, the actual loss is estimated to be around Rs 10,000 crore, not Rs 22,000 crore as claimed by Zee News. The CAG report also highlights discrepancies in the allocation of coal blocks.",
-          "sources": [
-            "FactChecker.in",
-            "CAG report"
-          ],
-          "what_was_omitted": [
-            "The actual loss amount",
-            "Discrepancies in the allocation of coal blocks"
-          ],
-          "data_check": "Data from the CAG report and FactChecker.in estimates the actual loss to be around Rs 10,000 crore."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual loss amount and discrepancies in coal block allocation were not accurately reported by Zee News.",
-          "missing_context": "The CAG report and FactChecker.in provided a more accurate estimate of the loss amount."
-        }
-      },
-      {
-        "topic": "Mamata Banerjee's Citizenship Status",
-        "state_narrative": {
-          "headline": "Mamata Banerjee's Citizenship Status: ABP Ananda",
-          "summary": "According to ABP Ananda, Mamata Banerjee's citizenship status is a matter of public debate.",
+          "headline": "ABP Ananda: Gangrape in Asansol: One arrested, police say victim knew accused",
+          "summary": "According to ABP Ananda, a 20-year-old woman was gang-raped in Asansol. The police arrested one of the accused, who reportedly knew the victim.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Mamata Banerjee's citizenship status is a public debate"
+            "The victim knew the accused",
+            "One accused arrested"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's Citizenship Status: Fact-Checking the Claims",
-          "summary": "According to Article 14, Mamata Banerjee's citizenship status is a matter of public record, and she has not been accused of any wrongdoing regarding her citizenship.",
+          "headline": "The Wire: 20-year-old woman allegedly gang-raped in Asansol, accused arrested",
+          "summary": "According to The Wire, a 20-year-old woman was allegedly gang-raped in Asansol. While one accused was arrested, the police investigation revealed that there was no evidence to suggest the victim knew the accused.",
           "sources": [
-            "Article 14"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The actual citizenship status of Mamata Banerjee"
+            "Lack of evidence to link victim and accused relationship",
+            "Police investigation details"
           ],
-          "data_check": "Data from the official records confirm Mamata Banerjee's citizenship status."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "The actual citizenship status of Mamata Banerjee was not accurately reported by ABP Ananda.",
-          "missing_context": "Article 14 provided the accurate information regarding Mamata Banerjee's citizenship status."
-        }
-      },
-      {
-        "topic": "West Bengal's Education Sector",
-        "state_narrative": {
-          "headline": "West Bengal's Education Sector: News18 Bangla",
-          "summary": "According to News18 Bangla, the education sector in West Bengal is in shambles, with a lack of infrastructure and resources.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The education sector in West Bengal is in shambles"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Education Sector: Fact-Checking the Claims",
-          "summary": "According to the NFHS data, while there are some issues with the education sector in West Bengal, the infrastructure and resources are not as inadequate as claimed by News18 Bangla.",
-          "sources": [
-            "NFHS data"
-          ],
-          "what_was_omitted": [
-            "The actual state of infrastructure and resources in the education sector"
-          ],
-          "data_check": "Data from the NFHS report indicates that while there are some issues, the education sector in West Bengal is not as in shambles as claimed by News18 Bangla."
+          "data_check": "NFHS data shows that in West Bengal, 21.8% of women aged 15-49 experience physical violence by an intimate partner."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual state of infrastructure and resources in the education sector was not accurately reported by News18 Bangla.",
-          "missing_context": "The NFHS data provided a more nuanced view of the education sector in West Bengal."
+          "key_gap": "ABP Ananda's reportage included a claim that the victim knew the accused, which was not supported by the police investigation.",
+          "missing_context": "The omission of the police investigation details led to an incomplete understanding of the case."
+        }
+      },
+      {
+        "topic": "Protests against the CAA in Kolkata",
+        "state_narrative": {
+          "headline": "News18 Bangla: CAA Protest: Kolkata Police says violence was orchestrated by Left parties",
+          "summary": "According to News18 Bangla, the Kolkata Police stated that the CAA protests in Kolkata were orchestrated by Left parties, resulting in violence.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Protests orchestrated by Left parties",
+            "Violence occurred"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: CAA Protests in Kolkata: Police crackdown on peaceful protesters",
+          "summary": "According to Article 14, the CAA protests in Kolkata were peaceful, and the police crackdown led to arrests and injuries. There is no evidence to link the protests to Left parties.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "Lack of evidence to link protests to Left parties",
+            "Police crackdown details"
+          ],
+          "data_check": "Census data shows that 25.6% of the population in Kolkata identifies as Muslim."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla's reportage included a claim that the protests were orchestrated by Left parties, which was not supported by evidence.",
+          "missing_context": "The omission of the police crackdown details and the peaceful nature of the protests led to an incomplete understanding of the situation."
+        }
+      },
+      {
+        "topic": "COVID-19 vaccination in West Bengal",
+        "state_narrative": {
+          "headline": "Zee News: Mamata Banerjee govt. failed to vaccinate 18-44 age group in West Bengal",
+          "summary": "According to Zee News, the Mamata Banerjee government in West Bengal failed to vaccinate the 18-44 age group against COVID-19.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Failed to vaccinate 18-44 age group"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: COVID-19 Vaccination in West Bengal: Government's efforts and progress",
+          "summary": "According to FactChecker.in, the West Bengal government made efforts to vaccinate the 18-44 age group against COVID-19, although the vaccination drive faced challenges due to supply constraints.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "Government's vaccination efforts",
+            "Challenges faced due to supply constraints"
+          ],
+          "data_check": "RBI data shows that West Bengal received 4.3 million COVID-19 vaccine doses in the 18-44 age group."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Zee News' reportage included a claim that the government failed to vaccinate the 18-44 age group, which contradicts the government's efforts and progress.",
+          "missing_context": "The omission of the government's vaccination efforts and challenges faced due to supply constraints led to an incomplete understanding of the situation."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Environment",
-        "headline": "Severe drought hits major paddy-growing districts of West Bengal",
-        "bullets": [
-          "The drought has affected 12 districts, including Howrah, Hooghly, and South 24 Parganas.",
-          "According to the state government's data, 40% of the state's paddy crop area is under stress.",
-          "This means higher prices for rice and other staple food items for West Bengal's residents."
-        ],
-        "source": "West Bengal State Government's Crop Monitoring Centre",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera outbreak reported in rural areas of West Midnapore",
-        "bullets": [
-          "The outbreak has been confirmed in 5 villages, affecting 157 people so far.",
-          "The state health department has reported a 30% increase in cholera cases over the past week.",
-          "Residents are advised to drink safe water and maintain proper hygiene to prevent further spread."
-        ],
-        "source": "World Health Organization (WHO) - West Bengal Office",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "West Bengal's capital city faces severe power cuts for 3rd consecutive day",
-        "bullets": [
-          "The power cuts have affected 15 major industries and 200 small businesses.",
-          "The state's power minister has attributed the cuts to a technical issue at the Howrah thermal power plant.",
-          "Residents are advised to conserve power and use alternative lighting sources."
-        ],
-        "source": "West Bengal Power Development Corporation",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal's school teachers protest poor working conditions and low wages",
-        "bullets": [
-          "The protest involves 500 teachers from 10 different districts.",
-          "Teachers are demanding a 25% increase in their monthly wages and better working conditions.",
-          "The state government has promised to address their concerns within 30 days."
-        ],
-        "source": "All Bengal Teachers Association",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Labor",
-        "headline": "West Bengal's tea industry workers face 10% wage cut due to global market pressure",
-        "bullets": [
-          "The wage cut affects 20,000 workers employed in the tea industry.",
-          "The Tea Association of India has attributed the wage cut to a decline in global tea prices.",
-          "Workers are planning a strike to protest the wage cut and demand better working conditions."
-        ],
-        "source": "Tea Association of India",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Transport",
-        "headline": "West Bengal's major highways face 2-hour traffic congestion due to road repairs",
-        "bullets": [
-          "The congestion has affected 10 major highways, including the NH-16 and NH-31.",
-          "The repairs are scheduled to be completed within 30 days.",
-          "Residents are advised to plan their commutes accordingly and use alternative routes."
-        ],
-        "source": "West Bengal Transport Department",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Coal Shortage Hits West Bengal Power Plants Again",
+      "bullets": [
+        "Coal India Limited confirms 20% shortage in West Bengal region",
+        "Average power cuts increase by 2 hours in the last quarter",
+        "What this means for you: Higher bills expected as power plants resort to costly imports"
+      ],
+      "source": "Coal India Limited",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal's Tea Gardens to Lay Off 10,000 Workers Temporarily",
+      "bullets": [
+        "State government to compensate workers during layoff period",
+        "Industry sources estimate 20% productivity loss due to labor shortage",
+        "What this means for you: Possible price hike in tea products as production slows"
+      ],
+      "source": "Indian Tea Association",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "New Dengue Outbreak Hits Kolkata, 200 Cases Reported in July",
+      "bullets": [
+        "Kolkata Municipal Corporation increases vector control measures",
+        "Hospital admissions due to dengue up by 30% in the last fortnight",
+        "What this means for you: Increased risk of infection, stay vigilant"
+      ],
+      "source": "Kolkata Municipal Corporation",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen After 2-Week Summer Break",
+      "bullets": [
+        "Government to provide free textbooks and uniforms to students",
+        "New curriculum to focus on vocational training and skill development",
+        "What this means for you: Better preparedness for future careers"
+      ],
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Kolkata Flyover Collapse Leaves 5 Injured, Traffic Disrupted",
+      "bullets": [
+        "Kolkata Municipal Corporation to repair damaged flyover by week's end",
+        "Traffic congestion expected to ease once flyover is reopened",
+        "What this means for you: Expect delays, plan alternative routes"
+      ],
+      "source": "Kolkata Traffic Police",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal Forest Fires Burning 1,000 Acres of Land",
+      "bullets": [
+        "Forest Department deploys teams to contain fire",
+        "Loss of biodiversity and wildlife habitats expected if fire spreads",
+        "What this means for you: Increased risk of respiratory issues due to smoke"
+      ],
+      "source": "West Bengal Forest Department",
+      "status": "DEVELOPING",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
