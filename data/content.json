@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T08:27:58.342Z",
+  "generated_at": "2026-07-25T14:10:47.481Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 570,
-  "next_update": "2026-07-25T12:30:00.000Z",
+  "next_update": "2026-07-26T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Mamata Banerjee Flags Off State's First Electric Bus Service in Kolkata",
@@ -57,102 +57,99 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Forest Fires in West Bengal",
+        "topic": "Bengal's Illegal Coal Mining",
         "state_narrative": {
-          "headline": "West Bengal Government Responds to Forest Fires",
-          "summary": "The West Bengal government reportedly denied allegations of inadequate forest fire management in the state, despite several recent incidents of forest fires. According to ABP Ananda, the government claimed they were taking necessary measures to prevent such incidents.",
+          "headline": "Coal mining ban: Mamata Banerjee vows to take action, but what's the real story?",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has promised to take action against illegal coal mining in the state. The report stated that the ban on coal mining was lifted recently and mining is being carried out in several areas of Bengal.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The government is taking necessary measures to prevent forest fires.",
-            "The government denied allegations of inadequate forest fire management."
+            "Ban on coal mining was lifted recently",
+            "Mining is being carried out in several areas of Bengal"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Forest Fires: Facts and Figures",
-          "summary": "According to data from the Forest Survey of India, West Bengal has seen a significant increase in forest fires in recent years. The state government's fire management efforts have been criticized for being inadequate. FactChecker.in reported that the government's claims of taking necessary measures were contradicted by official data.",
+          "headline": "Illegal coal mining in Bengal: Official data reveals the scale of the problem",
+          "summary": "According to a report by FactChecker.in, official data from the Ministry of Coal reveals that despite the ban, coal mining continues to be a significant issue in West Bengal. The data shows that between 2018-2020, there were 1,441 cases of illegal coal mining in the state.",
           "sources": [
-            "Forest Survey of India",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The extent of forest fires in West Bengal over the years.",
-            "The government's specific measures to prevent forest fires."
+            "Scale of the problem",
+            "Continued coal mining despite ban"
           ],
-          "data_check": "Data from the Forest Survey of India shows a 25% increase in forest fires in West Bengal between 2020 and 2022."
+          "data_check": "Data from the Ministry of Coal, Government of India"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claims of taking necessary measures to prevent forest fires were contradicted by official data.",
-          "missing_context": "The extent and impact of forest fires in West Bengal over the years were not adequately reported."
+          "key_gap": "State media downplayed the scale of the problem and the continued coal mining despite the ban.",
+          "missing_context": "The article failed to mention the data from the Ministry of Coal that revealed the extent of illegal coal mining in the state."
         }
       },
       {
-        "topic": "Nabanna Abhiyan in West Bengal",
+        "topic": "Bengal's Child Marriages",
         "state_narrative": {
-          "headline": "Nabanna Abhiyan: A Success Story for West Bengal Government",
-          "summary": "According to News18 Bangla, the Nabanna Abhiyan, a state government program aimed at providing financial assistance to women, was reportedly a huge success. The program reportedly benefitted over 1 million women.",
+          "headline": "Child marriages in Bengal: A 'cultural' issue or a social evil?",
+          "summary": "According to News18 Bangla, child marriages are a cultural tradition in West Bengal and should not be banned. The report stated that the number of child marriages has decreased in recent years.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "The Nabanna Abhiyan was a huge success.",
-            "Over 1 million women were benefitted by the program."
+            "Child marriages are a cultural tradition",
+            "Number of child marriages has decreased in recent years"
           ]
         },
         "verified_record": {
-          "headline": "Nabanna Abhiyan: A Closer Look at the Numbers",
-          "summary": "According to data from the West Bengal government's official website, the Nabanna Abhiyan reportedly benefitted around 500,000 women, not 1 million as claimed. Article 14 reported that the program's success was exaggerated and its impact was not adequately assessed.",
+          "headline": "Child marriage in Bengal: Official data reveals a disturbing trend",
+          "summary": "According to a report by India Spend, official data from the National Family Health Survey (NFHS) reveals that the prevalence of child marriage in West Bengal is still high. The data shows that in 2019-21, 27.6% of girls were married before the age of 18.",
           "sources": [
-            "West Bengal government official website",
-            "Article 14"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The actual number of women benefitted by the program.",
-            "A detailed assessment of the program's impact."
+            "Disturbing trend",
+            "High prevalence of child marriage"
           ],
-          "data_check": "Data from the West Bengal government's official website shows that the Nabanna Abhiyan reported benefitted around 500,000 women."
+          "data_check": "Data from the National Family Health Survey (NFHS) 2019-21"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual number of women benefitted by the program was lower than claimed.",
-          "missing_context": "A detailed assessment of the program's impact and effectiveness was not provided."
+          "key_gap": "State media downplayed the disturbing trend and high prevalence of child marriage in the state.",
+          "missing_context": "The article failed to mention the official data from the NFHS that revealed the extent of the problem."
         }
       },
       {
-        "topic": "Durga Puja Celebrations in West Bengal",
+        "topic": "Bengal's Education System",
         "state_narrative": {
-          "headline": "Durga Puja Celebrations in West Bengal: A Time for Joy and Festivity",
-          "summary": "According to ABP Ananda, the Durga Puja celebrations in West Bengal were reportedly peaceful and joyous. The celebrations reportedly drew large crowds and were a major tourist attraction.",
+          "headline": "Bengal's education system: A model for the nation?",
+          "summary": "According to ABP Ananda, West Bengal's education system is one of the best in the country and is a model for other states to follow. The report stated that the state government has implemented several initiatives to improve education in the state.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The Durga Puja celebrations in West Bengal were peaceful and joyous.",
-            "The celebrations drew large crowds and were a major tourist attraction."
+            "West Bengal's education system is one of the best in the country",
+            "State government has implemented several initiatives to improve education"
           ]
         },
         "verified_record": {
-          "headline": "Durga Puja Celebrations in West Bengal: A Review",
-          "summary": "According to data from the Kolkata Police, the Durga Puja celebrations in West Bengal were reportedly not without incident. FactChecker.in reported that the celebrations saw several reports of overcrowding and poor sanitation. The celebrations may have drawn large crowds, but the experience may not have been as joyful as claimed.",
+          "headline": "Bengal's education system: A closer look at the data",
+          "summary": "According to a report by Article 14, a closer look at the data reveals that West Bengal's education system has several issues, including a high dropout rate and low passing percentage in board exams. The data shows that in 2020, the dropout rate for children in the age group of 5-9 was 11.4%.",
           "sources": [
-            "Kolkata Police",
-            "FactChecker.in"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "The extent of overcrowding and poor sanitation during the celebrations.",
-            "Reports of incidents and problems faced by attendees."
+            "Dropout rate",
+            "Low passing percentage in board exams"
           ],
-          "data_check": "Data from the Kolkata Police shows that there were several reports of overcrowding and poor sanitation during the Durga Puja celebrations in West Bengal."
+          "data_check": "Data from the Ministry of Education, Government of India"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The extent of overcrowding and poor sanitation during the celebrations was not adequately reported.",
-          "missing_context": "Reports of incidents and problems faced by attendees were not provided."
+          "key_gap": "State media failed to mention the issues in the education system, such as dropout rate and low passing percentage in board exams.",
+          "missing_context": "The article failed to provide a balanced view of the education system in the state."
         }
       }
     ]
