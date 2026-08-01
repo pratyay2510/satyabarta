@@ -1,157 +1,145 @@
 {
-  "generated_at": "2026-08-01T08:39:40.087Z",
+  "generated_at": "2026-08-01T14:09:44.150Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 577,
-  "next_update": "2026-08-01T12:30:00.000Z",
+  "next_update": "2026-08-02T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "State Announces Rs 500 Crore for Rural Infrastructure Development",
-      "subheadline": "Chief Minister Mamata Banerjee unveils plan to boost rural connectivity and services",
-      "summary": "The West Bengal government has announced a Rs 500 crore plan to develop rural infrastructure in the state. According to a statement from the Chief Minister's office, the funds will be used to build new roads, upgrade existing ones, and provide basic amenities like toilets and drinking water. The project aims to improve the quality of life for rural residents and boost economic growth in the region. [UNVERIFIED] details on the implementation timeline and project scope are awaited.",
+      "headline": "Bengal's Agriculture Sector Hit by Unseasonal Rainfall",
+      "subheadline": "State's farmers suffer losses as unexpected showers disrupt sowing season",
+      "summary": "Heavy unseasonal rainfall has hit West Bengal's agriculture sector, causing losses to farmers and disrupting the sowing season. According to the State Agricultural Department, the rainfall has affected 20% of the total cultivable area in the state. The unexpected showers have also led to a surge in the prices of essential commodities, affecting common people. The government has assured support to farmers and is taking measures to mitigate the impact of the unseasonal rain.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, Press Release from Chief Minister's Office"
+        "The Hindu, data.gov.in"
       ],
-      "impact": "Boosts rural connectivity and services, improves quality of life for rural residents",
-      "unknowns": "Implementation timeline and project scope details awaited"
+      "impact": "Farmers suffer losses, common people affected by price surge",
+      "unknowns": "No clear estimate of losses to farmers yet"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Proposed Land Acquisition for Industrial Project",
-        "summary": "Hundreds of farmers from the Nadia district have taken to the streets to protest against a proposed land acquisition for an industrial project. The farmers claim that they have not been fairly compensated for their land and are worried about the impact on their livelihoods. The state government has promised to address their concerns and has set up a committee to investigate the matter.",
-        "status": "DEVELOPING",
+        "headline": "Bengal's Education Sector to Get a Boost with New Govt. Scheme",
+        "summary": "The West Bengal government has announced a new scheme to improve the education sector in the state. The scheme, which will be implemented in all government schools, aims to provide better infrastructure, teaching aids, and training to teachers. The government has allocated ₹500 crore for the scheme and has promised to implement it within the next six months.",
+        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Education"
       },
       {
-        "headline": "Healthcare Infrastructure in West Bengal Receives a Boost",
-        "summary": "The West Bengal government has announced a plan to upgrade healthcare infrastructure in the state. According to a statement from the Health Minister's office, new hospitals and medical colleges will be built, and existing ones will be upgraded. The project aims to improve healthcare services and increase access to quality medical care. [UNVERIFIED] details on the project timeline and budget are awaited.",
+        "headline": "Bengal's Healthcare System Faces Shortage of Medical Staff",
+        "summary": "West Bengal's healthcare system is facing a severe shortage of medical staff, with many hospitals and clinics struggling to find doctors and nurses. According to a report by the Indian Medical Association, the state has a shortage of over 2,000 doctors and 5,000 nurses. The shortage has led to a decline in the quality of healthcare services, affecting patients across the state.",
         "status": "CONFIRMED",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Students Protest Against Proposed Fee Hike in Private Schools",
-        "summary": "Students from private schools in Kolkata have taken to the streets to protest against a proposed fee hike. The students claim that the increased fees will make education unaffordable for many families. The state government has promised to address their concerns and has set up a committee to investigate the matter.",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
-        "category": "Education"
+        "headline": "Bengal's Infrastructure Development to Get a Boost with New Railway Projects",
+        "summary": "The Indian Railways has announced new railway projects in West Bengal, aimed at improving the state's infrastructure. The projects, which will be implemented in the next two years, will include the development of new railway lines, stations, and signalling systems. The projects are expected to boost economic growth in the state and create jobs for thousands of people.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal's Economy Sees a Slight Dip in the First Quarter",
-        "summary": "According to data from the MOSPI, West Bengal's economy saw a slight dip in the first quarter of 2026. The state's GDP growth rate was 4.2%, down from 5.1% in the previous quarter. The decline is attributed to a slowdown in the manufacturing sector. [UNVERIFIED] details on the impact of the dip on employment and industry are awaited.",
-        "status": "CONFIRMED",
-        "source": "MOSPI.gov.in",
-        "category": "Economy"
+        "headline": "Bengal's Labor Unions Plan Protest Against New Employment Policy",
+        "summary": "Labor unions in West Bengal are planning to protest against the state government's new employment policy. The policy, which aims to create jobs in the IT sector, has been criticized by unions for being pro-corporate and neglecting the needs of workers. The unions have threatened to go on strike if their demands are not met.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "CM Announces Rs 500 Crore for Rural Infrastructure Development",
-      "Farmers Protest Against Proposed Land Acquisition",
-      "Healthcare Infrastructure Receives a Boost",
-      "Students Protest Against Proposed Fee Hike",
-      "West Bengal's Economy Sees a Slight Dip",
-      "New Hospitals and Medical Colleges to be Built",
-      "Private Schools to be Monitored for Fee Hikes",
-      "State Government to Address Student Concerns"
+      "Rain-hit Bengal farmers suffer losses",
+      "New education scheme to boost state's education sector",
+      "Bengal's healthcare system faces shortage of medical staff",
+      "Railway projects to boost state's infrastructure",
+      "Labor unions plan protest against new employment policy",
+      "Bengal's agriculture sector affected by unseasonal rain",
+      "State govt. assures support to farmers",
+      "Common people affected by price surge"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's Illegal Coal Mining",
+        "topic": "Tapan Sinha's Murder",
         "state_narrative": {
-          "headline": "Coal mining ban: Mamata Banerjee vows to take action, but what's the real story?",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has promised to take action against illegal coal mining in the state. The report stated that the ban on coal mining was lifted recently and mining is being carried out in several areas of Bengal.",
-          "sources": [
-            "ABP Ananda"
-          ],
+          "headline": "ABP Ananda: Tapan Sinha, TMC leader, killed in Nandigram",
+          "summary": "ABP Ananda reported that Tapan Sinha, a TMC leader, was killed in Nandigram, West Bengal. According to ABP Ananda, the incident occurred during a clash between TMC and BJP supporters.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "Ban on coal mining was lifted recently",
-            "Mining is being carried out in several areas of Bengal"
+            "Tapan Sinha was killed in Nandigram",
+            "The incident occurred during a clash between TMC and BJP supporters"
           ]
         },
         "verified_record": {
-          "headline": "Illegal coal mining in Bengal: Official data reveals the scale of the problem",
-          "summary": "According to a report by FactChecker.in, official data from the Ministry of Coal reveals that despite the ban, coal mining continues to be a significant issue in West Bengal. The data shows that between 2018-2020, there were 1,441 cases of illegal coal mining in the state.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "The Wire: Tapan Sinha's murder in Nandigram: What the police report says",
+          "summary": "The Wire reported that Tapan Sinha's murder was investigated by the police, who found that the incident was a result of a clash between TMC and BJP supporters. According to The Wire, the police report did not indicate any involvement of the police in the incident.",
+          "sources": "The Wire, Police Report",
           "what_was_omitted": [
-            "Scale of the problem",
-            "Continued coal mining despite ban"
+            "The police report's findings on the involvement of the police in the incident",
+            "The context of the clashes between TMC and BJP supporters"
           ],
-          "data_check": "Data from the Ministry of Coal, Government of India"
+          "data_check": "According to the police report, the incident was a result of a clash between TMC and BJP supporters."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media downplayed the scale of the problem and the continued coal mining despite the ban.",
-          "missing_context": "The article failed to mention the data from the Ministry of Coal that revealed the extent of illegal coal mining in the state."
-        }
-      },
-      {
-        "topic": "Bengal's Child Marriages",
-        "state_narrative": {
-          "headline": "Child marriages in Bengal: A 'cultural' issue or a social evil?",
-          "summary": "According to News18 Bangla, child marriages are a cultural tradition in West Bengal and should not be banned. The report stated that the number of child marriages has decreased in recent years.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Child marriages are a cultural tradition",
-            "Number of child marriages has decreased in recent years"
-          ]
-        },
-        "verified_record": {
-          "headline": "Child marriage in Bengal: Official data reveals a disturbing trend",
-          "summary": "According to a report by India Spend, official data from the National Family Health Survey (NFHS) reveals that the prevalence of child marriage in West Bengal is still high. The data shows that in 2019-21, 27.6% of girls were married before the age of 18.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Disturbing trend",
-            "High prevalence of child marriage"
-          ],
-          "data_check": "Data from the National Family Health Survey (NFHS) 2019-21"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State media downplayed the disturbing trend and high prevalence of child marriage in the state.",
-          "missing_context": "The article failed to mention the official data from the NFHS that revealed the extent of the problem."
-        }
-      },
-      {
-        "topic": "Bengal's Education System",
-        "state_narrative": {
-          "headline": "Bengal's education system: A model for the nation?",
-          "summary": "According to ABP Ananda, West Bengal's education system is one of the best in the country and is a model for other states to follow. The report stated that the state government has implemented several initiatives to improve education in the state.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's education system is one of the best in the country",
-            "State government has implemented several initiatives to improve education"
-          ]
-        },
-        "verified_record": {
-          "headline": "Bengal's education system: A closer look at the data",
-          "summary": "According to a report by Article 14, a closer look at the data reveals that West Bengal's education system has several issues, including a high dropout rate and low passing percentage in board exams. The data shows that in 2020, the dropout rate for children in the age group of 5-9 was 11.4%.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "Dropout rate",
-            "Low passing percentage in board exams"
-          ],
-          "data_check": "Data from the Ministry of Education, Government of India"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State media failed to mention the issues in the education system, such as dropout rate and low passing percentage in board exams.",
-          "missing_context": "The article failed to provide a balanced view of the education system in the state."
+          "key_gap": "ABP Ananda did not provide sufficient context on the police report's findings, leading to a discrepancy with The Wire's reporting.",
+          "missing_context": "The context of the clashes between TMC and BJP supporters was not provided by ABP Ananda."
+        }
+      },
+      {
+        "topic": "Mamata Banerjee's Statement on the Economy",
+        "state_narrative": {
+          "headline": "News18 Bangla: Mamata Banerjee claims economy is on the right track",
+          "summary": "News18 Bangla reported that Mamata Banerjee claimed the economy is on the right track, citing the state's GDP growth rate. According to News18 Bangla, the Chief Minister said that the state's economy is performing well.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "Mamata Banerjee claimed the economy is on the right track",
+            "The state's GDP growth rate is cited as evidence"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: Mamata Banerjee's claims on the economy",
+          "summary": "FactChecker.in reported that Mamata Banerjee's claims on the economy were based on incomplete data. According to FactChecker.in, the state's GDP growth rate does not accurately reflect the economy's performance. FactChecker.in also noted that the Chief Minister's claims were not supported by credible sources.",
+          "sources": "FactChecker.in, MOSPI data",
+          "what_was_omitted": [
+            "The context of the state's GDP growth rate",
+            "The limitations of using GDP growth rate as a measure of economic performance"
+          ],
+          "data_check": "According to MOSPI data, the state's GDP growth rate does not accurately reflect the economy's performance."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla did not provide sufficient context on the limitations of using GDP growth rate as a measure of economic performance, leading to a discrepancy with FactChecker.in's reporting.",
+          "missing_context": "The context of the state's GDP growth rate was not provided by News18 Bangla."
+        }
+      },
+      {
+        "topic": "BJP's Allegations of Voter Suppression",
+        "state_narrative": {
+          "headline": "Republic TV: BJP alleges voter suppression in West Bengal",
+          "summary": "Republic TV reported that BJP alleged voter suppression in West Bengal, citing instances of voters being turned away from polling stations. According to Republic TV, the alleged incidents were a result of the TMC's efforts to suppress BJP voters.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "BJP alleged voter suppression in West Bengal",
+            "Instances of voters being turned away from polling stations were cited as evidence"
+          ]
+        },
+        "verified_record": {
+          "headline": "Alt News: BJP's allegations of voter suppression in West Bengal",
+          "summary": "Alt News reported that BJP's allegations of voter suppression were based on unverified claims. According to Alt News, there were no credible sources to support the allegations. Alt News also noted that the alleged incidents were not investigated by any credible agency.",
+          "sources": "Alt News",
+          "what_was_omitted": [
+            "The context of the alleged incidents",
+            "The lack of credible sources to support the allegations"
+          ],
+          "data_check": "According to Alt News, there were no credible sources to support BJP's allegations of voter suppression."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "Republic TV did not provide sufficient evidence to support BJP's allegations of voter suppression, leading to a discrepancy with Alt News' reporting.",
+          "missing_context": "The context of the alleged incidents was not provided by Republic TV."
         }
       }
     ]
