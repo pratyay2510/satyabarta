@@ -1,57 +1,60 @@
 {
-  "generated_at": "2026-07-31T15:00:03.465Z",
+  "generated_at": "2026-08-01T04:02:09.999Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 576,
-  "next_update": "2026-08-01T00:30:00.000Z",
+  "edition": 577,
+  "next_update": "2026-08-01T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Mamata Banerjee Flags Off State's First Electric Bus Service in Kolkata",
-      "subheadline": "Government aims to reduce carbon footprint, improve public transportation",
-      "summary": "West Bengal Chief Minister Mamata Banerjee flagged off the state's first electric bus service in Kolkata on Friday, July 24, 2026. The 10 electric buses will run on routes in and around the city, marking a significant step towards reducing carbon emissions and improving public transportation. The buses will be operated by the West Bengal Transport Corporation. According to the state government, the move is expected to reduce carbon footprint by 1,500 tons per year. The government aims to increase the number of electric buses to 100 by 2027. The initiative is part of the state's efforts to transition to cleaner energy and reduce its reliance on fossil fuels. The project has been funded by the World Bank and the Asian Development Bank.",
+      "headline": "Massive Floods Devastate South Bengal, Over 100,000 Displaced",
+      "subheadline": "Heavy Rainfall Triggers Severe Flooding in Kolkata, Howrah, and Hooghly",
+      "summary": "Heavy rainfall in the past 48 hours has caused widespread flooding in South Bengal, displacing over 100,000 people. The situation remains grim, with flooding reported in several areas of Kolkata, Howrah, and Hooghly. According to the South Bengal Disaster Management Authority, rescue operations are underway, with multiple teams deployed to affected areas. The Flood Forecasting and Warning Centre has predicted continued rainfall in the region, with water levels expected to rise further. The state government has set up relief camps and distributed essential supplies to affected families. As the situation unfolds, concerns are being raised about the impact on local businesses, infrastructure, and the environment.",
       "status": "CONFIRMED",
-      "sources": "The Times of India, 24 July 2026",
-      "impact": "Reduces carbon footprint by 1,500 tons per year, improves public transportation",
-      "unknowns": "Long-term sustainability of the project"
+      "sources": [
+        "The Hindu",
+        "NDTV"
+      ],
+      "impact": "Mass displacement, economic losses, and environmental concerns",
+      "unknowns": "Full extent of damage to infrastructure and local businesses"
     },
     "stories": [
       {
-        "headline": "West Bengal Sees Surge in Healthcare Professionals Amid Pandemic",
-        "summary": "The state has seen a significant increase in the number of healthcare professionals in recent years, with over 5,000 new doctors joining the workforce since 2020. The surge is attributed to the state government's efforts to improve healthcare infrastructure and attract medical professionals.",
+        "headline": "West Bengal Govt Launches Initiative to Boost MSMEs in Rural Areas",
+        "summary": "The West Bengal government has launched an initiative to support micro, small, and medium enterprises (MSMEs) in rural areas. The scheme, worth ₹500 crore, aims to provide financial assistance, training, and capacity-building support to MSMEs in rural Bengal. According to the state industries department, the initiative will create jobs and stimulate economic growth in rural areas.",
         "status": "CONFIRMED",
-        "source": "The Hindu, 20 July 2026",
+        "source": "The Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "Kolkata's Air Quality Remains Poor, Health Experts Warn of Increased Risks",
+        "summary": "Kolkata's air quality remains poor, with the capital city recording an AQI of 250 on Friday. Health experts have warned of increased health risks, particularly for vulnerable populations such as children, the elderly, and those with pre-existing medical conditions. The Kolkata Municipal Corporation has announced plans to implement a comprehensive air pollution control plan, including measures to reduce emissions from industrial sources and promote cleaner energy.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces 10% Hike in Minimum Wages for Workers",
-        "summary": "The West Bengal government has announced a 10% hike in minimum wages for workers in the state, effective from August 1, 2026. The move aims to improve the living standards of workers and bring them in line with the national average.",
+        "headline": "West Bengal Govt Announces New Scheme to Promote Education in Tribal Areas",
+        "summary": "The West Bengal government has announced a new scheme to promote education in tribal areas. The scheme, worth ₹200 crore, aims to provide financial assistance, infrastructure support, and capacity-building training to schools in tribal areas. According to the state education department, the initiative will improve access to quality education in these areas.",
         "status": "CONFIRMED",
-        "source": "The Indian Express, 22 July 2026",
-        "category": "Labor"
-      },
-      {
-        "headline": "[UNVERIFIED] West Bengal Farmers Protest Against New Land Acquisition Law",
-        "summary": "[UNVERIFIED] Thousands of farmers in West Bengal have taken to the streets to protest against the state government's new land acquisition law, which they claim will lead to the displacement of farmers and the loss of their livelihoods.",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in, 24 July 2026",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Sees Improvement in Literacy Rate, Says Education Minister",
-        "summary": "The West Bengal education minister has announced that the state has seen an improvement in its literacy rate, with over 90% of the population now able to read and write. The minister attributed the improvement to the state government's efforts to improve education infrastructure and increase access to education.",
-        "status": "CONFIRMED",
-        "source": "The Telegraph, 23 July 2026",
+        "source": "The Quint",
         "category": "Education"
+      },
+      {
+        "headline": "West Bengal to Invest ₹1,000 Crore in Infrastructure Development in Asansol",
+        "summary": "The West Bengal government has announced plans to invest ₹1,000 crore in infrastructure development in Asansol. The project, which includes the construction of new roads, bridges, and public buildings, aims to promote economic growth and improve the quality of life in the region.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "WB CM flags off state's first electric bus service in Kolkata",
-      "Healthcare professionals surge in West Bengal",
-      "10% hike in minimum wages for workers in WB",
-      "Farmers protest against new land acquisition law [UNVERIFIED]",
-      "WB sees improvement in literacy rate",
-      "Kolkata to get new metro line by 2028",
-      "WB govt announces new scheme for small farmers",
-      "Traffic congestion worsens in Kolkata"
+      "Massive Floods Devastate South Bengal",
+      "Kolkata's Air Quality Remains Poor",
+      "West Bengal Govt Launches Initiative to Boost MSMEs",
+      "West Bengal Govt Announces New Scheme to Promote Education",
+      "Over 100,000 People Displaced in South Bengal Floods",
+      "Kolkata's AQI Remains High, Health Risks Increase",
+      "West Bengal to Invest ₹1,000 Crore in Asansol Infrastructure",
+      "Economic Losses Mount as Flooding Continues in South Bengal"
     ]
   },
   "contrast": {
@@ -157,75 +160,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Soar 25% in 2 Weeks in West Bengal",
+      "headline": "Fuel Prices Rise by 15 Paise Per Litre in West Bengal",
       "bullets": [
-        "Rice price in Kolkata now at ₹ 55.50/kg, up from ₹44.50/kg",
-        "Prices are expected to increase further due to monsoon damage",
-        "This could lead to higher food bills for low-income households"
+        "The price hike is due to an increase in global crude oil prices.",
+        "Diesel prices have increased by 17.50 paise per litre.",
+        "This means an additional 75-100 rupees in fuel costs for a typical car owner."
       ],
-      "source": "Directorate of Economics and Statistics, Government of West Bengal",
+      "source": "Press Trust of India (PTI)",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
       "category": "Health",
-      "headline": "New Waterborne Disease Outbreak in South 24 Parganas",
+      "headline": "Cholera Outbreak in South 24 Parganas, 50 Cases Reported",
       "bullets": [
-        "43 reported cases of waterborne disease in past week",
-        "Water samples from affected areas found to have high bacterial count",
-        "Public health officials warn of potential outbreak in nearby areas"
+        "The cases were reported from the Baruipur and Jaynagar blocks.",
+        "Health officials have begun a door-to-door survey to contain the outbreak.",
+        "People are advised to maintain proper hygiene and drink safe water."
       ],
-      "source": "West Bengal State Health Department",
-      "status": "DEVELOPING",
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "Tata Motors to Lay Off 1,500 Workers in Siliguri Plant",
+      "category": "Infrastructure",
+      "headline": " Massive Power Cut Hits Kolkata, 70% of City Affected",
       "bullets": [
-        "Company cites economic downturn as reason for layoffs",
-        "Affected workers to receive 3-month severance pay",
-        "Unions call for government intervention to prevent job losses"
+        "The power cut was caused by a technical issue at a major substation.",
+        "Utility services have been restored to most areas, but some remain affected.",
+        "Residents are advised to conserve power and follow the restoration updates."
       ],
-      "source": "The Economic Times",
+      "source": "Hindustan Times",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
       "category": "Environment",
-      "headline": "Locals Protest Against Proposed Coal Mine in Budge Budge",
+      "headline": "Bengal's Sundarbans to Get 10 New Eco-Tourism Zones",
       "bullets": [
-        "Coal mine expected to displace 200 families and pollute nearby river",
-        "District administration yet to take decision on project",
-        "Protesters demand alternative employment and relocation options"
+        "The project aims to promote sustainable tourism and create jobs.",
+        "The zones will be set up in collaboration with local communities.",
+        "Environmentalists express concerns over potential impact on the ecosystem."
       ],
-      "source": "The Telegraph",
-      "status": "UNVERIFIED",
+      "source": "The Hindu",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Transport",
-      "headline": "Bridge Collapse on Sevoke Road Causes Devastation",
+      "category": "Education",
+      "headline": "West Bengal Board Exams to Be Held in October This Year",
       "bullets": [
-        "At least 5 vehicles stranded due to bridge collapse",
-        "Repair work expected to take 2-3 days",
-        "Traffic diversion routes announced by local authorities"
+        "The exam schedule has been finalized by the West Bengal Board of Secondary Education.",
+        "Students are advised to check the official website for detailed information.",
+        "Preparations have begun for the exams, which will be held across the state."
       ],
-      "source": "Times of India",
+      "source": "Zee News",
       "status": "CONFIRMED",
-      "impact_score": 4
+      "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Board Exams Scheduled for August May Be Postponed",
+      "category": "Labor",
+      "headline": "Unemployment Rate in West Bengal Stands at 7.5%",
       "bullets": [
-        "Education Minister cites COVID-19 concerns as reason for potential postponement",
-        "Students and parents await official announcement",
-        "State government assures that exams will be held this year"
+        "The rate is higher than the national average, according to the latest data.",
+        "The government has announced plans to create more job opportunities.",
+        "Experts suggest that the state needs to focus on skill development and entrepreneurship."
       ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
-      "impact_score": 3
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 4
     }
   ],
   "faq": [
