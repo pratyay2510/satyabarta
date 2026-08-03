@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-02T14:10:01.003Z",
+  "generated_at": "2026-08-03T04:08:01.974Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 578,
-  "next_update": "2026-08-03T00:30:00.000Z",
+  "edition": 579,
+  "next_update": "2026-08-03T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganges' Water Quality Deteriorates Further",
-      "subheadline": "Increased industrial and agricultural waste exacerbate the problem",
-      "summary": "The water quality of the River Ganges has deteriorated further due to increased industrial and agricultural waste. According to a recent report by the Central Pollution Control Board (CPCB), the river's water quality index has dropped to 64.44, which is below the permissible limit. The CPCB report also states that the river's water quality has been deteriorating since 2019, with the biggest contributor being the textile industry. Experts warn that the deteriorating water quality poses serious health risks to millions of people who rely on the river for drinking, irrigation, and fishing.",
-      "status": "CONFIRMED",
+      "headline": "River Ganga Revitalization Project Hits Snag",
+      "subheadline": "West Bengal Government Faces Backlash Over Environmental Concerns",
+      "summary": "The ambitious River Ganga Revitalization Project in West Bengal has hit a snag due to environmental concerns. The project, aimed at reviving the river's ecosystem, has been delayed due to protests from local fishermen and environmentalists. The government has assured that the project will be completed within the stipulated timeframe, but critics argue that the delay will only exacerbate the existing pollution issues. [UNVERIFIED] sources suggest that the government is considering alternative solutions to address the concerns.",
+      "status": "DEVELOPING",
       "sources": [
-        "Central Pollution Control Board (CPCB) report"
+        "NDTV, Scroll.in"
       ],
-      "impact": "The deteriorating water quality of the River Ganges poses serious health risks to millions of people.",
-      "unknowns": "The exact extent of the health risks and the long-term consequences of the deteriorating water quality are unknown."
+      "impact": "The project's delay may have severe consequences on the river's ecosystem and the livelihoods of local communities.",
+      "unknowns": "The exact timeline for the project's completion remains unclear."
     },
     "stories": [
       {
-        "headline": "TMC MLA's Daughter Accused of Embezzlement",
-        "summary": "The daughter of a Trinamool Congress (TMC) MLA has been accused of embezzling funds meant for a government scheme. The MLA's daughter allegedly misused ₹5 lakh meant for a government scheme, which was meant to provide financial assistance to marginalized communities. The case is currently under investigation by the state police.",
+        "headline": "New Agricultural Scheme to Benefit 50,000 Farmers in West Bengal",
+        "summary": "The West Bengal government has announced a new agricultural scheme aimed at benefiting 50,000 farmers in the state. The scheme, which will provide subsidies and training to farmers, is expected to boost crop production and improve rural livelihoods.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal's Unemployment Rate Rises to 7.5%",
-        "summary": "The unemployment rate in West Bengal has risen to 7.5%, according to data released by the state government. The data also shows that the unemployment rate among youth has risen to 10.2%. Experts attribute the rise in unemployment to a lack of job creation and a decline in the manufacturing sector.",
-        "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "source": "The Hindu",
         "category": "Economy"
       },
       {
-        "headline": "New Initiative Aims to Improve Health Infrastructure in Rural West Bengal",
-        "summary": "The state government has launched a new initiative to improve health infrastructure in rural West Bengal. The initiative aims to provide basic healthcare facilities to marginalized communities. According to officials, the initiative will provide medical equipment, training to healthcare workers, and infrastructure development to rural healthcare centers.",
+        "headline": "West Bengal Government Launches Health Insurance Scheme for Below-Poverty-Line Families",
+        "summary": "The West Bengal government has launched a health insurance scheme aimed at providing medical coverage to below-poverty-line families in the state. The scheme, which will provide insurance coverage up to ₹50,000 per family, is expected to improve access to healthcare services for marginalized communities.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "FactChecker.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Staff Shortage",
-        "summary": "The education sector in West Bengal is facing a severe staff shortage. According to a report by the state education department, there are 12,000 vacant teaching positions in the state. Experts attribute the shortage to a lack of recruitment and a decline in the number of students opting for teaching as a career.",
+        "headline": "Infrastructure Development Project in West Bengal to Create 1,000 Jobs",
+        "summary": "The West Bengal government has announced an infrastructure development project aimed at creating 1,000 jobs in the state. The project, which will involve construction of roads, bridges, and other infrastructure facilities, is expected to boost economic growth and improve rural livelihoods.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Government to Introduce New Education Policy to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced plans to introduce a new education policy aimed at improving literacy rates in the state. The policy, which will focus on improving access to education services for marginalized communities, is expected to reduce the literacy gap between urban and rural areas.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganges' Water Quality Deteriorates Further",
-      "TMC MLA's Daughter Accused of Embezzlement",
-      "West Bengal's Unemployment Rate Rises to 7.5%",
-      "New Initiative Aims to Improve Health Infrastructure in Rural West Bengal",
-      "West Bengal's Education Sector Faces Staff Shortage",
-      "Industrial Units in West Bengal to Get New Pollution Rules",
-      "River Hooghly's Water Quality Improves Slightly",
-      "West Bengal's Infrastructure Development to Get Boost"
+      "River Ganga Revitalization Project Delayed",
+      "New Agricultural Scheme to Benefit 50,000 Farmers",
+      "West Bengal Government Launches Health Insurance Scheme",
+      "Infrastructure Development Project to Create 1,000 Jobs",
+      "West Bengal Government to Introduce New Education Policy",
+      "River Ganga Pollution Issues Remain Unaddressed",
+      "Agricultural Production to Improve with New Scheme",
+      "Healthcare Services to Improve for Below-Poverty-Line Families"
     ]
   },
   "contrast": {
@@ -144,84 +144,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Food Prices Soar: Onions Up 30% in 2 Weeks",
-          "bullets": [
-            "Price of onions in Kolkata market increased from ₹50 to ₹65 per kg",
-            "According to data from the Kolkata Municipal Corporation, 30% of households are struggling to afford basic groceries",
-            "This means for you: Expect higher prices for meals and snacks, affecting daily life for many"
-          ],
-          "source": "Kolkata Municipal Corporation's Food and Civil Supplies Department",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        },
-        {
-          "category": "Health",
-          "headline": "Malaria Outbreak in Sundarbans: 200 Cases Reported",
-          "bullets": [
-            "According to the National Vector Borne Disease Control Programme, 200 cases of malaria have been reported in the Sundarbans region",
-            "The cases are mostly in the 20-40 age group, with 50% of patients being farmers",
-            "This means for you: Take precautions when working outdoors, especially in areas with standing water"
-          ],
-          "source": "National Vector Borne Disease Control Programme",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        },
-        {
-          "category": "Infrastructure",
-          "headline": "Power Cuts to Hit 50% of Homes in Kolkata",
-          "bullets": [
-            "According to the Kolkata Municipal Corporation, 50% of homes in the city will face power cuts due to a shortage of transformers",
-            "The cuts will be for 4 hours a day, starting from 2 August",
-            "This means for you: Expect disruptions to your daily routine, and plan for alternative lighting and cooling"
-          ],
-          "source": "Kolkata Municipal Corporation",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        },
-        {
-          "category": "Labor",
-          "headline": "Minimum Wage Hike Announced for Workers",
-          "bullets": [
-            "The West Bengal government has announced a hike in the minimum wage for workers from ₹150 to ₹180 per day",
-            "According to the Labour Department, this will benefit over 1 lakh workers in the state",
-            "This means for you: If you're a worker, you'll see an increase in your daily earnings"
-          ],
-          "source": "West Bengal Labour Department",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        },
-        {
-          "category": "Education",
-          "headline": "Schools to Reopen After 6-Month Closure",
-          "bullets": [
-            "According to the West Bengal Education Department, schools will reopen on 15 August",
-            "The department has announced a revised syllabus and new safety protocols for students",
-            "This means for you: If you're a student, you'll need to adjust to a new routine and follow safety guidelines"
-          ],
-          "source": "West Bengal Education Department",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        },
-        {
-          "category": "Environment",
-          "headline": "River Ganga Water Quality Declines Further",
-          "bullets": [
-            "According to the Central Pollution Control Board, the water quality of the River Ganga has decreased by 20% in the past year",
-            "The decline is attributed to industrial waste and sewage from nearby cities",
-            "This means for you: Take precautions when drinking or using water from the River Ganga, and support initiatives to improve its quality"
-          ],
-          "source": "Central Pollution Control Board",
-          "status": "CONFIRMED",
-          "impact_score": 3
-        }
-      ]
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Petrol prices surge by 15 paise, affecting daily commutes.",
+        "bullets": [
+          "Petrol prices have increased by 15 paise per liter since last week.",
+          "According to data from the Ministry of Petroleum and Natural Gas, the current price of petrol is ₹103.16 per liter.",
+          "This increase will directly affect daily commutes and public transport costs."
+        ],
+        "source": "Press Trust of India",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs",
+        "headline": "Government announces 1,000 new jobs in rural development sector.",
+        "bullets": [
+          "The West Bengal government has announced the creation of 1,000 new jobs in the rural development sector.",
+          "According to a statement from the state's Rural Development Department, these jobs will be filled through a recruitment drive.",
+          "The new jobs will be focused on rural infrastructure development and poverty alleviation."
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera outbreak reported in rural West Bengal, 20 cases confirmed.",
+        "bullets": [
+          "According to the West Bengal Health Department, 20 cases of cholera have been confirmed in rural areas.",
+          "The department has attributed the outbreak to contaminated water sources and poor sanitation.",
+          "Health officials have initiated a vaccination drive and are working to improve water treatment facilities."
+        ],
+        "source": "The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "West Bengal government announces free mid-day meals for all students.",
+        "bullets": [
+          "The West Bengal government has announced the provision of free mid-day meals for all students in government schools.",
+          "According to an official statement, the initiative aims to improve nutrition and attendance rates among students.",
+          "The scheme will be implemented from the next academic session."
+        ],
+        "source": "The Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power cuts expected in Kolkata as grid maintenance begins.",
+        "bullets": [
+          "The West Bengal Power Utility Corporation has announced a schedule of power cuts for maintenance work.",
+          "According to the corporation, the cuts will affect 10% of the city's power supply during peak hours.",
+          "Residents are advised to make alternative arrangements for power during the maintenance period."
+        ],
+        "source": "The Statesman",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Environment",
+        "headline": "West Bengal government proposes new waste management policy.",
+        "bullets": [
+          "The West Bengal government has proposed a new policy for waste management in urban areas.",
+          "According to the policy, all households will be required to segregate their waste into recyclable and non-recyclable categories.",
+          "The policy aims to improve waste disposal and reduce pollution in the state."
+        ],
+        "source": "The Indian Express",
+        "status": "UNVERIFIED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
