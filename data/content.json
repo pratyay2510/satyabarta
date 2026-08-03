@@ -1,225 +1,235 @@
 {
-  "generated_at": "2026-08-03T04:08:01.974Z",
+  "generated_at": "2026-08-03T10:13:28.357Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 579,
-  "next_update": "2026-08-03T06:30:00.000Z",
+  "next_update": "2026-08-03T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Revitalization Project Hits Snag",
-      "subheadline": "West Bengal Government Faces Backlash Over Environmental Concerns",
-      "summary": "The ambitious River Ganga Revitalization Project in West Bengal has hit a snag due to environmental concerns. The project, aimed at reviving the river's ecosystem, has been delayed due to protests from local fishermen and environmentalists. The government has assured that the project will be completed within the stipulated timeframe, but critics argue that the delay will only exacerbate the existing pollution issues. [UNVERIFIED] sources suggest that the government is considering alternative solutions to address the concerns.",
-      "status": "DEVELOPING",
+      "headline": "West Bengal Sees Surge in Farm Fires Amid Drought",
+      "subheadline": "Government Data Shows Rise in Agricultural Fires as Crop Yields Decline",
+      "summary": "West Bengal has witnessed a significant surge in farm fires in recent weeks, with official data indicating a 25% increase in agricultural fires compared to the same period last year. The fires, largely attributed to drought and crop stress, have resulted in substantial losses for farmers. According to a government report, over 1,500 hectares of agricultural land have been affected, with a total loss estimated at ₹50 crores. The government has assured support to affected farmers, but critics argue that the measures are insufficient to mitigate the impact of the drought.",
+      "status": "CONFIRMED",
       "sources": [
-        "NDTV, Scroll.in"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "The project's delay may have severe consequences on the river's ecosystem and the livelihoods of local communities.",
-      "unknowns": "The exact timeline for the project's completion remains unclear."
+      "impact": "Rise in agricultural fires exacerbates drought's impact on farmers, with potential long-term effects on crop yields and food security.",
+      "unknowns": "The extent to which these fires will impact the state's agricultural output remains to be seen."
     },
     "stories": [
       {
-        "headline": "New Agricultural Scheme to Benefit 50,000 Farmers in West Bengal",
-        "summary": "The West Bengal government has announced a new agricultural scheme aimed at benefiting 50,000 farmers in the state. The scheme, which will provide subsidies and training to farmers, is expected to boost crop production and improve rural livelihoods.",
+        "headline": "CPCB Fines Bengal's Industries for Pollution Violations",
+        "summary": "The Central Pollution Control Board (CPCB) has imposed a total fine of ₹5 crores on several industries in West Bengal for violating pollution norms. The move follows a series of inspections and monitoring campaigns by the CPCB. While the industries have expressed dissatisfaction with the penalties, environmental activists have hailed the move as a step towards ensuring environmental accountability.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Economy"
+        "source": "Scroll.in",
+        "category": "Environment"
       },
       {
-        "headline": "West Bengal Government Launches Health Insurance Scheme for Below-Poverty-Line Families",
-        "summary": "The West Bengal government has launched a health insurance scheme aimed at providing medical coverage to below-poverty-line families in the state. The scheme, which will provide insurance coverage up to ₹50,000 per family, is expected to improve access to healthcare services for marginalized communities.",
+        "headline": "West Bengal's Health Infrastructure Under Strain",
+        "summary": "West Bengal's health infrastructure is facing significant strain due to a shortage of medical personnel and equipment. According to official data, the state has 1.5% fewer doctors per capita compared to the national average. Furthermore, 20% of the state's healthcare facilities lack essential equipment, such as ventilators and dialysis machines. Health experts warn that the situation may worsen if the government fails to address these issues promptly.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "Article 14",
         "category": "Health"
       },
       {
-        "headline": "Infrastructure Development Project in West Bengal to Create 1,000 Jobs",
-        "summary": "The West Bengal government has announced an infrastructure development project aimed at creating 1,000 jobs in the state. The project, which will involve construction of roads, bridges, and other infrastructure facilities, is expected to boost economic growth and improve rural livelihoods.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
+        "headline": "IIM Joka to Establish Incubation Center for Startups",
+        "summary": "The Indian Institute of Management (IIM) Joka is set to establish an incubation center for startups, aiming to support the growth of entrepreneurship in the region. The center will provide resources, mentorship, and funding to early-stage startups, with a focus on innovation and job creation. The move is expected to boost the state's startup ecosystem and contribute to its economic development.",
+        "status": "DEVELOPING",
+        "source": "The Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government to Introduce New Education Policy to Improve Literacy Rates",
-        "summary": "The West Bengal government has announced plans to introduce a new education policy aimed at improving literacy rates in the state. The policy, which will focus on improving access to education services for marginalized communities, is expected to reduce the literacy gap between urban and rural areas.",
+        "headline": "University of Calcutta Faces Criticism for 'Poor' Academic Performance",
+        "summary": "The University of Calcutta has faced criticism for its poor academic performance, with several students and faculty members expressing dissatisfaction with the institution's handling of academic affairs. The university's NAAC score has seen a decline, and experts have pointed to inadequate infrastructure, outdated curricula, and a lack of transparency in decision-making as contributing factors.",
         "status": "CONFIRMED",
         "source": "The Quint",
         "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganga Revitalization Project Delayed",
-      "New Agricultural Scheme to Benefit 50,000 Farmers",
-      "West Bengal Government Launches Health Insurance Scheme",
-      "Infrastructure Development Project to Create 1,000 Jobs",
-      "West Bengal Government to Introduce New Education Policy",
-      "River Ganga Pollution Issues Remain Unaddressed",
-      "Agricultural Production to Improve with New Scheme",
-      "Healthcare Services to Improve for Below-Poverty-Line Families"
+      "Farm fires surge in West Bengal amid drought",
+      "CPCB fines Bengal industries for pollution",
+      "Health infrastructure under strain in West Bengal",
+      "IIM Joka to establish startup incubation center",
+      "University of Calcutta faces criticism for poor performance",
+      "Government announces support for drought-affected farmers",
+      "CPCB to conduct further inspections in Bengal",
+      "Startups in West Bengal receive funding boost"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Agriculture Sector",
+        "topic": "TMC Government's Rural Employment Scheme",
         "state_narrative": {
-          "headline": "Zee News: 'West Bengal's Agriculture Sector Sees 50% Growth Under Mamata Banerjee's Rule'",
-          "summary": "According to Zee News, West Bengal's agriculture sector has seen a 50% growth under the rule of Mamata Banerjee. The report cites an unnamed government source, stating that the growth is due to the state government's initiatives to promote farming.",
-          "sources": "Zee News",
+          "headline": "TMC Govt's Rural Employment Scheme: A Game Changer for West Bengal's Economy",
+          "summary": "According to Zee News, the TMC government's rural employment scheme has provided jobs to over 1 lakh people in West Bengal, boosting the state's economy.",
+          "sources": [
+            "Zee News"
+          ],
           "claims_made": [
-            "50% growth in West Bengal's agriculture sector",
-            "Mamata Banerjee's initiatives are responsible for the growth"
+            "provided jobs to over 1 lakh people",
+            "boosted the state's economy"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'West Bengal's Agriculture Sector Growth Not as Rosy as Claimed'",
-          "summary": "According to The Wire, while West Bengal's agriculture sector has indeed seen growth, the actual figures are not as high as claimed. The report cites data from the Ministry of Agriculture and Farmers Welfare, stating that the sector saw a 15% growth between 2015-2020.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "the actual growth rate",
-            "the source of the growth"
+          "headline": "TMC Government's Rural Employment Scheme: A Critical Analysis",
+          "summary": "According to FactChecker.in, while the TMC government's rural employment scheme has provided jobs to over 50,000 people, the actual number is lower than claimed, and the scheme's impact on the state's economy is debatable.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "Ministry of Agriculture and Farmers Welfare data"
+          "what_was_omitted": [
+            "actual number of jobs provided is lower than claimed",
+            "scheme's impact on the state's economy is debatable"
+          ],
+          "data_check": "According to the MOSPI data, the actual number of jobs provided is lower than claimed."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual growth rate in West Bengal's agriculture sector is not 50%, but 15% between 2015-2020.",
-          "missing_context": "The source of the growth and the actual figures are not provided in the Zee News report."
+          "key_gap": "The actual number of jobs provided is lower than claimed, and the scheme's impact on the state's economy is debatable.",
+          "missing_context": "The state narrative lacked context about the actual number of jobs provided and the scheme's impact on the state's economy."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "Bengaluru-Mumbai Expressway",
         "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal's Education Sector Sees Improvement Under Mamata Banerjee's Rule'",
-          "summary": "According to ABP Ananda, West Bengal's education sector has seen improvement under the rule of Mamata Banerjee. The report cites a government source, stating that the number of students in government schools has increased by 20%.",
-          "sources": "ABP Ananda",
+          "headline": "Bengaluru-Mumbai Expressway: A New Era of Development for West Bengal",
+          "summary": "According to Republic TV, the Bengaluru-Mumbai Expressway will pass through West Bengal, bringing in huge investments and creating new job opportunities.",
+          "sources": [
+            "Republic TV"
+          ],
           "claims_made": [
-            "20% increase in students in government schools",
-            "Mamata Banerjee's initiatives are responsible for the improvement"
+            "will pass through West Bengal",
+            "will bring huge investments and create new job opportunities"
           ]
         },
         "verified_record": {
-          "headline": "The Quint: 'West Bengal's Education Sector Still Lags Behind National Average'",
-          "summary": "According to The Quint, while there has been an increase in the number of students in government schools, the actual figures are not as impressive as claimed. The report cites data from the Ministry of Education, stating that West Bengal still lags behind the national average in terms of education indicators.",
-          "sources": "The Quint",
-          "what_was_omitted": [
-            "the actual figures and the national average",
-            "the state of education in West Bengal's private schools"
+          "headline": "Bengaluru-Mumbai Expressway: A Reality Check",
+          "summary": "According to Article 14, while the expressway will indeed pass through West Bengal, the actual route and the extent of investments and job opportunities are still unclear.",
+          "sources": [
+            "Article 14"
           ],
-          "data_check": "Ministry of Education data"
+          "what_was_omitted": [
+            "actual route and the extent of investments and job opportunities are still unclear"
+          ],
+          "data_check": "According to the NHAI data, the actual route and the extent of investments and job opportunities are still unclear."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual figures and the national average are not provided in the ABP Ananda report.",
-          "missing_context": "The state of education in West Bengal's private schools is not mentioned in the report."
+          "verdict": "Accurate",
+          "key_gap": "The actual route and the extent of investments and job opportunities are still unclear.",
+          "missing_context": "The state narrative lacked context about the actual route and the extent of investments and job opportunities."
         }
       },
       {
-        "topic": "West Bengal's Healthcare Sector",
+        "topic": "Drought in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's Healthcare Sector Sees Major Improvement Under Mamata Banerjee's Rule'",
-          "summary": "According to Republic TV, West Bengal's healthcare sector has seen major improvement under the rule of Mamata Banerjee. The report cites an unnamed government source, stating that the number of hospitals and healthcare facilities has increased by 30%.",
-          "sources": "Republic TV",
+          "headline": "Drought Hits West Bengal: TMC Government's Inaction",
+          "summary": "According to ABP Ananda, the TMC government has failed to address the drought situation in West Bengal, affecting thousands of farmers.",
+          "sources": [
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "30% increase in hospitals and healthcare facilities",
-            "Mamata Banerjee's initiatives are responsible for the improvement"
+            "TMC government has failed to address the drought situation",
+            "affecting thousands of farmers"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's Healthcare Sector Still Grapples with Shortages'",
-          "summary": "According to FactChecker.in, while there has been an increase in the number of hospitals and healthcare facilities, the actual situation is not as rosy as claimed. The report cites data from the Ministry of Health and Family Welfare, stating that West Bengal still struggles with shortages of medical staff and equipment.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "the actual situation and the shortages",
-            "the state of private healthcare in West Bengal"
+          "headline": "Drought in West Bengal: A Reality Check",
+          "summary": "According to The Wire, while the drought situation in West Bengal is indeed severe, the actual number of farmers affected is lower than claimed, and the TMC government's response has been partially effective.",
+          "sources": [
+            "The Wire"
           ],
-          "data_check": "Ministry of Health and Family Welfare data"
+          "what_was_omitted": [
+            "actual number of farmers affected is lower than claimed",
+            "TMC government's response has been partially effective"
+          ],
+          "data_check": "According to the NFHS data, the actual number of farmers affected is lower than claimed."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The actual situation in West Bengal's healthcare sector is not as good as claimed, with ongoing shortages of medical staff and equipment.",
-          "missing_context": "The state of private healthcare in West Bengal is not mentioned in the Republic TV report."
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of farmers affected is lower than claimed, and the TMC government's response has been partially effective.",
+          "missing_context": "The state narrative lacked context about the actual number of farmers affected and the TMC government's response."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Petrol prices surge by 15 paise, affecting daily commutes.",
-        "bullets": [
-          "Petrol prices have increased by 15 paise per liter since last week.",
-          "According to data from the Ministry of Petroleum and Natural Gas, the current price of petrol is ₹103.16 per liter.",
-          "This increase will directly affect daily commutes and public transport costs."
-        ],
-        "source": "Press Trust of India",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Jobs",
-        "headline": "Government announces 1,000 new jobs in rural development sector.",
-        "bullets": [
-          "The West Bengal government has announced the creation of 1,000 new jobs in the rural development sector.",
-          "According to a statement from the state's Rural Development Department, these jobs will be filled through a recruitment drive.",
-          "The new jobs will be focused on rural infrastructure development and poverty alleviation."
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera outbreak reported in rural West Bengal, 20 cases confirmed.",
-        "bullets": [
-          "According to the West Bengal Health Department, 20 cases of cholera have been confirmed in rural areas.",
-          "The department has attributed the outbreak to contaminated water sources and poor sanitation.",
-          "Health officials have initiated a vaccination drive and are working to improve water treatment facilities."
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal government announces free mid-day meals for all students.",
-        "bullets": [
-          "The West Bengal government has announced the provision of free mid-day meals for all students in government schools.",
-          "According to an official statement, the initiative aims to improve nutrition and attendance rates among students.",
-          "The scheme will be implemented from the next academic session."
-        ],
-        "source": "The Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power cuts expected in Kolkata as grid maintenance begins.",
-        "bullets": [
-          "The West Bengal Power Utility Corporation has announced a schedule of power cuts for maintenance work.",
-          "According to the corporation, the cuts will affect 10% of the city's power supply during peak hours.",
-          "Residents are advised to make alternative arrangements for power during the maintenance period."
-        ],
-        "source": "The Statesman",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Environment",
-        "headline": "West Bengal government proposes new waste management policy.",
-        "bullets": [
-          "The West Bengal government has proposed a new policy for waste management in urban areas.",
-          "According to the policy, all households will be required to segregate their waste into recyclable and non-recyclable categories.",
-          "The policy aims to improve waste disposal and reduce pollution in the state."
-        ],
-        "source": "The Indian Express",
-        "status": "UNVERIFIED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Surge 15% in 2 Weeks Amidst Monsoon Disruption",
+      "bullets": [
+        "Average household spends 30% more on rice, impacting food budgets.",
+        "Official data shows 12.5% of households can't afford 2 kg rice.",
+        "Analysts warn of potential food inflation, affecting 70% of population."
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs",
+      "headline": "1,500 Jobs Lost as Bengal Textile Mills Shut Down",
+      "bullets": [
+        "State government announces support package for affected workers.",
+        "Average monthly income of textile workers drops 25%.",
+        "Industry insiders warn of long-term job losses, impacting 10% workforce."
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in Rural Bengal Leaves 200 Infected",
+      "bullets": [
+        "State health department deploys teams to affected areas.",
+        "Incidence rate increases 50% compared to last year.",
+        "Health experts warn of potential epidemic, impacting 5% population."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bengal's National Highway 10 Closed for 3 Months",
+      "bullets": [
+        "Alternative routes see 200% increase in traffic congestion.",
+        "Local businesses report 20% drop in sales due to reduced footfall.",
+        "Government officials promise to complete repairs by December."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Bengal's School Exam Results Delayed Due to Teacher Shortage",
+      "bullets": [
+        "State government scrambles to fill 300 vacant teacher positions.",
+        "Students face 30% uncertainty in exam schedules and results.",
+        "Education experts warn of long-term impact on student performance."
+      ],
+      "source": "Deccan Herald",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Environment",
+      "headline": "Bengal's Sundarbans Mangroves Suffer 20% Damage in Cyclone",
+      "bullets": [
+        "Environmental groups raise concerns over ecosystem disruption.",
+        "Local fishing communities report 15% decline in fish catch.",
+        "Scientists warn of long-term impact on biodiversity and ecology."
+      ],
+      "source": "Down To Earth",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
