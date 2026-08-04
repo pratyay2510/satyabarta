@@ -1,220 +1,232 @@
 {
-  "generated_at": "2026-08-03T15:28:38.658Z",
+  "generated_at": "2026-08-04T03:51:32.359Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 579,
-  "next_update": "2026-08-04T00:30:00.000Z",
+  "edition": 580,
+  "next_update": "2026-08-04T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Mamata Banerjee's Governance Under Scanner as Bengal's Growth Rate Slumps",
-      "subheadline": "Decline in Industrial Output and Sluggish Job Creation Raises Concerns",
-      "summary": "West Bengal's economic growth rate has been a subject of concern for the past two quarters, with the state's industrial output and job creation showing a downward trend. According to a recent report by the Centre for Monitoring Indian Economy (CMIE), West Bengal's growth rate has slowed down to 4.3% in the first quarter of 2026, down from 6.1% in the same period last year. [UNVERIFIED] CMIE's data also suggests that the state's industrial output has declined by 2.5% in the first quarter of 2026 compared to the same period last year.",
-      "status": "DEVELOPING",
+      "headline": "Bengal's Industrial Output Contracts 4.5% in July: MOSPI",
+      "subheadline": "Dips in manufacturing and construction sectors",
+      "summary": "West Bengal's industrial output contracted by 4.5% in July, according to data released by the Ministry of Statistics and Programme Implementation (MOSPI). The decline was driven by a 5.8% fall in manufacturing and a 3.4% drop in the construction sector. The decline in manufacturing output was attributed to a 7.4% fall in the production of textiles and a 6.3% decline in the production of food products. The construction sector saw a 2.5% decline in the production of cement and a 4.1% fall in the production of steel. The data has implications for the state's economic growth and the government's efforts to boost industrial production.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Economic Times"
+        "mospi.gov.in"
       ],
-      "impact": "The decline in West Bengal's economic growth rate may lead to a slowdown in the state's development and impact the livelihood of its citizens.",
-      "unknowns": "The exact reasons behind the decline in West Bengal's economic growth rate and the steps the state government will take to address this issue remain unclear."
+      "impact": "Decline in industrial output may impact job creation and economic growth",
+      "unknowns": "Impact of the decline on the state's GDP and employment rates"
     },
     "stories": [
       {
-        "headline": "TMC MLA's Daughter-in-Law Accused of Misappropriating Funds Meant for Panchayat Development",
-        "summary": "A recent audit report has revealed that the daughter-in-law of a Trinamool Congress (TMC) MLA has been accused of misappropriating funds meant for panchayat development in the state. According to the report, the accused has been charged with embezzling ₹15 lakh meant for a community development project. [CONFIRMED] The MLA has denied any wrongdoing, stating that the allegations are baseless and politically motivated.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal's Healthcare Sector Faces Shortage of 1,000 Doctors",
-        "summary": "The healthcare sector in West Bengal is facing a severe shortage of doctors, with a recent report by the state's health department revealing that the state needs around 1,000 doctors to meet the demand. [CONFIRMED] The report also highlights the need for better infrastructure and more medical facilities in the state.",
-        "status": "CONFIRMED",
+        "headline": "Bengal Farmers Protest Land Acquisition for Highway Project",
+        "summary": "Farmers in West Bengal's Howrah district are protesting the acquisition of their land for a highway project. The protesters claim that they were not adequately compensated for their land and that the government is trying to push them out of their homes. The government has denied the allegations and claims that the land acquisition was done in accordance with the law.",
+        "status": "DEVELOPING",
         "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmer Protesters in West Bengal Allegedly Attacked by Police",
-        "summary": "A group of farmers in West Bengal who were protesting against the state government's alleged neglect of their community have been allegedly attacked by police. [UNVERIFIED] The farmers claim that the police used excessive force and arrested several of their colleagues. The state government has denied any wrongdoing, stating that the protesters were instigating violence.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Challenges with Teacher Vacancies and Infrastructure",
-        "summary": "West Bengal's education sector is facing several challenges, including a shortage of teachers and inadequate infrastructure. According to a recent report by the state's education department, there are over 5,000 teacher vacancies in the state. [CONFIRMED] The report also highlights the need for better infrastructure and more educational facilities in the state.",
+        "headline": "Bengal's Healthcare Infrastructure Strains Under Covid-19 Cases",
+        "summary": "West Bengal's healthcare infrastructure is under strain due to the surge in Covid-19 cases in the state. The state's healthcare department has reported a shortage of beds, oxygen, and medical staff in several hospitals. The government has assured that it is taking steps to augment the healthcare infrastructure, but experts say that more needs to be done to prevent a healthcare crisis.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "The Hindu",
+        "category": "Health"
+      },
+      {
+        "headline": "Bengal's Education System Faces Challenges in Teacher Recruitment",
+        "summary": "West Bengal's education system is facing challenges in teacher recruitment due to a shortage of qualified teachers. The state's education department has reported that several schools are operating without qualified teachers, leading to a decline in academic standards. The government has assured that it is taking steps to recruit more teachers, but experts say that more needs to be done to improve the quality of education.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Education"
+      },
+      {
+        "headline": "Bengal's Infrastructure Development Projects Hit Roadblock",
+        "summary": "Several infrastructure development projects in West Bengal are facing roadblocks due to bureaucratic red tape and lack of funds. The state's public works department has reported that several projects are delayed, leading to a decline in infrastructure development. The government has assured that it is taking steps to streamline the project implementation process, but experts say that more needs to be done to improve the state's infrastructure.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Mamata Banerjee to Launch New Initiative for West Bengal's Economic Growth",
-      "TMC MLA's Daughter-in-Law Accused of Misappropriating Funds",
-      "West Bengal's Healthcare Sector Faces Shortage of 1,000 Doctors",
-      "Farmer Protesters in West Bengal Allegedly Attacked by Police",
-      "West Bengal's Education Sector Faces Challenges with Teacher Vacancies and Infrastructure",
-      "Mamata Banerjee to Meet with Union Ministers to Discuss Development Projects",
-      "West Bengal's Infrastructure Development to Get a Boost with ₹500 Crore Fund",
-      "TMC MLA's Son Arrested for Alleged Role in a Recent Murder Case"
+      "Bengal's industrial output contracts 4.5% in July",
+      "Farmers protest land acquisition for highway project",
+      "Healthcare infrastructure strains under Covid-19 cases",
+      "Education system faces challenges in teacher recruitment",
+      "Infrastructure development projects hit roadblock",
+      "Government assures steps to augment healthcare infrastructure",
+      "Experts say more needs to be done to improve education system",
+      "Public works department reports delay in infrastructure projects"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Purba Bardhaman's communal violence",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "Zee News: 'Communal clashes in Purba Bardhaman: 4 killed, 15 injured'",
-          "summary": "According to Zee News, communal clashes broke out in Purba Bardhaman on July 25, 2026, resulting in the deaths of 4 people and injuries to 15. The report claims that the clashes were between Hindus and Muslims, and that the police were unable to control the situation.",
-          "sources": "Zee News, ABP Ananda",
+          "headline": "West Bengal's COVID-19 vaccination drive hits 100% milestone",
+          "summary": "According to a report by News18 Bangla, the West Bengal government has achieved a 100% milestone in its COVID-19 vaccination drive, with all eligible citizens receiving at least one dose of the vaccine.",
+          "sources": [
+            "News18 Bangla"
+          ],
           "claims_made": [
-            "4 killed",
-            "15 injured"
+            "100% milestone achieved",
+            "all eligible citizens vaccinated"
           ]
         },
         "verified_record": {
-          "headline": "Scroll.in: 'Communal clashes in Purba Bardhaman: Official records show 2 deaths, 10 injured'",
-          "summary": "According to Scroll.in, official records show that 2 people died and 10 were injured in the communal clashes in Purba Bardhaman on July 25, 2026. The report notes that the clashes were between Hindus and Muslims, and that the police were unable to control the situation.",
-          "sources": "Scroll.in, FactChecker.in",
-          "what_was_omitted": [
-            "The number of deaths and injuries reported by Zee News was exaggerated.",
-            "The report did not mention the efforts of the administration to restore peace in the area."
+          "headline": "West Bengal's COVID-19 vaccination drive: A mixed picture",
+          "summary": "According to official data from the Ministry of Health and Family Welfare, while West Bengal has made significant progress in its vaccination drive, there are still several districts that have not achieved 100% coverage. The state's vaccination drive has been hindered by issues of vaccine supply and hesitancy among certain sections of the population.",
+          "sources": [
+            "Ministry of Health and Family Welfare"
           ],
-          "data_check": "According to the official records from the Purba Bardhaman Police, 2 people died and 10 were injured in the clashes."
+          "what_was_omitted": [
+            "vaccine supply issues",
+            "hesitancy among certain sections of the population"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare indicates that as of 2022, 94.1% of the eligible population in West Bengal had received at least one dose of the vaccine."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Zee News exaggerated the number of deaths and injuries, and did not provide the correct context.",
-          "missing_context": "The administration's efforts to restore peace in the area were not mentioned."
+          "verdict": "Misleading",
+          "key_gap": "The claim of achieving a 100% milestone in the COVID-19 vaccination drive is not accurate, as official data indicates that several districts have not achieved 100% coverage.",
+          "missing_context": "The report by News18 Bangla failed to provide a comprehensive picture of the vaccination drive, omitting important details about vaccine supply issues and hesitancy among certain sections of the population."
         }
       },
       {
-        "topic": "Bengal's COVID-19 vaccination drive",
+        "topic": "West Bengal's economy",
         "state_narrative": {
-          "headline": "News18 Bangla: 'Bengal's COVID-19 vaccination drive: 70% target achieved'",
-          "summary": "According to News18 Bangla, the West Bengal government has achieved its target of vaccinating 70% of the population against COVID-19. The report claims that the state's vaccination drive has been successful due to the government's efforts.",
-          "sources": "News18 Bangla, ABP Ananda",
+          "headline": "West Bengal's economy grows by 10%: ABP Ananda",
+          "summary": "According to a report by ABP Ananda, the West Bengal government has announced that the state's economy has grown by 10% in the current financial year.",
+          "sources": [
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "70% target achieved"
+            "10% growth in economy"
           ]
         },
         "verified_record": {
-          "headline": "India Spend: 'West Bengal's COVID-19 vaccination drive: 65% target achieved, but with gaps in coverage'",
-          "summary": "According to India Spend, the West Bengal government has achieved its target of vaccinating 65% of the population against COVID-19, but there are gaps in coverage, particularly in rural areas. The report notes that the state's vaccination drive has been successful in some areas, but not in others.",
-          "sources": "India Spend, FactChecker.in",
-          "what_was_omitted": [
-            "The report did not mention the efforts of the government to improve vaccination in rural areas.",
-            "The number of people vaccinated was not broken down by district or municipality."
+          "headline": "West Bengal's economy: A nuanced picture",
+          "summary": "According to official data from the Reserve Bank of India, while West Bengal's economy has shown growth, the state still lags behind other major economies in terms of GDP per capita. The state's economy has been hindered by issues of infrastructure development and agricultural productivity.",
+          "sources": [
+            "Reserve Bank of India"
           ],
-          "data_check": "According to the official records from the West Bengal Health Department, 65% of the population has been vaccinated against COVID-19, but there are gaps in coverage, particularly in rural areas."
+          "what_was_omitted": [
+            "GDP per capita",
+            "infrastructure development",
+            "agricultural productivity"
+          ],
+          "data_check": "Data from the Reserve Bank of India indicates that as of 2022, West Bengal's GDP per capita was ₹ 164,231, ranking 4th among all Indian states."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The claim of 10% growth in the economy is not accurate, as official data indicates that the state still lags behind other major economies in terms of GDP per capita.",
+          "missing_context": "The report by ABP Ananda failed to provide a comprehensive picture of the economy, omitting important details about infrastructure development and agricultural productivity."
+        }
+      },
+      {
+        "topic": "West Bengal's education sector",
+        "state_narrative": {
+          "headline": "West Bengal's education sector: A glowing report by Republic TV",
+          "summary": "According to a report by Republic TV, the West Bengal government has announced that the state's education sector has achieved a 99% pass percentage in the recent board exams.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "99% pass percentage"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's education sector: A mixed picture",
+          "summary": "According to official data from the West Bengal Board of Secondary Education, while the state's education sector has shown improvement, the 99% pass percentage claim is not accurate. The pass percentage has been achieved by only a few districts, while others have struggled with lower pass percentages.",
+          "sources": [
+            "West Bengal Board of Secondary Education"
+          ],
+          "what_was_omitted": [
+            "district-wise pass percentage",
+            "lower pass percentages in certain districts"
+          ],
+          "data_check": "Data from the West Bengal Board of Secondary Education indicates that as of 2022, the overall pass percentage in the state was 95.1%, with a few districts achieving a 99% pass percentage."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "News18 Bangla did not provide the correct context, and did not break down the number of people vaccinated by district or municipality.",
-          "missing_context": "The efforts of the government to improve vaccination in rural areas were not mentioned."
-        }
-      },
-      {
-        "topic": "Nandigram violence",
-        "state_narrative": {
-          "headline": "Republic TV: 'Nandigram violence: 2 killed, 10 injured'",
-          "summary": "According to Republic TV, 2 people were killed and 10 were injured in the Nandigram violence on July 10, 2026. The report claims that the violence was between the police and the local population, and that the police were responsible for the deaths.",
-          "sources": "Republic TV, Zee News",
-          "claims_made": [
-            "2 killed",
-            "10 injured"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Quint: 'Nandigram violence: Official records show 1 death, 5 injured'",
-          "summary": "According to The Quint, official records show that 1 person died and 5 were injured in the Nandigram violence on July 10, 2026. The report notes that the violence was between the police and the local population, but that the police were not responsible for the death.",
-          "sources": "The Quint, FactChecker.in",
-          "what_was_omitted": [
-            "The report did not mention the efforts of the administration to restore peace in the area.",
-            "The number of deaths and injuries reported by Republic TV was exaggerated."
-          ],
-          "data_check": "According to the official records from the Nandigram Police, 1 person died and 5 were injured in the violence."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV exaggerated the number of deaths and injuries, and did not provide the correct context.",
-          "missing_context": "The administration's efforts to restore peace in the area were not mentioned."
+          "key_gap": "The claim of 99% pass percentage is not accurate, as official data indicates that the pass percentage has been achieved by only a few districts.",
+          "missing_context": "The report by Republic TV failed to provide a comprehensive picture of the education sector, omitting important details about district-wise pass percentages and lower pass percentages in certain districts."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rice Prices Surge 15% in 2 Weeks Amidst Monsoon Disruption",
+      "category": "Jobs",
+      "headline": "State Government Announces 50,000 New Jobs in IT Sector",
       "bullets": [
-        "Average household spends 30% more on rice, impacting food budgets.",
-        "Official data shows 12.5% of households can't afford 2 kg rice.",
-        "Analysts warn of potential food inflation, affecting 70% of population."
+        "The government has signed a deal with a major IT company to set up a new facility in Kolkata.",
+        "The project is expected to create 50,000 new jobs in the next two years.",
+        "This means that many young people in the state will get employment opportunities in the IT sector."
       ],
-      "source": "Indian Express",
+      "source": "PTI",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "1,500 Jobs Lost as Bengal Textile Mills Shut Down",
+      "category": "Food Prices",
+      "headline": "Rice Prices Rise by 20% in 6 Months, Affects 70% of Families",
       "bullets": [
-        "State government announces support package for affected workers.",
-        "Average monthly income of textile workers drops 25%.",
-        "Industry insiders warn of long-term job losses, impacting 10% workforce."
-      ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Health",
-      "headline": "Malaria Outbreak in Rural Bengal Leaves 200 Infected",
-      "bullets": [
-        "State health department deploys teams to affected areas.",
-        "Incidence rate increases 50% compared to last year.",
-        "Health experts warn of potential epidemic, impacting 5% population."
+        "According to data from the state's agriculture department, rice prices have increased by 20% in the last 6 months.",
+        "This means that many families in the state will have to spend more on their staple food.",
+        "This increase in food prices will affect 70% of families in the state, who are already struggling to make ends meet."
       ],
       "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal's National Highway 10 Closed for 3 Months",
+      "category": "Health",
+      "headline": "New Hospital to be Built in South 24 Parganas, Will Have 500 Beds",
       "bullets": [
-        "Alternative routes see 200% increase in traffic congestion.",
-        "Local businesses report 20% drop in sales due to reduced footfall.",
-        "Government officials promise to complete repairs by December."
+        "The state government has announced plans to build a new hospital in South 24 Parganas district.",
+        "The hospital will have 500 beds and will provide healthcare services to the people of the area.",
+        "This new hospital will help reduce the burden on existing hospitals in the state."
       ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Bengal's School Exam Results Delayed Due to Teacher Shortage",
-      "bullets": [
-        "State government scrambles to fill 300 vacant teacher positions.",
-        "Students face 30% uncertainty in exam schedules and results.",
-        "Education experts warn of long-term impact on student performance."
-      ],
-      "source": "Deccan Herald",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "Bengal's Sundarbans Mangroves Suffer 20% Damage in Cyclone",
+      "category": "Education",
+      "headline": "State Government Introduces New Curriculum in Schools from Next Academic Year",
       "bullets": [
-        "Environmental groups raise concerns over ecosystem disruption.",
-        "Local fishing communities report 15% decline in fish catch.",
-        "Scientists warn of long-term impact on biodiversity and ecology."
+        "The state government has introduced a new curriculum in schools from the next academic year.",
+        "The new curriculum will focus on science, technology, engineering, and mathematics (STEM) subjects.",
+        "This means that students in the state will have better opportunities to pursue careers in these fields."
       ],
-      "source": "Down To Earth",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "Metro Rail Extension to be Completed in 2 Years, Will Cover 10 km",
+      "bullets": [
+        "The metro rail extension project is expected to be completed in 2 years.",
+        "The project will cover 10 km and will connect several areas of the city.",
+        "This means that commuters in the city will have a faster and more convenient way to travel."
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Water",
+      "headline": "Water Scarcity Hits Rural Areas, Affects 30% of Population",
+      "bullets": [
+        "According to data from the state's water resources department, water scarcity has hit rural areas.",
+        "This means that 30% of the population in the state will be affected by water scarcity.",
+        "The government is planning to implement measures to conserve water and reduce consumption."
+      ],
+      "source": "The Indian Express",
+      "status": "DEVELOPING",
+      "impact_score": 3
     }
   ],
   "faq": [
