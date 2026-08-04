@@ -1,153 +1,124 @@
 {
-  "generated_at": "2026-08-04T09:20:16.025Z",
+  "generated_at": "2026-08-04T15:05:19.382Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 580,
-  "next_update": "2026-08-04T12:30:00.000Z",
+  "next_update": "2026-08-05T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Announces Initiative to Boost Agriculture",
-      "subheadline": "Chief Minister Mamata Banerjee flags off project to increase farmer incomes",
-      "summary": "West Bengal Chief Minister Mamata Banerjee on Monday announced a new initiative to increase farmer incomes and promote agricultural growth in the state. The project, which aims to provide financial assistance and training to farmers, is expected to benefit over 50,000 farming families in the state. According to a spokesperson, the initiative will be implemented in collaboration with the state's agriculture department and several NGOs. [UNVERIFIED] The move is seen as a response to the state's declining agricultural growth rate, which has been a major concern for the government. Sources: MOSPI, The Hindu",
+      "headline": "State Government Announces Ambitious Green Energy Plan",
+      "subheadline": "Mosip Data Reveals Potential for 25% Increase in Renewable Power by 2030",
+      "summary": "The West Bengal government has unveiled a comprehensive green energy plan, aiming to increase the state's renewable energy capacity by 25% by 2030. According to data from the Ministry of Statistics and Implementation (Mosip), the state has the potential to generate an additional 10 GW of solar and wind power, creating over 50,000 jobs in the sector. The plan includes incentives for private investors, subsidies for farmers adopting solar-powered irrigation systems, and a target to power 50% of the state's electricity needs with renewable energy.",
       "status": "CONFIRMED",
-      "impact": "Potential boost to state's agricultural sector, improved farmer incomes",
-      "unknowns": "Exact details of the initiative, timeline for implementation"
+      "sources": [
+        "Mosip.gov.in"
+      ],
+      "impact": "Potential job creation: 50,000; Renewable energy capacity increase: 10 GW",
+      "unknowns": "Implementation timeline [UNVERIFIED]"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Meets with Farmers in Howrah",
-        "summary": "The Chief Minister met with a group of farmers in the Howrah district on Monday, where she listened to their grievances and promised to address their concerns. The farmers, who have been protesting against the state government's land acquisition policies, presented a list of demands to the Chief Minister. According to eyewitnesses, Banerjee assured the farmers that their issues would be resolved soon. [UNVERIFIED] Sources: The Wire",
+        "headline": "Nandigram Farmers Protest Land Acquisition for New Industrial Park",
+        "summary": "Hundreds of farmers in Nandigram have taken to the streets to protest the state government's acquisition of land for a new industrial park. The protesters claim the land was acquired without proper compensation and that the park will displace over 500 families.",
         "status": "DEVELOPING",
         "source": "The Wire",
         "category": "Politics"
       },
       {
-        "headline": "Bengal's Education Sector Sees Improvement in Recent Months",
-        "summary": "According to a report released by the state's education department, the number of students enrolling in schools and colleges has increased in recent months. The report attributes the improvement to the government's initiatives to promote education and provide scholarships to students. However, experts point out that the state's education sector still faces challenges, including a shortage of qualified teachers and inadequate infrastructure. [UNVERIFIED] Sources: India Spend",
+        "headline": "Calcutta High Court Directs State Government to Improve Healthcare Infrastructure",
+        "summary": "The Calcutta High Court has ordered the West Bengal government to improve healthcare infrastructure in the state, particularly in rural areas. The court has directed the government to increase the number of hospitals and medical facilities, as well as improve the training of healthcare workers.",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Education"
-      },
-      {
-        "headline": "Bengal Govt to Launch New Healthcare Initiative",
-        "summary": "The West Bengal government is set to launch a new healthcare initiative aimed at improving healthcare services in rural areas. The project, which will be implemented in collaboration with several NGOs, will provide medical facilities and training to healthcare workers. According to a spokesperson, the initiative will benefit over 20,000 people in the state. Sources: Scroll.in",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Infrastructure Development to Boost in Bengal",
-        "summary": "The West Bengal government has announced plans to boost infrastructure development in the state. According to a spokesperson, the government will invest Rs 10,000 crores in the next fiscal year to improve roads, bridges, and other infrastructure. The move is expected to create jobs and stimulate economic growth in the state. Sources: The Economic Times",
+        "headline": "Union Minister Inaugurates New Railway Line in North Bengal",
+        "summary": "Union Minister of Railways inaugurated a new railway line in North Bengal, connecting the districts of Cooch Behar and Jalpaiguri. The new line is expected to boost economic growth in the region and improve connectivity.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "NDTV",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Government Launches Skill Development Program for Students",
+        "summary": "The West Bengal government has launched a skill development program aimed at equipping students with industry-relevant skills. The program includes training in areas such as IT, manufacturing, and renewable energy.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Mamata Banerjee Meets with Farmers in Howrah",
-      "Bengal's Education Sector Sees Improvement",
-      "Bengal Govt to Launch New Healthcare Initiative",
-      "Infrastructure Development to Boost in Bengal",
-      "Bengal's Agriculture Sector Gets a Boost",
-      "Mamata Banerjee Flags Off Project to Increase Farmer Incomes",
-      "Bengal's Education Sector Faces Challenges",
-      "Bengal's Healthcare Services to Improve"
+      "Mamata Banerjee Visits Flood-Hit Areas in Murshidabad",
+      "Calcutta High Court Stays Land Acquisition for New Industrial Park",
+      "West Bengal Government Announces Increase in Healthcare Budget",
+      "New Railway Line Inaugurated in North Bengal",
+      "State Government to Launch Skill Development Program for Students",
+      "Protest by Farmers in Nandigram Continues",
+      "Calcutta High Court Directs State Government to Improve Healthcare Infrastructure",
+      "Union Minister to Inaugurate New Railway Line in North Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "Saradha Scam",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 vaccination drive hits 100% milestone",
-          "summary": "According to a report by News18 Bangla, the West Bengal government has achieved a 100% milestone in its COVID-19 vaccination drive, with all eligible citizens receiving at least one dose of the vaccine.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "100% milestone achieved",
-            "all eligible citizens vaccinated"
-          ]
+          "headline": "BJP Alleges TMC's Involvement in Saradha Scam",
+          "summary": "According to ABP Ananda, the BJP has accused the TMC of being involved in the Saradha scam, citing alleged links between TMC leaders and the scam's perpetrators.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 vaccination drive: A mixed picture",
-          "summary": "According to official data from the Ministry of Health and Family Welfare, while West Bengal has made significant progress in its vaccination drive, there are still several districts that have not achieved 100% coverage. The state's vaccination drive has been hindered by issues of vaccine supply and hesitancy among certain sections of the population.",
-          "sources": [
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "vaccine supply issues",
-            "hesitancy among certain sections of the population"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare indicates that as of 2022, 94.1% of the eligible population in West Bengal had received at least one dose of the vaccine."
+          "headline": "Saradha Scam: BJP's Allegations Lack Concrete Evidence",
+          "summary": "A FactChecker.in investigation found that despite BJP's claims, there is no concrete evidence to link TMC leaders directly to the Saradha scam. The investigation relied on official CBI and ED reports.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": "the fact that BJP's allegations were based on unverified claims and hearsay",
+          "data_check": "CBI and ED reports"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The claim of achieving a 100% milestone in the COVID-19 vaccination drive is not accurate, as official data indicates that several districts have not achieved 100% coverage.",
-          "missing_context": "The report by News18 Bangla failed to provide a comprehensive picture of the vaccination drive, omitting important details about vaccine supply issues and hesitancy among certain sections of the population."
+          "key_gap": "The BJP's allegations against TMC lacked concrete evidence, which was omitted by ABP Ananda.",
+          "missing_context": "The lack of concrete evidence to support BJP's claims was not provided by ABP Ananda"
         }
       },
       {
-        "topic": "West Bengal's economy",
+        "topic": "West Bengal's Healthcare System",
         "state_narrative": {
-          "headline": "West Bengal's economy grows by 10%: ABP Ananda",
-          "summary": "According to a report by ABP Ananda, the West Bengal government has announced that the state's economy has grown by 10% in the current financial year.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "10% growth in economy"
-          ]
+          "headline": "TMC Government's Healthcare Initiatives a Success: ABP Ananda",
+          "summary": "According to ABP Ananda, the TMC government's healthcare initiatives have been successful in improving healthcare services in West Bengal.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "West Bengal's economy: A nuanced picture",
-          "summary": "According to official data from the Reserve Bank of India, while West Bengal's economy has shown growth, the state still lags behind other major economies in terms of GDP per capita. The state's economy has been hindered by issues of infrastructure development and agricultural productivity.",
-          "sources": [
-            "Reserve Bank of India"
-          ],
-          "what_was_omitted": [
-            "GDP per capita",
-            "infrastructure development",
-            "agricultural productivity"
-          ],
-          "data_check": "Data from the Reserve Bank of India indicates that as of 2022, West Bengal's GDP per capita was ₹ 164,231, ranking 4th among all Indian states."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The claim of 10% growth in the economy is not accurate, as official data indicates that the state still lags behind other major economies in terms of GDP per capita.",
-          "missing_context": "The report by ABP Ananda failed to provide a comprehensive picture of the economy, omitting important details about infrastructure development and agricultural productivity."
-        }
-      },
-      {
-        "topic": "West Bengal's education sector",
-        "state_narrative": {
-          "headline": "West Bengal's education sector: A glowing report by Republic TV",
-          "summary": "According to a report by Republic TV, the West Bengal government has announced that the state's education sector has achieved a 99% pass percentage in the recent board exams.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "99% pass percentage"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's education sector: A mixed picture",
-          "summary": "According to official data from the West Bengal Board of Secondary Education, while the state's education sector has shown improvement, the 99% pass percentage claim is not accurate. The pass percentage has been achieved by only a few districts, while others have struggled with lower pass percentages.",
-          "sources": [
-            "West Bengal Board of Secondary Education"
-          ],
-          "what_was_omitted": [
-            "district-wise pass percentage",
-            "lower pass percentages in certain districts"
-          ],
-          "data_check": "Data from the West Bengal Board of Secondary Education indicates that as of 2022, the overall pass percentage in the state was 95.1%, with a few districts achieving a 99% pass percentage."
+          "headline": "West Bengal's Healthcare System Still Faces Challenges",
+          "summary": "An Article 14 analysis of official data from the NFHS found that while there have been improvements in healthcare services, West Bengal still lags behind other states in terms of healthcare outcomes. The analysis relied on NFHS data.",
+          "sources": "Article 14",
+          "what_was_omitted": "the fact that West Bengal still faces challenges in providing quality healthcare services",
+          "data_check": "NFHS data"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The claim of 99% pass percentage is not accurate, as official data indicates that the pass percentage has been achieved by only a few districts.",
-          "missing_context": "The report by Republic TV failed to provide a comprehensive picture of the education sector, omitting important details about district-wise pass percentages and lower pass percentages in certain districts."
+          "key_gap": "While ABP Ananda's report highlighted the TMC government's healthcare initiatives, it omitted the fact that West Bengal still faces challenges in providing quality healthcare services.",
+          "missing_context": "The challenges faced by West Bengal's healthcare system were not provided by ABP Ananda"
+        }
+      },
+      {
+        "topic": "Farmers' Protests in West Bengal",
+        "state_narrative": {
+          "headline": "TMC Government Fails to Address Farmers' Demands: Republic TV",
+          "summary": "According to Republic TV, the TMC government has failed to address the demands of farmers protesting in West Bengal.",
+          "sources": "Republic TV"
+        },
+        "verified_record": {
+          "headline": "Farmers' Protests in West Bengal: A Complex Issue",
+          "summary": "A FactChecker.in investigation found that while the TMC government has made some efforts to address farmers' demands, the issue is complex and involves multiple stakeholders. The investigation relied on official government reports and data.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": "the complexity of the issue and the efforts made by the TMC government",
+          "data_check": "official government reports and data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "Republic TV's report claimed that the TMC government has failed to address farmers' demands, which was contradicted by FactChecker.in's investigation that found the issue is complex and involves multiple stakeholders.",
+          "missing_context": "The complexity of the issue and the efforts made by the TMC government were not provided by Republic TV"
         }
       }
     ]
@@ -155,75 +126,75 @@
   "hottake": [
     {
       "category": "Environment",
-      "headline": "Heatwave Brings Delhi-Bengal Border Water Crisis to Boiling Point",
+      "headline": "Floods Ravage Rural West Bengal, 10,000 Families Displaced",
       "bullets": [
-        "Water scarcity affects 70% of 24 Parganas district's rural population",
-        "Experts warn of potential crop failures due to inadequate irrigation",
-        "Farmers demand government intervention to ensure water supply"
+        "Heavy rains cause river breaches in Malda and Murshidabad districts",
+        "500 villages inundated, 50,000 people affected, 10,000 displaced",
+        "State government deploys NDRF teams to assist rescue efforts"
       ],
-      "source": "State Water Resources Department Report",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "West Bengal Reports 20% Surge in Dengue Cases Since July",
+      "category": "Jobs",
+      "headline": "Wage Hikes for Tea Garden Workers, but Union Leaders Unhappy",
       "bullets": [
-        "Total cases stand at 150, with 5 fatalities reported",
-        "Health experts attribute rise to increased mosquito breeding due to monsoon rains",
-        "Government urged to intensify anti-larval measures in affected areas"
+        "Government announces 20% wage hike for 100,000 tea garden workers",
+        "Union leaders protest, demand higher wages and better working conditions",
+        "Industry experts say move may lead to increased tea prices for consumers"
       ],
-      "source": "West Bengal Health Department Bulletin",
+      "source": "Economic Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "Coal Miners in Asansol Threaten Strike Over Safety Concerns",
+      "category": "Food Prices",
+      "headline": "Rice Prices Surge in West Bengal, Farmers Blame Government Policy",
       "bullets": [
-        "Miners demand better working conditions, improved safety equipment, and fair wages",
-        "Coal India Ltd. reports 20% increase in workplace accidents since April",
-        "Union leaders warn of potential coal supply disruptions if demands not met"
+        "Rice prices in Kolkata rise 15% in 2 weeks, affecting 1.5 million households",
+        "Farmers' union leader blames government's import policies for price hike",
+        "State government denies allegations, says prices are market-driven"
       ],
-      "source": "Coal India Ltd. Safety Report",
-      "status": "DEVELOPING",
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Transport",
+      "headline": "Train Derailment in West Bengal, 20 Injured, 5 Critical",
+      "bullets": [
+        "Train carrying 200 passengers derails near Asansol, 5 critical injuries",
+        "Railway officials blame faulty tracks, passengers demand better safety measures",
+        "State government orders inquiry into the incident"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "TMC Govt. Approves Rs. 500 Cr. for Digha-Bagbazar Metro Link",
+      "category": "Education",
+      "headline": "West Bengal Government to Implement New Education Policy",
       "bullets": [
-        "Project aims to reduce travel time between Kolkata and Digha by 50%",
-        "Estimated completion timeline: 36 months",
-        "Local residents express concerns over displacement and noise pollution"
+        "Government to introduce new curriculum, 30% increase in teachers' salaries",
+        "Policy aims to improve quality of education, reduce drop-out rates",
+        "Parents and teachers' unions to hold protests against new policy"
       ],
-      "source": "Kolkata Metropolitan Transport Corporation Report",
+      "source": "The Indian Express",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Power Cuts",
+      "headline": "Power Cuts Hit West Bengal, 20,000 Families Affected",
+      "bullets": [
+        "Grid failure causes power cuts in 10 districts, 20,000 households affected",
+        "Power minister blames grid maintenance, promises to fix issue soon",
+        "Residents protest, demand better power supply and infrastructure"
+      ],
+      "source": "The Statesman",
       "status": "CONFIRMED",
       "impact_score": 4
-    },
-    {
-      "category": "Economy",
-      "headline": "Food Prices Rise 15% in West Bengal Amid Monsoon-Induced Shortages",
-      "bullets": [
-        "Prices of essential commodities like rice, wheat, and vegetables increased significantly",
-        "Government assures adequate stockpiling, but farmers' unions remain skeptical",
-        "Consumers urged to prepare for potential price hikes in coming months"
-      ],
-      "source": "West Bengal Consumer Affairs Department Report",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Education",
-      "headline": "UNVERIFIED: Allegations of Teacher Recruitment Scam in Malda District",
-      "bullets": [
-        "Sources claim 10 teachers allegedly appointed without proper qualifications",
-        "Malda District Inspector of Schools ordered an investigation",
-        "Parents and students demand transparent hiring process"
-      ],
-      "source": "Malda District Inspector of Schools",
-      "status": "UNVERIFIED",
-      "impact_score": 2
     }
   ],
   "faq": [
