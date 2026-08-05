@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-08-05T09:19:40.610Z",
+  "generated_at": "2026-08-05T14:58:18.958Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 581,
-  "next_update": "2026-08-05T12:30:00.000Z",
+  "next_update": "2026-08-06T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Covid Cases Amidst Festive Season",
-      "subheadline": "Health Experts Warn of Potential Third Wave",
-      "summary": "The state reported a 30% increase in daily Covid cases over the past week, prompting health experts to sound the alarm. As the festive season gathers momentum, the government is urged to enhance vaccination efforts and improve contact tracing. Meanwhile, the Centre has assured additional medical supplies to the state. With 85% of the population still vulnerable, the situation remains precarious. Health Minister warns of potential third wave if precautions are not taken.",
+      "headline": "Bengal Govt Launches Initiative to Enhance Healthcare Infrastructure",
+      "subheadline": "New hospitals and clinics to be constructed across the state",
+      "summary": "The West Bengal government has announced a major initiative to improve healthcare infrastructure in the state. As part of this initiative, new hospitals and clinics will be constructed in various districts, with a focus on rural areas. The move aims to increase access to quality healthcare services for the population, particularly in underserved regions.",
       "status": "CONFIRMED",
-      "sources": "The Wire, NDTV",
-      "impact": "Public Health, Economy",
-      "unknowns": "Transmission rates, vaccine efficacy"
+      "sources": [
+        "The Wire, Press Release from West Bengal Health Department"
+      ],
+      "impact": "Thousands of people in rural Bengal to benefit from improved healthcare services",
+      "unknowns": "Timeline for completion of new healthcare facilities"
     },
     "stories": [
       {
-        "headline": "MGNREGA Funds Allocated for West Bengal's Rural Infrastructure",
-        "summary": "The Centre has allocated ₹150 crores under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) for rural infrastructure development in West Bengal. The funds will be utilized for constructing roads, irrigation facilities, and other community assets. This move is expected to create employment opportunities for over 10,000 workers.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure, Labor"
-      },
-      {
-        "headline": "West Bengal's Farmers Protest Delayed Kharif Sowing Due to Drought",
-        "summary": "A severe drought in West Bengal has led to a 20% decline in crop yields for the kharif season. Farmers are protesting the government's delay in providing relief measures, citing inadequate support for irrigation and crop insurance. The situation is further complicated by the Centre's recent decision to scrap the monsoon assistance package.",
+        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
+        "summary": "Farmers in East Midnapore district are protesting against the acquisition of their land for a proposed industrial project. The move has been met with resistance from local farmers, who claim they were not adequately compensated for their land.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment, Agriculture"
+        "source": "The Quint, Field reports from East Midnapore",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Sees Rise in Private Schools",
-        "summary": "The number of private schools in West Bengal has increased by 15% over the past year, with many new institutions emerging in urban areas. While some argue that this trend indicates a growing demand for quality education, others point to the concerns surrounding the lack of government oversight and the impact on public school infrastructure.",
+        "headline": "Bengal Government to Implement 10% Reservation for Economically Backward Classes",
+        "summary": "The West Bengal government has announced plans to implement a 10% reservation for economically backward classes in government jobs and educational institutions. The move aims to promote social equity and provide opportunities for disadvantaged groups.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Hindu, Press Release from West Bengal Education Department",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Healthcare System Strains Under Covid-19 Burden",
-        "summary": "The state's healthcare system is facing significant strain as the number of Covid-19 cases continues to rise. Hospitals are reporting a shortage of medical staff and equipment, with many healthcare workers forced to work overtime. The government is urged to enhance support for the healthcare sector, including increasing funding for medical infrastructure and staff training.",
+        "headline": "Rural Bengal Faces Water Crisis Amidst Drought",
+        "summary": "Rural areas in West Bengal are facing a severe water crisis due to the ongoing drought in the region. Local residents are struggling to access clean drinking water, with some areas reporting a scarcity of water for irrigation purposes.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "Scroll.in, Field reports from rural Bengal",
+        "category": "Environment"
+      },
+      {
+        "headline": "Bengal Government to Launch Skill Development Program for Unemployed Youth",
+        "summary": "The West Bengal government is set to launch a skill development program aimed at providing training and employment opportunities for unemployed youth in the state. The program will focus on providing vocational training in various sectors, including IT and manufacturing.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in, Press Release from West Bengal Skill Development Department",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "West Bengal Covid Cases Surge",
-      "MGNREGA Funds for Rural Infrastructure",
-      "Farmers Protest Drought Impact",
-      "Private Schools Emerge in West Bengal",
-      "Healthcare System Strains Under Covid-19",
-      "West Bengal Economy Suffers Drought Blow",
-      "Covid-19 Cases Rise Amidst Festive Season",
-      "Government Faces Pressure to Enhance Healthcare Support"
+      "Bengal Govt Launches Healthcare Initiative",
+      "Farmers Protest Land Acquisition",
+      "10% Reservation for Economically Backward Classes",
+      "Rural Bengal Faces Water Crisis",
+      "Bengal Government Launches Skill Development Program",
+      "New Hospitals to be Constructed in Rural Areas",
+      "Farmers Protest Industrial Project Acquisition",
+      "Bengal Government to Implement Reservation Policy"
     ]
   },
   "contrast": {
@@ -156,82 +158,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Environment|Health",
-        "headline": "Toxins in River Ganges Pose Health Risks to 1.5 Crore People",
-        "bullets": [
-          "High levels of toxic pollutants found in Ganges river water",
-          "500 industrial units along the river are major polluters",
-          "Government fails to enforce pollution norms, putting lives at risk"
-        ],
-        "source": "CSE (Centre for Science and Environment) report",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health|Labor",
-        "headline": "2,500 Workers Hospitalized After Consuming Contaminated Food",
-        "bullets": [
-          "Food poisoning from contaminated street food reported in Howrah",
-          "State govt. admits 2,500 workers hospitalized, 10 in critical condition",
-          "Local authorities responsible for food safety, but fail to act"
-        ],
-        "source": "The Telegraph report",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Food Prices|Economy",
-        "headline": "Rice Prices Skyrocket 25% in 3 Months, Affecting 70 Lakh Families",
-        "bullets": [
-          "Prices of rice, the staple food, have increased sharply",
-          "Inflation rate rises to 6.5%, affecting daily lives",
-          "Govt. fails to control prices, citing supply chain issues"
-        ],
-        "source": "NSSO (National Sample Survey Office) data",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure|Transport",
-        "headline": "Kolkata Metro Services Disrupted Due to Power Cuts",
-        "bullets": [
-          "Power cuts affect metro services, causing inconvenience to commuters",
-          "Power grid in Kolkata faces frequent breakdowns, affecting services",
-          "Govt. promises to resolve issues, but no timeline set"
-        ],
-        "source": "The Times of India report",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education|Labor",
-        "headline": "State Govt. Announces New Education Policy, Sparking Debate",
-        "bullets": [
-          "New policy aims to improve education standards in rural areas",
-          "Policy focuses on vocational training, sparking opposition from teachers",
-          "Govt. claims policy will increase employability, but critics disagree"
-        ],
-        "source": "The Hindu report",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Corruption|Labor",
-        "headline": "Labour Minister Accused of Favouritism in Job Allotments",
-        "bullets": [
-          "Minister accused of favouring party workers in job allotments",
-          "CBI probe launched, but no timeline set for results",
-          "Opposition demands minister's resignation, citing conflict of interest"
-        ],
-        "source": "The Indian Express report",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Price Hike Hits West Bengal Hard: 20% Rise in 2 Weeks",
+      "bullets": [
+        "Petrol price increased from ₹80 to ₹96 per liter in 2 weeks",
+        "Diesel price rose from ₹70 to ₹84 per liter in same period",
+        "This means a ₹100 fuel tank will now cost ₹20 more"
+      ],
+      "source": "Press Trust of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Spike in West Bengal: 50% Increase in July",
+      "bullets": [
+        "400 new malaria cases reported in July, up from 267 in June",
+        "Most cases reported from rural areas, especially in South 24 Parganas",
+        "This means increased risk for rural residents, especially children and elderly"
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen on August 10, But... ",
+      "bullets": [
+        "Government announced reopening after 2-week closure due to COVID",
+        "However, many schools still lack adequate water, sanitation facilities",
+        "This means students may face health risks, added stress"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Continue in West Bengal Till September",
+      "bullets": [
+        "Government attributed power cuts to coal shortage, grid maintenance",
+        "Affects 20% of state's population, especially in rural areas",
+        "This means added stress for daily life, businesses, and agriculture"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal's Ganga River Water Quality Deteriorates",
+      "bullets": [
+        "Pollution levels increased by 30% in past 6 months, says CPCB",
+        "Industrial waste, agricultural runoff major contributors",
+        "This means health risks for people dependent on Ganga River water"
+      ],
+      "source": "Down to Earth",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal's Minimum Wage Hike Delayed Again",
+      "bullets": [
+        "Government cited budget constraints, economic slowdown",
+        "Affects over 1 million workers, especially in agriculture, construction",
+        "This means reduced purchasing power, added financial stress"
+      ],
+      "source": "Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
