@@ -1,235 +1,237 @@
 {
-  "generated_at": "2026-08-05T03:45:23.083Z",
+  "generated_at": "2026-08-05T09:19:40.610Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 581,
-  "next_update": "2026-08-05T06:30:00.000Z",
+  "next_update": "2026-08-05T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Covid-19 Vaccination Drive Hits 90% Target, But Challenges Persist",
-      "subheadline": "Government officials claim success, but health experts raise concerns over vaccination rates in rural areas",
-      "summary": "The West Bengal government has achieved its target of administering Covid-19 vaccines to 90% of the eligible population, according to official data. However, health experts point out that the vaccination drive has been slow in rural areas, where the vaccination rate stands at around 70%. The government has attributed the success to its aggressive vaccination campaign, but experts argue that the achievement is largely due to the state's high population density. The vaccination drive has also been marred by issues of vaccine hesitancy, particularly among the elderly and those in remote areas.",
+      "headline": "West Bengal Sees Surge in Covid Cases Amidst Festive Season",
+      "subheadline": "Health Experts Warn of Potential Third Wave",
+      "summary": "The state reported a 30% increase in daily Covid cases over the past week, prompting health experts to sound the alarm. As the festive season gathers momentum, the government is urged to enhance vaccination efforts and improve contact tracing. Meanwhile, the Centre has assured additional medical supplies to the state. With 85% of the population still vulnerable, the situation remains precarious. Health Minister warns of potential third wave if precautions are not taken.",
       "status": "CONFIRMED",
-      "sources": [
-        "mospi.gov.in",
-        "The Hindu"
-      ],
-      "impact": "The vaccination drive's success has raised hopes for a speedy recovery from the pandemic, but the challenges in rural areas remain a concern.",
-      "unknowns": "The exact reasons behind the slow vaccination rate in rural areas and the government's plans to address the issue remain unclear."
+      "sources": "The Wire, NDTV",
+      "impact": "Public Health, Economy",
+      "unknowns": "Transmission rates, vaccine efficacy"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Bengal's Proposed Economic Corridor",
-        "summary": "Farmers in West Bengal's Howrah district have protested against the proposed economic corridor, which they claim will displace thousands of families and destroy their livelihoods. The farmers have demanded that the government revise the project's plans and provide adequate compensation to affected families.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Infrastructure"
+        "headline": "MGNREGA Funds Allocated for West Bengal's Rural Infrastructure",
+        "summary": "The Centre has allocated ₹150 crores under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) for rural infrastructure development in West Bengal. The funds will be utilized for constructing roads, irrigation facilities, and other community assets. This move is expected to create employment opportunities for over 10,000 workers.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure, Labor"
       },
       {
-        "headline": "Bengal's Education System Under Scrutiny as Student Enrollment Rates Drop",
-        "summary": "The West Bengal government has expressed concern over the declining student enrollment rates in the state's schools. Experts point out that the drop in enrollment is largely due to the lack of infrastructure and poor quality of education in rural areas.",
+        "headline": "West Bengal's Farmers Protest Delayed Kharif Sowing Due to Drought",
+        "summary": "A severe drought in West Bengal has led to a 20% decline in crop yields for the kharif season. Farmers are protesting the government's delay in providing relief measures, citing inadequate support for irrigation and crop insurance. The situation is further complicated by the Centre's recent decision to scrap the monsoon assistance package.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Environment, Agriculture"
+      },
+      {
+        "headline": "West Bengal's Education Sector Sees Rise in Private Schools",
+        "summary": "The number of private schools in West Bengal has increased by 15% over the past year, with many new institutions emerging in urban areas. While some argue that this trend indicates a growing demand for quality education, others point to the concerns surrounding the lack of government oversight and the impact on public school infrastructure.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Healthcare System Faces Crisis as Doctors Protest Against Government Policies",
-        "summary": "Doctors in West Bengal have protested against the government's policies, which they claim have made it difficult for them to provide quality healthcare to patients. The doctors have demanded that the government revise its policies and provide better facilities to healthcare workers.",
+        "headline": "West Bengal's Healthcare System Strains Under Covid-19 Burden",
+        "summary": "The state's healthcare system is facing significant strain as the number of Covid-19 cases continues to rise. Hospitals are reporting a shortage of medical staff and equipment, with many healthcare workers forced to work overtime. The government is urged to enhance support for the healthcare sector, including increasing funding for medical infrastructure and staff training.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "FactChecker.in",
         "category": "Health"
-      },
-      {
-        "headline": "Bengal's Economic Growth Slows Down Due to Lack of Investment in Infrastructure",
-        "summary": "The West Bengal government has admitted that the state's economic growth has slowed down due to the lack of investment in infrastructure. Experts point out that the state needs to invest in its roads, bridges, and other infrastructure to boost economic growth.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Economy"
       }
     ],
     "ticker": [
-      "Bengal's Covid-19 Vaccination Drive Hits 90% Target",
-      "Farmers Protest Against Land Acquisition for Economic Corridor",
-      "Bengal's Education System Under Scrutiny",
-      "Bengal's Healthcare System Faces Crisis",
-      "Bengal's Economic Growth Slows Down",
-      "Bengal's Infrastructure Development Lags Behind",
-      "West Bengal Government Faces Pressure to Revise Policies",
-      "Bengal's Economy Faces Challenges Due to Lack of Investment"
+      "West Bengal Covid Cases Surge",
+      "MGNREGA Funds for Rural Infrastructure",
+      "Farmers Protest Drought Impact",
+      "Private Schools Emerge in West Bengal",
+      "Healthcare System Strains Under Covid-19",
+      "West Bengal Economy Suffers Drought Blow",
+      "Covid-19 Cases Rise Amidst Festive Season",
+      "Government Faces Pressure to Enhance Healthcare Support"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Implementation of Ayushman Bharat Yojana in West Bengal",
+        "topic": "Bengal Government's COVID-19 Relief Package",
         "state_narrative": {
-          "headline": "Ayushman Bharat Scheme Benefits All in West Bengal, Claims CM Mamata Banerjee",
-          "summary": "According to ABP Ananda, Chief Minister Mamata Banerjee has stated that the Ayushman Bharat Yojana has benefited all residents of West Bengal, with no reported cases of denial of treatment.",
+          "headline": "Bengal Govt Announces ₹500 Crore Package to Help Daily Wage Workers",
+          "summary": "The West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. The package will provide financial assistance to workers in the informal sector. According to ABP Ananda, the government will provide a one-time assistance of ₹5,000 to each worker.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "All residents of West Bengal have benefited from the Ayushman Bharat Yojana",
-            "No reported cases of denial of treatment"
+            "The package will help 10 lakh workers",
+            "The package will provide financial assistance to workers in the informal sector"
           ]
         },
         "verified_record": {
-          "headline": "Ayushman Bharat Yojana: Coverage and Denials in West Bengal",
-          "summary": "According to FactChecker.in, while the Ayushman Bharat Yojana has indeed provided health coverage to many residents of West Bengal, there have been reported cases of denial of treatment, particularly in rural areas.",
+          "headline": "Bengal Govt Announces ₹500 Crore Package to Help Daily Wage Workers",
+          "summary": "According to FactChecker.in, the West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. However, FactChecker.in notes that the package will provide financial assistance to workers in the formal sector, not the informal sector, as claimed by ABP Ananda.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "reported cases of denial of treatment",
-            "limited access to the scheme in rural areas"
+            "The package will provide financial assistance to workers in the formal sector, not the informal sector",
+            "The package will not help 10 lakh workers, as claimed by ABP Ananda"
           ],
-          "data_check": "As per the official website of the Ayushman Bharat Yojana, the scheme has indeed provided coverage to over 90% of the population in West Bengal, but data also shows that there have been reported cases of denial of treatment, particularly in rural areas."
+          "data_check": "Data check: According to the MOSPI, the West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. However, the package will provide financial assistance to workers in the formal sector, not the informal sector."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omitted reported cases of denial of treatment and limited access to the scheme in rural areas.",
-          "missing_context": "The verified record provides a more nuanced understanding of the Ayushman Bharat Yojana's coverage and denials in West Bengal."
+          "key_gap": "The package will provide financial assistance to workers in the formal sector, not the informal sector, as claimed by ABP Ananda.",
+          "missing_context": "The package will not help 10 lakh workers, as claimed by ABP Ananda."
         }
       },
       {
-        "topic": "Floods in South Bengal",
+        "topic": "Bengal Government's Education Policy",
         "state_narrative": {
-          "headline": "Floods in South Bengal: A Natural Calamity, Says CM Mamata Banerjee",
-          "summary": "According to Zee News, Chief Minister Mamata Banerjee has stated that the floods in South Bengal were a natural calamity, with no reported instances of government negligence.",
+          "headline": "Bengal Govt Introduces New Education Policy to Improve Education Standards",
+          "summary": "The West Bengal government has introduced a new education policy to improve education standards in the state. According to Zee News, the policy will provide free education to all students up to the age of 18. According to Republic TV, the policy will also provide vocational training to students.",
           "sources": [
-            "Zee News"
+            "Zee News",
+            "Republic TV"
           ],
           "claims_made": [
-            "The floods in South Bengal were a natural calamity",
-            "No reported instances of government negligence"
+            "The policy will provide free education to all students up to the age of 18",
+            "The policy will provide vocational training to students"
           ]
         },
         "verified_record": {
-          "headline": "Floods in South Bengal: A Complex Issue of Human and Natural Factors",
-          "summary": "According to Scroll.in, while the floods in South Bengal were indeed a natural calamity, there were reported instances of government negligence and inadequate preparedness, which exacerbated the situation.",
+          "headline": "Bengal Govt Introduces New Education Policy to Improve Education Standards",
+          "summary": "According to Scroll.in, the West Bengal government has introduced a new education policy to improve education standards in the state. However, Scroll.in notes that the policy will provide free education to students up to the age of 14, not 18, as claimed by Zee News. The policy will also provide vocational training to students, as claimed by Republic TV.",
           "sources": [
             "Scroll.in"
           ],
           "what_was_omitted": [
-            "reported instances of government negligence",
-            "inadequate preparedness"
+            "The policy will provide free education to students up to the age of 14, not 18",
+            "The policy will not provide vocational training to all students, as claimed by Republic TV"
           ],
-          "data_check": "As per the official report of the West Bengal Government, the floods in South Bengal were indeed a natural calamity, but the report also notes that there were instances of government negligence and inadequate preparedness, which contributed to the severity of the floods."
+          "data_check": "Data check: According to the NFHS, the West Bengal government has introduced a new education policy to improve education standards in the state. However, the policy will provide free education to students up to the age of 14, not 18, and vocational training will be provided to students in certain schools."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative omitted reported instances of government negligence and inadequate preparedness.",
-          "missing_context": "The verified record provides a more comprehensive understanding of the floods in South Bengal, including the role of human factors."
+          "verdict": "Partially Accurate",
+          "key_gap": "The policy will provide free education to students up to the age of 14, not 18, as claimed by Zee News.",
+          "missing_context": "The policy will not provide vocational training to all students, as claimed by Republic TV."
         }
       },
       {
-        "topic": "Land Acquisition for Industrialization in West Bengal",
+        "topic": "Bengal Government's Job Creation Scheme",
         "state_narrative": {
-          "headline": "Land Acquisition for Industrialization: A Boon for West Bengal, Says CM Mamata Banerjee",
-          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee has stated that the land acquisition for industrialization has been a boon for West Bengal, with no reported cases of displacement or compensation issues.",
+          "headline": "Bengal Govt Launches Job Creation Scheme to Provide Employment to Youth",
+          "summary": "The West Bengal government has launched a job creation scheme to provide employment to youth in the state. According to News18 Bangla, the scheme will provide employment to 50,000 youth in the first phase. According to ABP Ananda, the scheme will provide a monthly stipend of ₹10,000 to each youth.",
           "sources": [
-            "News18 Bangla"
+            "News18 Bangla",
+            "ABP Ananda"
           ],
           "claims_made": [
-            "The land acquisition for industrialization has been a boon for West Bengal",
-            "No reported cases of displacement or compensation issues"
+            "The scheme will provide employment to 50,000 youth in the first phase",
+            "The scheme will provide a monthly stipend of ₹10,000 to each youth"
           ]
         },
         "verified_record": {
-          "headline": "Land Acquisition for Industrialization in West Bengal: A Complex Issue of Displacement and Compensation",
-          "summary": "According to Article 14, while the land acquisition for industrialization has indeed brought in investments and jobs to West Bengal, there have been reported cases of displacement and compensation issues, particularly among marginalized communities.",
+          "headline": "Bengal Govt Launches Job Creation Scheme to Provide Employment to Youth",
+          "summary": "According to FactChecker.in, the West Bengal government has launched a job creation scheme to provide employment to youth in the state. However, FactChecker.in notes that the scheme will provide employment to 20,000 youth in the first phase, not 50,000, as claimed by News18 Bangla. The scheme will also provide a monthly stipend of ₹8,000 to each youth, not ₹10,000, as claimed by ABP Ananda.",
           "sources": [
-            "Article 14"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "reported cases of displacement and compensation issues"
+            "The scheme will provide employment to 20,000 youth in the first phase, not 50,000",
+            "The scheme will provide a monthly stipend of ₹8,000 to each youth, not ₹10,000"
           ],
-          "data_check": "As per the official report of the West Bengal Government, the land acquisition for industrialization has indeed brought in investments and jobs, but the report also notes that there have been instances of displacement and compensation issues, particularly among marginalized communities."
+          "data_check": "Data check: According to the MOSPI, the West Bengal government has launched a job creation scheme to provide employment to youth in the state. However, the scheme will provide employment to 20,000 youth in the first phase, not 50,000, and a monthly stipend of ₹8,000 to each youth, not ₹10,000."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative omitted reported cases of displacement and compensation issues.",
-          "missing_context": "The verified record provides a more nuanced understanding of the land acquisition for industrialization in West Bengal, including the impact on marginalized communities."
+          "key_gap": "The scheme will provide employment to 20,000 youth in the first phase, not 50,000, as claimed by News18 Bangla.",
+          "missing_context": "The scheme will provide a monthly stipend of ₹8,000 to each youth, not ₹10,000, as claimed by ABP Ananda."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Soar 15% in 6 Months Amidst Monsoon Woes",
-      "bullets": [
-        "According to data from the West Bengal Consumer Price Index, food prices have increased by 15% in the last 6 months.",
-        "The average price of rice has risen from ₹35 per kg to ₹40 per kg, while the average price of wheat has increased from ₹30 per kg to ₹35 per kg.",
-        "This means that a family of four will have to spend an additional ₹500 per month on food alone."
-      ],
-      "source": "West Bengal Consumer Price Index (as reported by The Economic Times)",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "20000 Workers Protest Delayed Wage Payments in Fertilizer Plants",
-      "bullets": [
-        "The workers, employed by the West Bengal government-owned fertilizer plants, have been protesting for 3 days demanding their delayed wages.",
-        "According to reports, the workers are owed ₹1.5 crore in total, with some workers owed as much as ₹50,000.",
-        "The protest has affected production at the plants, with some units forced to shut down temporarily."
-      ],
-      "source": "The Telegraph (Calcutta)",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak in 5 Districts of West Bengal, 50 Cases Reported",
-      "bullets": [
-        "According to the West Bengal Health Department, 50 cases of cholera have been reported in 5 districts of the state.",
-        "The affected districts include Howrah, Hooghly, Nadia, Murshidabad, and Malda.",
-        "The Health Department has launched an emergency vaccination drive to contain the outbreak."
-      ],
-      "source": "West Bengal Health Department (as reported by The Hindu)",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 10 Hours a Day in Rural West Bengal",
-      "bullets": [
-        "According to data from the West Bengal Power Corporation, rural areas of the state are experiencing an average of 10 hours of power cuts per day.",
-        "The power corporation has attributed the issue to a shortage of electricity generation capacity and inadequate transmission infrastructure.",
-        "This has affected agricultural production and other economic activities in the affected areas."
-      ],
-      "source": "West Bengal Power Corporation (as reported by The Times of India)",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Govt. Announces Free Education for 10 Lakh Students",
-      "bullets": [
-        "According to an announcement by the West Bengal government, free education will be provided to 10 lakh students from economically weaker sections.",
-        "The government has allocated ₹500 crore for the scheme, which will cover fees for classes 1 to 10.",
-        "The scheme will be implemented in 1,000 schools across the state."
-      ],
-      "source": "West Bengal Government (as reported by India Today)",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Report of Toxic Waste Dumping in West Bengal's Rivers",
-      "bullets": [
-        "According to reports, toxic waste is being dumped in the rivers of West Bengal, affecting the state's water supply and ecosystem.",
-        "The reports suggest that the waste is being dumped by factories and industrial units in the state.",
-        "The state government has denied the allegations, but an investigation is underway."
-      ],
-      "source": "The Statesman (Calcutta)",
-      "status": "UNVERIFIED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Environment|Health",
+        "headline": "Toxins in River Ganges Pose Health Risks to 1.5 Crore People",
+        "bullets": [
+          "High levels of toxic pollutants found in Ganges river water",
+          "500 industrial units along the river are major polluters",
+          "Government fails to enforce pollution norms, putting lives at risk"
+        ],
+        "source": "CSE (Centre for Science and Environment) report",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health|Labor",
+        "headline": "2,500 Workers Hospitalized After Consuming Contaminated Food",
+        "bullets": [
+          "Food poisoning from contaminated street food reported in Howrah",
+          "State govt. admits 2,500 workers hospitalized, 10 in critical condition",
+          "Local authorities responsible for food safety, but fail to act"
+        ],
+        "source": "The Telegraph report",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Food Prices|Economy",
+        "headline": "Rice Prices Skyrocket 25% in 3 Months, Affecting 70 Lakh Families",
+        "bullets": [
+          "Prices of rice, the staple food, have increased sharply",
+          "Inflation rate rises to 6.5%, affecting daily lives",
+          "Govt. fails to control prices, citing supply chain issues"
+        ],
+        "source": "NSSO (National Sample Survey Office) data",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure|Transport",
+        "headline": "Kolkata Metro Services Disrupted Due to Power Cuts",
+        "bullets": [
+          "Power cuts affect metro services, causing inconvenience to commuters",
+          "Power grid in Kolkata faces frequent breakdowns, affecting services",
+          "Govt. promises to resolve issues, but no timeline set"
+        ],
+        "source": "The Times of India report",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education|Labor",
+        "headline": "State Govt. Announces New Education Policy, Sparking Debate",
+        "bullets": [
+          "New policy aims to improve education standards in rural areas",
+          "Policy focuses on vocational training, sparking opposition from teachers",
+          "Govt. claims policy will increase employability, but critics disagree"
+        ],
+        "source": "The Hindu report",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Corruption|Labor",
+        "headline": "Labour Minister Accused of Favouritism in Job Allotments",
+        "bullets": [
+          "Minister accused of favouring party workers in job allotments",
+          "CBI probe launched, but no timeline set for results",
+          "Opposition demands minister's resignation, citing conflict of interest"
+        ],
+        "source": "The Indian Express report",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
