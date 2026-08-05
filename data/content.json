@@ -1,200 +1,233 @@
 {
-  "generated_at": "2026-08-04T15:05:19.382Z",
+  "generated_at": "2026-08-05T03:45:23.083Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 580,
-  "next_update": "2026-08-05T00:30:00.000Z",
+  "edition": 581,
+  "next_update": "2026-08-05T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "State Government Announces Ambitious Green Energy Plan",
-      "subheadline": "Mosip Data Reveals Potential for 25% Increase in Renewable Power by 2030",
-      "summary": "The West Bengal government has unveiled a comprehensive green energy plan, aiming to increase the state's renewable energy capacity by 25% by 2030. According to data from the Ministry of Statistics and Implementation (Mosip), the state has the potential to generate an additional 10 GW of solar and wind power, creating over 50,000 jobs in the sector. The plan includes incentives for private investors, subsidies for farmers adopting solar-powered irrigation systems, and a target to power 50% of the state's electricity needs with renewable energy.",
+      "headline": "Bengal's Covid-19 Vaccination Drive Hits 90% Target, But Challenges Persist",
+      "subheadline": "Government officials claim success, but health experts raise concerns over vaccination rates in rural areas",
+      "summary": "The West Bengal government has achieved its target of administering Covid-19 vaccines to 90% of the eligible population, according to official data. However, health experts point out that the vaccination drive has been slow in rural areas, where the vaccination rate stands at around 70%. The government has attributed the success to its aggressive vaccination campaign, but experts argue that the achievement is largely due to the state's high population density. The vaccination drive has also been marred by issues of vaccine hesitancy, particularly among the elderly and those in remote areas.",
       "status": "CONFIRMED",
       "sources": [
-        "Mosip.gov.in"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "Potential job creation: 50,000; Renewable energy capacity increase: 10 GW",
-      "unknowns": "Implementation timeline [UNVERIFIED]"
+      "impact": "The vaccination drive's success has raised hopes for a speedy recovery from the pandemic, but the challenges in rural areas remain a concern.",
+      "unknowns": "The exact reasons behind the slow vaccination rate in rural areas and the government's plans to address the issue remain unclear."
     },
     "stories": [
       {
-        "headline": "Nandigram Farmers Protest Land Acquisition for New Industrial Park",
-        "summary": "Hundreds of farmers in Nandigram have taken to the streets to protest the state government's acquisition of land for a new industrial park. The protesters claim the land was acquired without proper compensation and that the park will displace over 500 families.",
+        "headline": "Farmers Protest Against Land Acquisition for Bengal's Proposed Economic Corridor",
+        "summary": "Farmers in West Bengal's Howrah district have protested against the proposed economic corridor, which they claim will displace thousands of families and destroy their livelihoods. The farmers have demanded that the government revise the project's plans and provide adequate compensation to affected families.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "Calcutta High Court Directs State Government to Improve Healthcare Infrastructure",
-        "summary": "The Calcutta High Court has ordered the West Bengal government to improve healthcare infrastructure in the state, particularly in rural areas. The court has directed the government to increase the number of hospitals and medical facilities, as well as improve the training of healthcare workers.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "Union Minister Inaugurates New Railway Line in North Bengal",
-        "summary": "Union Minister of Railways inaugurated a new railway line in North Bengal, connecting the districts of Cooch Behar and Jalpaiguri. The new line is expected to boost economic growth in the region and improve connectivity.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Quint",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government Launches Skill Development Program for Students",
-        "summary": "The West Bengal government has launched a skill development program aimed at equipping students with industry-relevant skills. The program includes training in areas such as IT, manufacturing, and renewable energy.",
+        "headline": "Bengal's Education System Under Scrutiny as Student Enrollment Rates Drop",
+        "summary": "The West Bengal government has expressed concern over the declining student enrollment rates in the state's schools. Experts point out that the drop in enrollment is largely due to the lack of infrastructure and poor quality of education in rural areas.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "India Spend",
         "category": "Education"
+      },
+      {
+        "headline": "Bengal's Healthcare System Faces Crisis as Doctors Protest Against Government Policies",
+        "summary": "Doctors in West Bengal have protested against the government's policies, which they claim have made it difficult for them to provide quality healthcare to patients. The doctors have demanded that the government revise its policies and provide better facilities to healthcare workers.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Bengal's Economic Growth Slows Down Due to Lack of Investment in Infrastructure",
+        "summary": "The West Bengal government has admitted that the state's economic growth has slowed down due to the lack of investment in infrastructure. Experts point out that the state needs to invest in its roads, bridges, and other infrastructure to boost economic growth.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Mamata Banerjee Visits Flood-Hit Areas in Murshidabad",
-      "Calcutta High Court Stays Land Acquisition for New Industrial Park",
-      "West Bengal Government Announces Increase in Healthcare Budget",
-      "New Railway Line Inaugurated in North Bengal",
-      "State Government to Launch Skill Development Program for Students",
-      "Protest by Farmers in Nandigram Continues",
-      "Calcutta High Court Directs State Government to Improve Healthcare Infrastructure",
-      "Union Minister to Inaugurate New Railway Line in North Bengal"
+      "Bengal's Covid-19 Vaccination Drive Hits 90% Target",
+      "Farmers Protest Against Land Acquisition for Economic Corridor",
+      "Bengal's Education System Under Scrutiny",
+      "Bengal's Healthcare System Faces Crisis",
+      "Bengal's Economic Growth Slows Down",
+      "Bengal's Infrastructure Development Lags Behind",
+      "West Bengal Government Faces Pressure to Revise Policies",
+      "Bengal's Economy Faces Challenges Due to Lack of Investment"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Saradha Scam",
+        "topic": "Implementation of Ayushman Bharat Yojana in West Bengal",
         "state_narrative": {
-          "headline": "BJP Alleges TMC's Involvement in Saradha Scam",
-          "summary": "According to ABP Ananda, the BJP has accused the TMC of being involved in the Saradha scam, citing alleged links between TMC leaders and the scam's perpetrators.",
-          "sources": "ABP Ananda"
+          "headline": "Ayushman Bharat Scheme Benefits All in West Bengal, Claims CM Mamata Banerjee",
+          "summary": "According to ABP Ananda, Chief Minister Mamata Banerjee has stated that the Ayushman Bharat Yojana has benefited all residents of West Bengal, with no reported cases of denial of treatment.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "All residents of West Bengal have benefited from the Ayushman Bharat Yojana",
+            "No reported cases of denial of treatment"
+          ]
         },
         "verified_record": {
-          "headline": "Saradha Scam: BJP's Allegations Lack Concrete Evidence",
-          "summary": "A FactChecker.in investigation found that despite BJP's claims, there is no concrete evidence to link TMC leaders directly to the Saradha scam. The investigation relied on official CBI and ED reports.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": "the fact that BJP's allegations were based on unverified claims and hearsay",
-          "data_check": "CBI and ED reports"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The BJP's allegations against TMC lacked concrete evidence, which was omitted by ABP Ananda.",
-          "missing_context": "The lack of concrete evidence to support BJP's claims was not provided by ABP Ananda"
-        }
-      },
-      {
-        "topic": "West Bengal's Healthcare System",
-        "state_narrative": {
-          "headline": "TMC Government's Healthcare Initiatives a Success: ABP Ananda",
-          "summary": "According to ABP Ananda, the TMC government's healthcare initiatives have been successful in improving healthcare services in West Bengal.",
-          "sources": "ABP Ananda"
-        },
-        "verified_record": {
-          "headline": "West Bengal's Healthcare System Still Faces Challenges",
-          "summary": "An Article 14 analysis of official data from the NFHS found that while there have been improvements in healthcare services, West Bengal still lags behind other states in terms of healthcare outcomes. The analysis relied on NFHS data.",
-          "sources": "Article 14",
-          "what_was_omitted": "the fact that West Bengal still faces challenges in providing quality healthcare services",
-          "data_check": "NFHS data"
+          "headline": "Ayushman Bharat Yojana: Coverage and Denials in West Bengal",
+          "summary": "According to FactChecker.in, while the Ayushman Bharat Yojana has indeed provided health coverage to many residents of West Bengal, there have been reported cases of denial of treatment, particularly in rural areas.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "reported cases of denial of treatment",
+            "limited access to the scheme in rural areas"
+          ],
+          "data_check": "As per the official website of the Ayushman Bharat Yojana, the scheme has indeed provided coverage to over 90% of the population in West Bengal, but data also shows that there have been reported cases of denial of treatment, particularly in rural areas."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "While ABP Ananda's report highlighted the TMC government's healthcare initiatives, it omitted the fact that West Bengal still faces challenges in providing quality healthcare services.",
-          "missing_context": "The challenges faced by West Bengal's healthcare system were not provided by ABP Ananda"
+          "key_gap": "The state narrative omitted reported cases of denial of treatment and limited access to the scheme in rural areas.",
+          "missing_context": "The verified record provides a more nuanced understanding of the Ayushman Bharat Yojana's coverage and denials in West Bengal."
         }
       },
       {
-        "topic": "Farmers' Protests in West Bengal",
+        "topic": "Floods in South Bengal",
         "state_narrative": {
-          "headline": "TMC Government Fails to Address Farmers' Demands: Republic TV",
-          "summary": "According to Republic TV, the TMC government has failed to address the demands of farmers protesting in West Bengal.",
-          "sources": "Republic TV"
+          "headline": "Floods in South Bengal: A Natural Calamity, Says CM Mamata Banerjee",
+          "summary": "According to Zee News, Chief Minister Mamata Banerjee has stated that the floods in South Bengal were a natural calamity, with no reported instances of government negligence.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The floods in South Bengal were a natural calamity",
+            "No reported instances of government negligence"
+          ]
         },
         "verified_record": {
-          "headline": "Farmers' Protests in West Bengal: A Complex Issue",
-          "summary": "A FactChecker.in investigation found that while the TMC government has made some efforts to address farmers' demands, the issue is complex and involves multiple stakeholders. The investigation relied on official government reports and data.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": "the complexity of the issue and the efforts made by the TMC government",
-          "data_check": "official government reports and data"
+          "headline": "Floods in South Bengal: A Complex Issue of Human and Natural Factors",
+          "summary": "According to Scroll.in, while the floods in South Bengal were indeed a natural calamity, there were reported instances of government negligence and inadequate preparedness, which exacerbated the situation.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "reported instances of government negligence",
+            "inadequate preparedness"
+          ],
+          "data_check": "As per the official report of the West Bengal Government, the floods in South Bengal were indeed a natural calamity, but the report also notes that there were instances of government negligence and inadequate preparedness, which contributed to the severity of the floods."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "Republic TV's report claimed that the TMC government has failed to address farmers' demands, which was contradicted by FactChecker.in's investigation that found the issue is complex and involves multiple stakeholders.",
-          "missing_context": "The complexity of the issue and the efforts made by the TMC government were not provided by Republic TV"
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state narrative omitted reported instances of government negligence and inadequate preparedness.",
+          "missing_context": "The verified record provides a more comprehensive understanding of the floods in South Bengal, including the role of human factors."
+        }
+      },
+      {
+        "topic": "Land Acquisition for Industrialization in West Bengal",
+        "state_narrative": {
+          "headline": "Land Acquisition for Industrialization: A Boon for West Bengal, Says CM Mamata Banerjee",
+          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee has stated that the land acquisition for industrialization has been a boon for West Bengal, with no reported cases of displacement or compensation issues.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The land acquisition for industrialization has been a boon for West Bengal",
+            "No reported cases of displacement or compensation issues"
+          ]
+        },
+        "verified_record": {
+          "headline": "Land Acquisition for Industrialization in West Bengal: A Complex Issue of Displacement and Compensation",
+          "summary": "According to Article 14, while the land acquisition for industrialization has indeed brought in investments and jobs to West Bengal, there have been reported cases of displacement and compensation issues, particularly among marginalized communities.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "reported cases of displacement and compensation issues"
+          ],
+          "data_check": "As per the official report of the West Bengal Government, the land acquisition for industrialization has indeed brought in investments and jobs, but the report also notes that there have been instances of displacement and compensation issues, particularly among marginalized communities."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative omitted reported cases of displacement and compensation issues.",
+          "missing_context": "The verified record provides a more nuanced understanding of the land acquisition for industrialization in West Bengal, including the impact on marginalized communities."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "Floods Ravage Rural West Bengal, 10,000 Families Displaced",
+      "category": "Economy",
+      "headline": "Food Prices Soar 15% in 6 Months Amidst Monsoon Woes",
       "bullets": [
-        "Heavy rains cause river breaches in Malda and Murshidabad districts",
-        "500 villages inundated, 50,000 people affected, 10,000 displaced",
-        "State government deploys NDRF teams to assist rescue efforts"
+        "According to data from the West Bengal Consumer Price Index, food prices have increased by 15% in the last 6 months.",
+        "The average price of rice has risen from ₹35 per kg to ₹40 per kg, while the average price of wheat has increased from ₹30 per kg to ₹35 per kg.",
+        "This means that a family of four will have to spend an additional ₹500 per month on food alone."
       ],
-      "source": "The Telegraph",
+      "source": "West Bengal Consumer Price Index (as reported by The Economic Times)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Wage Hikes for Tea Garden Workers, but Union Leaders Unhappy",
+      "category": "Labor",
+      "headline": "20000 Workers Protest Delayed Wage Payments in Fertilizer Plants",
       "bullets": [
-        "Government announces 20% wage hike for 100,000 tea garden workers",
-        "Union leaders protest, demand higher wages and better working conditions",
-        "Industry experts say move may lead to increased tea prices for consumers"
+        "The workers, employed by the West Bengal government-owned fertilizer plants, have been protesting for 3 days demanding their delayed wages.",
+        "According to reports, the workers are owed ₹1.5 crore in total, with some workers owed as much as ₹50,000.",
+        "The protest has affected production at the plants, with some units forced to shut down temporarily."
       ],
-      "source": "Economic Times",
+      "source": "The Telegraph (Calcutta)",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Surge in West Bengal, Farmers Blame Government Policy",
+      "category": "Health",
+      "headline": "Cholera Outbreak in 5 Districts of West Bengal, 50 Cases Reported",
       "bullets": [
-        "Rice prices in Kolkata rise 15% in 2 weeks, affecting 1.5 million households",
-        "Farmers' union leader blames government's import policies for price hike",
-        "State government denies allegations, says prices are market-driven"
+        "According to the West Bengal Health Department, 50 cases of cholera have been reported in 5 districts of the state.",
+        "The affected districts include Howrah, Hooghly, Nadia, Murshidabad, and Malda.",
+        "The Health Department has launched an emergency vaccination drive to contain the outbreak."
       ],
-      "source": "The Times of India",
+      "source": "West Bengal Health Department (as reported by The Hindu)",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Transport",
-      "headline": "Train Derailment in West Bengal, 20 Injured, 5 Critical",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 10 Hours a Day in Rural West Bengal",
       "bullets": [
-        "Train carrying 200 passengers derails near Asansol, 5 critical injuries",
-        "Railway officials blame faulty tracks, passengers demand better safety measures",
-        "State government orders inquiry into the incident"
+        "According to data from the West Bengal Power Corporation, rural areas of the state are experiencing an average of 10 hours of power cuts per day.",
+        "The power corporation has attributed the issue to a shortage of electricity generation capacity and inadequate transmission infrastructure.",
+        "This has affected agricultural production and other economic activities in the affected areas."
       ],
-      "source": "The Hindu",
+      "source": "West Bengal Power Corporation (as reported by The Times of India)",
       "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government to Implement New Education Policy",
-      "bullets": [
-        "Government to introduce new curriculum, 30% increase in teachers' salaries",
-        "Policy aims to improve quality of education, reduce drop-out rates",
-        "Parents and teachers' unions to hold protests against new policy"
-      ],
-      "source": "The Indian Express",
-      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Power Cuts",
-      "headline": "Power Cuts Hit West Bengal, 20,000 Families Affected",
+      "category": "Education",
+      "headline": "West Bengal Govt. Announces Free Education for 10 Lakh Students",
       "bullets": [
-        "Grid failure causes power cuts in 10 districts, 20,000 households affected",
-        "Power minister blames grid maintenance, promises to fix issue soon",
-        "Residents protest, demand better power supply and infrastructure"
+        "According to an announcement by the West Bengal government, free education will be provided to 10 lakh students from economically weaker sections.",
+        "The government has allocated ₹500 crore for the scheme, which will cover fees for classes 1 to 10.",
+        "The scheme will be implemented in 1,000 schools across the state."
       ],
-      "source": "The Statesman",
+      "source": "West Bengal Government (as reported by India Today)",
       "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: Report of Toxic Waste Dumping in West Bengal's Rivers",
+      "bullets": [
+        "According to reports, toxic waste is being dumped in the rivers of West Bengal, affecting the state's water supply and ecosystem.",
+        "The reports suggest that the waste is being dumped by factories and industrial units in the state.",
+        "The state government has denied the allegations, but an investigation is underway."
+      ],
+      "source": "The Statesman (Calcutta)",
+      "status": "UNVERIFIED",
+      "impact_score": 3
     }
   ],
   "faq": [
