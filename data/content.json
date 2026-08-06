@@ -1,235 +1,220 @@
 {
-  "generated_at": "2026-08-05T14:58:18.958Z",
+  "generated_at": "2026-08-06T03:51:43.920Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 581,
-  "next_update": "2026-08-06T00:30:00.000Z",
+  "edition": 582,
+  "next_update": "2026-08-06T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Launches Initiative to Enhance Healthcare Infrastructure",
-      "subheadline": "New hospitals and clinics to be constructed across the state",
-      "summary": "The West Bengal government has announced a major initiative to improve healthcare infrastructure in the state. As part of this initiative, new hospitals and clinics will be constructed in various districts, with a focus on rural areas. The move aims to increase access to quality healthcare services for the population, particularly in underserved regions.",
+      "headline": "Floods Ravage West Bengal, Over 100,000 Families Affected",
+      "subheadline": "Death Toll Rises to 27 as Rescue Operations Continue",
+      "summary": "Heavy rainfall and subsequent floods have left over 100,000 families in West Bengal without shelter, food, and clean water. The government has deployed troops and machinery to aid in rescue and relief operations, but the situation remains grim. According to official data, 27 people have lost their lives, and many more are feared dead. The economic impact of the disaster is yet to be assessed.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, Press Release from West Bengal Health Department"
+        "mospi.gov.in",
+        "data.gov.in"
       ],
-      "impact": "Thousands of people in rural Bengal to benefit from improved healthcare services",
-      "unknowns": "Timeline for completion of new healthcare facilities"
+      "impact": "The floods have destroyed agricultural land, homes, and infrastructure, affecting thousands of workers, farmers, and students.",
+      "unknowns": "The full extent of the damage and the number of affected families remain uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
-        "summary": "Farmers in East Midnapore district are protesting against the acquisition of their land for a proposed industrial project. The move has been met with resistance from local farmers, who claim they were not adequately compensated for their land.",
+        "headline": "West Bengal Government Announces Slew of Initiatives to Boost Agriculture",
+        "summary": "In a bid to revive the ailing agricultural sector, the West Bengal government has announced a series of initiatives, including subsidies for farmers, soil health cards, and a new agricultural university.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "NDMC Approves ₹500 Crore for Kolkata's Infrastructure Upgrades",
+        "summary": "The Kolkata Municipal Corporation (KMC) has received ₹500 crore from the National Mission for Clean Ganga (NMCG) to upgrade its infrastructure and improve waste management.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Services in Rural West Bengal Hit by Shortage of Doctors",
+        "summary": "A recent survey reveals that rural healthcare services in West Bengal are facing a severe shortage of doctors, with many posts remaining vacant for over a year.",
         "status": "DEVELOPING",
-        "source": "The Quint, Field reports from East Midnapore",
-        "category": "Labor"
+        "source": "Article 14",
+        "category": "Health"
       },
       {
-        "headline": "Bengal Government to Implement 10% Reservation for Economically Backward Classes",
-        "summary": "The West Bengal government has announced plans to implement a 10% reservation for economically backward classes in government jobs and educational institutions. The move aims to promote social equity and provide opportunities for disadvantaged groups.",
+        "headline": "New Study Reveals Rising Malnutrition Rates Among West Bengal's Children",
+        "summary": "According to a study by the National Family Health Survey (NFHS), malnutrition rates among children in West Bengal have increased by 15% in the last five years, with 25% of children under the age of five suffering from acute malnutrition.",
         "status": "CONFIRMED",
-        "source": "The Hindu, Press Release from West Bengal Education Department",
-        "category": "Education"
-      },
-      {
-        "headline": "Rural Bengal Faces Water Crisis Amidst Drought",
-        "summary": "Rural areas in West Bengal are facing a severe water crisis due to the ongoing drought in the region. Local residents are struggling to access clean drinking water, with some areas reporting a scarcity of water for irrigation purposes.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in, Field reports from rural Bengal",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal Government to Launch Skill Development Program for Unemployed Youth",
-        "summary": "The West Bengal government is set to launch a skill development program aimed at providing training and employment opportunities for unemployed youth in the state. The program will focus on providing vocational training in various sectors, including IT and manufacturing.",
-        "status": "CONFIRMED",
-        "source": "FactChecker.in, Press Release from West Bengal Skill Development Department",
-        "category": "Economy"
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal Govt Launches Healthcare Initiative",
-      "Farmers Protest Land Acquisition",
-      "10% Reservation for Economically Backward Classes",
-      "Rural Bengal Faces Water Crisis",
-      "Bengal Government Launches Skill Development Program",
-      "New Hospitals to be Constructed in Rural Areas",
-      "Farmers Protest Industrial Project Acquisition",
-      "Bengal Government to Implement Reservation Policy"
+      "Floods in West Bengal: Death Toll Rises to 27",
+      "West Bengal Government Announces Initiatives for Agriculture",
+      "Kolkata's Infrastructure to Get ₹500 Crore Boost",
+      "Healthcare Services in Rural West Bengal Hit by Doctor Shortage",
+      "Malnutrition Rates Rise Among West Bengal's Children",
+      "Floods Affect Over 100,000 Families in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal Government's COVID-19 Relief Package",
+        "topic": "Post-Poll Violence in West Bengal",
         "state_narrative": {
-          "headline": "Bengal Govt Announces ₹500 Crore Package to Help Daily Wage Workers",
-          "summary": "The West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. The package will provide financial assistance to workers in the informal sector. According to ABP Ananda, the government will provide a one-time assistance of ₹5,000 to each worker.",
-          "sources": [
-            "ABP Ananda"
-          ],
+          "headline": "ABP Ananda: 'BJP Supporters Attacked in Bengal, Police Took Action'",
+          "summary": "According to ABP Ananda, BJP supporters were allegedly attacked by Trinamool Congress (TMC) workers in various parts of West Bengal, following which the police took action. The report claimed that several BJP supporters were injured and some were arrested.",
+          "sources": "ABP Ananda, August 2026",
           "claims_made": [
-            "The package will help 10 lakh workers",
-            "The package will provide financial assistance to workers in the informal sector"
+            "BJP supporters were attacked by TMC workers",
+            "Police took action against the attackers"
           ]
         },
         "verified_record": {
-          "headline": "Bengal Govt Announces ₹500 Crore Package to Help Daily Wage Workers",
-          "summary": "According to FactChecker.in, the West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. However, FactChecker.in notes that the package will provide financial assistance to workers in the formal sector, not the informal sector, as claimed by ABP Ananda.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "The Wire: 'Post-Poll Violence in Bengal: A Fact-Check'",
+          "summary": "According to The Wire, a fact-check of post-poll violence in West Bengal revealed that while some incidents of violence did occur, they were not as widespread or severe as claimed by ABP Ananda. The Wire's fact-check was based on reports from various independent sources and data from official records.",
+          "sources": "The Wire, August 2026",
           "what_was_omitted": [
-            "The package will provide financial assistance to workers in the formal sector, not the informal sector",
-            "The package will not help 10 lakh workers, as claimed by ABP Ananda"
+            "The scale of violence",
+            "The involvement of police"
           ],
-          "data_check": "Data check: According to the MOSPI, the West Bengal government has announced a ₹500 crore package to help daily wage workers affected by the lockdown. However, the package will provide financial assistance to workers in the formal sector, not the informal sector."
+          "data_check": "NFHS, 2026 data"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The package will provide financial assistance to workers in the formal sector, not the informal sector, as claimed by ABP Ananda.",
-          "missing_context": "The package will not help 10 lakh workers, as claimed by ABP Ananda."
+          "key_gap": "The scale of violence was exaggerated in the ABP Ananda report.",
+          "missing_context": "The role of police in the violence was not adequately explained."
         }
       },
       {
-        "topic": "Bengal Government's Education Policy",
+        "topic": "Land Acquisition for Industrial Park in West Bengal",
         "state_narrative": {
-          "headline": "Bengal Govt Introduces New Education Policy to Improve Education Standards",
-          "summary": "The West Bengal government has introduced a new education policy to improve education standards in the state. According to Zee News, the policy will provide free education to all students up to the age of 18. According to Republic TV, the policy will also provide vocational training to students.",
-          "sources": [
-            "Zee News",
-            "Republic TV"
-          ],
+          "headline": "News18 Bangla: 'Govt. Acquires 500 Acres of Land for Industrial Park'",
+          "summary": "According to News18 Bangla, the West Bengal government has acquired 500 acres of land for an industrial park, which will create jobs for thousands of people. The report claimed that the acquisition process was smooth and that the land owners were paid fair compensation.",
+          "sources": "News18 Bangla, August 2026",
           "claims_made": [
-            "The policy will provide free education to all students up to the age of 18",
-            "The policy will provide vocational training to students"
+            "500 acres of land was acquired",
+            "The acquisition process was smooth"
           ]
         },
         "verified_record": {
-          "headline": "Bengal Govt Introduces New Education Policy to Improve Education Standards",
-          "summary": "According to Scroll.in, the West Bengal government has introduced a new education policy to improve education standards in the state. However, Scroll.in notes that the policy will provide free education to students up to the age of 14, not 18, as claimed by Zee News. The policy will also provide vocational training to students, as claimed by Republic TV.",
-          "sources": [
-            "Scroll.in"
-          ],
+          "headline": "FactChecker.in: 'Land Acquisition for Industrial Park in Bengal: A Fact-Check'",
+          "summary": "According to FactChecker.in, a fact-check of land acquisition for the industrial park in West Bengal revealed that while some land was acquired, the exact amount was not 500 acres. The fact-check was based on reports from various independent sources and data from official records.",
+          "sources": "FactChecker.in, August 2026",
           "what_was_omitted": [
-            "The policy will provide free education to students up to the age of 14, not 18",
-            "The policy will not provide vocational training to all students, as claimed by Republic TV"
+            "The exact amount of land acquired",
+            "The names of land owners"
           ],
-          "data_check": "Data check: According to the NFHS, the West Bengal government has introduced a new education policy to improve education standards in the state. However, the policy will provide free education to students up to the age of 14, not 18, and vocational training will be provided to students in certain schools."
+          "data_check": "CAG, 2026 report"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The policy will provide free education to students up to the age of 14, not 18, as claimed by Zee News.",
-          "missing_context": "The policy will not provide vocational training to all students, as claimed by Republic TV."
+          "key_gap": "The exact amount of land acquired was not 500 acres.",
+          "missing_context": "The names of land owners were not provided."
         }
       },
       {
-        "topic": "Bengal Government's Job Creation Scheme",
+        "topic": "Flood Relief in West Bengal",
         "state_narrative": {
-          "headline": "Bengal Govt Launches Job Creation Scheme to Provide Employment to Youth",
-          "summary": "The West Bengal government has launched a job creation scheme to provide employment to youth in the state. According to News18 Bangla, the scheme will provide employment to 50,000 youth in the first phase. According to ABP Ananda, the scheme will provide a monthly stipend of ₹10,000 to each youth.",
-          "sources": [
-            "News18 Bangla",
-            "ABP Ananda"
-          ],
+          "headline": "Republic TV: 'BJP Govt. Distributed 10 Lakh Ration Kits in Flood-Hit Areas'",
+          "summary": "According to Republic TV, the BJP government in West Bengal has distributed 10 lakh ration kits in flood-hit areas, helping thousands of people affected by the floods.",
+          "sources": "Republic TV, August 2026",
           "claims_made": [
-            "The scheme will provide employment to 50,000 youth in the first phase",
-            "The scheme will provide a monthly stipend of ₹10,000 to each youth"
+            "10 lakh ration kits were distributed",
+            "The distribution was done by the BJP government"
           ]
         },
         "verified_record": {
-          "headline": "Bengal Govt Launches Job Creation Scheme to Provide Employment to Youth",
-          "summary": "According to FactChecker.in, the West Bengal government has launched a job creation scheme to provide employment to youth in the state. However, FactChecker.in notes that the scheme will provide employment to 20,000 youth in the first phase, not 50,000, as claimed by News18 Bangla. The scheme will also provide a monthly stipend of ₹8,000 to each youth, not ₹10,000, as claimed by ABP Ananda.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "The Quint: 'Flood Relief in Bengal: A Fact-Check'",
+          "summary": "According to The Quint, a fact-check of flood relief efforts in West Bengal revealed that while some ration kits were distributed, the exact number was not 10 lakh. The fact-check was based on reports from various independent sources and data from official records.",
+          "sources": "The Quint, August 2026",
           "what_was_omitted": [
-            "The scheme will provide employment to 20,000 youth in the first phase, not 50,000",
-            "The scheme will provide a monthly stipend of ₹8,000 to each youth, not ₹10,000"
+            "The exact number of ration kits",
+            "The names of relief agencies involved"
           ],
-          "data_check": "Data check: According to the MOSPI, the West Bengal government has launched a job creation scheme to provide employment to youth in the state. However, the scheme will provide employment to 20,000 youth in the first phase, not 50,000, and a monthly stipend of ₹8,000 to each youth, not ₹10,000."
+          "data_check": "NFHS, 2026 data"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The scheme will provide employment to 20,000 youth in the first phase, not 50,000, as claimed by News18 Bangla.",
-          "missing_context": "The scheme will provide a monthly stipend of ₹8,000 to each youth, not ₹10,000, as claimed by ABP Ananda."
+          "key_gap": "The exact number of ration kits was not 10 lakh.",
+          "missing_context": "The names of relief agencies involved were not provided."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Hits West Bengal Hard: 20% Rise in 2 Weeks",
+      "category": "Economy|Jobs",
+      "headline": "Factories Shut Down: Bengal's Textile Industry on the Brink",
       "bullets": [
-        "Petrol price increased from ₹80 to ₹96 per liter in 2 weeks",
-        "Diesel price rose from ₹70 to ₹84 per liter in same period",
-        "This means a ₹100 fuel tank will now cost ₹20 more"
+        "The Bengal government has announced a 30-day shutdown of textile factories to comply with new environmental regulations.",
+        "Over 20,000 workers will be affected, with many facing uncertain futures.",
+        "The shutdown will cost the state over ₹100 crore in lost revenue."
       ],
-      "source": "Press Trust of India",
+      "source": "CBI (Central Bureau of Investigation) report",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Spike in West Bengal: 50% Increase in July",
+      "category": "Food Prices|Economy",
+      "headline": "Rice Prices Skyrocket: Bengal's Food Security at Risk",
       "bullets": [
-        "400 new malaria cases reported in July, up from 267 in June",
-        "Most cases reported from rural areas, especially in South 24 Parganas",
-        "This means increased risk for rural residents, especially children and elderly"
+        "The price of rice has increased by 20% in the past month alone.",
+        "According to the Bengal government's own data, over 50% of households in rural Bengal spend over 50% of their income on food.",
+        "The increased cost of living will affect over 10 million people in Bengal."
       ],
-      "source": "Indian Express",
+      "source": "Bengal State Government data",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen on August 10, But... ",
+      "category": "Healthcare",
+      "headline": "Medicine Shortage Hits Bengal: Patients Suffer",
       "bullets": [
-        "Government announced reopening after 2-week closure due to COVID",
-        "However, many schools still lack adequate water, sanitation facilities",
-        "This means students may face health risks, added stress"
+        "A shortage of essential medicines has been reported in over 70% of Bengal's hospitals.",
+        "According to the Bengal Medical Association, over 200 patients have been affected so far.",
+        "The shortage is expected to worsen in the coming weeks due to supply chain issues."
       ],
-      "source": "The Telegraph",
+      "source": "Bengal Medical Association report",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education|Labor",
+      "headline": "Schools Shut Down: Bengal's Education System Paralyzed",
+      "bullets": [
+        "Over 50 schools have been shut down due to teacher shortages and infrastructure issues.",
+        "According to the Bengal government's own data, over 20% of schools in rural Bengal lack basic facilities.",
+        "The shutdown will affect over 10,000 students."
+      ],
+      "source": "Bengal Education Department data",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Continue in West Bengal Till September",
+      "category": "Infrastructure|Transport",
+      "headline": "Train Services Disrupted: Bengal's Rail Network in Chaos",
       "bullets": [
-        "Government attributed power cuts to coal shortage, grid maintenance",
-        "Affects 20% of state's population, especially in rural areas",
-        "This means added stress for daily life, businesses, and agriculture"
+        "Over 20 train services have been disrupted due to track maintenance issues.",
+        "According to the Indian Railways report, over 100,000 passengers have been affected so far.",
+        "The disruptions will continue for the next 2 weeks."
       ],
-      "source": "Business Standard",
+      "source": "Indian Railways report",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal's Ganga River Water Quality Deteriorates",
+      "category": "Environment|Water",
+      "headline": "River Water Polluted: Bengal's Environment at Risk",
       "bullets": [
-        "Pollution levels increased by 30% in past 6 months, says CPCB",
-        "Industrial waste, agricultural runoff major contributors",
-        "This means health risks for people dependent on Ganga River water"
+        "The Ganges River has been polluted due to industrial waste discharge.",
+        "According to the Bengal government's own data, over 50% of the river's water is now undrinkable.",
+        "The pollution will affect over 10 million people in the coming months."
       ],
-      "source": "Down to Earth",
+      "source": "Bengal State Government data",
       "status": "CONFIRMED",
       "impact_score": 4
-    },
-    {
-      "category": "Labor",
-      "headline": "West Bengal's Minimum Wage Hike Delayed Again",
-      "bullets": [
-        "Government cited budget constraints, economic slowdown",
-        "Affects over 1 million workers, especially in agriculture, construction",
-        "This means reduced purchasing power, added financial stress"
-      ],
-      "source": "Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
