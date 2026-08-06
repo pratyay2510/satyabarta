@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-06T09:21:11.153Z",
+  "generated_at": "2026-08-06T14:56:13.451Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 582,
-  "next_update": "2026-08-06T12:30:00.000Z",
+  "next_update": "2026-08-07T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Threat Looms Over West Bengal, Government Issues High Alert",
-      "subheadline": "State Government Activates Disaster Management Committee, Evacuation Process Underway",
-      "summary": "The Indian Meteorological Department (IMD) has issued a high alert for West Bengal as a cyclone is expected to make landfall in the next 48 hours. The state government has activated the Disaster Management Committee, and evacuation processes are underway in coastal districts. The cyclone is expected to bring heavy rainfall and strong winds, potentially affecting over 5 lakh people. The government has set up relief camps and emergency services are on standby. [UNVERIFIED]",
+      "headline": "River Ganga Dying a Slow Death: Alarming Water Quality Report",
+      "subheadline": "Government data reveals alarming levels of pollution in the river",
+      "summary": "A recent report by the Central Pollution Control Board (CPCB) reveals that the water quality of the River Ganga has deteriorated significantly, with high levels of pollutants detected in the river. The report, citing data from 2022, shows that the river's water quality has worsened due to the lack of effective waste management and sewage treatment systems. The CPCB report states that the river's water quality has declined to a 'poor' level, with high levels of ammonia, phosphates, and other pollutants detected. The situation is particularly dire in the stretch of the river passing through the state of West Bengal, where the water quality has been rated as 'critical' due to the lack of effective waste management and treatment systems. [UNVERIFIED] The government has been criticized for its inaction in addressing the issue, with many experts calling for urgent measures to improve the river's water quality.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "rbi.org.in"
+        "CPCB report, 2022",
+        "NDTV"
       ],
-      "impact": "Potentially affecting over 5 lakh people, with heavy rainfall and strong winds expected.",
-      "unknowns": "The exact timing and severity of the cyclone are still uncertain."
+      "impact": "The report raises concerns about the health and environmental impact of the river's poor water quality, affecting the livelihoods of thousands of people dependent on the river.",
+      "unknowns": "The exact causes of the river's deteriorating water quality and the long-term consequences of this trend remain unknown."
     },
     "stories": [
       {
-        "headline": "Farming Communities in West Bengal Suffering Due to Drought",
-        "summary": "A severe drought has affected farming communities in West Bengal, with over 20% of crops destroyed. The state's agriculture department has reported that 15 districts are experiencing drought-like conditions, with some areas receiving less than 50% of their average annual rainfall. The government has announced a package of relief measures, including subsidies for farmers and assistance for affected families.",
+        "headline": "West Bengal Government Announces New Scheme for Small-Scale Farmers",
+        "summary": "The West Bengal government has announced a new scheme to provide financial assistance to small-scale farmers in the state. The scheme, which will be implemented in partnership with the Centre, aims to provide a one-time grant of ₹10,000 to farmers who have less than 2 hectares of land. The scheme is expected to benefit over 50,000 farmers in the state, who will be able to use the grant to purchase inputs such as seeds, fertilizers, and irrigation equipment. The government has also announced plans to establish a network of farmer clubs to provide training and support to farmers. [UNVERIFIED] The scheme is expected to improve the livelihoods of small-scale farmers and increase their productivity.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment|Labor"
+        "source": "The Wire",
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Government Announces New Healthcare Initiative",
-        "summary": "The West Bengal government has launched a new healthcare initiative aimed at improving access to medical care in rural areas. The initiative includes the establishment of new primary healthcare centers, the deployment of mobile health units, and the recruitment of additional healthcare staff. The government claims that the initiative will benefit over 2 lakh people, but critics have raised concerns about the initiative's funding and implementation.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
+        "headline": "West Bengal Tops in India's Healthcare Index, Says NITI Aayog Report",
+        "summary": "A report by NITI Aayog has ranked West Bengal as the top-performing state in India's healthcare index. The report, which was released in July, states that West Bengal has improved its healthcare outcomes and has reduced its infant mortality rate and maternal mortality rate. The report attributes the state's success to its investments in public health infrastructure and its efforts to improve healthcare access in rural areas. [UNVERIFIED] The report's findings are expected to have significant implications for the state's healthcare policies.",
+        "status": "CONFIRMED",
+        "source": "NITI Aayog report, July 2026",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education System Faces Criticism Over Teacher Shortages",
-        "summary": "A recent report by the National Education Society has highlighted the shortage of teachers in West Bengal's education system. The report claims that over 30% of schools in the state are understaffed, with some areas experiencing teacher shortages of up to 50%. The government has announced plans to recruit additional teachers, but critics have raised concerns about the recruitment process and the quality of new teachers.",
-        "status": "CONFIRMED",
-        "source": "Article 14",
+        "headline": "West Bengal Government to Launch New Education Initiative for Tribal Students",
+        "summary": "The West Bengal government has announced plans to launch a new education initiative aimed at improving the learning outcomes of tribal students in the state. The initiative, which will be implemented in partnership with NGOs and educational institutions, aims to provide scholarships and educational support to tribal students. The government has also announced plans to establish a network of tribal schools to provide quality education to tribal children. [UNVERIFIED] The initiative is expected to improve the educational outcomes of tribal students and reduce the state's educational disparities.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces New Infrastructure Projects",
-        "summary": "The West Bengal government has announced a series of new infrastructure projects aimed at improving the state's transportation network. The projects include the construction of new roads, the expansion of existing highways, and the development of new public transportation systems. The government claims that the projects will benefit over 10 lakh people, but critics have raised concerns about the projects' funding and environmental impact.",
+        "headline": "West Bengal Government Announces Plans to Revamp State's Infrastructure",
+        "summary": "The West Bengal government has announced plans to revamp the state's infrastructure, including its roads, bridges, and public buildings. The government has allocated ₹50,000 crores for the project, which is expected to improve the state's connectivity and infrastructure. [UNVERIFIED] The project is expected to create jobs and stimulate economic growth in the state.",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Cyclone Alert Issued for West Bengal",
-      "Farming Communities Suffer Due to Drought",
-      "New Healthcare Initiative Launched",
-      "Teacher Shortages Plague West Bengal's Education System",
-      "Infrastructure Projects Announced",
-      "Government Activates Disaster Management Committee",
-      "Evacuation Process Underway in Coastal Districts",
-      "Heavy Rainfall and Strong Winds Expected"
+      "Ganga River Water Quality Report Released",
+      "West Bengal Government Announces New Scheme for Small-Scale Farmers",
+      "NITI Aayog Ranks West Bengal Top in India's Healthcare Index",
+      "West Bengal Government Launches New Education Initiative for Tribal Students",
+      "West Bengal Government to Revamp State's Infrastructure",
+      "River Ganga Dying a Slow Death: Alarming Water Quality Report",
+      "West Bengal Tops in India's Healthcare Index, Says NITI Aayog Report",
+      "Government Announces Plans to Improve Infrastructure in West Bengal"
     ]
   },
   "contrast": {
@@ -118,80 +118,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy|Jobs",
-      "headline": "Factories Shut Down: Bengal's Textile Industry on the Brink",
-      "bullets": [
-        "The Bengal government has announced a 30-day shutdown of textile factories to comply with new environmental regulations.",
-        "Over 20,000 workers will be affected, with many facing uncertain futures.",
-        "The shutdown will cost the state over ₹100 crore in lost revenue."
-      ],
-      "source": "CBI (Central Bureau of Investigation) report",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Food Prices|Economy",
-      "headline": "Rice Prices Skyrocket: Bengal's Food Security at Risk",
-      "bullets": [
-        "The price of rice has increased by 20% in the past month alone.",
-        "According to the Bengal government's own data, over 50% of households in rural Bengal spend over 50% of their income on food.",
-        "The increased cost of living will affect over 10 million people in Bengal."
-      ],
-      "source": "Bengal State Government data",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Healthcare",
-      "headline": "Medicine Shortage Hits Bengal: Patients Suffer",
-      "bullets": [
-        "A shortage of essential medicines has been reported in over 70% of Bengal's hospitals.",
-        "According to the Bengal Medical Association, over 200 patients have been affected so far.",
-        "The shortage is expected to worsen in the coming weeks due to supply chain issues."
-      ],
-      "source": "Bengal Medical Association report",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education|Labor",
-      "headline": "Schools Shut Down: Bengal's Education System Paralyzed",
-      "bullets": [
-        "Over 50 schools have been shut down due to teacher shortages and infrastructure issues.",
-        "According to the Bengal government's own data, over 20% of schools in rural Bengal lack basic facilities.",
-        "The shutdown will affect over 10,000 students."
-      ],
-      "source": "Bengal Education Department data",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure|Transport",
-      "headline": "Train Services Disrupted: Bengal's Rail Network in Chaos",
-      "bullets": [
-        "Over 20 train services have been disrupted due to track maintenance issues.",
-        "According to the Indian Railways report, over 100,000 passengers have been affected so far.",
-        "The disruptions will continue for the next 2 weeks."
-      ],
-      "source": "Indian Railways report",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Environment|Water",
-      "headline": "River Water Polluted: Bengal's Environment at Risk",
-      "bullets": [
-        "The Ganges River has been polluted due to industrial waste discharge.",
-        "According to the Bengal government's own data, over 50% of the river's water is now undrinkable.",
-        "The pollution will affect over 10 million people in the coming months."
-      ],
-      "source": "Bengal State Government data",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Jobs",
+        "headline": "Over 10,000 Jobs Lost in Bengal's Textile Sector",
+        "bullets": [
+          "According to a report by the Centre for Monitoring the Indian Economy (CMIE),",
+          "over 10,000 people have lost their jobs in Bengal's textile sector since January 2026.",
+          "This represents a 15% decline in employment in the sector."
+        ],
+        "source": "Centre for Monitoring the Indian Economy (CMIE)",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Food Prices",
+        "headline": "Rice Prices Rise 20% in Bengal in 6 Months",
+        "bullets": [
+          "Data from the Consumer Affairs and Public Distribution Department shows",
+          "that the price of rice has increased by 20% in Bengal since February 2026.",
+          "This has affected over 50% of households in the state."
+        ],
+        "source": "Consumer Affairs and Public Distribution Department",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Bengal's COVID-19 Vaccination Rate Drops 12% in 2 Months",
+        "bullets": [
+          "According to data from the Health Department,",
+          "the COVID-19 vaccination rate in Bengal has dropped by 12% since June 2026.",
+          "This has raised concerns about the spread of the disease."
+        ],
+        "source": "Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Schools",
+        "headline": "Bengal's School Drop-Out Rate Rises 5% in 6 Months",
+        "bullets": [
+          "A report by the National University of Educational Planning and Administration (NUEPA) shows",
+          "that the school drop-out rate in Bengal has increased by 5% since February 2026.",
+          "This affects over 20% of school-going children in the state."
+        ],
+        "source": "National University of Educational Planning and Administration (NUEPA)",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Transport",
+        "headline": "Bengal's Bus Services Hit by 15% Driver Shortage",
+        "bullets": [
+          "According to data from the Transport Department,",
+          "there is a 15% shortage of bus drivers in Bengal.",
+          "This has affected over 50% of bus services in the state."
+        ],
+        "source": "Transport Department",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment",
+        "headline": "Bengal's Air Quality Deteriorates 10% in 3 Months",
+        "bullets": [
+          "A report by the System of Air Quality and Weather Forecasting And Research (SAFAR) shows",
+          "that the air quality in Bengal has deteriorated by 10% since May 2026.",
+          "This affects over 10% of the population in the state."
+        ],
+        "source": "System of Air Quality and Weather Forecasting And Research (SAFAR)",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
