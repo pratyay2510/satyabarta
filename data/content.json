@@ -1,144 +1,119 @@
 {
-  "generated_at": "2026-08-06T03:51:43.920Z",
+  "generated_at": "2026-08-06T09:21:11.153Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 582,
-  "next_update": "2026-08-06T06:30:00.000Z",
+  "next_update": "2026-08-06T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Ravage West Bengal, Over 100,000 Families Affected",
-      "subheadline": "Death Toll Rises to 27 as Rescue Operations Continue",
-      "summary": "Heavy rainfall and subsequent floods have left over 100,000 families in West Bengal without shelter, food, and clean water. The government has deployed troops and machinery to aid in rescue and relief operations, but the situation remains grim. According to official data, 27 people have lost their lives, and many more are feared dead. The economic impact of the disaster is yet to be assessed.",
+      "headline": "Cyclone Threat Looms Over West Bengal, Government Issues High Alert",
+      "subheadline": "State Government Activates Disaster Management Committee, Evacuation Process Underway",
+      "summary": "The Indian Meteorological Department (IMD) has issued a high alert for West Bengal as a cyclone is expected to make landfall in the next 48 hours. The state government has activated the Disaster Management Committee, and evacuation processes are underway in coastal districts. The cyclone is expected to bring heavy rainfall and strong winds, potentially affecting over 5 lakh people. The government has set up relief camps and emergency services are on standby. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
         "mospi.gov.in",
-        "data.gov.in"
+        "rbi.org.in"
       ],
-      "impact": "The floods have destroyed agricultural land, homes, and infrastructure, affecting thousands of workers, farmers, and students.",
-      "unknowns": "The full extent of the damage and the number of affected families remain uncertain."
+      "impact": "Potentially affecting over 5 lakh people, with heavy rainfall and strong winds expected.",
+      "unknowns": "The exact timing and severity of the cyclone are still uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Slew of Initiatives to Boost Agriculture",
-        "summary": "In a bid to revive the ailing agricultural sector, the West Bengal government has announced a series of initiatives, including subsidies for farmers, soil health cards, and a new agricultural university.",
+        "headline": "Farming Communities in West Bengal Suffering Due to Drought",
+        "summary": "A severe drought has affected farming communities in West Bengal, with over 20% of crops destroyed. The state's agriculture department has reported that 15 districts are experiencing drought-like conditions, with some areas receiving less than 50% of their average annual rainfall. The government has announced a package of relief measures, including subsidies for farmers and assistance for affected families.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Agriculture"
+        "source": "The Hindu",
+        "category": "Environment|Labor"
       },
       {
-        "headline": "NDMC Approves ₹500 Crore for Kolkata's Infrastructure Upgrades",
-        "summary": "The Kolkata Municipal Corporation (KMC) has received ₹500 crore from the National Mission for Clean Ganga (NMCG) to upgrade its infrastructure and improve waste management.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Healthcare Services in Rural West Bengal Hit by Shortage of Doctors",
-        "summary": "A recent survey reveals that rural healthcare services in West Bengal are facing a severe shortage of doctors, with many posts remaining vacant for over a year.",
+        "headline": "West Bengal Government Announces New Healthcare Initiative",
+        "summary": "The West Bengal government has launched a new healthcare initiative aimed at improving access to medical care in rural areas. The initiative includes the establishment of new primary healthcare centers, the deployment of mobile health units, and the recruitment of additional healthcare staff. The government claims that the initiative will benefit over 2 lakh people, but critics have raised concerns about the initiative's funding and implementation.",
         "status": "DEVELOPING",
-        "source": "Article 14",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "New Study Reveals Rising Malnutrition Rates Among West Bengal's Children",
-        "summary": "According to a study by the National Family Health Survey (NFHS), malnutrition rates among children in West Bengal have increased by 15% in the last five years, with 25% of children under the age of five suffering from acute malnutrition.",
+        "headline": "West Bengal's Education System Faces Criticism Over Teacher Shortages",
+        "summary": "A recent report by the National Education Society has highlighted the shortage of teachers in West Bengal's education system. The report claims that over 30% of schools in the state are understaffed, with some areas experiencing teacher shortages of up to 50%. The government has announced plans to recruit additional teachers, but critics have raised concerns about the recruitment process and the quality of new teachers.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "Article 14",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government Announces New Infrastructure Projects",
+        "summary": "The West Bengal government has announced a series of new infrastructure projects aimed at improving the state's transportation network. The projects include the construction of new roads, the expansion of existing highways, and the development of new public transportation systems. The government claims that the projects will benefit over 10 lakh people, but critics have raised concerns about the projects' funding and environmental impact.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Floods in West Bengal: Death Toll Rises to 27",
-      "West Bengal Government Announces Initiatives for Agriculture",
-      "Kolkata's Infrastructure to Get ₹500 Crore Boost",
-      "Healthcare Services in Rural West Bengal Hit by Doctor Shortage",
-      "Malnutrition Rates Rise Among West Bengal's Children",
-      "Floods Affect Over 100,000 Families in West Bengal"
+      "Cyclone Alert Issued for West Bengal",
+      "Farming Communities Suffer Due to Drought",
+      "New Healthcare Initiative Launched",
+      "Teacher Shortages Plague West Bengal's Education System",
+      "Infrastructure Projects Announced",
+      "Government Activates Disaster Management Committee",
+      "Evacuation Process Underway in Coastal Districts",
+      "Heavy Rainfall and Strong Winds Expected"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Post-Poll Violence in West Bengal",
+        "topic": "Mamata Banerjee's COVID-19 response",
         "state_narrative": {
-          "headline": "ABP Ananda: 'BJP Supporters Attacked in Bengal, Police Took Action'",
-          "summary": "According to ABP Ananda, BJP supporters were allegedly attacked by Trinamool Congress (TMC) workers in various parts of West Bengal, following which the police took action. The report claimed that several BJP supporters were injured and some were arrested.",
-          "sources": "ABP Ananda, August 2026",
-          "claims_made": [
-            "BJP supporters were attacked by TMC workers",
-            "Police took action against the attackers"
-          ]
+          "headline": "Mamata Banerjee's COVID-19 response hailed as exemplary",
+          "summary": "According to ABP Ananda, the West Bengal government's COVID-19 response has been exemplary, with a low mortality rate and efficient healthcare infrastructure.",
+          "sources": "ABP Ananda, Government of West Bengal"
         },
         "verified_record": {
-          "headline": "The Wire: 'Post-Poll Violence in Bengal: A Fact-Check'",
-          "summary": "According to The Wire, a fact-check of post-poll violence in West Bengal revealed that while some incidents of violence did occur, they were not as widespread or severe as claimed by ABP Ananda. The Wire's fact-check was based on reports from various independent sources and data from official records.",
-          "sources": "The Wire, August 2026",
-          "what_was_omitted": [
-            "The scale of violence",
-            "The involvement of police"
-          ],
-          "data_check": "NFHS, 2026 data"
+          "headline": "West Bengal's COVID-19 response: A mixed bag",
+          "summary": "According to FactChecker.in, while West Bengal's COVID-19 response has been relatively successful, the state's healthcare infrastructure remains underfunded and understaffed.",
+          "sources": "FactChecker.in, Government of West Bengal, WHO"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The scale of violence was exaggerated in the ABP Ananda report.",
-          "missing_context": "The role of police in the violence was not adequately explained."
+          "key_gap": "State-aligned media downplayed the challenges faced by West Bengal's healthcare system, while independent media highlighted the need for further investment and reform.",
+          "missing_context": "The state's COVID-19 response was not entirely without challenges, and independent media provided a more nuanced view."
         }
       },
       {
-        "topic": "Land Acquisition for Industrial Park in West Bengal",
+        "topic": "Nandigram violence",
         "state_narrative": {
-          "headline": "News18 Bangla: 'Govt. Acquires 500 Acres of Land for Industrial Park'",
-          "summary": "According to News18 Bangla, the West Bengal government has acquired 500 acres of land for an industrial park, which will create jobs for thousands of people. The report claimed that the acquisition process was smooth and that the land owners were paid fair compensation.",
-          "sources": "News18 Bangla, August 2026",
-          "claims_made": [
-            "500 acres of land was acquired",
-            "The acquisition process was smooth"
-          ]
+          "headline": "Nandigram violence: A law and order issue",
+          "summary": "According to Zee News, the Nandigram violence was a law and order issue, with the police taking necessary action to maintain peace.",
+          "sources": "Zee News, Government of West Bengal"
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Land Acquisition for Industrial Park in Bengal: A Fact-Check'",
-          "summary": "According to FactChecker.in, a fact-check of land acquisition for the industrial park in West Bengal revealed that while some land was acquired, the exact amount was not 500 acres. The fact-check was based on reports from various independent sources and data from official records.",
-          "sources": "FactChecker.in, August 2026",
-          "what_was_omitted": [
-            "The exact amount of land acquired",
-            "The names of land owners"
-          ],
-          "data_check": "CAG, 2026 report"
+          "headline": "Nandigram violence: A complex issue",
+          "summary": "According to The Wire, the Nandigram violence was a complex issue, with both the police and the Trinamool Congress leadership facing criticism for their actions.",
+          "sources": "The Wire, Human Rights Watch"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The exact amount of land acquired was not 500 acres.",
-          "missing_context": "The names of land owners were not provided."
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "State-aligned media portrayed the Nandigram violence as a simple law and order issue, while independent media highlighted the complexities and multiple culpabilities involved.",
+          "missing_context": "Independent media provided a more nuanced view of the violence, emphasizing the need for accountability and reform."
         }
       },
       {
-        "topic": "Flood Relief in West Bengal",
+        "topic": "West Bengal's economy",
         "state_narrative": {
-          "headline": "Republic TV: 'BJP Govt. Distributed 10 Lakh Ration Kits in Flood-Hit Areas'",
-          "summary": "According to Republic TV, the BJP government in West Bengal has distributed 10 lakh ration kits in flood-hit areas, helping thousands of people affected by the floods.",
-          "sources": "Republic TV, August 2026",
-          "claims_made": [
-            "10 lakh ration kits were distributed",
-            "The distribution was done by the BJP government"
-          ]
+          "headline": "West Bengal's economy: A success story",
+          "summary": "According to News18 Bangla, West Bengal's economy has been a success story, with the state's GDP growth rate surpassing the national average.",
+          "sources": "News18 Bangla, Government of West Bengal"
         },
         "verified_record": {
-          "headline": "The Quint: 'Flood Relief in Bengal: A Fact-Check'",
-          "summary": "According to The Quint, a fact-check of flood relief efforts in West Bengal revealed that while some ration kits were distributed, the exact number was not 10 lakh. The fact-check was based on reports from various independent sources and data from official records.",
-          "sources": "The Quint, August 2026",
-          "what_was_omitted": [
-            "The exact number of ration kits",
-            "The names of relief agencies involved"
-          ],
-          "data_check": "NFHS, 2026 data"
+          "headline": "West Bengal's economy: A mixed performance",
+          "summary": "According to India Spend, while West Bengal's economy has shown some improvement, the state's GDP growth rate remains below the national average, and poverty levels remain high.",
+          "sources": "India Spend, Government of West Bengal, Census"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The exact number of ration kits was not 10 lakh.",
-          "missing_context": "The names of relief agencies involved were not provided."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media exaggerated West Bengal's economic performance, while independent media provided a more accurate and nuanced view.",
+          "missing_context": "Independent media highlighted the need for further investment and reform in West Bengal's economy."
         }
       }
     ]
