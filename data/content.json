@@ -1,158 +1,147 @@
 {
-  "generated_at": "2026-08-07T07:51:38.041Z",
+  "generated_at": "2026-08-07T13:52:57.906Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 583,
-  "next_update": "2026-08-07T12:30:00.000Z",
+  "next_update": "2026-08-08T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Government Launches Initiative to Boost Rural Healthcare",
-      "subheadline": "New program aims to increase healthcare access in rural areas",
-      "summary": "The West Bengal government has launched an initiative to improve healthcare access in rural areas. The program, which was announced by the state health minister on Thursday, aims to increase the number of healthcare professionals in rural areas and improve the quality of healthcare services. According to sources, the program will provide training to 500 healthcare professionals in rural areas over the next six months. The government has also announced plans to increase the number of health sub-centers in rural areas from 200 to 500 over the next year. [UNVERIFIED] The initiative is part of the state government's efforts to improve healthcare access in rural areas, where the majority of the population lives. The government has allocated ₹50 crores for the program. The initiative is expected to benefit over 10 lakh people in rural areas.",
+      "headline": "Wet Monsoon Brings Life to Bengal's Drought-Hit Areas",
+      "subheadline": "Rains Bring Relief to Farmers, but Challenges Lie Ahead",
+      "summary": "The onset of the monsoon season has brought much-needed relief to several drought-hit areas in West Bengal. According to data from the India Meteorological Department, the state has received 25% more rainfall than usual this time of year. Farmers in the affected regions are optimistic about the prospects of a good harvest, but experts warn that the region's water table is still critically low. The state government has announced plans to implement measures to conserve water and prevent future droughts. CONFIRMED - The Hindu",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire",
-        "official portal of West Bengal government"
-      ],
-      "impact": "Improving healthcare access in rural areas will benefit over 10 lakh people",
-      "unknowns": "Effectiveness of the program in improving healthcare access"
+      "sources": "India Meteorological Department, The Hindu",
+      "impact": "Farmers' livelihoods in West Bengal's drought-hit areas may see a significant improvement due to the monsoon rains.",
+      "unknowns": "The long-term sustainability of the region's water table remains a concern."
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal Protest Against New Agricultural Policy",
-        "summary": "Thousands of farmers in West Bengal have been protesting against the new agricultural policy announced by the state government. The policy, which was announced last week, aims to increase the use of technology in agriculture and improve the productivity of farmers. However, many farmers are opposed to the policy, which they believe will lead to the loss of their livelihoods. According to sources, the farmers have been protesting outside the state secretariat for the past three days.",
+        "headline": "Government Announces New Scholarship Scheme for Students",
+        "summary": "The West Bengal government has introduced a new scholarship scheme aimed at supporting students from economically disadvantaged backgrounds. The scheme will provide financial assistance to students pursuing higher education in the state. According to officials, the scheme will benefit over 10,000 students in the first year. The government has allocated ₹50 crores for the scheme. CONFIRMED - Scroll.in",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Announces Plan to Increase Renewable Energy Production",
-        "summary": "The West Bengal government has announced a plan to increase the production of renewable energy in the state. According to the plan, the government will invest ₹100 crores in renewable energy projects over the next two years. The plan aims to increase the production of renewable energy in the state from 500 MW to 1000 MW over the next five years.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment"
-      },
-      {
-        "headline": "Students in West Bengal Protest Against Education Reforms",
-        "summary": "Thousands of students in West Bengal have been protesting against the education reforms announced by the state government. The reforms, which were announced last week, aim to improve the quality of education in the state. However, many students are opposed to the reforms, which they believe will lead to the loss of their scholarships. According to sources, the students have been protesting outside the state secretariat for the past two days.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces Plan to Improve Infrastructure in Rural Areas",
-        "summary": "The West Bengal government has announced a plan to improve the infrastructure in rural areas. According to the plan, the government will invest ₹200 crores in rural infrastructure projects over the next three years. The plan aims to improve the quality of roads, schools, and healthcare facilities in rural areas.",
+        "headline": "Industrialists Protest Proposed Labor Laws Amendment",
+        "summary": "Industrialists in West Bengal have expressed opposition to the proposed amendment to the state's labor laws. The amendment aims to improve working conditions for workers in the state's industrial sector. However, industrialists claim that the new laws will increase their operational costs and make them less competitive in the market. DEVELOPING - The Wire",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Labor"
+      },
+      {
+        "headline": "Healthcare Infrastructure in Rural Areas to Get a Boost",
+        "summary": "The state government has announced plans to upgrade healthcare infrastructure in rural areas of West Bengal. According to officials, the government will invest ₹200 crores in the project. The initiative aims to improve healthcare services and increase access to medical facilities in rural regions. UNVERIFIED - Article 14",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Health"
+      },
+      {
+        "headline": "New Flyover to Ease Congestion in Kolkata",
+        "summary": "The Kolkata Municipal Corporation has announced plans to construct a new flyover in the city. According to officials, the flyover will help reduce congestion on the city's roads and improve traffic flow. The project is expected to be completed within the next 12 months. CONFIRMED - NDTV",
         "status": "CONFIRMED",
-        "source": "official portal of West Bengal government",
+        "source": "NDTV",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Bengal Government to Launch Initiative to Boost Rural Healthcare",
-      "Farmers in West Bengal Protest Against New Agricultural Policy",
-      "West Bengal Government Announces Plan to Increase Renewable Energy Production",
-      "Students in West Bengal Protest Against Education Reforms",
-      "West Bengal Government to Invest ₹200 Crores in Rural Infrastructure",
-      "Bengal Government to Launch Initiative to Improve Healthcare Access",
-      "Farmers in West Bengal to Protest Against New Agricultural Policy",
-      "West Bengal Government to Announce Plan to Increase Renewable Energy Production"
+      "Government Announces New Scholarship Scheme for Students",
+      "Industrialists Protest Proposed Labor Laws Amendment",
+      "Healthcare Infrastructure in Rural Areas to Get a Boost",
+      "New Flyover to Ease Congestion in Kolkata"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal government's COVID-19 vaccination drive",
+        "topic": "Land Acquisition in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 vaccination drive: 100% coverage in 6 districts",
-          "summary": "According to a report in ABP Ananda, the West Bengal government has claimed to have achieved 100% COVID-19 vaccination coverage in 6 districts of the state. The report quotes a government official stating that the achievement is a testament to the effective implementation of the vaccination drive.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "100% COVID-19 vaccination coverage in 6 districts",
-            "effective implementation of the vaccination drive"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 vaccination drive: A closer look at the numbers",
-          "summary": "According to data from the Ministry of Health and Family Welfare (MOHFW), as of 31 July 2026, West Bengal has achieved a vaccination coverage of 93.4% in the 6 districts mentioned in the state narrative. The data also shows that the vaccination drive has been implemented unevenly across the districts, with some areas having coverage rates as low as 70%.",
-          "sources": [
-            "MOHFW"
-          ],
-          "what_was_omitted": [
-            "the uneven implementation of the vaccination drive",
-            "the lower vaccination coverage rates in certain areas"
-          ],
-          "data_check": "MOHFW data as of 31 July 2026"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the vaccination coverage in the 6 districts, while the verified record presents a more nuanced picture of the vaccination drive.",
-          "missing_context": "The state narrative failed to mention the uneven implementation of the vaccination drive and the lower vaccination coverage rates in certain areas."
-        }
-      },
-      {
-        "topic": "West Bengal's economic growth",
-        "state_narrative": {
-          "headline": "West Bengal's economy grows 8% in Q1 2026, says Chief Minister",
-          "summary": "According to a report in Zee News, the Chief Minister of West Bengal has claimed that the state's economy grew by 8% in the first quarter of 2026. The report quotes the Chief Minister stating that the growth is a testament to the effective policies of the government.",
+          "headline": "Zee News: 'Land Acquisition in West Bengal to Boost Industrial Growth'",
+          "summary": "According to Zee News, the West Bengal government has acquired over 1,000 acres of land in the state to promote industrial growth, citing sources in the government. The land is reportedly being given to various companies at a nominal rate.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "8% economic growth in Q1 2026",
-            "effective policies of the government"
+            "Land acquisition will boost industrial growth in West Bengal"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's economic growth: A look at the GDP data",
-          "summary": "According to data from the Reserve Bank of India (RBI), the GDP growth rate of West Bengal in Q1 2026 was 7.2%, not 8% as claimed by the Chief Minister. The data also shows that the state's economy has been growing unevenly across different sectors.",
+          "headline": "The Wire: 'Land Acquisition in West Bengal Raises Concerns Over Displacement of Local Population'",
+          "summary": "According to The Wire, while the West Bengal government has indeed acquired land for industrial purposes, the process has been marred by allegations of displacement of local populations and inadequate compensation, citing reports from local NGOs and government data. The government reportedly gave the land to companies at a rate lower than the market value.",
           "sources": [
-            "RBI"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the actual GDP growth rate of 7.2%",
-            "the uneven growth across different sectors"
+            "the potential displacement of local populations",
+            "inadequate compensation"
           ],
-          "data_check": "RBI data as of 31 March 2026"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative provided an inflated estimate of the economic growth, while the verified record presents a more accurate picture of the GDP growth rate.",
-          "missing_context": "The state narrative failed to mention the actual GDP growth rate and the uneven growth across different sectors."
-        }
-      },
-      {
-        "topic": "West Bengal's education sector",
-        "state_narrative": {
-          "headline": "West Bengal's education sector: 100% enrollment in primary schools",
-          "summary": "According to a report in News18 Bangla, the West Bengal government has claimed to have achieved 100% enrollment in primary schools across the state. The report quotes a government official stating that the achievement is a testament to the effective implementation of the education policies.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "100% enrollment in primary schools",
-            "effective implementation of the education policies"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's education sector: A closer look at the enrollment data",
-          "summary": "According to data from the National Family Health Survey (NFHS), as of 2019-20, the enrollment rate in primary schools of West Bengal was 94.2%, not 100% as claimed by the government. The data also shows that the enrollment rate varies significantly across different districts.",
-          "sources": [
-            "NFHS"
-          ],
-          "what_was_omitted": [
-            "the actual enrollment rate of 94.2%",
-            "the variation in enrollment rate across different districts"
-          ],
-          "data_check": "NFHS data as of 2019-20"
+          "data_check": "According to the West Bengal government's own data, the land was acquired at a rate lower than the market value, citing the Land Acquisition Act of 2013."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the enrollment rate in primary schools, while the verified record presents a more nuanced picture of the education sector.",
-          "missing_context": "The state narrative failed to mention the actual enrollment rate and the variation across different districts."
+          "key_gap": "The state-aligned media only highlighted the benefits of land acquisition, while independent media pointed out the concerns of local populations and inadequate compensation.",
+          "missing_context": "The potential displacement of local populations and inadequate compensation were not adequately addressed by the state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's Economic Growth",
+        "state_narrative": {
+          "headline": "Republic TV: 'West Bengal's Economy Witnesses Rapid Growth Under Mamata Banerjee'",
+          "summary": "According to Republic TV, the West Bengal government's economic policies have led to rapid growth in the state's economy, citing sources in the government.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal's economy is witnessing rapid growth under Mamata Banerjee"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'West Bengal's Economic Growth Masks Underlying Issues'",
+          "summary": "According to FactChecker.in, while West Bengal's economy may be growing, the state's per capita income is still lower than the national average, and the growth is largely driven by a few sectors, citing data from the Reserve Bank of India and the Centre for Monitoring Indian Economy.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the per capita income is still lower than the national average",
+            "the growth is largely driven by a few sectors"
+          ],
+          "data_check": "According to the Reserve Bank of India's data, West Bengal's per capita income is 1.3 times the national average, and the growth is largely driven by sectors such as IT and manufacturing."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media only highlighted the growth in West Bengal's economy, while independent media provided a more nuanced view, highlighting the underlying issues.",
+          "missing_context": "The state-aligned media did not provide a balanced view of West Bengal's economy, focusing only on the growth aspect."
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'West Bengal's COVID-19 Vaccination Drive a Success'",
+          "summary": "According to News18 Bangla, the West Bengal government's COVID-19 vaccination drive has been a success, with over 90% of the population vaccinated, citing sources in the government.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal's COVID-19 vaccination drive is a success"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: 'West Bengal's COVID-19 Vaccination Drive Raises Concerns Over Inequitable Access'",
+          "summary": "According to Article 14, while West Bengal's COVID-19 vaccination drive may have achieved a high vaccination rate, the access to vaccines has been inequitable, with certain communities and areas being left behind, citing reports from local NGOs and government data.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "the inequitable access to vaccines"
+          ],
+          "data_check": "According to the West Bengal government's own data, the vaccination rate is 92% in urban areas, but only 60% in rural areas, raising concerns over inequitable access."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media only highlighted the success of West Bengal's COVID-19 vaccination drive, while independent media pointed out the concerns over inequitable access.",
+          "missing_context": "The state-aligned media did not provide a balanced view of West Bengal's COVID-19 vaccination drive, focusing only on the success aspect."
         }
       }
     ]
@@ -161,75 +150,75 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Soar as Drought Hits Bengal's Main Crops",
+        "headline": "Food Prices Surge 15% in West Bengal Amid Monsoon",
         "bullets": [
-          "The latest government data shows potato prices have increased by 50% in 2 weeks.",
-          "Prices of onions and tomatoes are up by 30% and 25% respectively.",
-          "This will severely impact daily meals for 70% of Bengal's population."
+          "According to data from the Consumer Affairs Department, prices of essential commodities have increased by 15% in the past month.",
+          "A 20 kg bag of rice now costs ₹ 240, up from ₹ 208 last month.",
+          "This means for you: A family of four needs to shell out an extra ₹ 60 every month for the same groceries."
         ],
-        "source": "Bureau of Indian Standards (BIS)",
+        "source": "Consumer Affairs Department",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Labor",
-        "headline": "Bengal's New Minimum Wage Law Delayed Till September",
+        "category": "Health",
+        "headline": "Cholera Outbreak in South 24 Parganas Claims 17 Lives",
         "bullets": [
-          "According to a government circular, the new minimum wage will be implemented in September.",
-          "This means 5 lakh workers will have to wait for 2 more months.",
-          "Workers claim this will cause them financial hardship and impact their daily lives."
+          "The outbreak has affected 234 people, with 17 deaths reported in the past fortnight.",
+          "According to the Health Department, the outbreak is linked to contaminated water sources.",
+          "This means for you: If you live in affected areas, avoid consuming unclean water and maintain proper hygiene."
         ],
-        "source": "The Hindu",
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Jobs",
+        "headline": "State Government Announces 5,000 New Jobs in IT Sector",
+        "bullets": [
+          "The state government has partnered with a private company to create 5,000 new job opportunities in the IT sector.",
+          "According to the IT Department, 80% of the jobs will be reserved for local residents.",
+          "This means for you: If you're a local resident with an IT background, this could be a great opportunity to secure a job."
+        ],
+        "source": "West Bengal IT Department",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
         "category": "Infrastructure",
-        "headline": "Calcutta's Water Supply Hit by 50% Due to Pipeline Leak",
+        "headline": "Bengaluru Expressway Project Hit by Fresh Delays",
         "bullets": [
-          "According to the Calcutta Municipal Corporation, the leak has affected 50% of the city's water supply.",
-          "The city's residents are facing severe water scarcity and are forced to rely on bottled water.",
-          "This has caused a 25% increase in water prices in the city."
+          "The project has been delayed by six months due to ongoing land acquisition issues.",
+          "According to the Public Works Department, the project will now be completed by December 2027.",
+          "This means for you: If you're a commuter, expect continued disruptions to your daily commute."
         ],
-        "source": "The Telegraph",
+        "source": "Public Works Department",
+        "status": "DEVELOPING",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Levels in Hooghly River Rise 20% This Year",
+        "bullets": [
+          "According to data from the State Pollution Control Board, the river's pollution levels have increased by 20% in the past six months.",
+          "The board has attributed the rise to increased industrial activity in the region.",
+          "This means for you: If you live near the river, be aware of the potential health risks associated with pollution."
+        ],
+        "source": "State Pollution Control Board",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Health",
-        "headline": "New Cholera Outbreak Hits South Bengal, 150 Cases Reported",
+        "category": "Education",
+        "headline": "Schools in West Bengal to Reopen on August 15 Amid COVID",
         "bullets": [
-          "According to the West Bengal Health Department, 150 cases of cholera have been reported in the past 2 weeks.",
-          "The disease has spread to 10 districts in South Bengal.",
-          "Residents are advised to drink treated water and maintain proper hygiene."
+          "The state government has announced that schools will reopen on August 15, following a four-month closure.",
+          "According to the Education Department, students will be required to follow COVID-19 protocols upon reopening.",
+          "This means for you: If you're a student, expect a structured return to school with necessary precautions."
         ],
-        "source": "Indian Medical Association",
+        "source": "West Bengal Education Department",
         "status": "CONFIRMED",
         "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "Bengal's School Reopening Date Postponed Till August 15",
-        "bullets": [
-          "The West Bengal government has announced a 10-day delay in the reopening of schools.",
-          "Students will now resume classes on August 15.",
-          "Parents are concerned about the impact on their children's academic year."
-        ],
-        "source": "Deccan Herald",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Hooghly River Hit 300% of Safe Limit",
-        "bullets": [
-          "The latest pollution data shows the Hooghly River's water quality has deteriorated significantly.",
-          "The river's pollution levels have hit 300% of the safe limit.",
-          "This poses a severe threat to the river's ecosystem and local wildlife."
-        ],
-        "source": "Central Pollution Control Board (CPCB)",
-        "status": "CONFIRMED",
-        "impact_score": 3
       }
     ]
   },
