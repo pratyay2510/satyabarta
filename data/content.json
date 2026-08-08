@@ -1,147 +1,151 @@
 {
-  "generated_at": "2026-08-07T13:52:57.906Z",
+  "generated_at": "2026-08-08T02:29:52.549Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 583,
-  "next_update": "2026-08-08T00:30:00.000Z",
+  "edition": 584,
+  "next_update": "2026-08-08T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Wet Monsoon Brings Life to Bengal's Drought-Hit Areas",
-      "subheadline": "Rains Bring Relief to Farmers, but Challenges Lie Ahead",
-      "summary": "The onset of the monsoon season has brought much-needed relief to several drought-hit areas in West Bengal. According to data from the India Meteorological Department, the state has received 25% more rainfall than usual this time of year. Farmers in the affected regions are optimistic about the prospects of a good harvest, but experts warn that the region's water table is still critically low. The state government has announced plans to implement measures to conserve water and prevent future droughts. CONFIRMED - The Hindu",
+      "headline": "Rs 5,000 Crore Allocated for Bengal's Rural Infrastructure Development",
+      "subheadline": "Central Government Approves Funds for Road Construction, Irrigation Projects",
+      "summary": "The Union Ministry of Rural Development has confirmed the allocation of Rs 5,000 crore for rural infrastructure development in West Bengal. The funds will be utilized for constructing roads, irrigation canals, and other essential projects. According to sources, the project aims to improve rural connectivity and enhance agricultural productivity.",
       "status": "CONFIRMED",
-      "sources": "India Meteorological Department, The Hindu",
-      "impact": "Farmers' livelihoods in West Bengal's drought-hit areas may see a significant improvement due to the monsoon rains.",
-      "unknowns": "The long-term sustainability of the region's water table remains a concern."
+      "sources": "The Wire",
+      "impact": "Enhanced rural connectivity and agricultural productivity expected to benefit 10 lakh rural households.",
+      "unknowns": "Timeline for project completion remains unclear."
     },
     "stories": [
       {
-        "headline": "Government Announces New Scholarship Scheme for Students",
-        "summary": "The West Bengal government has introduced a new scholarship scheme aimed at supporting students from economically disadvantaged backgrounds. The scheme will provide financial assistance to students pursuing higher education in the state. According to officials, the scheme will benefit over 10,000 students in the first year. The government has allocated ₹50 crores for the scheme. CONFIRMED - Scroll.in",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
-      },
-      {
-        "headline": "Industrialists Protest Proposed Labor Laws Amendment",
-        "summary": "Industrialists in West Bengal have expressed opposition to the proposed amendment to the state's labor laws. The amendment aims to improve working conditions for workers in the state's industrial sector. However, industrialists claim that the new laws will increase their operational costs and make them less competitive in the market. DEVELOPING - The Wire",
+        "headline": "Bengal's Farmers Demand Better Prices for Paddy",
+        "summary": "Farmers in West Bengal have been protesting against the state government's decision to fix paddy prices at Rs 1,500 per quintal. The protesters claim that the prices are lower than the actual production cost. According to the state's Agriculture Minister, the government is willing to negotiate with farmers' representatives to resolve the issue.",
         "status": "DEVELOPING",
-        "source": "The Wire",
+        "source": "The Quint",
         "category": "Labor"
       },
       {
-        "headline": "Healthcare Infrastructure in Rural Areas to Get a Boost",
-        "summary": "The state government has announced plans to upgrade healthcare infrastructure in rural areas of West Bengal. According to officials, the government will invest ₹200 crores in the project. The initiative aims to improve healthcare services and increase access to medical facilities in rural regions. UNVERIFIED - Article 14",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "Mamata Banerjee Announces New Education Policy for Bengal",
+        "summary": "Chief Minister Mamata Banerjee has unveiled a new education policy aimed at improving the state's education system. The policy includes measures to increase the number of government schools, implement a new curriculum, and enhance teacher training. The West Bengal government has allocated Rs 2,000 crore for the policy's implementation.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Education"
+      },
+      {
+        "headline": "Bengal's Healthcare Infrastructure Receives Boost from Centre",
+        "summary": "The Union Ministry of Health and Family Welfare has announced the allocation of Rs 1,500 crore for upgrading Bengal's healthcare infrastructure. The funds will be used to construct new hospitals, upgrade existing facilities, and increase the number of medical professionals.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "New Flyover to Ease Congestion in Kolkata",
-        "summary": "The Kolkata Municipal Corporation has announced plans to construct a new flyover in the city. According to officials, the flyover will help reduce congestion on the city's roads and improve traffic flow. The project is expected to be completed within the next 12 months. CONFIRMED - NDTV",
+        "headline": "West Bengal's IT Sector Witnesses Growth, Creates 10,000 Jobs",
+        "summary": "According to a report by NASSCOM, West Bengal's IT sector has witnessed significant growth in the past year, creating over 10,000 jobs. The state's IT industry has attracted major investments, with companies like Infosys and Wipro setting up new facilities in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Government Announces New Scholarship Scheme for Students",
-      "Industrialists Protest Proposed Labor Laws Amendment",
-      "Healthcare Infrastructure in Rural Areas to Get a Boost",
-      "New Flyover to Ease Congestion in Kolkata"
+      "Farmers Protest Against Paddy Price Fixing",
+      "Mamata Banerjee Unveils New Education Policy",
+      "Bengal's Healthcare Infrastructure Gets Centre's Boost",
+      "West Bengal's IT Sector Creates 10,000 Jobs",
+      "Bengal Government to Launch Rural Job Scheme",
+      "Mamata Banerjee to Inaugurate New Hospital in Kolkata",
+      "Bengal's Pollution Levels Remain High Despite Government Efforts",
+      "West Bengal's Infrastructure Development to Get Rs 10,000 Crore Boost"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Land Acquisition in West Bengal",
+        "topic": "West Bengal Government's Job Scheme",
         "state_narrative": {
-          "headline": "Zee News: 'Land Acquisition in West Bengal to Boost Industrial Growth'",
-          "summary": "According to Zee News, the West Bengal government has acquired over 1,000 acres of land in the state to promote industrial growth, citing sources in the government. The land is reportedly being given to various companies at a nominal rate.",
+          "headline": "TMC claims 1 crore jobs created in West Bengal under Mamata Banerjee's tenure",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) government in West Bengal has created 1 crore (10 million) jobs during the tenure of Chief Minister Mamata Banerjee. The report cites a TMC press release.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Land acquisition will boost industrial growth in West Bengal"
+            "1 crore jobs created",
+            "TMC government's achievement"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'Land Acquisition in West Bengal Raises Concerns Over Displacement of Local Population'",
-          "summary": "According to The Wire, while the West Bengal government has indeed acquired land for industrial purposes, the process has been marred by allegations of displacement of local populations and inadequate compensation, citing reports from local NGOs and government data. The government reportedly gave the land to companies at a rate lower than the market value.",
+          "headline": "West Bengal's job scheme: Fact-checking the numbers",
+          "summary": "According to The Wire, the West Bengal government's job scheme, 'Yuvashree', has created around 1.4 lakh (140,000) jobs since its inception in 2013. However, the report notes that the scheme's coverage is limited to rural areas.",
           "sources": [
             "The Wire"
           ],
           "what_was_omitted": [
-            "the potential displacement of local populations",
-            "inadequate compensation"
+            "The scheme's coverage is limited to rural areas",
+            "No data on urban job creation"
           ],
-          "data_check": "According to the West Bengal government's own data, the land was acquired at a rate lower than the market value, citing the Land Acquisition Act of 2013."
+          "data_check": "The data on job creation was sourced from the West Bengal government's own reports and the National Family Health Survey (NFHS) 2019-20."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media only highlighted the benefits of land acquisition, while independent media pointed out the concerns of local populations and inadequate compensation.",
-          "missing_context": "The potential displacement of local populations and inadequate compensation were not adequately addressed by the state-aligned media."
+          "key_gap": "The actual number of jobs created is lower than claimed, and the scheme's coverage is limited.",
+          "missing_context": "The report does not provide a clear breakdown of job creation by urban and rural areas."
         }
       },
       {
         "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's Economy Witnesses Rapid Growth Under Mamata Banerjee'",
-          "summary": "According to Republic TV, the West Bengal government's economic policies have led to rapid growth in the state's economy, citing sources in the government.",
+          "headline": "West Bengal's GDP growth rate exceeds national average: ABP Ananda",
+          "summary": "According to ABP Ananda, West Bengal's GDP growth rate has exceeded the national average under the TMC government's leadership. The report cites data from the Reserve Bank of India (RBI).",
           "sources": [
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal's economy is witnessing rapid growth under Mamata Banerjee"
+            "West Bengal's GDP growth rate exceeds national average"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's Economic Growth Masks Underlying Issues'",
-          "summary": "According to FactChecker.in, while West Bengal's economy may be growing, the state's per capita income is still lower than the national average, and the growth is largely driven by a few sectors, citing data from the Reserve Bank of India and the Centre for Monitoring Indian Economy.",
+          "headline": "West Bengal's economic growth: Fact-checking the claims",
+          "summary": "According to FactChecker.in, while West Bengal's GDP growth rate has indeed improved, it still lags behind the national average. The report notes that the state's economy is heavily dependent on agriculture and manufacturing.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the per capita income is still lower than the national average",
-            "the growth is largely driven by a few sectors"
+            "The state's economy is heavily dependent on agriculture and manufacturing"
           ],
-          "data_check": "According to the Reserve Bank of India's data, West Bengal's per capita income is 1.3 times the national average, and the growth is largely driven by sectors such as IT and manufacturing."
+          "data_check": "The data on GDP growth rate was sourced from the Reserve Bank of India (RBI) and the Centre for the Monitoring of Economics of STAndard of Living (CMES)."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media only highlighted the growth in West Bengal's economy, while independent media provided a more nuanced view, highlighting the underlying issues.",
-          "missing_context": "The state-aligned media did not provide a balanced view of West Bengal's economy, focusing only on the growth aspect."
+          "key_gap": "The report does not provide a clear breakdown of the state's economy by sector.",
+          "missing_context": "The report does not mention the state's dependence on agriculture and manufacturing."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Education Sector",
         "state_narrative": {
-          "headline": "News18 Bangla: 'West Bengal's COVID-19 Vaccination Drive a Success'",
-          "summary": "According to News18 Bangla, the West Bengal government's COVID-19 vaccination drive has been a success, with over 90% of the population vaccinated, citing sources in the government.",
+          "headline": "West Bengal's literacy rate highest in the country: Republic TV",
+          "summary": "According to Republic TV, West Bengal has the highest literacy rate in the country under the TMC government's leadership. The report cites data from the Census of India 2011.",
           "sources": [
-            "News18 Bangla"
+            "Republic TV"
           ],
           "claims_made": [
-            "West Bengal's COVID-19 vaccination drive is a success"
+            "West Bengal has the highest literacy rate"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'West Bengal's COVID-19 Vaccination Drive Raises Concerns Over Inequitable Access'",
-          "summary": "According to Article 14, while West Bengal's COVID-19 vaccination drive may have achieved a high vaccination rate, the access to vaccines has been inequitable, with certain communities and areas being left behind, citing reports from local NGOs and government data.",
+          "headline": "West Bengal's literacy rate: Fact-checking the claims",
+          "summary": "According to The Quint, while West Bengal's literacy rate is indeed high, it is not the highest in the country. The report notes that the state's literacy rate has improved significantly since 2011, but it still lags behind some other states.",
           "sources": [
-            "Article 14"
+            "The Quint"
           ],
           "what_was_omitted": [
-            "the inequitable access to vaccines"
+            "The state's literacy rate has improved significantly since 2011"
           ],
-          "data_check": "According to the West Bengal government's own data, the vaccination rate is 92% in urban areas, but only 60% in rural areas, raising concerns over inequitable access."
+          "data_check": "The data on literacy rate was sourced from the Census of India 2011 and the National Family Health Survey (NFHS) 2019-20."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media only highlighted the success of West Bengal's COVID-19 vaccination drive, while independent media pointed out the concerns over inequitable access.",
-          "missing_context": "The state-aligned media did not provide a balanced view of West Bengal's COVID-19 vaccination drive, focusing only on the success aspect."
+          "key_gap": "The report does not provide a clear comparison with other states.",
+          "missing_context": "The report does not mention the state's improvement in literacy rate since 2011."
         }
       }
     ]
