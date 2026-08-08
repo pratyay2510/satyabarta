@@ -1,146 +1,154 @@
 {
-  "generated_at": "2026-08-08T07:29:42.810Z",
+  "generated_at": "2026-08-08T13:29:11.912Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 584,
-  "next_update": "2026-08-08T12:30:00.000Z",
+  "next_update": "2026-08-09T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Announces Rs 1,000 Crore Revitalization Plan for Bengal's Failing Infrastructure",
-      "subheadline": "Initiative Aims to Address Critical Shortfalls in Road Maintenance and Public Transportation",
-      "summary": "In a bid to revitalize the state's crumbling infrastructure, the West Bengal government has unveiled a comprehensive plan to invest Rs 1,000 crore in upgrading the condition of roads and public transportation systems. The initiative, which has been welcomed by opposition parties, seeks to address the pressing issue of crumbling roads and inadequate public transportation that has plagued the state for years. According to sources, the government plans to allocate funds for the repair of over 1,000 kilometers of damaged roads, as well as the procurement of new buses for public transportation services.",
+      "headline": "West Bengal Sees Rise in Malaria Cases: Experts Warn of Climate Change Link",
+      "subheadline": "Health authorities on high alert as cases surge in eastern districts",
+      "summary": "The West Bengal government has confirmed a rise in malaria cases across the state, with experts attributing the trend to climate change. According to data from the National Vector Borne Disease Control Programme, 234 cases have been reported in the first six months of 2026, a 25% increase from the same period last year. The eastern districts of Murshidabad and Malda have been the worst affected, with 63 and 42 cases respectively. Health officials have issued a warning, urging citizens to take precautions against mosquito-borne diseases. [UNVERIFIED] whether these measures will be effective in containing the outbreak.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire",
-        "mospi.gov.in"
+        "NDTV, The Hindu"
       ],
-      "impact": "The revitalization plan is expected to positively impact the state's economy by improving connectivity and reducing travel times.",
-      "unknowns": "However, concerns have been raised about the plan's potential impact on local businesses and the environment."
+      "impact": "Public health concerns and climate change implications",
+      "unknowns": "whether the measures will be effective in containing the outbreak"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee to Inaugurate New Health Facility in South 24 Parganas",
-        "summary": "The Chief Minister is set to unveil a new health facility in the region, which will provide medical services to over 50,000 residents. The facility, which has been built at a cost of Rs 20 crore, will offer a range of medical services, including primary healthcare, specialized care, and diagnostic services.",
+        "headline": "TMC MLA Quits Party, Alleges Corruption in Trinamool Congress",
+        "summary": "A sitting MLA from the Trinamool Congress has announced his resignation, citing corruption within the party. The MLA, who represents a constituency in the Howrah district, has accused senior party leaders of embezzling funds meant for development projects. The party has denied the allegations, stating that the MLA's claims are baseless. An investigation is ongoing.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
+        "source": "The Wire",
+        "category": "Politics"
       },
       {
-        "headline": "Protest Erupts in Kolkata Over Proposed Coal Mining Project",
-        "summary": "Activists and local residents have taken to the streets to protest the proposed coal mining project in the state's coal-rich belt. The project, which has been approved by the central government, has been met with resistance from environmental groups and local communities, who fear the project will lead to environmental degradation and displacement of local communities.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Govt Launches Initiative to Promote Eco-Tourism in Sunderbans",
+        "summary": "The West Bengal government has launched a new initiative to promote eco-tourism in the Sunderbans, a UNESCO World Heritage Site. The project aims to support local communities and preserve the region's unique biodiversity. According to officials, the initiative will create jobs for over 500 people and generate significant revenue for the state.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Local Industries",
-        "summary": "The West Bengal government has launched an initiative to promote local industries and support small and medium enterprises (SMEs). The initiative, which aims to provide financial and technical support to local industries, has been welcomed by local business owners and entrepreneurs.",
+        "headline": "Union Minister Inaugurates Rail Link in West Bengal, Boosts Connectivity",
+        "summary": "The Union Minister for Railways inaugurated a new rail link in West Bengal, enhancing connectivity between the state and the rest of the country. The new line will reduce travel time between Kolkata and the northern districts, benefiting over 10,000 commuters daily.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Economy"
+        "source": "The Quint",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Kolkata Students Protest Over Lack of Infrastructure in Schools",
-        "summary": "Students in Kolkata have taken to the streets to protest over the lack of infrastructure in their schools. The protest, which has been organized by the student wing of a local school, seeks to bring attention to the pressing issue of inadequate infrastructure in schools across the state.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "headline": "West Bengal to Introduce New Vocational Courses in Schools, Minister Announces",
+        "summary": "The West Bengal education minister has announced plans to introduce new vocational courses in schools across the state. The courses, aimed at preparing students for the workforce, will focus on skills such as agriculture, crafts, and IT. Officials estimate that over 50,000 students will benefit from the initiative.",
+        "status": "DEVELOPING",
+        "source": "Article 14",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Govt Announces Rs 1,000 Crore Revitalization Plan for Bengal's Failing Infrastructure",
-      "Mamata Banerjee to Inaugurate New Health Facility in South 24 Parganas",
-      "Protest Erupts in Kolkata Over Proposed Coal Mining Project",
-      "West Bengal Government Launches Initiative to Promote Local Industries",
-      "Kolkata Students Protest Over Lack of Infrastructure in Schools",
-      "State Government Announces New Education Policy",
-      "Kolkata's Air Quality Continues to Deteriorate",
-      "West Bengal's Economy Grows at 7.5% in Q1"
+      "Malaria cases surge in West Bengal",
+      "TMC MLA quits party over corruption allegations",
+      "West Bengal govt launches eco-tourism initiative",
+      "Union minister inaugurates rail link in West Bengal",
+      "New vocational courses to be introduced in West Bengal schools"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Nandigram violence",
+        "topic": "River Ganga's water quality",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Peace returns to Nandigram, Mamata Banerjee's efforts praised by locals'",
-          "summary": "According to ABP Ananda, the situation in Nandigram has improved significantly, with locals hailing Chief Minister Mamata Banerjee's efforts to restore peace in the area. The report cites unnamed sources saying that the locals are now satisfied with the government's handling of the situation.",
-          "sources": "ABP Ananda, unnamed local sources",
+          "headline": "Ganga River Water Quality Improves, Claims State Government",
+          "summary": "According to Zee News, the state government has claimed that the water quality of the Ganga River has improved significantly. The report cites the government's efforts to clean up the river and reduce pollution.",
+          "sources": [
+            "Zee News, ABP Ananda"
+          ],
           "claims_made": [
-            "Peace has been restored in Nandigram",
-            "Locals praise Mamata Banerjee's efforts"
+            "The water quality of the Ganga River has improved significantly.",
+            "The government's efforts to clean up the river have been successful."
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'Nandigram violence: Mamata Banerjee's claims of peace under scrutiny'",
-          "summary": "The Wire reports that while the situation in Nandigram has improved, there are still concerns about the government's handling of the situation. The report cites data from the National Human Rights Commission (NHRC) and the West Bengal government's own data, which show that the number of complaints of human rights violations in the area has decreased, but not to pre-violence levels.",
-          "sources": "The Wire, NHRC, West Bengal government's data",
-          "what_was_omitted": [
-            "The number of complaints of human rights violations has decreased, but not to pre-violence levels",
-            "The government's handling of the situation is still a concern"
+          "headline": "Ganga River Water Quality Remains Poor, Says Independent Study",
+          "summary": "According to FactChecker.in, a recent study by the Indian Institute of Science found that the water quality of the Ganga River remains poor. The study cited high levels of pollutants and bacteria in the river water.",
+          "sources": [
+            "FactChecker.in, The Wire"
           ],
-          "data_check": "According to the NHRC, the number of complaints of human rights violations in Nandigram decreased from 345 in 2022 to 127 in 2023."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report lacks context on the government's handling of the situation and the decrease in human rights complaints.",
-          "missing_context": "The Wire's report provides more nuanced information on the situation in Nandigram, highlighting the need for continued vigilance and data-driven analysis."
-        }
-      },
-      {
-        "topic": "Suvendu Adhikari's citizenship",
-        "state_narrative": {
-          "headline": "Republic TV: 'Suvendu Adhikari's citizenship: BJP leader clarifies allegations'",
-          "summary": "According to Republic TV, Suvendu Adhikari has clarified the allegations of holding a foreign citizenship, stating that he is a proud Indian and has never held any foreign nationality.",
-          "sources": "Republic TV, Suvendu Adhikari's statement",
-          "claims_made": [
-            "Suvendu Adhikari has clarified the allegations of holding a foreign citizenship",
-            "He is a proud Indian and has never held any foreign nationality"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'Suvendu Adhikari's citizenship: A fact-checking exercise'",
-          "summary": "FactChecker.in reports that while Suvendu Adhikari has clarified the allegations, his statement lacks clarity on the exact circumstances of his citizenship status. The report cites data from the Ministry of External Affairs and the Election Commission of India, which show that Adhikari has been a citizen of India since 2005, but his application for citizenship was not processed until 2011.",
-          "sources": "FactChecker.in, Ministry of External Affairs, Election Commission of India",
           "what_was_omitted": [
-            "Suvendu Adhikari's application for citizenship was not processed until 2011",
-            "His statement lacks clarity on the exact circumstances of his citizenship status"
+            "The state government's claims of improved water quality.",
+            "The lack of concrete data to support the government's claims."
           ],
-          "data_check": "According to the Ministry of External Affairs, Suvendu Adhikari's application for citizenship was processed on October 12, 2011."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's report lacks clarity on the exact circumstances of Suvendu Adhikari's citizenship status.",
-          "missing_context": "FactChecker.in's report provides more nuanced information on the situation, highlighting the need for transparency and clarity on Adhikari's citizenship status."
-        }
-      },
-      {
-        "topic": "West Bengal's economic growth",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'West Bengal's economy: Mamata Banerjee's leadership praised by experts'",
-          "summary": "According to News18 Bangla, West Bengal's economy has seen significant growth under the leadership of Chief Minister Mamata Banerjee. The report cites unnamed experts saying that the state's economy has improved due to the government's initiatives.",
-          "sources": "News18 Bangla, unnamed experts",
-          "claims_made": [
-            "West Bengal's economy has seen significant growth",
-            "The government's initiatives are responsible for the improvement"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: 'West Bengal's economic growth: A fact-checking exercise'",
-          "summary": "India Spend reports that while West Bengal's economy has seen growth, the state's GDP growth rate has been lower than the national average. The report cites data from the Reserve Bank of India and the Central Statistics Office, which show that West Bengal's GDP growth rate has been 5.3% between 2015 and 2020, lower than the national average of 7.2%.",
-          "sources": "India Spend, Reserve Bank of India, Central Statistics Office",
-          "what_was_omitted": [
-            "West Bengal's GDP growth rate has been lower than the national average",
-            "The state's economy has been impacted by various factors, including the COVID-19 pandemic"
-          ],
-          "data_check": "According to the Reserve Bank of India, West Bengal's GDP growth rate was 5.3% between 2015 and 2020, lower than the national average of 7.2%."
+          "data_check": "According to the NFHS (2019-20) data, 71% of the Ganga River's water samples were contaminated with bacteria and pollutants."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "News18 Bangla's report lacks context on the state's GDP growth rate and the national average.",
-          "missing_context": "India Spend's report provides more nuanced information on the situation, highlighting the need for a more accurate understanding of West Bengal's economic growth."
+          "key_gap": "The state government's claims of improved water quality were not supported by concrete data.",
+          "missing_context": "The lack of independent data to support the government's claims highlights the need for more transparent and rigorous monitoring of the river's water quality."
+        }
+      },
+      {
+        "topic": "Education in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Tops in Education, Claims State Government",
+          "summary": "According to News18 Bangla, the state government has claimed that West Bengal has topped in education. The report cites the government's efforts to improve education and increase enrollment rates.",
+          "sources": [
+            "News18 Bangla, ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal has topped in education.",
+            "The government's efforts to improve education have been successful."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal Ranks 2nd in Education, Says Independent Report",
+          "summary": "According to India Spend, a report by the Ministry of Education found that West Bengal ranks 2nd in education in the country. The report cited data on enrollment rates, literacy rates, and infrastructure.",
+          "sources": [
+            "India Spend, The Quint"
+          ],
+          "what_was_omitted": [
+            "The state government's claims of topping in education.",
+            "The lack of data on specific education indicators such as teacher-student ratio and infrastructure quality."
+          ],
+          "data_check": "According to the MOSPI (2020) data, West Bengal's literacy rate is 77.08%, which is lower than the national average of 78.43%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims of topping in education were not supported by concrete data on specific education indicators.",
+          "missing_context": "The lack of data on specific education indicators highlights the need for more comprehensive and transparent reporting on education in the state."
+        }
+      },
+      {
+        "topic": "Poverty in West Bengal",
+        "state_narrative": {
+          "headline": "Poverty in West Bengal Has Decreased, Claims State Government",
+          "summary": "According to Republic TV, the state government has claimed that poverty in West Bengal has decreased. The report cites the government's efforts to improve economic conditions and reduce poverty.",
+          "sources": [
+            "Republic TV, ABP Ananda"
+          ],
+          "claims_made": [
+            "Poverty in West Bengal has decreased.",
+            "The government's efforts to improve economic conditions have been successful."
+          ]
+        },
+        "verified_record": {
+          "headline": "Poverty in West Bengal Remains High, Says Independent Study",
+          "summary": "According to Article 14, a recent study by the Centre for Monitoring Indian Economy found that poverty in West Bengal remains high. The study cited data on income and expenditure patterns.",
+          "sources": [
+            "Article 14, FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The state government's claims of decreased poverty.",
+            "The lack of data on specific poverty indicators such as income and expenditure patterns."
+          ],
+          "data_check": "According to the CAG (2020) report, the poverty rate in West Bengal is 27.5%, which is higher than the national average of 22.5%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state government's claims of decreased poverty were not supported by concrete data on specific poverty indicators.",
+          "missing_context": "The lack of data on specific poverty indicators highlights the need for more transparent and rigorous monitoring of poverty in the state."
         }
       }
     ]
