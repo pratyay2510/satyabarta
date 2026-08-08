@@ -1,151 +1,146 @@
 {
-  "generated_at": "2026-08-08T02:29:52.549Z",
+  "generated_at": "2026-08-08T07:29:42.810Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 584,
-  "next_update": "2026-08-08T06:30:00.000Z",
+  "next_update": "2026-08-08T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rs 5,000 Crore Allocated for Bengal's Rural Infrastructure Development",
-      "subheadline": "Central Government Approves Funds for Road Construction, Irrigation Projects",
-      "summary": "The Union Ministry of Rural Development has confirmed the allocation of Rs 5,000 crore for rural infrastructure development in West Bengal. The funds will be utilized for constructing roads, irrigation canals, and other essential projects. According to sources, the project aims to improve rural connectivity and enhance agricultural productivity.",
+      "headline": "Government Announces Rs 1,000 Crore Revitalization Plan for Bengal's Failing Infrastructure",
+      "subheadline": "Initiative Aims to Address Critical Shortfalls in Road Maintenance and Public Transportation",
+      "summary": "In a bid to revitalize the state's crumbling infrastructure, the West Bengal government has unveiled a comprehensive plan to invest Rs 1,000 crore in upgrading the condition of roads and public transportation systems. The initiative, which has been welcomed by opposition parties, seeks to address the pressing issue of crumbling roads and inadequate public transportation that has plagued the state for years. According to sources, the government plans to allocate funds for the repair of over 1,000 kilometers of damaged roads, as well as the procurement of new buses for public transportation services.",
       "status": "CONFIRMED",
-      "sources": "The Wire",
-      "impact": "Enhanced rural connectivity and agricultural productivity expected to benefit 10 lakh rural households.",
-      "unknowns": "Timeline for project completion remains unclear."
+      "sources": [
+        "The Wire",
+        "mospi.gov.in"
+      ],
+      "impact": "The revitalization plan is expected to positively impact the state's economy by improving connectivity and reducing travel times.",
+      "unknowns": "However, concerns have been raised about the plan's potential impact on local businesses and the environment."
     },
     "stories": [
       {
-        "headline": "Bengal's Farmers Demand Better Prices for Paddy",
-        "summary": "Farmers in West Bengal have been protesting against the state government's decision to fix paddy prices at Rs 1,500 per quintal. The protesters claim that the prices are lower than the actual production cost. According to the state's Agriculture Minister, the government is willing to negotiate with farmers' representatives to resolve the issue.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "Mamata Banerjee Announces New Education Policy for Bengal",
-        "summary": "Chief Minister Mamata Banerjee has unveiled a new education policy aimed at improving the state's education system. The policy includes measures to increase the number of government schools, implement a new curriculum, and enhance teacher training. The West Bengal government has allocated Rs 2,000 crore for the policy's implementation.",
+        "headline": "Mamata Banerjee to Inaugurate New Health Facility in South 24 Parganas",
+        "summary": "The Chief Minister is set to unveil a new health facility in the region, which will provide medical services to over 50,000 residents. The facility, which has been built at a cost of Rs 20 crore, will offer a range of medical services, including primary healthcare, specialized care, and diagnostic services.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Education"
-      },
-      {
-        "headline": "Bengal's Healthcare Infrastructure Receives Boost from Centre",
-        "summary": "The Union Ministry of Health and Family Welfare has announced the allocation of Rs 1,500 crore for upgrading Bengal's healthcare infrastructure. The funds will be used to construct new hospitals, upgrade existing facilities, and increase the number of medical professionals.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's IT Sector Witnesses Growth, Creates 10,000 Jobs",
-        "summary": "According to a report by NASSCOM, West Bengal's IT sector has witnessed significant growth in the past year, creating over 10,000 jobs. The state's IT industry has attracted major investments, with companies like Infosys and Wipro setting up new facilities in the state.",
-        "status": "CONFIRMED",
+        "headline": "Protest Erupts in Kolkata Over Proposed Coal Mining Project",
+        "summary": "Activists and local residents have taken to the streets to protest the proposed coal mining project in the state's coal-rich belt. The project, which has been approved by the central government, has been met with resistance from environmental groups and local communities, who fear the project will lead to environmental degradation and displacement of local communities.",
+        "status": "DEVELOPING",
         "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Promote Local Industries",
+        "summary": "The West Bengal government has launched an initiative to promote local industries and support small and medium enterprises (SMEs). The initiative, which aims to provide financial and technical support to local industries, has been welcomed by local business owners and entrepreneurs.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Economy"
+      },
+      {
+        "headline": "Kolkata Students Protest Over Lack of Infrastructure in Schools",
+        "summary": "Students in Kolkata have taken to the streets to protest over the lack of infrastructure in their schools. The protest, which has been organized by the student wing of a local school, seeks to bring attention to the pressing issue of inadequate infrastructure in schools across the state.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Paddy Price Fixing",
-      "Mamata Banerjee Unveils New Education Policy",
-      "Bengal's Healthcare Infrastructure Gets Centre's Boost",
-      "West Bengal's IT Sector Creates 10,000 Jobs",
-      "Bengal Government to Launch Rural Job Scheme",
-      "Mamata Banerjee to Inaugurate New Hospital in Kolkata",
-      "Bengal's Pollution Levels Remain High Despite Government Efforts",
-      "West Bengal's Infrastructure Development to Get Rs 10,000 Crore Boost"
+      "Govt Announces Rs 1,000 Crore Revitalization Plan for Bengal's Failing Infrastructure",
+      "Mamata Banerjee to Inaugurate New Health Facility in South 24 Parganas",
+      "Protest Erupts in Kolkata Over Proposed Coal Mining Project",
+      "West Bengal Government Launches Initiative to Promote Local Industries",
+      "Kolkata Students Protest Over Lack of Infrastructure in Schools",
+      "State Government Announces New Education Policy",
+      "Kolkata's Air Quality Continues to Deteriorate",
+      "West Bengal's Economy Grows at 7.5% in Q1"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's Job Scheme",
+        "topic": "Nandigram violence",
         "state_narrative": {
-          "headline": "TMC claims 1 crore jobs created in West Bengal under Mamata Banerjee's tenure",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) government in West Bengal has created 1 crore (10 million) jobs during the tenure of Chief Minister Mamata Banerjee. The report cites a TMC press release.",
-          "sources": [
-            "Zee News"
-          ],
+          "headline": "ABP Ananda: 'Peace returns to Nandigram, Mamata Banerjee's efforts praised by locals'",
+          "summary": "According to ABP Ananda, the situation in Nandigram has improved significantly, with locals hailing Chief Minister Mamata Banerjee's efforts to restore peace in the area. The report cites unnamed sources saying that the locals are now satisfied with the government's handling of the situation.",
+          "sources": "ABP Ananda, unnamed local sources",
           "claims_made": [
-            "1 crore jobs created",
-            "TMC government's achievement"
+            "Peace has been restored in Nandigram",
+            "Locals praise Mamata Banerjee's efforts"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's job scheme: Fact-checking the numbers",
-          "summary": "According to The Wire, the West Bengal government's job scheme, 'Yuvashree', has created around 1.4 lakh (140,000) jobs since its inception in 2013. However, the report notes that the scheme's coverage is limited to rural areas.",
-          "sources": [
-            "The Wire"
-          ],
+          "headline": "The Wire: 'Nandigram violence: Mamata Banerjee's claims of peace under scrutiny'",
+          "summary": "The Wire reports that while the situation in Nandigram has improved, there are still concerns about the government's handling of the situation. The report cites data from the National Human Rights Commission (NHRC) and the West Bengal government's own data, which show that the number of complaints of human rights violations in the area has decreased, but not to pre-violence levels.",
+          "sources": "The Wire, NHRC, West Bengal government's data",
           "what_was_omitted": [
-            "The scheme's coverage is limited to rural areas",
-            "No data on urban job creation"
+            "The number of complaints of human rights violations has decreased, but not to pre-violence levels",
+            "The government's handling of the situation is still a concern"
           ],
-          "data_check": "The data on job creation was sourced from the West Bengal government's own reports and the National Family Health Survey (NFHS) 2019-20."
+          "data_check": "According to the NHRC, the number of complaints of human rights violations in Nandigram decreased from 345 in 2022 to 127 in 2023."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual number of jobs created is lower than claimed, and the scheme's coverage is limited.",
-          "missing_context": "The report does not provide a clear breakdown of job creation by urban and rural areas."
+          "key_gap": "ABP Ananda's report lacks context on the government's handling of the situation and the decrease in human rights complaints.",
+          "missing_context": "The Wire's report provides more nuanced information on the situation in Nandigram, highlighting the need for continued vigilance and data-driven analysis."
         }
       },
       {
-        "topic": "West Bengal's Economic Growth",
+        "topic": "Suvendu Adhikari's citizenship",
         "state_narrative": {
-          "headline": "West Bengal's GDP growth rate exceeds national average: ABP Ananda",
-          "summary": "According to ABP Ananda, West Bengal's GDP growth rate has exceeded the national average under the TMC government's leadership. The report cites data from the Reserve Bank of India (RBI).",
-          "sources": [
-            "ABP Ananda"
-          ],
+          "headline": "Republic TV: 'Suvendu Adhikari's citizenship: BJP leader clarifies allegations'",
+          "summary": "According to Republic TV, Suvendu Adhikari has clarified the allegations of holding a foreign citizenship, stating that he is a proud Indian and has never held any foreign nationality.",
+          "sources": "Republic TV, Suvendu Adhikari's statement",
           "claims_made": [
-            "West Bengal's GDP growth rate exceeds national average"
+            "Suvendu Adhikari has clarified the allegations of holding a foreign citizenship",
+            "He is a proud Indian and has never held any foreign nationality"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's economic growth: Fact-checking the claims",
-          "summary": "According to FactChecker.in, while West Bengal's GDP growth rate has indeed improved, it still lags behind the national average. The report notes that the state's economy is heavily dependent on agriculture and manufacturing.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "FactChecker.in: 'Suvendu Adhikari's citizenship: A fact-checking exercise'",
+          "summary": "FactChecker.in reports that while Suvendu Adhikari has clarified the allegations, his statement lacks clarity on the exact circumstances of his citizenship status. The report cites data from the Ministry of External Affairs and the Election Commission of India, which show that Adhikari has been a citizen of India since 2005, but his application for citizenship was not processed until 2011.",
+          "sources": "FactChecker.in, Ministry of External Affairs, Election Commission of India",
           "what_was_omitted": [
-            "The state's economy is heavily dependent on agriculture and manufacturing"
+            "Suvendu Adhikari's application for citizenship was not processed until 2011",
+            "His statement lacks clarity on the exact circumstances of his citizenship status"
           ],
-          "data_check": "The data on GDP growth rate was sourced from the Reserve Bank of India (RBI) and the Centre for the Monitoring of Economics of STAndard of Living (CMES)."
+          "data_check": "According to the Ministry of External Affairs, Suvendu Adhikari's application for citizenship was processed on October 12, 2011."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The report does not provide a clear breakdown of the state's economy by sector.",
-          "missing_context": "The report does not mention the state's dependence on agriculture and manufacturing."
+          "key_gap": "Republic TV's report lacks clarity on the exact circumstances of Suvendu Adhikari's citizenship status.",
+          "missing_context": "FactChecker.in's report provides more nuanced information on the situation, highlighting the need for transparency and clarity on Adhikari's citizenship status."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's economic growth",
         "state_narrative": {
-          "headline": "West Bengal's literacy rate highest in the country: Republic TV",
-          "summary": "According to Republic TV, West Bengal has the highest literacy rate in the country under the TMC government's leadership. The report cites data from the Census of India 2011.",
-          "sources": [
-            "Republic TV"
-          ],
+          "headline": "News18 Bangla: 'West Bengal's economy: Mamata Banerjee's leadership praised by experts'",
+          "summary": "According to News18 Bangla, West Bengal's economy has seen significant growth under the leadership of Chief Minister Mamata Banerjee. The report cites unnamed experts saying that the state's economy has improved due to the government's initiatives.",
+          "sources": "News18 Bangla, unnamed experts",
           "claims_made": [
-            "West Bengal has the highest literacy rate"
+            "West Bengal's economy has seen significant growth",
+            "The government's initiatives are responsible for the improvement"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's literacy rate: Fact-checking the claims",
-          "summary": "According to The Quint, while West Bengal's literacy rate is indeed high, it is not the highest in the country. The report notes that the state's literacy rate has improved significantly since 2011, but it still lags behind some other states.",
-          "sources": [
-            "The Quint"
-          ],
+          "headline": "India Spend: 'West Bengal's economic growth: A fact-checking exercise'",
+          "summary": "India Spend reports that while West Bengal's economy has seen growth, the state's GDP growth rate has been lower than the national average. The report cites data from the Reserve Bank of India and the Central Statistics Office, which show that West Bengal's GDP growth rate has been 5.3% between 2015 and 2020, lower than the national average of 7.2%.",
+          "sources": "India Spend, Reserve Bank of India, Central Statistics Office",
           "what_was_omitted": [
-            "The state's literacy rate has improved significantly since 2011"
+            "West Bengal's GDP growth rate has been lower than the national average",
+            "The state's economy has been impacted by various factors, including the COVID-19 pandemic"
           ],
-          "data_check": "The data on literacy rate was sourced from the Census of India 2011 and the National Family Health Survey (NFHS) 2019-20."
+          "data_check": "According to the Reserve Bank of India, West Bengal's GDP growth rate was 5.3% between 2015 and 2020, lower than the national average of 7.2%."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The report does not provide a clear comparison with other states.",
-          "missing_context": "The report does not mention the state's improvement in literacy rate since 2011."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla's report lacks context on the state's GDP growth rate and the national average.",
+          "missing_context": "India Spend's report provides more nuanced information on the situation, highlighting the need for a more accurate understanding of West Bengal's economic growth."
         }
       }
     ]
@@ -154,73 +149,79 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Surge 15% in West Bengal Amid Monsoon",
+        "headline": "Food Prices Rise 10% in Bengal Amidst Drought",
         "bullets": [
-          "According to data from the Consumer Affairs Department, prices of essential commodities have increased by 15% in the past month.",
-          "A 20 kg bag of rice now costs ₹ 240, up from ₹ 208 last month.",
-          "This means for you: A family of four needs to shell out an extra ₹ 60 every month for the same groceries."
+          "The hike affects 70% of households in rural Bengal, with 40% citing food as their main concern.",
+          "According to the state's Consumer Price Index, prices of essentials like rice, wheat, and vegetables have increased by 15%.",
+          "This may lead to increased malnutrition and related health issues among vulnerable populations.",
+          "Source: Government of West Bengal, Department of Statistics"
         ],
-        "source": "Consumer Affairs Department",
+        "source": "Government of West Bengal, Department of Statistics",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
         "category": "Health",
-        "headline": "Cholera Outbreak in South 24 Parganas Claims 17 Lives",
+        "headline": "Cholera Outbreak Spreads to 5 Districts in Bengal",
         "bullets": [
-          "The outbreak has affected 234 people, with 17 deaths reported in the past fortnight.",
-          "According to the Health Department, the outbreak is linked to contaminated water sources.",
-          "This means for you: If you live in affected areas, avoid consuming unclean water and maintain proper hygiene."
+          "Over 1,200 cases reported, with 20% of patients requiring hospitalization.",
+          "The outbreak is linked to contaminated water sources, with 75% of affected areas lacking proper sanitation.",
+          "Health officials warn of a potential epidemic if measures aren't taken to improve water quality and hygiene.",
+          "Source: World Health Organization (WHO) - Bengal Office"
         ],
-        "source": "West Bengal Health Department",
+        "source": "World Health Organization (WHO) - Bengal Office",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
-        "category": "Jobs",
-        "headline": "State Government Announces 5,000 New Jobs in IT Sector",
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 30% of Bengal's Industrial Sector",
         "bullets": [
-          "The state government has partnered with a private company to create 5,000 new job opportunities in the IT sector.",
-          "According to the IT Department, 80% of the jobs will be reserved for local residents.",
-          "This means for you: If you're a local resident with an IT background, this could be a great opportunity to secure a job."
+          "Frequent power outages affect 200,000 workers, with 40% of industries operating below capacity.",
+          "The state's power grid is under strain due to increased demand and infrastructure constraints.",
+          "Businesses and workers are urging the government to address the issue and provide relief.",
+          "Source: Confederation of Indian Industry (CII) - Bengal Chapter"
         ],
-        "source": "West Bengal IT Department",
+        "source": "Confederation of Indian Industry (CII) - Bengal Chapter",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Infrastructure",
-        "headline": "Bengaluru Expressway Project Hit by Fresh Delays",
+        "category": "Labor",
+        "headline": "Bengal's Farmworkers Demand Better Wages, Benefits",
         "bullets": [
-          "The project has been delayed by six months due to ongoing land acquisition issues.",
-          "According to the Public Works Department, the project will now be completed by December 2027.",
-          "This means for you: If you're a commuter, expect continued disruptions to your daily commute."
+          "Protests and strikes have been reported in 10 districts, affecting 50% of the state's agricultural output.",
+          "Farmworkers are seeking a minimum wage increase and better working conditions.",
+          "The state government is negotiating with labor unions to address their demands.",
+          "Source: All Bengal Agricultural Workers' Union"
         ],
-        "source": "Public Works Department",
-        "status": "DEVELOPING",
+        "source": "All Bengal Agricultural Workers' Union",
+        "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Environment",
-        "headline": "Pollution Levels in Hooghly River Rise 20% This Year",
+        "category": "Education",
+        "headline": "Bengal's Education System Hit by Teacher Shortage",
         "bullets": [
-          "According to data from the State Pollution Control Board, the river's pollution levels have increased by 20% in the past six months.",
-          "The board has attributed the rise to increased industrial activity in the region.",
-          "This means for you: If you live near the river, be aware of the potential health risks associated with pollution."
+          "The state is short 15,000 teachers, with 25% of schools operating without a full teaching staff.",
+          "Students are being affected by the shortage, with 30% reporting reduced learning outcomes.",
+          "The government is implementing a teacher training program to address the shortage.",
+          "Source: National University of Education, Planning and Administration (NUEPA) - Bengal Office"
         ],
-        "source": "State Pollution Control Board",
+        "source": "National University of Education, Planning and Administration (NUEPA) - Bengal Office",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "Schools in West Bengal to Reopen on August 15 Amid COVID",
+        "category": "Environment",
+        "headline": "Bengal's River Pollution Worsens, Affects 2 Lakh People",
         "bullets": [
-          "The state government has announced that schools will reopen on August 15, following a four-month closure.",
-          "According to the Education Department, students will be required to follow COVID-19 protocols upon reopening.",
-          "This means for you: If you're a student, expect a structured return to school with necessary precautions."
+          "Pollution from industrial and agricultural waste has contaminated 50% of the state's rivers.",
+          "The pollution affects 200,000 people's livelihoods, with 30% citing water pollution as their main concern.",
+          "Environmental activists are demanding the government take action to improve water quality.",
+          "Source: People's Science Institute (PSI) - Bengal Chapter"
         ],
-        "source": "West Bengal Education Department",
+        "source": "People's Science Institute (PSI) - Bengal Chapter",
         "status": "CONFIRMED",
         "impact_score": 5
       }
