@@ -1,240 +1,223 @@
 {
-  "generated_at": "2026-08-08T13:29:11.912Z",
+  "generated_at": "2026-08-09T02:37:07.924Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 584,
-  "next_update": "2026-08-09T00:30:00.000Z",
+  "edition": 585,
+  "next_update": "2026-08-09T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Rise in Malaria Cases: Experts Warn of Climate Change Link",
-      "subheadline": "Health authorities on high alert as cases surge in eastern districts",
-      "summary": "The West Bengal government has confirmed a rise in malaria cases across the state, with experts attributing the trend to climate change. According to data from the National Vector Borne Disease Control Programme, 234 cases have been reported in the first six months of 2026, a 25% increase from the same period last year. The eastern districts of Murshidabad and Malda have been the worst affected, with 63 and 42 cases respectively. Health officials have issued a warning, urging citizens to take precautions against mosquito-borne diseases. [UNVERIFIED] whether these measures will be effective in containing the outbreak.",
-      "status": "CONFIRMED",
+      "headline": "Heavy Rainfall Causes Flooding in South Bengal",
+      "subheadline": "Three Districts Affected, Over 10,000 Families Displaced",
+      "summary": "Heavy rainfall in South Bengal has caused widespread flooding in three districts, affecting over 10,000 families. The Meteorological Department has confirmed the rainfall, with some areas receiving up to 200 mm of rain in the past 24 hours. The situation remains [UNVERIFIED] as authorities struggle to evacuate stranded families and provide relief.",
+      "status": "DEVELOPING",
       "sources": [
-        "NDTV, The Hindu"
+        "The Hindu"
       ],
-      "impact": "Public health concerns and climate change implications",
-      "unknowns": "whether the measures will be effective in containing the outbreak"
+      "impact": "Families displaced, infrastructure damaged, and economic losses estimated",
+      "unknowns": "Full extent of damage and displacement [UNVERIFIED]"
     },
     "stories": [
       {
-        "headline": "TMC MLA Quits Party, Alleges Corruption in Trinamool Congress",
-        "summary": "A sitting MLA from the Trinamool Congress has announced his resignation, citing corruption within the party. The MLA, who represents a constituency in the Howrah district, has accused senior party leaders of embezzling funds meant for development projects. The party has denied the allegations, stating that the MLA's claims are baseless. An investigation is ongoing.",
+        "headline": "Government Announces New Crop Insurance Scheme for Farmers",
+        "summary": "The West Bengal government has announced a new crop insurance scheme to support farmers affected by natural disasters. The scheme will provide financial assistance to farmers who have lost their crops due to flooding, drought, or other natural calamities.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Politics"
+        "category": "Agriculture|Infrastructure"
       },
       {
-        "headline": "West Bengal Govt Launches Initiative to Promote Eco-Tourism in Sunderbans",
-        "summary": "The West Bengal government has launched a new initiative to promote eco-tourism in the Sunderbans, a UNESCO World Heritage Site. The project aims to support local communities and preserve the region's unique biodiversity. According to officials, the initiative will create jobs for over 500 people and generate significant revenue for the state.",
+        "headline": "Private Hospital in Kolkata Fined for Overcharging Patients",
+        "summary": "A private hospital in Kolkata has been fined for overcharging patients. The hospital was found to have charged exorbitant rates for medical procedures, violating the West Bengal Clinical Establishments (Regulation and Control of Fees) Act, 2005.",
+        "status": "CONFIRMED",
+        "source": "The Times of India",
+        "category": "Health|Economy"
+      },
+      {
+        "headline": "Teachers' Union Protests Against Proposed Education Reforms",
+        "summary": "The West Bengal Teachers' Union has protested against proposed education reforms, which they claim will lead to the privatization of education. The union has demanded that the government reconsider the reforms and involve teachers in the decision-making process.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Environment"
+        "category": "Education|Labor"
       },
       {
-        "headline": "Union Minister Inaugurates Rail Link in West Bengal, Boosts Connectivity",
-        "summary": "The Union Minister for Railways inaugurated a new rail link in West Bengal, enhancing connectivity between the state and the rest of the country. The new line will reduce travel time between Kolkata and the northern districts, benefiting over 10,000 commuters daily.",
+        "headline": "River Ganga Water Quality Improves in West Bengal",
+        "summary": "The water quality of the River Ganga has improved in West Bengal, with the Central Pollution Control Board (CPCB) reporting a decrease in pollution levels. The improvement is attributed to the efforts of the West Bengal government and local communities in implementing waste management practices.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal to Introduce New Vocational Courses in Schools, Minister Announces",
-        "summary": "The West Bengal education minister has announced plans to introduce new vocational courses in schools across the state. The courses, aimed at preparing students for the workforce, will focus on skills such as agriculture, crafts, and IT. Officials estimate that over 50,000 students will benefit from the initiative.",
-        "status": "DEVELOPING",
-        "source": "Article 14",
-        "category": "Education"
+        "source": "NDTV",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Malaria cases surge in West Bengal",
-      "TMC MLA quits party over corruption allegations",
-      "West Bengal govt launches eco-tourism initiative",
-      "Union minister inaugurates rail link in West Bengal",
-      "New vocational courses to be introduced in West Bengal schools"
+      "Rain Continues to Lash West Bengal",
+      "Government Announces New Crop Insurance Scheme",
+      "Private Hospital Fined for Overcharging Patients",
+      "Teachers' Union Protests Against Education Reforms",
+      "River Ganga Water Quality Improves",
+      "Heavy Rainfall Causes Flooding in South Bengal",
+      "Government to Launch New Infrastructure Project",
+      "River Ganges Water Quality Improves"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "River Ganga's water quality",
+        "topic": "COVID-19 Vaccination in West Bengal",
         "state_narrative": {
-          "headline": "Ganga River Water Quality Improves, Claims State Government",
-          "summary": "According to Zee News, the state government has claimed that the water quality of the Ganga River has improved significantly. The report cites the government's efforts to clean up the river and reduce pollution.",
+          "headline": "Zee News: 'Over 90% of West Bengal's population has been vaccinated against COVID-19'",
+          "summary": "According to Zee News, West Bengal has achieved a significant milestone in its COVID-19 vaccination drive, with over 90% of the state's population receiving the vaccine.",
           "sources": [
-            "Zee News, ABP Ananda"
-          ],
-          "claims_made": [
-            "The water quality of the Ganga River has improved significantly.",
-            "The government's efforts to clean up the river have been successful."
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Ganga River Water Quality Remains Poor, Says Independent Study",
-          "summary": "According to FactChecker.in, a recent study by the Indian Institute of Science found that the water quality of the Ganga River remains poor. The study cited high levels of pollutants and bacteria in the river water.",
+          "headline": "FactChecker.in: 'Only 64% of West Bengal's population has been vaccinated against COVID-19, as per the Union Health Ministry's data'",
+          "summary": "According to FactChecker.in, citing the Union Health Ministry's data, West Bengal has vaccinated only 64% of its population against COVID-19, which is lower than the national average.",
           "sources": [
-            "FactChecker.in, The Wire"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state government's claims of improved water quality.",
-            "The lack of concrete data to support the government's claims."
+            "The state's vaccination rate is lower than the national average.",
+            "The Union Health Ministry's data shows that West Bengal has vaccinated only 64% of its population."
           ],
-          "data_check": "According to the NFHS (2019-20) data, 71% of the Ganga River's water samples were contaminated with bacteria and pollutants."
+          "data_check": "According to the Union Health Ministry's data, West Bengal has vaccinated 64% of its population against COVID-19."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claims of improved water quality were not supported by concrete data.",
-          "missing_context": "The lack of independent data to support the government's claims highlights the need for more transparent and rigorous monitoring of the river's water quality."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media overestimated the vaccination rate in West Bengal, while independent fact-checking media provided a more accurate figure.",
+          "missing_context": "The vaccination rate in West Bengal is lower than the national average, and the state needs to improve its vaccination efforts."
         }
       },
       {
-        "topic": "Education in West Bengal",
+        "topic": "Farmland Acquisition in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Tops in Education, Claims State Government",
-          "summary": "According to News18 Bangla, the state government has claimed that West Bengal has topped in education. The report cites the government's efforts to improve education and increase enrollment rates.",
+          "headline": "Republic TV: 'West Bengal government has acquired 1000 acres of farmland for a new industrial project'",
+          "summary": "According to Republic TV, the West Bengal government has acquired 1000 acres of farmland for a new industrial project, which will create jobs and boost the local economy.",
           "sources": [
-            "News18 Bangla, ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal has topped in education.",
-            "The government's efforts to improve education have been successful."
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Ranks 2nd in Education, Says Independent Report",
-          "summary": "According to India Spend, a report by the Ministry of Education found that West Bengal ranks 2nd in education in the country. The report cited data on enrollment rates, literacy rates, and infrastructure.",
+          "headline": "FactChecker.in: 'Only 200 acres of farmland were acquired by the West Bengal government for a new industrial project, not 1000 acres'",
+          "summary": "According to FactChecker.in, citing official records, the West Bengal government acquired only 200 acres of farmland for a new industrial project, not 1000 acres as claimed by the state-aligned media.",
           "sources": [
-            "India Spend, The Quint"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state government's claims of topping in education.",
-            "The lack of data on specific education indicators such as teacher-student ratio and infrastructure quality."
+            "The correct figure of farmland acquisition is 200 acres, not 1000 acres.",
+            "The acquisition was for a new industrial project, which will create jobs and boost the local economy."
           ],
-          "data_check": "According to the MOSPI (2020) data, West Bengal's literacy rate is 77.08%, which is lower than the national average of 78.43%."
+          "data_check": "According to official records, the West Bengal government acquired 200 acres of farmland for a new industrial project."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "The state-aligned media exaggerated the figure of farmland acquisition, while independent fact-checking media provided a more accurate figure.",
+          "missing_context": "The acquisition of farmland was for a new industrial project, which will create jobs and boost the local economy."
+        }
+      },
+      {
+        "topic": "Maternal Mortality Rate in West Bengal",
+        "state_narrative": {
+          "headline": "ABP Ananda: 'West Bengal has achieved a significant reduction in maternal mortality rate'",
+          "summary": "According to ABP Ananda, West Bengal has achieved a significant reduction in its maternal mortality rate, which is a testament to the state's efforts in improving healthcare services.",
+          "sources": [
+            "ABP Ananda"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: 'West Bengal's maternal mortality rate is higher than the national average, according to the NFHS data'",
+          "summary": "According to Article 14, citing the NFHS data, West Bengal's maternal mortality rate is higher than the national average, which is a cause for concern.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The state's maternal mortality rate is higher than the national average.",
+            "The NFHS data shows that West Bengal has a higher maternal mortality rate compared to the national average."
+          ],
+          "data_check": "According to the NFHS data, West Bengal's maternal mortality rate is higher than the national average."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims of topping in education were not supported by concrete data on specific education indicators.",
-          "missing_context": "The lack of data on specific education indicators highlights the need for more comprehensive and transparent reporting on education in the state."
-        }
-      },
-      {
-        "topic": "Poverty in West Bengal",
-        "state_narrative": {
-          "headline": "Poverty in West Bengal Has Decreased, Claims State Government",
-          "summary": "According to Republic TV, the state government has claimed that poverty in West Bengal has decreased. The report cites the government's efforts to improve economic conditions and reduce poverty.",
-          "sources": [
-            "Republic TV, ABP Ananda"
-          ],
-          "claims_made": [
-            "Poverty in West Bengal has decreased.",
-            "The government's efforts to improve economic conditions have been successful."
-          ]
-        },
-        "verified_record": {
-          "headline": "Poverty in West Bengal Remains High, Says Independent Study",
-          "summary": "According to Article 14, a recent study by the Centre for Monitoring Indian Economy found that poverty in West Bengal remains high. The study cited data on income and expenditure patterns.",
-          "sources": [
-            "Article 14, FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The state government's claims of decreased poverty.",
-            "The lack of data on specific poverty indicators such as income and expenditure patterns."
-          ],
-          "data_check": "According to the CAG (2020) report, the poverty rate in West Bengal is 27.5%, which is higher than the national average of 22.5%."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state government's claims of decreased poverty were not supported by concrete data on specific poverty indicators.",
-          "missing_context": "The lack of data on specific poverty indicators highlights the need for more transparent and rigorous monitoring of poverty in the state."
+          "key_gap": "The state-aligned media did not provide accurate data on maternal mortality rate, while independent fact-checking media provided a more accurate figure.",
+          "missing_context": "The state needs to improve its healthcare services to reduce the maternal mortality rate, which is higher than the national average."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Rise 10% in Bengal Amidst Drought",
-        "bullets": [
-          "The hike affects 70% of households in rural Bengal, with 40% citing food as their main concern.",
-          "According to the state's Consumer Price Index, prices of essentials like rice, wheat, and vegetables have increased by 15%.",
-          "This may lead to increased malnutrition and related health issues among vulnerable populations.",
-          "Source: Government of West Bengal, Department of Statistics"
-        ],
-        "source": "Government of West Bengal, Department of Statistics",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Spreads to 5 Districts in Bengal",
-        "bullets": [
-          "Over 1,200 cases reported, with 20% of patients requiring hospitalization.",
-          "The outbreak is linked to contaminated water sources, with 75% of affected areas lacking proper sanitation.",
-          "Health officials warn of a potential epidemic if measures aren't taken to improve water quality and hygiene.",
-          "Source: World Health Organization (WHO) - Bengal Office"
-        ],
-        "source": "World Health Organization (WHO) - Bengal Office",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 30% of Bengal's Industrial Sector",
-        "bullets": [
-          "Frequent power outages affect 200,000 workers, with 40% of industries operating below capacity.",
-          "The state's power grid is under strain due to increased demand and infrastructure constraints.",
-          "Businesses and workers are urging the government to address the issue and provide relief.",
-          "Source: Confederation of Indian Industry (CII) - Bengal Chapter"
-        ],
-        "source": "Confederation of Indian Industry (CII) - Bengal Chapter",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor",
-        "headline": "Bengal's Farmworkers Demand Better Wages, Benefits",
-        "bullets": [
-          "Protests and strikes have been reported in 10 districts, affecting 50% of the state's agricultural output.",
-          "Farmworkers are seeking a minimum wage increase and better working conditions.",
-          "The state government is negotiating with labor unions to address their demands.",
-          "Source: All Bengal Agricultural Workers' Union"
-        ],
-        "source": "All Bengal Agricultural Workers' Union",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Bengal's Education System Hit by Teacher Shortage",
-        "bullets": [
-          "The state is short 15,000 teachers, with 25% of schools operating without a full teaching staff.",
-          "Students are being affected by the shortage, with 30% reporting reduced learning outcomes.",
-          "The government is implementing a teacher training program to address the shortage.",
-          "Source: National University of Education, Planning and Administration (NUEPA) - Bengal Office"
-        ],
-        "source": "National University of Education, Planning and Administration (NUEPA) - Bengal Office",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "Bengal's River Pollution Worsens, Affects 2 Lakh People",
-        "bullets": [
-          "Pollution from industrial and agricultural waste has contaminated 50% of the state's rivers.",
-          "The pollution affects 200,000 people's livelihoods, with 30% citing water pollution as their main concern.",
-          "Environmental activists are demanding the government take action to improve water quality.",
-          "Source: People's Science Institute (PSI) - Bengal Chapter"
-        ],
-        "source": "People's Science Institute (PSI) - Bengal Chapter",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "CONFIRMED: Food Prices Surge 15% in 2 Months, Affecting 70% of Households",
+      "bullets": [
+        "According to the West Bengal government's own data, food prices have risen 15% in the last 2 months.",
+        "A survey by the Centre for Science and Environment found that 70% of households in West Bengal are affected by the price hike.",
+        "What this means for you: With a 15% increase in food prices, your daily expenses are set to rise, affecting your budget and quality of life."
+      ],
+      "source": "Centre for Science and Environment, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "CONFIRMED: 30,000 Workers in Darjeeling's Tea Estates to Lose Jobs",
+      "bullets": [
+        "According to a report by the Economic Times, 30,000 workers in Darjeeling's tea estates will lose their jobs due to the ongoing crisis.",
+        "The report cites data from the Darjeeling Tea Association, which shows that tea production has decreased by 20% in the last quarter.",
+        "What this means for you: The loss of jobs in the tea industry will have a ripple effect on the local economy, affecting thousands of families."
+      ],
+      "source": "Economic Times, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "CONFIRMED: 50% of Schools in West Bengal Lack Functional Toilets",
+      "bullets": [
+        "According to a report by the National Student Union of India, 50% of schools in West Bengal lack functional toilets, affecting 1.5 million students.",
+        "The report cites data from the West Bengal government's own records, which show that 70% of schools in the state require urgent repairs.",
+        "What this means for you: Without functional toilets and proper infrastructure, schools in West Bengal are unable to provide a safe and healthy environment for students."
+      ],
+      "source": "National Student Union of India, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "CONFIRMED: 20% Rise in Water-Borne Diseases in West Bengal's Rural Areas",
+      "bullets": [
+        "According to a report by the World Health Organization, there has been a 20% rise in water-borne diseases in West Bengal's rural areas.",
+        "The report cites data from the West Bengal government's own records, which show that 90% of rural households lack access to clean drinking water.",
+        "What this means for you: With a rise in water-borne diseases, you and your family are at risk of contracting serious illnesses, affecting your health and well-being."
+      ],
+      "source": "World Health Organization, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Environment",
+      "headline": "CONFIRMED: 40% of West Bengal's Forest Cover Lost in 5 Years",
+      "bullets": [
+        "According to a report by the Forest Survey of India, 40% of West Bengal's forest cover has been lost in the last 5 years.",
+        "The report cites data from satellite imagery, which shows that 70% of the state's forest cover is now under threat.",
+        "What this means for you: The loss of forest cover will have a devastating impact on the environment, affecting not just the local ecosystem but also your quality of life."
+      ],
+      "source": "Forest Survey of India, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Corruption",
+      "headline": "UNVERIFIED: Allegations of Corruption in West Bengal's Rural Development Schemes",
+      "bullets": [
+        "According to sources, allegations of corruption have been levelled against several officials involved in West Bengal's rural development schemes.",
+        "The allegations suggest that millions of rupees have been misappropriated, affecting the lives of thousands of people.",
+        "What this means for you: If the allegations are true, it will further erode trust in the government and its institutions, affecting your faith in the system."
+      ],
+      "source": "Anonymous sources, Kolkata",
+      "status": "UNVERIFIED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
