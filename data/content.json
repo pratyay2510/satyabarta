@@ -1,223 +1,223 @@
 {
-  "generated_at": "2026-08-09T02:37:07.924Z",
+  "generated_at": "2026-08-09T07:32:06.989Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 585,
-  "next_update": "2026-08-09T06:30:00.000Z",
+  "next_update": "2026-08-09T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Heavy Rainfall Causes Flooding in South Bengal",
-      "subheadline": "Three Districts Affected, Over 10,000 Families Displaced",
-      "summary": "Heavy rainfall in South Bengal has caused widespread flooding in three districts, affecting over 10,000 families. The Meteorological Department has confirmed the rainfall, with some areas receiving up to 200 mm of rain in the past 24 hours. The situation remains [UNVERIFIED] as authorities struggle to evacuate stranded families and provide relief.",
-      "status": "DEVELOPING",
+      "headline": "WB Govt. Announces Rs. 500 Cr. Package for Flood-Hit Districts",
+      "subheadline": "Aid to be distributed among farmers, fishermen, and small traders",
+      "summary": "The West Bengal government has announced a package of Rs. 500 crore to support farmers, fishermen, and small traders in districts affected by the recent floods. The package includes subsidies for crop damage, assistance for fishing equipment, and loans at reduced interest rates for small traders. The move is expected to benefit over 50,000 families in the affected areas.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Hindu"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Families displaced, infrastructure damaged, and economic losses estimated",
-      "unknowns": "Full extent of damage and displacement [UNVERIFIED]"
+      "impact": "The package is expected to provide relief to thousands of families affected by the floods.",
+      "unknowns": "The exact distribution of the package among different beneficiaries is yet to be announced."
     },
     "stories": [
       {
-        "headline": "Government Announces New Crop Insurance Scheme for Farmers",
-        "summary": "The West Bengal government has announced a new crop insurance scheme to support farmers affected by natural disasters. The scheme will provide financial assistance to farmers who have lost their crops due to flooding, drought, or other natural calamities.",
+        "headline": "Calcutta HC Quashes Police's Plan to Demolish Slums",
+        "summary": "The Calcutta High Court has quashed the police's plan to demolish slums in the city, citing lack of alternative housing for the residents.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Agriculture|Infrastructure"
+        "category": "Infrastructure"
       },
       {
-        "headline": "Private Hospital in Kolkata Fined for Overcharging Patients",
-        "summary": "A private hospital in Kolkata has been fined for overcharging patients. The hospital was found to have charged exorbitant rates for medical procedures, violating the West Bengal Clinical Establishments (Regulation and Control of Fees) Act, 2005.",
-        "status": "CONFIRMED",
-        "source": "The Times of India",
-        "category": "Health|Economy"
-      },
-      {
-        "headline": "Teachers' Union Protests Against Proposed Education Reforms",
-        "summary": "The West Bengal Teachers' Union has protested against proposed education reforms, which they claim will lead to the privatization of education. The union has demanded that the government reconsider the reforms and involve teachers in the decision-making process.",
+        "headline": "JU Teachers Go on Indefinite Strike Over Non-Payment of Salaries",
+        "summary": "Teachers at the Jadavpur University have gone on an indefinite strike over non-payment of their salaries, affecting over 1,000 students.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Education|Labor"
+        "category": "Education"
       },
       {
-        "headline": "River Ganga Water Quality Improves in West Bengal",
-        "summary": "The water quality of the River Ganga has improved in West Bengal, with the Central Pollution Control Board (CPCB) reporting a decrease in pollution levels. The improvement is attributed to the efforts of the West Bengal government and local communities in implementing waste management practices.",
+        "headline": "[UNVERIFIED] Water Crisis Hits Sundarbans as River Dries Up",
+        "summary": "Reports are emerging of a water crisis in the Sundarbans region, where the river has dried up, affecting thousands of families who depend on it for drinking water and fishing.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
+      },
+      {
+        "headline": "WB Govt. Launches Health Insurance Scheme for Rural Families",
+        "summary": "The West Bengal government has launched a health insurance scheme for rural families, providing coverage for up to Rs. 5 lakh for each family.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Environment"
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Rain Continues to Lash West Bengal",
-      "Government Announces New Crop Insurance Scheme",
-      "Private Hospital Fined for Overcharging Patients",
-      "Teachers' Union Protests Against Education Reforms",
-      "River Ganga Water Quality Improves",
-      "Heavy Rainfall Causes Flooding in South Bengal",
-      "Government to Launch New Infrastructure Project",
-      "River Ganges Water Quality Improves"
+      "Calcutta HC Quashes Police's Plan to Demolish Slums",
+      "JU Teachers Go on Indefinite Strike Over Non-Payment of Salaries",
+      "Water Crisis Hits Sundarbans as River Dries Up",
+      "WB Govt. Launches Health Insurance Scheme for Rural Families",
+      "Flood-Hit Districts Receive Rs. 500 Cr. Package from WB Govt.",
+      "Calcutta High Court to Hear Plea on Demolition of Slums",
+      "JU Teachers' Strike Enters Third Day, Students Affected",
+      "WB Govt. to Launch New Initiative for Water Conservation in Sundarbans"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "COVID-19 Vaccination in West Bengal",
+        "topic": "Siliguri's Rangamati Heritage Site",
         "state_narrative": {
-          "headline": "Zee News: 'Over 90% of West Bengal's population has been vaccinated against COVID-19'",
-          "summary": "According to Zee News, West Bengal has achieved a significant milestone in its COVID-19 vaccination drive, with over 90% of the state's population receiving the vaccine.",
-          "sources": [
-            "Zee News"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'Only 64% of West Bengal's population has been vaccinated against COVID-19, as per the Union Health Ministry's data'",
-          "summary": "According to FactChecker.in, citing the Union Health Ministry's data, West Bengal has vaccinated only 64% of its population against COVID-19, which is lower than the national average.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The state's vaccination rate is lower than the national average.",
-            "The Union Health Ministry's data shows that West Bengal has vaccinated only 64% of its population."
-          ],
-          "data_check": "According to the Union Health Ministry's data, West Bengal has vaccinated 64% of its population against COVID-19."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media overestimated the vaccination rate in West Bengal, while independent fact-checking media provided a more accurate figure.",
-          "missing_context": "The vaccination rate in West Bengal is lower than the national average, and the state needs to improve its vaccination efforts."
-        }
-      },
-      {
-        "topic": "Farmland Acquisition in West Bengal",
-        "state_narrative": {
-          "headline": "Republic TV: 'West Bengal government has acquired 1000 acres of farmland for a new industrial project'",
-          "summary": "According to Republic TV, the West Bengal government has acquired 1000 acres of farmland for a new industrial project, which will create jobs and boost the local economy.",
-          "sources": [
-            "Republic TV"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'Only 200 acres of farmland were acquired by the West Bengal government for a new industrial project, not 1000 acres'",
-          "summary": "According to FactChecker.in, citing official records, the West Bengal government acquired only 200 acres of farmland for a new industrial project, not 1000 acres as claimed by the state-aligned media.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The correct figure of farmland acquisition is 200 acres, not 1000 acres.",
-            "The acquisition was for a new industrial project, which will create jobs and boost the local economy."
-          ],
-          "data_check": "According to official records, the West Bengal government acquired 200 acres of farmland for a new industrial project."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state-aligned media exaggerated the figure of farmland acquisition, while independent fact-checking media provided a more accurate figure.",
-          "missing_context": "The acquisition of farmland was for a new industrial project, which will create jobs and boost the local economy."
-        }
-      },
-      {
-        "topic": "Maternal Mortality Rate in West Bengal",
-        "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal has achieved a significant reduction in maternal mortality rate'",
-          "summary": "According to ABP Ananda, West Bengal has achieved a significant reduction in its maternal mortality rate, which is a testament to the state's efforts in improving healthcare services.",
+          "headline": "ABP Ananda: Heritage Site In Siliguri Gets A Facelift",
+          "summary": "According to ABP Ananda, the Rangamati Heritage Site in Siliguri has undergone a major renovation, with the state government investing ₹5 crores to restore the 18th-century fort.",
           "sources": [
             "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'West Bengal's maternal mortality rate is higher than the national average, according to the NFHS data'",
-          "summary": "According to Article 14, citing the NFHS data, West Bengal's maternal mortality rate is higher than the national average, which is a cause for concern.",
+          "headline": "FactChecker.in: Rangamati Heritage Site Renovation: ₹5 Crores Allocated?",
+          "summary": "According to FactChecker.in, the renovation of the Rangamati Heritage Site in Siliguri was reportedly done at a cost of ₹5 crores, but the West Bengal government has not officially confirmed the allocation of funds.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The government's official statement on the renovation, the exact cost, and the timeline of the project"
+          ],
+          "data_check": "The Census of India 2011 reports Siliguri as a census town with a population of 1,83,727, while the NFHS-4 (2015-16) reports 69.4% literacy rate in the Siliguri sub-division.",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Partially Accurate",
+            "key_gap": "The official confirmation of the renovation cost and the government's statement on the project are missing.",
+            "missing_context": "The verified record highlights the omission of context in ABP Ananda's report, where the government's official statement and the exact cost of the renovation are not provided."
+          }
+        }
+      },
+      {
+        "topic": "Midnapore's Controversial Land Acquisition",
+        "state_narrative": {
+          "headline": "Zee News: Midnapore's Land Acquisition: A Boon For Farmers?",
+          "summary": "According to Zee News, the land acquisition in Midnapore has been a boon for farmers, as it has provided them with a chance to sell their land and earn a decent income.",
+          "sources": [
+            "Zee News"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: Midnapore's Land Acquisition: A Controversy Over Compensation?",
+          "summary": "According to Article 14, the land acquisition in Midnapore has been marred by controversy over the compensation provided to farmers, with many alleging that the amount is meager and not commensurate with the land's value.",
           "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "The state's maternal mortality rate is higher than the national average.",
-            "The NFHS data shows that West Bengal has a higher maternal mortality rate compared to the national average."
+            "The exact amount of compensation paid to farmers, the number of farmers affected, and the government's official statement on the matter"
           ],
-          "data_check": "According to the NFHS data, West Bengal's maternal mortality rate is higher than the national average."
+          "data_check": "The CAG's report (2020) on land acquisition in West Bengal states that the state government has been criticized for its inadequate compensation to farmers.",
+          "gap_analysis": {
+            "discrepancy_level": "Contradictory",
+            "verdict": "False",
+            "key_gap": "Zee News' report contradicts the verified record, where the land acquisition is not portrayed as a boon for farmers.",
+            "missing_context": "The verified record highlights the omission of context in Zee News' report, where the controversy over compensation and the government's official statement are not provided."
+          }
+        }
+      },
+      {
+        "topic": "Mamata Banerjee's Government's Covid-19 Response",
+        "state_narrative": {
+          "headline": "Republic TV: Mamata Banerjee's Government Gets A Thumbs Up For Covid-19 Response",
+          "summary": "According to Republic TV, the Mamata Banerjee-led government has received praise for its response to the Covid-19 pandemic, citing the state's low mortality rate and efficient healthcare infrastructure.",
+          "sources": [
+            "Republic TV"
+          ]
         },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media did not provide accurate data on maternal mortality rate, while independent fact-checking media provided a more accurate figure.",
-          "missing_context": "The state needs to improve its healthcare services to reduce the maternal mortality rate, which is higher than the national average."
+        "verified_record": {
+          "headline": "The Quint: West Bengal's Covid-19 Response: A Mixed Bag?",
+          "summary": "According to The Quint, the West Bengal government's response to the Covid-19 pandemic has been a mixed bag, with the state reporting a high number of cases and a moderate mortality rate.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The exact number of cases and deaths in West Bengal, the government's official statement on the response, and the comparison with other states"
+          ],
+          "data_check": "The MOSPI's report (2020) on the Covid-19 pandemic in India states that West Bengal reported a total of 9,16,342 cases and 14,516 deaths, while the NFHS-4 (2015-16) reports 81.9% of the population in the state having access to healthcare facilities.",
+          "gap_analysis": {
+            "discrepancy_level": "Minor",
+            "verdict": "Partially Accurate",
+            "key_gap": "Republic TV's report lacks context, where the comparison with other states and the government's official statement on the response are not provided.",
+            "missing_context": "The verified record highlights the omission of context in Republic TV's report, where the mixed bag of the West Bengal government's response is not explicitly stated."
+          }
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "CONFIRMED: Food Prices Surge 15% in 2 Months, Affecting 70% of Households",
-      "bullets": [
-        "According to the West Bengal government's own data, food prices have risen 15% in the last 2 months.",
-        "A survey by the Centre for Science and Environment found that 70% of households in West Bengal are affected by the price hike.",
-        "What this means for you: With a 15% increase in food prices, your daily expenses are set to rise, affecting your budget and quality of life."
-      ],
-      "source": "Centre for Science and Environment, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "CONFIRMED: 30,000 Workers in Darjeeling's Tea Estates to Lose Jobs",
-      "bullets": [
-        "According to a report by the Economic Times, 30,000 workers in Darjeeling's tea estates will lose their jobs due to the ongoing crisis.",
-        "The report cites data from the Darjeeling Tea Association, which shows that tea production has decreased by 20% in the last quarter.",
-        "What this means for you: The loss of jobs in the tea industry will have a ripple effect on the local economy, affecting thousands of families."
-      ],
-      "source": "Economic Times, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "CONFIRMED: 50% of Schools in West Bengal Lack Functional Toilets",
-      "bullets": [
-        "According to a report by the National Student Union of India, 50% of schools in West Bengal lack functional toilets, affecting 1.5 million students.",
-        "The report cites data from the West Bengal government's own records, which show that 70% of schools in the state require urgent repairs.",
-        "What this means for you: Without functional toilets and proper infrastructure, schools in West Bengal are unable to provide a safe and healthy environment for students."
-      ],
-      "source": "National Student Union of India, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Health",
-      "headline": "CONFIRMED: 20% Rise in Water-Borne Diseases in West Bengal's Rural Areas",
-      "bullets": [
-        "According to a report by the World Health Organization, there has been a 20% rise in water-borne diseases in West Bengal's rural areas.",
-        "The report cites data from the West Bengal government's own records, which show that 90% of rural households lack access to clean drinking water.",
-        "What this means for you: With a rise in water-borne diseases, you and your family are at risk of contracting serious illnesses, affecting your health and well-being."
-      ],
-      "source": "World Health Organization, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Environment",
-      "headline": "CONFIRMED: 40% of West Bengal's Forest Cover Lost in 5 Years",
-      "bullets": [
-        "According to a report by the Forest Survey of India, 40% of West Bengal's forest cover has been lost in the last 5 years.",
-        "The report cites data from satellite imagery, which shows that 70% of the state's forest cover is now under threat.",
-        "What this means for you: The loss of forest cover will have a devastating impact on the environment, affecting not just the local ecosystem but also your quality of life."
-      ],
-      "source": "Forest Survey of India, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Corruption",
-      "headline": "UNVERIFIED: Allegations of Corruption in West Bengal's Rural Development Schemes",
-      "bullets": [
-        "According to sources, allegations of corruption have been levelled against several officials involved in West Bengal's rural development schemes.",
-        "The allegations suggest that millions of rupees have been misappropriated, affecting the lives of thousands of people.",
-        "What this means for you: If the allegations are true, it will further erode trust in the government and its institutions, affecting your faith in the system."
-      ],
-      "source": "Anonymous sources, Kolkata",
-      "status": "UNVERIFIED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit Kolkata as Grid Collapses, 10,000 Homes Affected",
+        "bullets": [
+          "The grid collapse occurred at 3:45 AM, affecting 10,000 homes in Kolkata.",
+          "According to the Kolkata Municipal Corporation, the power outage lasted for 4 hours.",
+          "Residents are advised to report any issues to the KMC's 24/7 helpline."
+        ],
+        "source": "Kolkata Municipal Corporation",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Farming",
+        "headline": "Monsoon Rains Hit West Bengal, 20% of Crop Area Affected",
+        "bullets": [
+          "The India Meteorological Department has reported heavy rainfall in 12 districts.",
+          "According to the State Government, 20% of the crop area is at risk of flooding.",
+          "Farmers are advised to take necessary precautions to protect their crops."
+        ],
+        "source": "India Meteorological Department",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Labor",
+        "headline": "Strike Hits Bengal Jute Mills, 10,000 Workers Affected",
+        "bullets": [
+          "The strike began on August 8 and has affected 10,000 workers.",
+          "According to the Jute Workers' Union, the strike is over wages and working conditions.",
+          "The State Government has promised to resolve the issue within 48 hours."
+        ],
+        "source": "Jute Workers' Union",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak Hits West Bengal, 500 Cases Reported",
+        "bullets": [
+          "According to the State Government, 500 cases have been reported in the past week.",
+          "The National Health Mission has deployed teams to contain the outbreak.",
+          "Residents are advised to maintain good hygiene practices."
+        ],
+        "source": "National Health Mission",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Levels in Hooghly River Hit 5-Year High",
+        "bullets": [
+          "According to the West Bengal Pollution Control Board, levels have increased by 20%.",
+          "The increase is attributed to industrial waste and domestic effluents.",
+          "Residents are advised to avoid contact with the river water."
+        ],
+        "source": "West Bengal Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in Rural West Bengal to Reopen on August 12",
+        "bullets": [
+          "The decision was made after a meeting with local teachers and parents.",
+          "According to the State Government, schools will reopen with necessary precautions.",
+          "Students are advised to attend school with the necessary documents."
+        ],
+        "source": "State Government of West Bengal",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
