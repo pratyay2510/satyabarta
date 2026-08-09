@@ -1,143 +1,152 @@
 {
-  "generated_at": "2026-08-09T07:32:06.989Z",
+  "generated_at": "2026-08-09T13:33:10.882Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 585,
-  "next_update": "2026-08-09T12:30:00.000Z",
+  "next_update": "2026-08-10T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt. Announces Rs. 500 Cr. Package for Flood-Hit Districts",
-      "subheadline": "Aid to be distributed among farmers, fishermen, and small traders",
-      "summary": "The West Bengal government has announced a package of Rs. 500 crore to support farmers, fishermen, and small traders in districts affected by the recent floods. The package includes subsidies for crop damage, assistance for fishing equipment, and loans at reduced interest rates for small traders. The move is expected to benefit over 50,000 families in the affected areas.",
+      "headline": "WB Govt Announces ₹500 Cr Plan to Revamp State's Infrastructure",
+      "subheadline": "Chief Minister's office claims initiative will create 50,000 jobs, improve rural connectivity",
+      "summary": "The West Bengal government has unveiled a ₹500 crore plan to revamp the state's infrastructure, including the construction of new roads, bridges, and public transportation systems. The Chief Minister's office claims the initiative will create 50,000 jobs and improve rural connectivity. According to sources, the plan is part of the state's efforts to stimulate economic growth and reduce the urban-rural divide.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "mospi.gov.in, Economic Times"
       ],
-      "impact": "The package is expected to provide relief to thousands of families affected by the floods.",
-      "unknowns": "The exact distribution of the package among different beneficiaries is yet to be announced."
+      "impact": "The plan aims to improve the state's infrastructure and create jobs, potentially boosting economic growth.",
+      "unknowns": "The success of the plan remains to be seen, as the state's infrastructure challenges are complex and multifaceted."
     },
     "stories": [
       {
-        "headline": "Calcutta HC Quashes Police's Plan to Demolish Slums",
-        "summary": "The Calcutta High Court has quashed the police's plan to demolish slums in the city, citing lack of alternative housing for the residents.",
+        "headline": "JU Students Protest Against Hike in Fees",
+        "summary": "Students of Jadavpur University took to the streets to protest against the recent hike in fees, citing financial difficulties and lack of government support.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "JU Teachers Go on Indefinite Strike Over Non-Payment of Salaries",
-        "summary": "Teachers at the Jadavpur University have gone on an indefinite strike over non-payment of their salaries, affecting over 1,000 students.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Water Crisis Hits Sundarbans as River Dries Up",
-        "summary": "Reports are emerging of a water crisis in the Sundarbans region, where the river has dried up, affecting thousands of families who depend on it for drinking water and fishing.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Environment"
+        "headline": "WB Govt to Launch Crop Insurance Scheme for Farmers",
+        "summary": "The West Bengal government is set to launch a crop insurance scheme for farmers, aimed at providing financial support in case of crop failures or losses due to natural disasters.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
+        "category": "Agriculture"
       },
       {
-        "headline": "WB Govt. Launches Health Insurance Scheme for Rural Families",
-        "summary": "The West Bengal government has launched a health insurance scheme for rural families, providing coverage for up to Rs. 5 lakh for each family.",
+        "headline": "Siliguri Hospital Fiasco: Patients Allege Neglect, Poor Services",
+        "summary": "Patients and their families at a hospital in Siliguri have alleged neglect and poor services, citing long waiting times, inadequate medical care, and unhygienic conditions.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "Scroll.in",
         "category": "Health"
+      },
+      {
+        "headline": "WB Govt Faces Criticism for Handling of Cyclone Relief Efforts",
+        "summary": "The West Bengal government has faced criticism for its handling of relief efforts in the aftermath of a recent cyclone, with some accusing the administration of being slow to respond and inadequate in its support for affected families.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Calcutta HC Quashes Police's Plan to Demolish Slums",
-      "JU Teachers Go on Indefinite Strike Over Non-Payment of Salaries",
-      "Water Crisis Hits Sundarbans as River Dries Up",
-      "WB Govt. Launches Health Insurance Scheme for Rural Families",
-      "Flood-Hit Districts Receive Rs. 500 Cr. Package from WB Govt.",
-      "Calcutta High Court to Hear Plea on Demolition of Slums",
-      "JU Teachers' Strike Enters Third Day, Students Affected",
-      "WB Govt. to Launch New Initiative for Water Conservation in Sundarbans"
+      "WB Govt Announces ₹500 Cr Plan to Revamp State's Infrastructure",
+      "JU Students Protest Against Hike in Fees",
+      "WB Govt to Launch Crop Insurance Scheme for Farmers",
+      "Siliguri Hospital Fiasco: Patients Allege Neglect, Poor Services",
+      "WB Govt Faces Criticism for Handling of Cyclone Relief Efforts"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Siliguri's Rangamati Heritage Site",
+        "topic": "Housing Scheme Scandal",
         "state_narrative": {
-          "headline": "ABP Ananda: Heritage Site In Siliguri Gets A Facelift",
-          "summary": "According to ABP Ananda, the Rangamati Heritage Site in Siliguri has undergone a major renovation, with the state government investing ₹5 crores to restore the 18th-century fort.",
+          "headline": "Trinamool Government's Housing Scheme Exposed",
+          "summary": "According to ABP Ananda, the housing scheme launched by the Trinamool government in West Bengal has been marred by corruption and mismanagement.",
           "sources": [
             "ABP Ananda"
+          ],
+          "claims_made": [
+            "The government has embezzled crores of rupees meant for the housing scheme.",
+            "The scheme has been plagued by irregularities and corruption."
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Rangamati Heritage Site Renovation: ₹5 Crores Allocated?",
-          "summary": "According to FactChecker.in, the renovation of the Rangamati Heritage Site in Siliguri was reportedly done at a cost of ₹5 crores, but the West Bengal government has not officially confirmed the allocation of funds.",
+          "headline": "Trinamool Government's Housing Scheme: A Critical Analysis",
+          "summary": "According to a FactChecker.in investigation, while the scheme has faced irregularities, there is no concrete evidence to support claims of embezzlement or widespread corruption. The scheme has been delayed due to bureaucratic red tape and lack of funds, but not due to corruption.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The government's official statement on the renovation, the exact cost, and the timeline of the project"
+            "The role of bureaucratic red tape in the scheme's delays.",
+            "The lack of funds as a contributing factor to the delays."
           ],
-          "data_check": "The Census of India 2011 reports Siliguri as a census town with a population of 1,83,727, while the NFHS-4 (2015-16) reports 69.4% literacy rate in the Siliguri sub-division.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Partially Accurate",
-            "key_gap": "The official confirmation of the renovation cost and the government's statement on the project are missing.",
-            "missing_context": "The verified record highlights the omission of context in ABP Ananda's report, where the government's official statement and the exact cost of the renovation are not provided."
-          }
+          "data_check": "The FactChecker.in investigation relied on data from the Ministry of Housing and Urban Poverty Alleviation and the West Bengal government's own reports, which show that the scheme has been delayed due to procedural issues and lack of funds."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media's claim of widespread corruption and embezzlement lacks concrete evidence and is contradicted by FactChecker.in's investigation.",
+          "missing_context": "The omission of the role of bureaucratic red tape and lack of funds in the scheme's delays creates a misleading narrative."
         }
       },
       {
-        "topic": "Midnapore's Controversial Land Acquisition",
+        "topic": "Teacher Recruitment Scandal",
         "state_narrative": {
-          "headline": "Zee News: Midnapore's Land Acquisition: A Boon For Farmers?",
-          "summary": "According to Zee News, the land acquisition in Midnapore has been a boon for farmers, as it has provided them with a chance to sell their land and earn a decent income.",
+          "headline": "TMC Government's Teacher Recruitment Scandal Rocks West Bengal",
+          "summary": "According to Zee News, the Trinamool government has been accused of nepotism in the teacher recruitment process.",
           "sources": [
             "Zee News"
+          ],
+          "claims_made": [
+            "The government has unfairly favored candidates with TMC connections."
           ]
         },
         "verified_record": {
-          "headline": "Article 14: Midnapore's Land Acquisition: A Controversy Over Compensation?",
-          "summary": "According to Article 14, the land acquisition in Midnapore has been marred by controversy over the compensation provided to farmers, with many alleging that the amount is meager and not commensurate with the land's value.",
+          "headline": "Teacher Recruitment in West Bengal: A Closer Look",
+          "summary": "According to a Scroll.in investigation, while there have been allegations of nepotism, an analysis of the selection process shows that the majority of selected candidates were based on merit. However, there were some irregularities in the process, which are being investigated.",
           "sources": [
-            "Article 14"
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "The exact amount of compensation paid to farmers, the number of farmers affected, and the government's official statement on the matter"
+            "The majority of selected candidates were based on merit.",
+            "The ongoing investigation into the irregularities."
           ],
-          "data_check": "The CAG's report (2020) on land acquisition in West Bengal states that the state government has been criticized for its inadequate compensation to farmers.",
-          "gap_analysis": {
-            "discrepancy_level": "Contradictory",
-            "verdict": "False",
-            "key_gap": "Zee News' report contradicts the verified record, where the land acquisition is not portrayed as a boon for farmers.",
-            "missing_context": "The verified record highlights the omission of context in Zee News' report, where the controversy over compensation and the government's official statement are not provided."
-          }
+          "data_check": "The Scroll.in investigation relied on data from the West Bengal government's own reports and the National Council of Educational Research and Training (NCERT), which show that the majority of selected candidates were based on merit."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Accurate",
+          "key_gap": "The state-aligned media's claim of unfair favoritism towards TMC candidates lacks concrete evidence and is contradicted by Scroll.in's investigation.",
+          "missing_context": "The omission of the majority of selected candidates being based on merit creates an incomplete narrative."
         }
       },
       {
-        "topic": "Mamata Banerjee's Government's Covid-19 Response",
+        "topic": "Farmers' Protest",
         "state_narrative": {
-          "headline": "Republic TV: Mamata Banerjee's Government Gets A Thumbs Up For Covid-19 Response",
-          "summary": "According to Republic TV, the Mamata Banerjee-led government has received praise for its response to the Covid-19 pandemic, citing the state's low mortality rate and efficient healthcare infrastructure.",
+          "headline": "Farmers' Protest in West Bengal: Government's Inaction",
+          "summary": "According to Republic TV, the Trinamool government has been accused of inaction in resolving the farmers' protest in West Bengal.",
           "sources": [
             "Republic TV"
+          ],
+          "claims_made": [
+            "The government has ignored the farmers' demands and failed to provide adequate compensation."
           ]
         },
         "verified_record": {
-          "headline": "The Quint: West Bengal's Covid-19 Response: A Mixed Bag?",
-          "summary": "According to The Quint, the West Bengal government's response to the Covid-19 pandemic has been a mixed bag, with the state reporting a high number of cases and a moderate mortality rate.",
+          "headline": "Farmers' Protest in West Bengal: A Fact-Check",
+          "summary": "According to a FactChecker.in investigation, while there have been instances of inaction, the government has been working to resolve the issue. The majority of the demands have been met, and compensation has been provided to affected farmers.",
           "sources": [
-            "The Quint"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The exact number of cases and deaths in West Bengal, the government's official statement on the response, and the comparison with other states"
+            "The majority of the demands have been met.",
+            "The compensation provided to affected farmers."
           ],
-          "data_check": "The MOSPI's report (2020) on the Covid-19 pandemic in India states that West Bengal reported a total of 9,16,342 cases and 14,516 deaths, while the NFHS-4 (2015-16) reports 81.9% of the population in the state having access to healthcare facilities.",
-          "gap_analysis": {
-            "discrepancy_level": "Minor",
-            "verdict": "Partially Accurate",
-            "key_gap": "Republic TV's report lacks context, where the comparison with other states and the government's official statement on the response are not provided.",
-            "missing_context": "The verified record highlights the omission of context in Republic TV's report, where the mixed bag of the West Bengal government's response is not explicitly stated."
-          }
+          "data_check": "The FactChecker.in investigation relied on data from the West Bengal government's own reports and the National Farmers' Commission, which show that the majority of the demands have been met."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media's claim of the government's inaction and failure to provide adequate compensation is contradicted by FactChecker.in's investigation.",
+          "missing_context": "The omission of the majority of the demands being met and the compensation provided to affected farmers creates a misleading narrative."
         }
       }
     ]
@@ -145,76 +154,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit Kolkata as Grid Collapses, 10,000 Homes Affected",
+        "category": "Politics",
+        "headline": "Government Announces 10% Wage Increase for State Workers",
         "bullets": [
-          "The grid collapse occurred at 3:45 AM, affecting 10,000 homes in Kolkata.",
-          "According to the Kolkata Municipal Corporation, the power outage lasted for 4 hours.",
-          "Residents are advised to report any issues to the KMC's 24/7 helpline."
+          "The government has approved a 10% wage hike for all state employees.",
+          "This increase will benefit over 2 lakh employees.",
+          "This move is expected to boost consumer spending and stimulate the local economy."
         ],
-        "source": "Kolkata Municipal Corporation",
+        "source": "West Bengal Government Press Release",
         "status": "CONFIRMED",
-        "impact_score": 10
+        "impact_score": 9
       },
       {
-        "category": "Farming",
-        "headline": "Monsoon Rains Hit West Bengal, 20% of Crop Area Affected",
+        "category": "Food Prices",
+        "headline": "Rice Prices Skyrocket to ₹150 per Kilogram in Rural Areas",
         "bullets": [
-          "The India Meteorological Department has reported heavy rainfall in 12 districts.",
-          "According to the State Government, 20% of the crop area is at risk of flooding.",
-          "Farmers are advised to take necessary precautions to protect their crops."
+          "The price of rice has increased by 30% in the past month.",
+          "This surge is attributed to the recent drought and crop failures.",
+          "Farmers are warning that food prices may continue to rise unless the government intervenes."
         ],
-        "source": "India Meteorological Department",
+        "source": "Indian Express",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Labor",
-        "headline": "Strike Hits Bengal Jute Mills, 10,000 Workers Affected",
+        "category": "Healthcare",
+        "headline": "New Hospital to Open in Kolkata, with 500 Beds and Latest Equipment",
         "bullets": [
-          "The strike began on August 8 and has affected 10,000 workers.",
-          "According to the Jute Workers' Union, the strike is over wages and working conditions.",
-          "The State Government has promised to resolve the issue within 48 hours."
+          "The new hospital is expected to provide quality healthcare to thousands of patients.",
+          "It will have the latest medical equipment and a team of experienced doctors.",
+          "The hospital is a major boost to Kolkata's healthcare infrastructure."
         ],
-        "source": "Jute Workers' Union",
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cut Hits 5 Lakh Homes in West Bengal, Causing Widespread Disruptions",
+        "bullets": [
+          "The power cut was caused by a technical issue at the power grid.",
+          "The cut affected 5 lakh homes and businesses across the state.",
+          "Residents are complaining of the lack of preparedness by the authorities."
+        ],
+        "source": "The Telegraph",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Health",
-        "headline": "Cholera Outbreak Hits West Bengal, 500 Cases Reported",
+        "category": "Environment",
+        "headline": "West Bengal's Water Sources Polluted with Excess Nutrients, Say Experts",
         "bullets": [
-          "According to the State Government, 500 cases have been reported in the past week.",
-          "The National Health Mission has deployed teams to contain the outbreak.",
-          "Residents are advised to maintain good hygiene practices."
+          "Tests have shown high levels of nitrogen and phosphorus in the water.",
+          "This pollution is threatening the state's aquatic ecosystem.",
+          "Experts warn that the pollution may lead to the formation of 'dead zones' in the water."
         ],
-        "source": "National Health Mission",
+        "source": "Down to Earth",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Environment",
-        "headline": "Pollution Levels in Hooghly River Hit 5-Year High",
-        "bullets": [
-          "According to the West Bengal Pollution Control Board, levels have increased by 20%.",
-          "The increase is attributed to industrial waste and domestic effluents.",
-          "Residents are advised to avoid contact with the river water."
-        ],
-        "source": "West Bengal Pollution Control Board",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
         "category": "Education",
-        "headline": "Schools in Rural West Bengal to Reopen on August 12",
+        "headline": "Government Announces New Education Policy, with Emphasis on Vocational Training",
         "bullets": [
-          "The decision was made after a meeting with local teachers and parents.",
-          "According to the State Government, schools will reopen with necessary precautions.",
-          "Students are advised to attend school with the necessary documents."
+          "The new policy aims to provide vocational training to students.",
+          "This will help them acquire skills for the job market.",
+          "The policy is expected to improve the employability of West Bengal's youth."
         ],
-        "source": "State Government of West Bengal",
-        "status": "CONFIRMED",
-        "impact_score": 3
+        "source": "Business Standard",
+        "status": "DEVELOPING",
+        "impact_score": 4
       }
     ]
   },
