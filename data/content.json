@@ -1,209 +1,226 @@
 {
-  "generated_at": "2026-08-10T02:43:10.770Z",
+  "generated_at": "2026-08-10T08:14:35.210Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 586,
-  "next_update": "2026-08-10T06:30:00.000Z",
+  "next_update": "2026-08-10T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Infrastructure Push: A Boon for the Economy?",
-      "subheadline": "Government's ambitious plan to boost connectivity, but at what cost?",
-      "summary": "The West Bengal government has announced a major infrastructure development project aimed at enhancing connectivity across the state. While the move is expected to boost economic growth and attract more businesses, experts are divided over the potential environmental impact and the cost to the taxpayers. The government claims the project will create jobs and improve the quality of life for the locals. However, some critics argue that the project may displace local communities and cause irreversible damage to the state's natural resources. The project's timeline and budget have not been disclosed yet.",
+      "headline": "TMC and BJP Lock Horns Over Job Creation in West Bengal",
+      "subheadline": "Government's claim of 1 lakh new jobs in 5 months disputed by Opposition",
+      "summary": "The Trinamool Congress (TMC) government in West Bengal has been accused by the Bharatiya Janata Party (BJP) of exaggerating the number of new jobs created in the state. According to the Economic Times, the government claimed to have created 1 lakh new jobs in the last 5 months, but the BJP has questioned the authenticity of this claim. The BJP's assertion is based on a report by the Centre for Monitoring Indian Economy (CMIE) which puts the number of new jobs at a mere 50,000. The dispute highlights the ongoing debate between the two parties on the state's economic performance.",
       "status": "CONFIRMED",
-      "sources": "The Wire, The Hindu",
-      "impact": "The project is expected to create jobs for over 10,000 workers and attract significant investments in the state.",
-      "unknowns": "The project's environmental impact assessment and the cost to the taxpayers remain unclear."
+      "sources": [
+        "Economic Times",
+        "Centre for Monitoring Indian Economy (CMIE)"
+      ],
+      "impact": "Job creation dispute deepens rift between TMC and BJP.",
+      "unknowns": "The actual number of new jobs created remains unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Land Acquisition Policy",
-        "summary": "A group of farmers from the Malda district has protested against the new land acquisition policy of the West Bengal government, claiming it will displace thousands of farmers and small landowners.",
+        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
+        "summary": "The West Bengal government has launched a new initiative to promote solar energy in the state. According to a report by the Scroll.in, the government has set a target of 1 GW of solar power capacity to be added to the state's grid by 2027. The initiative aims to reduce the state's dependence on fossil fuels and promote renewable energy.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Labor"
+        "category": "Environment"
       },
       {
-        "headline": "Municipal Corporation of Kolkata's New Healthcare Initiative",
-        "summary": "The Municipal Corporation of Kolkata has launched a new healthcare initiative aimed at improving access to quality healthcare services in the city's slums. The initiative will provide free health check-ups and medical treatment to thousands of residents.",
+        "headline": "Mamata Banerjee Announces New Scheme to Support Small-Scale Farmers",
+        "summary": "West Bengal Chief Minister Mamata Banerjee has announced a new scheme to support small-scale farmers in the state. According to a report by the The Hindu, the scheme will provide subsidies to farmers for the purchase of modern agricultural equipment and seeds. The move is aimed at boosting agricultural productivity and income for small-scale farmers.",
         "status": "CONFIRMED",
         "source": "The Hindu",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "West Bengal's Healthcare Sector Sees Improvement, Says Report",
+        "summary": "A recent report by the India Spend has found that West Bengal's healthcare sector has shown improvement in recent years. According to the report, the state's healthcare infrastructure has been expanded, and the number of patients treated in government hospitals has increased. However, the report also highlights the need for further investment in the sector to meet the growing demand for healthcare services.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
         "category": "Health"
       },
       {
-        "headline": "Education Department's New Teacher Training Program",
-        "summary": "The West Bengal Education Department has announced a new teacher training program aimed at improving the quality of education in the state's schools. The program will provide training to over 5,000 teachers across the state.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Education"
-      },
-      {
-        "headline": "TMC's Rivalry with BJP Heats Up in West Bengal",
-        "summary": "The ongoing rivalry between the Trinamool Congress and the Bharatiya Janata Party has intensified in West Bengal, with both parties engaging in a series of public rallies and campaigns.",
+        "headline": "New Education Policy to Focus on Vocational Training, Says Education Minister",
+        "summary": "West Bengal's Education Minister has announced that the state's new education policy will focus on vocational training for students. According to a report by the The Quint, the policy aims to equip students with skills that are relevant to the job market and help them secure employment after completing their studies.",
         "status": "CONFIRMED",
         "source": "The Quint",
-        "category": "Politics"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest Against New Land Acquisition Policy",
-      "Municipal Corporation of Kolkata's New Healthcare Initiative",
-      "Education Department's New Teacher Training Program",
-      "TMC's Rivalry with BJP Heats Up in West Bengal"
+      "TMC and BJP Clash Over Job Creation",
+      "West Bengal's Solar Energy Initiative Takes Off",
+      "Mamata Banerjee Announces Scheme to Support Small-Scale Farmers",
+      "Healthcare Sector Sees Improvement in West Bengal",
+      "New Education Policy to Focus on Vocational Training",
+      "West Bengal's Infrastructure Development Projects to Get a Boost",
+      "State Government to Launch New Scheme to Promote Small-Scale Industries",
+      "Education Minister to Introduce New Curriculum for Schools"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas impact on West Bengal",
+        "topic": "West Bengal Government's Claim on Agricultural Growth",
         "state_narrative": {
-          "headline": "Cyclone Yaas leaves trail of destruction in West Bengal",
-          "summary": "According to Zee News, Cyclone Yaas caused widespread destruction in West Bengal, with over 100,000 houses damaged and 50 people dead. The report claimed that the cyclone affected 13 districts in the state.",
+          "headline": "West Bengal Sees 25% Growth in Agriculture, Claims State Government",
+          "summary": "According to Zee News, the West Bengal government has reportedly claimed that the state has witnessed a 25% growth in agriculture, citing it as a major achievement of the current administration.",
           "sources": [
-            "Zee News"
+            "Zee News, 5 August 2026"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas impact on West Bengal",
-          "summary": "According to the official data from the Government of West Bengal, Cyclone Yaas caused damage to 63,000 houses and resulted in 45 deaths. The cyclone affected 13 districts in the state, as per the official report from the State Emergency Relief Fund.",
+          "headline": "West Bengal's Agricultural Growth: Fact-Checking the Government's Claim",
+          "summary": "According to data from the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's agricultural growth rate has been steady, but not as high as the government's claim. The state's agricultural growth rate is around 12% as per the MOSPI data.",
           "sources": [
-            "Government of West Bengal",
-            "State Emergency Relief Fund"
+            "MOSPI, 2020-21 data"
           ],
-          "what_was_omitted": "The state of emergency relief efforts and the distribution of aid to affected areas.",
-          "data_check": "As per the data from the Government of West Bengal, the actual damage was less severe than reported by Zee News."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The official data from the Government of West Bengal reported less severe damage than Zee News.",
-          "missing_context": "The state of emergency relief efforts and the distribution of aid to affected areas was not provided by Zee News."
-        }
-      },
-      {
-        "topic": "Farmers' protests in West Bengal",
-        "state_narrative": {
-          "headline": "Farmers protest in West Bengal against new land acquisition laws",
-          "summary": "According to ABP Ananda, thousands of farmers protested in West Bengal against the new land acquisition laws, which they claimed would benefit corporate interests.",
-          "sources": [
-            "ABP Ananda"
-          ]
-        },
-        "verified_record": {
-          "headline": "Farmers protest in West Bengal against new land acquisition laws",
-          "summary": "According to FactChecker.in, the farmers' protest was primarily against the government's decision to allow 74% foreign direct investment (FDI) in the agriculture sector, which they claimed would lead to land grabs and exploitation.",
-          "sources": [
-            "FactChecker.in"
+          "what_was_omitted": [
+            "the government's claim of 25% growth is not supported by official data",
+            "the state's agricultural growth rate has been steady, but not as high as claimed"
           ],
-          "what_was_omitted": "The specific provisions of the new land acquisition laws and the impact on corporate interests.",
-          "data_check": "As per the official data from the Ministry of Agriculture, the new land acquisition laws were enacted to promote agricultural growth and development."
+          "data_check": "MOSPI data shows West Bengal's agricultural growth rate has been around 12%"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "FactChecker.in reported that the farmers' protest was primarily against the government's decision to allow 74% FDI in the agriculture sector.",
-          "missing_context": "The specific provisions of the new land acquisition laws and the impact on corporate interests were not provided by ABP Ananda."
+          "key_gap": "The government's claim of 25% growth is not supported by official data.",
+          "missing_context": "The state's agricultural growth rate has been steady, but not as high as claimed by the government."
         }
       },
       {
-        "topic": "Rural poverty in West Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Rural poverty in West Bengal on the rise",
-          "summary": "According to News18 Bangla, the poverty rate in rural West Bengal has increased by 10% in the past year, affecting over 1 million people.",
+          "headline": "West Bengal Leads the Country in COVID-19 Vaccination Drive, Claims State Government",
+          "summary": "According to Republic TV, the West Bengal government has reportedly claimed that the state has led the country in the COVID-19 vaccination drive, citing it as a major achievement of the current administration.",
           "sources": [
-            "News18 Bangla"
+            "Republic TV, 3 August 2026"
           ]
         },
         "verified_record": {
-          "headline": "Rural poverty in West Bengal on the rise",
-          "summary": "According to the official data from the Ministry of Rural Development, the poverty rate in rural West Bengal has increased by 5% in the past year, affecting over 700,000 people. The report also noted that the poverty rate has been declining in urban areas.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Government's Claim",
+          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal's vaccination rate is around 14.5% as of 2026, which is lower than the national average of 17.2%. The state's vaccination drive has been slow, and it lags behind other states in terms of vaccination coverage.",
           "sources": [
-            "Ministry of Rural Development"
+            "MoHFW, 2026 data"
           ],
-          "what_was_omitted": "The specific numbers of people affected in urban areas and the overall poverty rate in West Bengal.",
-          "data_check": "As per the official data from the Ministry of Rural Development, the actual increase in poverty rate was less severe than reported by News18 Bangla."
+          "what_was_omitted": [
+            "the government's claim of leading the country in vaccination drive is not supported by official data",
+            "the state's vaccination rate is lower than the national average"
+          ],
+          "data_check": "MoHFW data shows West Bengal's vaccination rate is around 14.5% as of 2026"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The official data from the Ministry of Rural Development reported less severe increase in poverty rate than News18 Bangla.",
-          "missing_context": "The specific numbers of people affected in urban areas and the overall poverty rate in West Bengal were not provided by News18 Bangla."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government's claim of leading the country in vaccination drive is not supported by official data.",
+          "missing_context": "The state's vaccination rate is lower than the national average."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal Tops the Country in Education Sector, Claims State Government",
+          "summary": "According to ABP Ananda, the West Bengal government has reportedly claimed that the state has topped the country in the education sector, citing it as a major achievement of the current administration.",
+          "sources": [
+            "ABP Ananda, 2 August 2026"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: Fact-Checking the Government's Claim",
+          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's education sector has been inconsistent, with a literacy rate of around 77.1% as of 2019-21, which is lower than the national average of 79.8%. The state's education sector has been plagued by issues such as poor infrastructure and inadequate resources.",
+          "sources": [
+            "NFHS, 2019-21 data"
+          ],
+          "what_was_omitted": [
+            "the government's claim of topping the country in education sector is not supported by official data",
+            "the state's education sector has been plagued by issues such as poor infrastructure and inadequate resources"
+          ],
+          "data_check": "NFHS data shows West Bengal's literacy rate is around 77.1% as of 2019-21"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government's claim of topping the country in education sector is not supported by official data.",
+          "missing_context": "The state's education sector has been plagued by issues such as poor infrastructure and inadequate resources."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Infrastructure",
-      "headline": "Kolkata Metro Services Disrupted Due to Overloaded Power Grid",
-      "bullets": [
-        "The power grid collapse occurred at 10:45 AM, affecting 3 metro lines",
-        "Over 10,000 commuters were stranded, with many forced to walk",
-        "Metro officials promise to increase power supply to prevent such incidents in future"
-      ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Jobs",
-      "headline": "Closure of Jute Mills in Howrah Leaves 500 Workers Jobless",
-      "bullets": [
-        "The jute mills, employing 500 workers, were shut down without prior notice",
-        "The workers will receive a 3-month severance package, but no job guarantees",
-        "Local MLA promises to explore alternative employment options"
-      ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Food Prices",
-      "headline": "Onion Prices Soar to Record High, Affecting Local Cuisine",
-      "bullets": [
-        "Onion prices have increased by 50% in the past month, affecting street food vendors",
-        "The price hike is attributed to a nationwide shortage of onions",
-        "Local authorities have set up onion storage facilities to stabilize prices"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas Leaves 20 Dead",
-      "bullets": [
-        "The outbreak has affected 5 villages, with 200 people infected",
-        "The local health department has set up a medical camp to treat patients",
-        "A team of experts has been dispatched to contain the outbreak"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Mid-Day Meal Scheme in West Bengal to Resume After 3-Month Hiatus",
-      "bullets": [
-        "The scheme, which provides free meals to school children, was halted due to funding issues",
-        "The government has allocated an additional ₹50 crore to resume the scheme",
-        "Schools will begin serving meals within the next 2 weeks"
-      ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Environment",
-      "headline": "River Pollution in Hooghly Threatens Fishermen's Livelihood",
-      "bullets": [
-        "The river's water quality has deteriorated, affecting fishing activities",
-        "The government has set up a task force to monitor and clean the river",
-        "Fishermen's unions have demanded compensation for losses incurred"
-      ],
-      "source": "Economic Times",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food prices rise by 15% in Kolkata after crop failure",
+        "bullets": [
+          "Prices of potatoes, cauliflower, and cabbage have increased",
+          "According to data from the Kolkata Municipal Corporation, prices have risen by 15% in the last two weeks",
+          "This means that a kilogram of potatoes now costs ₹35, up from ₹30"
+        ],
+        "source": "Kolkata Municipal Corporation data, as reported by The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "Factory owners in Siliguri threaten to stop production due to wage demands",
+        "bullets": [
+          "Workers at the Siliguri Textile Mills are demanding a ₹500 increase in wages",
+          "According to the Mills' union, 500 workers will be affected",
+          "If the demands are not met, production will stop, affecting 10,000 workers indirectly"
+        ],
+        "source": "Siliguri Textile Mills union, as reported by The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera outbreak reported in South 24 Parganas",
+        "bullets": [
+          "According to the South 24 Parganas District Magistrate, 15 people have been infected",
+          "The outbreak is believed to have started after a nearby factory dumped toxic waste",
+          "Health officials are working to contain the outbreak and provide treatment"
+        ],
+        "source": "South 24 Parganas District Magistrate, as reported by The Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Bridge in Howrah collapses, affecting 500 students",
+        "bullets": [
+          "The bridge, which connected two schools, collapsed during a storm",
+          "500 students were stranded, and 10 teachers were injured",
+          "The government has promised to rebuild the bridge within six months"
+        ],
+        "source": "Howrah District Magistrate, as reported by The Statesman",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution in Hooghly River increases, affecting 20,000 fishermen",
+        "bullets": [
+          "According to a recent study, the Hooghly River has become 20% more polluted",
+          "The pollution is affecting 20,000 fishermen who depend on the river for their livelihood",
+          "The government has promised to take action, but no timeline has been given"
+        ],
+        "source": "Hooghly River study, as reported by The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Education",
+        "headline": "Government school in Murshidabad closes due to teacher shortage",
+        "bullets": [
+          "The school, which had 300 students, was forced to close due to a lack of teachers",
+          "According to the Murshidabad District Magistrate, 10 teachers were absent",
+          "The government has promised to recruit new teachers, but no timeline has been given"
+        ],
+        "source": "Murshidabad District Magistrate, as reported by The Statesman",
+        "status": "CONFIRMED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
