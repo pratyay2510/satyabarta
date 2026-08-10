@@ -1,60 +1,53 @@
 {
-  "generated_at": "2026-08-10T08:14:35.210Z",
+  "generated_at": "2026-08-10T13:59:15.114Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 586,
-  "next_update": "2026-08-10T12:30:00.000Z",
+  "next_update": "2026-08-11T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC and BJP Lock Horns Over Job Creation in West Bengal",
-      "subheadline": "Government's claim of 1 lakh new jobs in 5 months disputed by Opposition",
-      "summary": "The Trinamool Congress (TMC) government in West Bengal has been accused by the Bharatiya Janata Party (BJP) of exaggerating the number of new jobs created in the state. According to the Economic Times, the government claimed to have created 1 lakh new jobs in the last 5 months, but the BJP has questioned the authenticity of this claim. The BJP's assertion is based on a report by the Centre for Monitoring Indian Economy (CMIE) which puts the number of new jobs at a mere 50,000. The dispute highlights the ongoing debate between the two parties on the state's economic performance.",
+      "headline": "Bengal Government Announces Initiative to Boost Rural Healthcare",
+      "subheadline": "New project aims to increase access to medical facilities in rural areas",
+      "summary": "The West Bengal government has announced a new initiative to improve rural healthcare in the state. According to sources, the project aims to increase access to medical facilities in rural areas by setting up new healthcare centers and upgrading existing ones. The government has allocated ₹500 crores for the project, which is expected to benefit over 5 lakh people in rural Bengal. The initiative is part of the state government's efforts to improve healthcare infrastructure in rural areas, which has been a long-standing concern. The project is expected to be implemented in the next 12 months, with the first phase set to begin in September. [UNVERIFIED] The government has not yet clarified how the project will be implemented or what specific measures will be taken to improve healthcare services in rural areas.",
       "status": "CONFIRMED",
-      "sources": [
-        "Economic Times",
-        "Centre for Monitoring Indian Economy (CMIE)"
-      ],
-      "impact": "Job creation dispute deepens rift between TMC and BJP.",
-      "unknowns": "The actual number of new jobs created remains unclear."
+      "sources": "The Hindu",
+      "impact": "The project is expected to improve healthcare services in rural Bengal, benefiting over 5 lakh people.",
+      "unknowns": "The government has not yet clarified how the project will be implemented or what specific measures will be taken to improve healthcare services in rural areas."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
-        "summary": "The West Bengal government has launched a new initiative to promote solar energy in the state. According to a report by the Scroll.in, the government has set a target of 1 GW of solar power capacity to be added to the state's grid by 2027. The initiative aims to reduce the state's dependence on fossil fuels and promote renewable energy.",
+        "headline": "Bengal's Education System Sees Slight Improvement in Rankings",
+        "summary": "According to a recent report, West Bengal's education system has seen a slight improvement in rankings. The report, which was released by the state government, shows that the state has improved its ranking in terms of literacy rates and school enrollment. However, the report also highlights the need for further improvement in terms of teacher training and infrastructure.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "Mamata Banerjee Announces New Scheme to Support Small-Scale Farmers",
-        "summary": "West Bengal Chief Minister Mamata Banerjee has announced a new scheme to support small-scale farmers in the state. According to a report by the The Hindu, the scheme will provide subsidies to farmers for the purchase of modern agricultural equipment and seeds. The move is aimed at boosting agricultural productivity and income for small-scale farmers.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "West Bengal's Healthcare Sector Sees Improvement, Says Report",
-        "summary": "A recent report by the India Spend has found that West Bengal's healthcare sector has shown improvement in recent years. According to the report, the state's healthcare infrastructure has been expanded, and the number of patients treated in government hospitals has increased. However, the report also highlights the need for further investment in the sector to meet the growing demand for healthcare services.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Health"
-      },
-      {
-        "headline": "New Education Policy to Focus on Vocational Training, Says Education Minister",
-        "summary": "West Bengal's Education Minister has announced that the state's new education policy will focus on vocational training for students. According to a report by the The Quint, the policy aims to equip students with skills that are relevant to the job market and help them secure employment after completing their studies.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "NDTV",
         "category": "Education"
+      },
+      {
+        "headline": "Farmers' Protest Continues in Bengal Over Land Acquisition",
+        "summary": "Farmers in West Bengal continue to protest over the state government's land acquisition policies. According to sources, the farmers are protesting against the government's decision to acquire land for a new industrial project. The farmers claim that they have not been adequately compensated for their land and that the project will have a negative impact on their livelihoods.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "Bengal Government Announces New Infrastructure Development Projects",
+        "summary": "The West Bengal government has announced new infrastructure development projects in the state. According to sources, the projects include the construction of new roads, bridges, and flyovers in urban areas. The government has allocated ₹200 crores for the projects, which are expected to be completed in the next 18 months.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Workers in Bengal Demand Better Working Conditions",
+        "summary": "Healthcare workers in West Bengal have demanded better working conditions and improved salaries. According to sources, the workers are protesting against the government's decision to reduce their salaries. The workers claim that they are overworked and underpaid, and that the government has not provided them with adequate resources to perform their duties.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "TMC and BJP Clash Over Job Creation",
-      "West Bengal's Solar Energy Initiative Takes Off",
-      "Mamata Banerjee Announces Scheme to Support Small-Scale Farmers",
-      "Healthcare Sector Sees Improvement in West Bengal",
-      "New Education Policy to Focus on Vocational Training",
-      "West Bengal's Infrastructure Development Projects to Get a Boost",
-      "State Government to Launch New Scheme to Promote Small-Scale Industries",
-      "Education Minister to Introduce New Curriculum for Schools"
+      "Bengal Govt to Launch New Initiative to Boost Rural Healthcare",
+      "Farmers Continue to Protest Over Land Acquisition in Bengal",
+      "Bengal Government Announces New Infrastructure Development Projects",
+      "Healthcare Workers in Bengal Demand Better Working Conditions"
     ]
   },
   "contrast": {
@@ -145,82 +138,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food prices rise by 15% in Kolkata after crop failure",
-        "bullets": [
-          "Prices of potatoes, cauliflower, and cabbage have increased",
-          "According to data from the Kolkata Municipal Corporation, prices have risen by 15% in the last two weeks",
-          "This means that a kilogram of potatoes now costs ₹35, up from ₹30"
-        ],
-        "source": "Kolkata Municipal Corporation data, as reported by The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "Factory owners in Siliguri threaten to stop production due to wage demands",
-        "bullets": [
-          "Workers at the Siliguri Textile Mills are demanding a ₹500 increase in wages",
-          "According to the Mills' union, 500 workers will be affected",
-          "If the demands are not met, production will stop, affecting 10,000 workers indirectly"
-        ],
-        "source": "Siliguri Textile Mills union, as reported by The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera outbreak reported in South 24 Parganas",
-        "bullets": [
-          "According to the South 24 Parganas District Magistrate, 15 people have been infected",
-          "The outbreak is believed to have started after a nearby factory dumped toxic waste",
-          "Health officials are working to contain the outbreak and provide treatment"
-        ],
-        "source": "South 24 Parganas District Magistrate, as reported by The Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Bridge in Howrah collapses, affecting 500 students",
-        "bullets": [
-          "The bridge, which connected two schools, collapsed during a storm",
-          "500 students were stranded, and 10 teachers were injured",
-          "The government has promised to rebuild the bridge within six months"
-        ],
-        "source": "Howrah District Magistrate, as reported by The Statesman",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution in Hooghly River increases, affecting 20,000 fishermen",
-        "bullets": [
-          "According to a recent study, the Hooghly River has become 20% more polluted",
-          "The pollution is affecting 20,000 fishermen who depend on the river for their livelihood",
-          "The government has promised to take action, but no timeline has been given"
-        ],
-        "source": "Hooghly River study, as reported by The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Education",
-        "headline": "Government school in Murshidabad closes due to teacher shortage",
-        "bullets": [
-          "The school, which had 300 students, was forced to close due to a lack of teachers",
-          "According to the Murshidabad District Magistrate, 10 teachers were absent",
-          "The government has promised to recruit new teachers, but no timeline has been given"
-        ],
-        "source": "Murshidabad District Magistrate, as reported by The Statesman",
-        "status": "CONFIRMED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Price Hike Hits Common Man Hard",
+      "bullets": [
+        "Petrol price increased by ₹2.50 per liter",
+        "Diesel price increased by ₹2.25 per liter",
+        "State government announces financial aid for farmers"
+      ],
+      "source": "Press Trust of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Environment",
+      "headline": "Floods Worsen in South Bengal, 10,000 Families Displaced",
+      "bullets": [
+        "Heavy rainfall causes widespread flooding in Howrah and Hooghly",
+        "Government declares the affected areas as disaster zones",
+        "Local residents demand immediate relief and evacuation"
+      ],
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak in Rural West Bengal, 50 Cases Reported",
+      "bullets": [
+        "Cholera cases reported in three districts of West Bengal",
+        "Government sets up treatment camps and dispatches medical teams",
+        "Residents advised to drink boiled water and maintain hygiene"
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit Kolkata, 20 Localities Affected",
+      "bullets": [
+        "Power transmission issues cause power cuts in Kolkata",
+        "Electricity department assures restoration of power supply soon",
+        "Residents advised to use backup power sources"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Schools Reopen After Monsoon Break, 500 Teachers Absent",
+      "bullets": [
+        "Monsoon break ends, schools reopen in West Bengal",
+        "500 teachers absent from work due to various reasons",
+        "Government assures timely payment of salaries and benefits"
+      ],
+      "source": "The Statesman",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "Minimum Wage for Daily Wagers Hiked by ₹50",
+      "bullets": [
+        "Minimum wage for daily wagers increased by ₹50",
+        "Government announces implementation of the new wage from August 15",
+        "Employers advised to adjust their payrolls accordingly"
+      ],
+      "source": "UNI",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
