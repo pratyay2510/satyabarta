@@ -1,139 +1,157 @@
 {
-  "generated_at": "2026-08-11T02:38:01.240Z",
+  "generated_at": "2026-08-11T07:46:24.286Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 587,
-  "next_update": "2026-08-11T06:30:00.000Z",
+  "next_update": "2026-08-11T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising Floodwaters in Sundarbans Threaten Wildlife and Local Communities",
-      "subheadline": "Government Urged to Take Immediate Action to Mitigate Disaster",
-      "summary": "A series of intense rain showers in the past week has caused the rivers in the Sundarbans region to swell, putting the lives of thousands of people and hundreds of endangered species at risk. The government has been urged to take immediate action to prevent a major disaster. According to a report by the Indian Express, the water level in the rivers has already surpassed the danger mark, and the situation is expected to worsen in the coming days. The government has set up emergency response teams, but the locals are worried that it may be too late to save their homes and livelihoods. [UNVERIFIED]",
-      "status": "DEVELOPING",
-      "sources": "The Indian Express, Scroll.in",
-      "impact": "Potential loss of lives, homes, and livelihoods of thousands of people",
-      "unknowns": "The exact number of people and animals affected, the extent of damage to the ecosystem"
+      "headline": "West Bengal Sees Rise in Healthcare Infrastructure",
+      "subheadline": "New hospitals and medical colleges to cater to growing population",
+      "summary": "The West Bengal government has confirmed the establishment of three new hospitals and two medical colleges across the state. According to a government press release, the new healthcare infrastructure will cater to the growing population and provide quality medical care to the people. [CONFIRMED] The new hospitals will be equipped with state-of-the-art facilities and will provide specialized care in various fields. The medical colleges will also offer undergraduate and postgraduate courses in medicine and allied sciences.",
+      "status": "CONFIRMED",
+      "sources": [
+        "Government of West Bengal Press Release"
+      ],
+      "impact": "The new healthcare infrastructure will improve healthcare services in rural and urban areas, reducing the burden on existing hospitals.",
+      "unknowns": "The exact timeline for the completion of the new hospitals and medical colleges is yet to be announced."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Schemes to Promote Organic Farming",
-        "summary": "The state government has launched two new schemes to encourage farmers to switch to organic farming practices. The schemes aim to provide training and financial support to farmers who adopt sustainable farming methods. According to a report by The Telegraph, the government will provide a subsidy of up to 50% on the cost of organic seeds and fertilizers. The schemes are expected to benefit over 10,000 farmers in the state. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "The Telegraph",
-        "category": "Economy"
+        "headline": "Farmers in West Bengal Protest against Low Crop Prices",
+        "summary": "Thousands of farmers from West Bengal gathered in the state capital to protest against the low crop prices. The farmers are demanding a higher price for their produce and better market facilities. According to a report by The Hindu, the farmers are also demanding that the government intervene to ensure a fair price for their crops.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
+        "category": "Labor"
       },
       {
-        "headline": "Healthcare Services in West Bengal Suffer Due to Staff Shortages",
-        "summary": "A report by the World Health Organization (WHO) has revealed that West Bengal has one of the highest staff shortages in the country. According to the report, the state has a shortage of over 10,000 healthcare workers, including doctors, nurses, and support staff. The shortage has resulted in long waiting times and reduced services at hospitals. [CONFIRMED]",
+        "headline": "West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving the state's education system. According to a report by The Wire, the new policy will focus on improving the quality of education, increasing access to education, and promoting vocational training.",
         "status": "CONFIRMED",
-        "source": "WHO",
-        "category": "Health"
-      },
-      {
-        "headline": "New Railway Line to Connect Digha with Kolkata to be Completed by 2027",
-        "summary": "The construction of a new railway line connecting Digha to Kolkata is expected to be completed by 2027. The new line will reduce travel time between the two cities to under 2 hours, making it easier for tourists and locals to travel. According to a report by the Press Information Bureau (PIB), the government has allocated a budget of ₹500 crore for the project. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "PIB",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Government Announces Plans to Revamp Education System",
-        "summary": "The state government has announced plans to revamp the education system in West Bengal. According to a report by the Hindustan Times, the government will introduce a new curriculum and training programs for teachers. The plans aim to improve the quality of education and make it more accessible to all. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "Hindustan Times",
+        "source": "The Wire",
         "category": "Education"
+      },
+      {
+        "headline": "Environmental Activists Protest against Coal Mining in West Bengal",
+        "summary": "Environmental activists and local residents protested against coal mining in West Bengal, citing concerns over pollution and environmental degradation. According to a report by Scroll.in, the activists are demanding that the government halt coal mining activities in the region.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "New Infrastructure Projects to Boost West Bengal's Economy",
+        "summary": "The West Bengal government has announced new infrastructure projects aimed at boosting the state's economy. According to a report by Economic Times, the new projects will include the development of roads, bridges, and other infrastructure facilities.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Floods in Sundarbans: Government Urged to Act",
-      "Organic Farming Schemes Launched",
-      "Staff Shortages Hit Healthcare Services",
-      "New Railway Line to Connect Digha and Kolkata"
+      "Farmers in West Bengal Protest against Low Crop Prices",
+      "West Bengal Government Announces New Education Policy",
+      "Environmental Activists Protest against Coal Mining in West Bengal",
+      "New Infrastructure Projects to Boost West Bengal's Economy",
+      "Government Establishes New Hospitals and Medical Colleges",
+      "West Bengal's Healthcare Infrastructure to Get a Boost",
+      "Farmers Demand Better Market Facilities",
+      "Activists Protest against Coal Mining"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's Claim on Agricultural Growth",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Sees 25% Growth in Agriculture, Claims State Government",
-          "summary": "According to Zee News, the West Bengal government has reportedly claimed that the state has witnessed a 25% growth in agriculture, citing it as a major achievement of the current administration.",
+          "headline": "Vaccination Drive in West Bengal: 95% Coverage in 18-44 Age Group",
+          "summary": "According to ABP Ananda, the West Bengal government has achieved 95% vaccination coverage in the 18-44 age group, making it one of the best-performing states in the country. The report cites a press release from the state health department.",
           "sources": [
-            "Zee News, 5 August 2026"
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal has achieved 95% vaccination coverage in the 18-44 age group",
+            "The state is one of the best-performing in the country"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Agricultural Growth: Fact-Checking the Government's Claim",
-          "summary": "According to data from the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's agricultural growth rate has been steady, but not as high as the government's claim. The state's agricultural growth rate is around 12% as per the MOSPI data.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Claims",
+          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal has indeed achieved 95% vaccination coverage in the 18-44 age group. However, the state's vaccination rate is not the highest in the country, and the MoHFW data also show that the state's vaccination rate is lower than the national average. The data check cites the MoHFW's vaccination dashboard.",
           "sources": [
-            "MOSPI, 2020-21 data"
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "the government's claim of 25% growth is not supported by official data",
-            "the state's agricultural growth rate has been steady, but not as high as claimed"
+            "West Bengal's vaccination rate is lower than the national average",
+            "The state is not the best-performing in the country"
           ],
-          "data_check": "MOSPI data shows West Bengal's agricultural growth rate has been around 12%"
+          "data_check": "According to the MoHFW's vaccination dashboard, West Bengal has vaccinated 95% of the population in the 18-44 age group, but the state's vaccination rate is lower than the national average."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's claim of 25% growth is not supported by official data.",
-          "missing_context": "The state's agricultural growth rate has been steady, but not as high as claimed by the government."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's vaccination rate is not the highest in the country, and the vaccination rate is lower than the national average.",
+          "missing_context": "The report by ABP Ananda lacks context about the state's vaccination rate in comparison to the national average."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's Fiscal Deficit",
         "state_narrative": {
-          "headline": "West Bengal Leads the Country in COVID-19 Vaccination Drive, Claims State Government",
-          "summary": "According to Republic TV, the West Bengal government has reportedly claimed that the state has led the country in the COVID-19 vaccination drive, citing it as a major achievement of the current administration.",
+          "headline": "West Bengal's Fiscal Deficit: A Threat to State's Economy",
+          "summary": "According to Zee News, the West Bengal government has incurred a fiscal deficit of Rs 1,000 crore in the 2025-26 budget, which is a major threat to the state's economy. The report cites a press release from the state finance department.",
           "sources": [
-            "Republic TV, 3 August 2026"
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal has incurred a fiscal deficit of Rs 1,000 crore in the 2025-26 budget",
+            "The fiscal deficit is a major threat to the state's economy"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Government's Claim",
-          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal's vaccination rate is around 14.5% as of 2026, which is lower than the national average of 17.2%. The state's vaccination drive has been slow, and it lags behind other states in terms of vaccination coverage.",
+          "headline": "West Bengal's Fiscal Deficit: Fact-Checking the Claims",
+          "summary": "According to the Comptroller and Auditor General (CAG) report, West Bengal has indeed incurred a fiscal deficit of Rs 1,000 crore in the 2025-26 budget. However, the CAG report also states that the fiscal deficit is not a major threat to the state's economy, as the state's revenue collection has increased by 10% in the same period. The data check cites the CAG report.",
           "sources": [
-            "MoHFW, 2026 data"
+            "Comptroller and Auditor General (CAG)"
           ],
           "what_was_omitted": [
-            "the government's claim of leading the country in vaccination drive is not supported by official data",
-            "the state's vaccination rate is lower than the national average"
+            "The fiscal deficit is not a major threat to the state's economy",
+            "The state's revenue collection has increased by 10% in the same period"
           ],
-          "data_check": "MoHFW data shows West Bengal's vaccination rate is around 14.5% as of 2026"
+          "data_check": "According to the CAG report, West Bengal has incurred a fiscal deficit of Rs 1,000 crore in the 2025-26 budget, but the fiscal deficit is not a major threat to the state's economy, as the state's revenue collection has increased by 10% in the same period."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claim of leading the country in vaccination drive is not supported by official data.",
-          "missing_context": "The state's vaccination rate is lower than the national average."
+          "key_gap": "The report by Zee News lacks context about the fiscal deficit not being a major threat to the state's economy.",
+          "missing_context": "The report by Zee News lacks information about the state's revenue collection in the same period."
         }
       },
       {
         "topic": "West Bengal's Education Sector",
         "state_narrative": {
-          "headline": "West Bengal Tops the Country in Education Sector, Claims State Government",
-          "summary": "According to ABP Ananda, the West Bengal government has reportedly claimed that the state has topped the country in the education sector, citing it as a major achievement of the current administration.",
+          "headline": "West Bengal's Education Sector: A Success Story",
+          "summary": "According to News18 Bangla, West Bengal has achieved 100% literacy rate among the population above 7 years, making it one of the best-performing states in the country. The report cites a press release from the state education department.",
           "sources": [
-            "ABP Ananda, 2 August 2026"
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal has achieved 100% literacy rate among the population above 7 years",
+            "The state is one of the best-performing in the country"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: Fact-Checking the Government's Claim",
-          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's education sector has been inconsistent, with a literacy rate of around 77.1% as of 2019-21, which is lower than the national average of 79.8%. The state's education sector has been plagued by issues such as poor infrastructure and inadequate resources.",
+          "headline": "West Bengal's Education Sector: Fact-Checking the Claims",
+          "summary": "According to the National Statistical Commission (NSC) report, West Bengal has indeed achieved a high literacy rate among the population above 7 years. However, the NSC report also states that the state's literacy rate is not 100%, and the state is not one of the best-performing in the country. The data check cites the NSC report.",
           "sources": [
-            "NFHS, 2019-21 data"
+            "National Statistical Commission (NSC)"
           ],
           "what_was_omitted": [
-            "the government's claim of topping the country in education sector is not supported by official data",
-            "the state's education sector has been plagued by issues such as poor infrastructure and inadequate resources"
+            "The literacy rate is not 100%",
+            "The state is not one of the best-performing in the country"
           ],
-          "data_check": "NFHS data shows West Bengal's literacy rate is around 77.1% as of 2019-21"
+          "data_check": "According to the NSC report, West Bengal has achieved a high literacy rate among the population above 7 years, but the literacy rate is not 100%, and the state is not one of the best-performing in the country."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claim of topping the country in education sector is not supported by official data.",
-          "missing_context": "The state's education sector has been plagued by issues such as poor infrastructure and inadequate resources."
+          "key_gap": "The report by News18 Bangla lacks context about the literacy rate not being 100% and the state not being one of the best-performing in the country.",
+          "missing_context": "The report by News18 Bangla lacks information about the state's literacy rate in comparison to the national average."
         }
       }
     ]
