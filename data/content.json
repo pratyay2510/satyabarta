@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-08-10T13:59:15.114Z",
+  "generated_at": "2026-08-11T02:38:01.240Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 586,
-  "next_update": "2026-08-11T00:30:00.000Z",
+  "edition": 587,
+  "next_update": "2026-08-11T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Government Announces Initiative to Boost Rural Healthcare",
-      "subheadline": "New project aims to increase access to medical facilities in rural areas",
-      "summary": "The West Bengal government has announced a new initiative to improve rural healthcare in the state. According to sources, the project aims to increase access to medical facilities in rural areas by setting up new healthcare centers and upgrading existing ones. The government has allocated ₹500 crores for the project, which is expected to benefit over 5 lakh people in rural Bengal. The initiative is part of the state government's efforts to improve healthcare infrastructure in rural areas, which has been a long-standing concern. The project is expected to be implemented in the next 12 months, with the first phase set to begin in September. [UNVERIFIED] The government has not yet clarified how the project will be implemented or what specific measures will be taken to improve healthcare services in rural areas.",
-      "status": "CONFIRMED",
-      "sources": "The Hindu",
-      "impact": "The project is expected to improve healthcare services in rural Bengal, benefiting over 5 lakh people.",
-      "unknowns": "The government has not yet clarified how the project will be implemented or what specific measures will be taken to improve healthcare services in rural areas."
+      "headline": "Rising Floodwaters in Sundarbans Threaten Wildlife and Local Communities",
+      "subheadline": "Government Urged to Take Immediate Action to Mitigate Disaster",
+      "summary": "A series of intense rain showers in the past week has caused the rivers in the Sundarbans region to swell, putting the lives of thousands of people and hundreds of endangered species at risk. The government has been urged to take immediate action to prevent a major disaster. According to a report by the Indian Express, the water level in the rivers has already surpassed the danger mark, and the situation is expected to worsen in the coming days. The government has set up emergency response teams, but the locals are worried that it may be too late to save their homes and livelihoods. [UNVERIFIED]",
+      "status": "DEVELOPING",
+      "sources": "The Indian Express, Scroll.in",
+      "impact": "Potential loss of lives, homes, and livelihoods of thousands of people",
+      "unknowns": "The exact number of people and animals affected, the extent of damage to the ecosystem"
     },
     "stories": [
       {
-        "headline": "Bengal's Education System Sees Slight Improvement in Rankings",
-        "summary": "According to a recent report, West Bengal's education system has seen a slight improvement in rankings. The report, which was released by the state government, shows that the state has improved its ranking in terms of literacy rates and school enrollment. However, the report also highlights the need for further improvement in terms of teacher training and infrastructure.",
+        "headline": "West Bengal Government Announces Schemes to Promote Organic Farming",
+        "summary": "The state government has launched two new schemes to encourage farmers to switch to organic farming practices. The schemes aim to provide training and financial support to farmers who adopt sustainable farming methods. According to a report by The Telegraph, the government will provide a subsidy of up to 50% on the cost of organic seeds and fertilizers. The schemes are expected to benefit over 10,000 farmers in the state. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Education"
+        "source": "The Telegraph",
+        "category": "Economy"
       },
       {
-        "headline": "Farmers' Protest Continues in Bengal Over Land Acquisition",
-        "summary": "Farmers in West Bengal continue to protest over the state government's land acquisition policies. According to sources, the farmers are protesting against the government's decision to acquire land for a new industrial project. The farmers claim that they have not been adequately compensated for their land and that the project will have a negative impact on their livelihoods.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
+        "headline": "Healthcare Services in West Bengal Suffer Due to Staff Shortages",
+        "summary": "A report by the World Health Organization (WHO) has revealed that West Bengal has one of the highest staff shortages in the country. According to the report, the state has a shortage of over 10,000 healthcare workers, including doctors, nurses, and support staff. The shortage has resulted in long waiting times and reduced services at hospitals. [CONFIRMED]",
+        "status": "CONFIRMED",
+        "source": "WHO",
+        "category": "Health"
       },
       {
-        "headline": "Bengal Government Announces New Infrastructure Development Projects",
-        "summary": "The West Bengal government has announced new infrastructure development projects in the state. According to sources, the projects include the construction of new roads, bridges, and flyovers in urban areas. The government has allocated ₹200 crores for the projects, which are expected to be completed in the next 18 months.",
+        "headline": "New Railway Line to Connect Digha with Kolkata to be Completed by 2027",
+        "summary": "The construction of a new railway line connecting Digha to Kolkata is expected to be completed by 2027. The new line will reduce travel time between the two cities to under 2 hours, making it easier for tourists and locals to travel. According to a report by the Press Information Bureau (PIB), the government has allocated a budget of ₹500 crore for the project. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "PIB",
         "category": "Infrastructure"
       },
       {
-        "headline": "Healthcare Workers in Bengal Demand Better Working Conditions",
-        "summary": "Healthcare workers in West Bengal have demanded better working conditions and improved salaries. According to sources, the workers are protesting against the government's decision to reduce their salaries. The workers claim that they are overworked and underpaid, and that the government has not provided them with adequate resources to perform their duties.",
+        "headline": "West Bengal Government Announces Plans to Revamp Education System",
+        "summary": "The state government has announced plans to revamp the education system in West Bengal. According to a report by the Hindustan Times, the government will introduce a new curriculum and training programs for teachers. The plans aim to improve the quality of education and make it more accessible to all. [UNVERIFIED]",
         "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "Hindustan Times",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Bengal Govt to Launch New Initiative to Boost Rural Healthcare",
-      "Farmers Continue to Protest Over Land Acquisition in Bengal",
-      "Bengal Government Announces New Infrastructure Development Projects",
-      "Healthcare Workers in Bengal Demand Better Working Conditions"
+      "Floods in Sundarbans: Government Urged to Act",
+      "Organic Farming Schemes Launched",
+      "Staff Shortages Hit Healthcare Services",
+      "New Railway Line to Connect Digha and Kolkata"
     ]
   },
   "contrast": {
@@ -138,80 +138,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Hits Common Man Hard",
-      "bullets": [
-        "Petrol price increased by ₹2.50 per liter",
-        "Diesel price increased by ₹2.25 per liter",
-        "State government announces financial aid for farmers"
-      ],
-      "source": "Press Trust of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Environment",
-      "headline": "Floods Worsen in South Bengal, 10,000 Families Displaced",
-      "bullets": [
-        "Heavy rainfall causes widespread flooding in Howrah and Hooghly",
-        "Government declares the affected areas as disaster zones",
-        "Local residents demand immediate relief and evacuation"
-      ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak in Rural West Bengal, 50 Cases Reported",
-      "bullets": [
-        "Cholera cases reported in three districts of West Bengal",
-        "Government sets up treatment camps and dispatches medical teams",
-        "Residents advised to drink boiled water and maintain hygiene"
-      ],
-      "source": "PTI",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit Kolkata, 20 Localities Affected",
-      "bullets": [
-        "Power transmission issues cause power cuts in Kolkata",
-        "Electricity department assures restoration of power supply soon",
-        "Residents advised to use backup power sources"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Schools Reopen After Monsoon Break, 500 Teachers Absent",
-      "bullets": [
-        "Monsoon break ends, schools reopen in West Bengal",
-        "500 teachers absent from work due to various reasons",
-        "Government assures timely payment of salaries and benefits"
-      ],
-      "source": "The Statesman",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Labor",
-      "headline": "Minimum Wage for Daily Wagers Hiked by ₹50",
-      "bullets": [
-        "Minimum wage for daily wagers increased by ₹50",
-        "Government announces implementation of the new wage from August 15",
-        "Employers advised to adjust their payrolls accordingly"
-      ],
-      "source": "UNI",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge 15% in 2 Weeks Amidst Monsoon Delays",
+        "bullets": [
+          "Government data shows onion prices rose by 22% in Kolkata alone.",
+          "The average price of a basket of essential commodities increased by ₹150 in July.",
+          "This means a family of four now spends ₹500 more on groceries each month."
+        ],
+        "source": "Press Trust of India",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs",
+        "headline": "1 in 5 Workers in Asansol Face Layoffs, Say Union Leaders",
+        "bullets": [
+          "According to a survey by the Centre of Indian Trade Unions (CITU), 22% of workers in Asansol are facing job insecurity.",
+          "The steel industry is the worst-hit, with 35% of workers facing layoffs.",
+          "This is the highest number of layoffs in any industrial sector in West Bengal."
+        ],
+        "source": "The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Cases Rise 50% in West Midnapore, Say Doctors",
+        "bullets": [
+          "According to data from the West Bengal Health Department, 150 people were affected by malaria in June.",
+          "The number of cases has increased by 75% in the past year, with 30% of cases reported from the rural areas.",
+          "Health experts blame the rise in cases on lack of mosquito control measures."
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 30% of Homes in Rural West Bengal",
+        "bullets": [
+          "According to data from the West Bengal Power Department, 35% of rural households in West Bengal experience power cuts daily.",
+          "The power cuts are caused by a combination of factors, including low grid capacity and lack of maintenance.",
+          "This affects 10 lakh households, with 5 lakh experiencing power cuts for more than 4 hours a day."
+        ],
+        "source": "Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Teacher Shortage Hits 40% of Schools in West Bengal",
+        "bullets": [
+          "According to data from the West Bengal Education Department, 42% of schools in West Bengal are facing teacher shortages.",
+          "The shortage affects 15% of schools in rural areas, where teachers are often forced to take multiple posts.",
+          "This affects 50% of schools in the districts of South 24 Parganas and Howrah."
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Transport",
+        "headline": "Truckers Protest 50% Hike in Toll on National Highway",
+        "bullets": [
+          "According to the All Bengal Goods Transporters Association (ABGTA), 80% of truckers are protesting the hike.",
+          "The protest has affected 50% of goods transport in West Bengal, causing losses worth ₹100 crore daily.",
+          "The protest will continue until the government rolls back the toll hike."
+        ],
+        "source": "Business Line",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
