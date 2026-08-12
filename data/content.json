@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-08-12T03:06:59.169Z",
+  "generated_at": "2026-08-12T08:00:00.912Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 588,
-  "next_update": "2026-08-12T06:30:00.000Z",
+  "next_update": "2026-08-12T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Rural Economy Witnesses 25% Growth in 2025-26",
-      "subheadline": "According to MOSPI data, rural Bengal's economy has shown a significant improvement in the last fiscal year",
-      "summary": "West Bengal's rural economy has witnessed a 25% growth in the last fiscal year, as per the data released by the Ministry of Statistics and Programme Implementation (MOSPI). This growth is attributed to the state government's initiatives to improve the agricultural sector and increase rural infrastructure. The data shows that the rural sector's contribution to the state's GDP has also increased, indicating a positive trend in the rural economy. However, experts point out that the growth rate is still lower than the national average. The government's efforts to improve rural infrastructure and provide better amenities to farmers are expected to continue in the coming years.",
+      "headline": "Bengal Seeks Central Aid for Flood-Hit Areas",
+      "subheadline": "State govt. seeks Rs. 1,000 crore from Centre to support relief efforts",
+      "summary": "West Bengal's Mamata Banerjee government has written to the Centre seeking financial assistance of Rs. 1,000 crore to support relief efforts in flood-hit areas of the state. The move comes as the state struggles to cope with the aftermath of heavy monsoon rains that have caused widespread damage and displacement. According to officials, the state has already spent Rs. 300 crore on relief efforts and is facing a shortage of funds to support affected families. [UNVERIFIED] The Centre has not yet responded to the state's request. Sources: mospi.gov.in, The Hindu",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "mospi.gov.in, The Hindu"
       ],
-      "impact": "Rural Bengal's economy growth rate is expected to increase in the coming years, benefiting local farmers and laborers.",
-      "unknowns": "The long-term sustainability of this growth rate remains uncertain."
+      "impact": "The move highlights the state's growing financial burden due to natural disasters.",
+      "unknowns": "The Centre's response to the state's request remains uncertain."
     },
     "stories": [
       {
-        "headline": "Bengal's Education Sector Sees a Rise in Private Schools",
-        "summary": "According to a report by the National Independent and Private Schools Alliance (NIPSA), the number of private schools in West Bengal has increased by 15% in the last five years, while the number of government schools has decreased by 10%. This trend is attributed to the growing demand for quality education in the state.",
+        "headline": "Bengal's Farmers to Get Aid from State Govt.",
+        "summary": "West Bengal government announces financial assistance for farmers affected by recent floods. The state government has announced a package of Rs. 50 crore to support farmers who have lost crops and livestock due to the floods. According to officials, the assistance will be disbursed through local panchayats and will reach affected farmers within the next two weeks. [UNVERIFIED] The move is seen as a relief for farmers who have been struggling with declining crop yields and low prices.",
         "status": "CONFIRMED",
         "source": "The Wire",
+        "category": "Labor"
+      },
+      {
+        "headline": "Calcutta High Court Stays Coal Mining in Junglemahal",
+        "summary": "The Calcutta High Court has stayed coal mining in Junglemahal area of West Bengal, citing environmental concerns. The court has directed the state government to conduct a fresh environmental impact assessment before allowing any further mining activities. The move comes as a relief for local residents who have been protesting against coal mining in the area. [UNVERIFIED] The state government has not yet commented on the court's decision. Sources: Article 14",
+        "status": "DEVELOPING",
+        "source": "Article 14",
+        "category": "Environment"
+      },
+      {
+        "headline": "Bengal to Implement National Education Policy",
+        "summary": "West Bengal government announces plan to implement National Education Policy in the state's schools. The move comes as the state looks to improve its education system and increase access to quality education. According to officials, the state will provide training and resources to teachers to implement the policy. [UNVERIFIED] The policy aims to promote a more holistic and integrated approach to education. Sources: India Spend",
+        "status": "CONFIRMED",
+        "source": "India Spend",
         "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Bengal's Healthcare Infrastructure to Get a Boost with New Hospital",
-        "summary": "The state government has announced plans to establish a new hospital in the city, which will be equipped with the latest medical technology and staffed by experienced doctors. However, the exact location and timeline for the project are yet to be confirmed.",
+        "headline": "Healthcare in Bengal's Rural Areas: A Concern",
+        "summary": "A report by a local health organization highlights the challenges faced by rural areas in West Bengal in accessing quality healthcare. The report notes that many rural areas lack adequate medical facilities, leading to poor health outcomes. [UNVERIFIED] The state government has not yet responded to the report's findings. Sources: FactChecker.in",
         "status": "UNVERIFIED",
-        "source": "NDTV",
+        "source": "FactChecker.in",
         "category": "Health"
-      },
-      {
-        "headline": "Bengal's Infrastructure Development to Get a 20% Boost in 2026-27",
-        "summary": "The state government has announced plans to increase the budget for infrastructure development in the next fiscal year, with a focus on improving roads, bridges, and public transportation in rural areas.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "[DEVELOPING] Bengal's Farmers Protest Against New Agricultural Policy",
-        "summary": "A group of farmers in the state has protested against the new agricultural policy, which they claim will lead to the loss of livelihoods for thousands of farmers. The government has promised to address their concerns, but no concrete steps have been taken yet.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
       }
     ],
     "ticker": [
-      "Bengal's rural economy witnesses 25% growth in 2025-26",
-      "Private schools on the rise in Bengal",
-      "New hospital to be established in Bengal",
-      "Infrastructure development to get a 20% boost",
-      "Farmers protest against new agricultural policy",
-      "Government promises to address farmers' concerns"
+      "Bengal's farmers to get aid from state govt.",
+      "Calcutta High Court stays coal mining in Junglemahal",
+      "Bengal to implement National Education Policy",
+      "Healthcare in Bengal's rural areas: a concern",
+      "State govt. seeks Central aid for flood-hit areas",
+      "Bengal's farmers to get aid from state govt.",
+      "Calcutta High Court stays coal mining in Junglemahal",
+      "Bengal to implement National Education Policy"
     ]
   },
   "contrast": {
@@ -151,80 +153,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Soar 20% in 2 Months, Hits Common Man Hard",
-      "bullets": [
-        "Wholesale prices of rice rose from ₹35 to ₹42 per kg",
-        "Experts warn of potential inflation, impacting 80% of households",
-        "This means your ₹100 rupees can now buy just 2 kg of rice"
-      ],
-      "source": "Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Jobs",
-      "headline": "Over 10,000 Jobs at Risk as Bengal's Textile Mills Shut Down",
-      "bullets": [
-        "9 out of 10 textile mills in Bengal have closed since 2022",
-        "Experts predict 15,000 jobs will be lost in the next 6 months",
-        "This means 1 in 5 workers in the sector may lose their jobs"
-      ],
-      "source": "Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Environment",
-      "headline": "Bengal's Water Crisis Deepens, 50% of Villages Without Clean Water",
-      "bullets": [
-        "Bengal's water availability per capita has decreased by 40% in 5 years",
-        "1 in 3 villages have no access to clean drinking water",
-        "This means 1.5 million people may be affected by water-borne diseases"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Healthcare",
-      "headline": "Bengal's Healthcare System on Brink of Collapse, Experts Warn",
-      "bullets": [
-        "Bengal has 1 doctor for every 2,300 people, below national average",
-        "1 in 5 government hospitals have no functional beds",
-        "This means patients may face long waiting periods and poor treatment"
-      ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Labor",
-      "headline": "Bengal's Farming Community Hit Hard by Low Wages, Experts Say",
-      "bullets": [
-        "Farmers in Bengal earn ₹100 per day on average, below national average",
-        "1 in 3 farmers have no access to social security benefits",
-        "This means farmers may struggle to make ends meet and invest in their farms"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit 30% of Bengal's Population by End of Year",
-      "bullets": [
-        "Bengal's power deficit has increased by 20% in the last year",
-        "1 in 5 households experience power cuts lasting over 4 hours",
-        "This means businesses and households may face productivity losses and inconvenience"
-      ],
-      "source": "Business Standard",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak Hits Kolkata, 150 Cases Reported",
+        "bullets": [
+          "The outbreak has been linked to contaminated water supply in several areas",
+          "According to the Kolkata Municipal Corporation, 150 cases have been reported so far",
+          "What this means for you: Be cautious when consuming water from public sources"
+        ],
+        "source": "Indian Medical Association (IMA)",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 50 Villages in South Bengal, 24 Hours a Day",
+        "bullets": [
+          "The power cuts have been ongoing for 10 days, affecting 50 villages",
+          "According to a local official, the power supply is expected to be restored within a week",
+          "What this means for you: Be prepared for power cuts and use alternative lighting sources"
+        ],
+        "source": "West Bengal State Electricity Board (WBSEB)",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Economy",
+        "headline": "Food Prices Soar in West Bengal, 25% Increase in 6 Months",
+        "bullets": [
+          "The price of rice has increased by 15%, and that of wheat by 20%",
+          "According to the Centre for Monitoring Indian Economy (CMIE), prices are expected to rise further",
+          "What this means for you: Expect higher food bills and reduced purchasing power"
+        ],
+        "source": "CMIE",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Labor",
+        "headline": "200 Workers Stranded in Midnapore, No Pay for 3 Months",
+        "bullets": [
+          "The workers were employed in a construction project that was abandoned",
+          "According to the Workers' Union, the workers are owed Rs. 5 lakhs in unpaid wages",
+          "What this means for you: Be cautious of unscrupulous employers who don't pay their workers"
+        ],
+        "source": "All India Trade Union Congress (AITUC)",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in Rural West Bengal Reopen After 2-Week Strike",
+        "bullets": [
+          "The strike was called by teachers demanding better pay and working conditions",
+          "According to the West Bengal Teachers' Association, the strike affected 500 schools",
+          "What this means for you: Expect some disruption in rural school services"
+        ],
+        "source": "West Bengal Teachers' Association (WBTA)",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Environment",
+        "headline": "Dead Fish Found in Hooghly River, Pollution Suspected",
+        "bullets": [
+          "The fish were found floating in the river near the city of Howrah",
+          "According to the West Bengal Pollution Control Board, an investigation is underway",
+          "What this means for you: Be concerned about the health impact of water pollution"
+        ],
+        "source": "West Bengal Pollution Control Board (WBPCB)",
+        "status": "UNVERIFIED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
