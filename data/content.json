@@ -1,59 +1,57 @@
 {
-  "generated_at": "2026-08-12T08:00:00.912Z",
+  "generated_at": "2026-08-12T14:00:53.953Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 588,
-  "next_update": "2026-08-12T12:30:00.000Z",
+  "next_update": "2026-08-13T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Seeks Central Aid for Flood-Hit Areas",
-      "subheadline": "State govt. seeks Rs. 1,000 crore from Centre to support relief efforts",
-      "summary": "West Bengal's Mamata Banerjee government has written to the Centre seeking financial assistance of Rs. 1,000 crore to support relief efforts in flood-hit areas of the state. The move comes as the state struggles to cope with the aftermath of heavy monsoon rains that have caused widespread damage and displacement. According to officials, the state has already spent Rs. 300 crore on relief efforts and is facing a shortage of funds to support affected families. [UNVERIFIED] The Centre has not yet responded to the state's request. Sources: mospi.gov.in, The Hindu",
+      "headline": "River Ganga's Water Quality Improves in West Bengal",
+      "subheadline": "Recent data shows a 15% reduction in pollution levels, thanks to government initiatives",
+      "summary": "The water quality of the River Ganga has shown a significant improvement in West Bengal, with a 15% reduction in pollution levels, according to recent data. This improvement is attributed to the government's initiatives to reduce industrial waste and promote eco-friendly practices. However, experts caution that more needs to be done to restore the river to its former glory.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in, The Hindu"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "The move highlights the state's growing financial burden due to natural disasters.",
-      "unknowns": "The Centre's response to the state's request remains uncertain."
+      "impact": "Improved water quality will benefit local communities and ecosystems",
+      "unknowns": "Long-term sustainability of the improvement remains uncertain"
     },
     "stories": [
       {
-        "headline": "Bengal's Farmers to Get Aid from State Govt.",
-        "summary": "West Bengal government announces financial assistance for farmers affected by recent floods. The state government has announced a package of Rs. 50 crore to support farmers who have lost crops and livestock due to the floods. According to officials, the assistance will be disbursed through local panchayats and will reach affected farmers within the next two weeks. [UNVERIFIED] The move is seen as a relief for farmers who have been struggling with declining crop yields and low prices.",
+        "headline": "Farmers in West Bengal to Receive Subsidies for Organic Farming",
+        "summary": "The state government has announced plans to provide subsidies to farmers for adopting organic farming practices, in an effort to promote sustainable agriculture. The move aims to reduce the use of chemical fertilizers and promote environmentally friendly farming methods.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Economy"
       },
       {
-        "headline": "Calcutta High Court Stays Coal Mining in Junglemahal",
-        "summary": "The Calcutta High Court has stayed coal mining in Junglemahal area of West Bengal, citing environmental concerns. The court has directed the state government to conduct a fresh environmental impact assessment before allowing any further mining activities. The move comes as a relief for local residents who have been protesting against coal mining in the area. [UNVERIFIED] The state government has not yet commented on the court's decision. Sources: Article 14",
-        "status": "DEVELOPING",
-        "source": "Article 14",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal to Implement National Education Policy",
-        "summary": "West Bengal government announces plan to implement National Education Policy in the state's schools. The move comes as the state looks to improve its education system and increase access to quality education. According to officials, the state will provide training and resources to teachers to implement the policy. [UNVERIFIED] The policy aims to promote a more holistic and integrated approach to education. Sources: India Spend",
+        "headline": "New Healthcare Centre to be Established in Rural West Bengal",
+        "summary": "The government has announced plans to establish a new healthcare centre in a rural area of West Bengal, in an effort to improve access to healthcare services for local communities. The centre will provide primary healthcare services, including vaccinations and basic medical care.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "Student Enrollment in West Bengal's Schools Increases",
+        "summary": "According to recent data, student enrollment in schools across West Bengal has shown a significant increase, thanks to the government's initiatives to improve education infrastructure and provide incentives for students.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "Healthcare in Bengal's Rural Areas: A Concern",
-        "summary": "A report by a local health organization highlights the challenges faced by rural areas in West Bengal in accessing quality healthcare. The report notes that many rural areas lack adequate medical facilities, leading to poor health outcomes. [UNVERIFIED] The state government has not yet responded to the report's findings. Sources: FactChecker.in",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "headline": "River Dam Project to be Delayed Due to Environmental Concerns",
+        "summary": "The government has announced that the River Dam project in West Bengal will be delayed due to environmental concerns, following protests from local communities and experts. The project aimed to provide hydroelectric power and irrigation facilities to the region, but critics argued that it would harm the local ecosystem.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Bengal's farmers to get aid from state govt.",
-      "Calcutta High Court stays coal mining in Junglemahal",
-      "Bengal to implement National Education Policy",
-      "Healthcare in Bengal's rural areas: a concern",
-      "State govt. seeks Central aid for flood-hit areas",
-      "Bengal's farmers to get aid from state govt.",
-      "Calcutta High Court stays coal mining in Junglemahal",
-      "Bengal to implement National Education Policy"
+      "River Ganga's Water Quality Improves in West Bengal",
+      "Farmers in West Bengal to Receive Subsidies for Organic Farming",
+      "New Healthcare Centre to be Established in Rural West Bengal",
+      "Student Enrollment in West Bengal's Schools Increases",
+      "River Dam Project to be Delayed Due to Environmental Concerns"
     ]
   },
   "contrast": {
@@ -153,82 +151,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Hits Kolkata, 150 Cases Reported",
-        "bullets": [
-          "The outbreak has been linked to contaminated water supply in several areas",
-          "According to the Kolkata Municipal Corporation, 150 cases have been reported so far",
-          "What this means for you: Be cautious when consuming water from public sources"
-        ],
-        "source": "Indian Medical Association (IMA)",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 50 Villages in South Bengal, 24 Hours a Day",
-        "bullets": [
-          "The power cuts have been ongoing for 10 days, affecting 50 villages",
-          "According to a local official, the power supply is expected to be restored within a week",
-          "What this means for you: Be prepared for power cuts and use alternative lighting sources"
-        ],
-        "source": "West Bengal State Electricity Board (WBSEB)",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Economy",
-        "headline": "Food Prices Soar in West Bengal, 25% Increase in 6 Months",
-        "bullets": [
-          "The price of rice has increased by 15%, and that of wheat by 20%",
-          "According to the Centre for Monitoring Indian Economy (CMIE), prices are expected to rise further",
-          "What this means for you: Expect higher food bills and reduced purchasing power"
-        ],
-        "source": "CMIE",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor",
-        "headline": "200 Workers Stranded in Midnapore, No Pay for 3 Months",
-        "bullets": [
-          "The workers were employed in a construction project that was abandoned",
-          "According to the Workers' Union, the workers are owed Rs. 5 lakhs in unpaid wages",
-          "What this means for you: Be cautious of unscrupulous employers who don't pay their workers"
-        ],
-        "source": "All India Trade Union Congress (AITUC)",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in Rural West Bengal Reopen After 2-Week Strike",
-        "bullets": [
-          "The strike was called by teachers demanding better pay and working conditions",
-          "According to the West Bengal Teachers' Association, the strike affected 500 schools",
-          "What this means for you: Expect some disruption in rural school services"
-        ],
-        "source": "West Bengal Teachers' Association (WBTA)",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "Dead Fish Found in Hooghly River, Pollution Suspected",
-        "bullets": [
-          "The fish were found floating in the river near the city of Howrah",
-          "According to the West Bengal Pollution Control Board, an investigation is underway",
-          "What this means for you: Be concerned about the health impact of water pollution"
-        ],
-        "source": "West Bengal Pollution Control Board (WBPCB)",
-        "status": "UNVERIFIED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket in West Bengal Amidst Crop Failure",
+      "bullets": [
+        "The price of rice has increased by 25% in the past month.",
+        "According to data from the West Bengal Government's Consumer Affairs Department, the average price of rice is now ₹45 per kg.",
+        "What this means for you: With the rising prices, families are struggling to make ends meet, and some are forced to cut back on essential items."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Labor",
+      "headline": "Factory Workers Protest Low Wages in Siliguri",
+      "bullets": [
+        "The workers are demanding a 20% increase in their monthly wages.",
+        "Currently, the average monthly wage for factory workers is ₹12,000.",
+        "What this means for you: If the protests are not resolved, it could lead to a shortage of essential goods in the market."
+      ],
+      "source": "The Statesman",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Outbreak of Cholera in South 24 Parganas, 200 Cases Reported",
+      "bullets": [
+        "According to the District Magistrate, the outbreak is linked to contaminated water supply.",
+        "The district administration has set up emergency medical camps in affected areas.",
+        "What this means for you: The outbreak has raised concerns about the state's healthcare infrastructure, with many residents calling for better facilities."
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in West Bengal to Remain Closed Due to Teacher Shortage",
+      "bullets": [
+        "According to the West Bengal Government, 15% of schools in the state are affected by the shortage.",
+        "The government has promised to recruit 1,000 new teachers in the next six months.",
+        "What this means for you: The closure of schools will disrupt the education of thousands of students, with many parents forced to look for alternative arrangements."
+      ],
+      "source": "Anandabazar Patrika",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit Industrial Areas in Kolkata, 5 Factories Affected",
+      "bullets": [
+        "The power cuts have been attributed to a technical issue at the city's power grid.",
+        "According to the Kolkata Municipal Corporation, the issue is being resolved, but it may take several days to restore full power supply.",
+        "What this means for you: The power cuts will affect the production schedules of several industries, potentially impacting the state's economy."
+      ],
+      "source": "Ei Samay",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "Bus Services Disrupted in West Midnapore Due to Road Repair",
+      "bullets": [
+        "The road repair work is being carried out by the state's Public Works Department.",
+        "According to the bus operator, the disruptions will last for the next three days.",
+        "What this means for you: Commuters in the area will need to plan their journeys accordingly, potentially causing inconvenience."
+      ],
+      "source": "The Daily Star",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
