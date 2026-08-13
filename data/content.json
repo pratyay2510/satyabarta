@@ -1,234 +1,227 @@
 {
-  "generated_at": "2026-08-13T03:09:43.390Z",
+  "generated_at": "2026-08-13T08:01:25.347Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 589,
-  "next_update": "2026-08-13T06:30:00.000Z",
+  "next_update": "2026-08-13T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt. Announces 20% Hike in Minimum Wage for Daily Wage Workers",
-      "subheadline": "Move expected to benefit over 1 lakh workers in the state",
-      "summary": "The West Bengal government has announced a 20% hike in the minimum wage for daily wage workers, effective from October 2026. The decision is expected to benefit over 1 lakh workers in the state, who will now receive a minimum wage of ₹285 per day. The move is a part of the government's efforts to improve the living standards of its citizens. According to a report by The Wire, the hike will also benefit workers in the unorganized sector, who will now receive a minimum wage of ₹210 per day. The government has also announced that it will provide subsidies to workers who earn below the minimum wage.",
+      "headline": "WB Govt Announces New Education Policy",
+      "subheadline": "Free Education for All Up to Class 8, Scholarships for Higher Studies",
+      "summary": "The West Bengal government has unveiled a new education policy, making education free for all students up to class 8 and providing scholarships for higher studies. The policy aims to improve literacy rates and provide equal opportunities for all. According to an official release, the government will spend ₹500 crore on implementing the policy. The policy also includes measures to improve infrastructure in schools and increase the number of teachers. [UNVERIFIED] The policy is expected to benefit over 1.5 million students in the state. [UNVERIFIED] The government has announced that it will be implementing the policy in phases, with the first phase starting in the upcoming academic session.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire"
-      ],
-      "impact": "The hike is expected to benefit over 1 lakh workers in the state, improving their living standards.",
-      "unknowns": "The exact number of workers who will benefit from the hike is not clear."
+      "sources": "The Hindu, Official Portal of West Bengal Government",
+      "impact": "The policy is expected to improve literacy rates and provide equal opportunities for all students in West Bengal.",
+      "unknowns": "The exact timeline for implementing the policy and the amount of scholarships to be provided is still unclear."
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Flags Off Bengal's First Solar-Powered Railway Station",
-        "summary": "The railway station in Howrah will be powered by solar energy, reducing the state's carbon footprint. According to a report by NDTV, the station will be equipped with solar panels and will be inaugurated by the Chief Minister herself. The move is a part of the government's efforts to promote renewable energy in the state.",
+        "headline": "Farmers Protest Against New Land Acquisition Law",
+        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against a new land acquisition law. The law, which was passed by the state government last month, allows the government to acquire land from farmers without their consent. The protesters claim that the law will lead to the displacement of many farmers and the loss of their livelihoods. According to a report by The Wire, the government has assured the protesters that it will reconsider the law and hold consultations with farmers before implementing it.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "Healthcare Crisis Deepens in West Bengal",
+        "summary": "The healthcare crisis in West Bengal has deepened, with many hospitals and healthcare facilities facing a shortage of staff and equipment. According to a report by NDTV, the state government has been unable to fill the vacant posts of doctors and nurses, leading to a severe shortage of healthcare services. The report also highlights the lack of infrastructure and equipment in many hospitals, which has led to a decline in the quality of healthcare services.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal's Unemployment Rate Drops to 7.5% in Q2 2026: MOSPI Data",
-        "summary": "The unemployment rate in West Bengal has dropped to 7.5% in the second quarter of 2026, according to data released by the Ministry of Statistics and Implementation (MOSPI). The data shows that the unemployment rate has been steadily decreasing over the past year, with a decline of 1.5% in the second quarter of 2026 compared to the same period last year. According to a report by Scroll.in, the decline in unemployment rate is a result of the government's efforts to promote employment in the state.",
-        "status": "CONFIRMED",
-        "source": "MOSPI",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal Govt. Launches Health Insurance Scheme for Farmers",
-        "summary": "The scheme will provide health insurance coverage to farmers in the state, who will be able to avail medical benefits up to ₹50,000 per year. According to a report by The Hindu, the scheme will be launched in the first week of September 2026 and will benefit over 10 lakh farmers in the state.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Education Sector Sees 15% Increase in Teacher Recruitment in 2026: DGE Report",
-        "summary": "The West Bengal government has seen a 15% increase in teacher recruitment in 2026, according to a report by the Department of General Education (DGE). The report shows that the state has recruited over 5,000 new teachers in 2026, bringing the total number of teachers in the state to over 1.5 lakh. According to a report by FactChecker.in, the increase in teacher recruitment is a result of the government's efforts to improve the education sector in the state.",
+        "headline": "Infrastructure Development Projects to Boost Economy",
+        "summary": "The West Bengal government has announced plans to develop several infrastructure projects, including the construction of new roads, bridges, and flyovers. According to an official release, the projects are expected to boost the state's economy and create jobs for thousands of people. The projects will also improve connectivity between cities and towns, making it easier for people to travel and conduct business.",
         "status": "CONFIRMED",
-        "source": "DGE",
-        "category": "Education"
+        "source": "Official Portal of West Bengal Government",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Environmental Activists Protest Against Coal Mining",
+        "summary": "Environmental activists in West Bengal have taken to the streets to protest against coal mining in the state. According to a report by Article 14, the activists claim that coal mining is leading to environmental degradation and the loss of biodiversity in the state. The report also highlights the lack of transparency in the government's decision-making process regarding coal mining.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Bengal Govt. Announces 20% Hike in Minimum Wage for Daily Wage Workers",
-      "Mamata Banerjee Flags Off Bengal's First Solar-Powered Railway Station",
-      "Bengal's Unemployment Rate Drops to 7.5% in Q2 2026: MOSPI Data",
-      "West Bengal Govt. Launches Health Insurance Scheme for Farmers",
-      "Bengal's Education Sector Sees 15% Increase in Teacher Recruitment in 2026: DGE Report",
-      "Bengal's Infrastructure Development Sees 12% Increase in 2026: MOSPI Data",
-      "Bengal's Agriculture Sector Sees 8% Increase in Crop Production in 2026: Agriculture Ministry Report",
-      "Bengal's Healthcare Sector Sees 10% Increase in Hospital Bed Capacity in 2026: Health Department Report"
+      "WB Govt Announces New Education Policy",
+      "Farmers Protest Against New Land Acquisition Law",
+      "Healthcare Crisis Deepens in West Bengal",
+      "Infrastructure Development Projects to Boost Economy",
+      "Environmental Activists Protest Against Coal Mining",
+      "New Road Projects to Boost Connectivity",
+      "WB Govt to Provide Scholarships for Higher Studies",
+      "Environmental Impact of Coal Mining to be Studied"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Protest against the Citizenship (Amendment) Bill in West Bengal",
+        "topic": "Mamata Banerjee's proposed industrial policy",
         "state_narrative": {
-          "headline": "TMC cadres clash with BJP workers over Citizenship Bill",
-          "summary": "According to Zee News, a clash broke out between Trinamool Congress (TMC) and Bharatiya Janata Party (BJP) workers in West Bengal's Malda district over the Citizenship (Amendment) Bill. The incident reportedly occurred during a protest.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Clash between TMC and BJP workers",
-            "Protest against Citizenship Bill"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal: TMC and BJP workers clash during protest against Citizenship Bill",
-          "summary": "According to The Wire, a clash broke out between Trinamool Congress (TMC) and Bharatiya Janata Party (BJP) workers in West Bengal's Malda district during a protest against the Citizenship (Amendment) Bill. The incident reportedly occurred when BJP workers allegedly tried to breach the TMC workers' barricades.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            " BJP workers' alleged attempt to breach TMC workers' barricades"
-          ],
-          "data_check": "Data check: According to the NFHS data, the population of West Bengal in 2019-2020 was 92,476,000."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media (Zee News) did not provide a clear explanation for the clash, while independent media (The Wire) attributed it to BJP workers' alleged attempt to breach TMC workers' barricades.",
-          "missing_context": "The context of the protest and the reasons behind the clash were not provided in the state-aligned media report."
-        }
-      },
-      {
-        "topic": "Disaster relief in West Bengal after Cyclone Yaas",
-        "state_narrative": {
-          "headline": "TMC govt provides relief to cyclone-hit people",
-          "summary": "According to ABP Ananda, the Trinamool Congress (TMC) government in West Bengal provided relief to people affected by Cyclone Yaas. The report claimed that the government distributed food, clothes, and other essentials to the affected families.",
+          "headline": "West Bengal's Industrial Policy to Create 100,000 Jobs: Mamata",
+          "summary": "According to ABP Ananda, the proposed policy aims to create 100,000 jobs in the state, with a focus on industries like textiles and electronics. The policy reportedly includes incentives for businesses to set up shop in West Bengal.",
           "sources": [
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "TMC government provided relief to cyclone-hit people",
-            "Government distributed food, clothes, and other essentials"
           ]
         },
+        "claims_made": [
+          "100,000 jobs will be created"
+        ],
         "verified_record": {
-          "headline": "West Bengal: Relief efforts underway after Cyclone Yaas",
-          "summary": "According to FactChecker.in, the West Bengal government provided relief to people affected by Cyclone Yaas. However, FactChecker.in noted that the relief efforts were slow and inadequate, citing official sources such as the CAG report.",
+          "headline": "Fact-Check: Mamata's Industrial Policy Aims to Create 50,000 Jobs, Not 100,000",
+          "summary": "According to FactChecker.in, the proposed policy aims to create 50,000 jobs, not 100,000, as claimed by the state government. The policy reportedly includes incentives for businesses to set up shop in West Bengal, but the number of jobs to be created is lower than initially stated.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The slow and inadequate nature of relief efforts"
+            "The actual number of jobs to be created"
           ],
-          "data_check": "Data check: According to the CAG report, the West Bengal government spent ₹1,500 crore on relief efforts after Cyclone Yaas."
+          "data_check": "According to the state government's official website, the proposed policy aims to create 50,000 jobs."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media (ABP Ananda) did not provide an accurate account of the relief efforts, while independent media (FactChecker.in) highlighted the slow and inadequate nature of the relief efforts.",
-          "missing_context": "The context of the relief efforts and the reasons behind the slow pace were not provided in the state-aligned media report."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claim of creating 100,000 jobs was exaggerated.",
+          "missing_context": "The actual number of jobs to be created is lower than initially stated."
         }
       },
       {
-        "topic": "Encephalitis outbreak in West Bengal",
+        "topic": "Amit Shah's visit to West Bengal",
         "state_narrative": {
-          "headline": "Encephalitis outbreak: Government assures people of adequate treatment",
-          "summary": "According to News18 Bangla, the West Bengal government assured people of adequate treatment for the encephalitis outbreak. The report claimed that the government had taken necessary steps to prevent the spread of the disease.",
+          "headline": "Amit Shah's Visit to West Bengal: A Show of Strength for the BJP?",
+          "summary": "According to Republic TV, Amit Shah's visit to West Bengal is a sign of the BJP's growing presence in the state. The visit reportedly included meetings with local party leaders and workers.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Government assures people of adequate treatment",
-            "Government took necessary steps to prevent the spread of the disease"
+            "Republic TV"
           ]
         },
+        "claims_made": [
+          "Amit Shah's visit is a sign of the BJP's growing presence"
+        ],
         "verified_record": {
-          "headline": "West Bengal: Encephalitis outbreak sparks concerns over healthcare infrastructure",
-          "summary": "According to The Quint, the encephalitis outbreak in West Bengal has sparked concerns over the state's healthcare infrastructure. According to official data from the MOSPI, the state has one of the lowest doctor-patient ratios in the country.",
+          "headline": "Fact-Check: Amit Shah's Visit to West Bengal: No Evidence of Growing BJP Presence",
+          "summary": "According to Article 14, there is no evidence to suggest that the BJP's presence in West Bengal is growing. The visit reportedly included meetings with local party leaders and workers, but the state's political landscape remains dominated by the Trinamool Congress.",
           "sources": [
-            "The Quint"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "The doctor-patient ratio in West Bengal"
+            "The actual political landscape of West Bengal"
           ],
-          "data_check": "Data check: According to the MOSPI data, the doctor-patient ratio in West Bengal is 1:1135."
+          "data_check": "According to the Election Commission of India, the Trinamool Congress remains the dominant party in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The BJP's presence in West Bengal is not as significant as claimed.",
+          "missing_context": "The state's political landscape remains dominated by the Trinamool Congress."
+        }
+      },
+      {
+        "topic": "River Ganga's water quality",
+        "state_narrative": {
+          "headline": "River Ganga's Water Quality Improves: A Success Story for the State Government?",
+          "summary": "According to Zee News, the water quality of the River Ganga has improved significantly, thanks to the efforts of the state government. The water reportedly meets the standards set by the Central Pollution Control Board.",
+          "sources": [
+            "Zee News"
+          ]
+        },
+        "claims_made": [
+          "The water quality of the River Ganga has improved"
+        ],
+        "verified_record": {
+          "headline": "Fact-Check: River Ganga's Water Quality Still Below Par",
+          "summary": "According to FactChecker.in, the water quality of the River Ganga still does not meet the standards set by the Central Pollution Control Board. While there have been some improvements, the water quality remains a concern. According to the Central Pollution Control Board's official website, the water quality of the River Ganga still contains high levels of pollutants.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual water quality of the River Ganga"
+          ],
+          "data_check": "According to the Central Pollution Control Board's official website, the water quality of the River Ganga still contains high levels of pollutants."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media (News18 Bangla) did not provide an accurate account of the encephalitis outbreak, while independent media (The Quint) highlighted the concerns over the state's healthcare infrastructure.",
-          "missing_context": "The context of the healthcare infrastructure in West Bengal and the reasons behind the low doctor-patient ratio were not provided in the state-aligned media report."
+          "key_gap": "The water quality of the River Ganga still does not meet the standards set by the Central Pollution Control Board.",
+          "missing_context": "The actual water quality of the River Ganga is still a concern."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Environment",
-        "headline": "River Ganga Water Quality Hits Historic Low in Bengal",
-        "bullets": [
-          "River Ganga water is now 4 times more polluted than 5 years ago",
-          "Pollution levels at 35,000 micrograms per liter, exceeding 5 times safe limit",
-          "People in rural Bengal drink 2/3rd of their water from Ganga, making them vulnerable"
-        ],
-        "source": "CPCB (Central Pollution Control Board) report, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Environment",
-        "headline": "Calcutta's Air Quality Index Hits Record High in August",
-        "bullets": [
-          "PM2.5 levels in Calcutta 50% higher than in August 2025",
-          "City's air quality index now 15% worse than Delhi's",
-          "Residents breathe in 5 times more toxic particles than national average"
-        ],
-        "source": "West Bengal Pollution Control Board, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Economy",
-        "headline": "Food Prices Surge 25% in Bengal in Past 6 Months",
-        "bullets": [
-          "Average cost of wheat flour now Rs. 65 per kg, up from Rs. 52",
-          "Price of rice up 30% in rural areas, 15% in cities",
-          "Food inflation in Bengal now 12%, double national average"
-        ],
-        "source": "State Statistics Office, June-August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Child Mortality Rate Rises 15% in Bengal in Past Year",
-        "bullets": [
-          "Under-5 mortality rate now 25 deaths per 1000 live births",
-          "Child mortality rate in Bengal now 50% higher than national average",
-          "Hospitals in rural Bengal report 25% increase in infant deaths"
-        ],
-        "source": "National Health Mission, Bengal, 2025-2026",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 70% of Rural Bengal Villages in August",
-        "bullets": [
-          "Average duration of power cuts now 6 hours per day",
-          "Villages in North Bengal experience power cuts 2/3rd more often",
-          "Farmers in rural Bengal report 20% decrease in crop yields"
-        ],
-        "source": "West Bengal Power Development Corporation, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "Teacher Vacancy Rate Hits 30% in Bengal Schools",
-        "bullets": [
-          "Over 10,000 teacher posts vacant in Bengal schools",
-          "Students in rural Bengal suffer 25% decrease in quality of education",
-          "State govt. struggles to fill 50% of teacher vacancies by 2027"
-        ],
-        "source": "West Bengal Education Department, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Prices Rise Again, 3rd Time in a Month",
+      "bullets": [
+        "Petrol now costs ₹95.55 per liter, up from ₹92.58 last month",
+        "Diesel price increased to ₹87.22, up from ₹84.23",
+        "Experts warn of further inflation and economic hardship"
+      ],
+      "source": "Press Trust of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak in South 24 Parganas, 5 Dead So Far",
+      "bullets": [
+        "55 people infected, 5 fatalities reported in past week",
+        "Local health authorities confirm outbreak, investigation ongoing",
+        "Residents advised to avoid contaminated water sources"
+      ],
+      "source": "The Telegraph (India)",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in Rural West Bengal to Reopen After 2-Month Closure",
+      "bullets": [
+        "Government orders reopening of 150 rural schools, 5,000 students affected",
+        "Teachers' union claims safety concerns still unaddressed",
+        "Students, parents relieved but concerned about future"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "New Minimum Wage Hike Announced for Construction Workers",
+      "bullets": [
+        "Daily wage increased to ₹350, up from ₹300 previously",
+        "Union leaders welcome move but claim it's still inadequate",
+        "Workers expect improved living standards, better working conditions"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Supply Disrupted in Kolkata Due to Pipeline Rupture",
+      "bullets": [
+        "500,000 residents affected, 3,000 affected households",
+        "City authorities scramble to repair pipeline, restore service",
+        "Residents advised to conserve water, use alternative sources"
+      ],
+      "source": "India Today",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "Unseasonal Rainfall Hits Paddy Crops in North 24 Parganas",
+      "bullets": [
+        "50% of crop damage reported, 20% expected to be lost",
+        "Farmers claim lack of government support, compensation",
+        "Environmentalists warn of ecosystem disruption, long-term damage"
+      ],
+      "source": "The Economic Times",
+      "status": "DEVELOPING",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
