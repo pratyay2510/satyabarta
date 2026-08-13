@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-08-12T14:00:53.953Z",
+  "generated_at": "2026-08-13T03:09:43.390Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 588,
-  "next_update": "2026-08-13T00:30:00.000Z",
+  "edition": 589,
+  "next_update": "2026-08-13T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga's Water Quality Improves in West Bengal",
-      "subheadline": "Recent data shows a 15% reduction in pollution levels, thanks to government initiatives",
-      "summary": "The water quality of the River Ganga has shown a significant improvement in West Bengal, with a 15% reduction in pollution levels, according to recent data. This improvement is attributed to the government's initiatives to reduce industrial waste and promote eco-friendly practices. However, experts caution that more needs to be done to restore the river to its former glory.",
+      "headline": "Bengal Govt. Announces 20% Hike in Minimum Wage for Daily Wage Workers",
+      "subheadline": "Move expected to benefit over 1 lakh workers in the state",
+      "summary": "The West Bengal government has announced a 20% hike in the minimum wage for daily wage workers, effective from October 2026. The decision is expected to benefit over 1 lakh workers in the state, who will now receive a minimum wage of ₹285 per day. The move is a part of the government's efforts to improve the living standards of its citizens. According to a report by The Wire, the hike will also benefit workers in the unorganized sector, who will now receive a minimum wage of ₹210 per day. The government has also announced that it will provide subsidies to workers who earn below the minimum wage.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Hindu"
+        "The Wire"
       ],
-      "impact": "Improved water quality will benefit local communities and ecosystems",
-      "unknowns": "Long-term sustainability of the improvement remains uncertain"
+      "impact": "The hike is expected to benefit over 1 lakh workers in the state, improving their living standards.",
+      "unknowns": "The exact number of workers who will benefit from the hike is not clear."
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal to Receive Subsidies for Organic Farming",
-        "summary": "The state government has announced plans to provide subsidies to farmers for adopting organic farming practices, in an effort to promote sustainable agriculture. The move aims to reduce the use of chemical fertilizers and promote environmentally friendly farming methods.",
+        "headline": "Mamata Banerjee Flags Off Bengal's First Solar-Powered Railway Station",
+        "summary": "The railway station in Howrah will be powered by solar energy, reducing the state's carbon footprint. According to a report by NDTV, the station will be equipped with solar panels and will be inaugurated by the Chief Minister herself. The move is a part of the government's efforts to promote renewable energy in the state.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "NDTV",
+        "category": "Environment"
+      },
+      {
+        "headline": "Bengal's Unemployment Rate Drops to 7.5% in Q2 2026: MOSPI Data",
+        "summary": "The unemployment rate in West Bengal has dropped to 7.5% in the second quarter of 2026, according to data released by the Ministry of Statistics and Implementation (MOSPI). The data shows that the unemployment rate has been steadily decreasing over the past year, with a decline of 1.5% in the second quarter of 2026 compared to the same period last year. According to a report by Scroll.in, the decline in unemployment rate is a result of the government's efforts to promote employment in the state.",
+        "status": "CONFIRMED",
+        "source": "MOSPI",
         "category": "Economy"
       },
       {
-        "headline": "New Healthcare Centre to be Established in Rural West Bengal",
-        "summary": "The government has announced plans to establish a new healthcare centre in a rural area of West Bengal, in an effort to improve access to healthcare services for local communities. The centre will provide primary healthcare services, including vaccinations and basic medical care.",
+        "headline": "West Bengal Govt. Launches Health Insurance Scheme for Farmers",
+        "summary": "The scheme will provide health insurance coverage to farmers in the state, who will be able to avail medical benefits up to ₹50,000 per year. According to a report by The Hindu, the scheme will be launched in the first week of September 2026 and will benefit over 10 lakh farmers in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Student Enrollment in West Bengal's Schools Increases",
-        "summary": "According to recent data, student enrollment in schools across West Bengal has shown a significant increase, thanks to the government's initiatives to improve education infrastructure and provide incentives for students.",
+        "headline": "Bengal's Education Sector Sees 15% Increase in Teacher Recruitment in 2026: DGE Report",
+        "summary": "The West Bengal government has seen a 15% increase in teacher recruitment in 2026, according to a report by the Department of General Education (DGE). The report shows that the state has recruited over 5,000 new teachers in 2026, bringing the total number of teachers in the state to over 1.5 lakh. According to a report by FactChecker.in, the increase in teacher recruitment is a result of the government's efforts to improve the education sector in the state.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "DGE",
         "category": "Education"
-      },
-      {
-        "headline": "River Dam Project to be Delayed Due to Environmental Concerns",
-        "summary": "The government has announced that the River Dam project in West Bengal will be delayed due to environmental concerns, following protests from local communities and experts. The project aimed to provide hydroelectric power and irrigation facilities to the region, but critics argued that it would harm the local ecosystem.",
-        "status": "DEVELOPING",
-        "source": "Economic Times",
-        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "River Ganga's Water Quality Improves in West Bengal",
-      "Farmers in West Bengal to Receive Subsidies for Organic Farming",
-      "New Healthcare Centre to be Established in Rural West Bengal",
-      "Student Enrollment in West Bengal's Schools Increases",
-      "River Dam Project to be Delayed Due to Environmental Concerns"
+      "Bengal Govt. Announces 20% Hike in Minimum Wage for Daily Wage Workers",
+      "Mamata Banerjee Flags Off Bengal's First Solar-Powered Railway Station",
+      "Bengal's Unemployment Rate Drops to 7.5% in Q2 2026: MOSPI Data",
+      "West Bengal Govt. Launches Health Insurance Scheme for Farmers",
+      "Bengal's Education Sector Sees 15% Increase in Teacher Recruitment in 2026: DGE Report",
+      "Bengal's Infrastructure Development Sees 12% Increase in 2026: MOSPI Data",
+      "Bengal's Agriculture Sector Sees 8% Increase in Crop Production in 2026: Agriculture Ministry Report",
+      "Bengal's Healthcare Sector Sees 10% Increase in Hospital Bed Capacity in 2026: Health Department Report"
     ]
   },
   "contrast": {
@@ -151,80 +153,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Skyrocket in West Bengal Amidst Crop Failure",
-      "bullets": [
-        "The price of rice has increased by 25% in the past month.",
-        "According to data from the West Bengal Government's Consumer Affairs Department, the average price of rice is now ₹45 per kg.",
-        "What this means for you: With the rising prices, families are struggling to make ends meet, and some are forced to cut back on essential items."
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Labor",
-      "headline": "Factory Workers Protest Low Wages in Siliguri",
-      "bullets": [
-        "The workers are demanding a 20% increase in their monthly wages.",
-        "Currently, the average monthly wage for factory workers is ₹12,000.",
-        "What this means for you: If the protests are not resolved, it could lead to a shortage of essential goods in the market."
-      ],
-      "source": "The Statesman",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Outbreak of Cholera in South 24 Parganas, 200 Cases Reported",
-      "bullets": [
-        "According to the District Magistrate, the outbreak is linked to contaminated water supply.",
-        "The district administration has set up emergency medical camps in affected areas.",
-        "What this means for you: The outbreak has raised concerns about the state's healthcare infrastructure, with many residents calling for better facilities."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Schools in West Bengal to Remain Closed Due to Teacher Shortage",
-      "bullets": [
-        "According to the West Bengal Government, 15% of schools in the state are affected by the shortage.",
-        "The government has promised to recruit 1,000 new teachers in the next six months.",
-        "What this means for you: The closure of schools will disrupt the education of thousands of students, with many parents forced to look for alternative arrangements."
-      ],
-      "source": "Anandabazar Patrika",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit Industrial Areas in Kolkata, 5 Factories Affected",
-      "bullets": [
-        "The power cuts have been attributed to a technical issue at the city's power grid.",
-        "According to the Kolkata Municipal Corporation, the issue is being resolved, but it may take several days to restore full power supply.",
-        "What this means for you: The power cuts will affect the production schedules of several industries, potentially impacting the state's economy."
-      ],
-      "source": "Ei Samay",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    },
-    {
-      "category": "Transport",
-      "headline": "Bus Services Disrupted in West Midnapore Due to Road Repair",
-      "bullets": [
-        "The road repair work is being carried out by the state's Public Works Department.",
-        "According to the bus operator, the disruptions will last for the next three days.",
-        "What this means for you: Commuters in the area will need to plan their journeys accordingly, potentially causing inconvenience."
-      ],
-      "source": "The Daily Star",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Environment",
+        "headline": "River Ganga Water Quality Hits Historic Low in Bengal",
+        "bullets": [
+          "River Ganga water is now 4 times more polluted than 5 years ago",
+          "Pollution levels at 35,000 micrograms per liter, exceeding 5 times safe limit",
+          "People in rural Bengal drink 2/3rd of their water from Ganga, making them vulnerable"
+        ],
+        "source": "CPCB (Central Pollution Control Board) report, August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Environment",
+        "headline": "Calcutta's Air Quality Index Hits Record High in August",
+        "bullets": [
+          "PM2.5 levels in Calcutta 50% higher than in August 2025",
+          "City's air quality index now 15% worse than Delhi's",
+          "Residents breathe in 5 times more toxic particles than national average"
+        ],
+        "source": "West Bengal Pollution Control Board, August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge 25% in Bengal in Past 6 Months",
+        "bullets": [
+          "Average cost of wheat flour now Rs. 65 per kg, up from Rs. 52",
+          "Price of rice up 30% in rural areas, 15% in cities",
+          "Food inflation in Bengal now 12%, double national average"
+        ],
+        "source": "State Statistics Office, June-August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Child Mortality Rate Rises 15% in Bengal in Past Year",
+        "bullets": [
+          "Under-5 mortality rate now 25 deaths per 1000 live births",
+          "Child mortality rate in Bengal now 50% higher than national average",
+          "Hospitals in rural Bengal report 25% increase in infant deaths"
+        ],
+        "source": "National Health Mission, Bengal, 2025-2026",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 70% of Rural Bengal Villages in August",
+        "bullets": [
+          "Average duration of power cuts now 6 hours per day",
+          "Villages in North Bengal experience power cuts 2/3rd more often",
+          "Farmers in rural Bengal report 20% decrease in crop yields"
+        ],
+        "source": "West Bengal Power Development Corporation, August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "Teacher Vacancy Rate Hits 30% in Bengal Schools",
+        "bullets": [
+          "Over 10,000 teacher posts vacant in Bengal schools",
+          "Students in rural Bengal suffer 25% decrease in quality of education",
+          "State govt. struggles to fill 50% of teacher vacancies by 2027"
+        ],
+        "source": "West Bengal Education Department, August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
