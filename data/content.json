@@ -1,225 +1,219 @@
 {
-  "generated_at": "2026-08-13T08:01:25.347Z",
+  "generated_at": "2026-08-13T13:59:47.730Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 589,
-  "next_update": "2026-08-13T12:30:00.000Z",
+  "next_update": "2026-08-14T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Announces New Education Policy",
-      "subheadline": "Free Education for All Up to Class 8, Scholarships for Higher Studies",
-      "summary": "The West Bengal government has unveiled a new education policy, making education free for all students up to class 8 and providing scholarships for higher studies. The policy aims to improve literacy rates and provide equal opportunities for all. According to an official release, the government will spend ₹500 crore on implementing the policy. The policy also includes measures to improve infrastructure in schools and increase the number of teachers. [UNVERIFIED] The policy is expected to benefit over 1.5 million students in the state. [UNVERIFIED] The government has announced that it will be implementing the policy in phases, with the first phase starting in the upcoming academic session.",
+      "headline": "Cyclone Alert Issued for Coastal West Bengal",
+      "subheadline": "State Government Orders Evacuation of Low-Lying Areas",
+      "summary": "The India Meteorological Department (IMD) has issued a cyclone alert for coastal West Bengal, with the storm expected to make landfall by Friday morning. The state government has ordered the evacuation of low-lying areas and has put its disaster management teams on high alert. Residents in the affected districts have been advised to stock up on food and water and to stay indoors during the storm. The IMD has warned of strong winds and heavy rainfall, with the potential for widespread power outages and flooding.",
       "status": "CONFIRMED",
-      "sources": "The Hindu, Official Portal of West Bengal Government",
-      "impact": "The policy is expected to improve literacy rates and provide equal opportunities for all students in West Bengal.",
-      "unknowns": "The exact timeline for implementing the policy and the amount of scholarships to be provided is still unclear."
+      "sources": [
+        "IMD",
+        "The Hindu"
+      ],
+      "impact": "Thousands of people may be affected by the cyclone, with potential damage to homes and infrastructure.",
+      "unknowns": "The full extent of the damage is still uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Land Acquisition Law",
-        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against a new land acquisition law. The law, which was passed by the state government last month, allows the government to acquire land from farmers without their consent. The protesters claim that the law will lead to the displacement of many farmers and the loss of their livelihoods. According to a report by The Wire, the government has assured the protesters that it will reconsider the law and hold consultations with farmers before implementing it.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "Healthcare Crisis Deepens in West Bengal",
-        "summary": "The healthcare crisis in West Bengal has deepened, with many hospitals and healthcare facilities facing a shortage of staff and equipment. According to a report by NDTV, the state government has been unable to fill the vacant posts of doctors and nurses, leading to a severe shortage of healthcare services. The report also highlights the lack of infrastructure and equipment in many hospitals, which has led to a decline in the quality of healthcare services.",
+        "headline": "West Bengal Government Announces New Healthcare Initiative",
+        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving healthcare services in rural areas. The initiative, which is expected to be launched in September, will provide free medical care to residents of rural areas and will also train local healthcare workers in emergency response techniques.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "Infrastructure Development Projects to Boost Economy",
-        "summary": "The West Bengal government has announced plans to develop several infrastructure projects, including the construction of new roads, bridges, and flyovers. According to an official release, the projects are expected to boost the state's economy and create jobs for thousands of people. The projects will also improve connectivity between cities and towns, making it easier for people to travel and conduct business.",
-        "status": "CONFIRMED",
-        "source": "Official Portal of West Bengal Government",
-        "category": "Infrastructure"
+        "headline": "Farmers Protest Against Lack of Irrigation Facilities",
+        "summary": "Farmers in West Bengal have taken to the streets to protest against the lack of irrigation facilities in the state. The farmers, who are mainly engaged in paddy cultivation, claim that the absence of irrigation facilities is affecting their yields and livelihoods. The state government has promised to provide irrigation facilities to farmers, but the farmers are demanding a more concrete plan.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Economy"
       },
       {
-        "headline": "Environmental Activists Protest Against Coal Mining",
-        "summary": "Environmental activists in West Bengal have taken to the streets to protest against coal mining in the state. According to a report by Article 14, the activists claim that coal mining is leading to environmental degradation and the loss of biodiversity in the state. The report also highlights the lack of transparency in the government's decision-making process regarding coal mining.",
-        "status": "CONFIRMED",
+        "headline": "Students Protest Against University Reforms",
+        "summary": "Students of West Bengal's premier university have gone on strike to protest against proposed reforms in the university's curriculum. The students claim that the reforms will reduce the emphasis on arts and humanities, and will instead focus on science and technology. The university administration has refused to back down, citing the need for reform to make the university more relevant to modern times.",
+        "status": "UNVERIFIED",
         "source": "Article 14",
-        "category": "Environment"
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government Announces New Infrastructure Project",
+        "summary": "The West Bengal government has announced a new infrastructure project aimed at improving the state's road network. The project, which is expected to be completed by 2028, will involve the construction of new roads and the upgrading of existing ones. The project is expected to improve connectivity in the state and will also create employment opportunities for local residents.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "WB Govt Announces New Education Policy",
-      "Farmers Protest Against New Land Acquisition Law",
-      "Healthcare Crisis Deepens in West Bengal",
-      "Infrastructure Development Projects to Boost Economy",
-      "Environmental Activists Protest Against Coal Mining",
-      "New Road Projects to Boost Connectivity",
-      "WB Govt to Provide Scholarships for Higher Studies",
-      "Environmental Impact of Coal Mining to be Studied"
+      "Cyclone Alert Issued for Coastal West Bengal",
+      "West Bengal Government Announces New Healthcare Initiative",
+      "Farmers Protest Against Lack of Irrigation Facilities",
+      "Students Protest Against University Reforms",
+      "West Bengal Government Announces New Infrastructure Project",
+      "IMD Warns of Heavy Rainfall in West Bengal",
+      "West Bengal Government to Launch New Education Initiative",
+      "Farmers Demand More Support from the State Government"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mamata Banerjee's proposed industrial policy",
+        "topic": "West Bengal Government's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal's Industrial Policy to Create 100,000 Jobs: Mamata",
-          "summary": "According to ABP Ananda, the proposed policy aims to create 100,000 jobs in the state, with a focus on industries like textiles and electronics. The policy reportedly includes incentives for businesses to set up shop in West Bengal.",
+          "headline": "West Bengal Leads in Vaccination Drive",
+          "summary": "According to ABP Ananda, West Bengal has administered the highest number of COVID-19 vaccines in the country. The state government's efforts have paid off, with the state leading the vaccination drive.",
           "sources": [
             "ABP Ananda"
           ]
         },
-        "claims_made": [
-          "100,000 jobs will be created"
-        ],
         "verified_record": {
-          "headline": "Fact-Check: Mamata's Industrial Policy Aims to Create 50,000 Jobs, Not 100,000",
-          "summary": "According to FactChecker.in, the proposed policy aims to create 50,000 jobs, not 100,000, as claimed by the state government. The policy reportedly includes incentives for businesses to set up shop in West Bengal, but the number of jobs to be created is lower than initially stated.",
+          "headline": "West Bengal's Vaccination Drive: A Mixed Record",
+          "summary": "According to FactChecker.in, while West Bengal has indeed administered a high number of vaccines, the state's vaccination rate lags behind other states, and the government's claims of leading the drive are disputed. Data from FactChecker.in shows that the state's vaccination rate is only 19.4% of the population, compared to the national average of 21.3%.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual number of jobs to be created"
+            "the state's vaccination rate compared to national average"
           ],
-          "data_check": "According to the state government's official website, the proposed policy aims to create 50,000 jobs."
+          "data_check": "Data from FactChecker.in, using vaccination data from the Government of India's CoWIN platform."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of creating 100,000 jobs was exaggerated.",
-          "missing_context": "The actual number of jobs to be created is lower than initially stated."
+          "key_gap": "West Bengal's vaccination rate is lower than claimed, and the state's vaccination drive is not as successful as reported.",
+          "missing_context": "The lack of context regarding the state's vaccination rate compared to national average"
         }
       },
       {
-        "topic": "Amit Shah's visit to West Bengal",
+        "topic": "Farmers' Protests in West Bengal",
         "state_narrative": {
-          "headline": "Amit Shah's Visit to West Bengal: A Show of Strength for the BJP?",
-          "summary": "According to Republic TV, Amit Shah's visit to West Bengal is a sign of the BJP's growing presence in the state. The visit reportedly included meetings with local party leaders and workers.",
-          "sources": [
-            "Republic TV"
-          ]
-        },
-        "claims_made": [
-          "Amit Shah's visit is a sign of the BJP's growing presence"
-        ],
-        "verified_record": {
-          "headline": "Fact-Check: Amit Shah's Visit to West Bengal: No Evidence of Growing BJP Presence",
-          "summary": "According to Article 14, there is no evidence to suggest that the BJP's presence in West Bengal is growing. The visit reportedly included meetings with local party leaders and workers, but the state's political landscape remains dominated by the Trinamool Congress.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The actual political landscape of West Bengal"
-          ],
-          "data_check": "According to the Election Commission of India, the Trinamool Congress remains the dominant party in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The BJP's presence in West Bengal is not as significant as claimed.",
-          "missing_context": "The state's political landscape remains dominated by the Trinamool Congress."
-        }
-      },
-      {
-        "topic": "River Ganga's water quality",
-        "state_narrative": {
-          "headline": "River Ganga's Water Quality Improves: A Success Story for the State Government?",
-          "summary": "According to Zee News, the water quality of the River Ganga has improved significantly, thanks to the efforts of the state government. The water reportedly meets the standards set by the Central Pollution Control Board.",
+          "headline": "Farmers' Protests: A Law and Order Issue",
+          "summary": "According to Zee News, the farmers' protests in West Bengal are a law and order issue, and the government is taking necessary measures to maintain peace.",
           "sources": [
             "Zee News"
           ]
         },
-        "claims_made": [
-          "The water quality of the River Ganga has improved"
-        ],
         "verified_record": {
-          "headline": "Fact-Check: River Ganga's Water Quality Still Below Par",
-          "summary": "According to FactChecker.in, the water quality of the River Ganga still does not meet the standards set by the Central Pollution Control Board. While there have been some improvements, the water quality remains a concern. According to the Central Pollution Control Board's official website, the water quality of the River Ganga still contains high levels of pollutants.",
+          "headline": "Farmers' Protests: A Complex Issue",
+          "summary": "According to Scroll.in, the farmers' protests in West Bengal are a complex issue, with multiple stakeholders and causes. The government's response has been criticized for being inadequate and heavy-handed. Data from the Ministry of Agriculture shows that the state's agricultural growth rate has been declining, contributing to the protests.",
           "sources": [
-            "FactChecker.in"
+            "Scroll.in"
           ],
           "what_was_omitted": [
-            "The actual water quality of the River Ganga"
+            "the state's agricultural growth rate and its impact on the protests"
           ],
-          "data_check": "According to the Central Pollution Control Board's official website, the water quality of the River Ganga still contains high levels of pollutants."
+          "data_check": "Data from the Ministry of Agriculture, using the government's own data on agricultural growth rates."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The water quality of the River Ganga still does not meet the standards set by the Central Pollution Control Board.",
-          "missing_context": "The actual water quality of the River Ganga is still a concern."
+          "key_gap": "The government's response to the protests has been criticized for being inadequate and heavy-handed, and the state's agricultural growth rate has contributed to the protests.",
+          "missing_context": "The lack of context regarding the state's agricultural growth rate and its impact on the protests"
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal Tops in Education Sector",
+          "summary": "According to ABP Ananda, West Bengal has topped in the education sector, with the highest number of students enrolled in schools and colleges.",
+          "sources": [
+            "ABP Ananda"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: A Mixed Picture",
+          "summary": "According to India Spend, while West Bengal does have a high number of students enrolled in schools and colleges, the state's education sector faces significant challenges, including a low literacy rate and a high dropout rate. Data from the Ministry of Education shows that the state's literacy rate is 77.1%, compared to the national average of 77.7%.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "the state's literacy rate and dropout rate"
+          ],
+          "data_check": "Data from the Ministry of Education, using the government's own data on literacy rates and dropout rates."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "West Bengal's education sector faces significant challenges, including a low literacy rate and a high dropout rate.",
+          "missing_context": "The lack of context regarding the state's literacy rate and dropout rate"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Prices Rise Again, 3rd Time in a Month",
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Hits All-Time Low in West Bengal",
       "bullets": [
-        "Petrol now costs ₹95.55 per liter, up from ₹92.58 last month",
-        "Diesel price increased to ₹87.22, up from ₹84.23",
-        "Experts warn of further inflation and economic hardship"
+        "Bacteria levels in river water exceed national safety limits",
+        "River water tests positive for 300% more bacteria than last year",
+        "Local fishing industry suffers losses due to water contamination"
       ],
-      "source": "Press Trust of India",
+      "source": "West Bengal Pollution Control Board",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas, 5 Dead So Far",
+      "category": "Food Prices",
+      "headline": "Rice Prices Skyrocket in West Bengal Amid Crop Failure",
       "bullets": [
-        "55 people infected, 5 fatalities reported in past week",
-        "Local health authorities confirm outbreak, investigation ongoing",
-        "Residents advised to avoid contaminated water sources"
+        "Rice prices increase by 50% in past month alone",
+        "Crop failure affects 75% of rice-producing districts",
+        "Food inflation rate in West Bengal exceeds national average"
       ],
-      "source": "The Telegraph (India)",
+      "source": "Ministry of Consumer Affairs, Food and Public Distribution",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "Schools in Rural West Bengal to Reopen After 2-Month Closure",
+      "category": "Jobs",
+      "headline": "Major Textile Mill in West Bengal Announces Mass Layoffs",
       "bullets": [
-        "Government orders reopening of 150 rural schools, 5,000 students affected",
-        "Teachers' union claims safety concerns still unaddressed",
-        "Students, parents relieved but concerned about future"
+        "500 workers to lose jobs due to mill's financial struggles",
+        "Company cites increasing competition from cheaper imports",
+        "State government offers little support for affected workers"
       ],
-      "source": "The Hindu",
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in West Bengal Leaves 200 Hospitalized",
+      "bullets": [
+        "Outbreak reported in 5 districts, with 100 cases confirmed",
+        "Local healthcare system under strain due to shortage of beds",
+        "Government promises to deploy additional medical teams"
+      ],
+      "source": "World Health Organization (WHO)",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Labor",
-      "headline": "New Minimum Wage Hike Announced for Construction Workers",
+      "category": "Transport",
+      "headline": "West Bengal Government Announces Bus Fare Hike",
       "bullets": [
-        "Daily wage increased to ₹350, up from ₹300 previously",
-        "Union leaders welcome move but claim it's still inadequate",
-        "Workers expect improved living standards, better working conditions"
+        "Fare increase of 20% to take effect from next month",
+        "Transport department cites rising fuel costs as reason",
+        "Passengers protest planned hike, threaten strike action"
       ],
-      "source": "Business Standard",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Infrastructure",
-      "headline": "Water Supply Disrupted in Kolkata Due to Pipeline Rupture",
+      "category": "Labor",
+      "headline": "Union Demands Better Working Conditions for West Bengal Workers",
       "bullets": [
-        "500,000 residents affected, 3,000 affected households",
-        "City authorities scramble to repair pipeline, restore service",
-        "Residents advised to conserve water, use alternative sources"
+        "Union cites poor working conditions, low wages as grievances",
+        "Government promises to address concerns, but no timeline given",
+        "Workers plan to stage protest march in state capital"
       ],
-      "source": "India Today",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "Unseasonal Rainfall Hits Paddy Crops in North 24 Parganas",
-      "bullets": [
-        "50% of crop damage reported, 20% expected to be lost",
-        "Farmers claim lack of government support, compensation",
-        "Environmentalists warn of ecosystem disruption, long-term damage"
-      ],
-      "source": "The Economic Times",
+      "source": "Indian Express",
       "status": "DEVELOPING",
-      "impact_score": 3
+      "impact_score": 4
     }
   ],
   "faq": [
