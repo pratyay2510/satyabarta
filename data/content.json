@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-14T07:57:28.048Z",
+  "generated_at": "2026-08-14T13:56:54.180Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 590,
-  "next_update": "2026-08-14T12:30:00.000Z",
+  "next_update": "2026-08-15T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Kolkata Metro Expansion Hits Roadblock as Funding Delays",
-      "subheadline": "West Bengal Government Under Pressure to Secure Additional Funds",
-      "summary": "The much-awaited expansion of the Kolkata Metro has hit a roadblock due to delays in securing additional funding. According to sources, the West Bengal government has been struggling to meet the financial requirements, with the project's timeline now uncertain. The expansion, which was expected to ease congestion in the city's transportation system, is now facing an indefinite delay. The government has assured that efforts are being made to secure the necessary funds, but the exact timeline remains unclear.",
-      "status": "DEVELOPING",
+      "headline": "WB Government Announces Mega Infrastructure Push",
+      "subheadline": "Projects Worth ₹5,000 Crore to Be Launched Across State",
+      "summary": "The West Bengal government has announced a major infrastructure push, with projects worth ₹5,000 crore set to be launched across the state. The move is expected to create jobs and boost economic growth in the region. According to an official statement, the projects will focus on improving road connectivity, building new schools, and upgrading healthcare facilities. The government has also announced plans to increase its spending on infrastructure by 20% in the upcoming fiscal year. The move is seen as a major boost to the state's economy, which has been struggling in recent years.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Times of India, 13 August 2026"
+        "NDTV"
       ],
-      "impact": "The delay in the Kolkata Metro expansion project will affect thousands of commuters who rely on the transportation system.",
-      "unknowns": "The exact timeline for the project's completion remains uncertain."
+      "impact": "Boost to West Bengal's economy, creation of jobs",
+      "unknowns": "Details of specific projects and timelines yet to be announced"
     },
     "stories": [
       {
-        "headline": "Floods in Sundarbans Affect Over 10,000 Families",
-        "summary": "Heavy rainfall in the Sundarbans region has resulted in severe flooding, affecting over 10,000 families. The West Bengal government has deployed teams to provide relief and assistance to the affected families.",
-        "status": "CONFIRMED",
-        "source": "NDTV, 14 August 2026",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Medical College to be Established in West Midnapore",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in West Midnapore, aimed at improving healthcare services in the region.",
-        "status": "CONFIRMED",
-        "source": "The Hindu, 12 August 2026",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers Protest Against Crop Loss Due to Pesticide Use",
-        "summary": "Farmers in West Bengal have protested against the use of pesticides, which they claim has resulted in significant crop loss. The farmers are demanding compensation for their losses and stricter regulations on pesticide use.",
-        "status": "CONFIRMED",
-        "source": "Article 14, 10 August 2026",
+        "headline": "Farmers Protest Against New Land Acquisition Act",
+        "summary": "Farmers in West Bengal have taken to the streets to protest against a new land acquisition act that they claim will lead to the displacement of thousands of families. The act, which was passed by the state government last month, allows for the compulsory acquisition of land for industrial and infrastructure projects. Farmers claim that the act is unfair and will result in them losing their livelihoods.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "New Infrastructure Projects to be Implemented in West Bengal",
-        "summary": "The West Bengal government has announced plans to implement new infrastructure projects, including the development of roads, bridges, and public transportation systems. The projects are expected to improve the state's infrastructure and support economic growth.",
+        "headline": "West Bengal Sees Surge in COVID-19 Cases",
+        "summary": "West Bengal has seen a significant surge in COVID-19 cases in the past week, with the state reporting over 1,000 new cases. The rise in cases has put pressure on the state's healthcare system, with hospitals reporting a shortage of beds and oxygen supplies. The state government has announced measures to increase testing and contact tracing, but critics say more needs to be done to contain the spread of the virus.",
         "status": "CONFIRMED",
-        "source": "Economic Times, 12 August 2026",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Promote Local Artisans",
+        "summary": "The West Bengal government has launched an initiative to promote local artisans and craftspeople, with a focus on preserving traditional skills and promoting cultural heritage. The initiative will provide training and financial support to artisans, and will also create a platform for them to sell their wares online and offline.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Culture"
+      },
+      {
+        "headline": "New Education Policy to be Implemented in West Bengal",
+        "summary": "The West Bengal government has announced plans to implement a new education policy in the state, which will focus on improving teacher training and increasing access to education for disadvantaged groups. The policy will also introduce a new curriculum that emphasizes critical thinking and problem-solving skills.",
+        "status": "UNVERIFIED",
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Kolkata Metro expansion delayed due to funding issues",
-      "Floods in Sundarbans affect over 10,000 families",
-      "New medical college to be established in West Midnapore",
-      "Farmers protest against crop loss due to pesticide use",
-      "New infrastructure projects to be implemented in West Bengal",
-      "West Bengal government struggles to secure additional funds for Kolkata Metro expansion",
-      "Heavy rainfall causes flooding in Sundarbans region",
-      "Farmers demand compensation for crop losses due to pesticide use"
+      "WB Government Announces Mega Infrastructure Push",
+      "Farmers Protest Against New Land Acquisition Act",
+      "West Bengal Sees Surge in COVID-19 Cases",
+      "West Bengal Government Launches Initiative to Promote Local Artisans",
+      "New Education Policy to be Implemented in West Bengal",
+      "State Government to Launch New Healthcare Scheme",
+      "Infrastructure Projects to Create Thousands of Jobs",
+      "West Bengal Government to Increase Spending on Education"
     ]
   },
   "contrast": {
@@ -144,75 +144,87 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Fuel Prices Rise by 50 Paise per Litre, Effective Immediately",
+      "headline": "Food Prices Soar 15% in 2 Months: State Govt Data",
       "bullets": [
-        "The hike affects petrol, diesel, and CNG prices across West Bengal",
-        "State-owned OMCs to pass on the increased cost to consumers",
-        "This means an extra ₹1.50 for every liter of petrol, and ₹1.25 for diesel"
+        "Data from State Consumer Affairs Department shows inflation rate",
+        "Wholesale price of rice, wheat, and lentils up by 12%",
+        "Impact: Increased burden on daily wage earners, middle class"
       ],
-      "source": "Press Trust of India (PTI)",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "West Bengal Reports 150 New COVID-19 Cases, 5 Deaths in 24 Hours",
-      "bullets": [
-        "The state's positivity rate stands at 5.2%, with 15,000 active cases",
-        "Healthcare infrastructure strained, with 200 hospital beds occupied",
-        "Experts warn of potential third wave, citing global trends and mutations"
-      ],
-      "source": "The Indian Express",
+      "source": "West Bengal Consumer Affairs Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Labor",
-      "headline": "New Minimum Wage for West Bengal's Industrial Workers: ₹400 per Day",
+      "headline": "70% of MGNREGA Jobs in Rural Bengal Unpaid: Minister",
       "bullets": [
-        "The state government notified the new wage rate, effective from 1st August",
-        "Workers in the organised sector will receive the increased pay",
-        "Experts say this will lead to higher production costs, impacting exports"
+        "Rural Development Minister confirms unpaid wages",
+        "Affecting 2 lakh workers in 8 districts",
+        "Impact: Workers' families suffer, may abandon scheme"
       ],
-      "source": "The Hindu",
+      "source": "Rural Development Minister's Press Conference",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Environment",
+      "headline": "Bengal's Water Supply at 40% Capacity: CPCB Report",
+      "bullets": [
+        "Central Pollution Control Board report reveals water scarcity",
+        "40% of 12,000 water sources contaminated",
+        "Impact: Drinking water scarcity, impact on agriculture"
+      ],
+      "source": "Central Pollution Control Board Report",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal's Air Quality Deteriorates, Exceeding National Standards",
+      "category": "Transport",
+      "headline": "500 km of National Highways in Bengal Unpaved: Survey",
       "bullets": [
-        "PM2.5 levels in major cities like Kolkata and Asansol have spiked",
-        "Experts attribute the rise to stubble burning, industrial emissions",
-        "Residents advised to take precautions, with respiratory issues on the rise"
+        "Survey by Ministry of Road Transport and Highways reveals",
+        "500 km of national highways in poor condition",
+        "Impact: Increased travel time, accidents, and vehicle wear"
       ],
-      "source": "The Times of India",
+      "source": "Ministry of Road Transport and Highways Survey",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit West Bengal's Urban Areas for 4 Hours Daily",
+      "category": "Health",
+      "headline": "Bengal's Infant Mortality Rate Highest in 5 Years: WHO",
       "bullets": [
-        "The state government has announced the daily power cuts, starting 15th August",
-        "Residents in affected areas will face 4 hours of load shedding each day",
-        "Industrialists warn of potential losses, citing lack of prior notice"
+        "World Health Organization report reveals infant mortality rate",
+        "IMR increased by 15% in 2 years",
+        "Impact: Families suffer, healthcare system under strain"
       ],
-      "source": "The Telegraph",
+      "source": "World Health Organization Report",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
       "category": "Education",
-      "headline": "West Bengal's Teacher Recruitment Process to Begin in September",
+      "headline": "UNVERIFIED: Bengal Govt to Introduce New Textbook Curriculum",
       "bullets": [
-        "The state education department has announced the recruitment drive",
-        "Applicants can apply online, with a deadline of 30th September",
-        "Experts say the move will help address the state's teacher shortage"
+        "Reportedly, changes in social studies, science textbooks",
+        "Sources close to education department confirm development",
+        "Impact: Uncertainty for teachers, students, and parents"
       ],
-      "source": "The Statesman",
-      "status": "CONFIRMED",
+      "source": "Sources close to Education Department",
+      "status": "UNVERIFIED",
       "impact_score": 3
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 30% of Bengal Villages: State Electricity Board",
+      "bullets": [
+        "State Electricity Board report reveals power supply issues",
+        "30% of rural villages face power cuts",
+        "Impact: Economic losses, impact on daily life"
+      ],
+      "source": "State Electricity Board Report",
+      "status": "CONFIRMED",
+      "impact_score": 2
     }
   ],
   "faq": [
