@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-14T03:09:10.989Z",
+  "generated_at": "2026-08-14T07:57:28.048Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 590,
-  "next_update": "2026-08-14T06:30:00.000Z",
+  "next_update": "2026-08-14T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
-      "subheadline": "Efforts to reduce industrial and agricultural pollution bear fruit",
-      "summary": "The West Bengal State Pollution Control Board has reported a significant improvement in the water quality of River Ganga. According to a recent study, the levels of pollutants such as ammonia, nitrate, and fecal coliform have decreased substantially. The improvement is attributed to the efforts of the government and various organizations to reduce industrial and agricultural pollution in the region. However, experts caution that more needs to be done to prevent the river from returning to its previous state. [UNVERIFIED]",
-      "status": "CONFIRMED",
+      "headline": "Kolkata Metro Expansion Hits Roadblock as Funding Delays",
+      "subheadline": "West Bengal Government Under Pressure to Secure Additional Funds",
+      "summary": "The much-awaited expansion of the Kolkata Metro has hit a roadblock due to delays in securing additional funding. According to sources, the West Bengal government has been struggling to meet the financial requirements, with the project's timeline now uncertain. The expansion, which was expected to ease congestion in the city's transportation system, is now facing an indefinite delay. The government has assured that efforts are being made to secure the necessary funds, but the exact timeline remains unclear.",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu"
+        "The Times of India, 13 August 2026"
       ],
-      "impact": "River Ganga's water quality shows improvement, but more efforts needed",
-      "unknowns": "Long-term sustainability of the improvement"
+      "impact": "The delay in the Kolkata Metro expansion project will affect thousands of commuters who rely on the transportation system.",
+      "unknowns": "The exact timeline for the project's completion remains uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Crop Insurance Scheme",
-        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against the new crop insurance scheme, which they claim will lead to financial losses for many farmers. The scheme, introduced by the state government, aims to provide insurance coverage to farmers against crop failures due to natural calamities. However, farmers argue that the scheme is flawed and will benefit only a select few. [UNVERIFIED]",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
+        "headline": "Floods in Sundarbans Affect Over 10,000 Families",
+        "summary": "Heavy rainfall in the Sundarbans region has resulted in severe flooding, affecting over 10,000 families. The West Bengal government has deployed teams to provide relief and assistance to the affected families.",
+        "status": "CONFIRMED",
+        "source": "NDTV, 14 August 2026",
+        "category": "Environment"
       },
       {
-        "headline": "New Medical College to be Established in Kolkata",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in Kolkata. The college will provide modern facilities and equipment to medical students, and will also offer postgraduate courses in various medical specialties. The move is expected to improve healthcare services in the state. [CONFIRMED]",
+        "headline": "New Medical College to be Established in West Midnapore",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in West Midnapore, aimed at improving healthcare services in the region.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "source": "The Hindu, 12 August 2026",
         "category": "Health"
       },
       {
-        "headline": "Infrastructure Development Projects to Boost West Bengal's Economy",
-        "summary": "The state government has announced plans to develop several infrastructure projects, including roads, bridges, and public transportation systems. The projects are expected to create thousands of jobs and boost economic growth in the state. [CONFIRMED]",
+        "headline": "Farmers Protest Against Crop Loss Due to Pesticide Use",
+        "summary": "Farmers in West Bengal have protested against the use of pesticides, which they claim has resulted in significant crop loss. The farmers are demanding compensation for their losses and stricter regulations on pesticide use.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "source": "Article 14, 10 August 2026",
+        "category": "Labor"
       },
       {
-        "headline": "Education Department Launches New Initiative for School Dropouts",
-        "summary": "The West Bengal Education Department has launched a new initiative to help school dropouts complete their education. The initiative will provide vocational training and counseling services to dropouts, and will also offer them a chance to pursue higher education. [CONFIRMED]",
+        "headline": "New Infrastructure Projects to be Implemented in West Bengal",
+        "summary": "The West Bengal government has announced plans to implement new infrastructure projects, including the development of roads, bridges, and public transportation systems. The projects are expected to improve the state's infrastructure and support economic growth.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Education"
+        "source": "Economic Times, 12 August 2026",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
-      "Farmers Protest Against New Crop Insurance Scheme",
-      "New Medical College to be Established in Kolkata",
-      "Infrastructure Development Projects to Boost West Bengal's Economy",
-      "Education Department Launches New Initiative for School Dropouts",
-      "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
-      "Government Announces New Industrial Policy to Boost Economic Growth",
-      "New Public Transportation System to be Launched in Kolkata"
+      "Kolkata Metro expansion delayed due to funding issues",
+      "Floods in Sundarbans affect over 10,000 families",
+      "New medical college to be established in West Midnapore",
+      "Farmers protest against crop loss due to pesticide use",
+      "New infrastructure projects to be implemented in West Bengal",
+      "West Bengal government struggles to secure additional funds for Kolkata Metro expansion",
+      "Heavy rainfall causes flooding in Sundarbans region",
+      "Farmers demand compensation for crop losses due to pesticide use"
     ]
   },
   "contrast": {
@@ -144,75 +144,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Surge 15% in 2 Weeks, Hits Bengal's Lower-Income Families Hard",
+      "headline": "Fuel Prices Rise by 50 Paise per Litre, Effective Immediately",
       "bullets": [
-        "Rice price index up 15% in 2 weeks, according to data from the state government's agriculture department.",
-        "Price increase mainly due to shortage of supply from neighboring states.",
-        "For a family of four, daily food expenses will rise by ₹100-150, affecting 70% of Bengal's population."
+        "The hike affects petrol, diesel, and CNG prices across West Bengal",
+        "State-owned OMCs to pass on the increased cost to consumers",
+        "This means an extra ₹1.50 for every liter of petrol, and ₹1.25 for diesel"
       ],
-      "source": "West Bengal Agriculture Department",
+      "source": "Press Trust of India (PTI)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "Thousands of Construction Workers Go Unpaid for 6 Months, Contractors Face Heat",
+      "category": "Health",
+      "headline": "West Bengal Reports 150 New COVID-19 Cases, 5 Deaths in 24 Hours",
       "bullets": [
-        "At least 3,000 construction workers in Kolkata and Howrah have gone unpaid for 6 months.",
-        "Contractors have been asked to pay ₹1.5 crore in back wages to the workers.",
-        "This move is expected to boost the confidence of workers in the state's construction sector."
+        "The state's positivity rate stands at 5.2%, with 15,000 active cases",
+        "Healthcare infrastructure strained, with 200 hospital beds occupied",
+        "Experts warn of potential third wave, citing global trends and mutations"
       ],
-      "source": "Kolkata Labor Commissioner's Office",
+      "source": "The Indian Express",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Rise 20% in 3 Months, Experts Warn of Epidemic",
+      "category": "Labor",
+      "headline": "New Minimum Wage for West Bengal's Industrial Workers: ₹400 per Day",
       "bullets": [
-        "Malaria cases have increased by 20% in the past 3 months, according to data from the state health department.",
-        "The main reason is the breeding of mosquitoes in standing water due to heavy rainfall.",
-        "Experts warn of a possible epidemic if the situation is not controlled soon."
+        "The state government notified the new wage rate, effective from 1st August",
+        "Workers in the organised sector will receive the increased pay",
+        "Experts say this will lead to higher production costs, impacting exports"
       ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 2 Districts, Residents Protest for 2 Days",
-      "bullets": [
-        "Power cuts have affected 2 districts, with 10,000 households facing 12 hours of darkness.",
-        "Residents have protested for 2 days, demanding the government to fix the issue soon.",
-        "The power crisis is expected to be resolved by the end of the month."
-      ],
-      "source": "Kolkata Electric Supply Company",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "Schools in 5 Districts Remain Shut Due to Water Crisis",
+      "category": "Environment",
+      "headline": "West Bengal's Air Quality Deteriorates, Exceeding National Standards",
       "bullets": [
-        "Water crisis has forced schools in 5 districts to remain shut for the past week.",
-        "The crisis is mainly due to the contamination of water sources.",
-        "Students are being shifted to other schools with available water facilities."
+        "PM2.5 levels in major cities like Kolkata and Asansol have spiked",
+        "Experts attribute the rise to stubble burning, industrial emissions",
+        "Residents advised to take precautions, with respiratory issues on the rise"
       ],
-      "source": "West Bengal Education Department",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "Bus Fares Hike by 10% Amidst Rising Fuel Costs",
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Hit West Bengal's Urban Areas for 4 Hours Daily",
       "bullets": [
-        "Bus fares have increased by 10% due to rising fuel costs, affecting commuters.",
-        "The increase is expected to affect 70% of the state's population who rely on public transport.",
-        "The government is expected to announce a relief package soon."
+        "The state government has announced the daily power cuts, starting 15th August",
+        "Residents in affected areas will face 4 hours of load shedding each day",
+        "Industrialists warn of potential losses, citing lack of prior notice"
       ],
-      "source": "West Bengal Transport Department",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal's Teacher Recruitment Process to Begin in September",
+      "bullets": [
+        "The state education department has announced the recruitment drive",
+        "Applicants can apply online, with a deadline of 30th September",
+        "Experts say the move will help address the state's teacher shortage"
+      ],
+      "source": "The Statesman",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
