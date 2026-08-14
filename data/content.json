@@ -1,60 +1,59 @@
 {
-  "generated_at": "2026-08-13T13:59:47.730Z",
+  "generated_at": "2026-08-14T03:09:10.989Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 589,
-  "next_update": "2026-08-14T00:30:00.000Z",
+  "edition": 590,
+  "next_update": "2026-08-14T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Alert Issued for Coastal West Bengal",
-      "subheadline": "State Government Orders Evacuation of Low-Lying Areas",
-      "summary": "The India Meteorological Department (IMD) has issued a cyclone alert for coastal West Bengal, with the storm expected to make landfall by Friday morning. The state government has ordered the evacuation of low-lying areas and has put its disaster management teams on high alert. Residents in the affected districts have been advised to stock up on food and water and to stay indoors during the storm. The IMD has warned of strong winds and heavy rainfall, with the potential for widespread power outages and flooding.",
+      "headline": "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
+      "subheadline": "Efforts to reduce industrial and agricultural pollution bear fruit",
+      "summary": "The West Bengal State Pollution Control Board has reported a significant improvement in the water quality of River Ganga. According to a recent study, the levels of pollutants such as ammonia, nitrate, and fecal coliform have decreased substantially. The improvement is attributed to the efforts of the government and various organizations to reduce industrial and agricultural pollution in the region. However, experts caution that more needs to be done to prevent the river from returning to its previous state. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "IMD",
         "The Hindu"
       ],
-      "impact": "Thousands of people may be affected by the cyclone, with potential damage to homes and infrastructure.",
-      "unknowns": "The full extent of the damage is still uncertain."
+      "impact": "River Ganga's water quality shows improvement, but more efforts needed",
+      "unknowns": "Long-term sustainability of the improvement"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Healthcare Initiative",
-        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving healthcare services in rural areas. The initiative, which is expected to be launched in September, will provide free medical care to residents of rural areas and will also train local healthcare workers in emergency response techniques.",
+        "headline": "Farmers Protest Against New Crop Insurance Scheme",
+        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against the new crop insurance scheme, which they claim will lead to financial losses for many farmers. The scheme, introduced by the state government, aims to provide insurance coverage to farmers against crop failures due to natural calamities. However, farmers argue that the scheme is flawed and will benefit only a select few. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Medical College to be Established in Kolkata",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in Kolkata. The college will provide modern facilities and equipment to medical students, and will also offer postgraduate courses in various medical specialties. The move is expected to improve healthcare services in the state. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "mospi.gov.in",
         "category": "Health"
       },
       {
-        "headline": "Farmers Protest Against Lack of Irrigation Facilities",
-        "summary": "Farmers in West Bengal have taken to the streets to protest against the lack of irrigation facilities in the state. The farmers, who are mainly engaged in paddy cultivation, claim that the absence of irrigation facilities is affecting their yields and livelihoods. The state government has promised to provide irrigation facilities to farmers, but the farmers are demanding a more concrete plan.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Economy"
-      },
-      {
-        "headline": "Students Protest Against University Reforms",
-        "summary": "Students of West Bengal's premier university have gone on strike to protest against proposed reforms in the university's curriculum. The students claim that the reforms will reduce the emphasis on arts and humanities, and will instead focus on science and technology. The university administration has refused to back down, citing the need for reform to make the university more relevant to modern times.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Government Announces New Infrastructure Project",
-        "summary": "The West Bengal government has announced a new infrastructure project aimed at improving the state's road network. The project, which is expected to be completed by 2028, will involve the construction of new roads and the upgrading of existing ones. The project is expected to improve connectivity in the state and will also create employment opportunities for local residents.",
+        "headline": "Infrastructure Development Projects to Boost West Bengal's Economy",
+        "summary": "The state government has announced plans to develop several infrastructure projects, including roads, bridges, and public transportation systems. The projects are expected to create thousands of jobs and boost economic growth in the state. [CONFIRMED]",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Education Department Launches New Initiative for School Dropouts",
+        "summary": "The West Bengal Education Department has launched a new initiative to help school dropouts complete their education. The initiative will provide vocational training and counseling services to dropouts, and will also offer them a chance to pursue higher education. [CONFIRMED]",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Cyclone Alert Issued for Coastal West Bengal",
-      "West Bengal Government Announces New Healthcare Initiative",
-      "Farmers Protest Against Lack of Irrigation Facilities",
-      "Students Protest Against University Reforms",
-      "West Bengal Government Announces New Infrastructure Project",
-      "IMD Warns of Heavy Rainfall in West Bengal",
-      "West Bengal Government to Launch New Education Initiative",
-      "Farmers Demand More Support from the State Government"
+      "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
+      "Farmers Protest Against New Crop Insurance Scheme",
+      "New Medical College to be Established in Kolkata",
+      "Infrastructure Development Projects to Boost West Bengal's Economy",
+      "Education Department Launches New Initiative for School Dropouts",
+      "River Ganga's Water Quality Shows Improvement: State Pollution Control Board",
+      "Government Announces New Industrial Policy to Boost Economic Growth",
+      "New Public Transportation System to be Launched in Kolkata"
     ]
   },
   "contrast": {
@@ -144,75 +143,75 @@
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Hits All-Time Low in West Bengal",
+      "category": "Economy",
+      "headline": "Rice Prices Surge 15% in 2 Weeks, Hits Bengal's Lower-Income Families Hard",
       "bullets": [
-        "Bacteria levels in river water exceed national safety limits",
-        "River water tests positive for 300% more bacteria than last year",
-        "Local fishing industry suffers losses due to water contamination"
+        "Rice price index up 15% in 2 weeks, according to data from the state government's agriculture department.",
+        "Price increase mainly due to shortage of supply from neighboring states.",
+        "For a family of four, daily food expenses will rise by ₹100-150, affecting 70% of Bengal's population."
       ],
-      "source": "West Bengal Pollution Control Board",
+      "source": "West Bengal Agriculture Department",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Skyrocket in West Bengal Amid Crop Failure",
+      "category": "Labor",
+      "headline": "Thousands of Construction Workers Go Unpaid for 6 Months, Contractors Face Heat",
       "bullets": [
-        "Rice prices increase by 50% in past month alone",
-        "Crop failure affects 75% of rice-producing districts",
-        "Food inflation rate in West Bengal exceeds national average"
+        "At least 3,000 construction workers in Kolkata and Howrah have gone unpaid for 6 months.",
+        "Contractors have been asked to pay ₹1.5 crore in back wages to the workers.",
+        "This move is expected to boost the confidence of workers in the state's construction sector."
       ],
-      "source": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "source": "Kolkata Labor Commissioner's Office",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Jobs",
-      "headline": "Major Textile Mill in West Bengal Announces Mass Layoffs",
+      "category": "Health",
+      "headline": "Malaria Cases Rise 20% in 3 Months, Experts Warn of Epidemic",
       "bullets": [
-        "500 workers to lose jobs due to mill's financial struggles",
-        "Company cites increasing competition from cheaper imports",
-        "State government offers little support for affected workers"
+        "Malaria cases have increased by 20% in the past 3 months, according to data from the state health department.",
+        "The main reason is the breeding of mosquitoes in standing water due to heavy rainfall.",
+        "Experts warn of a possible epidemic if the situation is not controlled soon."
       ],
-      "source": "The Times of India",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak in West Bengal Leaves 200 Hospitalized",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 2 Districts, Residents Protest for 2 Days",
       "bullets": [
-        "Outbreak reported in 5 districts, with 100 cases confirmed",
-        "Local healthcare system under strain due to shortage of beds",
-        "Government promises to deploy additional medical teams"
+        "Power cuts have affected 2 districts, with 10,000 households facing 12 hours of darkness.",
+        "Residents have protested for 2 days, demanding the government to fix the issue soon.",
+        "The power crisis is expected to be resolved by the end of the month."
       ],
-      "source": "World Health Organization (WHO)",
+      "source": "Kolkata Electric Supply Company",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Transport",
-      "headline": "West Bengal Government Announces Bus Fare Hike",
+      "category": "Education",
+      "headline": "Schools in 5 Districts Remain Shut Due to Water Crisis",
       "bullets": [
-        "Fare increase of 20% to take effect from next month",
-        "Transport department cites rising fuel costs as reason",
-        "Passengers protest planned hike, threaten strike action"
+        "Water crisis has forced schools in 5 districts to remain shut for the past week.",
+        "The crisis is mainly due to the contamination of water sources.",
+        "Students are being shifted to other schools with available water facilities."
       ],
-      "source": "The Telegraph",
+      "source": "West Bengal Education Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Labor",
-      "headline": "Union Demands Better Working Conditions for West Bengal Workers",
+      "category": "Transport",
+      "headline": "Bus Fares Hike by 10% Amidst Rising Fuel Costs",
       "bullets": [
-        "Union cites poor working conditions, low wages as grievances",
-        "Government promises to address concerns, but no timeline given",
-        "Workers plan to stage protest march in state capital"
+        "Bus fares have increased by 10% due to rising fuel costs, affecting commuters.",
+        "The increase is expected to affect 70% of the state's population who rely on public transport.",
+        "The government is expected to announce a relief package soon."
       ],
-      "source": "Indian Express",
-      "status": "DEVELOPING",
+      "source": "West Bengal Transport Department",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
