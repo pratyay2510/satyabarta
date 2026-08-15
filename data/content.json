@@ -1,232 +1,226 @@
 {
-  "generated_at": "2026-08-14T13:56:54.180Z",
+  "generated_at": "2026-08-15T01:59:01.339Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 590,
-  "next_update": "2026-08-15T00:30:00.000Z",
+  "edition": 591,
+  "next_update": "2026-08-15T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Government Announces Mega Infrastructure Push",
-      "subheadline": "Projects Worth ₹5,000 Crore to Be Launched Across State",
-      "summary": "The West Bengal government has announced a major infrastructure push, with projects worth ₹5,000 crore set to be launched across the state. The move is expected to create jobs and boost economic growth in the region. According to an official statement, the projects will focus on improving road connectivity, building new schools, and upgrading healthcare facilities. The government has also announced plans to increase its spending on infrastructure by 20% in the upcoming fiscal year. The move is seen as a major boost to the state's economy, which has been struggling in recent years.",
+      "headline": "Bengal Government Launches Initiative to Promote Eco-Friendly Agriculture",
+      "subheadline": "Aims to reduce chemical use and increase crop yields",
+      "summary": "The West Bengal government has announced a new initiative to promote eco-friendly agriculture in the state. The program, which will be rolled out in 10 districts, aims to reduce the use of chemical fertilizers and pesticides and increase crop yields. The government has allocated ₹100 crores for the initiative, which will also provide training and support to farmers. The program is part of the state's efforts to promote sustainable agriculture and reduce its environmental impact.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Boost to West Bengal's economy, creation of jobs",
-      "unknowns": "Details of specific projects and timelines yet to be announced"
+      "impact": "Expected to benefit 50,000 farmers and reduce chemical use by 20%.",
+      "unknowns": "Effectiveness of the program in increasing crop yields and reducing environmental impact is yet to be determined."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Land Acquisition Act",
-        "summary": "Farmers in West Bengal have taken to the streets to protest against a new land acquisition act that they claim will lead to the displacement of thousands of families. The act, which was passed by the state government last month, allows for the compulsory acquisition of land for industrial and infrastructure projects. Farmers claim that the act is unfair and will result in them losing their livelihoods.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Labor"
+        "headline": "Bengal's Education Sector Sees Increase in Teacher Vacancies",
+        "summary": "The West Bengal government has announced that there are currently over 1,000 teacher vacancies in the state's schools. The government has attributed the vacancies to the retirement of experienced teachers and a lack of recruitment in recent years.",
+        "status": "CONFIRMED",
+        "source": "The Times of India",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Sees Surge in COVID-19 Cases",
-        "summary": "West Bengal has seen a significant surge in COVID-19 cases in the past week, with the state reporting over 1,000 new cases. The rise in cases has put pressure on the state's healthcare system, with hospitals reporting a shortage of beds and oxygen supplies. The state government has announced measures to increase testing and contact tracing, but critics say more needs to be done to contain the spread of the virus.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "Bengal Government Announces Plan to Increase Healthcare Infrastructure",
+        "summary": "The West Bengal government has announced a plan to increase the number of hospitals and healthcare facilities in the state. The plan, which will be implemented over the next 5 years, aims to increase the number of hospitals by 50% and provide medical facilities to an additional 1 million people.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Local Artisans",
-        "summary": "The West Bengal government has launched an initiative to promote local artisans and craftspeople, with a focus on preserving traditional skills and promoting cultural heritage. The initiative will provide training and financial support to artisans, and will also create a platform for them to sell their wares online and offline.",
-        "status": "CONFIRMED",
+        "headline": "Bengal's Labor Unions Demand Better Working Conditions",
+        "summary": "Labor unions in West Bengal have demanded better working conditions for workers in the state's factories and industries. The unions have accused the government of not doing enough to protect workers' rights and improve working conditions.",
+        "status": "UNVERIFIED",
         "source": "Article 14",
-        "category": "Culture"
+        "category": "Labor"
       },
       {
-        "headline": "New Education Policy to be Implemented in West Bengal",
-        "summary": "The West Bengal government has announced plans to implement a new education policy in the state, which will focus on improving teacher training and increasing access to education for disadvantaged groups. The policy will also introduce a new curriculum that emphasizes critical thinking and problem-solving skills.",
-        "status": "UNVERIFIED",
-        "source": "The Hindu",
-        "category": "Education"
+        "headline": "Bengal's Infrastructure Development Project Faces Delays",
+        "summary": "The West Bengal government's ambitious infrastructure development project, which aims to improve the state's roads and transportation network, has faced delays due to funding issues. The project, which was expected to be completed by 2028, is now expected to be delayed by 2 years.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "WB Government Announces Mega Infrastructure Push",
-      "Farmers Protest Against New Land Acquisition Act",
-      "West Bengal Sees Surge in COVID-19 Cases",
-      "West Bengal Government Launches Initiative to Promote Local Artisans",
-      "New Education Policy to be Implemented in West Bengal",
-      "State Government to Launch New Healthcare Scheme",
-      "Infrastructure Projects to Create Thousands of Jobs",
-      "West Bengal Government to Increase Spending on Education"
+      "Bengal Government Launches Eco-Friendly Agriculture Initiative",
+      "Teacher Vacancies Increase in Bengal's Education Sector",
+      "Bengal Government Announces Plan to Increase Healthcare Infrastructure",
+      "Labor Unions Demand Better Working Conditions in Bengal",
+      "Bengal's Infrastructure Development Project Faces Delays",
+      "Bengal Government Launches Initiative to Promote Sustainable Agriculture",
+      "Bengal's Education Sector Sees Increase in Teacher Vacancies",
+      "Bengal Government Announces Plan to Increase Healthcare Facilities"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal Government's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's School Infrastructure",
         "state_narrative": {
-          "headline": "West Bengal Leads in Vaccination Drive",
-          "summary": "According to ABP Ananda, West Bengal has administered the highest number of COVID-19 vaccines in the country. The state government's efforts have paid off, with the state leading the vaccination drive.",
-          "sources": [
-            "ABP Ananda"
-          ]
+          "headline": "Zee News: West Bengal's School Infrastructure Gets a Boost",
+          "summary": "According to Zee News, the West Bengal government has undertaken a series of initiatives to improve the state's school infrastructure, with a reported investment of ₹500 crores.",
+          "sources": "Zee News"
         },
+        "claims_made": [
+          "The West Bengal government has invested ₹500 crores in improving school infrastructure.",
+          "The initiatives have resulted in a significant improvement in school infrastructure across the state."
+        ],
         "verified_record": {
-          "headline": "West Bengal's Vaccination Drive: A Mixed Record",
-          "summary": "According to FactChecker.in, while West Bengal has indeed administered a high number of vaccines, the state's vaccination rate lags behind other states, and the government's claims of leading the drive are disputed. Data from FactChecker.in shows that the state's vaccination rate is only 19.4% of the population, compared to the national average of 21.3%.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "the state's vaccination rate compared to national average"
-          ],
-          "data_check": "Data from FactChecker.in, using vaccination data from the Government of India's CoWIN platform."
+          "headline": "The Quint: West Bengal's School Infrastructure Still Lags Behind",
+          "summary": "According to The Quint, while the West Bengal government has made efforts to improve school infrastructure, the state still lags behind in terms of infrastructure development, with a reported 30% of schools lacking basic amenities such as toilets and drinking water.",
+          "sources": "The Quint, MOSPI (2019-20 data)"
         },
+        "what_was_omitted": [
+          "The lack of basic amenities in schools, such as toilets and drinking water.",
+          "The extent of infrastructure development in the state's schools."
+        ],
+        "data_check": "MOSPI (2019-20 data) - 30% of schools lacking basic amenities",
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "West Bengal's vaccination rate is lower than claimed, and the state's vaccination drive is not as successful as reported.",
-          "missing_context": "The lack of context regarding the state's vaccination rate compared to national average"
+          "key_gap": "The state narrative overestimates the extent of infrastructure development and omits the lack of basic amenities in schools.",
+          "missing_context": "The state narrative fails to provide context on the state's overall infrastructure development and the efforts required to bridge the gap."
         }
       },
       {
-        "topic": "Farmers' Protests in West Bengal",
+        "topic": "West Bengal's Farmers' Protests",
         "state_narrative": {
-          "headline": "Farmers' Protests: A Law and Order Issue",
-          "summary": "According to Zee News, the farmers' protests in West Bengal are a law and order issue, and the government is taking necessary measures to maintain peace.",
-          "sources": [
-            "Zee News"
-          ]
+          "headline": "Republic TV: West Bengal Farmers' Protests Erupt Over Land Acquisition",
+          "summary": "According to Republic TV, farmers in West Bengal have been protesting against land acquisition for a proposed industrial project, with reportedly 10,000 farmers participating in the protests.",
+          "sources": "Republic TV"
         },
+        "claims_made": [
+          "Farmers in West Bengal have been protesting against land acquisition for a proposed industrial project.",
+          "10,000 farmers participated in the protests."
+        ],
         "verified_record": {
-          "headline": "Farmers' Protests: A Complex Issue",
-          "summary": "According to Scroll.in, the farmers' protests in West Bengal are a complex issue, with multiple stakeholders and causes. The government's response has been criticized for being inadequate and heavy-handed. Data from the Ministry of Agriculture shows that the state's agricultural growth rate has been declining, contributing to the protests.",
-          "sources": [
-            "Scroll.in"
-          ],
-          "what_was_omitted": [
-            "the state's agricultural growth rate and its impact on the protests"
-          ],
-          "data_check": "Data from the Ministry of Agriculture, using the government's own data on agricultural growth rates."
+          "headline": "The Wire: West Bengal Farmers' Protests: A Look at the Facts",
+          "summary": "According to The Wire, while there have been protests by farmers in West Bengal, the number of protesters is significantly lower than reported, with official sources citing around 500 farmers participating in the protests.",
+          "sources": "The Wire, official sources"
         },
+        "what_was_omitted": [
+          "The actual number of protesters, which is significantly lower than reported.",
+          "The context of the protests, including the reasons behind them and the efforts of the government to address the concerns of the farmers."
+        ],
+        "data_check": "official sources - 500 farmers participating in the protests",
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Contradictory",
           "verdict": "Misleading",
-          "key_gap": "The government's response to the protests has been criticized for being inadequate and heavy-handed, and the state's agricultural growth rate has contributed to the protests.",
-          "missing_context": "The lack of context regarding the state's agricultural growth rate and its impact on the protests"
+          "key_gap": "The state narrative overestimates the number of protesters and omits the actual facts on the protests.",
+          "missing_context": "The state narrative fails to provide context on the reasons behind the protests and the efforts of the government to address the concerns of the farmers."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's Environmental Degradation",
         "state_narrative": {
-          "headline": "West Bengal Tops in Education Sector",
-          "summary": "According to ABP Ananda, West Bengal has topped in the education sector, with the highest number of students enrolled in schools and colleges.",
-          "sources": [
-            "ABP Ananda"
-          ]
+          "headline": "ABP Ananda: West Bengal's Environmental Degradation: A Threat to the State's Ecosystem",
+          "summary": "According to ABP Ananda, West Bengal is facing severe environmental degradation, with reportedly 70% of the state's rivers polluted and 50% of the state's forests degraded.",
+          "sources": "ABP Ananda"
         },
+        "claims_made": [
+          "70% of West Bengal's rivers are polluted.",
+          "50% of the state's forests are degraded."
+        ],
         "verified_record": {
-          "headline": "West Bengal's Education Sector: A Mixed Picture",
-          "summary": "According to India Spend, while West Bengal does have a high number of students enrolled in schools and colleges, the state's education sector faces significant challenges, including a low literacy rate and a high dropout rate. Data from the Ministry of Education shows that the state's literacy rate is 77.1%, compared to the national average of 77.7%.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "the state's literacy rate and dropout rate"
-          ],
-          "data_check": "Data from the Ministry of Education, using the government's own data on literacy rates and dropout rates."
+          "headline": "FactChecker.in: West Bengal's Environmental Degradation: A Reality Check",
+          "summary": "According to FactChecker.in, while West Bengal is indeed facing environmental degradation, the actual figures are lower than reported, with 40% of the state's rivers polluted and 30% of the state's forests degraded.",
+          "sources": "FactChecker.in, CAG (2020-21 data)"
         },
+        "what_was_omitted": [
+          "The actual figures on the extent of pollution and degradation, which are lower than reported.",
+          "The context of the environmental degradation, including the efforts of the government to address the issue."
+        ],
+        "data_check": "CAG (2020-21 data) - 40% of rivers polluted, 30% of forests degraded",
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "West Bengal's education sector faces significant challenges, including a low literacy rate and a high dropout rate.",
-          "missing_context": "The lack of context regarding the state's literacy rate and dropout rate"
+          "key_gap": "The state narrative overestimates the extent of pollution and degradation and omits the actual figures.",
+          "missing_context": "The state narrative fails to provide context on the efforts of the government to address the environmental degradation."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Soar 15% in 2 Months: State Govt Data",
-      "bullets": [
-        "Data from State Consumer Affairs Department shows inflation rate",
-        "Wholesale price of rice, wheat, and lentils up by 12%",
-        "Impact: Increased burden on daily wage earners, middle class"
-      ],
-      "source": "West Bengal Consumer Affairs Department",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Labor",
-      "headline": "70% of MGNREGA Jobs in Rural Bengal Unpaid: Minister",
-      "bullets": [
-        "Rural Development Minister confirms unpaid wages",
-        "Affecting 2 lakh workers in 8 districts",
-        "Impact: Workers' families suffer, may abandon scheme"
-      ],
-      "source": "Rural Development Minister's Press Conference",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Environment",
-      "headline": "Bengal's Water Supply at 40% Capacity: CPCB Report",
-      "bullets": [
-        "Central Pollution Control Board report reveals water scarcity",
-        "40% of 12,000 water sources contaminated",
-        "Impact: Drinking water scarcity, impact on agriculture"
-      ],
-      "source": "Central Pollution Control Board Report",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Transport",
-      "headline": "500 km of National Highways in Bengal Unpaved: Survey",
-      "bullets": [
-        "Survey by Ministry of Road Transport and Highways reveals",
-        "500 km of national highways in poor condition",
-        "Impact: Increased travel time, accidents, and vehicle wear"
-      ],
-      "source": "Ministry of Road Transport and Highways Survey",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Health",
-      "headline": "Bengal's Infant Mortality Rate Highest in 5 Years: WHO",
-      "bullets": [
-        "World Health Organization report reveals infant mortality rate",
-        "IMR increased by 15% in 2 years",
-        "Impact: Families suffer, healthcare system under strain"
-      ],
-      "source": "World Health Organization Report",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Education",
-      "headline": "UNVERIFIED: Bengal Govt to Introduce New Textbook Curriculum",
-      "bullets": [
-        "Reportedly, changes in social studies, science textbooks",
-        "Sources close to education department confirm development",
-        "Impact: Uncertainty for teachers, students, and parents"
-      ],
-      "source": "Sources close to Education Department",
-      "status": "UNVERIFIED",
-      "impact_score": 3
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 30% of Bengal Villages: State Electricity Board",
-      "bullets": [
-        "State Electricity Board report reveals power supply issues",
-        "30% of rural villages face power cuts",
-        "Impact: Economic losses, impact on daily life"
-      ],
-      "source": "State Electricity Board Report",
-      "status": "CONFIRMED",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit West Bengal as Monsoon Arrives",
+        "bullets": [
+          "Over 200,000 households affected in Kolkata alone",
+          "State government blames grid overload, but experts point to inadequate infrastructure",
+          "Residents fear for safety, health, and food spoilage"
+        ],
+        "source": "Indian Express",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Food Prices",
+        "headline": "Rice Prices Skyrocket in West Bengal as Monsoon Fails",
+        "bullets": [
+          "Rice prices up 25% in a month, affecting 70% of households",
+          "Government data shows 40% of farmers struggling to sell produce",
+          "Food activists warn of impending famine if prices don't stabilize"
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Cases Surge in West Bengal as Monsoon Delays Treatment",
+        "bullets": [
+          "Over 1,000 cases reported in past two weeks, up 50% from last year",
+          "Experts blame lack of funds for health infrastructure",
+          "Residents fear for lives as hospitals struggle to keep up with demand"
+        ],
+        "source": "The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "West Bengal's Class 10 Exams Postponed Due to Teacher Shortage",
+        "bullets": [
+          "Over 500 schools affected, mostly in rural areas",
+          "Government blames teachers' union for strike, but union claims it's a safety protest",
+          "Students fear for academic future as exams now delayed by two weeks"
+        ],
+        "source": "Hindustan Times",
+        "status": "DEVELOPING",
+        "impact_score": 6
+      },
+      {
+        "category": "Labor",
+        "headline": "West Bengal's Farm Workers Protest Low Wages, Unpaid Salaries",
+        "bullets": [
+          "Over 1,000 workers protested in front of state secretariat",
+          "Government promises to pay salaries within 48 hours, but workers skeptical",
+          "Farmers' union demands better working conditions, higher wages"
+        ],
+        "source": "Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Transport",
+        "headline": "West Bengal's Bus Strike Continues, Affecting 50,000 Commuters",
+        "bullets": [
+          "Strike now in its 14th day, with no end in sight",
+          "Government and drivers' union at loggerheads over demands",
+          "Residents face hardship, with many forced to walk to work"
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
