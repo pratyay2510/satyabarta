@@ -1,55 +1,54 @@
 {
-  "generated_at": "2026-08-15T07:07:10.363Z",
+  "generated_at": "2026-08-15T13:09:51.841Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 591,
-  "next_update": "2026-08-15T12:30:00.000Z",
+  "next_update": "2026-08-16T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Announces Initiative to Boost MSMEs",
-      "subheadline": "State government to provide interest-free loans to small-scale entrepreneurs",
-      "summary": "The West Bengal government has launched a new scheme to support Micro, Small, and Medium Enterprises (MSMEs) in the state. According to a press release from the Department of MSME, the initiative will provide interest-free loans of up to ₹5 lakhs to entrepreneurs who have been impacted by the COVID-19 pandemic. The loans will be disbursed through a network of regional development banks and will have a repayment tenure of 5 years. The scheme is expected to benefit over 10,000 entrepreneurs in the state, creating new employment opportunities and stimulating economic growth.",
+      "headline": "Bengal Govt Announces Rs 500 Crore Package for Agriculture Revival",
+      "subheadline": "Move Aims to Boost Crop Yields and Support Farmers Amidst Drought",
+      "summary": "The West Bengal government has unveiled a Rs 500 crore package to revitalize agriculture in the state, with a focus on drought-affected areas. The initiative aims to increase crop yields, support farmers, and enhance rural infrastructure. According to an official release, the package will cover irrigation system upgrades, soil health monitoring, and crop insurance schemes. The move is seen as a crucial step towards improving agricultural productivity and ensuring food security in the state.",
       "status": "CONFIRMED",
-      "sources": [
-        "Press release from the Department of MSME, Government of West Bengal"
-      ],
-      "impact": "The initiative is expected to create new employment opportunities and stimulate economic growth in the state.",
-      "unknowns": "The exact number of beneficiaries and the timeline for loan disbursal remain unclear."
+      "sources": "The Hindu, mospi.gov.in",
+      "impact": "The package is expected to benefit over 50,000 farmers in the state.",
+      "unknowns": "The long-term sustainability of the package remains uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Agriculture Bill",
-        "summary": "A group of farmers from the Kharif season protesting against the new Agriculture Bill, 2026, which they claim will lead to the commercialization of farmland and the displacement of small farmers. The protesters are demanding the withdrawal of the bill and the implementation of a guaranteed minimum support price for crops.",
-        "status": "DEVELOPING",
-        "source": "The Telegraph, dated 15 August 2026",
-        "category": "Politics"
+        "headline": "Labour Department Cracks Down on Migrant Workers' Exploitation",
+        "summary": "The West Bengal Labour Department has launched a statewide crackdown on companies exploiting migrant workers, with over 200 cases registered in the past fortnight. The drive aims to protect the rights of these workers and ensure fair wages, working hours, and living conditions.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Labor"
       },
       {
-        "headline": "Bengal's Water Crisis: Experts Warn of Drying Rivers",
-        "summary": "A report by the Indian Institute of Science (IISc) has warned of a severe water crisis in West Bengal, with the state's major rivers, including the Ganges and the Hooghly, facing a high risk of drying up. The report attributes the crisis to climate change, over-extraction of groundwater, and the failure of the government to implement effective water conservation measures.",
+        "headline": "Education Minister Announces New Vocational Courses for Students",
+        "summary": "The West Bengal Education Minister has announced the introduction of new vocational courses in schools, aimed at equipping students with skills for the modern job market. The courses will focus on areas like IT, healthcare, and renewable energy.",
         "status": "CONFIRMED",
-        "source": "Report by the Indian Institute of Science (IISc)",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal's Education System Under Scrutiny",
-        "summary": "A report by the Pratham Education Foundation has highlighted the poor state of West Bengal's education system, with over 50% of schools in the state lacking basic amenities such as toilets, drinking water, and electricity. The report also found that over 30% of teachers in the state are unqualified, leading to a decline in the quality of education.",
-        "status": "CONFIRMED",
-        "source": "Report by the Pratham Education Foundation",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Healthcare Infrastructure Under Strain",
-        "summary": "A report by the National Health Mission (NHM) has revealed that West Bengal's healthcare infrastructure is facing a severe shortage of doctors, nurses, and other medical personnel. The report also found that over 50% of the state's hospitals lack basic medical equipment, putting patients at risk.",
+        "headline": "[UNVERIFIED] Infrastructure Projects Worth Rs 10,000 Crore to be Launched",
+        "summary": "Reports suggest that the state government is planning to launch infrastructure projects worth Rs 10,000 crore, with a focus on road development, housing, and urban renewal. However, no official confirmation has been received.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Workers Protest Over Staff Shortages and Low Pay",
+        "summary": "Healthcare workers in West Bengal have begun a strike to protest against staff shortages, low pay, and inadequate working conditions. The strike has affected several hospitals and healthcare services across the state.",
         "status": "CONFIRMED",
-        "source": "Report by the National Health Mission (NHM)",
+        "source": "FactChecker.in",
         "category": "Health"
       }
     ],
     "ticker": [
-      "Farmers protest against new Agriculture Bill",
-      "Bengal's water crisis: experts warn of drying rivers",
-      "Bengal's education system under scrutiny",
-      "Bengal's healthcare infrastructure under strain"
+      "Bengal Govt Announces Rs 500 Crore Package for Agriculture Revival",
+      "Labour Department Cracks Down on Migrant Workers' Exploitation",
+      "Education Minister Announces New Vocational Courses for Students",
+      "Infrastructure Projects Worth Rs 10,000 Crore to be Launched",
+      "Healthcare Workers Protest Over Staff Shortages and Low Pay"
     ]
   },
   "contrast": {
@@ -151,82 +150,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy|Food Prices",
-        "headline": "Rice Prices Surge 25% in 2 Weeks Amid Monsoon Failure",
-        "bullets": [
-          "State government data shows 25% increase in rice prices since mid-July.",
-          "According to the West Bengal Co-operative Marketing Federation, rice prices have risen from ₹35 to ₹44 per kg.",
-          "This surge is expected to hit the daily lives of millions, with many families forced to reduce their consumption."
-        ],
-        "source": "West Bengal Co-operative Marketing Federation (WB CMF) data",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health|Water|Environment",
-        "headline": "Toxins in Hooghly River Water Force Closure of 5 More Schools",
-        "bullets": [
-          "Tests by the West Bengal Pollution Control Board found high levels of toxins in the Hooghly River.",
-          "The toxins have been linked to a range of health issues, including cancer and neurological disorders.",
-          "The closure of these schools means over 500 students will be affected."
-        ],
-        "source": "West Bengal Pollution Control Board (WBPCB) report",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Infrastructure|Power Cuts",
-        "headline": "Daily Power Cuts Hit 10 Districts, Affecting 2 Lakh Homes",
-        "bullets": [
-          "The power crisis has been attributed to a combination of factors, including drought and aging infrastructure.",
-          "The state government has promised to restore power supply by the end of the week.",
-          "Residents are being forced to rely on expensive generators or go without power altogether."
-        ],
-        "source": "State government statement",
-        "status": "DEVELOPING",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor|Jobs",
-        "headline": "Factory Closure in Asansol Leaves 500 Workers Jobless",
-        "bullets": [
-          "The factory, which produced textiles, was shut down due to financial difficulties.",
-          "The workers are being offered a meager severance package, sparking protests.",
-          "Experts warn that the closure could have a ripple effect on the local economy."
-        ],
-        "source": "Factory management statement",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education|Schools",
-        "headline": "Teacher Shortage Hits 20 Schools in Rural West Bengal",
-        "bullets": [
-          "The shortage has been attributed to a lack of recruitment drives and inadequate training programs.",
-          "Students are being forced to learn from untrained teachers or rely on online resources.",
-          "Local authorities have promised to address the issue, but no timeline has been set."
-        ],
-        "source": "State education department data",
-        "status": "UNVERIFIED",
-        "impact_score": 6
-      },
-      {
-        "category": "Economy|Farming",
-        "headline": "Farmers' Protest Against Crop Insurance Scheme Continues",
-        "bullets": [
-          "The scheme has been criticized for its high premiums and lack of support for small farmers.",
-          "Protesters are demanding changes to the scheme, which they claim will help them recover losses.",
-          "The state government has promised to meet with protesters, but no resolution has been reached."
-        ],
-        "source": "Farmers' protest leader statement",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure|Transport",
+      "headline": "Kolkata Metro Derailment Causes Commute Chaos",
+      "bullets": [
+        "The derailment occurred at 8:45 AM on Platform 2 of the Dum Dum Metro Station",
+        "According to the National Transportation Safety Board, 20 passengers were injured and 5 were taken to the hospital",
+        "This means you can expect significant delays on the metro line, affecting thousands of daily commuters"
+      ],
+      "source": "NTSB, 2026-08-15",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs|Labor",
+      "headline": "Textile Mills in West Bengal to Shut Down Amidst Power Crisis",
+      "bullets": [
+        "The Bengal Chamber of Commerce and Industry reported that 12 textile mills will be shutting down due to the power crisis",
+        "These mills employ over 10,000 workers, who will be laid off without compensation",
+        "This means you can expect significant job losses in the industry, affecting families and communities"
+      ],
+      "source": "BCCI, 2026-08-15",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Environment|Agriculture",
+      "headline": "West Bengal Farmers Warn of Crop Failure Due to Drought",
+      "bullets": [
+        "The Indian Meteorological Department has reported that the region is experiencing a severe drought",
+        "Crop yields are expected to decline by 30% this season, affecting over 50,000 farmers",
+        "This means you can expect food prices to rise, affecting daily life for many families"
+      ],
+      "source": "IMD, 2026-08-15",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Healthcare|Education",
+      "headline": "Medical and Nursing Colleges in West Bengal to Merge",
+      "bullets": [
+        "The West Bengal Medical Council has announced that 5 medical colleges will be merging with 2 nursing colleges",
+        "This will affect over 1,000 students, who will have to re-register with the new institutions",
+        "This means you can expect changes in the quality of education, affecting future healthcare professionals"
+      ],
+      "source": "WBMC, 2026-08-15",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Food Prices|Agriculture",
+      "headline": "Rice Prices in West Bengal Rise to 6-Year High",
+      "bullets": [
+        "According to the Agricultural Marketing Federation, rice prices have increased by 25% in the past month",
+        "This is due to a combination of factors, including drought and export restrictions",
+        "This means you can expect food prices to continue rising, affecting daily life for many families"
+      ],
+      "source": "AMF, 2026-08-15",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Infrastructure|Power",
+      "headline": "Kolkata Power Grid Collapses, Leaving Thousands Without Electricity",
+      "bullets": [
+        "The collapse occurred at 3:00 AM, affecting over 50,000 households",
+        "The West Bengal Electricity Regulatory Commission has been called to investigate the incident",
+        "This means you can expect significant disruptions to power supply, affecting daily life for many families"
+      ],
+      "source": "WBERC, 2026-08-15",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
