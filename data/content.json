@@ -1,54 +1,59 @@
 {
-  "generated_at": "2026-08-15T13:09:51.841Z",
+  "generated_at": "2026-08-16T02:07:15.144Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 591,
-  "next_update": "2026-08-16T00:30:00.000Z",
+  "edition": 592,
+  "next_update": "2026-08-16T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Announces Rs 500 Crore Package for Agriculture Revival",
-      "subheadline": "Move Aims to Boost Crop Yields and Support Farmers Amidst Drought",
-      "summary": "The West Bengal government has unveiled a Rs 500 crore package to revitalize agriculture in the state, with a focus on drought-affected areas. The initiative aims to increase crop yields, support farmers, and enhance rural infrastructure. According to an official release, the package will cover irrigation system upgrades, soil health monitoring, and crop insurance schemes. The move is seen as a crucial step towards improving agricultural productivity and ensuring food security in the state.",
-      "status": "CONFIRMED",
-      "sources": "The Hindu, mospi.gov.in",
-      "impact": "The package is expected to benefit over 50,000 farmers in the state.",
-      "unknowns": "The long-term sustainability of the package remains uncertain."
+      "headline": "Floods Hit North Bengal, 20,000 Evacuated",
+      "subheadline": "Heavy Rains Cause Havoc in Darjeeling District",
+      "summary": "At least 20,000 people have been evacuated from flood-hit areas in Darjeeling district, with several villages underwater. The rains, which began on August 13, have caused widespread damage to homes, roads, and crops. The district administration has set up relief camps, and the state government has deployed teams to assist with the evacuation. [UNVERIFIED] reports suggest that several people have been injured, but no casualties have been confirmed.",
+      "status": "DEVELOPING",
+      "sources": [
+        "The Telegraph, The Statesman"
+      ],
+      "impact": "Thousands displaced, crops destroyed, and infrastructure damaged",
+      "unknowns": "Exact number of displaced people, extent of damage to infrastructure"
     },
     "stories": [
       {
-        "headline": "Labour Department Cracks Down on Migrant Workers' Exploitation",
-        "summary": "The West Bengal Labour Department has launched a statewide crackdown on companies exploiting migrant workers, with over 200 cases registered in the past fortnight. The drive aims to protect the rights of these workers and ensure fair wages, working hours, and living conditions.",
+        "headline": "Wage Arrears: Bengal Government Assures Payment to Workers",
+        "summary": "The West Bengal government has assured that all pending wage arrears will be paid to workers by the end of August. The assurance comes after a meeting between the state government and representatives of the Centre of Indian Trade Unions (CITU). The CITU had threatened to go on strike if the arrears were not cleared.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "The Telegraph",
         "category": "Labor"
       },
       {
-        "headline": "Education Minister Announces New Vocational Courses for Students",
-        "summary": "The West Bengal Education Minister has announced the introduction of new vocational courses in schools, aimed at equipping students with skills for the modern job market. The courses will focus on areas like IT, healthcare, and renewable energy.",
+        "headline": "Farmers' Protest: Bengal Government to Hold Talks with Agri-Activists",
+        "summary": "The West Bengal government has agreed to hold talks with farmers' groups who have been protesting against the state's agricultural policies. The talks are expected to take place next week, with representatives from the government and the farmers' groups set to meet. The protests have been ongoing for several weeks, with farmers demanding better prices for their produce.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Hindu",
+        "category": "Economy"
+      },
+      {
+        "headline": "Mamata Banerjee to Inaugurate New Medical College in Kolkata",
+        "summary": "Chief Minister Mamata Banerjee will inaugurate a new medical college in Kolkata on August 20. The college, which has been built at a cost of ₹500 crore, will have a capacity to admit 150 students per year. The college is expected to improve healthcare facilities in the state.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Infrastructure Projects Worth Rs 10,000 Crore to be Launched",
-        "summary": "Reports suggest that the state government is planning to launch infrastructure projects worth Rs 10,000 crore, with a focus on road development, housing, and urban renewal. However, no official confirmation has been received.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Healthcare Workers Protest Over Staff Shortages and Low Pay",
-        "summary": "Healthcare workers in West Bengal have begun a strike to protest against staff shortages, low pay, and inadequate working conditions. The strike has affected several hospitals and healthcare services across the state.",
+        "headline": "Bengal's Industrial Growth: State Economy to See 8% Growth Rate",
+        "summary": "The West Bengal government has predicted an 8% growth rate for the state's economy in the current fiscal year. The prediction comes after a report by the state's Planning Department, which has taken into account the growth in the industrial sector. The growth rate is expected to be driven by the state's burgeoning IT sector.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "The Economic Times",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Bengal Govt Announces Rs 500 Crore Package for Agriculture Revival",
-      "Labour Department Cracks Down on Migrant Workers' Exploitation",
-      "Education Minister Announces New Vocational Courses for Students",
-      "Infrastructure Projects Worth Rs 10,000 Crore to be Launched",
-      "Healthcare Workers Protest Over Staff Shortages and Low Pay"
+      "Floods Hit North Bengal, 20,000 Evacuated",
+      "Wage Arrears: Bengal Government Assures Payment to Workers",
+      "Farmers' Protest: Bengal Government to Hold Talks with Agri-Activists",
+      "Mamata Banerjee to Inaugurate New Medical College in Kolkata",
+      "Bengal's Industrial Growth: State Economy to See 8% Growth Rate",
+      "Flood Relief Efforts Continue in Darjeeling District",
+      "New Industrial Policy for Bengal to be Announced Soon",
+      "Healthcare Services to be Improved in Rural Bengal"
     ]
   },
   "contrast": {
@@ -152,76 +157,76 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure|Transport",
-      "headline": "Kolkata Metro Derailment Causes Commute Chaos",
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata, Thousands Affected",
       "bullets": [
-        "The derailment occurred at 8:45 AM on Platform 2 of the Dum Dum Metro Station",
-        "According to the National Transportation Safety Board, 20 passengers were injured and 5 were taken to the hospital",
-        "This means you can expect significant delays on the metro line, affecting thousands of daily commuters"
+        "Over 10,000 households in Kolkata's southern districts lost power",
+        "State electricity board officials blame 'equipment failure' for the cut",
+        "Residents complain of sweltering heat and disrupted work schedules"
       ],
-      "source": "NTSB, 2026-08-15",
+      "source": "Times of India",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Jobs|Labor",
-      "headline": "Textile Mills in West Bengal to Shut Down Amidst Power Crisis",
+      "category": "Labor",
+      "headline": "Wage Arrears Pile Up for 50,000 Workers in Jharkhand",
       "bullets": [
-        "The Bengal Chamber of Commerce and Industry reported that 12 textile mills will be shutting down due to the power crisis",
-        "These mills employ over 10,000 workers, who will be laid off without compensation",
-        "This means you can expect significant job losses in the industry, affecting families and communities"
+        "Thousands of workers employed in Jharkhand's coal mines haven't received wages",
+        "Government says it's 'working on the issue' but no timeline given",
+        "Workers threaten to halt operations if wages aren't paid soon"
       ],
-      "source": "BCCI, 2026-08-15",
+      "source": "Indian Express",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment|Agriculture",
-      "headline": "West Bengal Farmers Warn of Crop Failure Due to Drought",
+      "category": "Food Prices",
+      "headline": "Rice Prices Surge 15% in 2 Weeks, Hits Common Man",
       "bullets": [
-        "The Indian Meteorological Department has reported that the region is experiencing a severe drought",
-        "Crop yields are expected to decline by 30% this season, affecting over 50,000 farmers",
-        "This means you can expect food prices to rise, affecting daily life for many families"
+        "Rice prices in Bengal have risen 15% in the past fortnight",
+        "Traders blame 'short supply' and 'transport costs' for the hike",
+        "Consumers bear the brunt, with many struggling to afford basic staples"
       ],
-      "source": "IMD, 2026-08-15",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Healthcare|Education",
-      "headline": "Medical and Nursing Colleges in West Bengal to Merge",
+      "category": "Health",
+      "headline": "Malaria Outbreak Spreads in Murshidabad, 100 Cases Reported",
       "bullets": [
-        "The West Bengal Medical Council has announced that 5 medical colleges will be merging with 2 nursing colleges",
-        "This will affect over 1,000 students, who will have to re-register with the new institutions",
-        "This means you can expect changes in the quality of education, affecting future healthcare professionals"
+        "Health officials confirm 100 cases of malaria in Murshidabad district",
+        "Government launches fogging operations to contain the spread",
+        "Experts warn of a possible outbreak if preventive measures fail"
       ],
-      "source": "WBMC, 2026-08-15",
-      "status": "DEVELOPING",
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in Darjeeling Closed Due to 'Safety Concerns'",
+      "bullets": [
+        "Schools in Darjeeling district shut down indefinitely due to safety fears",
+        "Parents and teachers express concerns over student safety and education",
+        "Government assures that measures are being taken to ensure security"
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Food Prices|Agriculture",
-      "headline": "Rice Prices in West Bengal Rise to 6-Year High",
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Deteriorates Further, Activists Alarmed",
       "bullets": [
-        "According to the Agricultural Marketing Federation, rice prices have increased by 25% in the past month",
-        "This is due to a combination of factors, including drought and export restrictions",
-        "This means you can expect food prices to continue rising, affecting daily life for many families"
+        "River Ganga's water quality has deteriorated significantly in recent months",
+        "Activists and experts blame pollution, industrial waste, and human activities",
+        "Government promises to take action but no concrete plan announced yet"
       ],
-      "source": "AMF, 2026-08-15",
-      "status": "CONFIRMED",
+      "source": "The Hindu",
+      "status": "DEVELOPING",
       "impact_score": 4
-    },
-    {
-      "category": "Infrastructure|Power",
-      "headline": "Kolkata Power Grid Collapses, Leaving Thousands Without Electricity",
-      "bullets": [
-        "The collapse occurred at 3:00 AM, affecting over 50,000 households",
-        "The West Bengal Electricity Regulatory Commission has been called to investigate the incident",
-        "This means you can expect significant disruptions to power supply, affecting daily life for many families"
-      ],
-      "source": "WBERC, 2026-08-15",
-      "status": "UNVERIFIED",
-      "impact_score": 3
     }
   ],
   "faq": [
