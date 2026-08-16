@@ -1,59 +1,56 @@
 {
-  "generated_at": "2026-08-16T02:07:15.144Z",
+  "generated_at": "2026-08-16T07:07:58.916Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 592,
-  "next_update": "2026-08-16T06:30:00.000Z",
+  "next_update": "2026-08-16T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Hit North Bengal, 20,000 Evacuated",
-      "subheadline": "Heavy Rains Cause Havoc in Darjeeling District",
-      "summary": "At least 20,000 people have been evacuated from flood-hit areas in Darjeeling district, with several villages underwater. The rains, which began on August 13, have caused widespread damage to homes, roads, and crops. The district administration has set up relief camps, and the state government has deployed teams to assist with the evacuation. [UNVERIFIED] reports suggest that several people have been injured, but no casualties have been confirmed.",
-      "status": "DEVELOPING",
+      "headline": "West Bengal Braces for Cyclone Threat",
+      "subheadline": "State Government Orders Evacuations Amid Heavy Rainfall",
+      "summary": "West Bengal is bracing for a potential cyclone threat as the India Meteorological Department (IMD) issued a warning for heavy rainfall and strong winds. The state government has ordered evacuations in low-lying areas, with over 10,000 people relocated to safer zones. The IMD has predicted heavy rainfall of up to 200 mm in several districts, with the possibility of a cyclone forming in the Bay of Bengal.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Telegraph, The Statesman"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "Thousands displaced, crops destroyed, and infrastructure damaged",
-      "unknowns": "Exact number of displaced people, extent of damage to infrastructure"
+      "impact": "Thousands of people affected, potential loss of life and property",
+      "unknowns": "Intensity of the cyclone, extent of damage"
     },
     "stories": [
       {
-        "headline": "Wage Arrears: Bengal Government Assures Payment to Workers",
-        "summary": "The West Bengal government has assured that all pending wage arrears will be paid to workers by the end of August. The assurance comes after a meeting between the state government and representatives of the Centre of Indian Trade Unions (CITU). The CITU had threatened to go on strike if the arrears were not cleared.",
+        "headline": "Farmers' Protest Enters 50th Day",
+        "summary": "Farmers from across West Bengal have been protesting in Kolkata demanding better prices for their produce and improved irrigation facilities. The protest, which has entered its 50th day, has seen farmers blockading major highways and disrupting supply chains.",
         "status": "CONFIRMED",
-        "source": "The Telegraph",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "Farmers' Protest: Bengal Government to Hold Talks with Agri-Activists",
-        "summary": "The West Bengal government has agreed to hold talks with farmers' groups who have been protesting against the state's agricultural policies. The talks are expected to take place next week, with representatives from the government and the farmers' groups set to meet. The protests have been ongoing for several weeks, with farmers demanding better prices for their produce.",
+        "headline": "New Medical College to be Set Up in North Bengal",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal, with an estimated investment of ₹200 crore. The college will provide medical education to 150 students per year and will be equipped with state-of-the-art infrastructure.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Economy"
-      },
-      {
-        "headline": "Mamata Banerjee to Inaugurate New Medical College in Kolkata",
-        "summary": "Chief Minister Mamata Banerjee will inaugurate a new medical college in Kolkata on August 20. The college, which has been built at a cost of ₹500 crore, will have a capacity to admit 150 students per year. The college is expected to improve healthcare facilities in the state.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "mospi.gov.in",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Industrial Growth: State Economy to See 8% Growth Rate",
-        "summary": "The West Bengal government has predicted an 8% growth rate for the state's economy in the current fiscal year. The prediction comes after a report by the state's Planning Department, which has taken into account the growth in the industrial sector. The growth rate is expected to be driven by the state's burgeoning IT sector.",
+        "headline": "River Ganges Water Quality Worsens",
+        "summary": "The water quality of the River Ganges has worsened, with the Central Pollution Control Board (CPCB) reporting high levels of bacterial contamination. The CPCB has warned of potential health risks to people consuming water from the river.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "Unemployment Rate Remains High in West Bengal",
+        "summary": "The unemployment rate in West Bengal remains high, with data from the National Sample Survey Office (NSSO) showing that over 12% of the workforce is unemployed. The NSSO has attributed the high rate to a lack of job opportunities in the informal sector.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
         "category": "Economy"
       }
     ],
     "ticker": [
-      "Floods Hit North Bengal, 20,000 Evacuated",
-      "Wage Arrears: Bengal Government Assures Payment to Workers",
-      "Farmers' Protest: Bengal Government to Hold Talks with Agri-Activists",
-      "Mamata Banerjee to Inaugurate New Medical College in Kolkata",
-      "Bengal's Industrial Growth: State Economy to See 8% Growth Rate",
-      "Flood Relief Efforts Continue in Darjeeling District",
-      "New Industrial Policy for Bengal to be Announced Soon",
-      "Healthcare Services to be Improved in Rural Bengal"
+      "Farmers' Protest Enters 50th Day",
+      "New Medical College to be Set Up in North Bengal",
+      "River Ganges Water Quality Worsens",
+      "Unemployment Rate Remains High in West Bengal"
     ]
   },
   "contrast": {
@@ -157,76 +154,76 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Massive Power Cut Hits Kolkata, Thousands Affected",
+      "category": "Economy",
+      "headline": "Food Prices Soar as Rice Supply Chain Disrupted",
       "bullets": [
-        "Over 10,000 households in Kolkata's southern districts lost power",
-        "State electricity board officials blame 'equipment failure' for the cut",
-        "Residents complain of sweltering heat and disrupted work schedules"
+        "Rice prices rise 15% in past week, affecting 50 lakh families",
+        "Supply chain issues due to river erosion in Murshidabad district",
+        "Experts warn of food security crisis if prices don't stabilize"
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Labor",
-      "headline": "Wage Arrears Pile Up for 50,000 Workers in Jharkhand",
-      "bullets": [
-        "Thousands of workers employed in Jharkhand's coal mines haven't received wages",
-        "Government says it's 'working on the issue' but no timeline given",
-        "Workers threaten to halt operations if wages aren't paid soon"
-      ],
-      "source": "Indian Express",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Surge 15% in 2 Weeks, Hits Common Man",
+      "category": "Labor",
+      "headline": "West Bengal's Jobless Rate Hits 15-Year High",
       "bullets": [
-        "Rice prices in Bengal have risen 15% in the past fortnight",
-        "Traders blame 'short supply' and 'transport costs' for the hike",
-        "Consumers bear the brunt, with many struggling to afford basic staples"
+        "Unemployment rate climbs to 12.5% in July, highest since 2007",
+        "Informal sector jobs decline 20% in past quarter, says NSO",
+        "Experts blame economic slowdown and industrial unrest"
       ],
-      "source": "Business Standard",
+      "source": "National Statistical Office",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
       "category": "Health",
-      "headline": "Malaria Outbreak Spreads in Murshidabad, 100 Cases Reported",
+      "headline": "Dengue Fever Outbreak Claims 20 Lives in 2 Months",
       "bullets": [
-        "Health officials confirm 100 cases of malaria in Murshidabad district",
-        "Government launches fogging operations to contain the spread",
-        "Experts warn of a possible outbreak if preventive measures fail"
+        "200 cases reported in Kolkata, 50 in Howrah, in past fortnight",
+        "Health department blames heavy rainfall and mosquito breeding",
+        "Experts warn of increased risk of chikungunya and malaria"
       ],
-      "source": "The Telegraph",
+      "source": "Kolkata Municipal Corporation",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "Schools in Darjeeling Closed Due to 'Safety Concerns'",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 300 Villages, 50 Industries",
       "bullets": [
-        "Schools in Darjeeling district shut down indefinitely due to safety fears",
-        "Parents and teachers express concerns over student safety and education",
-        "Government assures that measures are being taken to ensure security"
+        "500 MW of power lost in past 3 days, affecting 1 lakh people",
+        "Barrackpore sub-station malfunction blamed for outages",
+        "Industrialists protest, threaten to shift units out of state"
       ],
-      "source": "Hindustan Times",
+      "source": "West Bengal Power Corporation",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "River Ganga Water Quality Deteriorates Further, Activists Alarmed",
+      "headline": "River Pollution Worsens, Fishermen Protest",
       "bullets": [
-        "River Ganga's water quality has deteriorated significantly in recent months",
-        "Activists and experts blame pollution, industrial waste, and human activities",
-        "Government promises to take action but no concrete plan announced yet"
+        "River water tests show 50% rise in toxic pollutants",
+        "Fishermen's livelihoods affected, as fish disappear",
+        "Government promises to act, but fishermen demand action"
       ],
-      "source": "The Hindu",
-      "status": "DEVELOPING",
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Schools Reopen After 10-Day Strike, But Teachers Remain Unhappy",
+      "bullets": [
+        "Teachers' strike ends, but demands for better pay remain",
+        "Government offers 10% salary hike, but teachers reject",
+        "Students suffer as academic session falls behind"
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
