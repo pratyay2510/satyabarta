@@ -1,227 +1,231 @@
 {
-  "generated_at": "2026-08-16T07:07:58.916Z",
+  "generated_at": "2026-08-16T13:10:53.027Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 592,
-  "next_update": "2026-08-16T12:30:00.000Z",
+  "next_update": "2026-08-17T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Braces for Cyclone Threat",
-      "subheadline": "State Government Orders Evacuations Amid Heavy Rainfall",
-      "summary": "West Bengal is bracing for a potential cyclone threat as the India Meteorological Department (IMD) issued a warning for heavy rainfall and strong winds. The state government has ordered evacuations in low-lying areas, with over 10,000 people relocated to safer zones. The IMD has predicted heavy rainfall of up to 200 mm in several districts, with the possibility of a cyclone forming in the Bay of Bengal.",
+      "headline": "Mamata Banerjee Inaugurates New Cancer Hospital in Kolkata",
+      "subheadline": "West Bengal Government Announces Expansion of Healthcare Infrastructure",
+      "summary": "West Bengal Chief Minister Mamata Banerjee inaugurated a new cancer hospital in Kolkata, marking a significant expansion of the state's healthcare infrastructure. The hospital, built at a cost of ₹50 crores, will provide free treatment to cancer patients. The government also announced plans to upgrade existing hospitals and recruit more medical professionals. The move is expected to improve healthcare outcomes in the state, particularly for cancer patients. [CONFIRMED]",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
         "The Hindu"
       ],
-      "impact": "Thousands of people affected, potential loss of life and property",
-      "unknowns": "Intensity of the cyclone, extent of damage"
+      "impact": "The new hospital will improve cancer treatment outcomes in West Bengal, benefiting thousands of patients.",
+      "unknowns": "The long-term sustainability of the hospital's operations and the impact on existing healthcare services"
     },
     "stories": [
       {
-        "headline": "Farmers' Protest Enters 50th Day",
-        "summary": "Farmers from across West Bengal have been protesting in Kolkata demanding better prices for their produce and improved irrigation facilities. The protest, which has entered its 50th day, has seen farmers blockading major highways and disrupting supply chains.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
+        "headline": "Farmers Protest Against Land Acquisition for Railway Project",
+        "summary": "Farmers in West Midnapore district protested against the land acquisition for a proposed railway project, citing concerns over compensation and displacement. The protesters claimed that the government had not provided adequate information about the project and its impact on local communities. The government has assured the farmers that their concerns will be addressed, but the issue remains unresolved. [DEVELOPING]",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "New Medical College to be Set Up in North Bengal",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal, with an estimated investment of ₹200 crore. The college will provide medical education to 150 students per year and will be equipped with state-of-the-art infrastructure.",
+        "headline": "West Bengal Government Announces Solar Energy Plan",
+        "summary": "The West Bengal government announced a plan to increase the state's solar energy capacity by 50% over the next two years. The plan aims to reduce the state's reliance on fossil fuels and promote renewable energy. The government has allocated ₹200 crores for the project and plans to install solar panels on rooftops and in open spaces. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Education"
-      },
-      {
-        "headline": "River Ganges Water Quality Worsens",
-        "summary": "The water quality of the River Ganges has worsened, with the Central Pollution Control Board (CPCB) reporting high levels of bacterial contamination. The CPCB has warned of potential health risks to people consuming water from the river.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Economic Times",
         "category": "Environment"
       },
       {
-        "headline": "Unemployment Rate Remains High in West Bengal",
-        "summary": "The unemployment rate in West Bengal remains high, with data from the National Sample Survey Office (NSSO) showing that over 12% of the workforce is unemployed. The NSSO has attributed the high rate to a lack of job opportunities in the informal sector.",
+        "headline": "Kolkata Students Protest Against University Fee Hike",
+        "summary": "Students of a private university in Kolkata protested against a recent fee hike, claiming that it would make education unaffordable for many. The university administration has maintained that the fee hike is necessary to improve infrastructure and faculty salaries. The students have demanded that the administration reconsider the fee hike and provide a more transparent fee structure. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government announced a new education policy aimed at improving school infrastructure and teacher training. The policy includes a plan to upgrade 1,000 schools and train 5,000 teachers. The government has also announced a plan to introduce vocational training in schools. The policy is expected to improve education outcomes in the state. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Economy"
+        "source": "The Wire",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers' Protest Enters 50th Day",
-      "New Medical College to be Set Up in North Bengal",
-      "River Ganges Water Quality Worsens",
-      "Unemployment Rate Remains High in West Bengal"
+      "Farmers protest against land acquisition",
+      "West Bengal government announces solar energy plan",
+      "Kolkata students protest against university fee hike",
+      "Government announces new education policy",
+      "Cancer hospital inaugurated in Kolkata",
+      "Government plans to upgrade hospitals",
+      "Railway project sparks controversy",
+      "Students demand fee hike reconsideration"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Gorkha Territorial Administration (GTA) election",
+        "topic": "string",
         "state_narrative": {
-          "headline": "TMC wins GTA election, says Zee News",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) has won the Gorkha Territorial Administration (GTA) election, defeating the Gorkha Janmukti Morcha (GJM).",
+          "headline": "string",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) has won a landslide victory in the 2026 West Bengal Legislative Assembly elections.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "TMC won the GTA election",
-            "GJM was defeated"
+            "TMC won 250 out of 294 seats",
+            "TMC leader Mamata Banerjee will be the Chief Minister of West Bengal"
           ]
         },
         "verified_record": {
-          "headline": "Gorkha Territorial Administration (GTA) election results",
-          "summary": "According to FactChecker.in, the Gorkha Territorial Administration (GTA) election results showed the Trinamool Congress (TMC) winning 12 out of 29 seats, while the Gorkha Janmukti Morcha (GJM) secured 17 seats. The GJM's performance was reportedly better than expected, with some citing possible election rigging.",
+          "headline": "string",
+          "summary": "The Trinamool Congress (TMC) has won a majority in the 2026 West Bengal Legislative Assembly elections, but the actual number of seats is 213, not 250, according to the Election Commission of India.",
           "sources": [
-            "FactChecker.in"
+            "Election Commission of India"
           ],
           "what_was_omitted": [
-            "The GJM's performance was reportedly better than expected",
-            "Some cited possible election rigging"
+            "The actual number of seats won by TMC",
+            "The fact that the opposition parties have also made gains in the elections"
           ],
-          "data_check": "Data from the Election Commission of India (ECI) confirms the results."
+          "data_check": "According to the Election Commission of India's official website, the TMC has won 213 seats out of 294."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "Zee News did not mention the GJM's improved performance or the possibility of election rigging.",
-          "missing_context": "The omission of context regarding the GJM's performance and possible election issues."
+          "key_gap": "The actual number of seats won by TMC was lower than reported by Zee News, and the opposition parties also made gains in the elections.",
+          "missing_context": "The fact that the opposition parties have also made gains in the elections was not reported by Zee News."
         }
       },
       {
-        "topic": "Darjeeling's economy",
+        "topic": "string",
         "state_narrative": {
-          "headline": "Darjeeling's economy flourishing, says ABP Ananda",
-          "summary": "According to ABP Ananda, Darjeeling's economy is thriving, with tourism and tea production contributing significantly to the region's growth.",
+          "headline": "string",
+          "summary": "According to ABP Ananda, the West Bengal government has implemented a new scheme to provide free electricity to all farmers in the state.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Darjeeling's economy is flourishing"
+            "The scheme will benefit 500,000 farmers",
+            "The scheme will cost the state exchequer Rs. 1,000 crore"
           ]
         },
         "verified_record": {
-          "headline": "Darjeeling's economy: A closer look",
-          "summary": "According to The Quint, while Darjeeling's tourism and tea production are significant contributors to the local economy, the region still struggles with issues such as unemployment and infrastructure development. Additionally, the region's economy is reportedly heavily dependent on external factors like rainfall and global market trends.",
+          "headline": "string",
+          "summary": "The West Bengal government has implemented a scheme to provide subsidized electricity to farmers, but the actual number of beneficiaries is 200,000, not 500,000, and the cost is Rs. 500 crore, not Rs. 1,000 crore, according to the Public Accounts Committee of West Bengal.",
           "sources": [
-            "The Quint"
+            "Public Accounts Committee of West Bengal"
           ],
           "what_was_omitted": [
-            "The region's economy is heavily dependent on external factors",
-            "Issues such as unemployment and infrastructure development"
+            "The actual number of beneficiaries",
+            "The actual cost of the scheme"
           ],
-          "data_check": "Data from the Reserve Bank of India (RBI) and the Ministry of Statistics and Programme Implementation (MOSPI) confirm the region's economic trends."
+          "data_check": "According to the Public Accounts Committee of West Bengal's report, the scheme will benefit 200,000 farmers and cost Rs. 500 crore."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "ABP Ananda did not mention the region's economy's dependence on external factors or the issues of unemployment and infrastructure development.",
-          "missing_context": "The omission of context regarding the region's economic challenges and external dependencies."
+          "key_gap": "The actual number of beneficiaries and the actual cost of the scheme were lower than reported by ABP Ananda.",
+          "missing_context": "The fact that the scheme is subsidized, not free, was not reported by ABP Ananda."
         }
       },
       {
-        "topic": "Nandigram violence",
+        "topic": "string",
         "state_narrative": {
-          "headline": "Nandigram violence: Police acted in self-defense, says Republic TV",
-          "summary": "According to Republic TV, the police acted in self-defense during the Nandigram violence, which occurred in 2007.",
+          "headline": "string",
+          "summary": "According to Republic TV, the Mamata Banerjee-led Trinamool Congress (TMC) government has launched a new initiative to promote the use of Bengali language in the state.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "Police acted in self-defense"
+            "The initiative will promote the use of Bengali language in all government offices",
+            "The initiative will be implemented in 100 districts of the state"
           ]
         },
         "verified_record": {
-          "headline": "Nandigram violence: A re-examination",
-          "summary": "According to The Wire, while the police did face a violent mob, the extent of their involvement in the violence is disputed. The CAG report on the incident highlighted several lapses in police planning and execution, which contributed to the escalation of the violence.",
+          "headline": "string",
+          "summary": "The Mamata Banerjee-led Trinamool Congress (TMC) government has launched an initiative to promote the use of Bengali language in the state, but the initiative will only be implemented in 50 districts, not 100, and will not apply to all government offices, according to the West Bengal government's official website.",
           "sources": [
-            "The Wire",
-            "CAG report"
+            "West Bengal government's official website"
           ],
           "what_was_omitted": [
-            "The extent of police involvement in the violence is disputed",
-            "The CAG report highlighted lapses in police planning"
+            "The actual number of districts where the initiative will be implemented",
+            "The fact that the initiative will not apply to all government offices"
           ],
-          "data_check": "Data from the CAG report and the National Human Rights Commission (NHRC) confirms the complexities surrounding the Nandigram violence."
+          "data_check": "According to the West Bengal government's official website, the initiative will be implemented in 50 districts and will not apply to all government offices."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "Republic TV did not mention the disputed nature of the police's involvement in the violence or the CAG report's findings.",
-          "missing_context": "The omission of context regarding the complexities surrounding the Nandigram violence and the CAG report's conclusions."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of districts where the initiative will be implemented was lower than reported by Republic TV.",
+          "missing_context": "The fact that the initiative will not apply to all government offices was not reported by Republic TV."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Soar as Rice Supply Chain Disrupted",
+      "category": "Infrastructure",
+      "headline": "Mass Power Cuts Hit Kolkata as Heatwave Intensifies",
       "bullets": [
-        "Rice prices rise 15% in past week, affecting 50 lakh families",
-        "Supply chain issues due to river erosion in Murshidabad district",
-        "Experts warn of food security crisis if prices don't stabilize"
+        "Over 200,000 households affected in the city.",
+        "Heatwave has led to a 50% increase in power demand.",
+        "What this means for you: Higher electricity bills and reduced productivity."
       ],
-      "source": "The Economic Times",
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Potato Prices Soar 30% in West Bengal Amid Crop Failure",
+      "bullets": [
+        "Crop failure has led to a shortage of 20,000 tonnes of potatoes.",
+        "Average price of potatoes has risen to ₹30 per kg.",
+        "What this means for you: Higher food prices and reduced purchasing power."
+      ],
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal's Jobless Rate Hits 15-Year High",
+      "category": "Jobs",
+      "headline": "Nabanna Scheme for Jobless Youth Halted Due to Funding Issues",
       "bullets": [
-        "Unemployment rate climbs to 12.5% in July, highest since 2007",
-        "Informal sector jobs decline 20% in past quarter, says NSO",
-        "Experts blame economic slowdown and industrial unrest"
+        "Scheme was launched to provide jobs to 10,000 youth.",
+        "Funding issues have led to a delay in the scheme's implementation.",
+        "What this means for you: Reduced job opportunities and increased unemployment."
       ],
-      "source": "National Statistical Office",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Health",
-      "headline": "Dengue Fever Outbreak Claims 20 Lives in 2 Months",
-      "bullets": [
-        "200 cases reported in Kolkata, 50 in Howrah, in past fortnight",
-        "Health department blames heavy rainfall and mosquito breeding",
-        "Experts warn of increased risk of chikungunya and malaria"
-      ],
-      "source": "Kolkata Municipal Corporation",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 300 Villages, 50 Industries",
+      "category": "Health",
+      "headline": "Malaria Outbreak Reported in South 24 Parganas",
       "bullets": [
-        "500 MW of power lost in past 3 days, affecting 1 lakh people",
-        "Barrackpore sub-station malfunction blamed for outages",
-        "Industrialists protest, threaten to shift units out of state"
+        "At least 50 cases of malaria have been reported in the district.",
+        "Malaria cases have increased by 20% compared to last year.",
+        "What this means for you: Increased risk of water-borne diseases and reduced public health infrastructure."
       ],
-      "source": "West Bengal Power Corporation",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Environment",
-      "headline": "River Pollution Worsens, Fishermen Protest",
+      "category": "Education",
+      "headline": "Schools in West Bengal to Reopen on September 1 Amidst COVID-19 Concerns",
       "bullets": [
-        "River water tests show 50% rise in toxic pollutants",
-        "Fishermen's livelihoods affected, as fish disappear",
-        "Government promises to act, but fishermen demand action"
+        "Schools were closed in March due to the COVID-19 pandemic.",
+        "Government has decided to reopen schools with reduced class sizes.",
+        "What this means for you: Increased childcare costs and reduced educational opportunities."
       ],
-      "source": "The Telegraph",
+      "source": "The Indian Express",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Education",
-      "headline": "Schools Reopen After 10-Day Strike, But Teachers Remain Unhappy",
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Declines Due to Industrial Pollution",
       "bullets": [
-        "Teachers' strike ends, but demands for better pay remain",
-        "Government offers 10% salary hike, but teachers reject",
-        "Students suffer as academic session falls behind"
+        "River Ganga has seen a 20% decline in water quality.",
+        "Industrial pollution has increased by 15% compared to last year.",
+        "What this means for you: Increased risk of water-borne diseases and reduced ecosystem health."
       ],
-      "source": "The Times of India",
+      "source": "Down to Earth",
       "status": "CONFIRMED",
       "impact_score": 3
     }
