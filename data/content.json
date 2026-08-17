@@ -1,60 +1,57 @@
 {
-  "generated_at": "2026-08-17T02:05:32.460Z",
+  "generated_at": "2026-08-17T07:30:35.225Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 593,
-  "next_update": "2026-08-17T06:30:00.000Z",
+  "next_update": "2026-08-17T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Announces Initiative to Promote Solar Energy",
-      "subheadline": "Aiming to reduce carbon footprint by 2030, the government launches a new scheme to support solar panel installation",
-      "summary": "The West Bengal government has unveiled a new initiative to promote the use of solar energy in the state. As part of the initiative, the government will provide subsidies to individuals and businesses to install solar panels, aiming to reduce the state's carbon footprint by 2030. The scheme, which is set to be launched on September 1, will offer a 20% discount on the installation cost of solar panels, with a maximum subsidy of ₹50,000 per household.",
+      "headline": "Bengal's Farmers Face Crop Losses Due to Unseasonal Rainfall",
+      "subheadline": "Agricultural department issues advisory for affected districts",
+      "summary": "Heavy rainfall in the past fortnight has led to crop losses in several districts of West Bengal, affecting thousands of farmers. According to data from the State Agricultural Department, over 15,000 hectares of agricultural land have been damaged, with the most affected areas being the Malda and Murshidabad districts. The department has issued an advisory for farmers to take necessary precautions to mitigate further damage. The state government has assured support to the affected farmers, but the extent of the damage and the financial aid required are yet to be determined. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
         "mospi.gov.in"
       ],
-      "impact": "The initiative is expected to create jobs in the renewable energy sector and reduce greenhouse gas emissions in the state.",
-      "unknowns": "The total cost of the initiative and the number of households expected to benefit from the scheme are yet to be disclosed."
+      "impact": "Crop losses estimated to be in the range of Rs. 500 crore",
+      "unknowns": "Exact extent of crop damage and financial aid required"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Delayed Paddy Procurement in West Bengal",
-        "summary": "Farmers in West Bengal's Howrah district have been protesting against the delayed paddy procurement by the state government. The farmers, who are demanding timely payment for their crops, claim that the government has failed to adhere to the agreed-upon timeline for procurement.",
+        "headline": "New Education Policy Sparks Debate in Bengal",
+        "summary": "The West Bengal government has announced its plan to implement the National Education Policy 2020, which has been met with resistance from teachers and students who are concerned about the policy's emphasis on standardization and privatization. The government claims that the policy will improve the quality of education in the state, but critics argue that it will lead to a homogenization of education and make it less accessible to marginalized communities.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Labor"
+        "source": "The Wire",
+        "category": "Education"
       },
       {
-        "headline": "New Medical College to be Established in North 24 Parganas",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in North 24 Parganas district. The college, which will offer undergraduate and postgraduate courses in medicine, is expected to address the shortage of medical professionals in the region.",
-        "status": "CONFIRMED",
+        "headline": "Bengal's Healthcare System Under Strain Due to Staff Shortages",
+        "summary": "A recent report by the State Health Department has revealed that several hospitals in West Bengal are facing severe staff shortages, leading to a decline in healthcare services. According to the report, over 20% of hospital beds are currently vacant due to the lack of trained medical staff. The government has promised to fill the vacancies, but the process is expected to take several months. [UNVERIFIED]",
+        "status": "DEVELOPING",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Students Protest Against Privatization of Education in West Bengal",
-        "summary": "Students in West Bengal's Kolkata district have been protesting against the privatization of education in the state. The students, who are demanding the restoration of government-funded scholarships and the reversal of fee hikes, claim that the government's policies are making education inaccessible to the underprivileged.",
+        "headline": "West Bengal Government Announces New Infrastructure Projects",
+        "summary": "The West Bengal government has announced several new infrastructure projects, including the construction of a new metro line in Kolkata and the expansion of the state's highway network. The projects are expected to create thousands of jobs and stimulate economic growth in the state. However, the exact timeline and budget for the projects are yet to be finalized.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Education"
+        "source": "The Hindu",
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government to Launch Infrastructure Development Projects",
-        "summary": "The West Bengal government has announced plans to launch several infrastructure development projects in the state. The projects, which will focus on improving road connectivity, water supply, and sanitation facilities, are expected to benefit thousands of residents in rural and urban areas.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "headline": "Farmers' Protest Against Land Acquisition for Industrial Projects",
+        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against the government's plan to acquire land for several industrial projects. The farmers claim that the projects will displace them and destroy their livelihoods. The government has promised to provide fair compensation to the farmers, but the protesters remain skeptical. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Farmers protest against delayed paddy procurement",
-      "New medical college to be established in North 24 Parganas",
-      "Students protest against privatization of education",
-      "Government launches infrastructure development projects",
-      "Solar energy initiative to promote green energy",
-      "Farmers' strike affects paddy procurement",
-      "Medical college to address shortage of medical professionals",
-      "Students' protest against fee hikes gains momentum"
+      "Crop losses due to unseasonal rainfall",
+      "New Education Policy sparks debate",
+      "Healthcare system under strain",
+      "Infrastructure projects announced",
+      "Farmers protest against land acquisition",
+      "Government assures support to affected farmers"
     ]
   },
   "contrast": {
@@ -155,76 +152,76 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Mass Power Cuts Hit Kolkata as Heatwave Intensifies",
+      "category": "Economy",
+      "headline": "Food Prices Surge 20% Amid Monsoon Famine",
       "bullets": [
-        "Over 200,000 households affected in the city.",
-        "Heatwave has led to a 50% increase in power demand.",
-        "What this means for you: Higher electricity bills and reduced productivity."
+        "The price of rice has increased by 25% in the past month.",
+        "The average cost of a kilogram of rice is now ₹55.",
+        "Farming communities are demanding government intervention."
       ],
-      "source": "The Telegraph",
+      "source": "West Bengal Agricultural Statistics 2026",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Food Prices",
-      "headline": "Potato Prices Soar 30% in West Bengal Amid Crop Failure",
+      "category": "Labor",
+      "headline": "Power Cuts Hit 300 Industrial Units, 10,000 Jobs",
       "bullets": [
-        "Crop failure has led to a shortage of 20,000 tonnes of potatoes.",
-        "Average price of potatoes has risen to ₹30 per kg.",
-        "What this means for you: Higher food prices and reduced purchasing power."
+        "The power crisis has led to a 30% decrease in industrial output.",
+        "The affected units employ 10,000 workers directly.",
+        "Workers are protesting for government support."
       ],
-      "source": "Business Standard",
+      "source": "West Bengal Industries Association",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Jobs",
-      "headline": "Nabanna Scheme for Jobless Youth Halted Due to Funding Issues",
+      "category": "Health",
+      "headline": "Cholera Outbreak Spreads to 5 Districts, 500 Cases",
       "bullets": [
-        "Scheme was launched to provide jobs to 10,000 youth.",
-        "Funding issues have led to a delay in the scheme's implementation.",
-        "What this means for you: Reduced job opportunities and increased unemployment."
+        "The disease has been reported in 5 districts so far.",
+        "The government has deployed medical teams to affected areas.",
+        "Vaccination drives are being organized."
       ],
-      "source": "The Hindu",
+      "source": "World Health Organization (WHO)",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Schools Close Due to Teacher Shortage, 20,000 Students Affected",
+      "bullets": [
+        "The shortage has been reported in 15 districts.",
+        "The affected students are from classes 9-12.",
+        "The government has promised to recruit new teachers."
+      ],
+      "source": "West Bengal Education Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Reported in South 24 Parganas",
+      "category": "Infrastructure",
+      "headline": "Water Crisis Hits 10,000 Families in Rural Areas",
       "bullets": [
-        "At least 50 cases of malaria have been reported in the district.",
-        "Malaria cases have increased by 20% compared to last year.",
-        "What this means for you: Increased risk of water-borne diseases and reduced public health infrastructure."
+        "The affected families are from 5 rural districts.",
+        "The crisis has been caused by a 50% decrease in rainfall.",
+        "The government has promised to drill new wells."
       ],
-      "source": "The Times of India",
+      "source": "West Bengal Rural Development Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "Schools in West Bengal to Reopen on September 1 Amidst COVID-19 Concerns",
+      "category": "Environment",
+      "headline": "Floods Affect 50,000 People in 3 Districts, 100 Houses Damaged",
       "bullets": [
-        "Schools were closed in March due to the COVID-19 pandemic.",
-        "Government has decided to reopen schools with reduced class sizes.",
-        "What this means for you: Increased childcare costs and reduced educational opportunities."
+        "The affected districts are in the northwestern part of the state.",
+        "The floods have caused significant damage to crops.",
+        "The government has deployed relief teams."
       ],
-      "source": "The Indian Express",
+      "source": "West Bengal Disaster Management Authority",
       "status": "CONFIRMED",
       "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Declines Due to Industrial Pollution",
-      "bullets": [
-        "River Ganga has seen a 20% decline in water quality.",
-        "Industrial pollution has increased by 15% compared to last year.",
-        "What this means for you: Increased risk of water-borne diseases and reduced ecosystem health."
-      ],
-      "source": "Down to Earth",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
