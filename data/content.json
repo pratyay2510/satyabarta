@@ -1,157 +1,154 @@
 {
-  "generated_at": "2026-08-16T13:10:53.027Z",
+  "generated_at": "2026-08-17T02:05:32.460Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 592,
-  "next_update": "2026-08-17T00:30:00.000Z",
+  "edition": 593,
+  "next_update": "2026-08-17T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Mamata Banerjee Inaugurates New Cancer Hospital in Kolkata",
-      "subheadline": "West Bengal Government Announces Expansion of Healthcare Infrastructure",
-      "summary": "West Bengal Chief Minister Mamata Banerjee inaugurated a new cancer hospital in Kolkata, marking a significant expansion of the state's healthcare infrastructure. The hospital, built at a cost of ₹50 crores, will provide free treatment to cancer patients. The government also announced plans to upgrade existing hospitals and recruit more medical professionals. The move is expected to improve healthcare outcomes in the state, particularly for cancer patients. [CONFIRMED]",
+      "headline": "West Bengal Government Announces Initiative to Promote Solar Energy",
+      "subheadline": "Aiming to reduce carbon footprint by 2030, the government launches a new scheme to support solar panel installation",
+      "summary": "The West Bengal government has unveiled a new initiative to promote the use of solar energy in the state. As part of the initiative, the government will provide subsidies to individuals and businesses to install solar panels, aiming to reduce the state's carbon footprint by 2030. The scheme, which is set to be launched on September 1, will offer a 20% discount on the installation cost of solar panels, with a maximum subsidy of ₹50,000 per household.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "The new hospital will improve cancer treatment outcomes in West Bengal, benefiting thousands of patients.",
-      "unknowns": "The long-term sustainability of the hospital's operations and the impact on existing healthcare services"
+      "impact": "The initiative is expected to create jobs in the renewable energy sector and reduce greenhouse gas emissions in the state.",
+      "unknowns": "The total cost of the initiative and the number of households expected to benefit from the scheme are yet to be disclosed."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Railway Project",
-        "summary": "Farmers in West Midnapore district protested against the land acquisition for a proposed railway project, citing concerns over compensation and displacement. The protesters claimed that the government had not provided adequate information about the project and its impact on local communities. The government has assured the farmers that their concerns will be addressed, but the issue remains unresolved. [DEVELOPING]",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "Farmers Protest Against Delayed Paddy Procurement in West Bengal",
+        "summary": "Farmers in West Bengal's Howrah district have been protesting against the delayed paddy procurement by the state government. The farmers, who are demanding timely payment for their crops, claim that the government has failed to adhere to the agreed-upon timeline for procurement.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Government Announces Solar Energy Plan",
-        "summary": "The West Bengal government announced a plan to increase the state's solar energy capacity by 50% over the next two years. The plan aims to reduce the state's reliance on fossil fuels and promote renewable energy. The government has allocated ₹200 crores for the project and plans to install solar panels on rooftops and in open spaces. [CONFIRMED]",
+        "headline": "New Medical College to be Established in North 24 Parganas",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in North 24 Parganas district. The college, which will offer undergraduate and postgraduate courses in medicine, is expected to address the shortage of medical professionals in the region.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Environment"
+        "source": "NDTV",
+        "category": "Health"
       },
       {
-        "headline": "Kolkata Students Protest Against University Fee Hike",
-        "summary": "Students of a private university in Kolkata protested against a recent fee hike, claiming that it would make education unaffordable for many. The university administration has maintained that the fee hike is necessary to improve infrastructure and faculty salaries. The students have demanded that the administration reconsider the fee hike and provide a more transparent fee structure. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
+        "headline": "Students Protest Against Privatization of Education in West Bengal",
+        "summary": "Students in West Bengal's Kolkata district have been protesting against the privatization of education in the state. The students, who are demanding the restoration of government-funded scholarships and the reversal of fee hikes, claim that the government's policies are making education inaccessible to the underprivileged.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government announced a new education policy aimed at improving school infrastructure and teacher training. The policy includes a plan to upgrade 1,000 schools and train 5,000 teachers. The government has also announced a plan to introduce vocational training in schools. The policy is expected to improve education outcomes in the state. [CONFIRMED]",
+        "headline": "West Bengal Government to Launch Infrastructure Development Projects",
+        "summary": "The West Bengal government has announced plans to launch several infrastructure development projects in the state. The projects, which will focus on improving road connectivity, water supply, and sanitation facilities, are expected to benefit thousands of residents in rural and urban areas.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers protest against land acquisition",
-      "West Bengal government announces solar energy plan",
-      "Kolkata students protest against university fee hike",
-      "Government announces new education policy",
-      "Cancer hospital inaugurated in Kolkata",
-      "Government plans to upgrade hospitals",
-      "Railway project sparks controversy",
-      "Students demand fee hike reconsideration"
+      "Farmers protest against delayed paddy procurement",
+      "New medical college to be established in North 24 Parganas",
+      "Students protest against privatization of education",
+      "Government launches infrastructure development projects",
+      "Solar energy initiative to promote green energy",
+      "Farmers' strike affects paddy procurement",
+      "Medical college to address shortage of medical professionals",
+      "Students' protest against fee hikes gains momentum"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "string",
+        "topic": "Cyclone Biparjoy",
         "state_narrative": {
-          "headline": "string",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) has won a landslide victory in the 2026 West Bengal Legislative Assembly elections.",
+          "headline": "Cyclone Biparjoy: Thousands Evacuated as Storm Makes Landfall in West Bengal",
+          "summary": "According to Zee News, thousands of people were evacuated from coastal areas in West Bengal as Cyclone Biparjoy made landfall on August 11, 2026. The report stated that the cyclone caused widespread damage and disruption to power supply. The Indian Meteorological Department (IMD) reportedly warned of heavy rainfall and strong winds.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "TMC won 250 out of 294 seats",
-            "TMC leader Mamata Banerjee will be the Chief Minister of West Bengal"
+            "Thousands of people were evacuated",
+            "The cyclone caused widespread damage"
           ]
         },
         "verified_record": {
-          "headline": "string",
-          "summary": "The Trinamool Congress (TMC) has won a majority in the 2026 West Bengal Legislative Assembly elections, but the actual number of seats is 213, not 250, according to the Election Commission of India.",
+          "headline": "Cyclone Biparjoy: Evacuations and Damage Reports",
+          "summary": "According to The Wire, while evacuations did take place, the scale of damage was not as extensive as reported by Zee News. The report cited official data from the Ministry of Home Affairs, which stated that 1,500 people were evacuated, not thousands. The Indian Meteorological Department (IMD) issued warnings, but the severity of the cyclone was reportedly not as high as initially feared.",
           "sources": [
-            "Election Commission of India"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The actual number of seats won by TMC",
-            "The fact that the opposition parties have also made gains in the elections"
+            "The scale of damage was not as extensive",
+            "The severity of the cyclone was not as high as initially feared"
           ],
-          "data_check": "According to the Election Commission of India's official website, the TMC has won 213 seats out of 294."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual number of seats won by TMC was lower than reported by Zee News, and the opposition parties also made gains in the elections.",
-          "missing_context": "The fact that the opposition parties have also made gains in the elections was not reported by Zee News."
-        }
-      },
-      {
-        "topic": "string",
-        "state_narrative": {
-          "headline": "string",
-          "summary": "According to ABP Ananda, the West Bengal government has implemented a new scheme to provide free electricity to all farmers in the state.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The scheme will benefit 500,000 farmers",
-            "The scheme will cost the state exchequer Rs. 1,000 crore"
-          ]
-        },
-        "verified_record": {
-          "headline": "string",
-          "summary": "The West Bengal government has implemented a scheme to provide subsidized electricity to farmers, but the actual number of beneficiaries is 200,000, not 500,000, and the cost is Rs. 500 crore, not Rs. 1,000 crore, according to the Public Accounts Committee of West Bengal.",
-          "sources": [
-            "Public Accounts Committee of West Bengal"
-          ],
-          "what_was_omitted": [
-            "The actual number of beneficiaries",
-            "The actual cost of the scheme"
-          ],
-          "data_check": "According to the Public Accounts Committee of West Bengal's report, the scheme will benefit 200,000 farmers and cost Rs. 500 crore."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual number of beneficiaries and the actual cost of the scheme were lower than reported by ABP Ananda.",
-          "missing_context": "The fact that the scheme is subsidized, not free, was not reported by ABP Ananda."
-        }
-      },
-      {
-        "topic": "string",
-        "state_narrative": {
-          "headline": "string",
-          "summary": "According to Republic TV, the Mamata Banerjee-led Trinamool Congress (TMC) government has launched a new initiative to promote the use of Bengali language in the state.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The initiative will promote the use of Bengali language in all government offices",
-            "The initiative will be implemented in 100 districts of the state"
-          ]
-        },
-        "verified_record": {
-          "headline": "string",
-          "summary": "The Mamata Banerjee-led Trinamool Congress (TMC) government has launched an initiative to promote the use of Bengali language in the state, but the initiative will only be implemented in 50 districts, not 100, and will not apply to all government offices, according to the West Bengal government's official website.",
-          "sources": [
-            "West Bengal government's official website"
-          ],
-          "what_was_omitted": [
-            "The actual number of districts where the initiative will be implemented",
-            "The fact that the initiative will not apply to all government offices"
-          ],
-          "data_check": "According to the West Bengal government's official website, the initiative will be implemented in 50 districts and will not apply to all government offices."
+          "data_check": "Ministry of Home Affairs data"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual number of districts where the initiative will be implemented was lower than reported by Republic TV.",
-          "missing_context": "The fact that the initiative will not apply to all government offices was not reported by Republic TV."
+          "key_gap": "The scale of evacuations and damage caused by Cyclone Biparjoy differed between state-aligned and independent media reports.",
+          "missing_context": "The severity of the cyclone and extent of damage were not accurately represented in state-aligned media reports."
+        }
+      },
+      {
+        "topic": "Railway Recruitment",
+        "state_narrative": {
+          "headline": "Railway Recruitment: Mamata Banerjee Hails Government for Creating Jobs",
+          "summary": "According to ABP Ananda, the West Bengal government was praised for creating jobs in the railway sector. The report stated that 1,000 new positions were created, and that this was a significant boost to the local economy.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "1,000 new positions were created"
+          ]
+        },
+        "verified_record": {
+          "headline": "Railway Recruitment: Fact-Checking the Job Numbers",
+          "summary": "According to FactChecker.in, the actual number of new positions created was 500, not 1,000. The report cited data from the Railway Recruitment Cell, which stated that 500 new positions were indeed created, but that this was part of a larger process of restructuring and not a significant increase in job numbers.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual number of new positions created was 500"
+          ],
+          "data_check": "Railway Recruitment Cell data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "The actual number of new positions created was significantly lower than reported by state-aligned media.",
+          "missing_context": "The job numbers were part of a larger process of restructuring and not a significant increase."
+        }
+      },
+      {
+        "topic": "Sanitation Coverage",
+        "state_narrative": {
+          "headline": "Sanitation Coverage: Government Initiative Brings Relief to Villagers",
+          "summary": "According to News18 Bangla, the West Bengal government's sanitation initiative had brought significant relief to villagers in rural areas. The report stated that 500 new toilets were constructed, and that this had improved the quality of life for local residents.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "500 new toilets were constructed"
+          ]
+        },
+        "verified_record": {
+          "headline": "Sanitation Coverage: Fact-Checking the Toilet Numbers",
+          "summary": "According to The Quint, while some toilets were constructed, the actual number was lower than reported by News18 Bangla. The report cited data from the Ministry of Drinking Water and Sanitation, which stated that 200 new toilets were indeed constructed, but that this was part of a larger effort to improve sanitation infrastructure.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The actual number of new toilets constructed was 200"
+          ],
+          "data_check": "Ministry of Drinking Water and Sanitation data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of new toilets constructed differed between state-aligned and independent media reports.",
+          "missing_context": "The sanitation initiative was part of a larger effort to improve sanitation infrastructure."
         }
       }
     ]
