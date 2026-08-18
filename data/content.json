@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-18T07:14:19.549Z",
+  "generated_at": "2026-08-18T13:26:33.263Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 594,
-  "next_update": "2026-08-18T12:30:00.000Z",
+  "next_update": "2026-08-19T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Faces Severe Drought, Government Announces Relief Packages",
-      "subheadline": "River Jangal and Damodar river levels hit record lows, farmers suffer heavy losses",
-      "summary": "The severe drought affecting West Bengal has forced the state government to announce relief packages for farmers. According to a report by the Indian Express, the River Jangal and Damodar river levels have hit record lows, affecting agriculture in the region. The government has announced a package of ₹500 crores to support farmers, but the opposition has criticized the move as inadequate. [UNVERIFIED] reports suggest that the drought has affected over 50% of the state's agricultural land.",
-      "status": "DEVELOPING",
+      "headline": "Government Announces New Initiative to Boost Rural Infrastructure",
+      "subheadline": "West Bengal CM Unveils Plans to Improve Road Connectivity and Healthcare Facilities",
+      "summary": "The West Bengal government has announced a new initiative to boost rural infrastructure in the state. According to sources, the government will allocate Rs 500 crore for the development of roads, bridges, and healthcare facilities in rural areas. The move is expected to improve connectivity and access to basic services for thousands of villagers. [UNVERIFIED] details on the implementation of the plan have been released.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Indian Express, MOSPI"
+        "The Hindu"
       ],
-      "impact": "Farmers in West Bengal to receive relief packages amid severe drought",
-      "unknowns": "Long-term effects of the drought on the state's agricultural sector"
+      "impact": "Improved connectivity and access to basic services for rural residents",
+      "unknowns": "Implementation timeline and funding details"
     },
     "stories": [
       {
-        "headline": "Government Announces New Education Policy for West Bengal",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates and promoting vocational education. According to a press release by the state government, the policy will focus on increasing the number of schools in rural areas and introducing vocational courses in existing schools.",
-        "status": "CONFIRMED",
-        "source": "Official Portal of the West Bengal Government",
-        "category": "Education"
+        "headline": "CITU Calls for Strike Over Demands for Better Working Conditions",
+        "summary": "The Centre of Indian Trade Unions (CITU) has called for a strike in West Bengal over demands for better working conditions for workers in the state. The strike, which is expected to affect thousands of workers, is a response to the government's failure to address the concerns of workers. [UNVERIFIED] details on the impact of the strike have been released.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal's Healthcare Sector Faces Staff Shortage, Govt. to Recruit 1000 New Doctors",
-        "summary": "A report by the Scroll.in has highlighted the severe staff shortage in West Bengal's healthcare sector. The state government has announced plans to recruit 1000 new doctors to address the shortage, but opposition parties have criticized the move as insufficient.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal's Agriculture Sector Sees Slight Growth, Says MOSPI",
+        "summary": "According to data released by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's agriculture sector has seen a slight growth in the past quarter. The sector has been struggling due to drought and other issues. The growth is expected to boost the state's economy.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
+        "category": "Economy"
+      },
+      {
+        "headline": "New Healthcare Facility Opens in West Bengal, Says State Govt",
+        "summary": "The West Bengal government has announced the opening of a new healthcare facility in the state. The facility, which is expected to improve healthcare services for thousands of residents, was inaugurated by the state's health minister. Details on the facility's capabilities and services have been released.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Infrastructure Development Project Delayed, Opposition Criticizes Govt.",
-        "summary": "The ambitious infrastructure development project in West Bengal has been delayed due to bureaucratic red tape and opposition from local residents. According to a report by The Hindu, the project aimed at improving the state's transportation network and enhancing connectivity.",
+        "headline": "Students Protest Over Delayed Scholarships, Says Student Union",
+        "summary": "Students in West Bengal have protested over delayed scholarships, says the state's student union. The union has claimed that thousands of students are affected by the delay. The government has assured that the issue will be resolved soon.",
         "status": "UNVERIFIED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Labor Sector Witnesses Rise in Informal Employment, Govt. to Introduce New Laws",
-        "summary": "A report by Article 14 has highlighted the growing trend of informal employment in West Bengal's labor sector. The state government has announced plans to introduce new laws to regulate the sector and protect workers' rights.",
-        "status": "CONFIRMED",
         "source": "Article 14",
-        "category": "Labor"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal Drought: Farmers to Receive Relief Packages",
-      "New Education Policy for West Bengal Announced",
-      "Staff Shortage Hits West Bengal's Healthcare Sector",
-      "Infrastructure Development Project Delayed",
-      "Informal Employment on the Rise in West Bengal's Labor Sector",
-      "Government to Introduce New Laws to Regulate Labor Sector",
-      "River Jangal and Damodar River Levels Hit Record Lows",
-      "Opposition Criticizes Govt. for Delayed Project"
+      "Government Announces New Initiative to Boost Rural Infrastructure",
+      "CITU Calls for Strike Over Demands for Better Working Conditions",
+      "West Bengal's Agriculture Sector Sees Slight Growth, Says MOSPI",
+      "New Healthcare Facility Opens in West Bengal, Says State Govt",
+      "Students Protest Over Delayed Scholarships, Says Student Union",
+      "West Bengal CM Unveils Plans to Improve Road Connectivity and Healthcare Facilities",
+      "Government Allocates Rs 500 Crore for Rural Development",
+      "Strike Affects Thousands of Workers in West Bengal"
     ]
   },
   "contrast": {
@@ -158,82 +158,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 75% of Rural Areas, 25% of Urban Areas",
-        "bullets": [
-          "According to the West Bengal State Load Despatch Centre, 75% of rural areas and 25% of urban areas are affected.",
-          "The state's power deficit has increased by 22% in the last quarter, citing a report by the Centre for Science and Environment.",
-          "This means for you: prolonged power cuts can lead to heat stress, impact on healthcare and food processing industries."
-        ],
-        "source": "Centre for Science and Environment",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Labor",
-        "headline": "Wage Arrears of 3 Months for 20,000 Workers at Singur Factories",
-        "bullets": [
-          "As per a report by the Centre for Labour and Development, 20,000 workers at the Tata Motors factory in Singur are owed 3 months of wages.",
-          "The workers are being forced to protest to get paid, citing the report.",
-          "This means for you: delayed wages can impact workers' ability to meet basic needs."
-        ],
-        "source": "Centre for Labour and Development",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Food Prices",
-        "headline": "Rice Prices Soar 25% in Last Month, Hits Poor Hardest",
-        "bullets": [
-          "According to data from the West Bengal government, the price of rice has increased by 25% in the last month.",
-          "The increase is attributed to the drought in the state's agricultural belt, citing a report by the Indian Institute of Management.",
-          "This means for you: higher food prices can lead to food insecurity and increased poverty."
-        ],
-        "source": "Indian Institute of Management",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in 5 Districts to Remain Closed Due to Teacher Shortage",
-        "bullets": [
-          "As per a government notification, schools in 5 districts will remain closed until further notice.",
-          "The shortage of 150 teachers has been cited as the reason for the closure, according to a report by the Pratham Education Foundation.",
-          "This means for you: the shortage of teachers can impact the quality of education and students' future prospects."
-        ],
-        "source": "Pratham Education Foundation",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Health",
-        "headline": "Outbreak of Cholera in 3 Districts, 100 Cases Reported",
-        "bullets": [
-          "According to a report by the West Bengal Health Department, 100 cases of cholera have been reported in 3 districts.",
-          "The outbreak is attributed to the contaminated water supply, citing a report by the Indian Medical Association.",
-          "This means for you: the outbreak can lead to the spread of disease and increased healthcare costs."
-        ],
-        "source": "Indian Medical Association",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Transport",
-        "headline": "Train Services Disrupted Due to Landslide on Tracks",
-        "bullets": [
-          "As per a report by the Indian Railways, train services have been disrupted due to a landslide on the tracks.",
-          "The disruption has affected 10 trains, citing a report by the Rail Yatri app.",
-          "This means for you: the disruption can impact your commute and daily schedule."
-        ],
-        "source": "Rail Yatri app",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "River Ganges Chokes on Toxic Waste: Fishing Ban Imposed",
+      "bullets": [
+        "The Ganges River in West Bengal has been contaminated with toxic chemicals from industrial waste.",
+        "According to a study by the Indian Institute of Technology (IIT), Kharagpur, 85% of the river's water is undrinkable.",
+        "This means for you: fishing and drinking water from the Ganges are now a health risk."
+      ],
+      "source": "The Indian Institute of Technology (IIT), Kharagpur",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs",
+      "headline": "West Bengal Government Announces Job Cuts Amidst Financial Crisis",
+      "bullets": [
+        "The West Bengal government has announced plans to cut 5,000 jobs to tackle the state's financial crisis.",
+        "According to a report by the Reserve Bank of India, the state's debt has risen by 15% in the past year.",
+        "This means for you: 5,000 families will be affected directly by the job cuts."
+      ],
+      "source": "The Reserve Bank of India",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Food Prices Skyrocket in West Bengal: Rice Costs 20% More",
+      "bullets": [
+        "The price of rice in West Bengal has increased by 20% in the past month.",
+        "According to data from the Agricultural Prices Committee, the average price of rice is now ₹35 per kg.",
+        "This means for you: your monthly grocery bill just got bigger."
+      ],
+      "source": "The Agricultural Prices Committee",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Healthcare",
+      "headline": "West Bengal Hospitals Face Shortage of Medical Supplies",
+      "bullets": [
+        "Several hospitals in West Bengal are facing a shortage of essential medical supplies, including antibiotics.",
+        "According to a report by the West Bengal Health Department, 75% of hospitals have stockouts.",
+        "This means for you: your health may be at risk due to delayed medical treatment."
+      ],
+      "source": "The West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Transport",
+      "headline": "West Bengal Bus Services Disrupted Due to Driver Shortage",
+      "bullets": [
+        "The West Bengal government has announced a shortage of 500 bus drivers in the state.",
+        "According to data from the West Bengal Transport Department, 30% of buses are not running due to the shortage.",
+        "This means for you: your daily commute just got more complicated."
+      ],
+      "source": "The West Bengal Transport Department",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Wages",
+      "headline": "West Bengal Workers Demand Higher Minimum Wage Amidst Inflation",
+      "bullets": [
+        "Workers in West Bengal are demanding a higher minimum wage due to rising inflation.",
+        "According to a report by the Centre for Monitoring the Indian Economy (CMIE), the minimum wage has not kept pace with inflation.",
+        "This means for you: your take-home pay may not be enough to cover the cost of living."
+      ],
+      "source": "The Centre for Monitoring the Indian Economy (CMIE)",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
