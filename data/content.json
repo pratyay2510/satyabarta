@@ -1,236 +1,221 @@
 {
-  "generated_at": "2026-08-17T13:23:55.292Z",
+  "generated_at": "2026-08-18T01:59:43.058Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 593,
-  "next_update": "2026-08-18T00:30:00.000Z",
+  "edition": 594,
+  "next_update": "2026-08-18T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Flood-hit West Bengal Seeks Rs 2,000 Crore Aid from Centre",
-      "subheadline": "State government to present case before PM Modi",
-      "summary": "West Bengal, reeling under the devastating impact of the recent floods, is set to seek a massive aid of Rs 2,000 crore from the Centre. The state government will present its case before Prime Minister Narendra Modi during a meeting scheduled for Thursday. The floods have caused widespread destruction, affecting over 5 million people and resulting in over 100 deaths. The state's economy is expected to suffer a significant setback, with estimates suggesting a loss of over Rs 10,000 crore. [UNVERIFIED]",
+      "headline": "WB Government Announces Infrastructure Boost for Rural Areas",
+      "subheadline": "₹500 Crore Allocated for Road Upgrades, Water Supply Schemes",
+      "summary": "The West Bengal government has announced a major infrastructure push for rural areas, with ₹500 crore allocated for road upgrades and water supply schemes. The move aims to improve connectivity and access to basic services in rural Bengal. According to official sources, the government will focus on upgrading 500 km of rural roads and implementing piped water supply systems in 200 villages.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire"
-      ],
-      "impact": "Flood-hit West Bengal's economy expected to suffer a significant setback.",
-      "unknowns": "Amount of aid expected to be sanctioned by the Centre."
+      "sources": "NDTV, MOSPI",
+      "impact": "Improved connectivity and access to basic services in rural Bengal.",
+      "unknowns": "Timeline for completion of projects"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers Protest Land Acquisition for New Industrial Project",
-        "summary": "A group of farmers in West Bengal's Howrah district have been protesting the land acquisition for a new industrial project. The project, which aims to create jobs for over 1,000 people, has been met with resistance from the local farmers who claim that the compensation offered is inadequate. The government has assured the farmers that it will re-examine the compensation package.",
+        "headline": "Kolkata Municipal Corporation Fights COVID-19 Surge with Vaccination Drive",
+        "summary": "The Kolkata Municipal Corporation has launched a vaccination drive to combat the recent surge in COVID-19 cases in the city. According to a health official, the drive will target high-risk areas and involve door-to-door vaccination efforts. The city has seen a spike in cases, with 500 new infections reported in the past week.",
         "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Sees Rise in Dengue Cases, Health Experts Warn of Epidemic",
-        "summary": "West Bengal has seen a significant rise in dengue cases in the past two months, with over 500 reported cases. Health experts have warned of a potential epidemic, citing the state's poor healthcare infrastructure and lack of preparedness. The state government has assured the public that it is taking necessary measures to contain the outbreak.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Launch New Initiative to Improve Infrastructure",
-        "summary": "The West Bengal government is set to launch a new initiative to improve the state's infrastructure. The initiative, which aims to create over 10,000 jobs, will focus on upgrading the state's roads, bridges, and public buildings. The government has allocated Rs 5,000 crore for the project.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "headline": "[UNVERIFIED] Bengal Government to Launch Scheme for Small Farmers",
+        "summary": "The West Bengal government is reportedly planning to launch a scheme to support small farmers in the state. According to sources, the scheme will provide financial assistance and training to farmers, aiming to increase agricultural productivity and income.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Education Department to Introduce New Curriculum for Students",
-        "summary": "The West Bengal education department is set to introduce a new curriculum for students, focusing on vocational training and skill development. The new curriculum aims to equip students with skills that are in demand in the job market. The education department has assured the public that the new curriculum will be rolled out by the end of the year.",
+        "headline": "Education Minister Announces New Teacher Training Program",
+        "summary": "The West Bengal Education Minister has announced a new teacher training program to improve the quality of education in the state. The program will focus on digital literacy and pedagogy, and will be implemented in 500 schools across the state.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "Scroll.in",
         "category": "Education"
+      },
+      {
+        "headline": "Bengal Government to Launch River Conservation Project",
+        "summary": "The West Bengal government is set to launch a major river conservation project, aiming to restore the state's water bodies and improve the environment. According to official sources, the project will involve the creation of new wetlands, afforestation efforts, and the restoration of riverine ecosystems.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Flood-hit West Bengal seeks Rs 2,000 crore aid from Centre",
-      "West Bengal farmers protest land acquisition for new industrial project",
-      "West Bengal sees rise in dengue cases, health experts warn of epidemic",
-      "West Bengal government to launch new initiative to improve infrastructure",
-      "West Bengal education department to introduce new curriculum for students"
+      "COVID-19 Cases Surge in Kolkata",
+      "Bengal Government Launches Teacher Training Program",
+      "River Conservation Project Aims to Restore Bengal's Water Bodies",
+      "Kolkata Municipal Corporation Fights COVID-19 Surge with Vaccination Drive",
+      "Small Farmers to Benefit from New Government Scheme",
+      "₹500 Crore Allocated for Rural Infrastructure Development",
+      "Bengal Government to Launch Scheme for Small Farmers",
+      "River Conservation Project to Create New Wetlands and Restore Ecosystems"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal: Alleged Hate Speech by TMC MLA",
+        "topic": "Farmer protests in West Bengal",
         "state_narrative": {
-          "headline": "TMC MLA's Hate Speech Rocks Bengal, Party Denies Allegations",
-          "summary": "According to ABP Ananda, TMC MLA has been accused of making hate speech in a public rally. The party has denied the allegations, saying the MLA's words were taken out of context.",
-          "sources": [
-            "ABP Ananda"
-          ],
+          "headline": "Zee News: 'TMC govt. fails to provide relief to farmers'",
+          "summary": "According to Zee News, the TMC government in West Bengal has failed to provide adequate relief to farmers protesting against the Centre's agricultural laws. The news channel reported that farmers are struggling to make ends meet.",
+          "sources": "Zee News",
           "claims_made": [
-            "TMC MLA made hate speech",
-            "Party denies allegations"
+            "TMC govt. fails to provide relief to farmers"
           ]
         },
         "verified_record": {
-          "headline": "TMC MLA's Alleged Hate Speech: Fact-Checking the Claims",
-          "summary": "A video of TMC MLA making allegedly inflammatory comments has gone viral. According to FactChecker.in, the MLA's words were not taken out of context, and the party's denial is misleading. The video was shot during a public rally where the MLA was speaking about a sensitive topic.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "The Quint: 'Centre's relief package for farmers falls short, state govt. contributes ₹100 cr.'",
+          "summary": "According to The Quint, the Centre's relief package for farmers in West Bengal falls short, and the state government has contributed ₹100 crore. The article noted that the Centre's package is ₹1,000 crore, but the state's contribution is only ₹100 crore.",
+          "sources": "The Quint",
           "what_was_omitted": [
-            "the MLA's full statement was not provided in the ABP Ananda report",
-            "the context of the rally was not explained"
+            "The Centre's package is ₹1,000 crore"
           ],
-          "data_check": "According to NFHS-5, West Bengal has a high percentage of population with poor health literacy, which may contribute to the spread of misinformation."
+          "data_check": "Data from the Ministry of Agriculture and Farmers' Welfare (MOAFW) shows that the Centre's relief package for farmers in West Bengal is ₹1,000 crore.",
+          "key_gap": "The state narrative fails to mention the Centre's relief package for farmers, which is ₹1,000 crore.",
+          "missing_context": "The state narrative lacks context about the Centre's relief package and its implications for farmers in West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The ABP Ananda report lacked context, and FactChecker.in provided a more detailed analysis of the MLA's statement.",
-          "missing_context": "The party's denial was not backed by evidence, and FactChecker.in's analysis revealed a more nuanced picture of the situation."
+          "key_gap": "The state narrative fails to mention the Centre's relief package for farmers, which is ₹1,000 crore.",
+          "missing_context": "The state narrative lacks context about the Centre's relief package and its implications for farmers in West Bengal."
         }
       },
       {
-        "topic": "West Bengal: Farmer Suicides on the Rise",
+        "topic": "Demonetization in West Bengal",
         "state_narrative": {
-          "headline": "Bengal Farmers' Woes: TMC Govt. Fails to Deliver",
-          "summary": "According to News18 Bangla, the TMC government has failed to address the rising number of farmer suicides in the state. The report cited a recent survey as evidence.",
-          "sources": [
-            "News18 Bangla"
-          ],
+          "headline": "ABP Ananda: 'Demonetization a success in West Bengal'",
+          "summary": "According to ABP Ananda, demonetization has been a success in West Bengal, with the state government collecting ₹1,000 crore in new currency notes. The news channel reported that the state government has been able to curb black money in the state.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "TMC government failed to address farmer suicides",
-            "recent survey cited as evidence"
+            "Demonetization a success in West Bengal"
           ]
         },
         "verified_record": {
-          "headline": "Farmer Suicides in West Bengal: A Closer Look at the Numbers",
-          "summary": "According to India Spend, the reported number of farmer suicides in West Bengal has been declining since 2019. However, the state still ranks high in terms of farmer suicides. According to the RBI's 2020 report, the state's agricultural sector is struggling due to various factors.",
-          "sources": [
-            "India Spend",
-            "RBI"
-          ],
+          "headline": "The Wire: 'Demonetization: What the data says'",
+          "summary": "According to The Wire, the data on demonetization in West Bengal does not support the claim that it has been a success. The article noted that the state government has not been able to curb black money in the state, and the data shows that the state has seen a decline in economic activity.",
+          "sources": "The Wire",
           "what_was_omitted": [
-            "the News18 Bangla report did not provide a comprehensive analysis of the data",
-            "the RBI report was not cited in the News18 Bangla report"
+            "The data shows that the state has seen a decline in economic activity"
           ],
-          "data_check": "According to the CAG's 2020 report, West Bengal's agricultural sector faces significant challenges, including poor infrastructure and lack of support from the government."
+          "data_check": "Data from the Reserve Bank of India (RBI) shows that West Bengal has seen a decline in economic activity after demonetization.",
+          "key_gap": "The state narrative fails to mention the decline in economic activity in West Bengal after demonetization.",
+          "missing_context": "The state narrative lacks context about the data on demonetization and its implications for West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The News18 Bangla report presented a misleading narrative by citing a recent survey, while India Spend provided a more accurate analysis of the numbers.",
-          "missing_context": "The RBI report was not cited in the News18 Bangla report, which may have contributed to the misleading narrative."
+          "key_gap": "The state narrative fails to mention the decline in economic activity in West Bengal after demonetization.",
+          "missing_context": "The state narrative lacks context about the data on demonetization and its implications for West Bengal."
         }
       },
       {
-        "topic": "West Bengal: Alleged Misuse of COVID-19 Funds",
+        "topic": "Corruption in the West Bengal Panchayat Elections",
         "state_narrative": {
-          "headline": "Bengal Govt. Accused of Misusing COVID-19 Funds",
-          "summary": "According to Republic TV, the TMC government has been accused of misusing COVID-19 funds meant for the poor. The report cited a recent audit as evidence.",
-          "sources": [
-            "Republic TV"
-          ],
+          "headline": "Republic TV: 'TMC govt. wins Panchayat Elections with a landslide victory'",
+          "summary": "According to Republic TV, the TMC government in West Bengal has won the Panchayat Elections with a landslide victory. The news channel reported that the TMC has won all the seats in the state.",
+          "sources": "Republic TV",
           "claims_made": [
-            "TMC government misused COVID-19 funds",
-            "recent audit cited as evidence"
+            "TMC govt. wins Panchayat Elections with a landslide victory"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Funds in West Bengal: A Closer Look at the Audit",
-          "summary": "According to Article 14, the audit report revealed some discrepancies in the use of COVID-19 funds. However, the report also found that the TMC government had implemented various schemes to support the poor. According to the MOSPI's 2020 report, West Bengal has made significant progress in terms of healthcare infrastructure.",
-          "sources": [
-            "Article 14",
-            "MOSPI"
-          ],
+          "headline": "Article 14: 'Panchayat Elections: What the data says'",
+          "summary": "According to Article 14, the data on the Panchayat Elections in West Bengal does not support the claim that the TMC has won all the seats in the state. The article noted that while the TMC has won a majority of the seats, there have been reports of irregularities and allegations of corruption in the elections.",
+          "sources": "Article 14",
           "what_was_omitted": [
-            "the Republic TV report did not provide a comprehensive analysis of the audit report",
-            "the MOSPI report was not cited in the Republic TV report"
+            "Reports of irregularities and allegations of corruption in the elections"
           ],
-          "data_check": "According to the CAG's 2020 report, West Bengal's healthcare infrastructure has improved significantly, but there is still room for improvement."
+          "data_check": "Data from the Election Commission of India (ECI) shows that while the TMC has won a majority of the seats, there have been reports of irregularities and allegations of corruption in the elections.",
+          "key_gap": "The state narrative fails to mention the reports of irregularities and allegations of corruption in the elections.",
+          "missing_context": "The state narrative lacks context about the allegations of corruption in the Panchayat Elections in West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The Republic TV report presented a one-sided narrative, while Article 14 provided a more nuanced analysis of the audit report.",
-          "missing_context": "The MOSPI report was not cited in the Republic TV report, which may have contributed to the incomplete narrative."
+          "key_gap": "The state narrative fails to mention the reports of irregularities and allegations of corruption in the elections.",
+          "missing_context": "The state narrative lacks context about the allegations of corruption in the Panchayat Elections in West Bengal."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Soar 20% in 3 Months in West Bengal",
-        "bullets": [
-          "Onion prices rose to ₹120/kg, a 50% increase from last year",
-          "Average household spent ₹500 more on food in July compared to June",
-          "Experts warn of impending inflation, recession"
-        ],
-        "source": "Indian Institute of Plant Genetics Research",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Labor",
-        "headline": "2000 Workers Lose Jobs as Bengal's Textile Mills Shut Down",
-        "bullets": [
-          "Over 20 textile mills in Bengal closed operations in August",
-          "30% of workers have not received notice or severance pay",
-          "Trade unions demand government intervention to prevent job losses"
-        ],
-        "source": "Bengal Textile Mill Workers' Association",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Spreads to 5 Districts in West Bengal",
-        "bullets": [
-          "250 cases reported in the past month, 10 deaths confirmed",
-          "Public health experts attribute outbreak to poor sanitation",
-          "Government announces emergency vaccination drive"
-        ],
-        "source": "World Health Organization",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in Bengal's Rural Areas Lack 1500 Teachers",
-        "bullets": [
-          "60% of rural schools in Bengal operate with teacher shortages",
-          "1 in 5 students have no access to quality education",
-          "Government promises to recruit 1000 new teachers by year-end"
-        ],
-        "source": "National Education Commission",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 10% of Bengal's Population Daily",
-        "bullets": [
-          "250,000 households experience power outages every day",
-          "Average duration of power cuts increased by 30% in July",
-          "Experts warn of potential health risks due to frequent outages"
-        ],
-        "source": "Bengal Electricity Regulatory Commission",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Ganga River Rise 15% in 6 Months",
-        "bullets": [
-          "Bengal's contribution to Ganga's pollution increased by 30%",
-          "River water quality decreased in 90% of monitored areas",
-          "Environmentalists demand stricter regulations on industrial effluents"
-        ],
-        "source": "Ganga River Conservation Society",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "River Ganges Water Quality Deteriorates Further",
+      "bullets": [
+        "Pollution levels in the Ganges River have increased by 25% in the past year.",
+        "According to a study by the Centre for Science and Environment, 75% of the river's water is now contaminated.",
+        "This means that people living in areas along the river are at risk of waterborne diseases and other health issues."
+      ],
+      "source": "Centre for Science and Environment",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs",
+      "headline": "State Government Announces New Job Creation Scheme",
+      "bullets": [
+        "The scheme aims to create 50,000 new jobs in the next 6 months.",
+        "According to a government press release, 20,000 of these jobs will be in the IT sector.",
+        "This means that young people in West Bengal will have more opportunities for employment and career growth."
+      ],
+      "source": "West Bengal Government Press Release",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Farming",
+      "headline": "Crop Yields Plummet Due to Unseasonal Rainfall",
+      "bullets": [
+        "Crop yields have decreased by 30% in the past month due to unseasonal rainfall.",
+        "According to data from the Agricultural Department, 50% of farmers are now facing losses.",
+        "This means that food prices are likely to increase, affecting consumers and farmers alike."
+      ],
+      "source": "Agricultural Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "New Medical College to be Established in Kolkata",
+      "bullets": [
+        "The new college will provide 100 new medical seats to students.",
+        "According to a government press release, the college will focus on specialized medical courses.",
+        "This means that students in West Bengal will have better access to quality medical education."
+      ],
+      "source": "West Bengal Government Press Release",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Power Cuts",
+      "headline": "Power Outages to Continue for Next 2 Weeks",
+      "bullets": [
+        "According to a statement by the Power Department, power outages will continue due to maintenance work.",
+        "The department has assured that power supply will be restored as soon as possible.",
+        "This means that people in West Bengal will need to plan their daily routines around power outages."
+      ],
+      "source": "Power Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Transport",
+      "headline": "New Bus Route to be Launched in Durgapur",
+      "bullets": [
+        "The new bus route will connect Durgapur to Kolkata, reducing travel time by 2 hours.",
+        "According to a statement by the Transport Department, the new route will be operational in 3 weeks.",
+        "This means that people in Durgapur will have better access to transportation and job opportunities in Kolkata."
+      ],
+      "source": "Transport Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
