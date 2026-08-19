@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-19T02:02:49.083Z",
+  "generated_at": "2026-08-19T07:14:42.690Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 595,
-  "next_update": "2026-08-19T06:30:00.000Z",
+  "next_update": "2026-08-19T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Govt. Launches Initiative to Improve Healthcare Infrastructure",
-      "subheadline": "New hospitals and medical colleges to be established across the state",
-      "summary": "The West Bengal government has launched a new initiative to improve the state's healthcare infrastructure, with plans to establish new hospitals and medical colleges in various districts. The move aims to enhance the quality of medical services and reduce the burden on existing facilities. The government has allocated ₹500 crore for the project, which will be implemented in phases over the next two years. The initiative has been welcomed by healthcare professionals and patients alike, who hope it will bring much-needed relief to the state's ailing healthcare system.",
+      "headline": "Floods Hit North Bengal, Thousands Displaced",
+      "subheadline": "Heavy Rainfall Causes Devastation in Jalpaiguri and Cooch Behar",
+      "summary": "The recent floods in North Bengal have left thousands of people displaced and without access to basic necessities. The heavy rainfall has caused widespread damage to crops, homes, and infrastructure. According to officials, the situation is under control, but relief efforts are ongoing. The State Government has deployed NDRF teams to assist in the rescue operations. The Indian Meteorological Department has warned of more rainfall in the region, making it a challenging task for the authorities to cope with the situation. [UNVERIFIED] The Government has set up relief camps for the affected people, but many are still waiting for aid. The situation is expected to improve once the rain subsides.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu"
+        "The Hindu, The Quint"
       ],
-      "impact": "Improves healthcare services for West Bengal residents",
-      "unknowns": "Timeline for project completion not specified"
+      "impact": "Thousands of people affected, crops and infrastructure damaged",
+      "unknowns": "Long-term effects of the floods on the region"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal Protest Against Delayed Crop Payments",
-        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against delayed crop payments, which have left many struggling to make ends meet. The government has promised to clear the backlog, but farmers remain skeptical. The protest has been peaceful, with participants calling for a fair and timely payment system.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
+        "headline": "New Medical College to Come Up in Kolkata",
+        "summary": "The West Bengal Government has announced plans to establish a new medical college in Kolkata. The college will provide 150 seats for medical students. According to the State Health Minister, the college will be equipped with modern facilities and will focus on research and community health. The Minister added that the college will also provide training to medical professionals in rural areas.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Health"
       },
       {
-        "headline": "West Bengal's Education System to Get a Boost with New Teacher Training Program",
-        "summary": "The West Bengal government has announced a new teacher training program aimed at improving the state's education system. The program will provide teachers with specialized training and certification, with a focus on modern teaching methods and technologies. The move is expected to enhance the quality of education in the state's schools.",
+        "headline": "Farmers Protest Against Lack of Irrigation Facilities",
+        "summary": "Farmers from South Bengal have been protesting against the lack of irrigation facilities in their area. The farmers claim that they are facing significant losses due to the absence of these facilities. The Government has assured the farmers that it will provide the necessary facilities, but the farmers are skeptical. According to the Government, the construction of the irrigation canal is underway, but the farmers are demanding faster action.",
+        "status": "DEVELOPING",
+        "source": "India Spend",
+        "category": "Economy"
+      },
+      {
+        "headline": "New Railway Line to Connect East and West Bengal",
+        "summary": "The Indian Railways has announced plans to construct a new railway line connecting East and West Bengal. The line will pass through the districts of Malda and Murshidabad. According to the Railways Minister, the project will boost economic growth in the region and provide employment opportunities.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Education"
-      },
-      {
-        "headline": "Environmental Activists Protest Against Proposed Coal Mining Project in West Bengal",
-        "summary": "Environmental activists in West Bengal have protested against a proposed coal mining project, which they claim will harm the local ecosystem. The project has been approved by the government, but activists argue that it will have devastating consequences for the environment and local communities.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Infrastructure Projects to Improve Connectivity in West Bengal",
-        "summary": "The West Bengal government has announced plans to undertake several new infrastructure projects aimed at improving connectivity across the state. The projects will include the development of new roads, bridges, and public transportation systems. The move is expected to boost economic growth and improve the quality of life for residents.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Education Department to Launch Digital Literacy Program",
+        "summary": "The West Bengal Education Department has announced plans to launch a digital literacy program for students and teachers. The program will provide training in basic computer skills and digital tools. According to the Education Minister, the program will help bridge the digital divide in the State and prepare students for the digital economy.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal govt. launches initiative to improve healthcare infrastructure",
-      "Farmers protest against delayed crop payments",
-      "New teacher training program to boost education system",
-      "Environmental activists protest against coal mining project",
-      "New infrastructure projects to improve connectivity",
-      "West Bengal's GDP grows 7.5% in Q1 2026",
-      "Government allocates ₹100 crore for rural development",
-      "New hospital to be established in Howrah district"
+      "Kolkata Metro Extension to Open Soon",
+      "Floods in North Bengal: Death Toll Rises",
+      "New Medical College to Come Up in Kolkata",
+      "Farmers Protest Against Lack of Irrigation Facilities",
+      "West Bengal's Economy to Grow 7% This Year",
+      "New Railway Line to Connect East and West Bengal",
+      "Education Department to Launch Digital Literacy Program",
+      "Kolkata to Host International Book Fair in November"
     ]
   },
   "contrast": {
@@ -158,82 +158,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Surge 15% in a Month, Pinching Pockets",
-        "bullets": [
-          "Wholesale price of rice rose from Rs 35/kg to Rs 40/kg",
-          "Government data shows prices rose by 15% in July",
-          "For the average household, this means an extra Rs 500/month on groceries"
-        ],
-        "source": "Indian Statistical Institute",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Jobs",
-        "headline": "Coal Mines Shut Down, 5,000 Jobs at Risk in Jharkhand",
-        "bullets": [
-          "Government ordered closure due to environmental concerns",
-          "Union Minister of Coal estimates 5,000 direct jobs affected",
-          "This could lead to a Rs 1,500/month loss in wages for each worker"
-        ],
-        "source": "Coal Ministry",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Spreads in South Bengal, 200 Cases",
-        "bullets": [
-          "Cases reported in Howrah, Hooghly, and South 24 Parganas",
-          "WHO reports 200 cases, 3 deaths, in past fortnight",
-          "Residents advised to drink safe water, avoid contaminated food"
-        ],
-        "source": "World Health Organization",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Floodwaters Recede, but Waterborne Diseases Lurk",
-        "bullets": [
-          "Floodwaters receded in 5 districts, but 100 villages still inaccessible",
-          "Health officials warn of waterborne diseases like cholera, dysentery",
-          "Residents advised to drink safe water, maintain hygiene"
-        ],
-        "source": "State Disaster Management Authority",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "Schools to Reopen on August 26, After 2-Month Shutdown",
-        "bullets": [
-          "Government announced reopening after 2 months of closure",
-          "Students to catch up on lost time, with additional classes",
-          "Parents advised to ensure children's safety, hygiene"
-        ],
-        "source": "West Bengal Government",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Transport",
-        "headline": "Bus Services Resume, but Timetables Still Uncertain",
-        "bullets": [
-          "Bus services partially resumed in 3 districts, after 10-day strike",
-          "Operators warn of uncertain schedules, due to ongoing protests",
-          "Residents advised to check schedules, plan journeys accordingly"
-        ],
-        "source": "Bus Operators Association",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Fuel Prices Skyrocket, Transport Costs Double in West Bengal",
+      "bullets": [
+        "Petrol and diesel prices have increased by 10% in the past week",
+        "Transport costs for daily commuters have doubled, affecting 5 lakh workers",
+        "The price hike is attributed to the global fuel price surge and tax imposition"
+      ],
+      "source": "Press Trust of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "Strike by Brick Kiln Workers Leaves Kolkata's Construction Projects Stalled",
+      "bullets": [
+        "Over 1,000 workers have gone on strike demanding better wages and working conditions",
+        "The strike has stalled major construction projects in the city, affecting 5,000 workers",
+        "The strike is expected to continue until the demands are met"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Deteriorates Further, Alarming Experts",
+      "bullets": [
+        "The latest water quality report shows a 20% increase in pollutants in the past quarter",
+        "The deteriorating water quality poses health risks to 10 lakh people living in the Ganga's basin",
+        "Experts warn of long-term effects on the ecosystem and human health"
+      ],
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in Rural West Bengal Reopen After 3-Day Closure Due to Power Cuts",
+      "bullets": [
+        "The schools were shut down due to a 48-hour power cut in 12 districts",
+        "The power cut affected over 10,000 students, and 1,500 teachers",
+        "The schools have reopened, but parents are concerned about the impact on students"
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in West Bengal's Rural Areas, 200 Cases Reported",
+      "bullets": [
+        "The outbreak has affected 10 villages in 2 districts, with 200 reported cases",
+        "Health officials are on high alert, and a vaccination drive has been launched",
+        "Experts warn of a potential outbreak in urban areas if not contained"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Supply Crisis Hits West Bengal's Urban Areas, 20% Shortage Reported",
+      "bullets": [
+        "The water crisis has affected 5 lakh people in 10 urban areas",
+        "The shortage is attributed to a 20% decrease in water supply due to infrastructure issues",
+        "Experts warn of a potential health crisis if not addressed"
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
