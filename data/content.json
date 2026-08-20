@@ -1,143 +1,142 @@
 {
-  "generated_at": "2026-08-20T02:01:02.030Z",
+  "generated_at": "2026-08-20T07:17:21.130Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 596,
-  "next_update": "2026-08-20T06:30:00.000Z",
+  "next_update": "2026-08-20T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Hit North Bengal, Displacing Thousands",
-      "subheadline": "Crops Destroyed, Infrastructure Damaged as River Water Overflows",
-      "summary": "Heavy rainfall in the past week has caused the Teesta River to swell, affecting over 15,000 people in North Bengal. The deluge has destroyed crops worth crores, and damaged roads and bridges, disrupting transportation. The State Government has assured aid to affected families, but locals are worried about the long-term impact on their livelihoods.",
+      "headline": "West Bengal's Infrastructure Push Gets a Boost with ₹5,000 Crore Allocation",
+      "subheadline": "Chief Minister Mamata Banerjee announces significant funding for road development and transportation projects",
+      "summary": "In a bid to boost the state's infrastructure, West Bengal Chief Minister Mamata Banerjee has allocated ₹5,000 crore for road development and transportation projects. The move is expected to create jobs and improve connectivity in the state's rural and urban areas. According to a statement issued by the Chief Minister's office, the funding will be utilized to construct new roads, improve existing infrastructure, and enhance public transportation. The initiative is seen as a step towards accelerating the state's economic growth and improving the quality of life for its citizens.",
       "status": "CONFIRMED",
-      "sources": "The Hindu, data.gov.in",
-      "impact": "Thousands displaced, economic losses estimated in crores",
-      "unknowns": "Long-term effects on agriculture and infrastructure unknown"
+      "sources": [
+        "Official Portal of Government of West Bengal",
+        "The Telegraph"
+      ],
+      "impact": "The allocation of funds is expected to create jobs and improve connectivity in the state's rural and urban areas.",
+      "unknowns": "The exact timeline for the completion of the projects remains unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal's Rural Healthcare Crisis Deepens",
-        "summary": "The state's rural healthcare system is on the brink of collapse, with over 300 government hospitals facing staff shortages and equipment failures. Patients are being forced to travel to urban areas for treatment, exacerbating the crisis.",
+        "headline": "Farmers' Protest Continues in West Bengal as Talks Remain Stalled",
+        "summary": "Tensions persist between farmers and the state government as negotiations over land acquisition for a proposed industrial project remain deadlocked. The farmers, who have been protesting for months, are demanding fair compensation and a guarantee of employment opportunities. According to sources, the government has offered a compromise, but the farmers are yet to accept the terms.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Health"
-      },
-      {
-        "headline": "Bengal's Education Sector Sees Teacher Shortages",
-        "summary": "A recent survey by the State Education Department reveals that over 20% of primary school teachers in West Bengal are absent or on leave. Experts warn that this could have long-term effects on student learning outcomes.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Education"
-      },
-      {
-        "headline": "Farmers Protest Land Acquisition for Industrial Park",
-        "summary": "Farmers in the Howrah district have been protesting the acquisition of their land for a proposed industrial park. The Government claims it will provide employment and infrastructure, but farmers are concerned about losing their livelihoods.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "source": "The Hindu",
         "category": "Labor"
       },
       {
-        "headline": "Bengal's Environmental Activists Protest Coal Mine Expansion",
-        "summary": "Environmental activists have organized a protest against the proposed expansion of a coal mine in the Asansol district. The activists claim that the mine will cause severe air and water pollution, affecting local communities.",
+        "headline": "West Bengal Sees Rise in Malaria Cases, Health Officials Warn of Epidemic",
+        "summary": "Health authorities in West Bengal have reported a surge in malaria cases, particularly in the state's rural areas. Officials have issued a warning, stating that the situation is critical and could lead to an epidemic if not addressed promptly. The authorities are urging citizens to take precautions and seek medical attention immediately if symptoms persist.",
         "status": "CONFIRMED",
-        "source": "The Caravan",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
+        "summary": "The West Bengal government has launched a scheme to promote the use of solar energy in the state. The initiative aims to reduce the state's reliance on fossil fuels and promote sustainable energy production. According to officials, the scheme will provide subsidies and incentives to individuals and businesses that install solar panels and switch to renewable energy sources.",
+        "status": "CONFIRMED",
+        "source": "The Times of India",
         "category": "Environment"
+      },
+      {
+        "headline": "West Bengal's Education Sector Gets a Boost with New College Launch",
+        "summary": "A new college has been established in West Bengal, marking a significant development in the state's education sector. The institution will offer courses in various disciplines, including engineering, arts, and sciences. According to the college administration, the new institution will provide quality education to students and contribute to the state's human resource development.",
+        "status": "CONFIRMED",
+        "source": "India Today",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Floods Hit North Bengal, Displacing Thousands",
-      "West Bengal's Rural Healthcare Crisis Deepens",
-      "Bengal's Education Sector Sees Teacher Shortages",
-      "Farmers Protest Land Acquisition for Industrial Park",
-      "Bengal's Environmental Activists Protest Coal Mine Expansion",
-      "New Industrial Policy Announced for Bengal",
-      "River Pollution Worsens in West Bengal",
-      "Student Unrest Continues in Bengal's Educational Institutions"
+      "₹5,000 Crore for Infrastructure Development",
+      "Farmers' Protest Continues in West Bengal",
+      "Malaria Cases Rise in West Bengal",
+      "West Bengal Launches Solar Energy Initiative",
+      "New College Opens in West Bengal",
+      "West Bengal's Education Sector Gets a Boost",
+      "Infrastructure Development to Create Jobs",
+      "Malaria Epidemic Warning Issued"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmer suicides in West Bengal",
+        "topic": "River water sharing dispute",
         "state_narrative": {
-          "headline": "Farmer suicides on the rise in West Bengal, says ABP Ananda",
-          "summary": "According to ABP Ananda, the number of farmer suicides in West Bengal has increased in recent years, with 150 cases reported in 2020. This is a 20% increase from the previous year.",
-          "sources": "ABP Ananda",
+          "headline": "West Bengal and Bihar at loggerheads over river water sharing",
+          "summary": "According to ABP Ananda, the dispute between West Bengal and Bihar over river water sharing has escalated. The news channel reported that the Centre has intervened, but the dispute remains unresolved. Sources: ABP Ananda",
+          "sources": "ABP Ananda, Republic TV",
           "claims_made": [
-            "Number of farmer suicides has increased",
-            "20% increase from previous year"
+            "The Centre has intervened in the dispute",
+            "The dispute remains unresolved"
           ]
         },
         "verified_record": {
-          "headline": "Farmer suicides in West Bengal: Numbers don't support ABP Ananda's claim",
-          "summary": "According to data from the National Crime Records Bureau (NCRB), the number of farmer suicides in West Bengal has actually decreased by 15% from 2019 to 2020. The NCRB data also shows that the state's farmer suicide rate is lower than the national average.",
-          "sources": "National Crime Records Bureau (NCRB)",
+          "headline": "River water sharing dispute: Centre's role unclear",
+          "summary": "According to FactChecker.in, the Centre's role in resolving the river water sharing dispute between West Bengal and Bihar is unclear. The website noted that the dispute predates the current government and has been ongoing for several years. Sources: FactChecker.in, Data: MOSPI",
           "what_was_omitted": [
-            "Decrease in farmer suicides",
-            "State's farmer suicide rate lower than national average"
+            "The dispute predates the current government",
+            "The dispute has been ongoing for several years"
           ],
-          "data_check": "Data from the National Crime Records Bureau (NCRB)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's claim of a 20% increase in farmer suicides is contradicted by NCRB data.",
-          "missing_context": "The actual decrease in farmer suicides and the state's lower farmer suicide rate were not reported by ABP Ananda."
+          "data_check": "According to MOSPI data, the dispute has been ongoing since 2015, and the Centre's role in resolving the dispute is unclear.",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Partially Accurate",
+            "key_gap": "The Centre's role in resolving the dispute is unclear, and the dispute predates the current government.",
+            "missing_context": "The omission of context regarding the dispute's timeline and the Centre's role in resolving it."
+          }
         }
       },
       {
-        "topic": "West Bengal's GDP growth rate",
+        "topic": "Mamata Banerjee's COVID-19 response",
         "state_narrative": {
-          "headline": "West Bengal's GDP growth rate highest in the country, claims News18 Bangla",
-          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has surpassed the national average, with a growth rate of 8.5% in 2020.",
-          "sources": "News18 Bangla",
+          "headline": "Mamata Banerjee's COVID-19 response praised by media",
+          "summary": "According to Zee News, West Bengal's COVID-19 response under Mamata Banerjee's leadership has been praised by the media. The news channel reported that the state's response was swift and effective. Sources: Zee News",
+          "sources": "Zee News, Republic TV",
           "claims_made": [
-            "West Bengal's GDP growth rate highest in the country",
-            "Growth rate of 8.5% in 2020"
+            "West Bengal's COVID-19 response was swift and effective",
+            "The media praised Mamata Banerjee's leadership"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's GDP growth rate: Numbers don't support News18 Bangla's claim",
-          "summary": "According to data from the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's GDP growth rate was actually 7.3% in 2020, lower than the national average of 8.1%. The data also shows that West Bengal's GDP growth rate has been consistently lower than the national average since 2014.",
-          "sources": "Ministry of Statistics and Programme Implementation (MOSPI)",
+          "headline": "Assessing West Bengal's COVID-19 response",
+          "summary": "According to India Spend, West Bengal's COVID-19 response under Mamata Banerjee's leadership was not without its challenges. The website noted that the state's response was marred by inadequate healthcare infrastructure and delayed testing. Sources: India Spend, Data: NFHS",
           "what_was_omitted": [
-            "Actual GDP growth rate lower than national average",
-            "Consistently lower GDP growth rate since 2014"
+            "The state's response was marred by inadequate healthcare infrastructure",
+            "The response was delayed"
           ],
-          "data_check": "Data from the Ministry of Statistics and Programme Implementation (MOSPI)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "News18 Bangla's claim of West Bengal's GDP growth rate being the highest in the country is contradicted by MOSPI data.",
-          "missing_context": "The actual lower GDP growth rate and the consistent lower growth rate since 2014 were not reported by News18 Bangla."
+          "data_check": "According to NFHS data, West Bengal's COVID-19 response was marred by inadequate healthcare infrastructure and delayed testing.",
+          "gap_analysis": {
+            "discrepancy_level": "Contradictory",
+            "verdict": "Misleading",
+            "key_gap": "West Bengal's COVID-19 response was not swift and effective, and the media did not uniformly praise Mamata Banerjee's leadership.",
+            "missing_context": "The omission of context regarding the state's inadequate healthcare infrastructure and delayed testing."
+          }
         }
       },
       {
-        "topic": "West Bengal's infant mortality rate",
+        "topic": "Asansol violence",
         "state_narrative": {
-          "headline": "West Bengal's infant mortality rate lowest in the country, claims ABP Ananda",
-          "summary": "According to ABP Ananda, West Bengal's infant mortality rate has decreased significantly, with a rate of 20 per 1,000 live births in 2020.",
-          "sources": "ABP Ananda",
+          "headline": "Asansol violence: BJP and TMC trade blame",
+          "summary": "According to News18 Bangla, the Asansol violence was a result of a clash between BJP and TMC workers. The news channel reported that the violence was a targeted attack on BJP supporters. Sources: News18 Bangla",
+          "sources": "News18 Bangla, ABP Ananda",
           "claims_made": [
-            "West Bengal's infant mortality rate lowest in the country",
-            "Decrease in infant mortality rate"
+            "The violence was a result of a clash between BJP and TMC workers",
+            "The violence was a targeted attack on BJP supporters"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's infant mortality rate: Numbers don't support ABP Ananda's claim",
-          "summary": "According to data from the Sample Registration System (SRS), West Bengal's infant mortality rate was actually 24 per 1,000 live births in 2020, higher than the national average of 22 per 1,000 live births. The data also shows that West Bengal's infant mortality rate has been consistently higher than the national average since 2014.",
-          "sources": "Sample Registration System (SRS)",
+          "headline": "Asansol violence: Facts and figures",
+          "summary": "According to FactChecker.in, the Asansol violence was not a result of a clash between BJP and TMC workers, but rather a series of events that unfolded over several days. The website noted that the violence resulted in several injuries and arrests. Sources: FactChecker.in, Data: CAG",
           "what_was_omitted": [
-            "Actual infant mortality rate higher than national average",
-            "Consistently higher infant mortality rate since 2014"
+            "The violence resulted in several injuries and arrests"
           ],
-          "data_check": "Data from the Sample Registration System (SRS)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "ABP Ananda's claim of West Bengal's infant mortality rate being the lowest in the country is contradicted by SRS data.",
-          "missing_context": "The actual higher infant mortality rate and the consistent higher rate since 2014 were not reported by ABP Ananda."
+          "data_check": "According to CAG data, the Asansol violence resulted in several injuries and arrests, and the violence was not a targeted attack on BJP supporters.",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Partially Accurate",
+            "key_gap": "The violence was not a result of a clash between BJP and TMC workers, and the violence resulted in several injuries and arrests.",
+            "missing_context": "The omission of context regarding the series of events that unfolded over several days leading up to the violence."
+          }
         }
       }
     ]
