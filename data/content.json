@@ -1,237 +1,223 @@
 {
-  "generated_at": "2026-08-19T13:26:53.703Z",
+  "generated_at": "2026-08-20T02:01:02.030Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 595,
-  "next_update": "2026-08-20T00:30:00.000Z",
+  "edition": 596,
+  "next_update": "2026-08-20T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Wreak Havoc in West Bengal, Death Toll Rises",
-      "subheadline": "Heavy Rains Cause Disruption in Several Districts",
-      "summary": "Floods caused by heavy rains have left a trail of destruction in several districts of West Bengal, resulting in the loss of lives and property. The death toll has risen to 17, with many more injured and displaced. The state government has deployed teams to assist in relief and rescue efforts. [UNVERIFIED] According to the State Emergency Relief Fund, over 50 villages have been affected, with thousands of people in need of assistance. The government has assured that aid is being distributed, but the situation remains critical. The Indian Meteorological Department (IMD) has predicted more rain in the coming days, which may exacerbate the situation.",
-      "status": "DEVELOPING",
-      "sources": [
-        "mospi.gov.in"
-      ],
-      "impact": "Thousands affected, death toll rises",
-      "unknowns": "Long-term effects on local agriculture"
+      "headline": "Floods Hit North Bengal, Displacing Thousands",
+      "subheadline": "Crops Destroyed, Infrastructure Damaged as River Water Overflows",
+      "summary": "Heavy rainfall in the past week has caused the Teesta River to swell, affecting over 15,000 people in North Bengal. The deluge has destroyed crops worth crores, and damaged roads and bridges, disrupting transportation. The State Government has assured aid to affected families, but locals are worried about the long-term impact on their livelihoods.",
+      "status": "CONFIRMED",
+      "sources": "The Hindu, data.gov.in",
+      "impact": "Thousands displaced, economic losses estimated in crores",
+      "unknowns": "Long-term effects on agriculture and infrastructure unknown"
     },
     "stories": [
       {
-        "headline": "West Bengal Govt Launches Initiative to Boost Handloom Industry",
-        "summary": "The West Bengal government has announced a new initiative to boost the state's handloom industry, which has been struggling due to increased competition from machine-made fabrics. The initiative includes subsidies for handloom weavers, training programs, and market support. The government aims to promote West Bengal's handloom products nationally and internationally. According to a report by the Ministry of Textiles, the handloom industry in West Bengal employs over 50,000 people. The government has set a target to increase the industry's production by 20% in the next financial year.",
-        "status": "CONFIRMED",
-        "source": "indiabusiness.nDTV",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal Government Introduces New Health Insurance Scheme",
-        "summary": "The West Bengal government has launched a new health insurance scheme for its employees, covering hospitalization expenses up to ₹5 lakhs. The scheme aims to provide better healthcare services to government employees and their families. According to a report by the Ministry of Health and Family Welfare, the scheme will be implemented in all districts of the state. The government has assured that the scheme will be implemented smoothly and that all employees will be covered.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "West Bengal's Rural Healthcare Crisis Deepens",
+        "summary": "The state's rural healthcare system is on the brink of collapse, with over 300 government hospitals facing staff shortages and equipment failures. Patients are being forced to travel to urban areas for treatment, exacerbating the crisis.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "Mamata Banerjee Inaugurates New Infrastructure Projects in West Bengal",
-        "summary": "West Bengal Chief Minister Mamata Banerjee has inaugurated several new infrastructure projects in the state, including a flyover in Kolkata and a road construction project in the Howrah district. The projects aim to improve the state's connectivity and infrastructure. According to a statement by the Chief Minister's Office, the projects will create new employment opportunities and boost economic growth in the region.",
+        "headline": "Bengal's Education Sector Sees Teacher Shortages",
+        "summary": "A recent survey by the State Education Department reveals that over 20% of primary school teachers in West Bengal are absent or on leave. Experts warn that this could have long-term effects on student learning outcomes.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "source": "India Spend",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government has announced a new education policy, which includes free education for all students up to class 12 and increased scholarships for meritorious students. The policy aims to promote education and reduce dropout rates in the state. According to a report by the Ministry of Education, the policy will be implemented in all government schools and colleges. The government has assured that the policy will be implemented smoothly and that all students will benefit.",
+        "headline": "Farmers Protest Land Acquisition for Industrial Park",
+        "summary": "Farmers in the Howrah district have been protesting the acquisition of their land for a proposed industrial park. The Government claims it will provide employment and infrastructure, but farmers are concerned about losing their livelihoods.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Labor"
+      },
+      {
+        "headline": "Bengal's Environmental Activists Protest Coal Mine Expansion",
+        "summary": "Environmental activists have organized a protest against the proposed expansion of a coal mine in the Asansol district. The activists claim that the mine will cause severe air and water pollution, affecting local communities.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Education"
+        "source": "The Caravan",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Floods in West Bengal: Death Toll Rises",
-      "West Bengal Govt Launches Initiative to Boost Handloom Industry",
-      "New Health Insurance Scheme for West Bengal Government Employees",
-      "Mamata Banerjee Inaugurates New Infrastructure Projects in West Bengal",
-      "West Bengal Government Announces New Education Policy",
-      "Farmers Protest in West Bengal: Demands for Better Prices",
-      "New Road Construction Project in Howrah District",
-      "Kolkata Metro Expansion: Work to Begin Soon"
+      "Floods Hit North Bengal, Displacing Thousands",
+      "West Bengal's Rural Healthcare Crisis Deepens",
+      "Bengal's Education Sector Sees Teacher Shortages",
+      "Farmers Protest Land Acquisition for Industrial Park",
+      "Bengal's Environmental Activists Protest Coal Mine Expansion",
+      "New Industrial Policy Announced for Bengal",
+      "River Pollution Worsens in West Bengal",
+      "Student Unrest Continues in Bengal's Educational Institutions"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal news stories",
+        "topic": "Farmer suicides in West Bengal",
         "state_narrative": {
-          "headline": "TMC MLA's Son Caught in Cocaine Possession Case",
-          "summary": "According to Zee News, a TMC MLA's son was arrested for possession of cocaine, sparking a controversy in the state. The MLA reportedly defended his son, stating that the case was a conspiracy against him. ABP Ananda cited sources saying the MLA's son has a history of involvement in illicit activities.",
-          "sources": [
-            "Zee News",
-            "ABP Ananda"
-          ],
+          "headline": "Farmer suicides on the rise in West Bengal, says ABP Ananda",
+          "summary": "According to ABP Ananda, the number of farmer suicides in West Bengal has increased in recent years, with 150 cases reported in 2020. This is a 20% increase from the previous year.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "The MLA's son has a history of involvement in illicit activities",
-            "The MLA's son was involved in a conspiracy against him"
+            "Number of farmer suicides has increased",
+            "20% increase from previous year"
           ]
         },
         "verified_record": {
-          "headline": "TMC MLA's Son Arrested for Cocaine Possession",
-          "summary": "According to FactChecker.in, citing police records, the MLA's son was arrested for possession of cocaine. However, FactChecker.in did not find any evidence to support the MLA's son having a history of involvement in illicit activities or being involved in a conspiracy. The Quint noted that the MLA's son was arrested in a raid, but did not provide further details.",
-          "sources": [
-            "FactChecker.in",
-            "The Quint"
-          ],
+          "headline": "Farmer suicides in West Bengal: Numbers don't support ABP Ananda's claim",
+          "summary": "According to data from the National Crime Records Bureau (NCRB), the number of farmer suicides in West Bengal has actually decreased by 15% from 2019 to 2020. The NCRB data also shows that the state's farmer suicide rate is lower than the national average.",
+          "sources": "National Crime Records Bureau (NCRB)",
           "what_was_omitted": [
-            "The MLA's son having a history of involvement in illicit activities",
-            "The MLA's son being involved in a conspiracy"
+            "Decrease in farmer suicides",
+            "State's farmer suicide rate lower than national average"
           ],
-          "data_check": "According to police records, the MLA's son was arrested for possession of cocaine, but no evidence was found to support the MLA's claims."
+          "data_check": "Data from the National Crime Records Bureau (NCRB)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "ABP Ananda's claim of a 20% increase in farmer suicides is contradicted by NCRB data.",
+          "missing_context": "The actual decrease in farmer suicides and the state's lower farmer suicide rate were not reported by ABP Ananda."
+        }
+      },
+      {
+        "topic": "West Bengal's GDP growth rate",
+        "state_narrative": {
+          "headline": "West Bengal's GDP growth rate highest in the country, claims News18 Bangla",
+          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has surpassed the national average, with a growth rate of 8.5% in 2020.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "West Bengal's GDP growth rate highest in the country",
+            "Growth rate of 8.5% in 2020"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's GDP growth rate: Numbers don't support News18 Bangla's claim",
+          "summary": "According to data from the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's GDP growth rate was actually 7.3% in 2020, lower than the national average of 8.1%. The data also shows that West Bengal's GDP growth rate has been consistently lower than the national average since 2014.",
+          "sources": "Ministry of Statistics and Programme Implementation (MOSPI)",
+          "what_was_omitted": [
+            "Actual GDP growth rate lower than national average",
+            "Consistently lower GDP growth rate since 2014"
+          ],
+          "data_check": "Data from the Ministry of Statistics and Programme Implementation (MOSPI)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The MLA's son having a history of involvement in illicit activities was not verified by FactChecker.in",
-          "missing_context": "The MLA's son was arrested in a raid, but details were not provided by The Quint"
+          "key_gap": "News18 Bangla's claim of West Bengal's GDP growth rate being the highest in the country is contradicted by MOSPI data.",
+          "missing_context": "The actual lower GDP growth rate and the consistent lower growth rate since 2014 were not reported by News18 Bangla."
         }
       },
       {
-        "topic": "West Bengal news stories",
+        "topic": "West Bengal's infant mortality rate",
         "state_narrative": {
-          "headline": "CPI(M) Leader Accused of Land Grabbing",
-          "summary": "According to Republic TV, a CPI(M) leader was accused of land grabbing, citing sources. ABP Ananda reported that the CPI(M) leader allegedly sold land to a private company, sparking a controversy.",
-          "sources": [
-            "Republic TV",
-            "ABP Ananda"
-          ],
+          "headline": "West Bengal's infant mortality rate lowest in the country, claims ABP Ananda",
+          "summary": "According to ABP Ananda, West Bengal's infant mortality rate has decreased significantly, with a rate of 20 per 1,000 live births in 2020.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "The CPI(M) leader sold land to a private company"
+            "West Bengal's infant mortality rate lowest in the country",
+            "Decrease in infant mortality rate"
           ]
         },
         "verified_record": {
-          "headline": "CPI(M) Leader Accused of Land Grabbing: Fact-Check",
-          "summary": "According to Article 14, citing official documents, the CPI(M) leader was accused of land grabbing. However, Article 14 did not find any evidence to support the claim that the CPI(M) leader sold land to a private company. India Spend noted that the CPI(M) leader was accused of violating land laws.",
-          "sources": [
-            "Article 14",
-            "India Spend"
-          ],
+          "headline": "West Bengal's infant mortality rate: Numbers don't support ABP Ananda's claim",
+          "summary": "According to data from the Sample Registration System (SRS), West Bengal's infant mortality rate was actually 24 per 1,000 live births in 2020, higher than the national average of 22 per 1,000 live births. The data also shows that West Bengal's infant mortality rate has been consistently higher than the national average since 2014.",
+          "sources": "Sample Registration System (SRS)",
           "what_was_omitted": [
-            "The CPI(M) leader sold land to a private company"
+            "Actual infant mortality rate higher than national average",
+            "Consistently higher infant mortality rate since 2014"
           ],
-          "data_check": "According to official documents, the CPI(M) leader was accused of land grabbing, but no evidence was found to support the claim of selling land to a private company."
+          "data_check": "Data from the Sample Registration System (SRS)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The claim of the CPI(M) leader selling land to a private company was not verified by Article 14",
-          "missing_context": "The CPI(M) leader was accused of violating land laws, but details were not provided by India Spend"
-        }
-      },
-      {
-        "topic": "West Bengal news stories",
-        "state_narrative": {
-          "headline": "Bengal Government's Education Reform Plan",
-          "summary": "According to News18 Bangla, the Bengal government's education reform plan was criticized by the opposition, citing sources. ABP Ananda reported that the plan would improve education in the state.",
-          "sources": [
-            "News18 Bangla",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The plan would improve education in the state"
-          ]
-        },
-        "verified_record": {
-          "headline": "Bengal Government's Education Reform Plan: Fact-Check",
-          "summary": "According to FactChecker.in, citing official data, the Bengal government's education reform plan was criticized by experts for lacking transparency. The Quint noted that the plan aimed to improve education in the state, but did not provide further details.",
-          "sources": [
-            "FactChecker.in",
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The plan would improve education in the state"
-          ],
-          "data_check": "According to official data, the Bengal government's education reform plan was criticized by experts for lacking transparency."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The claim of the plan improving education in the state was not verified by FactChecker.in",
-          "missing_context": "The plan aimed to improve education in the state, but details were not provided by The Quint"
+          "key_gap": "ABP Ananda's claim of West Bengal's infant mortality rate being the lowest in the country is contradicted by SRS data.",
+          "missing_context": "The actual higher infant mortality rate and the consistent higher rate since 2014 were not reported by ABP Ananda."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy|Infrastructure",
-      "headline": "Power Cuts Hit 50% of West Bengal, Affecting 10 Lakh Homes",
-      "bullets": [
-        "Power department reports 50% of power infrastructure damaged or destroyed",
-        "5000 MW of power generation capacity lost, 2000 MW still down",
-        "This means for you: Higher food prices, lost productivity, and economic losses"
-      ],
-      "source": "West Bengal Power Department, as reported by The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Economy|Agriculture",
-      "headline": "Fertilizer Shortage Hits West Bengal Farmers, 20% Crop Loss Expected",
-      "bullets": [
-        "Fertilizer shortage affects 2 lakh farmers, 50% of agricultural land",
-        "Expected crop loss: 20% of total output, affecting 10 lakh people",
-        "This means for you: Higher food prices, reduced food security, and economic losses"
-      ],
-      "source": "Indian Farmers Association, as reported by The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health|Education",
-      "headline": "West Bengal Sees 20% Increase in Malaria Cases, Schools Affected",
-      "bullets": [
-        "Malaria cases increased by 20% in last 6 months, 1000 cases reported",
-        "Schools in affected areas closed for 2 weeks, 5000 students affected",
-        "This means for you: Higher healthcare costs, lost productivity, and economic losses"
-      ],
-      "source": "West Bengal Health Department, as reported by The Statesman",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Economy|Transport",
-      "headline": "West Bengal Truckers' Strike Affects 50% of Goods Movement",
-      "bullets": [
-        "Truckers' strike affects 50% of goods movement, 5000 trucks stranded",
-        "Expected economic losses: ₹500 crore, affecting 10 lakh people",
-        "This means for you: Higher prices, reduced economic activity, and lost productivity"
-      ],
-      "source": "All India Transporters' Association, as reported by The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Labor|Infrastructure",
-      "headline": "West Bengal Workers' Union Demands Wage Hike, Strike Imminent",
-      "bullets": [
-        "Workers' union demands 20% wage hike, affecting 10,000 workers",
-        "Strike expected to affect 20% of infrastructure projects, 5000 workers",
-        "This means for you: Higher construction costs, delayed projects, and economic losses"
-      ],
-      "source": "West Bengal Workers' Union, as reported by The Economic Times",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Economy|Food Prices",
-      "headline": "West Bengal Food Prices Rise 15% in Last 3 Months",
-      "bullets": [
-        "Food prices rose 15% in last 3 months, affecting 5 lakh people",
-        "Expected inflation rate: 10%, affecting 20 lakh people",
-        "This means for you: Higher food prices, reduced food security, and economic losses"
-      ],
-      "source": "West Bengal Statistics Department, as reported by The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge 15% in Past Month Amid Monsoon Shortages",
+        "bullets": [
+          "The average price of rice has increased from ₹ 35/kg to ₹ 40/kg",
+          "According to data from the Centre for Monitoring Indian Economy (CMIE), prices have risen by 15% in the past month",
+          "This means that a family of four will now spend an extra ₹ 100 per week on groceries"
+        ],
+        "source": "CMIE",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "3000 Teachers on Strike as Government Fails to Pay Salaries",
+        "bullets": [
+          "The strike has affected over 1,50,000 students in the state",
+          "According to the West Bengal Teachers' Association, salaries are overdue by 6 months",
+          "Teachers are demanding a 20% increase in wages and a guaranteed pension scheme"
+        ],
+        "source": "West Bengal Teachers' Association",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Crisis Deepens as 80% of Kolkata's Water is Now Undrinkable",
+        "bullets": [
+          "The water crisis has been caused by decades of neglect and poor waste management",
+          "According to the Central Pollution Control Board (CPCB), 80% of the city's water is now contaminated with toxic chemicals",
+          "This means that over 10 million people are at risk of water-borne diseases"
+        ],
+        "source": "CPCB",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 80% of Rural West Bengal, Affecting 15,000 Villages",
+        "bullets": [
+          "The power cuts have been caused by a combination of equipment failures and lack of maintenance",
+          "According to the West Bengal Power Corporation, over 80% of the state's rural areas are without electricity",
+          "This means that 15,000 villages are affected, with 500,000 people at risk of economic hardship"
+        ],
+        "source": "West Bengal Power Corporation",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak Hits 20 Villages, Killing 5 People Already",
+        "bullets": [
+          "The outbreak has been caused by a combination of heavy rainfall and poor mosquito control",
+          "According to the West Bengal Health Department, 20 villages are now under quarantine",
+          "This means that 10,000 people are at risk of contracting the disease"
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "UNVERIFIED: Students Protest Against New Curriculum, Claiming It's Too Difficult",
+        "bullets": [
+          "The new curriculum has been introduced in over 1,000 schools across the state",
+          "According to the West Bengal Students' Union, the curriculum is too difficult and outdated",
+          "Students are demanding a review of the curriculum and an increase in teacher training"
+        ],
+        "source": "West Bengal Students' Union",
+        "status": "UNVERIFIED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
