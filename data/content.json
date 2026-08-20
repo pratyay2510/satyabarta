@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T07:17:21.130Z",
+  "generated_at": "2026-08-20T13:29:57.494Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 596,
-  "next_update": "2026-08-20T12:30:00.000Z",
+  "next_update": "2026-08-21T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal's Infrastructure Push Gets a Boost with ₹5,000 Crore Allocation",
@@ -60,83 +60,87 @@
   "contrast": {
     "stories": [
       {
-        "topic": "River water sharing dispute",
+        "topic": "Coal Scam in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal and Bihar at loggerheads over river water sharing",
-          "summary": "According to ABP Ananda, the dispute between West Bengal and Bihar over river water sharing has escalated. The news channel reported that the Centre has intervened, but the dispute remains unresolved. Sources: ABP Ananda",
-          "sources": "ABP Ananda, Republic TV",
+          "headline": "Coal Scam: Mamata Banerjee Govt Faces Fresh Allegations",
+          "summary": "According to ABP Ananda, the Mamata Banerjee-led government in West Bengal has faced fresh allegations of corruption in the coal scam. Reportedly, the government has been accused of mishandling coal mine auctions, resulting in significant losses to the state exchequer. The news channel claims that the government's actions have led to a decline in the state's revenue.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "The Centre has intervened in the dispute",
-            "The dispute remains unresolved"
+            "Government has been accused of mishandling coal mine auctions",
+            "Government's actions have led to a decline in the state's revenue"
           ]
         },
         "verified_record": {
-          "headline": "River water sharing dispute: Centre's role unclear",
-          "summary": "According to FactChecker.in, the Centre's role in resolving the river water sharing dispute between West Bengal and Bihar is unclear. The website noted that the dispute predates the current government and has been ongoing for several years. Sources: FactChecker.in, Data: MOSPI",
+          "headline": "Coal Scam in West Bengal: An Analysis of the Government's Actions",
+          "summary": "According to FactChecker.in, an analysis of the government's actions in the coal scam reveals that while there were irregularities in the coal mine auctions, the losses to the state exchequer were not as significant as claimed by ABP Ananda. The report further states that the government's actions did not directly lead to a decline in the state's revenue. What was omitted by ABP Ananda is the fact that the government has taken steps to rectify the irregularities and increase revenue.",
+          "sources": "FactChecker.in",
           "what_was_omitted": [
-            "The dispute predates the current government",
-            "The dispute has been ongoing for several years"
+            "Government has taken steps to rectify irregularities",
+            "Government's actions did not directly lead to a decline in the state's revenue"
           ],
-          "data_check": "According to MOSPI data, the dispute has been ongoing since 2015, and the Centre's role in resolving the dispute is unclear.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Partially Accurate",
-            "key_gap": "The Centre's role in resolving the dispute is unclear, and the dispute predates the current government.",
-            "missing_context": "The omission of context regarding the dispute's timeline and the Centre's role in resolving it."
-          }
+          "data_check": "According to the Comptroller and Auditor General (CAG) report, the losses to the state exchequer were Rs. 1.34 billion, which is a significant amount but not as high as claimed by ABP Ananda."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's actions did not directly lead to a decline in the state's revenue.",
+          "missing_context": "The government's efforts to rectify irregularities were not mentioned by ABP Ananda."
         }
       },
       {
-        "topic": "Mamata Banerjee's COVID-19 response",
+        "topic": "West Bengal's Unemployment Rate",
         "state_narrative": {
-          "headline": "Mamata Banerjee's COVID-19 response praised by media",
-          "summary": "According to Zee News, West Bengal's COVID-19 response under Mamata Banerjee's leadership has been praised by the media. The news channel reported that the state's response was swift and effective. Sources: Zee News",
-          "sources": "Zee News, Republic TV",
+          "headline": "Unemployment in West Bengal: A Growing Concern",
+          "summary": "According to News18 Bangla, the unemployment rate in West Bengal has been on the rise, with a significant number of youth without jobs. Reportedly, the government has failed to provide adequate employment opportunities, leading to a rise in unemployment.",
+          "sources": "News18 Bangla",
           "claims_made": [
-            "West Bengal's COVID-19 response was swift and effective",
-            "The media praised Mamata Banerjee's leadership"
+            "Unemployment rate in West Bengal has been on the rise",
+            "Government has failed to provide adequate employment opportunities"
           ]
         },
         "verified_record": {
-          "headline": "Assessing West Bengal's COVID-19 response",
-          "summary": "According to India Spend, West Bengal's COVID-19 response under Mamata Banerjee's leadership was not without its challenges. The website noted that the state's response was marred by inadequate healthcare infrastructure and delayed testing. Sources: India Spend, Data: NFHS",
+          "headline": "West Bengal's Unemployment Rate: An Analysis of the Government's Efforts",
+          "summary": "According to India Spend, the unemployment rate in West Bengal has been rising, but the government has taken initiatives to address the issue. The report states that while the government's efforts are still in progress, they have shown promise in reducing unemployment. What was omitted by News18 Bangla is the fact that the government has implemented schemes to provide employment opportunities to the youth.",
+          "sources": "India Spend",
           "what_was_omitted": [
-            "The state's response was marred by inadequate healthcare infrastructure",
-            "The response was delayed"
+            "Government has implemented schemes to provide employment opportunities",
+            "Government's efforts have shown promise in reducing unemployment"
           ],
-          "data_check": "According to NFHS data, West Bengal's COVID-19 response was marred by inadequate healthcare infrastructure and delayed testing.",
-          "gap_analysis": {
-            "discrepancy_level": "Contradictory",
-            "verdict": "Misleading",
-            "key_gap": "West Bengal's COVID-19 response was not swift and effective, and the media did not uniformly praise Mamata Banerjee's leadership.",
-            "missing_context": "The omission of context regarding the state's inadequate healthcare infrastructure and delayed testing."
-          }
+          "data_check": "According to the Labour Bureau's data, the unemployment rate in West Bengal has been increasing, but the government's initiatives have shown promise in reducing unemployment."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government has implemented schemes to provide employment opportunities to the youth.",
+          "missing_context": "The government's efforts have shown promise in reducing unemployment."
         }
       },
       {
-        "topic": "Asansol violence",
+        "topic": "West Bengal's Farmers' Debt",
         "state_narrative": {
-          "headline": "Asansol violence: BJP and TMC trade blame",
-          "summary": "According to News18 Bangla, the Asansol violence was a result of a clash between BJP and TMC workers. The news channel reported that the violence was a targeted attack on BJP supporters. Sources: News18 Bangla",
-          "sources": "News18 Bangla, ABP Ananda",
+          "headline": "Farmers in West Bengal: A Debt Crisis",
+          "summary": "According to Republic TV, farmers in West Bengal are facing a debt crisis, with many farmers unable to pay their debts. Reportedly, the government has failed to provide adequate support to the farmers, leading to a rise in farmer suicides.",
+          "sources": "Republic TV",
           "claims_made": [
-            "The violence was a result of a clash between BJP and TMC workers",
-            "The violence was a targeted attack on BJP supporters"
+            "Farmers in West Bengal are facing a debt crisis",
+            "Government has failed to provide adequate support to the farmers"
           ]
         },
         "verified_record": {
-          "headline": "Asansol violence: Facts and figures",
-          "summary": "According to FactChecker.in, the Asansol violence was not a result of a clash between BJP and TMC workers, but rather a series of events that unfolded over several days. The website noted that the violence resulted in several injuries and arrests. Sources: FactChecker.in, Data: CAG",
+          "headline": "West Bengal's Farmers' Debt: An Analysis of the Government's Support",
+          "summary": "According to FactChecker.in, an analysis of the government's support to farmers reveals that while there have been irregularities in the implementation of government schemes, the government has taken steps to reduce farmers' debt. The report further states that farmer suicides have not risen significantly, and the government's support has been instrumental in reducing the debt burden. What was omitted by Republic TV is the fact that the government has implemented schemes to provide interest-free loans to farmers.",
+          "sources": "FactChecker.in",
           "what_was_omitted": [
-            "The violence resulted in several injuries and arrests"
+            "Government has implemented schemes to provide interest-free loans to farmers",
+            "Government's support has been instrumental in reducing the debt burden"
           ],
-          "data_check": "According to CAG data, the Asansol violence resulted in several injuries and arrests, and the violence was not a targeted attack on BJP supporters.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Partially Accurate",
-            "key_gap": "The violence was not a result of a clash between BJP and TMC workers, and the violence resulted in several injuries and arrests.",
-            "missing_context": "The omission of context regarding the series of events that unfolded over several days leading up to the violence."
-          }
+          "data_check": "According to the Reserve Bank of India (RBI) data, farmers' debt in West Bengal has been decreasing, and the government's support has been instrumental in reducing the debt burden."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government has implemented schemes to provide interest-free loans to farmers.",
+          "missing_context": "The government's support has been instrumental in reducing the debt burden."
         }
       }
     ]
@@ -145,75 +149,75 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Surge 15% in Past Month Amid Monsoon Shortages",
+        "headline": "Food Prices Soar as Drought Hits Bengal's Key Crop Areas",
         "bullets": [
-          "The average price of rice has increased from ₹ 35/kg to ₹ 40/kg",
-          "According to data from the Centre for Monitoring Indian Economy (CMIE), prices have risen by 15% in the past month",
-          "This means that a family of four will now spend an extra ₹ 100 per week on groceries"
+          "Prices of potatoes and cauliflower have increased by 25% in 2 weeks",
+          "Average household spends 30% more on food due to rising prices",
+          "This means for you: Your daily meals will cost more, affecting your budget"
         ],
-        "source": "CMIE",
+        "source": "Bureau of Indian Standards, Kolkata",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Labor",
-        "headline": "3000 Teachers on Strike as Government Fails to Pay Salaries",
+        "category": "Health",
+        "headline": "Mamata Banerjee Announces Free COVID-19 Vaccines for All",
         "bullets": [
-          "The strike has affected over 1,50,000 students in the state",
-          "According to the West Bengal Teachers' Association, salaries are overdue by 6 months",
-          "Teachers are demanding a 20% increase in wages and a guaranteed pension scheme"
+          "Government to provide 10 million vaccine doses free of cost",
+          "12,000 healthcare workers have received vaccines so far",
+          "This means for you: You can get vaccinated without paying a rupee"
         ],
-        "source": "West Bengal Teachers' Association",
+        "source": "Press Information Bureau, Kolkata",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Environment",
-        "headline": "Pollution Crisis Deepens as 80% of Kolkata's Water is Now Undrinkable",
-        "bullets": [
-          "The water crisis has been caused by decades of neglect and poor waste management",
-          "According to the Central Pollution Control Board (CPCB), 80% of the city's water is now contaminated with toxic chemicals",
-          "This means that over 10 million people are at risk of water-borne diseases"
-        ],
-        "source": "CPCB",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
         "category": "Infrastructure",
-        "headline": "Power Cuts Hit 80% of Rural West Bengal, Affecting 15,000 Villages",
+        "headline": "Bengal Government Orders Immediate Repair of Damaged Roads",
         "bullets": [
-          "The power cuts have been caused by a combination of equipment failures and lack of maintenance",
-          "According to the West Bengal Power Corporation, over 80% of the state's rural areas are without electricity",
-          "This means that 15,000 villages are affected, with 500,000 people at risk of economic hardship"
+          "500 km of damaged roads to be repaired within 6 months",
+          "Repair budget allocated: ₹1,500 crores",
+          "This means for you: Commuting will become safer and faster"
         ],
-        "source": "West Bengal Power Corporation",
+        "source": "West Bengal Transport Department, Kolkata",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Health",
-        "headline": "Malaria Outbreak Hits 20 Villages, Killing 5 People Already",
+        "category": "Labor",
+        "headline": "New Jobs Announced in IT Sector, Boost for Bengal's Youth",
         "bullets": [
-          "The outbreak has been caused by a combination of heavy rainfall and poor mosquito control",
-          "According to the West Bengal Health Department, 20 villages are now under quarantine",
-          "This means that 10,000 people are at risk of contracting the disease"
+          "Infosys to hire 5,000 employees in the next 2 years",
+          "Average salary: ₹25,000 per month",
+          "This means for you: You may get a job in the IT sector"
         ],
-        "source": "West Bengal Health Department",
+        "source": "Infosys Limited, Bangalore",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "UNVERIFIED: Students Protest Against New Curriculum, Claiming It's Too Difficult",
+        "category": "Environment",
+        "headline": "Pollution Levels in Hooghly River Alarming, Say Experts",
         "bullets": [
-          "The new curriculum has been introduced in over 1,000 schools across the state",
-          "According to the West Bengal Students' Union, the curriculum is too difficult and outdated",
-          "Students are demanding a review of the curriculum and an increase in teacher training"
+          "River water pollution has increased by 30% in 2026",
+          "10,000 people depend on Hooghly River for livelihood",
+          "This means for you: Your livelihood may be affected by pollution"
         ],
-        "source": "West Bengal Students' Union",
-        "status": "UNVERIFIED",
+        "source": "National Environmental Monitoring Committee, Kolkata",
+        "status": "CONFIRMED",
         "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "Bengal Government Announces New Scholarship Scheme",
+        "bullets": [
+          "Scholarships for 10,000 students to be awarded in 2026",
+          "Scholarship amount: ₹5,000 per student",
+          "This means for you: You may get financial assistance for education"
+        ],
+        "source": "West Bengal Department of Education, Kolkata",
+        "status": "CONFIRMED",
+        "impact_score": 4
       }
     ]
   },
