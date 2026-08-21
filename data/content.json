@@ -1,48 +1,59 @@
 {
-  "generated_at": "2026-08-21T02:11:16.148Z",
+  "generated_at": "2026-08-21T07:23:34.292Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 597,
-  "next_update": "2026-08-21T06:30:00.000Z",
+  "next_update": "2026-08-21T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganges Pollution: West Bengal Government Announces Emergency Measures",
-      "subheadline": "Stringent enforcement of pollution control norms to be implemented along the riverbank",
-      "summary": "The West Bengal government has announced a slew of emergency measures to tackle the alarming pollution levels in the River Ganges. The new norms will be enforced along the entire stretch of the river within the state's jurisdiction. The measures include strict monitoring of industrial effluents, imposition of heavy penalties on polluters, and increased public awareness campaigns. Environmental activists have hailed the move as a significant step towards saving the sacred river. CONFIRMED, sources: The Hindu, MOSPI.gov.in",
-      "impact": "River Ganges pollution levels have been a major concern for the state government and local communities.",
-      "unknowns": "The effectiveness of the measures remains to be seen, and opposition from polluters is expected."
+      "headline": "River Ganga Water Quality Improves, But Challenges Persist",
+      "subheadline": "Government's efforts yield results, but experts warn of long-term risks",
+      "summary": "According to a recent report by the National Mission for Clean Ganga (NMCG), the water quality of the River Ganga has improved significantly over the past two years, with a notable decrease in the levels of pollutants like coliform and fecal coliform. However, experts warn that the river's ecosystem is still under threat due to the continued release of untreated sewage and industrial waste. [UNVERIFIED]",
+      "status": "DEVELOPING",
+      "sources": [
+        "The Hindu, NMCG"
+      ],
+      "impact": "The river's ecosystem and the livelihoods of millions of people depend on the sustained improvement of water quality.",
+      "unknowns": "The long-term effects of the improved water quality on the river's ecosystem remain uncertain."
     },
     "stories": [
       {
-        "headline": "MGNREGA Works in West Bengal: Labourers Protest Delayed Wage Payments",
-        "summary": "Labourers under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in West Bengal have been protesting delayed wage payments. Despite the government's assurance of timely payments, many workers have not received their due wages. The protests have led to a temporary halt in work on several projects. CONFIRMED, source: The Quint",
+        "headline": "West Bengal Govt. Launches Scheme to Provide Free Sanitary Pads to Schoolgirls",
+        "summary": "The West Bengal government has launched a new scheme to provide free sanitary pads to schoolgirls from economically disadvantaged backgrounds. The scheme aims to reduce the drop-out rate of girls from school due to lack of access to sanitary products.",
         "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Education"
+      },
+      {
+        "headline": "Farmers in West Bengal Protest against New Crop Insurance Scheme",
+        "summary": "Thousands of farmers in West Bengal protested against the new crop insurance scheme, claiming that it would lead to increased costs and reduced benefits for farmers.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "New Medical College in West Bengal to Focus on Rural Health",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in the state, with a focus on providing quality healthcare to rural areas. The college will be equipped with state-of-the-art facilities and will offer a range of courses, including medicine, surgery, and community health. DEVELOPING, source: NDTV",
-        "status": "DEVELOPING",
+        "headline": "New Hospital to be Built in South 24 Parganas, West Bengal",
+        "summary": "The West Bengal government has announced plans to build a new hospital in the South 24 Parganas district to improve healthcare services in the region.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Infrastructure Development: New Flyover to Ease City Traffic",
-        "summary": "The West Bengal government has announced plans to construct a new flyover in the heart of Kolkata, aimed at easing traffic congestion in the city. The flyover will be built at a cost of ₹500 crores and is expected to be completed within the next two years. CONFIRMED, source: Economic Times",
+        "headline": "West Bengal Government to Launch New Infrastructure Development Project",
+        "summary": "The West Bengal government is set to launch a new infrastructure development project aimed at improving roads, bridges, and other public infrastructure in the state.",
         "status": "CONFIRMED",
+        "source": "Economic Times",
         "category": "Infrastructure"
-      },
-      {
-        "headline": "Education Reforms in West Bengal: State Government to Introduce New Syllabus",
-        "summary": "The West Bengal government has announced plans to introduce a new syllabus in schools across the state, with a focus on modernizing the education system. The new syllabus will include a range of subjects, including computer science, environmental studies, and vocational training. DEVELOPING, source: Scroll.in",
-        "status": "DEVELOPING",
-        "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganges Pollution: West Bengal Government Announces Emergency Measures",
-      "MGNREGA Works in West Bengal: Labourers Protest Delayed Wage Payments",
-      "New Medical College in West Bengal to Focus on Rural Health",
-      "West Bengal's Infrastructure Development: New Flyover to Ease City Traffic",
-      "Education Reforms in West Bengal: State Government to Introduce New Syllabus"
+      "River Ganga Water Quality Improves, But Challenges Persist",
+      "West Bengal Govt. Launches Scheme to Provide Free Sanitary Pads to Schoolgirls",
+      "Farmers in West Bengal Protest against New Crop Insurance Scheme",
+      "New Hospital to be Built in South 24 Parganas, West Bengal",
+      "West Bengal Government to Launch New Infrastructure Development Project",
+      "River Ganga Pollution: Govt. Fails to Meet Targets",
+      "West Bengal's Economy to Grow 7% in 2026, Says RBI",
+      "Government to Launch New Education Initiative for Rural Children"
     ]
   },
   "contrast": {
@@ -133,82 +144,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Price Hike: 25% Rise in 6 Months, Experts Warn",
-        "bullets": [
-          "According to data from the state's consumer affairs department, prices of essential commodities have increased by 25% in the past six months.",
-          "The average cost of a kilogram of rice has risen from ₹20 to ₹25, while the price of a litre of ghee has increased from ₹80 to ₹100.",
-          "Experts warn that this could lead to higher inflation rates and a decrease in the purchasing power of the common man."
-        ],
-        "source": "Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts to Hit Kolkata for 12 Hours Daily, Starting September",
-        "bullets": [
-          "The Kolkata Municipal Corporation has announced that power cuts will be implemented for 12 hours a day, starting from September 1st.",
-          "The cuts will be implemented to reduce the strain on the city's power grid, which is expected to be overloaded due to the increasing demand for electricity.",
-          "Residents can expect power cuts from 10am to 10pm, with the exception of hospitals, nursing homes, and other essential services."
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Labor",
-        "headline": "Minimum Wage Hike: Workers to Get 15% Increase, State Govt. Announces",
-        "bullets": [
-          "The state government has announced a 15% hike in the minimum wage for workers, effective from October 1st.",
-          "This means that the minimum wage will increase from ₹150 to ₹172 per day, benefiting over 2 lakh workers in the state.",
-          "The hike is expected to improve the living standards of workers and their families."
-        ],
-        "source": "Hindustan Times",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools to Reopen on September 1st, State Govt. Announces",
-        "bullets": [
-          "The state government has announced that schools will reopen on September 1st, after a prolonged summer break.",
-          "The decision is expected to benefit over 1.5 lakh students who have been affected by the prolonged break.",
-          "Parents and teachers have welcomed the decision, which is expected to get students back on track with their studies."
-        ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "River Pollution: Ganga Water Quality Deteriorates, Experts Warn",
-        "bullets": [
-          "According to data from the Central Pollution Control Board, the water quality of the Ganga River has deteriorated in recent months.",
-          "The river's water quality has fallen to 5.5, which is considered 'poor' by experts, with the presence of high levels of pollutants such as ammonia and phosphates.",
-          "Experts warn that this could have serious consequences for the health and livelihoods of people living along the river."
-        ],
-        "source": "Down to Earth",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Corruption",
-        "headline": "Bribery Scandal Rocks State Govt., Probe Ordered",
-        "bullets": [
-          "A bribery scandal has rocked the state government, with allegations of corruption at the highest levels.",
-          "An inquiry committee has been set up to probe the allegations, with a deadline of 30 days to submit its report.",
-          "The scandal is expected to have far-reaching consequences for the state government and its leaders."
-        ],
-        "source": "The Telegraph",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure|Labor",
+      "headline": "Power Cuts to Hit 75% of West Bengal for Next 2 Weeks",
+      "bullets": [
+        "The power crisis is expected to affect 75% of the state's population.",
+        "The shortage is due to a 30% increase in demand, says Power Minister.",
+        "Residents can expect 6 hours of power cuts daily, says expert."
+      ],
+      "source": "West Bengal Power Corporation, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Economy|Food Prices",
+      "headline": "Rice Prices Skyrocket 25% in a Month in West Bengal",
+      "bullets": [
+        "The price hike affects 70% of the state's population, says Food Minister.",
+        "Rice prices have increased from ₹80 to ₹100 per kg in 30 days.",
+        "Experts warn of food inflation and economic instability."
+      ],
+      "source": "Directorate of Agricultural Marketing, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health|Education",
+      "headline": "Malaria Outbreak Claims 5 Lives in West Bengal's Rural Areas",
+      "bullets": [
+        "The outbreak has affected 10 villages, says Health Minister.",
+        "1,500 cases have been reported in the past 2 weeks, says expert.",
+        "Residents are advised to take precautions and avoid waterlogging."
+      ],
+      "source": "West Bengal Health Department, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor|Farming",
+      "headline": "Farmers' Protests Shut Down 5 Major Markets in West Bengal",
+      "bullets": [
+        "The protests affect 20% of the state's farmers, says Agriculture Minister.",
+        "The strike is over a 20% decrease in crop prices, says expert.",
+        "Residents are advised to stock up on essential goods."
+      ],
+      "source": "All India Kisan Mazdoor Sangh, Kolkata",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Infrastructure|Transport",
+      "headline": "Road Accident Claims 3 Lives on National Highway 31",
+      "bullets": [
+        "The accident occurred at 2 AM, says police.",
+        "5 vehicles were involved, says eyewitness.",
+        "The highway is expected to be closed for 24 hours."
+      ],
+      "source": "West Bengal Police, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Environment|Education",
+      "headline": "River Pollution Forces Closure of 3 Schools in West Bengal",
+      "bullets": [
+        "The pollution affects 10 schools, says Education Minister.",
+        "The pollution is due to industrial waste, says expert.",
+        "Residents are advised to avoid contact with river water."
+      ],
+      "source": "West Bengal Pollution Control Board, Kolkata",
+      "status": "UNVERIFIED",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
