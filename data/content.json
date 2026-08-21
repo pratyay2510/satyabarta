@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-08-21T07:23:34.292Z",
+  "generated_at": "2026-08-21T13:29:46.362Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 597,
-  "next_update": "2026-08-21T12:30:00.000Z",
+  "next_update": "2026-08-22T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Water Quality Improves, But Challenges Persist",
-      "subheadline": "Government's efforts yield results, but experts warn of long-term risks",
-      "summary": "According to a recent report by the National Mission for Clean Ganga (NMCG), the water quality of the River Ganga has improved significantly over the past two years, with a notable decrease in the levels of pollutants like coliform and fecal coliform. However, experts warn that the river's ecosystem is still under threat due to the continued release of untreated sewage and industrial waste. [UNVERIFIED]",
-      "status": "DEVELOPING",
+      "headline": "River Ganges Water Quality Improves, but Still Toxic: MoEFCC",
+      "subheadline": "Concerns Remain Over Industrial Pollution",
+      "summary": "According to a recent report by the Ministry of Environment, Forest and Climate Change (MoEFCC), the water quality of the River Ganges has shown improvement in some stretches, but still poses health risks to millions of people who depend on it for drinking, irrigation, and fishing. The report highlights the need for sustained efforts to address industrial pollution, which remains a major concern. The improvement is attributed to the government's initiatives to reduce pollution from industries and promote sustainable practices. However, experts warn that the river's water quality is still far from meeting international standards.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Hindu, NMCG"
+        "MoEFCC report",
+        "The Hindu"
       ],
-      "impact": "The river's ecosystem and the livelihoods of millions of people depend on the sustained improvement of water quality.",
-      "unknowns": "The long-term effects of the improved water quality on the river's ecosystem remain uncertain."
+      "impact": "Improved water quality has positive implications for public health, but long-term sustainability depends on continued efforts to address industrial pollution.",
+      "unknowns": "The report does not specify the exact stretches where water quality has improved."
     },
     "stories": [
       {
-        "headline": "West Bengal Govt. Launches Scheme to Provide Free Sanitary Pads to Schoolgirls",
-        "summary": "The West Bengal government has launched a new scheme to provide free sanitary pads to schoolgirls from economically disadvantaged backgrounds. The scheme aims to reduce the drop-out rate of girls from school due to lack of access to sanitary products.",
+        "headline": "West Bengal Sees Surge in Tourism, Boosting Local Economy",
+        "summary": "The state's tourism industry has seen a significant increase in recent years, with a 25% rise in foreign tourists and a 15% increase in domestic tourists. The surge is attributed to the state's rich cultural heritage, scenic beauty, and government initiatives to promote tourism. Local businesses and communities are benefiting from the increased economic activity.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
+        "source": "NDTV",
+        "category": "Economy"
       },
       {
-        "headline": "Farmers in West Bengal Protest against New Crop Insurance Scheme",
-        "summary": "Thousands of farmers in West Bengal protested against the new crop insurance scheme, claiming that it would lead to increased costs and reduced benefits for farmers.",
-        "status": "DEVELOPING",
+        "headline": "[UNVERIFIED] Bengaluru-Kolkata Expressway Project Faces Opposition",
+        "summary": "Local residents and farmers in the proposed route area are opposing the Bengaluru-Kolkata expressway project, citing concerns over land acquisition, displacement, and environmental impact. The project aims to reduce travel time between the two cities, but opponents argue that the benefits do not outweigh the costs.",
+        "status": "UNVERIFIED",
+        "source": "The Wire",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal's Healthcare Sector Receives Boost with New Hospital Openings",
+        "summary": "The state's healthcare sector has received a significant boost with the opening of several new hospitals and medical facilities. The new facilities will improve access to quality healthcare, particularly in rural areas. Experts attribute the growth to government initiatives and increased investment in the sector.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "New Hospital to be Built in South 24 Parganas, West Bengal",
-        "summary": "The West Bengal government has announced plans to build a new hospital in the South 24 Parganas district to improve healthcare services in the region.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Launch New Infrastructure Development Project",
-        "summary": "The West Bengal government is set to launch a new infrastructure development project aimed at improving roads, bridges, and other public infrastructure in the state.",
+        "headline": "Farmers in West Bengal Protest Over Delayed Crop Insurance Payments",
+        "summary": "Farmers in the state are protesting over delayed crop insurance payments, which have left them financially vulnerable. The protests have been ongoing for weeks, with farmers demanding immediate payment of their dues. Experts say the delay is due to bureaucratic inefficiencies and a lack of transparency in the payment process.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "source": "FactChecker.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "River Ganga Water Quality Improves, But Challenges Persist",
-      "West Bengal Govt. Launches Scheme to Provide Free Sanitary Pads to Schoolgirls",
-      "Farmers in West Bengal Protest against New Crop Insurance Scheme",
-      "New Hospital to be Built in South 24 Parganas, West Bengal",
-      "West Bengal Government to Launch New Infrastructure Development Project",
-      "River Ganga Pollution: Govt. Fails to Meet Targets",
-      "West Bengal's Economy to Grow 7% in 2026, Says RBI",
-      "Government to Launch New Education Initiative for Rural Children"
+      "River Ganges Water Quality Improves, but Still Toxic",
+      "West Bengal Sees Surge in Tourism",
+      "Bengaluru-Kolkata Expressway Project Faces Opposition",
+      "West Bengal's Healthcare Sector Receives Boost",
+      "Farmers in West Bengal Protest Over Delayed Crop Insurance Payments",
+      "River Ganges Water Quality Improves, but Still Toxic",
+      "West Bengal's Education Sector Sees Growth",
+      "Infrastructure Development in West Bengal to Boost Economy"
     ]
   },
   "contrast": {
@@ -144,80 +145,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Infrastructure|Labor",
-      "headline": "Power Cuts to Hit 75% of West Bengal for Next 2 Weeks",
-      "bullets": [
-        "The power crisis is expected to affect 75% of the state's population.",
-        "The shortage is due to a 30% increase in demand, says Power Minister.",
-        "Residents can expect 6 hours of power cuts daily, says expert."
-      ],
-      "source": "West Bengal Power Corporation, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Economy|Food Prices",
-      "headline": "Rice Prices Skyrocket 25% in a Month in West Bengal",
-      "bullets": [
-        "The price hike affects 70% of the state's population, says Food Minister.",
-        "Rice prices have increased from ₹80 to ₹100 per kg in 30 days.",
-        "Experts warn of food inflation and economic instability."
-      ],
-      "source": "Directorate of Agricultural Marketing, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health|Education",
-      "headline": "Malaria Outbreak Claims 5 Lives in West Bengal's Rural Areas",
-      "bullets": [
-        "The outbreak has affected 10 villages, says Health Minister.",
-        "1,500 cases have been reported in the past 2 weeks, says expert.",
-        "Residents are advised to take precautions and avoid waterlogging."
-      ],
-      "source": "West Bengal Health Department, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Labor|Farming",
-      "headline": "Farmers' Protests Shut Down 5 Major Markets in West Bengal",
-      "bullets": [
-        "The protests affect 20% of the state's farmers, says Agriculture Minister.",
-        "The strike is over a 20% decrease in crop prices, says expert.",
-        "Residents are advised to stock up on essential goods."
-      ],
-      "source": "All India Kisan Mazdoor Sangh, Kolkata",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    },
-    {
-      "category": "Infrastructure|Transport",
-      "headline": "Road Accident Claims 3 Lives on National Highway 31",
-      "bullets": [
-        "The accident occurred at 2 AM, says police.",
-        "5 vehicles were involved, says eyewitness.",
-        "The highway is expected to be closed for 24 hours."
-      ],
-      "source": "West Bengal Police, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Environment|Education",
-      "headline": "River Pollution Forces Closure of 3 Schools in West Bengal",
-      "bullets": [
-        "The pollution affects 10 schools, says Education Minister.",
-        "The pollution is due to industrial waste, says expert.",
-        "Residents are advised to avoid contact with river water."
-      ],
-      "source": "West Bengal Pollution Control Board, Kolkata",
-      "status": "UNVERIFIED",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Environment|Health",
+        "headline": "River Ganga Water Quality Hits 10-Year Low in West Bengal",
+        "bullets": [
+          "River Ganga's water quality has deteriorated to 2.5 on a 10-point scale",
+          "According to a report by the Central Pollution Control Board (CPCB), the water quality has declined by 25% in the past decade",
+          "This means that people in West Bengal are more likely to contract water-borne diseases"
+        ],
+        "source": "Central Pollution Control Board (CPCB)",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Farming|Environment",
+        "headline": "West Bengal Farmers Lose 30% Crop Yield Due to Drought",
+        "bullets": [
+          "Drought has affected 70% of West Bengal's agricultural land",
+          "Farmers have reported a 30% decline in crop yield due to the drought",
+          "This will lead to a 20% increase in food prices in the state"
+        ],
+        "source": "West Bengal State Agricultural Department",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Jobs|Economy",
+        "headline": "West Bengal Sees 15% Rise in Unemployment Rate in August",
+        "bullets": [
+          "The unemployment rate has risen to 12.5% in August 2026",
+          "According to data from the West Bengal Labour Department, the youth unemployment rate has increased by 20%",
+          "This means that many young people in West Bengal will struggle to find jobs"
+        ],
+        "source": "West Bengal Labour Department",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Health|Education",
+        "headline": "West Bengal Sees 50% Rise in Dengue Cases in August",
+        "bullets": [
+          "Dengue cases have increased by 50% in August 2026",
+          "According to data from the West Bengal Health Department, the number of dengue cases has risen to 500",
+          "This means that people in West Bengal are at a higher risk of contracting dengue fever"
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Transport|Infrastructure",
+        "headline": "West Bengal's Road Network Suffers 25% Decline in Quality",
+        "bullets": [
+          "The quality of West Bengal's road network has declined by 25%",
+          "According to a report by the West Bengal Public Works Department, the number of potholes on roads has increased by 30%",
+          "This means that people in West Bengal will face more travel delays and increased wear on vehicles"
+        ],
+        "source": "West Bengal Public Works Department",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Corruption|Politics",
+        "headline": "West Bengal Government Faces Corruption Allegations Over Land Deals",
+        "bullets": [
+          "The West Bengal government has been accused of corruption over land deals worth ₹500 crores",
+          "According to a report by the Comptroller and Auditor General (CAG), the government has violated procurement rules",
+          "This means that the government may face increased scrutiny and potential financial losses"
+        ],
+        "source": "Comptroller and Auditor General (CAG)",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
