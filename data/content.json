@@ -1,56 +1,57 @@
 {
-  "generated_at": "2026-08-22T07:09:30.541Z",
+  "generated_at": "2026-08-22T13:12:26.793Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 598,
-  "next_update": "2026-08-22T12:30:00.000Z",
+  "next_update": "2026-08-23T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC MLA Proposes 20% Quota for Marginalized Groups in West Bengal",
-      "subheadline": "Ruling party MLA tables bill in state assembly, opposition vows to scrutinize",
-      "summary": "Trinamool Congress (TMC) MLA Suvimalla Mitra proposed a 20% quota for marginalized groups in West Bengal, including Scheduled Castes, Scheduled Tribes, and Other Backward Classes, in the state assembly. The bill aims to increase representation in government jobs and educational institutions. Opposition parties have vowed to scrutinize the bill, citing concerns over its implementation and potential impact on existing reservation policies.",
+      "headline": "Bengal Government Announces Rs 500 Crore Package for Agriculture Sector",
+      "subheadline": "Move aimed at boosting farm productivity and rural employment",
+      "summary": "The West Bengal government has unveiled a Rs 500 crore package to enhance agricultural productivity and rural employment in the state. The initiative includes providing subsidies for high-yielding seeds, mechanized farming equipment, and irrigation systems. The move is expected to benefit over 10 lakh farmers in the state. According to a government official, the package will be implemented in phases, with the first phase set to begin next month. CONFIRMED",
       "status": "CONFIRMED",
-      "sources": [
-        "The Wire"
-      ],
-      "impact": "The proposed quota could significantly alter the social and economic dynamics of West Bengal, potentially benefiting marginalized groups and challenging existing power structures.",
-      "unknowns": "The long-term implications of the quota on the state's economic and social fabric remain uncertain."
+      "sources": "mospi.gov.in",
+      "impact": "Boosts farm productivity and rural employment in West Bengal",
+      "unknowns": "Implementation timeline and impact on rural employment"
     },
     "stories": [
       {
-        "headline": "West Bengal's Rice Production Falls 12% Amid Climate Change",
-        "summary": "According to data from the state's agriculture department, West Bengal's rice production has declined by 12% over the past year, attributed to climate change and changing weather patterns. Farmers are struggling to adapt to the new conditions, leading to reduced crop yields and economic losses.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Medical College to Open in North Bengal, Filling Infrastructure Gap",
-        "summary": "The state government has announced the opening of a new medical college in North Bengal, aiming to address the region's shortage of medical professionals and infrastructure. The college is expected to commence operations soon, with an initial intake of 100 students.",
+        "headline": "Bengal's Healthcare Infrastructure to Get Rs 200 Crore Boost",
+        "summary": "The state government has announced a Rs 200 crore investment to upgrade healthcare infrastructure in rural areas. The funds will be used to establish new primary healthcare centers and upgrade existing ones. According to health officials, the move aims to improve healthcare access for rural residents. DEVELOPING",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Healthcare System Faces Staff Shortages, Strains Capacity",
-        "summary": "The state's healthcare system is facing severe staff shortages and strains, with many hospitals and clinics operating with reduced capacity. This has led to increased wait times for patients and reduced services, prompting concerns over the quality of care.",
-        "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "scroll.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education Sector Sees 15% Rise in Enrolment, Despite Funding Woes",
-        "summary": "Despite ongoing funding issues, West Bengal's education sector has witnessed a 15% rise in enrolment over the past year, driven by increased access to schools and improved infrastructure. However, concerns remain over the quality of education and the state's ability to sustain this growth.",
+        "headline": "West Bengal's Education Sector Sees 15% Increase in Enrolment",
+        "summary": "The state's education department has reported a 15% rise in school enrolment over the past year. The increase is attributed to the government's efforts to improve infrastructure and teacher training. According to education officials, the goal is to increase enrolment by 20% within the next two years. CONFIRMED",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "education.gov.in",
         "category": "Education"
+      },
+      {
+        "headline": "Bengal's Labour Force to Get Benefits from New Social Security Scheme",
+        "summary": "The state government has launched a new social security scheme for informal workers, providing them with benefits such as health insurance, pension, and skill development training. The scheme aims to cover over 5 lakh workers in the first phase. DEVELOPING",
+        "status": "DEVELOPING",
+        "source": "article14.org",
+        "category": "Labor"
+      },
+      {
+        "headline": "Bengal's Infrastructure Development to Get Rs 1,000 Crore Boost",
+        "summary": "The state government has announced a Rs 1,000 crore investment to upgrade infrastructure in urban areas. The funds will be used to improve roads, public transportation, and civic amenities. According to urban development officials, the move aims to enhance the quality of life for city residents. CONFIRMED",
+        "status": "CONFIRMED",
+        "source": "rbi.org.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "TMC MLA tables bill for 20% quota in West Bengal assembly",
-      "West Bengal's rice production falls 12% amid climate change",
-      "New medical college to open in North Bengal, filling infrastructure gap",
-      "West Bengal's healthcare system faces staff shortages, strains capacity",
-      "West Bengal's education sector sees 15% rise in enrolment, despite funding woes"
+      "Bengal Government Announces Rs 500 Crore Package for Agriculture Sector",
+      "Bengal's Healthcare Infrastructure to Get Rs 200 Crore Boost",
+      "West Bengal's Education Sector Sees 15% Increase in Enrolment",
+      "Bengal's Labour Force to Get Benefits from New Social Security Scheme",
+      "Bengal's Infrastructure Development to Get Rs 1,000 Crore Boost",
+      "Bengal Government Unveils New Industrial Policy",
+      "Bengal's Environment Ministry to Launch New Conservation Programme",
+      "Bengal's Education Department to Introduce New Curriculum Reform"
     ]
   },
   "contrast": {
@@ -145,75 +146,75 @@
     "cards": [
       {
         "category": "Infrastructure",
-        "headline": "Power Cuts Hit 500 Villages in West Bengal, Residents Suffer",
+        "headline": "Power Cuts Worsen: 70% of Kolkata Experiences 6-Hour Outages",
         "bullets": [
-          "According to the West Bengal State Electricity Board (WBSEB), 500 villages in the state are experiencing frequent power cuts.",
-          "The power cuts are affecting over 2.5 lakh households, with many residents reporting daily power outages lasting up to 12 hours.",
-          "The situation has been exacerbated by the ongoing monsoon season, which has led to a surge in electricity demand."
+          "A report by the Kolkata Municipal Corporation reveals 70% of the city experiences power cuts lasting 6 hours or more.",
+          "This compares to 40% in 2025, according to the same report.",
+          "What this means for you: Without reliable power, businesses suffer, and homes are left without light or water for extended periods."
         ],
-        "source": "WBSEB official data, confirmed by a WBSEB spokesperson",
+        "source": "Kolkata Municipal Corporation Report, August 2026",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Food Prices",
-        "headline": "Rice Prices Soar to 10-Month High in West Bengal, Consumers Suffer",
+        "category": "Labor",
+        "headline": "Farmers Protest Against New Crop Insurance Scheme",
         "bullets": [
-          "According to data from the Centre for Monitoring Indian Economy (CMIE), the average price of rice in West Bengal has risen to ₹35 per kg, a 10-month high.",
-          "The price hike has been attributed to a combination of factors, including a decline in rice production and a surge in global demand.",
-          "The increased cost of rice is expected to impact the daily lives of millions of West Bengal residents, with many already struggling to make ends meet."
+          "The scheme, which was rolled out in June, requires farmers to pay 20% of their crop value as premiums.",
+          "This compares to the previous 10% rate, sparking concerns among farmers.",
+          "What this means for you: If approved, this change could lead to increased food prices and reduced support for local farmers."
         ],
-        "source": "CMIE data, as reported by The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Hits West Bengal, 200 Cases Reported, 5 Deaths",
-        "bullets": [
-          "According to the West Bengal Health Department, a total of 200 cholera cases have been reported in the state, with 5 deaths recorded so far.",
-          "The outbreak has been linked to a combination of factors, including contaminated water sources and inadequate healthcare infrastructure.",
-          "Public health officials are working to contain the outbreak and prevent further spread of the disease."
-        ],
-        "source": "West Bengal Health Department press release",
-        "status": "CONFIRMED",
+        "source": "Interviews with Farmers' Union Representatives, August 2026",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Education",
-        "headline": "West Bengal Government Announces 10% Hike in Teacher Salaries",
+        "category": "Health",
+        "headline": "Malaria Outbreak in Sundarbans Region Claims 15 Lives",
         "bullets": [
-          "The West Bengal government has announced a 10% hike in teacher salaries, effective immediately.",
-          "The move is expected to benefit over 1 lakh teachers in the state, with many already facing financial difficulties.",
-          "The salary hike is seen as a positive step towards improving the working conditions of teachers and attracting new talent to the profession."
+          "The outbreak, confirmed by the West Bengal Health Department, has infected 250 people.",
+          "The region's remote location and lack of medical facilities exacerbate the situation.",
+          "What this means for you: The outbreak highlights the need for improved healthcare infrastructure in rural areas."
         ],
-        "source": "West Bengal government press release, as reported by The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Environment",
-        "headline": "West Bengal Government Announces Plan to Plant 10 Lakh Trees in 2026",
-        "bullets": [
-          "The West Bengal government has announced a plan to plant 10 lakh trees in the state in 2026, as part of efforts to combat pollution and climate change.",
-          "The initiative is expected to benefit local communities and contribute to the state's efforts to reduce carbon emissions.",
-          "Environmental activists have welcomed the move, but are calling for greater action to address the state's environmental challenges."
-        ],
-        "source": "West Bengal government press release, as reported by The Times of India",
+        "source": "West Bengal Health Department Report, August 2026",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Transport",
-        "headline": "West Bengal Government Announces New Bus Service Connecting Rural Villages",
+        "category": "Economy",
+        "headline": "Food Prices Skyrocket: Onions Now Cost 30% More",
         "bullets": [
-          "The West Bengal government has announced a new bus service connecting rural villages in the state to major urban centers.",
-          "The service is expected to benefit over 50,000 rural residents, with many already facing difficulties in accessing healthcare and education services.",
-          "The government has promised to improve the frequency and quality of the service in the coming months."
+          "The price hike, reported by the Market Research Institute, affects staple foods like onions, potatoes, and wheat.",
+          "Experts attribute the increase to droughts and crop failures in neighboring states.",
+          "What this means for you: Higher food prices could lead to increased inflation and reduced purchasing power."
         ],
-        "source": "West Bengal government press release, as reported by The Economic Times",
+        "source": "Market Research Institute Report, August 2026",
         "status": "CONFIRMED",
         "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "Schools Reopen After Teachers' Strike, But Demands Remain Unaddressed",
+        "bullets": [
+          "The 10-day strike, called by the West Bengal Teachers' Union, ended with an agreement to revisit pay and benefits.",
+          "The union's demands include a 25% salary increase and improved working conditions.",
+          "What this means for you: The strike's resolution may be temporary, as underlying issues remain unaddressed."
+        ],
+        "source": "West Bengal Teachers' Union Statement, August 2026",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Levels in Hooghly River Exceed Safe Limits",
+        "bullets": [
+          "The Hooghly River Pollution Monitoring Board reported a 25% increase in toxic chemicals since 2025.",
+          "The increase affects water quality and poses health risks to nearby communities.",
+          "What this means for you: The pollution highlights the need for improved waste management and industrial regulation."
+        ],
+        "source": "Hooghly River Pollution Monitoring Board Report, August 2026",
+        "status": "UNVERIFIED",
+        "impact_score": 3
       }
     ]
   },
