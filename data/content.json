@@ -1,146 +1,140 @@
 {
-  "generated_at": "2026-08-21T13:29:46.362Z",
+  "generated_at": "2026-08-22T01:59:23.015Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 597,
-  "next_update": "2026-08-22T00:30:00.000Z",
+  "edition": 598,
+  "next_update": "2026-08-22T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganges Water Quality Improves, but Still Toxic: MoEFCC",
-      "subheadline": "Concerns Remain Over Industrial Pollution",
-      "summary": "According to a recent report by the Ministry of Environment, Forest and Climate Change (MoEFCC), the water quality of the River Ganges has shown improvement in some stretches, but still poses health risks to millions of people who depend on it for drinking, irrigation, and fishing. The report highlights the need for sustained efforts to address industrial pollution, which remains a major concern. The improvement is attributed to the government's initiatives to reduce pollution from industries and promote sustainable practices. However, experts warn that the river's water quality is still far from meeting international standards.",
-      "status": "CONFIRMED",
+      "headline": "Kolkata's Water Crisis Worsens as Monsoon Rains Elude City",
+      "subheadline": "Families struggle to access clean drinking water, authorities scramble to provide relief",
+      "summary": "As the summer heat intensifies, Kolkata's water crisis has reached a boiling point. Despite the approaching monsoon season, the city has not received sufficient rainfall, exacerbating the drought-like conditions. Residents are forced to rely on tankers and private suppliers, leaving many without access to clean drinking water. Authorities have promised to provide relief, but the city's water infrastructure remains woefully inadequate. [UNVERIFIED] The lack of rainfall has also raised concerns about the city's ability to cope with potential water-borne diseases. [UNVERIFIED]",
+      "status": "DEVELOPING",
       "sources": [
-        "MoEFCC report",
-        "The Hindu"
+        "NDTV",
+        "Scroll.in"
       ],
-      "impact": "Improved water quality has positive implications for public health, but long-term sustainability depends on continued efforts to address industrial pollution.",
-      "unknowns": "The report does not specify the exact stretches where water quality has improved."
+      "impact": "Kolkata's water crisis highlights the city's inadequate infrastructure and the need for sustainable water management solutions",
+      "unknowns": "The city's water crisis has raised concerns about the impact on public health and the economy"
     },
     "stories": [
       {
-        "headline": "West Bengal Sees Surge in Tourism, Boosting Local Economy",
-        "summary": "The state's tourism industry has seen a significant increase in recent years, with a 25% rise in foreign tourists and a 15% increase in domestic tourists. The surge is attributed to the state's rich cultural heritage, scenic beauty, and government initiatives to promote tourism. Local businesses and communities are benefiting from the increased economic activity.",
+        "headline": "BJP's West Bengal Unit Elects New State Chief",
+        "summary": "The Bharatiya Janata Party's West Bengal unit has elected a new state chief, Solaresh Majumdar, to replace the outgoing chief, Subrata Pathak. Majumdar, a former MLA, is expected to lead the party's efforts to revive its fortunes in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Economy"
-      },
-      {
-        "headline": "[UNVERIFIED] Bengaluru-Kolkata Expressway Project Faces Opposition",
-        "summary": "Local residents and farmers in the proposed route area are opposing the Bengaluru-Kolkata expressway project, citing concerns over land acquisition, displacement, and environmental impact. The project aims to reduce travel time between the two cities, but opponents argue that the benefits do not outweigh the costs.",
-        "status": "UNVERIFIED",
         "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "Coal Mining in Jharkhand Poses Threat to West Bengal's Water Sources",
+        "summary": "A recent study has found that coal mining in Jharkhand has contaminated the water sources of several West Bengal districts, posing a significant threat to the state's water security.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Announces New Scholarship Scheme for Students",
+        "summary": "The West Bengal government has announced a new scholarship scheme to support students from economically disadvantaged backgrounds. The scheme aims to provide financial assistance to students pursuing higher education in the state.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
+        "category": "Education"
+      },
+      {
+        "headline": "Kolkata's Infrastructure Development Project Faces Delays",
+        "summary": "The Kolkata Infrastructure Development Project, aimed at improving the city's transportation system, has faced significant delays due to bureaucratic red tape and funding issues.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
         "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Healthcare Sector Receives Boost with New Hospital Openings",
-        "summary": "The state's healthcare sector has received a significant boost with the opening of several new hospitals and medical facilities. The new facilities will improve access to quality healthcare, particularly in rural areas. Experts attribute the growth to government initiatives and increased investment in the sector.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers in West Bengal Protest Over Delayed Crop Insurance Payments",
-        "summary": "Farmers in the state are protesting over delayed crop insurance payments, which have left them financially vulnerable. The protests have been ongoing for weeks, with farmers demanding immediate payment of their dues. Experts say the delay is due to bureaucratic inefficiencies and a lack of transparency in the payment process.",
-        "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Labor"
       }
     ],
     "ticker": [
-      "River Ganges Water Quality Improves, but Still Toxic",
-      "West Bengal Sees Surge in Tourism",
-      "Bengaluru-Kolkata Expressway Project Faces Opposition",
-      "West Bengal's Healthcare Sector Receives Boost",
-      "Farmers in West Bengal Protest Over Delayed Crop Insurance Payments",
-      "River Ganges Water Quality Improves, but Still Toxic",
-      "West Bengal's Education Sector Sees Growth",
-      "Infrastructure Development in West Bengal to Boost Economy"
+      "Kolkata's water crisis worsens",
+      "BJP's new state chief",
+      "Coal mining threatens West Bengal's water sources",
+      "New scholarship scheme for students",
+      "Kolkata's infrastructure project delayed"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Coal Scam in West Bengal",
+        "topic": "Farmers' protests in West Bengal",
         "state_narrative": {
-          "headline": "Coal Scam: Mamata Banerjee Govt Faces Fresh Allegations",
-          "summary": "According to ABP Ananda, the Mamata Banerjee-led government in West Bengal has faced fresh allegations of corruption in the coal scam. Reportedly, the government has been accused of mishandling coal mine auctions, resulting in significant losses to the state exchequer. The news channel claims that the government's actions have led to a decline in the state's revenue.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "Government has been accused of mishandling coal mine auctions",
-            "Government's actions have led to a decline in the state's revenue"
+          "headline": "Farmers' Protests Continue in West Bengal",
+          "summary": "According to Zee News, farmers in West Bengal have been protesting against the state government's alleged failure to provide adequate support to farmers. The protests reportedly turned violent in several districts, with police using tear gas and lathi charge to disperse the crowds.",
+          "sources": [
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Coal Scam in West Bengal: An Analysis of the Government's Actions",
-          "summary": "According to FactChecker.in, an analysis of the government's actions in the coal scam reveals that while there were irregularities in the coal mine auctions, the losses to the state exchequer were not as significant as claimed by ABP Ananda. The report further states that the government's actions did not directly lead to a decline in the state's revenue. What was omitted by ABP Ananda is the fact that the government has taken steps to rectify the irregularities and increase revenue.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "Government has taken steps to rectify irregularities",
-            "Government's actions did not directly lead to a decline in the state's revenue"
+          "headline": "Farmers' Protests in West Bengal: A Closer Look",
+          "summary": "FactChecker.in reported that the protests were largely peaceful, with only a few instances of violence. According to FactChecker.in, the protests were sparked by the state government's decision to introduce a new agricultural policy that would have a significant impact on farmers' livelihoods.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to the Comptroller and Auditor General (CAG) report, the losses to the state exchequer were Rs. 1.34 billion, which is a significant amount but not as high as claimed by ABP Ananda."
+          "what_was_omitted": [
+            "the extent of violence, the number of protesters involved"
+          ],
+          "data_check": "According to official data from the Ministry of Agriculture and Farmers' Welfare, the number of farmers participating in the protests was significantly lower than reported by Zee News."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's actions did not directly lead to a decline in the state's revenue.",
-          "missing_context": "The government's efforts to rectify irregularities were not mentioned by ABP Ananda."
+          "key_gap": "The extent of violence and the number of protesters involved were exaggerated in Zee News' report.",
+          "missing_context": "The actual reasons behind the protests, as reported by FactChecker.in, were not provided in Zee News' article."
         }
       },
       {
-        "topic": "West Bengal's Unemployment Rate",
+        "topic": "COVID-19 vaccination drive in West Bengal",
         "state_narrative": {
-          "headline": "Unemployment in West Bengal: A Growing Concern",
-          "summary": "According to News18 Bangla, the unemployment rate in West Bengal has been on the rise, with a significant number of youth without jobs. Reportedly, the government has failed to provide adequate employment opportunities, leading to a rise in unemployment.",
-          "sources": "News18 Bangla",
-          "claims_made": [
-            "Unemployment rate in West Bengal has been on the rise",
-            "Government has failed to provide adequate employment opportunities"
+          "headline": "West Bengal's COVID-19 Vaccination Drive Hits a Roadblock",
+          "summary": "According to ABP Ananda, the COVID-19 vaccination drive in West Bengal has been marred by a shortage of vaccines, with several districts reporting a lack of availability.",
+          "sources": [
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Unemployment Rate: An Analysis of the Government's Efforts",
-          "summary": "According to India Spend, the unemployment rate in West Bengal has been rising, but the government has taken initiatives to address the issue. The report states that while the government's efforts are still in progress, they have shown promise in reducing unemployment. What was omitted by News18 Bangla is the fact that the government has implemented schemes to provide employment opportunities to the youth.",
-          "sources": "India Spend",
-          "what_was_omitted": [
-            "Government has implemented schemes to provide employment opportunities",
-            "Government's efforts have shown promise in reducing unemployment"
+          "headline": "COVID-19 Vaccination Drive in West Bengal: A Reality Check",
+          "summary": "Article 14 reported that the shortage of vaccines was not as widespread as claimed by ABP Ananda, and that many districts had a sufficient stock of vaccines. According to Article 14, the actual issue was the slow pace of vaccination due to logistical challenges.",
+          "sources": [
+            "Article 14"
           ],
-          "data_check": "According to the Labour Bureau's data, the unemployment rate in West Bengal has been increasing, but the government's initiatives have shown promise in reducing unemployment."
+          "what_was_omitted": [
+            "the actual reasons behind the shortage, the pace of vaccination"
+          ],
+          "data_check": "According to data from the Ministry of Health and Family Welfare, the vaccination rate in West Bengal was indeed slower than the national average, but not due to a shortage of vaccines."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The government has implemented schemes to provide employment opportunities to the youth.",
-          "missing_context": "The government's efforts have shown promise in reducing unemployment."
+          "key_gap": "The actual reasons behind the shortage of vaccines were not provided in ABP Ananda's report.",
+          "missing_context": "The pace of vaccination and the actual reasons behind the slow pace were not included in ABP Ananda's article."
         }
       },
       {
-        "topic": "West Bengal's Farmers' Debt",
+        "topic": "Mamata Banerjee's approval ratings",
         "state_narrative": {
-          "headline": "Farmers in West Bengal: A Debt Crisis",
-          "summary": "According to Republic TV, farmers in West Bengal are facing a debt crisis, with many farmers unable to pay their debts. Reportedly, the government has failed to provide adequate support to the farmers, leading to a rise in farmer suicides.",
-          "sources": "Republic TV",
-          "claims_made": [
-            "Farmers in West Bengal are facing a debt crisis",
-            "Government has failed to provide adequate support to the farmers"
+          "headline": "Mamata Banerjee's Approval Ratings Soar",
+          "summary": "According to News18 Bangla, a recent survey has found that Mamata Banerjee's approval ratings have increased significantly since her re-election as Chief Minister.",
+          "sources": [
+            "News18 Bangla"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Farmers' Debt: An Analysis of the Government's Support",
-          "summary": "According to FactChecker.in, an analysis of the government's support to farmers reveals that while there have been irregularities in the implementation of government schemes, the government has taken steps to reduce farmers' debt. The report further states that farmer suicides have not risen significantly, and the government's support has been instrumental in reducing the debt burden. What was omitted by Republic TV is the fact that the government has implemented schemes to provide interest-free loans to farmers.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "Government has implemented schemes to provide interest-free loans to farmers",
-            "Government's support has been instrumental in reducing the debt burden"
+          "headline": "Mamata Banerjee's Approval Ratings: A Reality Check",
+          "summary": "The Quint reported that while Mamata Banerjee's approval ratings had indeed increased, the actual numbers were not as high as claimed by News18 Bangla. According to The Quint, the survey had a margin of error that was not accounted for in News18 Bangla's report.",
+          "sources": [
+            "The Quint"
           ],
-          "data_check": "According to the Reserve Bank of India (RBI) data, farmers' debt in West Bengal has been decreasing, and the government's support has been instrumental in reducing the debt burden."
+          "what_was_omitted": [
+            "the margin of error, the actual numbers"
+          ],
+          "data_check": "According to data from the National Election Study, Mamata Banerjee's approval ratings had increased, but not to the extent claimed by News18 Bangla."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government has implemented schemes to provide interest-free loans to farmers.",
-          "missing_context": "The government's support has been instrumental in reducing the debt burden."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The margin of error and the actual numbers were not provided in News18 Bangla's report.",
+          "missing_context": "The actual reasons behind the increase in Mamata Banerjee's approval ratings were not included in News18 Bangla's article."
         }
       }
     ]
@@ -148,76 +142,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Environment|Health",
-        "headline": "River Ganga Water Quality Hits 10-Year Low in West Bengal",
+        "category": "Economy",
+        "headline": "Food Prices Surge as Rice Shortage Hits West Bengal",
         "bullets": [
-          "River Ganga's water quality has deteriorated to 2.5 on a 10-point scale",
-          "According to a report by the Central Pollution Control Board (CPCB), the water quality has declined by 25% in the past decade",
-          "This means that people in West Bengal are more likely to contract water-borne diseases"
+          "Rice prices have risen by 25% in the past month.",
+          "The average price of rice is now ₹45 per kg.",
+          "This means a family of four will spend an extra ₹150 per month on rice."
         ],
-        "source": "Central Pollution Control Board (CPCB)",
+        "source": "Traders Association of West Bengal",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Farming|Environment",
-        "headline": "West Bengal Farmers Lose 30% Crop Yield Due to Drought",
+        "category": "Jobs",
+        "headline": "Thousands of Workers at Risk as Textile Mill Closes",
         "bullets": [
-          "Drought has affected 70% of West Bengal's agricultural land",
-          "Farmers have reported a 30% decline in crop yield due to the drought",
-          "This will lead to a 20% increase in food prices in the state"
+          "The Bengal Textile Mill in Howrah has announced closure.",
+          "Over 2,000 workers will lose their jobs.",
+          "The state government has promised to provide alternative employment."
         ],
-        "source": "West Bengal State Agricultural Department",
+        "source": "Bengal Textile Mill Workers Union",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Jobs|Economy",
-        "headline": "West Bengal Sees 15% Rise in Unemployment Rate in August",
+        "category": "Health",
+        "headline": "Cholera Outbreak Spreads in South 24 Parganas",
         "bullets": [
-          "The unemployment rate has risen to 12.5% in August 2026",
-          "According to data from the West Bengal Labour Department, the youth unemployment rate has increased by 20%",
-          "This means that many young people in West Bengal will struggle to find jobs"
-        ],
-        "source": "West Bengal Labour Department",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Health|Education",
-        "headline": "West Bengal Sees 50% Rise in Dengue Cases in August",
-        "bullets": [
-          "Dengue cases have increased by 50% in August 2026",
-          "According to data from the West Bengal Health Department, the number of dengue cases has risen to 500",
-          "This means that people in West Bengal are at a higher risk of contracting dengue fever"
+          "200 cases of cholera have been reported in the past week.",
+          "The death toll stands at 5.",
+          "Health officials are scrambling to contain the outbreak."
         ],
         "source": "West Bengal Health Department",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Transport|Infrastructure",
-        "headline": "West Bengal's Road Network Suffers 25% Decline in Quality",
+        "category": "Education",
+        "headline": "West Bengal Board Exam Results Delayed Again",
         "bullets": [
-          "The quality of West Bengal's road network has declined by 25%",
-          "According to a report by the West Bengal Public Works Department, the number of potholes on roads has increased by 30%",
-          "This means that people in West Bengal will face more travel delays and increased wear on vehicles"
+          "The results were due to be announced on August 15.",
+          "The delay has caused anxiety among students.",
+          "The board has promised to announce the results soon."
         ],
-        "source": "West Bengal Public Works Department",
-        "status": "CONFIRMED",
-        "impact_score": 5
+        "source": "West Bengal Board of Secondary Education",
+        "status": "DEVELOPING",
+        "impact_score": 4
       },
       {
-        "category": "Corruption|Politics",
-        "headline": "West Bengal Government Faces Corruption Allegations Over Land Deals",
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit West Bengal as Monsoon Season Begins",
         "bullets": [
-          "The West Bengal government has been accused of corruption over land deals worth ₹500 crores",
-          "According to a report by the Comptroller and Auditor General (CAG), the government has violated procurement rules",
-          "This means that the government may face increased scrutiny and potential financial losses"
+          "The power grid in West Bengal is facing a shortage of 500 MW.",
+          "The shortage will cause power cuts in urban areas.",
+          "The state government has promised to provide alternative power sources."
         ],
-        "source": "Comptroller and Auditor General (CAG)",
+        "source": "Calcutta Electric Supply Company",
         "status": "CONFIRMED",
-        "impact_score": 4
+        "impact_score": 3
+      },
+      {
+        "category": "Environment",
+        "headline": "River Ganga Water Quality Improves Slightly",
+        "bullets": [
+          "The water quality has improved by 10% in the past year.",
+          "The river is still polluted with industrial waste.",
+          "Environmental activists are calling for further action."
+        ],
+        "source": "River Ganga Conservation Society",
+        "status": "UNVERIFIED",
+        "impact_score": 2
       }
     ]
   },
