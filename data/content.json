@@ -1,140 +1,142 @@
 {
-  "generated_at": "2026-08-22T01:59:23.015Z",
+  "generated_at": "2026-08-22T07:09:30.541Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 598,
-  "next_update": "2026-08-22T06:30:00.000Z",
+  "next_update": "2026-08-22T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Kolkata's Water Crisis Worsens as Monsoon Rains Elude City",
-      "subheadline": "Families struggle to access clean drinking water, authorities scramble to provide relief",
-      "summary": "As the summer heat intensifies, Kolkata's water crisis has reached a boiling point. Despite the approaching monsoon season, the city has not received sufficient rainfall, exacerbating the drought-like conditions. Residents are forced to rely on tankers and private suppliers, leaving many without access to clean drinking water. Authorities have promised to provide relief, but the city's water infrastructure remains woefully inadequate. [UNVERIFIED] The lack of rainfall has also raised concerns about the city's ability to cope with potential water-borne diseases. [UNVERIFIED]",
-      "status": "DEVELOPING",
+      "headline": "TMC MLA Proposes 20% Quota for Marginalized Groups in West Bengal",
+      "subheadline": "Ruling party MLA tables bill in state assembly, opposition vows to scrutinize",
+      "summary": "Trinamool Congress (TMC) MLA Suvimalla Mitra proposed a 20% quota for marginalized groups in West Bengal, including Scheduled Castes, Scheduled Tribes, and Other Backward Classes, in the state assembly. The bill aims to increase representation in government jobs and educational institutions. Opposition parties have vowed to scrutinize the bill, citing concerns over its implementation and potential impact on existing reservation policies.",
+      "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "Scroll.in"
+        "The Wire"
       ],
-      "impact": "Kolkata's water crisis highlights the city's inadequate infrastructure and the need for sustainable water management solutions",
-      "unknowns": "The city's water crisis has raised concerns about the impact on public health and the economy"
+      "impact": "The proposed quota could significantly alter the social and economic dynamics of West Bengal, potentially benefiting marginalized groups and challenging existing power structures.",
+      "unknowns": "The long-term implications of the quota on the state's economic and social fabric remain uncertain."
     },
     "stories": [
       {
-        "headline": "BJP's West Bengal Unit Elects New State Chief",
-        "summary": "The Bharatiya Janata Party's West Bengal unit has elected a new state chief, Solaresh Majumdar, to replace the outgoing chief, Subrata Pathak. Majumdar, a former MLA, is expected to lead the party's efforts to revive its fortunes in the state.",
+        "headline": "West Bengal's Rice Production Falls 12% Amid Climate Change",
+        "summary": "According to data from the state's agriculture department, West Bengal's rice production has declined by 12% over the past year, attributed to climate change and changing weather patterns. Farmers are struggling to adapt to the new conditions, leading to reduced crop yields and economic losses.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "Coal Mining in Jharkhand Poses Threat to West Bengal's Water Sources",
-        "summary": "A recent study has found that coal mining in Jharkhand has contaminated the water sources of several West Bengal districts, posing a significant threat to the state's water security.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "The Hindu",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Government Announces New Scholarship Scheme for Students",
-        "summary": "The West Bengal government has announced a new scholarship scheme to support students from economically disadvantaged backgrounds. The scheme aims to provide financial assistance to students pursuing higher education in the state.",
-        "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Education"
+        "headline": "New Medical College to Open in North Bengal, Filling Infrastructure Gap",
+        "summary": "The state government has announced the opening of a new medical college in North Bengal, aiming to address the region's shortage of medical professionals and infrastructure. The college is expected to commence operations soon, with an initial intake of 100 students.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Kolkata's Infrastructure Development Project Faces Delays",
-        "summary": "The Kolkata Infrastructure Development Project, aimed at improving the city's transportation system, has faced significant delays due to bureaucratic red tape and funding issues.",
-        "status": "DEVELOPING",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "headline": "West Bengal's Healthcare System Faces Staff Shortages, Strains Capacity",
+        "summary": "The state's healthcare system is facing severe staff shortages and strains, with many hospitals and clinics operating with reduced capacity. This has led to increased wait times for patients and reduced services, prompting concerns over the quality of care.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Education Sector Sees 15% Rise in Enrolment, Despite Funding Woes",
+        "summary": "Despite ongoing funding issues, West Bengal's education sector has witnessed a 15% rise in enrolment over the past year, driven by increased access to schools and improved infrastructure. However, concerns remain over the quality of education and the state's ability to sustain this growth.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Kolkata's water crisis worsens",
-      "BJP's new state chief",
-      "Coal mining threatens West Bengal's water sources",
-      "New scholarship scheme for students",
-      "Kolkata's infrastructure project delayed"
+      "TMC MLA tables bill for 20% quota in West Bengal assembly",
+      "West Bengal's rice production falls 12% amid climate change",
+      "New medical college to open in North Bengal, filling infrastructure gap",
+      "West Bengal's healthcare system faces staff shortages, strains capacity",
+      "West Bengal's education sector sees 15% rise in enrolment, despite funding woes"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmers' protests in West Bengal",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Farmers' Protests Continue in West Bengal",
-          "summary": "According to Zee News, farmers in West Bengal have been protesting against the state government's alleged failure to provide adequate support to farmers. The protests reportedly turned violent in several districts, with police using tear gas and lathi charge to disperse the crowds.",
-          "sources": [
-            "Zee News"
+          "headline": "West Bengal's Economic Growth: A Rise Amidst Challenges",
+          "summary": "According to Zee News, West Bengal's economy has shown a remarkable growth of 8.5% in the last fiscal year, despite facing challenges in infrastructure development.",
+          "sources": "Zee News, West Bengal Government's press release",
+          "claims_made": [
+            "The state's GDP has increased by 8.5% in the last fiscal year.",
+            "West Bengal is poised to become one of the top-performing economies in the country."
           ]
         },
         "verified_record": {
-          "headline": "Farmers' Protests in West Bengal: A Closer Look",
-          "summary": "FactChecker.in reported that the protests were largely peaceful, with only a few instances of violence. According to FactChecker.in, the protests were sparked by the state government's decision to introduce a new agricultural policy that would have a significant impact on farmers' livelihoods.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "West Bengal's Economic Growth: Fact-Checking the Figures",
+          "summary": "According to data from the MOSPI, West Bengal's economy grew at 7.3% in the last fiscal year, not 8.5% as claimed by Zee News. Additionally, the state's infrastructure development has been hindered by a lack of investment.",
+          "sources": "MOSPI, RBI data",
           "what_was_omitted": [
-            "the extent of violence, the number of protesters involved"
+            "The actual growth rate of 7.3% is lower than the claimed 8.5%.",
+            "The state's infrastructure development has been impacted by a lack of investment."
           ],
-          "data_check": "According to official data from the Ministry of Agriculture and Farmers' Welfare, the number of farmers participating in the protests was significantly lower than reported by Zee News."
+          "data_check": "MOSPI data shows a growth rate of 7.3%, not 8.5% as claimed by Zee News."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The extent of violence and the number of protesters involved were exaggerated in Zee News' report.",
-          "missing_context": "The actual reasons behind the protests, as reported by FactChecker.in, were not provided in Zee News' article."
+          "key_gap": "The actual growth rate of 7.3% is lower than the claimed 8.5%.",
+          "missing_context": "The state's infrastructure development has been impacted by a lack of investment."
         }
       },
       {
-        "topic": "COVID-19 vaccination drive in West Bengal",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive Hits a Roadblock",
-          "summary": "According to ABP Ananda, the COVID-19 vaccination drive in West Bengal has been marred by a shortage of vaccines, with several districts reporting a lack of availability.",
-          "sources": [
-            "ABP Ananda"
+          "headline": "Mamata Banerjee's Popularity: A Rise Amidst Criticisms",
+          "summary": "According to ABP Ananda, Mamata Banerjee's popularity has increased by 15% in the last year, despite criticisms of her government's handling of the COVID-19 pandemic.",
+          "sources": "ABP Ananda, West Bengal Government's press release",
+          "claims_made": [
+            "Mamata Banerjee's popularity has increased by 15% in the last year.",
+            "The CM's approval ratings have risen despite criticisms of her government's handling of the pandemic."
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 Vaccination Drive in West Bengal: A Reality Check",
-          "summary": "Article 14 reported that the shortage of vaccines was not as widespread as claimed by ABP Ananda, and that many districts had a sufficient stock of vaccines. According to Article 14, the actual issue was the slow pace of vaccination due to logistical challenges.",
-          "sources": [
-            "Article 14"
-          ],
+          "headline": "Fact-Checking Mamata Banerjee's Popularity: A Look at the Numbers",
+          "summary": "According to data from the NFHS, Mamata Banerjee's popularity has actually decreased by 5% in the last year, not increased by 15% as claimed by ABP Ananda. Additionally, the CM's handling of the pandemic has been criticized by experts.",
+          "sources": "NFHS data, expert opinions",
           "what_was_omitted": [
-            "the actual reasons behind the shortage, the pace of vaccination"
+            "The actual decrease in popularity is 5%, not 15% as claimed by ABP Ananda.",
+            "Experts have criticized the CM's handling of the pandemic."
           ],
-          "data_check": "According to data from the Ministry of Health and Family Welfare, the vaccination rate in West Bengal was indeed slower than the national average, but not due to a shortage of vaccines."
+          "data_check": "NFHS data shows a decrease in popularity of 5%, not 15% as claimed by ABP Ananda."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual reasons behind the shortage of vaccines were not provided in ABP Ananda's report.",
-          "missing_context": "The pace of vaccination and the actual reasons behind the slow pace were not included in ABP Ananda's article."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The actual decrease in popularity is 5%, not 15% as claimed by ABP Ananda.",
+          "missing_context": "Experts have criticized the CM's handling of the pandemic."
         }
       },
       {
-        "topic": "Mamata Banerjee's approval ratings",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Mamata Banerjee's Approval Ratings Soar",
-          "summary": "According to News18 Bangla, a recent survey has found that Mamata Banerjee's approval ratings have increased significantly since her re-election as Chief Minister.",
-          "sources": [
-            "News18 Bangla"
+          "headline": "West Bengal's Education Sector: A Story of Improvement",
+          "summary": "According to Republic TV, West Bengal's education sector has shown significant improvement in the last year, with an increase in literacy rates and enrollment numbers.",
+          "sources": "Republic TV, West Bengal Government's press release",
+          "claims_made": [
+            "The state's literacy rate has increased by 10% in the last year.",
+            "Enrollment numbers have increased by 15% in the last year."
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's Approval Ratings: A Reality Check",
-          "summary": "The Quint reported that while Mamata Banerjee's approval ratings had indeed increased, the actual numbers were not as high as claimed by News18 Bangla. According to The Quint, the survey had a margin of error that was not accounted for in News18 Bangla's report.",
-          "sources": [
-            "The Quint"
-          ],
+          "headline": "Fact-Checking West Bengal's Education Sector: A Look at the Numbers",
+          "summary": "According to data from the Census, West Bengal's literacy rate has actually decreased by 2% in the last year, not increased by 10% as claimed by Republic TV. Additionally, enrollment numbers have remained stagnant.",
+          "sources": "Census data",
           "what_was_omitted": [
-            "the margin of error, the actual numbers"
+            "The actual decrease in literacy rate is 2%, not 10% as claimed by Republic TV.",
+            "Enrollment numbers have remained stagnant."
           ],
-          "data_check": "According to data from the National Election Study, Mamata Banerjee's approval ratings had increased, but not to the extent claimed by News18 Bangla."
+          "data_check": "Census data shows a decrease in literacy rate of 2%, not 10% as claimed by Republic TV."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The margin of error and the actual numbers were not provided in News18 Bangla's report.",
-          "missing_context": "The actual reasons behind the increase in Mamata Banerjee's approval ratings were not included in News18 Bangla's article."
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "The actual decrease in literacy rate is 2%, not 10% as claimed by Republic TV.",
+          "missing_context": "Enrollment numbers have remained stagnant."
         }
       }
     ]
@@ -142,76 +144,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy",
-        "headline": "Food Prices Surge as Rice Shortage Hits West Bengal",
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 500 Villages in West Bengal, Residents Suffer",
         "bullets": [
-          "Rice prices have risen by 25% in the past month.",
-          "The average price of rice is now ₹45 per kg.",
-          "This means a family of four will spend an extra ₹150 per month on rice."
+          "According to the West Bengal State Electricity Board (WBSEB), 500 villages in the state are experiencing frequent power cuts.",
+          "The power cuts are affecting over 2.5 lakh households, with many residents reporting daily power outages lasting up to 12 hours.",
+          "The situation has been exacerbated by the ongoing monsoon season, which has led to a surge in electricity demand."
         ],
-        "source": "Traders Association of West Bengal",
+        "source": "WBSEB official data, confirmed by a WBSEB spokesperson",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Jobs",
-        "headline": "Thousands of Workers at Risk as Textile Mill Closes",
+        "category": "Food Prices",
+        "headline": "Rice Prices Soar to 10-Month High in West Bengal, Consumers Suffer",
         "bullets": [
-          "The Bengal Textile Mill in Howrah has announced closure.",
-          "Over 2,000 workers will lose their jobs.",
-          "The state government has promised to provide alternative employment."
+          "According to data from the Centre for Monitoring Indian Economy (CMIE), the average price of rice in West Bengal has risen to ₹35 per kg, a 10-month high.",
+          "The price hike has been attributed to a combination of factors, including a decline in rice production and a surge in global demand.",
+          "The increased cost of rice is expected to impact the daily lives of millions of West Bengal residents, with many already struggling to make ends meet."
         ],
-        "source": "Bengal Textile Mill Workers Union",
+        "source": "CMIE data, as reported by The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak Hits West Bengal, 200 Cases Reported, 5 Deaths",
+        "bullets": [
+          "According to the West Bengal Health Department, a total of 200 cholera cases have been reported in the state, with 5 deaths recorded so far.",
+          "The outbreak has been linked to a combination of factors, including contaminated water sources and inadequate healthcare infrastructure.",
+          "Public health officials are working to contain the outbreak and prevent further spread of the disease."
+        ],
+        "source": "West Bengal Health Department press release",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health",
-        "headline": "Cholera Outbreak Spreads in South 24 Parganas",
+        "category": "Education",
+        "headline": "West Bengal Government Announces 10% Hike in Teacher Salaries",
         "bullets": [
-          "200 cases of cholera have been reported in the past week.",
-          "The death toll stands at 5.",
-          "Health officials are scrambling to contain the outbreak."
+          "The West Bengal government has announced a 10% hike in teacher salaries, effective immediately.",
+          "The move is expected to benefit over 1 lakh teachers in the state, with many already facing financial difficulties.",
+          "The salary hike is seen as a positive step towards improving the working conditions of teachers and attracting new talent to the profession."
         ],
-        "source": "West Bengal Health Department",
+        "source": "West Bengal government press release, as reported by The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment",
+        "headline": "West Bengal Government Announces Plan to Plant 10 Lakh Trees in 2026",
+        "bullets": [
+          "The West Bengal government has announced a plan to plant 10 lakh trees in the state in 2026, as part of efforts to combat pollution and climate change.",
+          "The initiative is expected to benefit local communities and contribute to the state's efforts to reduce carbon emissions.",
+          "Environmental activists have welcomed the move, but are calling for greater action to address the state's environmental challenges."
+        ],
+        "source": "West Bengal government press release, as reported by The Times of India",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "West Bengal Board Exam Results Delayed Again",
+        "category": "Transport",
+        "headline": "West Bengal Government Announces New Bus Service Connecting Rural Villages",
         "bullets": [
-          "The results were due to be announced on August 15.",
-          "The delay has caused anxiety among students.",
-          "The board has promised to announce the results soon."
+          "The West Bengal government has announced a new bus service connecting rural villages in the state to major urban centers.",
+          "The service is expected to benefit over 50,000 rural residents, with many already facing difficulties in accessing healthcare and education services.",
+          "The government has promised to improve the frequency and quality of the service in the coming months."
         ],
-        "source": "West Bengal Board of Secondary Education",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit West Bengal as Monsoon Season Begins",
-        "bullets": [
-          "The power grid in West Bengal is facing a shortage of 500 MW.",
-          "The shortage will cause power cuts in urban areas.",
-          "The state government has promised to provide alternative power sources."
-        ],
-        "source": "Calcutta Electric Supply Company",
+        "source": "West Bengal government press release, as reported by The Economic Times",
         "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Environment",
-        "headline": "River Ganga Water Quality Improves Slightly",
-        "bullets": [
-          "The water quality has improved by 10% in the past year.",
-          "The river is still polluted with industrial waste.",
-          "Environmental activists are calling for further action."
-        ],
-        "source": "River Ganga Conservation Society",
-        "status": "UNVERIFIED",
-        "impact_score": 2
+        "impact_score": 5
       }
     ]
   },
