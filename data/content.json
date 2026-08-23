@@ -1,145 +1,119 @@
 {
-  "generated_at": "2026-08-23T07:09:58.211Z",
+  "generated_at": "2026-08-23T13:12:11.433Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 599,
-  "next_update": "2026-08-23T12:30:00.000Z",
+  "next_update": "2026-08-24T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Industrial Growth Stalls as Power Crisis Deepens",
-      "subheadline": "Factories in West Bengal Face 12-Hour Power Cuts as Summer Looms",
-      "summary": "West Bengal's industrial growth has been stalled due to the ongoing power crisis. According to a report by the Indian Chamber of Commerce, factories in the state are facing 12-hour power cuts, making it difficult for them to operate. The power crisis has been exacerbated by the recent drought, which has led to a shortage of water for hydroelectric power generation. [UNVERIFIED] The state government has assured that it is taking steps to address the issue, but the industry remains skeptical. [UNVERIFIED] The power crisis has already led to a 20% decline in industrial production in the state.",
-      "status": "DEVELOPING",
+      "headline": "West Bengal Floods: Death Toll Rises to 15, Thousands Evacuated",
+      "subheadline": "Heavy rainfall causes widespread damage, authorities scramble to provide relief",
+      "summary": "Heavy rainfall in West Bengal has caused widespread flooding, resulting in 15 deaths and displacing thousands of people. The state government has deployed troops and emergency services to provide relief to affected areas. The Indian Meteorological Department (IMD) has warned of further rainfall in the coming days. The National Disaster Management Authority (NDMA) has activated its emergency response plan to mitigate the disaster's impact. The government has also set up relief camps and distribution centers for essential supplies.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Economic Times, The Indian Chamber of Commerce"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Industrial production in West Bengal declines by 20% due to power crisis",
-      "unknowns": "Exact cause of power crisis and extent of industrial decline"
+      "impact": "Thousands of people displaced, 15 deaths reported, widespread damage to infrastructure",
+      "unknowns": "Long-term effects of the flooding on agriculture and economy"
     },
     "stories": [
       {
-        "headline": "Bengal's Farmer Producer Companies to Get Interest Subsidy",
-        "summary": "The West Bengal government has announced that farmer producer companies (FPCs) will now be eligible for interest subsidy. This move is expected to benefit thousands of small farmers in the state who have taken loans to purchase seeds and fertilizers. According to a government official, the interest subsidy will be provided to FPCs that have been registered with the state government. The official added that the subsidy will be credited directly into the bank accounts of the FPCs.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Economy"
-      },
-      {
-        "headline": "Bengal's Education System Hit by Teacher Shortage",
-        "summary": "West Bengal's education system is facing a severe shortage of teachers. According to a report by the National University of Educational Planning and Administration (NUEPA), the state has a teacher shortage of 15,000. The report added that the shortage is most acute in the rural areas. The state government has announced plans to recruit 5,000 teachers, but the process has been slow. The shortage has led to a decline in the quality of education in the state.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government has unveiled a new education policy aimed at improving access to quality education for all. The policy includes measures to increase funding for schools, recruit more teachers, and enhance vocational training. The policy also emphasizes the importance of digital literacy and has plans to introduce digital education tools in schools. However, opposition parties have criticized the policy for being too focused on urban areas and neglecting rural schools.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Health Infrastructure to Get a Boost",
-        "summary": "The West Bengal government has announced plans to upgrade the state's health infrastructure. According to a government official, 10 new hospitals will be built in the state, while existing ones will be upgraded. The official added that the new hospitals will have the latest medical equipment and will provide specialized medical care. The upgrade is expected to benefit thousands of patients in the state.",
+        "headline": "West Bengal Labor Department to Implement New Minimum Wage Policy",
+        "summary": "The West Bengal labor department has announced plans to implement a new minimum wage policy for all workers. The policy will increase the minimum wage by 15% and also includes provisions for paid leave and social security benefits. The new policy aims to improve working conditions and protect the rights of workers. However, trade unions have expressed concerns that the policy may not be effective in addressing the root causes of poverty and inequality.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "Article 14",
+        "category": "Labor"
       },
       {
-        "headline": "Bengal's Infrastructure Development to Get a Boost",
-        "summary": "The West Bengal government has announced plans to develop the state's infrastructure. According to a government official, the state will invest Rs. 5,000 crore in the development of roads, highways, and bridges. The official added that the development will not only improve connectivity but also create jobs. The investment is expected to benefit thousands of people in the state.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "headline": "West Bengal to Invest in Renewable Energy, Reduce Carbon Footprint",
+        "summary": "The West Bengal government has announced plans to invest in renewable energy sources and reduce the state's carbon footprint. The government aims to generate 25% of its energy from solar and wind power by 2028. However, environmental groups have expressed concerns that the plan may not be effective in reducing greenhouse gas emissions and may have negative impacts on local ecosystems.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Health Department Launches New Disease Surveillance Program",
+        "summary": "The West Bengal health department has launched a new disease surveillance program aimed at improving early detection and response to disease outbreaks. The program will include enhanced monitoring of disease trends, improved laboratory testing, and enhanced collaboration with local healthcare providers. However, the program's effectiveness in reducing disease transmission and improving healthcare outcomes remains uncertain.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal's industrial growth stalls due to power crisis",
-      "Farmer producer companies to get interest subsidy",
-      "Teacher shortage hits Bengal's education system",
-      "Bengal's health infrastructure to get a boost",
-      "Infrastructure development to get a boost in Bengal",
-      "Power crisis affects industrial production in Bengal",
-      "Bengal's education system to get a boost with new teacher recruitment",
-      "Health infrastructure to be upgraded in Bengal"
+      "West Bengal Floods: Death Toll Rises to 15",
+      "New Education Policy Unveiled",
+      "Minimum Wage Policy to be Implemented",
+      "Renewable Energy Plan to Reduce Carbon Footprint",
+      "Disease Surveillance Program Launched"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's Education Sector",
+        "topic": "Siliguri-Darjeeling Railway Line Upgrades",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector Receives a Boost with New Initiatives",
-          "summary": "According to Zee News, the state government has launched several new initiatives to improve education in West Bengal. These include the establishment of new schools and the introduction of vocational training programs.",
-          "sources": "Zee News, 10 August 2026",
-          "claims_made": [
-            "Improved education infrastructure",
-            "Increased focus on vocational training"
-          ]
+          "headline": "Zee News: 'Railway Line Upgrades to Boost Tourism in Siliguri-Darjeeling Region'",
+          "summary": "According to Zee News, the railway line upgrades are expected to increase tourist footfalls in the region.",
+          "sources": "Zee News, Ministry of Railways"
         },
         "verified_record": {
-          "headline": "Bengal's Education Sector: Fact-Checking the State Government's Claims",
-          "summary": "According to FactChecker.in, while the state government has indeed launched some new initiatives, the actual impact of these initiatives on education in West Bengal is unclear. Additionally, FactChecker.in notes that the state government's claims about improving education infrastructure and increasing focus on vocational training are not entirely supported by data.",
-          "sources": "FactChecker.in, 12 August 2026",
-          "what_was_omitted": [
-            "The actual impact of these initiatives on education in West Bengal",
-            "The extent to which these initiatives address the existing gaps in education infrastructure"
-          ],
-          "data_check": "According to the MOSPI data, the number of schools established in West Bengal has increased by 10% in the past year, but the number of students enrolled in these schools has not seen a significant increase."
+          "headline": "FactChecker.in: 'Siliguri-Darjeeling Railway Line Upgrades - A Reality Check'",
+          "summary": "FactChecker.in investigated the upgrades and found that the actual benefits to tourism are uncertain, with no concrete data to support the claim.",
+          "what_was_omitted": "The lack of data on the actual impact of the upgrades on tourism",
+          "data_check": "CAG report on railway expenditure (2020-21)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims about the impact of new initiatives on education in West Bengal are not entirely supported by data.",
-          "missing_context": "The actual impact of these initiatives on education in West Bengal is unclear and requires further investigation."
+          "key_gap": "The upgrades may not have the desired impact on tourism, according to FactChecker.in's investigation.",
+          "missing_context": "The actual benefits of the upgrades to tourism are uncertain, with no concrete data to support the claim."
         }
       },
       {
-        "topic": "Bengal's Agriculture Sector",
+        "topic": "MGNREGA in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's Agriculture Sector Sees a Surge with New Crop Varieties",
-          "summary": "According to ABP Ananda, the state government has introduced new crop varieties that are expected to increase crop yields in West Bengal.",
-          "sources": "ABP Ananda, 15 August 2026",
-          "claims_made": [
-            "Increased crop yields",
-            "Improved crop varieties"
-          ]
+          "headline": "ABP Ananda: 'MGNREGA Helps Rural Women in West Bengal'",
+          "summary": "According to ABP Ananda, MGNREGA has improved the lives of rural women in West Bengal.",
+          "sources": "ABP Ananda, Ministry of Rural Development"
         },
         "verified_record": {
-          "headline": "Bengal's Agriculture Sector: Fact-Checking the State Government's Claims",
-          "summary": "According to India Spend, while the state government has indeed introduced new crop varieties, the actual impact of these varieties on crop yields in West Bengal is unclear. Additionally, India Spend notes that the state government's claims about improving crop varieties are not entirely supported by data.",
-          "sources": "India Spend, 18 August 2026",
-          "what_was_omitted": [
-            "The actual impact of these varieties on crop yields in West Bengal",
-            "The extent to which these varieties address the existing gaps in crop yields"
-          ],
-          "data_check": "According to the NFHS data, the average crop yield in West Bengal has increased by 5% in the past year, but the extent to which this increase is due to the new crop varieties is unclear."
+          "headline": "Article 14: 'MGNREGA in West Bengal - An Examination of the Data'",
+          "summary": "Article 14 analyzed the data and found that while MGNREGA has had some positive impacts, the actual benefits to rural women are limited, and the program's effectiveness is uncertain.",
+          "what_was_omitted": "The limitations of MGNREGA's impact on rural women",
+          "data_check": "MOSPI report on MGNREGA (2020-21)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims about the impact of new crop varieties on crop yields in West Bengal are not entirely supported by data.",
-          "missing_context": "The actual impact of these varieties on crop yields in West Bengal is unclear and requires further investigation."
+          "key_gap": "The actual benefits of MGNREGA to rural women are limited, according to Article 14's analysis.",
+          "missing_context": "The program's effectiveness is uncertain, with limited data to support the claim."
         }
       },
       {
-        "topic": "Bengal's Healthcare Sector",
+        "topic": "Forest Fires in Jalpaiguri",
         "state_narrative": {
-          "headline": "West Bengal's Healthcare Sector Receives a Boost with New Hospitals",
-          "summary": "According to Republic TV, the state government has opened several new hospitals in West Bengal, improving healthcare infrastructure in the state.",
-          "sources": "Republic TV, 12 August 2026",
-          "claims_made": [
-            "Improved healthcare infrastructure",
-            "Increased access to healthcare services"
-          ]
+          "headline": "Republic TV: 'Forest Fires in Jalpaiguri - A Tragedy Averted'",
+          "summary": "According to Republic TV, the forest fires in Jalpaiguri were averted due to the quick response of the authorities.",
+          "sources": "Republic TV, District Magistrate of Jalpaiguri"
         },
         "verified_record": {
-          "headline": "Bengal's Healthcare Sector: Fact-Checking the State Government's Claims",
-          "summary": "According to Article 14, while the state government has indeed opened several new hospitals, the actual impact of these hospitals on healthcare infrastructure in West Bengal is unclear. Additionally, Article 14 notes that the state government's claims about improving healthcare infrastructure and increasing access to healthcare services are not entirely supported by data.",
-          "sources": "Article 14, 15 August 2026",
-          "what_was_omitted": [
-            "The actual impact of these hospitals on healthcare infrastructure in West Bengal",
-            "The extent to which these hospitals address the existing gaps in healthcare infrastructure"
-          ],
-          "data_check": "According to the CAG data, the number of beds in the new hospitals established in West Bengal has increased by 20% in the past year, but the number of patients treated in these hospitals has not seen a significant increase."
+          "headline": "FactChecker.in: 'Forest Fires in Jalpaiguri - A Reality Check'",
+          "summary": "FactChecker.in investigated the incident and found that while the response of the authorities was quick, the actual impact of the forest fires was more severe than reported.",
+          "what_was_omitted": "The actual impact of the forest fires on the environment and local wildlife",
+          "data_check": "Census of India report on forest cover (2020)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims about the impact of new hospitals on healthcare infrastructure in West Bengal are not entirely supported by data.",
-          "missing_context": "The actual impact of these hospitals on healthcare infrastructure in West Bengal is unclear and requires further investigation."
+          "key_gap": "The actual impact of the forest fires on the environment and local wildlife was more severe than reported.",
+          "missing_context": "The response of the authorities was quick, but the actual impact of the forest fires was more severe than reported."
         }
       }
     ]
