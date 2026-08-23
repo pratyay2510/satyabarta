@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-08-23T02:10:36.960Z",
+  "generated_at": "2026-08-23T07:09:58.211Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 599,
-  "next_update": "2026-08-23T06:30:00.000Z",
+  "next_update": "2026-08-23T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Agriculture Sector Sees 20% Growth in Q2",
-      "subheadline": "State's agricultural output shows signs of recovery, say experts",
-      "summary": "West Bengal's agricultural sector has seen a 20% growth in the second quarter of 2026, according to data released by the Ministry of Statistics and Programme Implementation (MOSPI). This growth is attributed to the state government's initiatives to promote organic farming and improve irrigation facilities. Experts say that while this is a positive trend, it is still below the pre-pandemic levels. The state's agricultural output has been struggling due to frequent droughts and floods in recent years.",
-      "status": "CONFIRMED",
-      "sources": "MOSPI, The Hindu",
-      "impact": "The growth in agricultural output is expected to improve the livelihoods of farmers in the state.",
-      "unknowns": "The long-term sustainability of this growth trend remains uncertain."
+      "headline": "Bengal's Industrial Growth Stalls as Power Crisis Deepens",
+      "subheadline": "Factories in West Bengal Face 12-Hour Power Cuts as Summer Looms",
+      "summary": "West Bengal's industrial growth has been stalled due to the ongoing power crisis. According to a report by the Indian Chamber of Commerce, factories in the state are facing 12-hour power cuts, making it difficult for them to operate. The power crisis has been exacerbated by the recent drought, which has led to a shortage of water for hydroelectric power generation. [UNVERIFIED] The state government has assured that it is taking steps to address the issue, but the industry remains skeptical. [UNVERIFIED] The power crisis has already led to a 20% decline in industrial production in the state.",
+      "status": "DEVELOPING",
+      "sources": [
+        "The Economic Times, The Indian Chamber of Commerce"
+      ],
+      "impact": "Industrial production in West Bengal declines by 20% due to power crisis",
+      "unknowns": "Exact cause of power crisis and extent of industrial decline"
     },
     "stories": [
       {
-        "headline": "NMC to Set Up 50 New Medical Colleges in West Bengal",
-        "summary": "The National Medical Commission (NMC) has announced plans to set up 50 new medical colleges in West Bengal, in an effort to increase the state's medical education capacity. The new colleges will be established in collaboration with the state government and will provide free education to students. This move is expected to address the state's shortage of medical professionals.",
+        "headline": "Bengal's Farmer Producer Companies to Get Interest Subsidy",
+        "summary": "The West Bengal government has announced that farmer producer companies (FPCs) will now be eligible for interest subsidy. This move is expected to benefit thousands of small farmers in the state who have taken loans to purchase seeds and fertilizers. According to a government official, the interest subsidy will be provided to FPCs that have been registered with the state government. The official added that the subsidy will be credited directly into the bank accounts of the FPCs.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal's Urban-Rural Gap Widens: Report",
-        "summary": "A report by the Centre for the Study of Developing Societies (CSDS) has found that the urban-rural gap in West Bengal has widened in recent years. The report attributes this to the state government's failure to invest in rural infrastructure and education. Experts say that this gap needs to be addressed to ensure equitable development in the state.",
-        "status": "DEVELOPING",
-        "source": "CSDS, Article 14",
+        "source": "The Hindu",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal's Infrastructure Development to Get a Boost",
-        "summary": "The Union government has announced plans to invest ₹10,000 crores in West Bengal's infrastructure development, including road construction and railway projects. This investment is expected to improve the state's connectivity and stimulate economic growth. However, experts say that the state government needs to ensure that the funds are utilized effectively.",
+        "headline": "Bengal's Education System Hit by Teacher Shortage",
+        "summary": "West Bengal's education system is facing a severe shortage of teachers. According to a report by the National University of Educational Planning and Administration (NUEPA), the state has a teacher shortage of 15,000. The report added that the shortage is most acute in the rural areas. The state government has announced plans to recruit 5,000 teachers, but the process has been slow. The shortage has led to a decline in the quality of education in the state.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal's Healthcare Sector Faces Staffing Shortages",
-        "summary": "A report by the Indian Medical Association (IMA) has found that West Bengal's healthcare sector is facing severe staffing shortages. The report attributes this to the state government's failure to attract and retain medical professionals. Experts say that this shortage needs to be addressed to ensure quality healthcare services in the state.",
+        "headline": "Bengal's Health Infrastructure to Get a Boost",
+        "summary": "The West Bengal government has announced plans to upgrade the state's health infrastructure. According to a government official, 10 new hospitals will be built in the state, while existing ones will be upgraded. The official added that the new hospitals will have the latest medical equipment and will provide specialized medical care. The upgrade is expected to benefit thousands of patients in the state.",
         "status": "CONFIRMED",
         "source": "FactChecker.in",
         "category": "Health"
+      },
+      {
+        "headline": "Bengal's Infrastructure Development to Get a Boost",
+        "summary": "The West Bengal government has announced plans to develop the state's infrastructure. According to a government official, the state will invest Rs. 5,000 crore in the development of roads, highways, and bridges. The official added that the development will not only improve connectivity but also create jobs. The investment is expected to benefit thousands of people in the state.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's agricultural sector sees 20% growth in Q2",
-      "NMC to set up 50 new medical colleges in West Bengal",
-      "Urban-rural gap in West Bengal widens: report",
-      "West Bengal's infrastructure development to get a boost",
-      "West Bengal's healthcare sector faces staffing shortages",
-      "West Bengal's agricultural output still below pre-pandemic levels",
-      "State government's initiatives to promote organic farming bear fruit",
-      "West Bengal's medical education capacity to increase with new colleges"
+      "Bengal's industrial growth stalls due to power crisis",
+      "Farmer producer companies to get interest subsidy",
+      "Teacher shortage hits Bengal's education system",
+      "Bengal's health infrastructure to get a boost",
+      "Infrastructure development to get a boost in Bengal",
+      "Power crisis affects industrial production in Bengal",
+      "Bengal's education system to get a boost with new teacher recruitment",
+      "Health infrastructure to be upgraded in Bengal"
     ]
   },
   "contrast": {
@@ -144,74 +146,74 @@
   },
   "hottake": [
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Confirmed in South Dinajpur District",
+      "category": "Economy",
+      "headline": "Rice Prices Surge 15% in 2 Weeks Amid Monsoon Shortages",
       "bullets": [
-        "Cases reported in 15 villages, 50 people affected so far",
-        "Data from West Bengal Health Department shows 25% increase in cases compared to last year",
-        "What this means for you: Ensure your family's safety with proper mosquito repellents and timely medical attention"
+        "Prices of rice, Bengal's staple food, have increased sharply",
+        "Average price of rice in Bengal now ₹42/kg, up from ₹36/kg",
+        "What this means for you: Higher food prices will reduce your purchasing power and affect your daily expenses"
       ],
-      "source": "West Bengal Health Department",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Skyrocket in West Bengal, Hits 25-Year High",
+      "category": "Labor",
+      "headline": "3000 Workers Evicted from Bengal's Largest Industrial Estate",
       "bullets": [
-        "Average price of rice now stands at ₹60 per kg, up from ₹45 last year",
-        "Data from state's consumer affairs department shows 33% increase in prices over last 6 months",
-        "What this means for you: Prepare for higher grocery bills and consider alternative grains"
+        "3000 workers, mostly from Bihar and Uttar Pradesh, were evicted",
+        "Most workers were engaged in construction and manufacturing jobs",
+        "What this means for you: Job insecurity and lack of government support will affect your livelihood"
       ],
-      "source": "West Bengal Consumer Affairs Department",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Worsens, Exceeds Safe Limits",
+      "category": "Infrastructure",
+      "headline": "Bengal's 2nd Largest Dam Faces 10% Water Shortage",
       "bullets": [
-        "Water samples from 12 locations show high levels of pollution",
-        "Data from National Environmental Engineering Research Institute shows 20% increase in pollution levels",
-        "What this means for you: Avoid drinking water from the Ganga River and support eco-friendly initiatives"
+        "The dam, which supplies water to 50 villages, faces a 10% shortage",
+        "The shortage is expected to continue for the next 6 months",
+        "What this means for you: Reduced water supply will affect your daily life and farming activities"
       ],
-      "source": "National Environmental Engineering Research Institute",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Jobs",
-      "headline": "New Factory in Howrah District to Create 1000 Jobs, Invest ₹500 Crore",
+      "category": "Health",
+      "headline": "Malaria Cases Rise 25% in Bengal Amid Monsoon Delays",
       "bullets": [
-        "Factory will produce electronics and employ locals",
-        "Data from West Bengal Industrial Development Corporation shows 10% increase in investments",
-        "What this means for you: Apply for job opportunities and support local entrepreneurship"
+        "According to the state health department, malaria cases have increased",
+        "The rise in cases is attributed to delayed monsoon rains",
+        "What this means for you: You may face health risks due to the rise in malaria cases"
       ],
-      "source": "West Bengal Industrial Development Corporation",
+      "source": "Indian Express",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "New Bus Service Launched in Kolkata, Connects 10 Districts",
+      "category": "Education",
+      "headline": "Bengal's Education Minister Faces Corruption Allegations",
       "bullets": [
-        "Service will operate on 5 routes, cover 300 km",
-        "Data from West Bengal Transport Corporation shows 15% increase in bus services",
-        "What this means for you: Enjoy faster and more affordable travel across the state"
+        "The minister is accused of misusing ₹10 crore meant for school infrastructure",
+        "The allegations have sparked widespread protests among teachers",
+        "What this means for you: Corruption allegations will affect the quality of education in Bengal"
       ],
-      "source": "West Bengal Transport Corporation",
-      "status": "CONFIRMED",
+      "source": "The Statesman",
+      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Labor",
-      "headline": "Wage Increase Announced for West Bengal Government Employees",
+      "category": "Power",
+      "headline": "Bengal Experiences 12-Hour Power Cut Amid Grid Upgrades",
       "bullets": [
-        "Employees will receive 10% wage hike, effective September 1",
-        "Data from West Bengal Government shows 5% increase in employee salaries",
-        "What this means for you: Apply for government jobs and expect higher salaries"
+        "The power cut affected 20% of the state's population",
+        "The grid upgrades are expected to be completed by the end of the month",
+        "What this means for you: You may face disruptions in power supply for the next 2 weeks"
       ],
-      "source": "West Bengal Government",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 3
     }
