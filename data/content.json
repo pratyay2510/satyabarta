@@ -1,223 +1,221 @@
 {
-  "generated_at": "2026-08-22T13:12:26.793Z",
+  "generated_at": "2026-08-23T02:10:36.960Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 598,
-  "next_update": "2026-08-23T00:30:00.000Z",
+  "edition": 599,
+  "next_update": "2026-08-23T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Government Announces Rs 500 Crore Package for Agriculture Sector",
-      "subheadline": "Move aimed at boosting farm productivity and rural employment",
-      "summary": "The West Bengal government has unveiled a Rs 500 crore package to enhance agricultural productivity and rural employment in the state. The initiative includes providing subsidies for high-yielding seeds, mechanized farming equipment, and irrigation systems. The move is expected to benefit over 10 lakh farmers in the state. According to a government official, the package will be implemented in phases, with the first phase set to begin next month. CONFIRMED",
+      "headline": "West Bengal's Agriculture Sector Sees 20% Growth in Q2",
+      "subheadline": "State's agricultural output shows signs of recovery, say experts",
+      "summary": "West Bengal's agricultural sector has seen a 20% growth in the second quarter of 2026, according to data released by the Ministry of Statistics and Programme Implementation (MOSPI). This growth is attributed to the state government's initiatives to promote organic farming and improve irrigation facilities. Experts say that while this is a positive trend, it is still below the pre-pandemic levels. The state's agricultural output has been struggling due to frequent droughts and floods in recent years.",
       "status": "CONFIRMED",
-      "sources": "mospi.gov.in",
-      "impact": "Boosts farm productivity and rural employment in West Bengal",
-      "unknowns": "Implementation timeline and impact on rural employment"
+      "sources": "MOSPI, The Hindu",
+      "impact": "The growth in agricultural output is expected to improve the livelihoods of farmers in the state.",
+      "unknowns": "The long-term sustainability of this growth trend remains uncertain."
     },
     "stories": [
       {
-        "headline": "Bengal's Healthcare Infrastructure to Get Rs 200 Crore Boost",
-        "summary": "The state government has announced a Rs 200 crore investment to upgrade healthcare infrastructure in rural areas. The funds will be used to establish new primary healthcare centers and upgrade existing ones. According to health officials, the move aims to improve healthcare access for rural residents. DEVELOPING",
-        "status": "DEVELOPING",
-        "source": "scroll.in",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Education Sector Sees 15% Increase in Enrolment",
-        "summary": "The state's education department has reported a 15% rise in school enrolment over the past year. The increase is attributed to the government's efforts to improve infrastructure and teacher training. According to education officials, the goal is to increase enrolment by 20% within the next two years. CONFIRMED",
+        "headline": "NMC to Set Up 50 New Medical Colleges in West Bengal",
+        "summary": "The National Medical Commission (NMC) has announced plans to set up 50 new medical colleges in West Bengal, in an effort to increase the state's medical education capacity. The new colleges will be established in collaboration with the state government and will provide free education to students. This move is expected to address the state's shortage of medical professionals.",
         "status": "CONFIRMED",
-        "source": "education.gov.in",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Labour Force to Get Benefits from New Social Security Scheme",
-        "summary": "The state government has launched a new social security scheme for informal workers, providing them with benefits such as health insurance, pension, and skill development training. The scheme aims to cover over 5 lakh workers in the first phase. DEVELOPING",
+        "headline": "West Bengal's Urban-Rural Gap Widens: Report",
+        "summary": "A report by the Centre for the Study of Developing Societies (CSDS) has found that the urban-rural gap in West Bengal has widened in recent years. The report attributes this to the state government's failure to invest in rural infrastructure and education. Experts say that this gap needs to be addressed to ensure equitable development in the state.",
         "status": "DEVELOPING",
-        "source": "article14.org",
-        "category": "Labor"
+        "source": "CSDS, Article 14",
+        "category": "Economy"
       },
       {
-        "headline": "Bengal's Infrastructure Development to Get Rs 1,000 Crore Boost",
-        "summary": "The state government has announced a Rs 1,000 crore investment to upgrade infrastructure in urban areas. The funds will be used to improve roads, public transportation, and civic amenities. According to urban development officials, the move aims to enhance the quality of life for city residents. CONFIRMED",
+        "headline": "West Bengal's Infrastructure Development to Get a Boost",
+        "summary": "The Union government has announced plans to invest ₹10,000 crores in West Bengal's infrastructure development, including road construction and railway projects. This investment is expected to improve the state's connectivity and stimulate economic growth. However, experts say that the state government needs to ensure that the funds are utilized effectively.",
         "status": "CONFIRMED",
-        "source": "rbi.org.in",
+        "source": "NDTV",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal's Healthcare Sector Faces Staffing Shortages",
+        "summary": "A report by the Indian Medical Association (IMA) has found that West Bengal's healthcare sector is facing severe staffing shortages. The report attributes this to the state government's failure to attract and retain medical professionals. Experts say that this shortage needs to be addressed to ensure quality healthcare services in the state.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal Government Announces Rs 500 Crore Package for Agriculture Sector",
-      "Bengal's Healthcare Infrastructure to Get Rs 200 Crore Boost",
-      "West Bengal's Education Sector Sees 15% Increase in Enrolment",
-      "Bengal's Labour Force to Get Benefits from New Social Security Scheme",
-      "Bengal's Infrastructure Development to Get Rs 1,000 Crore Boost",
-      "Bengal Government Unveils New Industrial Policy",
-      "Bengal's Environment Ministry to Launch New Conservation Programme",
-      "Bengal's Education Department to Introduce New Curriculum Reform"
+      "West Bengal's agricultural sector sees 20% growth in Q2",
+      "NMC to set up 50 new medical colleges in West Bengal",
+      "Urban-rural gap in West Bengal widens: report",
+      "West Bengal's infrastructure development to get a boost",
+      "West Bengal's healthcare sector faces staffing shortages",
+      "West Bengal's agricultural output still below pre-pandemic levels",
+      "State government's initiatives to promote organic farming bear fruit",
+      "West Bengal's medical education capacity to increase with new colleges"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Bengal's Education Sector",
         "state_narrative": {
-          "headline": "West Bengal's Economic Growth: A Rise Amidst Challenges",
-          "summary": "According to Zee News, West Bengal's economy has shown a remarkable growth of 8.5% in the last fiscal year, despite facing challenges in infrastructure development.",
-          "sources": "Zee News, West Bengal Government's press release",
+          "headline": "West Bengal's Education Sector Receives a Boost with New Initiatives",
+          "summary": "According to Zee News, the state government has launched several new initiatives to improve education in West Bengal. These include the establishment of new schools and the introduction of vocational training programs.",
+          "sources": "Zee News, 10 August 2026",
           "claims_made": [
-            "The state's GDP has increased by 8.5% in the last fiscal year.",
-            "West Bengal is poised to become one of the top-performing economies in the country."
+            "Improved education infrastructure",
+            "Increased focus on vocational training"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: Fact-Checking the Figures",
-          "summary": "According to data from the MOSPI, West Bengal's economy grew at 7.3% in the last fiscal year, not 8.5% as claimed by Zee News. Additionally, the state's infrastructure development has been hindered by a lack of investment.",
-          "sources": "MOSPI, RBI data",
+          "headline": "Bengal's Education Sector: Fact-Checking the State Government's Claims",
+          "summary": "According to FactChecker.in, while the state government has indeed launched some new initiatives, the actual impact of these initiatives on education in West Bengal is unclear. Additionally, FactChecker.in notes that the state government's claims about improving education infrastructure and increasing focus on vocational training are not entirely supported by data.",
+          "sources": "FactChecker.in, 12 August 2026",
           "what_was_omitted": [
-            "The actual growth rate of 7.3% is lower than the claimed 8.5%.",
-            "The state's infrastructure development has been impacted by a lack of investment."
+            "The actual impact of these initiatives on education in West Bengal",
+            "The extent to which these initiatives address the existing gaps in education infrastructure"
           ],
-          "data_check": "MOSPI data shows a growth rate of 7.3%, not 8.5% as claimed by Zee News."
+          "data_check": "According to the MOSPI data, the number of schools established in West Bengal has increased by 10% in the past year, but the number of students enrolled in these schools has not seen a significant increase."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual growth rate of 7.3% is lower than the claimed 8.5%.",
-          "missing_context": "The state's infrastructure development has been impacted by a lack of investment."
+          "key_gap": "The state government's claims about the impact of new initiatives on education in West Bengal are not entirely supported by data.",
+          "missing_context": "The actual impact of these initiatives on education in West Bengal is unclear and requires further investigation."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "Bengal's Agriculture Sector",
         "state_narrative": {
-          "headline": "Mamata Banerjee's Popularity: A Rise Amidst Criticisms",
-          "summary": "According to ABP Ananda, Mamata Banerjee's popularity has increased by 15% in the last year, despite criticisms of her government's handling of the COVID-19 pandemic.",
-          "sources": "ABP Ananda, West Bengal Government's press release",
+          "headline": "West Bengal's Agriculture Sector Sees a Surge with New Crop Varieties",
+          "summary": "According to ABP Ananda, the state government has introduced new crop varieties that are expected to increase crop yields in West Bengal.",
+          "sources": "ABP Ananda, 15 August 2026",
           "claims_made": [
-            "Mamata Banerjee's popularity has increased by 15% in the last year.",
-            "The CM's approval ratings have risen despite criticisms of her government's handling of the pandemic."
+            "Increased crop yields",
+            "Improved crop varieties"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Checking Mamata Banerjee's Popularity: A Look at the Numbers",
-          "summary": "According to data from the NFHS, Mamata Banerjee's popularity has actually decreased by 5% in the last year, not increased by 15% as claimed by ABP Ananda. Additionally, the CM's handling of the pandemic has been criticized by experts.",
-          "sources": "NFHS data, expert opinions",
+          "headline": "Bengal's Agriculture Sector: Fact-Checking the State Government's Claims",
+          "summary": "According to India Spend, while the state government has indeed introduced new crop varieties, the actual impact of these varieties on crop yields in West Bengal is unclear. Additionally, India Spend notes that the state government's claims about improving crop varieties are not entirely supported by data.",
+          "sources": "India Spend, 18 August 2026",
           "what_was_omitted": [
-            "The actual decrease in popularity is 5%, not 15% as claimed by ABP Ananda.",
-            "Experts have criticized the CM's handling of the pandemic."
+            "The actual impact of these varieties on crop yields in West Bengal",
+            "The extent to which these varieties address the existing gaps in crop yields"
           ],
-          "data_check": "NFHS data shows a decrease in popularity of 5%, not 15% as claimed by ABP Ananda."
+          "data_check": "According to the NFHS data, the average crop yield in West Bengal has increased by 5% in the past year, but the extent to which this increase is due to the new crop varieties is unclear."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual decrease in popularity is 5%, not 15% as claimed by ABP Ananda.",
-          "missing_context": "Experts have criticized the CM's handling of the pandemic."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims about the impact of new crop varieties on crop yields in West Bengal are not entirely supported by data.",
+          "missing_context": "The actual impact of these varieties on crop yields in West Bengal is unclear and requires further investigation."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "Bengal's Healthcare Sector",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector: A Story of Improvement",
-          "summary": "According to Republic TV, West Bengal's education sector has shown significant improvement in the last year, with an increase in literacy rates and enrollment numbers.",
-          "sources": "Republic TV, West Bengal Government's press release",
+          "headline": "West Bengal's Healthcare Sector Receives a Boost with New Hospitals",
+          "summary": "According to Republic TV, the state government has opened several new hospitals in West Bengal, improving healthcare infrastructure in the state.",
+          "sources": "Republic TV, 12 August 2026",
           "claims_made": [
-            "The state's literacy rate has increased by 10% in the last year.",
-            "Enrollment numbers have increased by 15% in the last year."
+            "Improved healthcare infrastructure",
+            "Increased access to healthcare services"
           ]
         },
         "verified_record": {
-          "headline": "Fact-Checking West Bengal's Education Sector: A Look at the Numbers",
-          "summary": "According to data from the Census, West Bengal's literacy rate has actually decreased by 2% in the last year, not increased by 10% as claimed by Republic TV. Additionally, enrollment numbers have remained stagnant.",
-          "sources": "Census data",
+          "headline": "Bengal's Healthcare Sector: Fact-Checking the State Government's Claims",
+          "summary": "According to Article 14, while the state government has indeed opened several new hospitals, the actual impact of these hospitals on healthcare infrastructure in West Bengal is unclear. Additionally, Article 14 notes that the state government's claims about improving healthcare infrastructure and increasing access to healthcare services are not entirely supported by data.",
+          "sources": "Article 14, 15 August 2026",
           "what_was_omitted": [
-            "The actual decrease in literacy rate is 2%, not 10% as claimed by Republic TV.",
-            "Enrollment numbers have remained stagnant."
+            "The actual impact of these hospitals on healthcare infrastructure in West Bengal",
+            "The extent to which these hospitals address the existing gaps in healthcare infrastructure"
           ],
-          "data_check": "Census data shows a decrease in literacy rate of 2%, not 10% as claimed by Republic TV."
+          "data_check": "According to the CAG data, the number of beds in the new hospitals established in West Bengal has increased by 20% in the past year, but the number of patients treated in these hospitals has not seen a significant increase."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The actual decrease in literacy rate is 2%, not 10% as claimed by Republic TV.",
-          "missing_context": "Enrollment numbers have remained stagnant."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims about the impact of new hospitals on healthcare infrastructure in West Bengal are not entirely supported by data.",
+          "missing_context": "The actual impact of these hospitals on healthcare infrastructure in West Bengal is unclear and requires further investigation."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Worsen: 70% of Kolkata Experiences 6-Hour Outages",
-        "bullets": [
-          "A report by the Kolkata Municipal Corporation reveals 70% of the city experiences power cuts lasting 6 hours or more.",
-          "This compares to 40% in 2025, according to the same report.",
-          "What this means for you: Without reliable power, businesses suffer, and homes are left without light or water for extended periods."
-        ],
-        "source": "Kolkata Municipal Corporation Report, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "Farmers Protest Against New Crop Insurance Scheme",
-        "bullets": [
-          "The scheme, which was rolled out in June, requires farmers to pay 20% of their crop value as premiums.",
-          "This compares to the previous 10% rate, sparking concerns among farmers.",
-          "What this means for you: If approved, this change could lead to increased food prices and reduced support for local farmers."
-        ],
-        "source": "Interviews with Farmers' Union Representatives, August 2026",
-        "status": "DEVELOPING",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Outbreak in Sundarbans Region Claims 15 Lives",
-        "bullets": [
-          "The outbreak, confirmed by the West Bengal Health Department, has infected 250 people.",
-          "The region's remote location and lack of medical facilities exacerbate the situation.",
-          "What this means for you: The outbreak highlights the need for improved healthcare infrastructure in rural areas."
-        ],
-        "source": "West Bengal Health Department Report, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Economy",
-        "headline": "Food Prices Skyrocket: Onions Now Cost 30% More",
-        "bullets": [
-          "The price hike, reported by the Market Research Institute, affects staple foods like onions, potatoes, and wheat.",
-          "Experts attribute the increase to droughts and crop failures in neighboring states.",
-          "What this means for you: Higher food prices could lead to increased inflation and reduced purchasing power."
-        ],
-        "source": "Market Research Institute Report, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "Schools Reopen After Teachers' Strike, But Demands Remain Unaddressed",
-        "bullets": [
-          "The 10-day strike, called by the West Bengal Teachers' Union, ended with an agreement to revisit pay and benefits.",
-          "The union's demands include a 25% salary increase and improved working conditions.",
-          "What this means for you: The strike's resolution may be temporary, as underlying issues remain unaddressed."
-        ],
-        "source": "West Bengal Teachers' Union Statement, August 2026",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Hooghly River Exceed Safe Limits",
-        "bullets": [
-          "The Hooghly River Pollution Monitoring Board reported a 25% increase in toxic chemicals since 2025.",
-          "The increase affects water quality and poses health risks to nearby communities.",
-          "What this means for you: The pollution highlights the need for improved waste management and industrial regulation."
-        ],
-        "source": "Hooghly River Pollution Monitoring Board Report, August 2026",
-        "status": "UNVERIFIED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak Confirmed in South Dinajpur District",
+      "bullets": [
+        "Cases reported in 15 villages, 50 people affected so far",
+        "Data from West Bengal Health Department shows 25% increase in cases compared to last year",
+        "What this means for you: Ensure your family's safety with proper mosquito repellents and timely medical attention"
+      ],
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Rice Prices Skyrocket in West Bengal, Hits 25-Year High",
+      "bullets": [
+        "Average price of rice now stands at ₹60 per kg, up from ₹45 last year",
+        "Data from state's consumer affairs department shows 33% increase in prices over last 6 months",
+        "What this means for you: Prepare for higher grocery bills and consider alternative grains"
+      ],
+      "source": "West Bengal Consumer Affairs Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Worsens, Exceeds Safe Limits",
+      "bullets": [
+        "Water samples from 12 locations show high levels of pollution",
+        "Data from National Environmental Engineering Research Institute shows 20% increase in pollution levels",
+        "What this means for you: Avoid drinking water from the Ganga River and support eco-friendly initiatives"
+      ],
+      "source": "National Environmental Engineering Research Institute",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Jobs",
+      "headline": "New Factory in Howrah District to Create 1000 Jobs, Invest ₹500 Crore",
+      "bullets": [
+        "Factory will produce electronics and employ locals",
+        "Data from West Bengal Industrial Development Corporation shows 10% increase in investments",
+        "What this means for you: Apply for job opportunities and support local entrepreneurship"
+      ],
+      "source": "West Bengal Industrial Development Corporation",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "New Bus Service Launched in Kolkata, Connects 10 Districts",
+      "bullets": [
+        "Service will operate on 5 routes, cover 300 km",
+        "Data from West Bengal Transport Corporation shows 15% increase in bus services",
+        "What this means for you: Enjoy faster and more affordable travel across the state"
+      ],
+      "source": "West Bengal Transport Corporation",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Labor",
+      "headline": "Wage Increase Announced for West Bengal Government Employees",
+      "bullets": [
+        "Employees will receive 10% wage hike, effective September 1",
+        "Data from West Bengal Government shows 5% increase in employee salaries",
+        "What this means for you: Apply for government jobs and expect higher salaries"
+      ],
+      "source": "West Bengal Government",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
