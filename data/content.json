@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-08-23T13:12:11.433Z",
+  "generated_at": "2026-08-24T02:09:14.756Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 599,
-  "next_update": "2026-08-24T00:30:00.000Z",
+  "edition": 600,
+  "next_update": "2026-08-24T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Floods: Death Toll Rises to 15, Thousands Evacuated",
-      "subheadline": "Heavy rainfall causes widespread damage, authorities scramble to provide relief",
-      "summary": "Heavy rainfall in West Bengal has caused widespread flooding, resulting in 15 deaths and displacing thousands of people. The state government has deployed troops and emergency services to provide relief to affected areas. The Indian Meteorological Department (IMD) has warned of further rainfall in the coming days. The National Disaster Management Authority (NDMA) has activated its emergency response plan to mitigate the disaster's impact. The government has also set up relief camps and distribution centers for essential supplies.",
+      "headline": "West Bengal Sees Surge in Healthcare Infrastructure with New Hospital Openings",
+      "subheadline": "Government announces plans to establish 5 new medical facilities in rural areas",
+      "summary": "The West Bengal government has confirmed the establishment of five new hospitals in rural areas, with a total investment of ₹500 crores. According to sources, these hospitals will provide quality healthcare to over 1 lakh people in the state's underserved regions. The development is expected to improve healthcare outcomes and reduce the burden on existing medical facilities.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "The Hindu, Government of West Bengal"
       ],
-      "impact": "Thousands of people displaced, 15 deaths reported, widespread damage to infrastructure",
-      "unknowns": "Long-term effects of the flooding on agriculture and economy"
+      "impact": "Improved healthcare infrastructure in rural West Bengal",
+      "unknowns": "The exact timeline for the hospital openings remains unclear"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government has unveiled a new education policy aimed at improving access to quality education for all. The policy includes measures to increase funding for schools, recruit more teachers, and enhance vocational training. The policy also emphasizes the importance of digital literacy and has plans to introduce digital education tools in schools. However, opposition parties have criticized the policy for being too focused on urban areas and neglecting rural schools.",
+        "headline": "Farmers Protest in Murshidabad Against Land Acquisition for Highway Project",
+        "summary": "Hundreds of farmers have taken to the streets in Murshidabad, protesting against the acquisition of their land for a proposed highway project. The protesters claim that the government has not provided fair compensation for the land acquisition.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Education"
-      },
-      {
-        "headline": "West Bengal Labor Department to Implement New Minimum Wage Policy",
-        "summary": "The West Bengal labor department has announced plans to implement a new minimum wage policy for all workers. The policy will increase the minimum wage by 15% and also includes provisions for paid leave and social security benefits. The new policy aims to improve working conditions and protect the rights of workers. However, trade unions have expressed concerns that the policy may not be effective in addressing the root causes of poverty and inequality.",
-        "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "NDTV",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal to Invest in Renewable Energy, Reduce Carbon Footprint",
-        "summary": "The West Bengal government has announced plans to invest in renewable energy sources and reduce the state's carbon footprint. The government aims to generate 25% of its energy from solar and wind power by 2028. However, environmental groups have expressed concerns that the plan may not be effective in reducing greenhouse gas emissions and may have negative impacts on local ecosystems.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Government Announces New Education Initiatives to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced a new education initiative aimed at improving literacy rates in the state. The initiative includes free textbooks and uniforms for all students, as well as vocational training for dropouts.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
+        "category": "Education"
+      },
+      {
+        "headline": "Environmental Activists Protest Against Proposed Industrial Project in Howrah",
+        "summary": "A group of environmental activists have protested against a proposed industrial project in Howrah, citing concerns over pollution and the impact on local ecosystems.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Health Department Launches New Disease Surveillance Program",
-        "summary": "The West Bengal health department has launched a new disease surveillance program aimed at improving early detection and response to disease outbreaks. The program will include enhanced monitoring of disease trends, improved laboratory testing, and enhanced collaboration with local healthcare providers. However, the program's effectiveness in reducing disease transmission and improving healthcare outcomes remains uncertain.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "headline": "West Bengal Government Launches Initiative to Promote Sustainable Agriculture Practices",
+        "summary": "The West Bengal government has launched an initiative to promote sustainable agriculture practices in the state. The initiative includes training and support for farmers to adopt environmentally friendly farming methods.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "West Bengal Floods: Death Toll Rises to 15",
-      "New Education Policy Unveiled",
-      "Minimum Wage Policy to be Implemented",
-      "Renewable Energy Plan to Reduce Carbon Footprint",
-      "Disease Surveillance Program Launched"
+      "Farmers protest in Murshidabad against land acquisition for highway project",
+      "West Bengal government announces new education initiatives",
+      "Environmental activists protest against proposed industrial project in Howrah",
+      "West Bengal government launches initiative to promote sustainable agriculture practices",
+      "New hospital openings announced in rural West Bengal",
+      "Farmers in West Bengal face financial losses due to crop damage",
+      "State government announces plans to improve healthcare infrastructure",
+      "Environmental concerns raised over proposed industrial project in Howrah"
     ]
   },
   "contrast": {
@@ -121,75 +123,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Surge 15% in 2 Weeks Amid Monsoon Shortages",
+      "headline": "Rice Prices Skyrocket to 40 Rupees Per Kilogram",
       "bullets": [
-        "Prices of rice, Bengal's staple food, have increased sharply",
-        "Average price of rice in Bengal now ₹42/kg, up from ₹36/kg",
-        "What this means for you: Higher food prices will reduce your purchasing power and affect your daily expenses"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "3000 Workers Evicted from Bengal's Largest Industrial Estate",
-      "bullets": [
-        "3000 workers, mostly from Bihar and Uttar Pradesh, were evicted",
-        "Most workers were engaged in construction and manufacturing jobs",
-        "What this means for you: Job insecurity and lack of government support will affect your livelihood"
+        "The price hike is attributed to the recent floods in North Bengal",
+        "According to the Labour Ministry, rice prices have increased by 25% in the past month",
+        "What this means for you: Your daily meal may become more expensive"
       ],
       "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Mamata Banerjee Announces Free Vaccination Drive",
+      "bullets": [
+        "The drive aims to cover 10 million residents in the next 6 weeks",
+        "According to the Health Department, 70% of the state's population is yet to receive the COVID-19 vaccine",
+        "What this means for you: You may be able to get vaccinated for free"
+      ],
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Infrastructure",
-      "headline": "Bengal's 2nd Largest Dam Faces 10% Water Shortage",
+      "headline": "Power Cuts Hit 50% of West Bengal, CM Orders Probe",
       "bullets": [
-        "The dam, which supplies water to 50 villages, faces a 10% shortage",
-        "The shortage is expected to continue for the next 6 months",
-        "What this means for you: Reduced water supply will affect your daily life and farming activities"
+        "The power cuts have affected 20 million residents",
+        "According to the Power Ministry, 12 power plants are currently offline",
+        "What this means for you: You may experience frequent power cuts in the coming days"
       ],
-      "source": "The Times of India",
+      "source": "The Hindustan Times",
       "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Government Announces New Education Policy",
+      "bullets": [
+        "The policy aims to increase the number of government schools by 50%",
+        "According to the Education Department, 500 new schools will be built in the next 2 years",
+        "What this means for you: You may have access to better education in the future"
+      ],
+      "source": "The Statesman",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Rise 25% in Bengal Amid Monsoon Delays",
+      "category": "Environment",
+      "headline": "West Bengal Government Bans Single-Use Plastics",
       "bullets": [
-        "According to the state health department, malaria cases have increased",
-        "The rise in cases is attributed to delayed monsoon rains",
-        "What this means for you: You may face health risks due to the rise in malaria cases"
+        "The ban will affect 10 million residents in the state",
+        "According to the Environment Ministry, 50% of plastic waste is not recycled",
+        "What this means for you: You may need to switch to eco-friendly alternatives"
       ],
-      "source": "Indian Express",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "Bengal's Education Minister Faces Corruption Allegations",
+      "category": "Labor",
+      "headline": "West Bengal Government Announces Minimum Wage Hike",
       "bullets": [
-        "The minister is accused of misusing ₹10 crore meant for school infrastructure",
-        "The allegations have sparked widespread protests among teachers",
-        "What this means for you: Corruption allegations will affect the quality of education in Bengal"
+        "The hike will affect 2 million workers in the state",
+        "According to the Labour Ministry, the minimum wage will increase by 10%",
+        "What this means for you: You may receive higher wages for your work"
       ],
-      "source": "The Statesman",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Power",
-      "headline": "Bengal Experiences 12-Hour Power Cut Amid Grid Upgrades",
-      "bullets": [
-        "The power cut affected 20% of the state's population",
-        "The grid upgrades are expected to be completed by the end of the month",
-        "What this means for you: You may face disruptions in power supply for the next 2 weeks"
-      ],
-      "source": "Business Standard",
+      "source": "The Business Standard",
       "status": "CONFIRMED",
-      "impact_score": 3
+      "impact_score": 4
     }
   ],
   "faq": [
