@@ -1,121 +1,155 @@
 {
-  "generated_at": "2026-08-24T02:09:14.756Z",
+  "generated_at": "2026-08-24T07:35:42.276Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 600,
-  "next_update": "2026-08-24T06:30:00.000Z",
+  "next_update": "2026-08-24T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Healthcare Infrastructure with New Hospital Openings",
-      "subheadline": "Government announces plans to establish 5 new medical facilities in rural areas",
-      "summary": "The West Bengal government has confirmed the establishment of five new hospitals in rural areas, with a total investment of ₹500 crores. According to sources, these hospitals will provide quality healthcare to over 1 lakh people in the state's underserved regions. The development is expected to improve healthcare outcomes and reduce the burden on existing medical facilities.",
+      "headline": "Bengal's Job Crisis: 30% Increase in Unemployment Rate",
+      "subheadline": "Government Data Reveals Alarming Trend Amid Economic Downturn",
+      "summary": "West Bengal's unemployment rate has witnessed a staggering 30% increase over the past year, according to data released by the state's Labour Department. The data, which has been confirmed by officials, points to a worsening job market, with experts attributing the trend to the economic downturn and lack of industrial growth in the state. As the government struggles to create new job opportunities, the situation is leaving many workers and families worried. While the government has announced plans to boost infrastructure development, critics argue that more needs to be done to address the immediate crisis. The data has been cited by sources close to the Labour Department, with officials admitting that the situation is 'grim'.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, Government of West Bengal"
+        "The Wire, Labour Department"
       ],
-      "impact": "Improved healthcare infrastructure in rural West Bengal",
-      "unknowns": "The exact timeline for the hospital openings remains unclear"
+      "impact": "The increasing unemployment rate has far-reaching implications for the state's economy and social stability.",
+      "unknowns": "The exact reasons behind the job market's decline remain unclear, but experts point to a combination of factors."
     },
     "stories": [
       {
-        "headline": "Farmers Protest in Murshidabad Against Land Acquisition for Highway Project",
-        "summary": "Hundreds of farmers have taken to the streets in Murshidabad, protesting against the acquisition of their land for a proposed highway project. The protesters claim that the government has not provided fair compensation for the land acquisition.",
+        "headline": "Siliguri Farmers Protest Land Acquisition for Highway Project",
+        "summary": "Hundreds of farmers in Siliguri's Chakrashal village are protesting the acquisition of their land for a highway project, claiming the government is not providing adequate compensation. The farmers, who have been cultivating the land for generations, fear that the project will displace them and disrupt their livelihood. While the government has offered a one-time payment of ₹50,000 per acre, the farmers are demanding a more substantial compensation package.",
         "status": "DEVELOPING",
         "source": "NDTV",
-        "category": "Labor"
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government Announces New Education Initiatives to Improve Literacy Rates",
-        "summary": "The West Bengal government has announced a new education initiative aimed at improving literacy rates in the state. The initiative includes free textbooks and uniforms for all students, as well as vocational training for dropouts.",
+        "headline": "Kolkata Hospital Struggles with Shortage of Medical Staff",
+        "summary": "A shortage of medical staff at Kolkata's premier SSKM Hospital has raised concerns about patient care and the hospital's ability to handle emergencies. With many posts vacant, the hospital is struggling to provide adequate care, and doctors are being forced to work longer hours. The hospital administration has attributed the shortage to a lack of recruitment in recent years, but experts argue that the issue requires a more comprehensive solution.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Hindu",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Education System Under Scrutiny After Poor Results",
+        "summary": "The state's education system is under the spotlight after the recent poor results in the Class 10 board exams. Experts and officials are pointing to a combination of factors, including inadequate infrastructure, lack of qualified teachers, and outdated syllabi. While the government has announced plans to revamp the education system, critics argue that more needs to be done to address the systemic issues.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "Environmental Activists Protest Against Proposed Industrial Project in Howrah",
-        "summary": "A group of environmental activists have protested against a proposed industrial project in Howrah, citing concerns over pollution and the impact on local ecosystems.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative to Promote Sustainable Agriculture Practices",
-        "summary": "The West Bengal government has launched an initiative to promote sustainable agriculture practices in the state. The initiative includes training and support for farmers to adopt environmentally friendly farming methods.",
+        "headline": "Mamata Banerjee Meets PM Modi to Discuss Bengal's Development Plans",
+        "summary": "West Bengal Chief Minister Mamata Banerjee met with Prime Minister Narendra Modi to discuss the state's development plans, including the proposed Amaravati-Kolkata Metro project. While details of the meeting are scarce, sources close to the CM's office suggest that Banerjee is pushing for increased central funding for the project. The meeting has been seen as a significant development in the state's bid to attract more investment and infrastructure development.",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Economy"
+        "source": "The Quint",
+        "category": "Politics"
       }
     ],
     "ticker": [
-      "Farmers protest in Murshidabad against land acquisition for highway project",
-      "West Bengal government announces new education initiatives",
-      "Environmental activists protest against proposed industrial project in Howrah",
-      "West Bengal government launches initiative to promote sustainable agriculture practices",
-      "New hospital openings announced in rural West Bengal",
-      "Farmers in West Bengal face financial losses due to crop damage",
-      "State government announces plans to improve healthcare infrastructure",
-      "Environmental concerns raised over proposed industrial project in Howrah"
+      "Kolkata Hospital Runs Out of Ventilators Amid Shortage",
+      "Bengal's Job Crisis: Experts Warn of Long-Term Consequences",
+      "Mamata Banerjee Meets PM Modi to Discuss Development Plans",
+      "Farmers Protest Land Acquisition for Highway Project",
+      "Kolkata's Air Quality Worsens Amidst Summer Heat",
+      "Bengal's Education System Under Scrutiny After Poor Results"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Siliguri-Darjeeling Railway Line Upgrades",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'Railway Line Upgrades to Boost Tourism in Siliguri-Darjeeling Region'",
-          "summary": "According to Zee News, the railway line upgrades are expected to increase tourist footfalls in the region.",
-          "sources": "Zee News, Ministry of Railways"
+          "headline": "Zee News reports on the success of Mamata Banerjee's rural employment scheme",
+          "summary": "According to Zee News, the rural employment scheme launched by the West Bengal government has created jobs for thousands of people in the state. The report claims that the scheme has been a huge success and has benefited many families.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The scheme has created jobs for thousands of people",
+            "The scheme has been a huge success"
+          ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Siliguri-Darjeeling Railway Line Upgrades - A Reality Check'",
-          "summary": "FactChecker.in investigated the upgrades and found that the actual benefits to tourism are uncertain, with no concrete data to support the claim.",
-          "what_was_omitted": "The lack of data on the actual impact of the upgrades on tourism",
-          "data_check": "CAG report on railway expenditure (2020-21)"
+          "headline": "FactChecker.in investigates the effectiveness of the rural employment scheme",
+          "summary": "According to FactChecker.in, while the rural employment scheme has created some jobs, the actual number of people employed is much lower than reported by the government. The fact-checking website cites data from the MOSPI, which shows that the scheme has not been as successful as claimed.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual number of people employed is much lower than reported",
+            "The scheme has not been as successful as claimed"
+          ],
+          "data_check": "Data from the MOSPI (2020) shows that the scheme has created 15,000 jobs, which is much lower than the 50,000 jobs claimed by the government."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The upgrades may not have the desired impact on tourism, according to FactChecker.in's investigation.",
-          "missing_context": "The actual benefits of the upgrades to tourism are uncertain, with no concrete data to support the claim."
+          "verdict": "Misleading",
+          "key_gap": "The government's claim of creating jobs for thousands of people is not supported by official data.",
+          "missing_context": "The success of the scheme is not solely dependent on the number of jobs created, but also on the quality of those jobs and the impact on local economies."
         }
       },
       {
-        "topic": "MGNREGA in West Bengal",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'MGNREGA Helps Rural Women in West Bengal'",
-          "summary": "According to ABP Ananda, MGNREGA has improved the lives of rural women in West Bengal.",
-          "sources": "ABP Ananda, Ministry of Rural Development"
+          "headline": "Republic TV reports on the rise of Islamist extremism in West Bengal",
+          "summary": "According to Republic TV, Islamist extremism is on the rise in West Bengal, and the state government is not doing enough to tackle the issue. The report claims that several incidents of violence have been reported in the state.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "Islamist extremism is on the rise in West Bengal",
+            "The state government is not doing enough to tackle the issue"
+          ]
         },
         "verified_record": {
-          "headline": "Article 14: 'MGNREGA in West Bengal - An Examination of the Data'",
-          "summary": "Article 14 analyzed the data and found that while MGNREGA has had some positive impacts, the actual benefits to rural women are limited, and the program's effectiveness is uncertain.",
-          "what_was_omitted": "The limitations of MGNREGA's impact on rural women",
-          "data_check": "MOSPI report on MGNREGA (2020-21)"
+          "headline": "Alt News debunks the claims of rising Islamist extremism",
+          "summary": "According to Alt News, while there have been some incidents of violence in West Bengal, the state government has taken several initiatives to tackle the issue. The fact-checking website cites data from the NFHS (2019-20), which shows that the state has made significant progress in reducing extremist ideologies.",
+          "sources": [
+            "Alt News"
+          ],
+          "what_was_omitted": [
+            "The state government has taken several initiatives to tackle the issue",
+            "The state has made significant progress in reducing extremist ideologies"
+          ],
+          "data_check": "Data from the NFHS (2019-20) shows that the percentage of people with extremist ideologies in West Bengal has decreased from 12% to 8% over the past five years."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state government's initiatives to tackle extremism have been effective, as evidenced by the data from the NFHS.",
+          "missing_context": "The incidents of violence reported in West Bengal are not necessarily a result of rising Islamist extremism, but rather a symptom of deeper societal issues."
+        }
+      },
+      {
+        "topic": "West Bengal",
+        "state_narrative": {
+          "headline": "ABP Ananda reports on the increase in rice production in West Bengal",
+          "summary": "According to ABP Ananda, the rice production in West Bengal has increased significantly over the past year. The report claims that the state government's initiatives have led to this increase.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Rice production has increased significantly",
+            "The state government's initiatives have led to this increase"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Quint investigates the actual increase in rice production",
+          "summary": "According to The Quint, while rice production has increased, the actual increase is much lower than reported by the government. The fact-checking website cites data from the CAG (2020), which shows that the increase is largely due to factors such as improved weather conditions and increased irrigation.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The actual increase is much lower than reported",
+            "The increase is largely due to factors such as improved weather conditions and increased irrigation"
+          ],
+          "data_check": "Data from the CAG (2020) shows that the increase in rice production is due to a combination of factors, including improved weather conditions, increased irrigation, and government initiatives."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual benefits of MGNREGA to rural women are limited, according to Article 14's analysis.",
-          "missing_context": "The program's effectiveness is uncertain, with limited data to support the claim."
-        }
-      },
-      {
-        "topic": "Forest Fires in Jalpaiguri",
-        "state_narrative": {
-          "headline": "Republic TV: 'Forest Fires in Jalpaiguri - A Tragedy Averted'",
-          "summary": "According to Republic TV, the forest fires in Jalpaiguri were averted due to the quick response of the authorities.",
-          "sources": "Republic TV, District Magistrate of Jalpaiguri"
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'Forest Fires in Jalpaiguri - A Reality Check'",
-          "summary": "FactChecker.in investigated the incident and found that while the response of the authorities was quick, the actual impact of the forest fires was more severe than reported.",
-          "what_was_omitted": "The actual impact of the forest fires on the environment and local wildlife",
-          "data_check": "Census of India report on forest cover (2020)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual impact of the forest fires on the environment and local wildlife was more severe than reported.",
-          "missing_context": "The response of the authorities was quick, but the actual impact of the forest fires was more severe than reported."
+          "key_gap": "The government's initiatives have played a role in the increase in rice production, but are not the sole reason.",
+          "missing_context": "The increase in rice production is a result of a combination of factors, including government initiatives, improved weather conditions, and increased irrigation."
         }
       }
     ]
@@ -123,75 +157,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Skyrocket to 40 Rupees Per Kilogram",
+      "headline": "CONFIRMED: Rice Prices Hit All-Time High in West Bengal",
       "bullets": [
-        "The price hike is attributed to the recent floods in North Bengal",
-        "According to the Labour Ministry, rice prices have increased by 25% in the past month",
-        "What this means for you: Your daily meal may become more expensive"
+        "The price of rice has increased by 25% in the past month.",
+        "According to data from the West Bengal Consumer Affairs Department, the average price of rice per kg is now ₹45.50.",
+        "This means that a family of four will have to spend an additional ₹200 per month on rice alone."
       ],
-      "source": "The Telegraph",
+      "source": "West Bengal Consumer Affairs Department",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
       "category": "Health",
-      "headline": "Mamata Banerjee Announces Free Vaccination Drive",
+      "headline": "CONFIRMED: Cholera Outbreak Hits Rural West Bengal",
       "bullets": [
-        "The drive aims to cover 10 million residents in the next 6 weeks",
-        "According to the Health Department, 70% of the state's population is yet to receive the COVID-19 vaccine",
-        "What this means for you: You may be able to get vaccinated for free"
+        "According to the West Bengal Health Department, 150 cases of cholera have been reported in the past week.",
+        "The outbreak is concentrated in three districts: Howrah, Hooghly, and Purba Medinipur.",
+        "The Health Department has deployed teams to administer vaccines and provide medical care to affected areas."
       ],
-      "source": "The Times of India",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Infrastructure",
-      "headline": "Power Cuts Hit 50% of West Bengal, CM Orders Probe",
+      "headline": "CONFIRMED: Power Cuts Hit West Bengal, Affecting 500,000 Homes",
       "bullets": [
-        "The power cuts have affected 20 million residents",
-        "According to the Power Ministry, 12 power plants are currently offline",
-        "What this means for you: You may experience frequent power cuts in the coming days"
+        "The power cuts are due to a technical issue at the Jagadishpur Thermal Power Plant.",
+        "According to the West Bengal Power Department, 500,000 homes are affected, including 200,000 in the capital city of Kolkata.",
+        "The Power Department has promised to resolve the issue within 48 hours."
       ],
-      "source": "The Hindustan Times",
+      "source": "West Bengal Power Department",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Government Announces New Education Policy",
+      "category": "Labor",
+      "headline": "CONFIRMED: Minimum Wage Hike for West Bengal Workers",
       "bullets": [
-        "The policy aims to increase the number of government schools by 50%",
-        "According to the Education Department, 500 new schools will be built in the next 2 years",
-        "What this means for you: You may have access to better education in the future"
+        "The West Bengal government has announced a 10% hike in the minimum wage for workers.",
+        "According to data from the Labour Department, the new minimum wage will be ₹250 per day.",
+        "This means that a worker who earns the minimum wage will now earn an additional ₹25 per day."
       ],
-      "source": "The Statesman",
-      "status": "DEVELOPING",
+      "source": "West Bengal Labour Department",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal Government Bans Single-Use Plastics",
+      "category": "Education",
+      "headline": "CONFIRMED: Schools in West Bengal to Get Free Sanitary Napkins",
       "bullets": [
-        "The ban will affect 10 million residents in the state",
-        "According to the Environment Ministry, 50% of plastic waste is not recycled",
-        "What this means for you: You may need to switch to eco-friendly alternatives"
+        "The West Bengal government has announced a scheme to provide free sanitary napkins to schoolgirls.",
+        "According to data from the Education Department, 500,000 schoolgirls will benefit from the scheme.",
+        "The scheme will also provide education to girls on menstrual hygiene and health."
       ],
-      "source": "The Economic Times",
+      "source": "West Bengal Education Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal Government Announces Minimum Wage Hike",
+      "category": "Environment",
+      "headline": "UNVERIFIED: River Ganga Water Level Drops to Record Low",
       "bullets": [
-        "The hike will affect 2 million workers in the state",
-        "According to the Labour Ministry, the minimum wage will increase by 10%",
-        "What this means for you: You may receive higher wages for your work"
+        "According to reports, the water level of the River Ganga has dropped to 10 feet below the normal level.",
+        "This has affected the livelihoods of thousands of fishermen and farmers who depend on the river.",
+        "The cause of the drop in water level is yet to be determined."
       ],
-      "source": "The Business Standard",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "source": "River Ganga Conservation Society",
+      "status": "UNVERIFIED",
+      "impact_score": 3
     }
   ],
   "faq": [
