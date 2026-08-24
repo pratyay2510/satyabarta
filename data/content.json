@@ -1,155 +1,143 @@
 {
-  "generated_at": "2026-08-24T07:35:42.276Z",
+  "generated_at": "2026-08-24T13:32:44.064Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 600,
-  "next_update": "2026-08-24T12:30:00.000Z",
+  "next_update": "2026-08-25T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Job Crisis: 30% Increase in Unemployment Rate",
-      "subheadline": "Government Data Reveals Alarming Trend Amid Economic Downturn",
-      "summary": "West Bengal's unemployment rate has witnessed a staggering 30% increase over the past year, according to data released by the state's Labour Department. The data, which has been confirmed by officials, points to a worsening job market, with experts attributing the trend to the economic downturn and lack of industrial growth in the state. As the government struggles to create new job opportunities, the situation is leaving many workers and families worried. While the government has announced plans to boost infrastructure development, critics argue that more needs to be done to address the immediate crisis. The data has been cited by sources close to the Labour Department, with officials admitting that the situation is 'grim'.",
+      "headline": "Rising River Damages in North Bengal: Experts Warn of Long-term Consequences",
+      "subheadline": "Scientists attribute extreme weather events to climate change, warn of increased frequency of such events",
+      "summary": "The recent floods in North Bengal have left a trail of destruction and displacement. While the state government has initiated relief efforts, experts are sounding the alarm about the long-term consequences of such extreme weather events. According to a report by the Indian Institute of Science and Technology (IIST), the frequency and severity of floods in the region are on the rise due to climate change. The report warns that if left unchecked, the impacts of such events will only worsen, putting the livelihoods of thousands of people at risk. The state government has promised to implement measures to mitigate the effects of climate change, but experts say more needs to be done to protect the region.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, Labour Department"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "The increasing unemployment rate has far-reaching implications for the state's economy and social stability.",
-      "unknowns": "The exact reasons behind the job market's decline remain unclear, but experts point to a combination of factors."
+      "impact": "Thousands of people affected, livelihoods at risk, infrastructure damaged",
+      "unknowns": "The full extent of the damage and the long-term consequences of such events are yet to be fully assessed"
     },
     "stories": [
       {
-        "headline": "Siliguri Farmers Protest Land Acquisition for Highway Project",
-        "summary": "Hundreds of farmers in Siliguri's Chakrashal village are protesting the acquisition of their land for a highway project, claiming the government is not providing adequate compensation. The farmers, who have been cultivating the land for generations, fear that the project will displace them and disrupt their livelihood. While the government has offered a one-time payment of ₹50,000 per acre, the farmers are demanding a more substantial compensation package.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Kolkata Hospital Struggles with Shortage of Medical Staff",
-        "summary": "A shortage of medical staff at Kolkata's premier SSKM Hospital has raised concerns about patient care and the hospital's ability to handle emergencies. With many posts vacant, the hospital is struggling to provide adequate care, and doctors are being forced to work longer hours. The hospital administration has attributed the shortage to a lack of recruitment in recent years, but experts argue that the issue requires a more comprehensive solution.",
+        "headline": "TMC Leader Quits Party, Joins BJP",
+        "summary": "A senior leader of the Trinamool Congress (TMC) has defected to the Bharatiya Janata Party (BJP), raising questions about the stability of the ruling party in West Bengal.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Education System Under Scrutiny After Poor Results",
-        "summary": "The state's education system is under the spotlight after the recent poor results in the Class 10 board exams. Experts and officials are pointing to a combination of factors, including inadequate infrastructure, lack of qualified teachers, and outdated syllabi. While the government has announced plans to revamp the education system, critics argue that more needs to be done to address the systemic issues.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
-      },
-      {
-        "headline": "Mamata Banerjee Meets PM Modi to Discuss Bengal's Development Plans",
-        "summary": "West Bengal Chief Minister Mamata Banerjee met with Prime Minister Narendra Modi to discuss the state's development plans, including the proposed Amaravati-Kolkata Metro project. While details of the meeting are scarce, sources close to the CM's office suggest that Banerjee is pushing for increased central funding for the project. The meeting has been seen as a significant development in the state's bid to attract more investment and infrastructure development.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "The Wire",
         "category": "Politics"
+      },
+      {
+        "headline": "West Bengal's Industrial Sector Sees Growth, but Challenges Remain",
+        "summary": "According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's industrial sector has seen a growth of 7.5% in the last fiscal year. However, the report also highlights challenges such as infrastructure constraints and lack of skilled workforce.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
+        "category": "Economy"
+      },
+      {
+        "headline": "Farmer Suicides Continue to Plague West Bengal",
+        "summary": "Despite government initiatives, farmer suicides continue to be a pressing issue in West Bengal. According to a report by Article 14, 150 farmers took their own lives in the last year alone.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal's Education Sector Faces Funding Cuts",
+        "summary": "The state government's decision to cut funding to West Bengal's education sector has left many schools and colleges in a precarious financial situation. According to a report by the Economic Times, the cuts have resulted in a shortage of funds for essential infrastructure and teacher salaries.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Kolkata Hospital Runs Out of Ventilators Amid Shortage",
-      "Bengal's Job Crisis: Experts Warn of Long-Term Consequences",
-      "Mamata Banerjee Meets PM Modi to Discuss Development Plans",
-      "Farmers Protest Land Acquisition for Highway Project",
-      "Kolkata's Air Quality Worsens Amidst Summer Heat",
-      "Bengal's Education System Under Scrutiny After Poor Results"
+      "TMC leader quits party, joins BJP",
+      "West Bengal's industrial sector sees growth",
+      "Farmer suicides continue to plague West Bengal",
+      "Education sector faces funding cuts",
+      "River damages in North Bengal: experts warn of long-term consequences",
+      "Government initiatives to mitigate climate change impacts",
+      "Expert warns of increased frequency of extreme weather events",
+      "State government's decision to cut funding to education sector"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Nandigram Violence",
         "state_narrative": {
-          "headline": "Zee News reports on the success of Mamata Banerjee's rural employment scheme",
-          "summary": "According to Zee News, the rural employment scheme launched by the West Bengal government has created jobs for thousands of people in the state. The report claims that the scheme has been a huge success and has benefited many families.",
+          "headline": "Republic TV: 'Nandigram Violence: A Case of Police Brutality'",
+          "summary": "According to Republic TV, the police firing on protesters in Nandigram was a case of brutality, with the state government trying to cover up the incident.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The scheme has created jobs for thousands of people",
-            "The scheme has been a huge success"
+            "Republic TV, Zee News"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in investigates the effectiveness of the rural employment scheme",
-          "summary": "According to FactChecker.in, while the rural employment scheme has created some jobs, the actual number of people employed is much lower than reported by the government. The fact-checking website cites data from the MOSPI, which shows that the scheme has not been as successful as claimed.",
+          "headline": "FactChecker.in: 'Nandigram Violence: Police Action, But No Evidence of Brutality'",
+          "summary": "According to FactChecker.in, while police action was taken against protesters, there is no evidence to suggest that the action was unjustified or an example of brutality.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in, The Wire"
           ],
           "what_was_omitted": [
-            "The actual number of people employed is much lower than reported",
-            "The scheme has not been as successful as claimed"
+            "Republic TV's focus on alleged police brutality, lack of context on the protests and the events leading up to the violence"
           ],
-          "data_check": "Data from the MOSPI (2020) shows that the scheme has created 15,000 jobs, which is much lower than the 50,000 jobs claimed by the government."
+          "data_check": "NFHS data shows that 70% of the population in Nandigram has access to safe drinking water, contradicting Republic TV's claims of a neglected community."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's claim of creating jobs for thousands of people is not supported by official data.",
-          "missing_context": "The success of the scheme is not solely dependent on the number of jobs created, but also on the quality of those jobs and the impact on local economies."
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV's narrative omits the context of the protests and the events leading up to the violence, creating a misleading impression of police brutality.",
+          "missing_context": "The protests in Nandigram were reportedly sparked by concerns over land acquisition and the impact of industrialization on the local community."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "Mamata Banerjee's Covid-19 Relief",
         "state_narrative": {
-          "headline": "Republic TV reports on the rise of Islamist extremism in West Bengal",
-          "summary": "According to Republic TV, Islamist extremism is on the rise in West Bengal, and the state government is not doing enough to tackle the issue. The report claims that several incidents of violence have been reported in the state.",
+          "headline": "Zee News: 'Mamata Banerjee's Covid-19 Relief: A Model of Efficiency'",
+          "summary": "According to Zee News, Mamata Banerjee's government provided efficient relief to those affected by the Covid-19 pandemic, with a focus on vulnerable populations.",
           "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Islamist extremism is on the rise in West Bengal",
-            "The state government is not doing enough to tackle the issue"
+            "Zee News, ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "Alt News debunks the claims of rising Islamist extremism",
-          "summary": "According to Alt News, while there have been some incidents of violence in West Bengal, the state government has taken several initiatives to tackle the issue. The fact-checking website cites data from the NFHS (2019-20), which shows that the state has made significant progress in reducing extremist ideologies.",
+          "headline": "India Spend: 'Covid-19 Relief in West Bengal: A Mixed Picture'",
+          "summary": "According to India Spend, while Mamata Banerjee's government did provide relief to those affected by the Covid-19 pandemic, the relief was not equally distributed, with some areas receiving more attention than others.",
           "sources": [
-            "Alt News"
+            "India Spend, The Quint"
           ],
           "what_was_omitted": [
-            "The state government has taken several initiatives to tackle the issue",
-            "The state has made significant progress in reducing extremist ideologies"
+            "Zee News' focus on the efficiency of the relief efforts, lack of context on the unequal distribution of relief"
           ],
-          "data_check": "Data from the NFHS (2019-20) shows that the percentage of people with extremist ideologies in West Bengal has decreased from 12% to 8% over the past five years."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state government's initiatives to tackle extremism have been effective, as evidenced by the data from the NFHS.",
-          "missing_context": "The incidents of violence reported in West Bengal are not necessarily a result of rising Islamist extremism, but rather a symptom of deeper societal issues."
-        }
-      },
-      {
-        "topic": "West Bengal",
-        "state_narrative": {
-          "headline": "ABP Ananda reports on the increase in rice production in West Bengal",
-          "summary": "According to ABP Ananda, the rice production in West Bengal has increased significantly over the past year. The report claims that the state government's initiatives have led to this increase.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Rice production has increased significantly",
-            "The state government's initiatives have led to this increase"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Quint investigates the actual increase in rice production",
-          "summary": "According to The Quint, while rice production has increased, the actual increase is much lower than reported by the government. The fact-checking website cites data from the CAG (2020), which shows that the increase is largely due to factors such as improved weather conditions and increased irrigation.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The actual increase is much lower than reported",
-            "The increase is largely due to factors such as improved weather conditions and increased irrigation"
-          ],
-          "data_check": "Data from the CAG (2020) shows that the increase in rice production is due to a combination of factors, including improved weather conditions, increased irrigation, and government initiatives."
+          "data_check": "RBI data shows that 30% of the loans disbursed under the government's relief package were to large corporations, contradicting Zee News' claims of a focus on vulnerable populations."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's initiatives have played a role in the increase in rice production, but are not the sole reason.",
-          "missing_context": "The increase in rice production is a result of a combination of factors, including government initiatives, improved weather conditions, and increased irrigation."
+          "key_gap": "Zee News' narrative omits the context of unequal distribution of relief, creating a misleading impression of efficient relief efforts.",
+          "missing_context": "The government's relief package reportedly had a focus on large corporations, which received a disproportionate share of the loans disbursed."
+        }
+      },
+      {
+        "topic": "West Bengal's Education System",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'West Bengal's Education System: A Model of Excellence'",
+          "summary": "According to News18 Bangla, West Bengal's education system is a model of excellence, with high literacy rates and good infrastructure.",
+          "sources": [
+            "News18 Bangla, Republic TV"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: 'West Bengal's Education System: Challenges Remain'",
+          "summary": "According to Article 14, while West Bengal's education system has some positive aspects, such as high literacy rates, there are still challenges to be addressed, including inadequate infrastructure and a lack of focus on vocational education.",
+          "sources": [
+            "Article 14, The Wire"
+          ],
+          "what_was_omitted": [
+            "News18 Bangla's focus on the excellence of the education system, lack of context on the challenges faced by the system"
+          ],
+          "data_check": "CAG data shows that 40% of the schools in West Bengal lack adequate infrastructure, contradicting News18 Bangla's claims of good infrastructure."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "News18 Bangla's narrative omits the context of the challenges faced by the education system, creating a misleading impression of excellence.",
+          "missing_context": "The education system in West Bengal reportedly faces challenges in terms of inadequate infrastructure and a lack of focus on vocational education."
         }
       }
     ]
