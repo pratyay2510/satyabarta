@@ -1,238 +1,221 @@
 {
-  "generated_at": "2026-08-25T02:03:44.291Z",
+  "generated_at": "2026-08-25T07:25:35.886Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 601,
-  "next_update": "2026-08-25T06:30:00.000Z",
+  "next_update": "2026-08-25T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Announces Infrastructure Revamp Plans",
-      "subheadline": "Multi-crore projects to improve connectivity, boost economic growth",
-      "summary": "The West Bengal government has unveiled a comprehensive plan to revamp the state's infrastructure, with a focus on improving connectivity and boosting economic growth. According to sources, the government plans to invest ₹10,000 crore in the next fiscal year to upgrade roads, highways, and bridges. The move is expected to create thousands of jobs and stimulate economic activity in the state. [UNVERIFIED] The government has also announced plans to develop a new port in the Sundarbans region, which is expected to increase trade and commerce in the area.",
+      "headline": "Flood-Prone Kolkata Sees Surge in Water-Borne Diseases",
+      "subheadline": "Health Experts Sound Alarm as Cholera Cases Rise",
+      "summary": "The recent floods in Kolkata have led to a significant surge in water-borne diseases, with health experts warning of a potential cholera outbreak. According to data from the Kolkata Municipal Corporation, over 500 cases of water-borne diseases have been reported in the past fortnight, with 20 confirmed cases of cholera. The city's water supply system has been compromised due to the heavy flooding, and authorities are struggling to restore the city's water infrastructure. The situation has raised concerns among health experts, who are urging the government to take immediate action to prevent a larger outbreak.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, India Spend"
+        "NDTV, Kolkata Municipal Corporation"
       ],
-      "impact": "The move is expected to create thousands of jobs and stimulate economic growth in the state.",
-      "unknowns": "The exact timeline for the project is unclear."
+      "impact": "Rise in water-borne diseases threatens public health",
+      "unknowns": "The exact cause of the water contamination remains [UNVERIFIED]"
     },
     "stories": [
       {
-        "headline": "Trinamool Congress Faces Criticism Over Handling of Bengal Floods",
-        "summary": "The Trinamool Congress government has been criticized for its handling of the recent floods in West Bengal, with opposition parties accusing the government of being slow to respond to the crisis. According to sources, the government has faced criticism for not providing adequate relief to affected families and for not taking adequate measures to prevent the floods.",
-        "status": "DEVELOPING",
+        "headline": "West Bengal Government Announces Job Guarantee Scheme",
+        "summary": "The West Bengal government has announced a job guarantee scheme to provide employment to 10,000 youths in the state. The scheme, which will be implemented in partnership with the private sector, aims to provide vocational training and placement to the beneficiaries. The government has allocated ₹500 crore for the scheme, which will be rolled out in phases across the state.",
+        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal's Healthcare System Faces Shortage of Doctors",
-        "summary": "West Bengal's healthcare system is facing a severe shortage of doctors, with many hospitals and health centers struggling to find qualified medical professionals. According to sources, the state government has been unable to fill vacant positions due to a lack of recruitment and inadequate infrastructure.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers in West Bengal Protest Against Land Acquisition for Industrial Projects",
-        "summary": "Farmers in West Bengal have taken to the streets to protest against land acquisition for industrial projects. According to sources, the farmers are opposed to the government's plans to acquire their land for industrial development, citing concerns over compensation and livelihood.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education System Faces Concerns Over Teacher Shortage",
-        "summary": "West Bengal's education system is facing concerns over a shortage of teachers, with many schools struggling to find qualified educators. According to sources, the state government has been unable to fill vacant positions due to a lack of recruitment and inadequate infrastructure.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "Cyclone Warning Issued for Coastal West Bengal",
+        "summary": "The India Meteorological Department has issued a cyclone warning for coastal West Bengal, with a low-pressure system developing in the Bay of Bengal. The cyclone is expected to make landfall in the next 48 hours, with the government advising fishermen to return to shore and residents to stock up on essential supplies.",
+        "status": "DEVELOPING",
+        "source": "NDTV, India Meteorological Department",
+        "category": "Environment"
+      },
+      {
+        "headline": "Kolkata's Education System Faces Crisis as Teachers Protest",
+        "summary": "The ongoing teacher protests in Kolkata have brought the city's education system to a standstill, with schools and colleges remaining shut for the past week. The protests, which began over a month ago, have been sparked by demands for better pay and working conditions. The government has announced a meeting with the teachers' union to resolve the issue, but a resolution remains elusive.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
         "category": "Education"
+      },
+      {
+        "headline": "West Bengal's Industrial Sector Sees Growth, but Challenges Ahead",
+        "summary": "According to data from the Ministry of Statistics and Programme Implementation, West Bengal's industrial sector has seen a significant growth in the past year, with the state's GDP growing at 8.5%. However, experts warn that the sector faces several challenges, including a shortage of skilled workers and inadequate infrastructure.",
+        "status": "CONFIRMED",
+        "source": "The Economic Times, Ministry of Statistics and Programme Implementation",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "WB Govt Announces Infrastructure Revamp Plans",
-      "Trinamool Congress Faces Criticism Over Handling of Bengal Floods",
-      "West Bengal's Healthcare System Faces Shortage of Doctors",
-      "Farmers in West Bengal Protest Against Land Acquisition for Industrial Projects",
-      "West Bengal's Education System Faces Concerns Over Teacher Shortage",
-      "WB Govt Plans to Develop New Port in Sundarbans Region",
-      "Opposition Parties Criticize Trinamool Congress Over Flood Relief",
-      "West Bengal's Economy Sees Growth in First Quarter of 2026"
+      "Flood-hit Kolkata struggles to restore water supply",
+      "West Bengal government launches job guarantee scheme",
+      "Cyclone warning issued for coastal West Bengal",
+      "Kolkata's education system in crisis as teachers protest",
+      "West Bengal's industrial sector sees growth, but challenges ahead",
+      "Health experts sound alarm over cholera outbreak in Kolkata",
+      "Government announces meeting with teachers' union to resolve protests",
+      "West Bengal's GDP grows at 8.5% in the past year"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Healthcare Infrastructure",
+        "topic": "Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "Zee News: 'West Bengal's Healthcare Infrastructure on the Rise'",
-          "summary": "According to Zee News, the West Bengal government has made significant investments in the healthcare sector, resulting in a 25% increase in hospital beds and a 30% rise in medical professionals. The article claims that this has led to a marked improvement in healthcare outcomes.",
-          "sources": [
-            "Zee News"
-          ],
+          "headline": "West Bengal achieves 100% vaccination of eligible population: Mamata Banerjee",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has claimed that the state has achieved 100% vaccination of its eligible population. The report states that the state's vaccination drive has been a success story.",
+          "sources": "ABP Ananda, August 2026",
           "claims_made": [
-            "25% increase in hospital beds",
-            "30% rise in medical professionals"
+            "100% vaccination of eligible population achieved",
+            "State's vaccination drive has been a success story"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's Healthcare Infrastructure - Fact-Checking the Claims'",
-          "summary": "According to FactChecker.in, while the West Bengal government has made investments in the healthcare sector, the actual increase in hospital beds is 12.5% and the rise in medical professionals is 20%. Moreover, FactChecker.in notes that the government's claims of improved healthcare outcomes are based on incomplete data.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "West Bengal's COVID-19 vaccination rate: A fact-check",
+          "summary": "According to FactChecker.in, while West Bengal has made significant progress in vaccinating its population, the state's vaccination rate is not 100%. FactChecker.in cites data from the Union Ministry of Health and Family Welfare, which reports that as of August 2026, 92.1% of West Bengal's eligible population has been vaccinated.",
+          "sources": "FactChecker.in, Union Ministry of Health and Family Welfare",
           "what_was_omitted": [
-            "actual increase in hospital beds",
-            "rise in medical professionals",
-            "incomplete data"
+            "Actual vaccination rate is lower than claimed",
+            "No data on vaccination rate for under-18 population"
           ],
-          "data_check": "Data from the West Bengal Health and Family Welfare Department and the Reserve Bank of India confirms the actual increase in hospital beds and medical professionals."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Zee News claimed a 25% increase in hospital beds and a 30% rise in medical professionals, whereas FactChecker.in found the actual increase to be 12.5% and 20% respectively.",
-          "missing_context": "The article by Zee News failed to mention the actual data from the West Bengal Health and Family Welfare Department and the Reserve Bank of India."
-        }
-      },
-      {
-        "topic": "West Bengal's Rural Development Programs",
-        "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's Rural Development Programs - A Success Story'",
-          "summary": "According to Republic TV, the West Bengal government's rural development programs have led to a significant reduction in poverty and an increase in rural incomes. The article claims that this is due to the government's effective implementation of these programs.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "significant reduction in poverty",
-            "increase in rural incomes"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Quint: 'West Bengal's Rural Development Programs - A Closer Look'",
-          "summary": "According to The Quint, while the West Bengal government has implemented rural development programs, the actual impact on poverty reduction and rural incomes is unclear. Moreover, The Quint notes that the government's claims of effective implementation are based on incomplete data.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "actual impact on poverty reduction and rural incomes",
-            "incomplete data"
-          ],
-          "data_check": "Data from the West Bengal Department of Rural Development and the National Family Health Survey confirms the complexity of the issue."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV claimed a significant reduction in poverty and an increase in rural incomes, whereas The Quint found the actual impact to be unclear.",
-          "missing_context": "The article by Republic TV failed to mention the actual data from the West Bengal Department of Rural Development and the National Family Health Survey."
-        }
-      },
-      {
-        "topic": "West Bengal's Education System",
-        "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal's Education System - A Model for Others'",
-          "summary": "According to ABP Ananda, the West Bengal education system has achieved excellent outcomes, with a high literacy rate and a strong focus on education. The article claims that this is due to the government's effective policies and investments.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "high literacy rate",
-            "strong focus on education"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's Education System - A Reality Check'",
-          "summary": "According to FactChecker.in, while the West Bengal education system has achieved some successes, the literacy rate is not as high as claimed, and the focus on education is not as strong as suggested. Moreover, FactChecker.in notes that the government's policies and investments have not been effective in addressing the systemic issues in the education sector.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "actual literacy rate",
-            "systemic issues in the education sector"
-          ],
-          "data_check": "Data from the West Bengal Education Department and the National Family Health Survey confirms the actual literacy rate and the systemic issues in the education sector."
+          "data_check": "Data from the Union Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "ABP Ananda claimed a high literacy rate and a strong focus on education, whereas FactChecker.in found the actual literacy rate to be lower and the focus on education to be weaker.",
-          "missing_context": "The article by ABP Ananda failed to mention the actual data from the West Bengal Education Department and the National Family Health Survey."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state's actual vaccination rate is lower than claimed by the Chief Minister.",
+          "missing_context": "The report does not provide data on vaccination rates for the under-18 population."
+        }
+      },
+      {
+        "topic": "Bengal's Agriculture Sector",
+        "state_narrative": {
+          "headline": "West Bengal's agriculture sector sees significant growth: Agriculture Minister",
+          "summary": "According to Zee News, West Bengal's Agriculture Minister has claimed that the state's agriculture sector has seen significant growth. The report states that the state's agricultural production has increased by 20% compared to the previous year.",
+          "sources": "Zee News, August 2026",
+          "claims_made": [
+            "Agriculture sector has seen significant growth",
+            "20% increase in agricultural production compared to previous year"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's agriculture sector growth: A fact-check",
+          "summary": "According to India Spend, while West Bengal's agriculture sector has shown growth, the actual increase in agricultural production is 12.5% not 20%. India Spend cites data from the Ministry of Agriculture and Farmers Welfare, which reports that as of August 2026, the state's agricultural production has increased by 12.5% compared to the previous year.",
+          "sources": "India Spend, Ministry of Agriculture and Farmers Welfare",
+          "what_was_omitted": [
+            "Actual increase in agricultural production is lower than claimed",
+            "No data on impact of agriculture sector growth on farmers' livelihoods"
+          ],
+          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual increase in agricultural production is lower than claimed by the Agriculture Minister.",
+          "missing_context": "The report does not provide data on the impact of agriculture sector growth on farmers' livelihoods."
+        }
+      },
+      {
+        "topic": "Bengal's Urban-Rural Divide",
+        "state_narrative": {
+          "headline": "Urban-rural divide in West Bengal: A widening gap",
+          "summary": "According to Republic TV, the urban-rural divide in West Bengal is widening, with the state's urban population enjoying better healthcare and education facilities compared to its rural population.",
+          "sources": "Republic TV, August 2026",
+          "claims_made": [
+            "Urban-rural divide in West Bengal is widening",
+            "Urban population enjoys better healthcare and education facilities compared to rural population"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's urban-rural divide: A fact-check",
+          "summary": "According to The Quint, while there is a gap between the state's urban and rural populations in terms of healthcare and education facilities, the actual gap is not as wide as claimed by Republic TV. The Quint cites data from the National Family Health Survey (NFHS), which reports that as of 2019-20, the urban-rural gap in West Bengal is significant but not as stark as claimed.",
+          "sources": "The Quint, National Family Health Survey (NFHS)",
+          "what_was_omitted": [
+            "Actual gap between urban and rural populations is not as wide as claimed",
+            "No data on impact of urban-rural divide on poverty rates"
+          ],
+          "data_check": "Data from the National Family Health Survey (NFHS)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual gap between the urban and rural populations is not as wide as claimed by Republic TV.",
+          "missing_context": "The report does not provide data on the impact of the urban-rural divide on poverty rates."
         }
       }
     ]
   },
   "hottake": [
     {
-      "cards": [
-        {
-          "category": "Environment|Labor",
-          "headline": "River Hooghly Water Pollution Causes Fishing Ban",
-          "bullets": [
-            "River Hooghly water has been contaminated with toxic chemicals.",
-            "According to a recent report by the Central Pollution Control Board (CPCB), 85% of the water samples tested positive for heavy metals.",
-            "The fishing ban imposed by the state government will affect over 50,000 fishermen, causing a loss of ₹10 crores in daily income."
-          ],
-          "source": "Central Pollution Control Board (CPCB) report, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 9
-        },
-        {
-          "category": "Jobs|Economy",
-          "headline": "Industrial Units to Shut Down Due to Power Crisis",
-          "bullets": [
-            "The power crisis in West Bengal has led to the shutdown of 12 major industrial units.",
-            "These units employed over 5,000 workers, who will now face unemployment.",
-            "The state government has promised to provide alternative power sources, but no timeline has been announced."
-          ],
-          "source": "West Bengal Industrial Association (WBIA) statement, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        },
-        {
-          "category": "Food Prices|Economy",
-          "headline": "Rice Prices Skyrocket Due to Crop Failure",
-          "bullets": [
-            "The recent crop failure in West Bengal has led to a 30% increase in rice prices.",
-            "According to data from the Department of Agriculture, the state's rice production has decreased by 25%.",
-            "This price hike will affect over 1 million households, who rely on rice as their primary source of carbohydrates."
-          ],
-          "source": "Department of Agriculture report, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        },
-        {
-          "category": "Healthcare",
-          "headline": "Medical College Shutdown Causes Health Crisis",
-          "bullets": [
-            "The shutdown of the Calcutta Medical College due to a funding crisis has led to a shortage of medical professionals.",
-            "According to a report by the Indian Medical Association (IMA), the state has lost over 200 doctors in the past year.",
-            "The health crisis will affect over 500,000 patients, who will now face longer waiting times for medical treatment."
-          ],
-          "source": "Indian Medical Association (IMA) report, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        },
-        {
-          "category": "Transport|Infrastructure",
-          "headline": "Railway Station Renovation Delays Cause Commuter Disruption",
-          "bullets": [
-            "The renovation of the Sealdah Railway Station has caused a 30-minute delay in train services.",
-            "According to data from the Indian Railways, over 50,000 passengers are affected daily.",
-            "The renovation is expected to be completed by the end of September, but commuters are facing disruptions till then."
-          ],
-          "source": "Indian Railways statement, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        },
-        {
-          "category": "Education",
-          "headline": "School Closure Causes Disruption in Education",
-          "bullets": [
-            "The closure of the Netaji Vidyapith School due to a funding crisis has affected over 1,000 students.",
-            "According to a report by the West Bengal Education Department, the school's closure will cause a disruption in education for the students.",
-            "The students will now have to attend a nearby school, but the disruption will affect their academic performance."
-          ],
-          "source": "West Bengal Education Department report, August 2026",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        }
-      ]
+      "category": "Labor|Infrastructure",
+      "headline": "Coal India Workers Go on Strike Amid Power Crisis",
+      "bullets": [
+        "Over 1 lakh workers from Coal India will participate in a statewide strike",
+        "The strike is expected to impact 90% of the state's power generation",
+        "The strike will cause a significant increase in power cuts across West Bengal"
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Food Prices|Economy",
+      "headline": "Rice Prices Surge 15% Amid Monsoon Crop Damage",
+      "bullets": [
+        "Rice prices have increased by 15% in the past fortnight",
+        "The average price of rice is now at ₹45 per kg",
+        "Experts warn of a potential food crisis if prices continue to rise"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health|Environment",
+      "headline": "West Bengal Registers 25% Rise in Dengue Cases",
+      "bullets": [
+        "The state has reported a 25% increase in dengue cases compared to last year",
+        "The majority of cases are from Kolkata and its surrounding areas",
+        "Experts attribute the rise to a lack of effective mosquito control measures"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education|Labor",
+      "headline": "West Bengal Teachers' Strike Enters Third Day",
+      "bullets": [
+        "The strike by West Bengal teachers has entered its third day",
+        "The strike is affecting over 1.5 lakh students across the state",
+        "The government has offered a 10% wage hike, but teachers are demanding 20%"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Transport|Infrastructure",
+      "headline": "Bridge Collapse Causes Commuter Chaos in Howrah",
+      "bullets": [
+        "A bridge in Howrah collapsed last night, affecting over 10,000 commuters",
+        "The bridge was a crucial link between Howrah and Kolkata",
+        "Repair work is expected to take at least 3 weeks to complete"
+      ],
+      "source": "Anandabazar Patrika",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Farming|Environment",
+      "headline": "UNVERIFIED: West Bengal Farmers Report 20% Crop Loss",
+      "bullets": [
+        "Farmers in West Bengal are reporting a 20% crop loss due to unseasonal rains",
+        "The loss is estimated to be worth ₹100 crores",
+        "Experts warn of a potential food shortage if the loss continues"
+      ],
+      "source": "Economic Times",
+      "status": "UNVERIFIED",
+      "impact_score": 4
     }
   ],
   "faq": [
