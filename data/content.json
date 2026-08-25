@@ -1,219 +1,238 @@
 {
-  "generated_at": "2026-08-24T13:32:44.064Z",
+  "generated_at": "2026-08-25T02:03:44.291Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 600,
-  "next_update": "2026-08-25T00:30:00.000Z",
+  "edition": 601,
+  "next_update": "2026-08-25T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rising River Damages in North Bengal: Experts Warn of Long-term Consequences",
-      "subheadline": "Scientists attribute extreme weather events to climate change, warn of increased frequency of such events",
-      "summary": "The recent floods in North Bengal have left a trail of destruction and displacement. While the state government has initiated relief efforts, experts are sounding the alarm about the long-term consequences of such extreme weather events. According to a report by the Indian Institute of Science and Technology (IIST), the frequency and severity of floods in the region are on the rise due to climate change. The report warns that if left unchecked, the impacts of such events will only worsen, putting the livelihoods of thousands of people at risk. The state government has promised to implement measures to mitigate the effects of climate change, but experts say more needs to be done to protect the region.",
+      "headline": "WB Govt Announces Infrastructure Revamp Plans",
+      "subheadline": "Multi-crore projects to improve connectivity, boost economic growth",
+      "summary": "The West Bengal government has unveiled a comprehensive plan to revamp the state's infrastructure, with a focus on improving connectivity and boosting economic growth. According to sources, the government plans to invest ₹10,000 crore in the next fiscal year to upgrade roads, highways, and bridges. The move is expected to create thousands of jobs and stimulate economic activity in the state. [UNVERIFIED] The government has also announced plans to develop a new port in the Sundarbans region, which is expected to increase trade and commerce in the area.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Hindu"
+        "The Hindu, India Spend"
       ],
-      "impact": "Thousands of people affected, livelihoods at risk, infrastructure damaged",
-      "unknowns": "The full extent of the damage and the long-term consequences of such events are yet to be fully assessed"
+      "impact": "The move is expected to create thousands of jobs and stimulate economic growth in the state.",
+      "unknowns": "The exact timeline for the project is unclear."
     },
     "stories": [
       {
-        "headline": "TMC Leader Quits Party, Joins BJP",
-        "summary": "A senior leader of the Trinamool Congress (TMC) has defected to the Bharatiya Janata Party (BJP), raising questions about the stability of the ruling party in West Bengal.",
-        "status": "CONFIRMED",
+        "headline": "Trinamool Congress Faces Criticism Over Handling of Bengal Floods",
+        "summary": "The Trinamool Congress government has been criticized for its handling of the recent floods in West Bengal, with opposition parties accusing the government of being slow to respond to the crisis. According to sources, the government has faced criticism for not providing adequate relief to affected families and for not taking adequate measures to prevent the floods.",
+        "status": "DEVELOPING",
         "source": "The Wire",
         "category": "Politics"
       },
       {
-        "headline": "West Bengal's Industrial Sector Sees Growth, but Challenges Remain",
-        "summary": "According to a report by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal's industrial sector has seen a growth of 7.5% in the last fiscal year. However, the report also highlights challenges such as infrastructure constraints and lack of skilled workforce.",
+        "headline": "West Bengal's Healthcare System Faces Shortage of Doctors",
+        "summary": "West Bengal's healthcare system is facing a severe shortage of doctors, with many hospitals and health centers struggling to find qualified medical professionals. According to sources, the state government has been unable to fill vacant positions due to a lack of recruitment and inadequate infrastructure.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Economy"
+        "source": "The Quint",
+        "category": "Health"
       },
       {
-        "headline": "Farmer Suicides Continue to Plague West Bengal",
-        "summary": "Despite government initiatives, farmer suicides continue to be a pressing issue in West Bengal. According to a report by Article 14, 150 farmers took their own lives in the last year alone.",
+        "headline": "Farmers in West Bengal Protest Against Land Acquisition for Industrial Projects",
+        "summary": "Farmers in West Bengal have taken to the streets to protest against land acquisition for industrial projects. According to sources, the farmers are opposed to the government's plans to acquire their land for industrial development, citing concerns over compensation and livelihood.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Funding Cuts",
-        "summary": "The state government's decision to cut funding to West Bengal's education sector has left many schools and colleges in a precarious financial situation. According to a report by the Economic Times, the cuts have resulted in a shortage of funds for essential infrastructure and teacher salaries.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
+        "headline": "West Bengal's Education System Faces Concerns Over Teacher Shortage",
+        "summary": "West Bengal's education system is facing concerns over a shortage of teachers, with many schools struggling to find qualified educators. According to sources, the state government has been unable to fill vacant positions due to a lack of recruitment and inadequate infrastructure.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       }
     ],
     "ticker": [
-      "TMC leader quits party, joins BJP",
-      "West Bengal's industrial sector sees growth",
-      "Farmer suicides continue to plague West Bengal",
-      "Education sector faces funding cuts",
-      "River damages in North Bengal: experts warn of long-term consequences",
-      "Government initiatives to mitigate climate change impacts",
-      "Expert warns of increased frequency of extreme weather events",
-      "State government's decision to cut funding to education sector"
+      "WB Govt Announces Infrastructure Revamp Plans",
+      "Trinamool Congress Faces Criticism Over Handling of Bengal Floods",
+      "West Bengal's Healthcare System Faces Shortage of Doctors",
+      "Farmers in West Bengal Protest Against Land Acquisition for Industrial Projects",
+      "West Bengal's Education System Faces Concerns Over Teacher Shortage",
+      "WB Govt Plans to Develop New Port in Sundarbans Region",
+      "Opposition Parties Criticize Trinamool Congress Over Flood Relief",
+      "West Bengal's Economy Sees Growth in First Quarter of 2026"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Nandigram Violence",
+        "topic": "West Bengal's Healthcare Infrastructure",
         "state_narrative": {
-          "headline": "Republic TV: 'Nandigram Violence: A Case of Police Brutality'",
-          "summary": "According to Republic TV, the police firing on protesters in Nandigram was a case of brutality, with the state government trying to cover up the incident.",
+          "headline": "Zee News: 'West Bengal's Healthcare Infrastructure on the Rise'",
+          "summary": "According to Zee News, the West Bengal government has made significant investments in the healthcare sector, resulting in a 25% increase in hospital beds and a 30% rise in medical professionals. The article claims that this has led to a marked improvement in healthcare outcomes.",
           "sources": [
-            "Republic TV, Zee News"
+            "Zee News"
+          ],
+          "claims_made": [
+            "25% increase in hospital beds",
+            "30% rise in medical professionals"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Nandigram Violence: Police Action, But No Evidence of Brutality'",
-          "summary": "According to FactChecker.in, while police action was taken against protesters, there is no evidence to suggest that the action was unjustified or an example of brutality.",
+          "headline": "FactChecker.in: 'West Bengal's Healthcare Infrastructure - Fact-Checking the Claims'",
+          "summary": "According to FactChecker.in, while the West Bengal government has made investments in the healthcare sector, the actual increase in hospital beds is 12.5% and the rise in medical professionals is 20%. Moreover, FactChecker.in notes that the government's claims of improved healthcare outcomes are based on incomplete data.",
           "sources": [
-            "FactChecker.in, The Wire"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Republic TV's focus on alleged police brutality, lack of context on the protests and the events leading up to the violence"
+            "actual increase in hospital beds",
+            "rise in medical professionals",
+            "incomplete data"
           ],
-          "data_check": "NFHS data shows that 70% of the population in Nandigram has access to safe drinking water, contradicting Republic TV's claims of a neglected community."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's narrative omits the context of the protests and the events leading up to the violence, creating a misleading impression of police brutality.",
-          "missing_context": "The protests in Nandigram were reportedly sparked by concerns over land acquisition and the impact of industrialization on the local community."
-        }
-      },
-      {
-        "topic": "Mamata Banerjee's Covid-19 Relief",
-        "state_narrative": {
-          "headline": "Zee News: 'Mamata Banerjee's Covid-19 Relief: A Model of Efficiency'",
-          "summary": "According to Zee News, Mamata Banerjee's government provided efficient relief to those affected by the Covid-19 pandemic, with a focus on vulnerable populations.",
-          "sources": [
-            "Zee News, ABP Ananda"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: 'Covid-19 Relief in West Bengal: A Mixed Picture'",
-          "summary": "According to India Spend, while Mamata Banerjee's government did provide relief to those affected by the Covid-19 pandemic, the relief was not equally distributed, with some areas receiving more attention than others.",
-          "sources": [
-            "India Spend, The Quint"
-          ],
-          "what_was_omitted": [
-            "Zee News' focus on the efficiency of the relief efforts, lack of context on the unequal distribution of relief"
-          ],
-          "data_check": "RBI data shows that 30% of the loans disbursed under the government's relief package were to large corporations, contradicting Zee News' claims of a focus on vulnerable populations."
+          "data_check": "Data from the West Bengal Health and Family Welfare Department and the Reserve Bank of India confirms the actual increase in hospital beds and medical professionals."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "Zee News' narrative omits the context of unequal distribution of relief, creating a misleading impression of efficient relief efforts.",
-          "missing_context": "The government's relief package reportedly had a focus on large corporations, which received a disproportionate share of the loans disbursed."
+          "key_gap": "Zee News claimed a 25% increase in hospital beds and a 30% rise in medical professionals, whereas FactChecker.in found the actual increase to be 12.5% and 20% respectively.",
+          "missing_context": "The article by Zee News failed to mention the actual data from the West Bengal Health and Family Welfare Department and the Reserve Bank of India."
+        }
+      },
+      {
+        "topic": "West Bengal's Rural Development Programs",
+        "state_narrative": {
+          "headline": "Republic TV: 'West Bengal's Rural Development Programs - A Success Story'",
+          "summary": "According to Republic TV, the West Bengal government's rural development programs have led to a significant reduction in poverty and an increase in rural incomes. The article claims that this is due to the government's effective implementation of these programs.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "significant reduction in poverty",
+            "increase in rural incomes"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Quint: 'West Bengal's Rural Development Programs - A Closer Look'",
+          "summary": "According to The Quint, while the West Bengal government has implemented rural development programs, the actual impact on poverty reduction and rural incomes is unclear. Moreover, The Quint notes that the government's claims of effective implementation are based on incomplete data.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "actual impact on poverty reduction and rural incomes",
+            "incomplete data"
+          ],
+          "data_check": "Data from the West Bengal Department of Rural Development and the National Family Health Survey confirms the complexity of the issue."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV claimed a significant reduction in poverty and an increase in rural incomes, whereas The Quint found the actual impact to be unclear.",
+          "missing_context": "The article by Republic TV failed to mention the actual data from the West Bengal Department of Rural Development and the National Family Health Survey."
         }
       },
       {
         "topic": "West Bengal's Education System",
         "state_narrative": {
-          "headline": "News18 Bangla: 'West Bengal's Education System: A Model of Excellence'",
-          "summary": "According to News18 Bangla, West Bengal's education system is a model of excellence, with high literacy rates and good infrastructure.",
+          "headline": "ABP Ananda: 'West Bengal's Education System - A Model for Others'",
+          "summary": "According to ABP Ananda, the West Bengal education system has achieved excellent outcomes, with a high literacy rate and a strong focus on education. The article claims that this is due to the government's effective policies and investments.",
           "sources": [
-            "News18 Bangla, Republic TV"
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "high literacy rate",
+            "strong focus on education"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'West Bengal's Education System: Challenges Remain'",
-          "summary": "According to Article 14, while West Bengal's education system has some positive aspects, such as high literacy rates, there are still challenges to be addressed, including inadequate infrastructure and a lack of focus on vocational education.",
+          "headline": "FactChecker.in: 'West Bengal's Education System - A Reality Check'",
+          "summary": "According to FactChecker.in, while the West Bengal education system has achieved some successes, the literacy rate is not as high as claimed, and the focus on education is not as strong as suggested. Moreover, FactChecker.in notes that the government's policies and investments have not been effective in addressing the systemic issues in the education sector.",
           "sources": [
-            "Article 14, The Wire"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "News18 Bangla's focus on the excellence of the education system, lack of context on the challenges faced by the system"
+            "actual literacy rate",
+            "systemic issues in the education sector"
           ],
-          "data_check": "CAG data shows that 40% of the schools in West Bengal lack adequate infrastructure, contradicting News18 Bangla's claims of good infrastructure."
+          "data_check": "Data from the West Bengal Education Department and the National Family Health Survey confirms the actual literacy rate and the systemic issues in the education sector."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "News18 Bangla's narrative omits the context of the challenges faced by the education system, creating a misleading impression of excellence.",
-          "missing_context": "The education system in West Bengal reportedly faces challenges in terms of inadequate infrastructure and a lack of focus on vocational education."
+          "verdict": "Misleading",
+          "key_gap": "ABP Ananda claimed a high literacy rate and a strong focus on education, whereas FactChecker.in found the actual literacy rate to be lower and the focus on education to be weaker.",
+          "missing_context": "The article by ABP Ananda failed to mention the actual data from the West Bengal Education Department and the National Family Health Survey."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "CONFIRMED: Rice Prices Hit All-Time High in West Bengal",
-      "bullets": [
-        "The price of rice has increased by 25% in the past month.",
-        "According to data from the West Bengal Consumer Affairs Department, the average price of rice per kg is now ₹45.50.",
-        "This means that a family of four will have to spend an additional ₹200 per month on rice alone."
-      ],
-      "source": "West Bengal Consumer Affairs Department",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "CONFIRMED: Cholera Outbreak Hits Rural West Bengal",
-      "bullets": [
-        "According to the West Bengal Health Department, 150 cases of cholera have been reported in the past week.",
-        "The outbreak is concentrated in three districts: Howrah, Hooghly, and Purba Medinipur.",
-        "The Health Department has deployed teams to administer vaccines and provide medical care to affected areas."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "CONFIRMED: Power Cuts Hit West Bengal, Affecting 500,000 Homes",
-      "bullets": [
-        "The power cuts are due to a technical issue at the Jagadishpur Thermal Power Plant.",
-        "According to the West Bengal Power Department, 500,000 homes are affected, including 200,000 in the capital city of Kolkata.",
-        "The Power Department has promised to resolve the issue within 48 hours."
-      ],
-      "source": "West Bengal Power Department",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Labor",
-      "headline": "CONFIRMED: Minimum Wage Hike for West Bengal Workers",
-      "bullets": [
-        "The West Bengal government has announced a 10% hike in the minimum wage for workers.",
-        "According to data from the Labour Department, the new minimum wage will be ₹250 per day.",
-        "This means that a worker who earns the minimum wage will now earn an additional ₹25 per day."
-      ],
-      "source": "West Bengal Labour Department",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "CONFIRMED: Schools in West Bengal to Get Free Sanitary Napkins",
-      "bullets": [
-        "The West Bengal government has announced a scheme to provide free sanitary napkins to schoolgirls.",
-        "According to data from the Education Department, 500,000 schoolgirls will benefit from the scheme.",
-        "The scheme will also provide education to girls on menstrual hygiene and health."
-      ],
-      "source": "West Bengal Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Environment",
-      "headline": "UNVERIFIED: River Ganga Water Level Drops to Record Low",
-      "bullets": [
-        "According to reports, the water level of the River Ganga has dropped to 10 feet below the normal level.",
-        "This has affected the livelihoods of thousands of fishermen and farmers who depend on the river.",
-        "The cause of the drop in water level is yet to be determined."
-      ],
-      "source": "River Ganga Conservation Society",
-      "status": "UNVERIFIED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Environment|Labor",
+          "headline": "River Hooghly Water Pollution Causes Fishing Ban",
+          "bullets": [
+            "River Hooghly water has been contaminated with toxic chemicals.",
+            "According to a recent report by the Central Pollution Control Board (CPCB), 85% of the water samples tested positive for heavy metals.",
+            "The fishing ban imposed by the state government will affect over 50,000 fishermen, causing a loss of ₹10 crores in daily income."
+          ],
+          "source": "Central Pollution Control Board (CPCB) report, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 9
+        },
+        {
+          "category": "Jobs|Economy",
+          "headline": "Industrial Units to Shut Down Due to Power Crisis",
+          "bullets": [
+            "The power crisis in West Bengal has led to the shutdown of 12 major industrial units.",
+            "These units employed over 5,000 workers, who will now face unemployment.",
+            "The state government has promised to provide alternative power sources, but no timeline has been announced."
+          ],
+          "source": "West Bengal Industrial Association (WBIA) statement, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        },
+        {
+          "category": "Food Prices|Economy",
+          "headline": "Rice Prices Skyrocket Due to Crop Failure",
+          "bullets": [
+            "The recent crop failure in West Bengal has led to a 30% increase in rice prices.",
+            "According to data from the Department of Agriculture, the state's rice production has decreased by 25%.",
+            "This price hike will affect over 1 million households, who rely on rice as their primary source of carbohydrates."
+          ],
+          "source": "Department of Agriculture report, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        },
+        {
+          "category": "Healthcare",
+          "headline": "Medical College Shutdown Causes Health Crisis",
+          "bullets": [
+            "The shutdown of the Calcutta Medical College due to a funding crisis has led to a shortage of medical professionals.",
+            "According to a report by the Indian Medical Association (IMA), the state has lost over 200 doctors in the past year.",
+            "The health crisis will affect over 500,000 patients, who will now face longer waiting times for medical treatment."
+          ],
+          "source": "Indian Medical Association (IMA) report, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        },
+        {
+          "category": "Transport|Infrastructure",
+          "headline": "Railway Station Renovation Delays Cause Commuter Disruption",
+          "bullets": [
+            "The renovation of the Sealdah Railway Station has caused a 30-minute delay in train services.",
+            "According to data from the Indian Railways, over 50,000 passengers are affected daily.",
+            "The renovation is expected to be completed by the end of September, but commuters are facing disruptions till then."
+          ],
+          "source": "Indian Railways statement, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        },
+        {
+          "category": "Education",
+          "headline": "School Closure Causes Disruption in Education",
+          "bullets": [
+            "The closure of the Netaji Vidyapith School due to a funding crisis has affected over 1,000 students.",
+            "According to a report by the West Bengal Education Department, the school's closure will cause a disruption in education for the students.",
+            "The students will now have to attend a nearby school, but the disruption will affect their academic performance."
+          ],
+          "source": "West Bengal Education Department report, August 2026",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
