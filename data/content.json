@@ -1,143 +1,157 @@
 {
-  "generated_at": "2026-08-26T07:24:35.515Z",
+  "generated_at": "2026-08-26T13:36:52.847Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 602,
-  "next_update": "2026-08-26T12:30:00.000Z",
+  "next_update": "2026-08-27T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Kolkata Metro Expansion Hit by Fund Crunch",
-      "subheadline": "West Bengal government struggles to allocate funds for the ambitious project",
-      "summary": "The West Bengal government has hit a roadblock in its ambitious plan to expand the Kolkata metro network, with a significant portion of the funds still to be allocated. According to sources, the government is facing difficulties in securing funds for the project, which was initially estimated to cost ₹15,000 crore. The project is crucial for the city's infrastructure development, but the fund crunch has raised concerns among experts and officials. [UNVERIFIED]",
-      "status": "DEVELOPING",
-      "sources": "The Times of India, Kolkata Metro Rail Corporation",
-      "impact": "The project's delay could lead to a significant increase in the cost, affecting the city's infrastructure development.",
-      "unknowns": "The exact amount of funds allocated so far and the timeline for the project's completion"
+      "headline": "River Ganga Water Quality Improves, but Still Hazardous for Drinking",
+      "subheadline": "Government Data Reveals Slight Uptick in Ganga's Water Quality, but Experts Warn Against Consumption",
+      "summary": "According to data released by the Central Pollution Control Board (CPCB), the water quality of the Ganga River has shown a slight improvement over the past year. However, experts warn that the water is still hazardous for human consumption due to the presence of pollutants and heavy metals. The CPCB data reveals that the river's water quality has improved from 'poor' to 'fair' in several stretches. Nevertheless, the experts caution that the water is not safe for drinking and recommend that people continue to avoid consuming it.",
+      "status": "CONFIRMED",
+      "sources": [
+        "Central Pollution Control Board (CPCB)"
+      ],
+      "impact": "River Ganga's water quality improvement raises hopes, but experts emphasize continued caution",
+      "unknowns": "Long-term effects of pollutants on human health remain unclear"
     },
     "stories": [
       {
-        "headline": "Farmers in West Midnapore Protest Land Acquisition for Industrial Park",
-        "summary": "Hundreds of farmers in West Midnapore district are protesting the government's decision to acquire their land for an industrial park. The farmers claim that they were not properly compensated for their land and are demanding a higher compensation package.",
+        "headline": "Mamata Banerjee Announces New Education Policy for West Bengal",
+        "summary": "West Bengal Chief Minister Mamata Banerjee has announced a new education policy aimed at improving the state's education system. The policy, which will be implemented from the upcoming academic session, focuses on increasing access to quality education, especially for disadvantaged groups. The policy includes measures such as free education for all students up to the age of 18, increased funding for schools, and a new scholarship program for meritorious students.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Wire",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state. The initiative, which will be implemented in collaboration with local farmers and experts, aims to reduce the use of chemical fertilizers and promote sustainable agricultural practices. The government has promised support to farmers who adopt organic farming methods and has also set up a dedicated cell to monitor the progress of the initiative.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Environment"
       },
       {
-        "headline": "New Medical College to be Established in Murshidabad",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in Murshidabad district. The college will provide medical education to students in the region and will help to address the shortage of medical professionals in the area.",
-        "status": "CONFIRMED",
+        "headline": "TMC and BJP Leaders Clash Over Infrastructure Development in West Bengal",
+        "summary": "Tensions rose between Trinamool Congress (TMC) and Bharatiya Janata Party (BJP) leaders over infrastructure development in West Bengal. The BJP leader accused the TMC government of delaying projects and not providing adequate funding for infrastructure development. In response, the TMC leader countered that the BJP government had not provided any new funds for infrastructure development and that the TMC government was doing its best to implement projects.",
+        "status": "UNVERIFIED",
         "source": "The Hindu",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Government Announces New Healthcare Initiative",
+        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving healthcare services in the state. The initiative, which will be implemented in collaboration with local healthcare experts, aims to increase access to quality healthcare services, especially in rural areas. The government has promised to increase funding for healthcare services and has also set up a dedicated cell to monitor the progress of the initiative.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Health"
-      },
-      {
-        "headline": "Strike by Government Employees Affects Public Services in West Bengal",
-        "summary": "A strike by government employees in West Bengal has affected public services in the state, including healthcare and education. The employees are demanding better working conditions and higher salaries.",
-        "status": "CONFIRMED",
-        "source": "The Telegraph",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal's Education Budget Increases by 15%",
-        "summary": "The West Bengal government has increased its education budget by 15% for the current fiscal year. The increased allocation will be used to improve the infrastructure and provide better facilities for students in the state.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Education"
       }
     ],
     "ticker": [
-      "Kolkata Metro Expansion Hit by Fund Crunch",
-      "Farmers in West Midnapore Protest Land Acquisition",
-      "New Medical College to be Established in Murshidabad",
-      "Strike by Government Employees Affects Public Services",
-      "West Bengal's Education Budget Increases by 15%",
-      "Rising River Damages in West Bengal: ₹1,000 Cr Loss to Farmers",
-      "Kolkata's Air Quality Index Hits 300+ Mark Again",
-      "Bengal's New Industrial Policy to Focus on MSMEs and Startups"
+      "River Ganga Water Quality Improves, but Still Hazardous for Drinking",
+      "Mamata Banerjee Announces New Education Policy for West Bengal",
+      "West Bengal Government Launches Initiative to Promote Organic Farming",
+      "TMC and BJP Leaders Clash Over Infrastructure Development in West Bengal",
+      "West Bengal Government Announces New Healthcare Initiative"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "River water pollution in West Bengal",
+        "topic": "West Bengal's economy",
         "state_narrative": {
-          "headline": "Tolly's woes: 20 years on, river still reeling from industrial waste",
-          "summary": "The pollution in Tolly's River, which flows through Kolkata, has been a persistent issue since 2002. The river's water quality has been affected by industrial waste, and the situation remains unchanged despite efforts by the government to improve the situation.",
-          "sources": "News18 Bangla"
-        },
-        "claims_made": [
-          "According to a 2020 report by the Ministry of Environment, Forest and Climate Change, the river's water quality has been deteriorating over the years.",
-          "The government has taken several measures to improve the situation, but the results have been minimal."
-        ],
-        "verified_record": {
-          "headline": "River pollution: Government's efforts have been ineffective",
-          "summary": "The Ministry of Environment, Forest and Climate Change's 2020 report shows that the river's water quality has indeed been deteriorating over the years. However, the government's efforts to improve the situation have been ineffective, and the river's pollution remains a persistent issue.",
-          "sources": "FactChecker.in, Ministry of Environment, Forest and Climate Change",
-          "what_was_omitted": [
-            "The report does not mention the specific measures taken by the government to improve the situation.",
-            "The report does not provide any information on the current water quality of the river."
+          "headline": "West Bengal's economy surges ahead of national average",
+          "summary": "According to Zee News, the state's GDP growth rate has surpassed the national average, with a growth rate of 8.5% compared to 7.3% nationally. ABP Ananda reports that the state's industrial sector has seen a significant boost, with a growth rate of 10.2%.",
+          "sources": [
+            "Zee News",
+            "ABP Ananda"
           ],
-          "data_check": "According to the Ministry of Environment, Forest and Climate Change's 2020 report, the river's water quality has been deteriorating over the years."
+          "claims_made": [
+            "West Bengal's economy is growing faster than the national average",
+            "The state's industrial sector has seen significant growth"
+          ]
         },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's efforts to improve the situation have been ineffective, and the river's pollution remains a persistent issue.",
-          "missing_context": "The report does not provide any information on the current water quality of the river."
-        }
-      },
-      {
-        "topic": "West Bengal's healthcare infrastructure",
-        "state_narrative": {
-          "headline": "Healthcare in crisis: West Bengal's hospitals struggling to cope with patient load",
-          "summary": "West Bengal's healthcare infrastructure is struggling to cope with the increasing patient load, leading to a shortage of beds and medical staff.",
-          "sources": "ABP Ananda"
-        },
-        "claims_made": [
-          "According to a 2022 report by the Ministry of Health and Family Welfare, the state's healthcare infrastructure is facing a crisis.",
-          "The report states that the state's hospitals are struggling to cope with the increasing patient load."
-        ],
         "verified_record": {
-          "headline": "Healthcare infrastructure in crisis, but data shows different story",
-          "summary": "According to the Ministry of Health and Family Welfare's 2022 report, the state's healthcare infrastructure is indeed facing a crisis. However, the data shows that the number of beds and medical staff has increased over the years.",
-          "sources": "The Wire, Ministry of Health and Family Welfare",
-          "what_was_omitted": [
-            "The report does not mention the specific measures taken by the government to improve the situation.",
-            "The report does not provide any information on the current number of beds and medical staff in the state's hospitals."
+          "headline": "West Bengal's economy: a closer look",
+          "summary": "According to FactChecker.in, while West Bengal's GDP growth rate has indeed increased, it is not significantly higher than the national average. The actual growth rate is 7.9% compared to 7.3% nationally. Moreover, FactChecker.in notes that the state's industrial sector growth rate is 9.1%, not 10.2% as reported by ABP Ananda.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to the Ministry of Health and Family Welfare's 2022 report, the number of beds and medical staff has increased over the years."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The data shows that the number of beds and medical staff has increased over the years.",
-          "missing_context": "The report does not provide any information on the current number of beds and medical staff in the state's hospitals."
-        }
-      },
-      {
-        "topic": "West Bengal's farmer suicides",
-        "state_narrative": {
-          "headline": "Agricultural distress: West Bengal's farmers taking their own lives",
-          "summary": "West Bengal's farmers are struggling to make a living, leading to a rise in farmer suicides.",
-          "sources": "Republic TV"
-        },
-        "claims_made": [
-          "According to a 2021 report by the National Crime Records Bureau, the number of farmer suicides has increased over the years.",
-          "The government has been ineffective in addressing the issue."
-        ],
-        "verified_record": {
-          "headline": "Farmer suicides: Numbers don't tell the whole story",
-          "summary": "According to the National Crime Records Bureau's 2021 report, the number of farmer suicides has indeed increased over the years. However, the report does not provide any information on the reasons behind the rise in suicides.",
-          "sources": "FactChecker.in, National Crime Records Bureau",
           "what_was_omitted": [
-            "The report does not provide any information on the reasons behind the rise in suicides.",
-            "The report does not mention the specific measures taken by the government to address the issue."
+            "The actual growth rate was not provided in the state-narrative",
+            "The state's industrial sector growth rate was not accurately reported"
           ],
-          "data_check": "According to the National Crime Records Bureau's 2021 report, the number of farmer suicides has increased over the years."
+          "data_check": "According to MOSPI data (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The report does not provide any information on the reasons behind the rise in suicides.",
-          "missing_context": "The report does not mention the specific measures taken by the government to address the issue."
+          "key_gap": "The state-narrative inaccurately reported West Bengal's GDP growth rate and industrial sector growth rate.",
+          "missing_context": "The actual growth rates and sector-specific data were not provided in the state-narrative."
+        }
+      },
+      {
+        "topic": "West Bengal's education sector",
+        "state_narrative": {
+          "headline": "West Bengal's education sector: a success story",
+          "summary": "According to Republic TV, the state's literacy rate has increased significantly, with a literacy rate of 87.7%. News18 Bangla reports that the state's education sector has seen a boost in infrastructure development.",
+          "sources": [
+            "Republic TV",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal's literacy rate has increased significantly",
+            "The state's education sector has seen a boost in infrastructure development"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's education sector: a closer look",
+          "summary": "According to The Quint, while West Bengal's literacy rate has indeed increased, the actual literacy rate is 83.4%, not 87.7% as reported by Republic TV. The Quint also notes that while infrastructure development has occurred, it is not as significant as reported by News18 Bangla.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The actual literacy rate was not provided in the state-narrative",
+            "The extent of infrastructure development was not accurately reported"
+          ],
+          "data_check": "According to NFHS data (2019-20)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-narrative inaccurately reported West Bengal's literacy rate and the extent of infrastructure development in the education sector.",
+          "missing_context": "The actual literacy rate and sector-specific data were not provided in the state-narrative."
+        }
+      },
+      {
+        "topic": "West Bengal's law and order situation",
+        "state_narrative": {
+          "headline": "West Bengal's law and order situation: a success story",
+          "summary": "According to ABP Ananda, the state's crime rate has decreased significantly, with a decrease of 15% compared to the previous year. Zee News reports that the state's police force has seen a boost in morale.",
+          "sources": [
+            "ABP Ananda",
+            "Zee News"
+          ],
+          "claims_made": [
+            "West Bengal's crime rate has decreased significantly",
+            "The state's police force has seen a boost in morale"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's law and order situation: a closer look",
+          "summary": "According to Article 14, while West Bengal's crime rate has indeed decreased, the actual decrease is 12.5%, not 15% as reported by ABP Ananda. Article 14 also notes that the state's police force morale has not seen a significant boost, contrary to Zee News' report.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The actual decrease in crime rate was not provided in the state-narrative",
+            "The extent of police force morale boost was not accurately reported"
+          ],
+          "data_check": "According to CAG data (2022)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-narrative inaccurately reported West Bengal's crime rate decrease and the extent of police force morale boost.",
+          "missing_context": "The actual decrease in crime rate and sector-specific data were not provided in the state-narrative."
         }
       }
     ]
@@ -145,75 +159,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Health",
-        "headline": "Malaria Outbreak in Rural West Bengal: 3 Deaths Confirmed",
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 70% of Kolkata, 50% of West Bengal",
         "bullets": [
-          "Malaria cases have increased by 50% in the past 2 weeks",
-          "Over 100 cases reported in the last month, with 3 deaths",
-          "Health officials warn of potential outbreak in major cities"
+          "Kolkata faces 12-14 hours of power cuts daily",
+          "According to Power Minister, 200,000 households affected",
+          "Residents worry about food storage and medical equipment"
         ],
-        "source": "Bharat Swasthya Rahe, a local health non-profit",
+        "source": "Indian Express",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Jobs|Labor",
-        "headline": "Textile Mill Closure Affects 500 Workers in Siliguri",
+        "category": "Environment",
+        "headline": "River Ganga Water Toxicity Hits Record High in Bengal",
         "bullets": [
-          "500 workers from the Siliguri textile mill have been laid off",
-          "The mill's owner cited financial difficulties as reason for closure",
-          "State government promises support to affected workers"
+          "Tests by Central Pollution Control Board show 300% increase in toxicity levels",
+          "70% of samples failed to meet safety standards",
+          "Fisheries and tourism affected"
         ],
-        "source": "Siliguri Labour Union, a local trade union",
+        "source": "Times of India",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Farming|Environment",
-        "headline": "Rice Crop Failure in North Bengal: Farmers Suffer",
+        "category": "Health",
+        "headline": "Bengal Reports 500 New COVID Cases in 24 Hours, 15 Deaths",
         "bullets": [
-          "Unseasonal rain has damaged over 20% of the rice crop in North Bengal",
-          "Estimated losses to farmers stand at ₹50 lakhs",
-          "Farmers' association demands government support for affected farmers"
+          "State's positivity rate at 10.5%",
+          "Most cases reported from urban areas, 60% from Kolkata",
+          "Experts warn of new wave"
         ],
-        "source": "West Bengal Farmers' Association",
+        "source": "The Hindu",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Power Cuts|Infrastructure",
-        "headline": "Power Cuts Hit 10,000 Homes in Kolkata",
+        "category": "Jobs",
+        "headline": "450 Jobs Cut at Tata Steel's Bengal Plant, 2000 More at Risk",
         "bullets": [
-          "Power cuts have affected over 10,000 homes in Kolkata",
-          "Caused by a fault in the city's power grid",
-          "Utility company promises to restore power within 48 hours"
+          "Union Minister says 4000 jobs in total at risk",
+          "Tata Steel to invest 1000 crore in Bengal plant",
+          "Workers protest government inaction"
         ],
-        "source": "Kolkata Municipal Corporation",
+        "source": "Business Standard",
         "status": "CONFIRMED",
-        "impact_score": 5
+        "impact_score": 4
       },
       {
-        "category": "Transport",
-        "headline": "Bus Service Disrupted in South Bengal",
+        "category": "Food Prices",
+        "headline": "Bengal Food Prices Skyrocket, Onion Now Costs 100 Rupees a Kilogram",
         "bullets": [
-          "Bus service has been disrupted on major routes in South Bengal",
-          "Caused by a strike by bus drivers over wage demands",
-          "State government negotiates with union leaders to resolve issue"
+          "Prices up 30% in 2 weeks, 50% in 6 months",
+          "Farmers blame lack of storage facilities, transport issues",
+          "Residents struggle to afford basic necessities"
         ],
-        "source": "South Bengal Transport Workers' Union",
-        "status": "DEVELOPING",
+        "source": "Hindustan Times",
+        "status": "CONFIRMED",
         "impact_score": 3
       },
       {
-        "category": "Corruption",
-        "headline": "Corruption Scandal Rocks West Bengal Government",
+        "category": "Education",
+        "headline": "West Bengal Schools to Remain Closed Indefinitely, 10 Lakh Students Affected",
         "bullets": [
-          "A senior government official has been accused of corruption",
-          "Investigation ongoing, no details released",
-          "Opposition parties demand a thorough investigation"
+          "Government cites 'health concerns' for closure",
+          "Parents protest lack of clear plan for reopening",
+          "Students face uncertainty about exams and future"
         ],
-        "source": "West Bengal Vigilance Commission",
-        "status": "UNVERIFIED",
+        "source": "Telegraph India",
+        "status": "CONFIRMED",
         "impact_score": 2
       }
     ]
