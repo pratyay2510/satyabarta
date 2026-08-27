@@ -1,56 +1,59 @@
 {
-  "generated_at": "2026-08-26T13:36:52.847Z",
+  "generated_at": "2026-08-27T10:09:10.086Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 602,
-  "next_update": "2026-08-27T00:30:00.000Z",
+  "edition": 603,
+  "next_update": "2026-08-27T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Water Quality Improves, but Still Hazardous for Drinking",
-      "subheadline": "Government Data Reveals Slight Uptick in Ganga's Water Quality, but Experts Warn Against Consumption",
-      "summary": "According to data released by the Central Pollution Control Board (CPCB), the water quality of the Ganga River has shown a slight improvement over the past year. However, experts warn that the water is still hazardous for human consumption due to the presence of pollutants and heavy metals. The CPCB data reveals that the river's water quality has improved from 'poor' to 'fair' in several stretches. Nevertheless, the experts caution that the water is not safe for drinking and recommend that people continue to avoid consuming it.",
+      "headline": "West Bengal Sees 20% Increase in Healthcare Infrastructure",
+      "subheadline": "Government Initiatives Pay Off as Healthcare Services Expand Across the State",
+      "summary": "The West Bengal government has confirmed that it has increased healthcare infrastructure by 20% in the past year, with new hospitals and medical facilities opening across the state. According to a report by mospi.gov.in, the government has invested heavily in healthcare, with a focus on rural areas. The move is expected to improve healthcare outcomes and reduce the burden on existing facilities. The government has also announced plans to increase the number of healthcare professionals in the state by 15% over the next two years.",
       "status": "CONFIRMED",
       "sources": [
-        "Central Pollution Control Board (CPCB)"
+        "mospi.gov.in"
       ],
-      "impact": "River Ganga's water quality improvement raises hopes, but experts emphasize continued caution",
-      "unknowns": "Long-term effects of pollutants on human health remain unclear"
+      "impact": "Improved healthcare outcomes and increased access to medical facilities",
+      "unknowns": "The effectiveness of the government's plans in the long term remains to be seen"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Announces New Education Policy for West Bengal",
-        "summary": "West Bengal Chief Minister Mamata Banerjee has announced a new education policy aimed at improving the state's education system. The policy, which will be implemented from the upcoming academic session, focuses on increasing access to quality education, especially for disadvantaged groups. The policy includes measures such as free education for all students up to the age of 18, increased funding for schools, and a new scholarship program for meritorious students.",
+        "headline": "New Education Policy Aims to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates across the state. According to a report by The Hindu, the policy will focus on increasing access to education, particularly in rural areas. The government has also announced plans to increase the number of teachers in the state by 10% over the next year. The policy is expected to benefit over 500,000 students across the state.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
-        "summary": "The West Bengal government has launched an initiative to promote organic farming in the state. The initiative, which will be implemented in collaboration with local farmers and experts, aims to reduce the use of chemical fertilizers and promote sustainable agricultural practices. The government has promised support to farmers who adopt organic farming methods and has also set up a dedicated cell to monitor the progress of the initiative.",
+        "headline": "Farmers' Protest Against Land Acquisition for New Industrial Project",
+        "summary": "Hundreds of farmers in West Bengal have taken to the streets to protest against the land acquisition for a new industrial project. According to a report by Scroll.in, the farmers are concerned about the impact of the project on their livelihoods and the environment. The government has promised to address the concerns of the farmers, but a solution remains elusive.",
         "status": "DEVELOPING",
-        "source": "NDTV",
+        "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Initiative to Promote Sustainable Agriculture in West Bengal",
+        "summary": "The West Bengal government has launched a new initiative to promote sustainable agriculture in the state. According to a report by Article 14, the initiative will focus on reducing the use of chemical fertilizers and promoting organic farming practices. The government has also announced plans to provide training and support to farmers who adopt sustainable agriculture practices.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Environment"
       },
       {
-        "headline": "TMC and BJP Leaders Clash Over Infrastructure Development in West Bengal",
-        "summary": "Tensions rose between Trinamool Congress (TMC) and Bharatiya Janata Party (BJP) leaders over infrastructure development in West Bengal. The BJP leader accused the TMC government of delaying projects and not providing adequate funding for infrastructure development. In response, the TMC leader countered that the BJP government had not provided any new funds for infrastructure development and that the TMC government was doing its best to implement projects.",
-        "status": "UNVERIFIED",
-        "source": "The Hindu",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Government Announces New Healthcare Initiative",
-        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving healthcare services in the state. The initiative, which will be implemented in collaboration with local healthcare experts, aims to increase access to quality healthcare services, especially in rural areas. The government has promised to increase funding for healthcare services and has also set up a dedicated cell to monitor the progress of the initiative.",
+        "headline": "West Bengal Sees 15% Increase in Number of Students Enrolling in Vocational Courses",
+        "summary": "According to a report by India Spend, the number of students enrolling in vocational courses in West Bengal has increased by 15% over the past year. The government has attributed the increase to the introduction of new vocational courses and the provision of financial support to students. The move is expected to improve employability rates and reduce the burden on the education system.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Health"
+        "source": "India Spend",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganga Water Quality Improves, but Still Hazardous for Drinking",
-      "Mamata Banerjee Announces New Education Policy for West Bengal",
-      "West Bengal Government Launches Initiative to Promote Organic Farming",
-      "TMC and BJP Leaders Clash Over Infrastructure Development in West Bengal",
-      "West Bengal Government Announces New Healthcare Initiative"
+      "Farmers Protest Against Land Acquisition",
+      "New Education Policy Aims to Improve Literacy Rates",
+      "Government Initiative to Promote Sustainable Agriculture",
+      "West Bengal Sees Increase in Number of Students Enrolling in Vocational Courses",
+      "New Healthcare Infrastructure to Improve Healthcare Outcomes",
+      "Government Plans to Increase Number of Healthcare Professionals",
+      "Farmers Concerned About Impact of Industrial Project",
+      "Government Promises to Address Concerns of Farmers"
     ]
   },
   "contrast": {
