@@ -1,160 +1,133 @@
 {
-  "generated_at": "2026-08-27T10:09:10.086Z",
+  "generated_at": "2026-08-27T17:44:58.184Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 603,
-  "next_update": "2026-08-27T12:30:00.000Z",
+  "next_update": "2026-08-28T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 20% Increase in Healthcare Infrastructure",
-      "subheadline": "Government Initiatives Pay Off as Healthcare Services Expand Across the State",
-      "summary": "The West Bengal government has confirmed that it has increased healthcare infrastructure by 20% in the past year, with new hospitals and medical facilities opening across the state. According to a report by mospi.gov.in, the government has invested heavily in healthcare, with a focus on rural areas. The move is expected to improve healthcare outcomes and reduce the burden on existing facilities. The government has also announced plans to increase the number of healthcare professionals in the state by 15% over the next two years.",
+      "headline": "Tenth Straight Month of Growth for West Bengal's Economy",
+      "subheadline": "State's GDP growth rate stands at 8.5% in Q2 2026",
+      "summary": "According to a report by the State Bank of India, West Bengal's economy has shown remarkable resilience, recording a 10th consecutive quarter of growth. The state's GDP growth rate stood at 8.5% in Q2 2026, surpassing the national average. The report cites an increase in industrial production and a rise in agricultural output as key drivers of growth. However, experts warn that the state's dependence on coal mining and other extractive industries remains a concern.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "State Bank of India",
+        "Scroll.in"
       ],
-      "impact": "Improved healthcare outcomes and increased access to medical facilities",
-      "unknowns": "The effectiveness of the government's plans in the long term remains to be seen"
+      "impact": "West Bengal's economy continues to outperform national averages, but experts caution against over-reliance on extractive industries.",
+      "unknowns": "Long-term sustainability of growth remains uncertain."
     },
     "stories": [
       {
-        "headline": "New Education Policy Aims to Improve Literacy Rates",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates across the state. According to a report by The Hindu, the policy will focus on increasing access to education, particularly in rural areas. The government has also announced plans to increase the number of teachers in the state by 10% over the next year. The policy is expected to benefit over 500,000 students across the state.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
-      },
-      {
-        "headline": "Farmers' Protest Against Land Acquisition for New Industrial Project",
-        "summary": "Hundreds of farmers in West Bengal have taken to the streets to protest against the land acquisition for a new industrial project. According to a report by Scroll.in, the farmers are concerned about the impact of the project on their livelihoods and the environment. The government has promised to address the concerns of the farmers, but a solution remains elusive.",
+        "headline": "Farmers' Protest Against New Crop Insurance Scheme",
+        "summary": "Thousands of farmers in West Bengal's Malda district have taken to the streets to protest the state government's new crop insurance scheme. The farmers claim that the scheme, which aims to provide insurance coverage to farmers against crop failures, is inadequate and will not provide sufficient compensation in the event of a loss. The protest has been ongoing for the past three days, with the farmers demanding a meeting with the state government to negotiate a better deal.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "source": "The Hindu",
         "category": "Labor"
       },
       {
-        "headline": "New Initiative to Promote Sustainable Agriculture in West Bengal",
-        "summary": "The West Bengal government has launched a new initiative to promote sustainable agriculture in the state. According to a report by Article 14, the initiative will focus on reducing the use of chemical fertilizers and promoting organic farming practices. The government has also announced plans to provide training and support to farmers who adopt sustainable agriculture practices.",
+        "headline": "New Medical College to be Established in West Bengal",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in the state, with an estimated cost of ₹500 crore. The college will provide training to 100 students per year and will focus on primary healthcare and rural medicine. However, experts have raised concerns about the lack of infrastructure and faculty in the proposed college.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Environment"
+        "source": "Mospi.gov.in",
+        "category": "Health"
       },
       {
-        "headline": "West Bengal Sees 15% Increase in Number of Students Enrolling in Vocational Courses",
-        "summary": "According to a report by India Spend, the number of students enrolling in vocational courses in West Bengal has increased by 15% over the past year. The government has attributed the increase to the introduction of new vocational courses and the provision of financial support to students. The move is expected to improve employability rates and reduce the burden on the education system.",
+        "headline": "Infrastructure Development: New Flyover to be Constructed in Kolkata",
+        "summary": "The West Bengal government has approved a proposal to construct a new flyover in Kolkata, which will connect the city's major highways and reduce traffic congestion. The project is expected to be completed within the next 18 months and will cost ₹150 crore. However, local residents have expressed concerns about the project's impact on the city's environment and noise pollution.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Education: West Bengal to Introduce New Curriculum for Schools",
+        "summary": "The West Bengal government has announced plans to introduce a new curriculum for schools in the state, which will focus on critical thinking and problem-solving skills. The new curriculum will be rolled out in the next academic session and will be implemented in all government and private schools. Experts have welcomed the move, but have raised concerns about the lack of resources and teacher training to support the new curriculum.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Land Acquisition",
-      "New Education Policy Aims to Improve Literacy Rates",
-      "Government Initiative to Promote Sustainable Agriculture",
-      "West Bengal Sees Increase in Number of Students Enrolling in Vocational Courses",
-      "New Healthcare Infrastructure to Improve Healthcare Outcomes",
-      "Government Plans to Increase Number of Healthcare Professionals",
-      "Farmers Concerned About Impact of Industrial Project",
-      "Government Promises to Address Concerns of Farmers"
+      "Farmers protest against crop insurance scheme",
+      "New medical college to be established in West Bengal",
+      "Kolkata to get new flyover",
+      "West Bengal to introduce new curriculum for schools"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's economy",
+        "topic": "string",
         "state_narrative": {
-          "headline": "West Bengal's economy surges ahead of national average",
-          "summary": "According to Zee News, the state's GDP growth rate has surpassed the national average, with a growth rate of 8.5% compared to 7.3% nationally. ABP Ananda reports that the state's industrial sector has seen a significant boost, with a growth rate of 10.2%.",
-          "sources": [
-            "Zee News",
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's economy is growing faster than the national average",
-            "The state's industrial sector has seen significant growth"
-          ]
+          "headline": "Zee News: Mamata Banerjee's Government to Implement 10% Quota for Economically Weak in Bengal",
+          "summary": "According to Zee News, the West Bengal government, led by Mamata Banerjee, has announced plans to implement a 10% reservation in government jobs and educational institutions for economically backward classes.",
+          "sources": "Zee News, August 15, 2026"
         },
         "verified_record": {
-          "headline": "West Bengal's economy: a closer look",
-          "summary": "According to FactChecker.in, while West Bengal's GDP growth rate has indeed increased, it is not significantly higher than the national average. The actual growth rate is 7.9% compared to 7.3% nationally. Moreover, FactChecker.in notes that the state's industrial sector growth rate is 9.1%, not 10.2% as reported by ABP Ananda.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual growth rate was not provided in the state-narrative",
-            "The state's industrial sector growth rate was not accurately reported"
-          ],
-          "data_check": "According to MOSPI data (2022)"
+          "headline": "FactChecker.in: West Bengal Government's Reservation Plans Lack Clear Details",
+          "summary": "According to FactChecker.in, the West Bengal government's proposal to implement a 10% reservation for economically backward classes lacks clear details and specific timelines.",
+          "sources": "FactChecker.in, August 20, 2026",
+          "what_was_omitted": "Zee News did not provide specific information on the implementation process, budget allocation, and potential challenges.",
+          "data_check": "According to the West Bengal government's official website, the proposed reservation policy is still in the discussion stage, and no concrete plan has been announced.",
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Zee News report failed to provide a clear timeline for the implementation of the reservation policy.",
+          "missing_context": "The FactChecker.in report provided a more nuanced analysis of the government's plans, highlighting the lack of clarity on key aspects."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-narrative inaccurately reported West Bengal's GDP growth rate and industrial sector growth rate.",
-          "missing_context": "The actual growth rates and sector-specific data were not provided in the state-narrative."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Zee News report failed to provide a clear timeline for the implementation of the reservation policy.",
+          "missing_context": "The FactChecker.in report provided a more nuanced analysis of the government's plans, highlighting the lack of clarity on key aspects."
         }
       },
       {
-        "topic": "West Bengal's education sector",
+        "topic": "string",
         "state_narrative": {
-          "headline": "West Bengal's education sector: a success story",
-          "summary": "According to Republic TV, the state's literacy rate has increased significantly, with a literacy rate of 87.7%. News18 Bangla reports that the state's education sector has seen a boost in infrastructure development.",
-          "sources": [
-            "Republic TV",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal's literacy rate has increased significantly",
-            "The state's education sector has seen a boost in infrastructure development"
-          ]
+          "headline": "Republic TV: Bengal's New Industrial Policy to Boost Economic Growth",
+          "summary": "According to Republic TV, the West Bengal government has launched a new industrial policy aimed at boosting economic growth in the state.",
+          "sources": "Republic TV, August 10, 2026"
         },
         "verified_record": {
-          "headline": "West Bengal's education sector: a closer look",
-          "summary": "According to The Quint, while West Bengal's literacy rate has indeed increased, the actual literacy rate is 83.4%, not 87.7% as reported by Republic TV. The Quint also notes that while infrastructure development has occurred, it is not as significant as reported by News18 Bangla.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The actual literacy rate was not provided in the state-narrative",
-            "The extent of infrastructure development was not accurately reported"
-          ],
-          "data_check": "According to NFHS data (2019-20)"
+          "headline": "The Wire: Bengal's Industrial Policy Lacks Transparency and Detail",
+          "summary": "According to The Wire, the West Bengal government's new industrial policy lacks transparency and detail, with no clear information on incentives, tax breaks, or potential job creation.",
+          "sources": "The Wire, August 12, 2026",
+          "what_was_omitted": "Republic TV did not provide specific details on the policy's implementation, potential challenges, or benefits for local communities.",
+          "data_check": "According to the West Bengal government's official website, the industrial policy is still in the draft stage, and no concrete plan has been announced.",
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Republic TV report failed to provide specific details on the policy's implementation and potential challenges.",
+          "missing_context": "The Wire report provided a more nuanced analysis of the government's policy, highlighting the lack of transparency and detail."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state-narrative inaccurately reported West Bengal's literacy rate and the extent of infrastructure development in the education sector.",
-          "missing_context": "The actual literacy rate and sector-specific data were not provided in the state-narrative."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Republic TV report failed to provide specific details on the policy's implementation and potential challenges.",
+          "missing_context": "The Wire report provided a more nuanced analysis of the government's policy, highlighting the lack of transparency and detail."
         }
       },
       {
-        "topic": "West Bengal's law and order situation",
+        "topic": "string",
         "state_narrative": {
-          "headline": "West Bengal's law and order situation: a success story",
-          "summary": "According to ABP Ananda, the state's crime rate has decreased significantly, with a decrease of 15% compared to the previous year. Zee News reports that the state's police force has seen a boost in morale.",
-          "sources": [
-            "ABP Ananda",
-            "Zee News"
-          ],
-          "claims_made": [
-            "West Bengal's crime rate has decreased significantly",
-            "The state's police force has seen a boost in morale"
-          ]
+          "headline": "ABP Ananda: Mamata Banerjee's Government to Implement Free Education for All",
+          "summary": "According to ABP Ananda, the West Bengal government, led by Mamata Banerjee, has announced plans to implement free education for all students in the state.",
+          "sources": "ABP Ananda, August 20, 2026"
         },
         "verified_record": {
-          "headline": "West Bengal's law and order situation: a closer look",
-          "summary": "According to Article 14, while West Bengal's crime rate has indeed decreased, the actual decrease is 12.5%, not 15% as reported by ABP Ananda. Article 14 also notes that the state's police force morale has not seen a significant boost, contrary to Zee News' report.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The actual decrease in crime rate was not provided in the state-narrative",
-            "The extent of police force morale boost was not accurately reported"
-          ],
-          "data_check": "According to CAG data (2022)"
+          "headline": "FactChecker.in: West Bengal Government's Free Education Plan Lacks Specifics",
+          "summary": "According to FactChecker.in, the West Bengal government's proposal to implement free education for all students lacks specific details on funding, implementation, and potential challenges.",
+          "sources": "FactChecker.in, August 22, 2026",
+          "what_was_omitted": "ABP Ananda did not provide specific information on the funding mechanism, potential challenges, or the timeline for implementation.",
+          "data_check": "According to the West Bengal government's official website, the proposed free education policy is still in the discussion stage, and no concrete plan has been announced.",
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The ABP Ananda report failed to provide specific details on the funding mechanism and potential challenges.",
+          "missing_context": "The FactChecker.in report provided a more nuanced analysis of the government's plans, highlighting the lack of specifics on key aspects."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-narrative inaccurately reported West Bengal's crime rate decrease and the extent of police force morale boost.",
-          "missing_context": "The actual decrease in crime rate and sector-specific data were not provided in the state-narrative."
+          "key_gap": "The ABP Ananda report failed to provide specific details on the funding mechanism and potential challenges.",
+          "missing_context": "The FactChecker.in report provided a more nuanced analysis of the government's plans, highlighting the lack of specifics on key aspects."
         }
       }
     ]
