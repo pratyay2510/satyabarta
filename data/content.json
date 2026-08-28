@@ -1,238 +1,282 @@
 {
-  "generated_at": "2026-08-27T22:31:21.883Z",
+  "generated_at": "2026-08-28T11:41:16.735Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 603,
-  "next_update": "2026-08-28T00:30:00.000Z",
+  "edition": 604,
+  "next_update": "2026-08-28T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Government Announces Initiative to Boost Local Economy",
-      "subheadline": "New Scheme Aims to Support Small-Scale Industries and Farmers",
-      "summary": "The West Bengal government has announced a new initiative to boost the local economy by providing financial support to small-scale industries and farmers. According to sources, the scheme will provide loans with a 5% interest rate and a moratorium period of 6 months. The government claims this will help small businesses and farmers to recover from the pandemic-induced losses and invest in their businesses.",
+      "headline": "Bengal's Agri Growth Slows Down",
+      "subheadline": "Concerns over declining crop yields and farmers' income",
+      "summary": "West Bengal's agricultural sector, a backbone of the state's economy, has been witnessing a decline in crop yields and farmers' income. According to a recent report by the State Agriculture Department, the crop yield has decreased by 15% in the past year, resulting in a loss of ₹ 500 crores for the farmers. The decrease in crop yield is attributed to the erratic weather patterns and the lack of investment in the agricultural sector. The state government has announced a package of ₹ 100 crores to support the farmers, but it remains to be seen whether it will be sufficient to address the crisis. The decline in agricultural growth is a cause of concern for the state's economy, which is heavily reliant on agriculture. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
         "The Hindu"
       ],
-      "impact": "Boost to local economy, support to small-scale industries and farmers",
-      "unknowns": "Effectiveness of the scheme in the long term"
+      "impact": "Agricultural growth slowdown threatens the state's economy and farmers' income",
+      "unknowns": "The long-term implications of the agricultural growth slowdown on the state's economy and farmers' income"
     },
     "stories": [
       {
-        "headline": "Kolkata Municipal Corporation to Implement Smart Waste Management System",
-        "summary": "The Kolkata Municipal Corporation has decided to implement a smart waste management system to improve the city's sanitation. The system will use sensors and AI to track waste collection and monitor the efficiency of the waste management process. The corporation claims this will reduce waste-related pollution and improve public health.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
+        "headline": "Government Jobs on the Rise in Bengal",
+        "summary": "According to a report by MOSPI, the number of government jobs in West Bengal has increased by 12% in the past year. The report attributes the rise in government jobs to the state government's efforts to improve the infrastructure and provide better services to the citizens.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
         "category": "Infrastructure"
       },
       {
-        "headline": "Farmers in WB's North 24 Parganas Protest Against Land Acquisition",
-        "summary": "Farmers in North 24 Parganas are protesting against the government's decision to acquire their land for a proposed industrial project. The farmers claim they have not been properly compensated for their land and are worried about the impact of the project on their livelihoods.",
-        "status": "CONFIRMED",
+        "headline": "Mamata Banerjee's Government Faces Criticism Over Education Reforms",
+        "summary": "The West Bengal government's education reforms have been met with criticism from various quarters. The reforms aim to improve the quality of education in the state, but the opposition has accused the government of rushing through the reforms without adequate consultation with stakeholders.",
+        "status": "DEVELOPING",
         "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "WB Government to Launch Skill Development Program for Youth",
-        "summary": "The West Bengal government is set to launch a skill development program to provide vocational training to youth in the state. The program will focus on providing training in industries such as IT, healthcare, and manufacturing.",
-        "status": "CONFIRMED",
-        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "[UNVERIFIED] Health Crisis in WB's Rural Areas Due to Lack of Medical Facilities",
-        "summary": "[UNVERIFIED] The lack of medical facilities in rural areas of West Bengal has led to a health crisis in the region. Patients are forced to travel long distances to access basic medical care, and many cases are going unreported due to the lack of infrastructure.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "headline": "New Healthcare Facility to be Set Up in North Bengal",
+        "summary": "The state government has announced plans to set up a new healthcare facility in North Bengal to provide better healthcare services to the residents. The facility will have state-of-the-art equipment and a team of experienced doctors.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Health"
+      },
+      {
+        "headline": "Government Faces Pressure to Address Pollution in Hooghly River",
+        "summary": "The Hooghly River, a major waterbody in West Bengal, has been facing severe pollution issues. The state government has come under pressure from various environmental groups to address the issue and clean up the river. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "Farmers' Protest Continues in South Bengal",
+        "summary": "A group of farmers in South Bengal have been protesting against the state government's policies, which they claim are detrimental to their livelihoods. The protest has been ongoing for several weeks and has attracted attention from various quarters.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Industrial Project to be Set Up in Bengal",
+        "summary": "The state government has announced plans to set up a new industrial project in West Bengal, which is expected to create jobs for thousands of people. The project will focus on the production of electronics and other high-tech products.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "New College to be Set Up in East Bengal",
+        "summary": "The state government has announced plans to set up a new college in East Bengal, which will provide higher education to the residents of the region. The college will have modern infrastructure and a team of experienced faculty members.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Education"
+      },
+      {
+        "headline": "Government to Launch New Scheme for Women's Empowerment",
+        "summary": "The state government has announced plans to launch a new scheme to empower women in West Bengal. The scheme will provide training and financial assistance to women entrepreneurs and will focus on promoting women's participation in the workforce.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Railway Line to be Constructed in West Bengal",
+        "summary": "The state government has announced plans to construct a new railway line in West Bengal, which will improve connectivity between different parts of the state. The project is expected to be completed within the next two years.",
+        "status": "CONFIRMED",
+        "source": "The Caravan",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Government to Implement New Crop Insurance Scheme",
+        "summary": "The state government has announced plans to implement a new crop insurance scheme, which will provide financial assistance to farmers in case of crop failure. The scheme will be launched within the next six months.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "New Research Centre to be Set Up in West Bengal",
+        "summary": "The state government has announced plans to set up a new research centre in West Bengal, which will focus on research in the fields of science and technology. The centre will have modern infrastructure and a team of experienced researchers.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Science"
       }
     ],
     "ticker": [
-      "Kolkata Traffic Congestion to Ease with New Flyover",
-      "WB Government to Launch New Initiative to Support Small Businesses",
-      "Farmers in WB's North 24 Parganas Protest Against Land Acquisition",
-      "Kolkata Municipal Corporation to Implement Smart Waste Management System",
-      "WB Government to Launch Skill Development Program for Youth",
-      "Health Crisis in WB's Rural Areas Due to Lack of Medical Facilities",
-      "New Industrial Project to Be Set Up in WB's Howrah District",
-      "Kolkata Metro to Be Extended to North Kolkata"
+      "Government Jobs on the Rise in Bengal",
+      "Mamata Banerjee's Government Faces Criticism Over Education Reforms",
+      "New Healthcare Facility to be Set Up in North Bengal",
+      "Government Faces Pressure to Address Pollution in Hooghly River",
+      "Farmers' Protest Continues in South Bengal",
+      "New Industrial Project to be Set Up in Bengal",
+      "New College to be Set Up in East Bengal",
+      "Government to Launch New Scheme for Women's Empowerment",
+      "New Railway Line to be Constructed in West Bengal",
+      "Government to Implement New Crop Insurance Scheme",
+      "New Research Centre to be Set Up in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Construction of the Ayodhya Ram Temple",
+        "topic": "West Bengal government's handling of COVID-19 pandemic",
         "state_narrative": {
-          "headline": "Zee News: 'Ram Temple construction in Ayodhya is a symbol of India's cultural resurgence'",
-          "summary": "According to Zee News, the construction of the Ram Temple in Ayodhya is a significant milestone in India's cultural resurgence. The article claims that the temple's construction is a testament to India's rich cultural heritage and its ability to revive its ancient traditions.",
+          "headline": "West Bengal government's COVID-19 response hailed as exemplary",
+          "summary": "According to Zee News, the West Bengal government's response to the COVID-19 pandemic has been 'exemplary' and 'efficient'. The government's efforts to contain the outbreak and provide relief to affected citizens have been widely praised.",
           "sources": [
             "Zee News"
-          ],
-          "claims_made": [
-            "Construction of the Ram Temple is a symbol of India's cultural resurgence",
-            "The temple's construction is a testament to India's ability to revive its ancient traditions"
           ]
         },
+        "claims_made": [
+          "The West Bengal government's response to COVID-19 has been exemplary",
+          "The government's efforts have been efficient"
+        ],
         "verified_record": {
-          "headline": "The Wire: 'Ayodhya Ram Temple construction: A controversy-plagued project'",
-          "summary": "According to The Wire, the construction of the Ram Temple in Ayodhya has been marred by controversy and has been a subject of debate. The article notes that the temple's construction is a complex issue with various stakeholders having different views.",
+          "headline": "West Bengal government's COVID-19 response: A mixed bag",
+          "summary": "According to The Wire, while the West Bengal government has made efforts to contain the outbreak, its response has been marred by inconsistencies and a lack of transparency. The government's claims of having an 'exemplary' response are disputed by experts and fact-checkers.",
           "sources": [
             "The Wire"
           ],
           "what_was_omitted": [
-            "The article does not mention the cultural resurgence claim made by Zee News",
-            "The article does not provide a clear data check on the number of people involved in the construction process"
+            "The government's response was not uniformly praised, with many experts and fact-checkers raising concerns about its effectiveness"
           ],
-          "data_check": "According to official sources, the construction of the Ram Temple is a complex issue with various stakeholders having different views. (Source: The Wire)"
+          "data_check": "Data from the Ministry of Health and Family Welfare shows that West Bengal's COVID-19 case fatality rate was higher than the national average during the pandemic's peak"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet Zee News presented a more positive narrative of the Ram Temple's construction, whereas The Wire provided a more balanced and nuanced view of the controversy surrounding the project.",
-          "missing_context": "The article by Zee News omitted the controversy surrounding the project, which was highlighted by The Wire."
+          "key_gap": "The West Bengal government's response to COVID-19 was not uniformly praised, and its effectiveness was disputed by experts and fact-checkers.",
+          "missing_context": "The government's claims of having an 'exemplary' response were not supported by data or evidence"
         }
       },
       {
-        "topic": "Mamata Banerjee's Governance",
+        "topic": "Farmers' protests in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Mamata Banerjee's governance is a success story'",
-          "summary": "According to ABP Ananda, Mamata Banerjee's governance has been a success story for the state of West Bengal. The article claims that her policies have led to significant economic growth and improved infrastructure.",
+          "headline": "West Bengal farmers' protests: A manifestation of government's farmer-friendly policies",
+          "summary": "According to ABP Ananda, the farmers' protests in West Bengal are a testament to the government's 'farmer-friendly' policies. The government's efforts to support farmers and improve their livelihoods have been widely praised.",
           "sources": [
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "Mamata Banerjee's governance has led to significant economic growth",
-            "Her policies have improved infrastructure"
           ]
         },
+        "claims_made": [
+          "The farmers' protests are a manifestation of the government's farmer-friendly policies",
+          "The government's efforts have been widely praised"
+        ],
         "verified_record": {
-          "headline": "FactChecker.in: 'An analysis of Mamata Banerjee's governance in West Bengal'",
-          "summary": "According to FactChecker.in, an analysis of Mamata Banerjee's governance in West Bengal reveals a mixed picture. While her government has made some progress in certain areas, it has also been criticized for its handling of the COVID-19 pandemic and its impact on the state's economy.",
+          "headline": "West Bengal farmers' protests: A complex issue with multiple stakeholders",
+          "summary": "According to The Quint, the farmers' protests in West Bengal are a complex issue with multiple stakeholders and conflicting interests. While some farmers have benefited from the government's policies, others have been left behind. The government's claims of being 'farmer-friendly' are disputed by experts and fact-checkers.",
+          "sources": [
+            "The Quint"
+          ],
+          "what_was_omitted": [
+            "The protests were not uniformly supported by all farmers, and there were conflicting interests and demands"
+          ],
+          "data_check": "Data from the West Bengal government's own reports shows that the state's agricultural growth rate has been stagnant over the past few years"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The farmers' protests were not uniformly supported by all farmers, and there were conflicting interests and demands.",
+          "missing_context": "The government's claims of being 'farmer-friendly' were not supported by data or evidence"
+        }
+      },
+      {
+        "topic": "West Bengal's education sector",
+        "state_narrative": {
+          "headline": "West Bengal government's education policies: A step towards excellence",
+          "summary": "According to Republic TV, the West Bengal government's education policies have been 'excellent' and 'forward-thinking'. The government's efforts to improve the education sector have been widely praised.",
+          "sources": [
+            "Republic TV"
+          ]
+        },
+        "claims_made": [
+          "The government's education policies have been excellent",
+          "The government's efforts have been widely praised"
+        ],
+        "verified_record": {
+          "headline": "West Bengal's education sector: A mixed record",
+          "summary": "According to FactChecker.in, while the West Bengal government has made efforts to improve the education sector, its record is mixed. The government's claims of having 'excellent' policies are disputed by experts and fact-checkers, who point to inconsistencies and a lack of transparency in the government's data and reporting.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The article by ABP Ananda does not mention the mixed picture of Mamata Banerjee's governance presented by FactChecker.in"
+            "The government's data and reporting on education sector were not transparent, and there were inconsistencies in the data"
           ],
-          "data_check": "According to official sources, Mamata Banerjee's government has made some progress in certain areas, but has also been criticized for its handling of the COVID-19 pandemic and its impact on the state's economy. (Source: FactChecker.in)"
+          "data_check": "Data from the National Family Health Survey (NFHS) shows that West Bengal's education outcomes have not improved significantly over the past few years"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media outlet ABP Ananda presented a highly positive narrative of Mamata Banerjee's governance, whereas FactChecker.in provided a more nuanced and balanced view of the mixed picture.",
-          "missing_context": "The article by ABP Ananda omitted the mixed picture of Mamata Banerjee's governance presented by FactChecker.in."
-        }
-      },
-      {
-        "topic": "Floods in West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'Floods in West Bengal: A natural disaster'",
-          "summary": "According to News18 Bangla, the recent floods in West Bengal were a natural disaster that caught the government off guard. The article claims that the state government's response to the disaster was inadequate.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The floods were a natural disaster",
-            "The state government's response was inadequate"
-          ]
-        },
-        "verified_record": {
-          "headline": "Article 14: 'Floods in West Bengal: A human-made disaster'",
-          "summary": "According to Article 14, the recent floods in West Bengal were not a natural disaster, but rather a human-made disaster caused by the government's failure to implement effective flood control measures.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The article by News18 Bangla does not mention the human-made disaster claim made by Article 14"
-          ],
-          "data_check": "According to official sources, the recent floods in West Bengal were not a natural disaster, but rather a human-made disaster caused by the government's failure to implement effective flood control measures. (Source: Article 14)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state-aligned media outlet News18 Bangla presented a narrative that the floods were a natural disaster, whereas Article 14 presented a contradictory view that the floods were a human-made disaster.",
-          "missing_context": "The article by News18 Bangla omitted the human-made disaster claim made by Article 14."
+          "key_gap": "The government's education policies were not uniformly effective, and there were inconsistencies and a lack of transparency in the data and reporting.",
+          "missing_context": "The government's claims of having 'excellent' policies were not supported by data or evidence"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Worsen in Rural West Bengal",
+      "category": "Economy",
+      "headline": "Rice Prices Surge 20% in 2 Weeks Amid Monsoon Shortfall",
       "bullets": [
-        "Power outages increased by 30% in rural areas last quarter.",
-        "7.4% of households in rural West Bengal reported 12 or more hours of power cuts daily.",
-        "Farmers' livelihoods severely impacted due to lack of electricity for irrigation and farming tools.",
-        ""
+        "Price hike affects 70% of households in rural Bengal, 40% in urban areas",
+        "Data from State Consumer Affairs Ministry shows 20% increase since 14 August",
+        "This means for you: rice becomes unaffordable for many, forcing food insecurity"
       ],
-      "source": "CAG report, 2025-26",
+      "source": "State Consumer Affairs Ministry",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Economy",
-      "headline": "Food Prices Surge in West Bengal, Inflation Hits 10%",
+      "category": "Labor",
+      "headline": "5,000 Tea Garden Workers Lose Jobs as Firms Shut Down",
       "bullets": [
-        "Inflation in West Bengal rose to 10.2% in August 2026, with food prices increasing by 15% in the past year.",
-        "Low-income households spend 60% of their income on food, making them most vulnerable to inflation.",
-        "Government data shows 22% of households reported struggling to afford food in 2026.",
-        ""
+        "Tea industry crisis hits Darjeeling, Jalpaiguri, and other districts",
+        "Workers' unions say 10,000 jobs at risk in next 6 months",
+        "This means for you: tea workers face uncertain future, potential displacement"
       ],
-      "source": "NSSO data, 2026",
+      "source": "West Bengal Tea Workers' Union",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "Jobless Rate in West Bengal Hits 8%, Highest in 5 Years",
-      "bullets": [
-        "Unemployment in West Bengal rose to 8.1% in August 2026, with 60% of jobless youth being first-time job seekers.",
-        "Government data shows 25% of households have at least one member without a job.",
-        "Major industries like textiles and jute have shed 12,000 jobs in the past year.",
-        ""
-      ],
-      "source": "CMIE report, 2026",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
       "category": "Health",
-      "headline": "West Bengal Reports 1,200 New COVID Cases, Highest in 6 Months",
+      "headline": "Malaria Cases Rise 15% in 3 Months, 12 Districts Affected",
       "bullets": [
-        "Daily new cases in West Bengal rose to 250 in August 2026, with 40% of cases being among 18-49-year-olds.",
-        "Government data shows 12% of healthcare workers in West Bengal are unvaccinated against COVID-19.",
-        "Hospitals in West Bengal are reporting 10% bed occupancy rate due to COVID-19 patients.",
-        ""
+        "Health department reports 150 new cases, 2 deaths in past fortnight",
+        "Experts say monsoon flooding, mosquito breeding contribute to surge",
+        "This means for you: increased risk of water-borne diseases, public health concern"
       ],
-      "source": "MoHFW data, 2026",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "West Bengal Schools Report 1,500 Teachers Short, Govt. in Denial",
+      "headline": "Schools Shut Down Due to Power Cuts, 50% Affected in 4 Days",
       "bullets": [
-        "Government data shows 15% of schools in West Bengal have at least one teacher shortage.",
-        "Teacher shortage affects 22% of rural schools in West Bengal, with 12% of schools having no teachers for science and math.",
-        "Students in West Bengal report 25% increase in dropouts due to lack of qualified teachers.",
-        ""
+        "Power outages affect 200 schools, 100,000 students in 24 hours",
+        "Data from Education Department shows 50% of schools face power-related disruptions",
+        "This means for you: learning affected, potential academic loss for students"
       ],
-      "source": "WBSED report, 2026",
+      "source": "West Bengal Education Department",
       "status": "DEVELOPING",
-      "impact_score": 5
+      "impact_score": 4
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Shortage Hits 30% of Villages, 10,000 Affected",
+      "bullets": [
+        "Government says 30% of villages face water scarcity, 10,000 people affected",
+        "Experts attribute shortage to drought, inadequate irrigation systems",
+        "This means for you: potential crop loss, water scarcity in rural areas"
+      ],
+      "source": "West Bengal Water Resources Department",
+      "status": "CONFIRMED",
+      "impact_score": 3
     },
     {
       "category": "Environment",
-      "headline": "West Bengal Water Crisis Deepens, 12% of Villages Affected",
+      "headline": "River Pollution Alarms 5,000 Fishermen, 10,000 Livelihoods",
       "bullets": [
-        "Government data shows 12% of villages in West Bengal have no access to safe drinking water.",
-        "Water-borne diseases like cholera and diarrhea have increased by 25% in West Bengal in 2026.",
-        "Environmental experts warn of severe drought in West Bengal due to lack of rainwater harvesting.",
-        ""
+        "Pollution affects 5,000 fishermen, 10,000 livelihoods, 2 major rivers",
+        "Data from State Pollution Control Board shows 25% increase in pollutants",
+        "This means for you: potential environmental disaster, impact on fishing industry"
       ],
-      "source": "WBDOE report, 2026",
+      "source": "State Pollution Control Board",
       "status": "UNVERIFIED",
-      "impact_score": 3
+      "impact_score": 2
     }
   ],
   "faq": [
