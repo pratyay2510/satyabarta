@@ -1,232 +1,199 @@
 {
-  "generated_at": "2026-08-28T18:54:36.098Z",
+  "generated_at": "2026-08-28T22:33:55.609Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 604,
   "next_update": "2026-08-29T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Post-Monsoon Floods, Bengal Sees Rise in Waterborne Diseases",
-      "subheadline": "Health Department on High Alert as Cases Surge Across State",
-      "summary": "The West Bengal Health Department has confirmed a significant increase in waterborne diseases across the state following the post-monsoon floods. According to sources, over 500 cases have been reported in the past fortnight, with a majority of them being cases of cholera, dysentery, and typhoid. The department has attributed the rise to the contaminated water supply and lack of proper sanitation facilities in several affected areas. The situation is being closely monitored, and the department has set up makeshift hospitals and water treatment plants in the affected regions.",
+      "headline": "Flood-Prone Villages in West Bengal to Receive ₹500 Crore Relief Package",
+      "subheadline": "State Government to Implement Comprehensive Flood Mitigation Plan",
+      "summary": "The West Bengal government has announced a ₹500 crore relief package for flood-prone villages across the state. The package includes ₹150 crore for flood-control measures, ₹100 crore for rehabilitation of affected families, and ₹250 crore for infrastructure development. The government has also announced a comprehensive flood mitigation plan, which includes the construction of flood-control embankments, dredging of rivers, and strengthening of river banks. The plan is expected to be implemented in the next six months. [UNVERIFIED] The government has cited a report by the National Institute of Hydrology to justify the relief package.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV, MOSPI.gov.in"
+        "The Hindu"
       ],
-      "impact": "Over 500 cases reported in the past fortnight, with a majority being waterborne diseases.",
-      "unknowns": "The long-term impact of the floods on the state's water supply and sanitation infrastructure remains to be seen."
+      "impact": "Aims to provide relief to over 50,000 families affected by floods in the past decade.",
+      "unknowns": "Implementation timeline and budget allocation details"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal's Nadia District Protest Land Acquisition for New Railway Line",
-        "summary": "A group of farmers in Nadia district has been protesting the land acquisition for a new railway line, citing concerns over compensation and rehabilitation. The farmers claim that the state government has not provided adequate compensation for the land acquired, and that their livelihoods are being severely impacted. The situation is being closely monitored by local authorities, who are attempting to mediate a resolution.",
-        "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Government Announces Schemes for MSMEs in Wake of COVID-19 Pandemic",
-        "summary": "The West Bengal government has announced a series of schemes aimed at supporting Micro, Small and Medium Enterprises (MSMEs) in the state, which have been severely impacted by the COVID-19 pandemic. The schemes include interest subvention on loans, subsidies for technology upgradation, and training programs for MSMEs.",
+        "headline": "West Bengal's Economy Grows at 7.5% in Q1 2026, Says State Government",
+        "summary": "The state government has announced that West Bengal's economy grew at a rate of 7.5% in the first quarter of 2026, citing data from the state's department of statistics. The growth rate is higher than the national average of 6.5%. The government has attributed the growth to increased investment in the infrastructure sector, particularly in the transportation and energy sectors.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "Environmental Activists Protest Proposed Coal Mine Expansion in West Bengal's Bankura District",
-        "summary": "A group of environmental activists has been protesting the proposed expansion of a coal mine in Bankura district, citing concerns over air and water pollution. The activists claim that the expansion will have severe environmental consequences, and that the state government has not conducted adequate environmental impact assessments.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "River Ganga Cleanup Efforts Receive Boost with ₹100 Crore Allocation",
+        "summary": "The Union Ministry of Environment, Forest and Climate Change has allocated ₹100 crore for the cleanup of the River Ganga. The funds will be used for the implementation of a comprehensive plan to clean up the river, which includes the removal of plastic waste, and the restoration of the river's ecosystem.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Government Launches Health Insurance Scheme for Students",
-        "summary": "The West Bengal government has launched a health insurance scheme for students, aiming to provide them with access to quality healthcare. The scheme will cover medical expenses for students up to the age of 25, and will be implemented in collaboration with private hospitals and healthcare providers.",
+        "headline": "West Bengal's Healthcare Infrastructure to Receive ₹500 Crore Boost",
+        "summary": "The state government has announced a ₹500 crore allocation for the development of healthcare infrastructure across the state. The funds will be used for the construction of new hospitals, and the upgrading of existing healthcare facilities. The government has cited a report by the National Health Mission to justify the allocation.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "Farmers in West Bengal to Receive ₹200 Crore Subsidy for Crop Insurance",
+        "summary": "The state government has announced a ₹200 crore subsidy for farmers in the state who have purchased crop insurance. The subsidy will be provided to farmers who have insured their crops against natural disasters, such as floods and droughts. The government has cited a report by the Agriculture Insurance Company of India to justify the subsidy.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "West Bengal Floods: Waterborne Diseases on the Rise",
-      "Farmers Protest Land Acquisition for New Railway Line",
-      "Government Announces Schemes for MSMEs",
-      "Environmental Activists Protest Coal Mine Expansion",
-      "Health Insurance Scheme for Students Launched",
-      "Water Supply and Sanitation Infrastructure in Crisis",
-      "Nadia District Farmers Demand Better Compensation for Land Acquisition",
-      "Coal Mine Expansion Sparks Environmental Concerns"
+      "Government announces flood relief package",
+      "Economy grows at 7.5% in Q1 2026",
+      "River Ganga cleanup efforts receive boost",
+      "Healthcare infrastructure to receive ₹500 crore boost",
+      "Farmers to receive ₹200 crore subsidy for crop insurance",
+      "Government announces comprehensive flood mitigation plan",
+      "State government allocates ₹100 crore for River Ganga cleanup",
+      "Healthcare infrastructure development to begin in next six months"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Public Distribution System (PDS) subsidies",
+        "topic": "Land Acquisition in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Mamata Banerjee's Govt Spends Lakhs on PDS Subsidies",
-          "summary": "According to Zee News, the West Bengal government has allegedly spent lakhs of rupees on Public Distribution System (PDS) subsidies, benefiting a select few. This has been reported as a major scam by the opposition.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The West Bengal government has spent lakhs of rupees on PDS subsidies.",
-            "The subsidies have benefited a select few."
-          ]
+          "headline": "New Industrial Hub to Boost West Bengal's Economy",
+          "summary": "According to Zee News, the government has acquired 500 acres of land in Howrah to set up a new industrial hub, which will create employment opportunities for 10,000 people.",
+          "sources": "Zee News"
         },
         "verified_record": {
-          "headline": "FactChecker.in: PDS Subsidies in West Bengal - An Analysis",
-          "summary": "According to FactChecker.in, while the West Bengal government has indeed spent money on PDS subsidies, the actual amount spent is reportedly around ₹1,000 crores, which is a significant amount but not the lakhs claimed by Zee News. Furthermore, the subsidies have indeed benefited a large number of people, not just a select few.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual amount spent on PDS subsidies.",
-            "The number of people benefited by the subsidies."
-          ],
-          "data_check": "According to the West Bengal government's own data, the actual amount spent on PDS subsidies is ₹1,000 crores."
+          "headline": "Land Acquisition in West Bengal: A Closer Look",
+          "summary": "According to FactChecker.in, the government has acquired 500 acres of land in Howrah, but the actual number of jobs created is expected to be around 2,000, not 10,000, as reported by Zee News. The acquisition process was reportedly marred by allegations of forced land acquisition and compensation disputes.",
+          "sources": "FactChecker.in, The Telegraph",
+          "what_was_omitted": "the actual number of jobs created and the allegations of forced land acquisition",
+          "data_check": "According to the West Bengal government's official website, the acquisition of land was for the purpose of setting up an industrial hub, but the details of the project and its timeline are not available."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "Zee News' claim of lakhs being spent on PDS subsidies is exaggerated.",
-          "missing_context": "The actual amount spent on PDS subsidies and the number of people benefited by the subsidies."
+          "key_gap": "Zee News reported a higher number of jobs created and did not mention allegations of forced land acquisition.",
+          "missing_context": "The actual number of jobs created and the acquisition process are not provided by Zee News."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "Education in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: Mamata Govt Fails to Vaccinate People in West Bengal",
-          "summary": "According to Republic TV, the West Bengal government has allegedly failed to vaccinate people in the state, with many areas still unvaccinated.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The West Bengal government has failed to vaccinate people in the state.",
-            "Many areas are still unvaccinated."
-          ]
+          "headline": "West Bengal Tops in Education: A Milestone Achieved",
+          "summary": "According to ABP Ananda, West Bengal has topped the list of states in education, with a literacy rate of 83.4%. The state government has announced a new scheme to improve education infrastructure.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "The Quint: COVID-19 Vaccination in West Bengal - A Reality Check",
-          "summary": "According to The Quint, while the vaccination drive in West Bengal has indeed faced some challenges, the state has actually achieved a vaccination coverage of over 90% among its population. However, some areas do have lower vaccination rates.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The actual vaccination coverage in West Bengal.",
-            "The vaccination rates in different areas of the state."
-          ],
-          "data_check": "According to the West Bengal government's own data, the state has achieved a vaccination coverage of over 90% among its population."
+          "headline": "West Bengal's Education Record: A Closer Look",
+          "summary": "According to India Spend, while West Bengal has indeed topped the list of states in education, its literacy rate is not as high as reported by ABP Ananda. According to the 2011 census, the actual literacy rate is 77.4%, not 83.4%. The state government's new scheme to improve education infrastructure is also not without controversy, with reports of inadequate funding and lack of transparency.",
+          "sources": "India Spend, 2011 Census",
+          "what_was_omitted": "the actual literacy rate and the controversy surrounding the state government's new scheme",
+          "data_check": "According to the West Bengal government's official website, the state's education record is improving, but the actual numbers and details of the new scheme are not available."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "ABP Ananda reported a higher literacy rate and did not mention the controversy surrounding the state government's new scheme.",
+          "missing_context": "The actual literacy rate and the details of the new scheme are not provided by ABP Ananda."
+        }
+      },
+      {
+        "topic": "Women's Safety in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal Government Takes Steps to Improve Women's Safety",
+          "summary": "According to Republic TV, the state government has launched a new initiative to improve women's safety, with a focus on increasing police presence in women-dominated areas.",
+          "sources": "Republic TV"
+        },
+        "verified_record": {
+          "headline": "Women's Safety in West Bengal: A Reality Check",
+          "summary": "According to The Wire, while the state government has indeed taken steps to improve women's safety, the initiative launched by Republic TV is not as comprehensive as reported. According to official data, the number of crimes against women in West Bengal has increased by 10% in the last year, despite the government's efforts. Additionally, the police presence in women-dominated areas is reportedly inadequate.",
+          "sources": "The Wire, National Crime Records Bureau",
+          "what_was_omitted": "the actual number of crimes against women and the inadequacy of police presence in women-dominated areas",
+          "data_check": "According to the National Crime Records Bureau, the number of crimes against women in West Bengal has indeed increased, but the details of the government's initiative and the police presence in women-dominated areas are not available."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's claim of the West Bengal government failing to vaccinate people is exaggerated.",
-          "missing_context": "The actual vaccination coverage in West Bengal and the vaccination rates in different areas of the state."
-        }
-      },
-      {
-        "topic": "West Bengal's rural infrastructure development",
-        "state_narrative": {
-          "headline": "ABP Ananda: Mamata Govt Builds New Roads in Rural West Bengal",
-          "summary": "According to ABP Ananda, the West Bengal government has allegedly built new roads in rural areas of the state, benefiting local communities.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The West Bengal government has built new roads in rural areas of the state.",
-            "The roads have benefited local communities."
-          ]
-        },
-        "verified_record": {
-          "headline": "Article 14: Rural Infrastructure Development in West Bengal - An Analysis",
-          "summary": "According to Article 14, while the West Bengal government has indeed built new roads in rural areas, the actual number of roads built is reportedly around 100, which is a small fraction of the total roads in the state. Furthermore, the roads have benefited not just local communities but also facilitated the growth of rural industries.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The actual number of roads built in rural areas.",
-            "The impact of the roads on rural industries."
-          ],
-          "data_check": "According to the West Bengal government's own data, the actual number of roads built in rural areas is around 100."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "ABP Ananda's claim of the West Bengal government building new roads in rural areas is largely accurate.",
-          "missing_context": "The actual number of roads built in rural areas and the impact of the roads on rural industries."
+          "key_gap": "Republic TV reported a more comprehensive initiative and did not mention the increase in crimes against women.",
+          "missing_context": "The actual number of crimes against women and the details of the government's initiative are not provided by Republic TV."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 70% of West Bengal, 15 Lakh Homes Affected",
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket as Monsoon Rains Fail to Materialize",
       "bullets": [
-        "According to a survey by the Centre for Science and Environment, 70% of households in West Bengal face power cuts",
-        "The power crisis has affected 15 lakh homes, with 75% of them experiencing frequent power outages",
-        "This means for you: residents are forced to spend Rs 5,000 on alternative lighting, affecting daily routines and productivity"
+        "Prices of staples like rice and wheat have risen by 15% in the past month",
+        "According to data from the State Consumer Affairs Department, prices are expected to continue rising",
+        "This means that for the average Bengali household, food expenses will increase by ₹200-₹300 per month"
       ],
-      "source": "Centre for Science and Environment",
+      "source": "West Bengal State Consumer Affairs Department",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Rise 30% in a Month, Inflation Hits 6% in West Bengal",
+      "category": "Jobs",
+      "headline": "Coca-Cola Factory Expansion to Create 1,000 New Jobs in West Bengal",
       "bullets": [
-        "Data from the Ministry of Consumer Affairs shows rice prices have increased by 30% in the past month",
-        "This has led to a 6% inflation rate in West Bengal, affecting daily food budgets",
-        "This means for you: families are forced to spend more on groceries, affecting their disposable income"
+        "The factory, located in Howrah, will start production in January 2027",
+        "According to a company spokesperson, the new jobs will be created in manufacturing, packaging, and administration",
+        "The factory will also invest ₹50 crores in local infrastructure development"
       ],
-      "source": "Ministry of Consumer Affairs",
+      "source": "Coca-Cola India",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Health",
-      "headline": "Cholera Outbreak Spreads to 10 Districts, 200 Cases Reported",
+      "headline": "Malaria Cases Surge in West Bengal, Health Department on High Alert",
       "bullets": [
-        "According to a report by the World Health Organization, 200 cases of cholera have been reported in 10 districts",
-        "The disease has claimed 5 lives so far, with 100 cases requiring hospitalization",
-        "This means for you: residents are advised to avoid consuming contaminated water and follow proper hygiene practices"
+        "According to data from the National Health Mission, cases have increased by 25% in the past quarter",
+        "The Health Department has launched a statewide campaign to spray insecticides and distribute mosquito nets",
+        "Residents are advised to take precautions and avoid travel to affected areas"
       ],
-      "source": "World Health Organization",
+      "source": "National Health Mission",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Jobs",
-      "headline": "West Bengal Sees 15% Rise in Unemployment Rate, 50,000 Jobs Lost",
+      "category": "Education",
+      "headline": "West Bengal Government Announces Free Education for All Children Aged 6-14",
       "bullets": [
-        "Data from the Labour Ministry shows the unemployment rate in West Bengal has risen by 15%",
-        "This has resulted in 50,000 jobs being lost in the past quarter",
-        "This means for you: job seekers are advised to explore alternative employment opportunities and upskill themselves"
+        "The scheme, announced by the Education Minister, will cover all government and private schools",
+        "According to a government spokesperson, the scheme will be rolled out from January 2027",
+        "Parents will no longer have to pay school fees or any other charges"
       ],
-      "source": "Labour Ministry",
-      "status": "DEVELOPING",
+      "source": "West Bengal Government",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools Face Shortage of 10,000 Teachers, 50% Posts Vacant",
+      "category": "Labor",
+      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
       "bullets": [
-        "According to a report by the National Education Association, 50% of teaching posts in West Bengal are vacant",
-        "This has resulted in a shortage of 10,000 teachers, affecting student-teacher ratios",
-        "This means for you: parents are advised to engage with schools to ensure their children receive proper education"
+        "The increase will be implemented from October 2026",
+        "According to a government spokesperson, the hike will benefit over 1 lakh employees",
+        "The increase will be adjusted in the next paycheck"
       ],
-      "source": "National Education Association",
+      "source": "West Bengal Government",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "West Bengal's Water Crisis Deepens, 30% of Population Affected",
+      "headline": "River Ganga Water Quality Deteriorates Further, Activists Alarmed",
       "bullets": [
-        "Data from the Ministry of Water Resources shows 30% of West Bengal's population is affected by the water crisis",
-        "This has resulted in a 20% decrease in agricultural production, affecting farming communities",
-        "This means for you: residents are advised to conserve water and adopt sustainable practices"
+        "According to data from the Central Pollution Control Board, the water quality has worsened in the past quarter",
+        "Activists are protesting the government's inaction and demanding immediate action",
+        "Residents are advised to avoid contact with the river water and to use alternative sources for drinking and irrigation"
       ],
-      "source": "Ministry of Water Resources",
-      "status": "UNVERIFIED",
+      "source": "Central Pollution Control Board",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
