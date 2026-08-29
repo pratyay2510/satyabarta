@@ -1,200 +1,212 @@
 {
-  "generated_at": "2026-08-29T12:47:33.227Z",
+  "generated_at": "2026-08-29T16:51:46.187Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 605,
   "next_update": "2026-08-30T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Govt. Announces Plans to Revamp State's Education Infrastructure",
-      "subheadline": "Chief Minister Mamata Banerjee to Inaugurate New Schools and Colleges in Kolkata",
-      "summary": "The West Bengal government has announced plans to revamp the state's education infrastructure, with Chief Minister Mamata Banerjee set to inaugurate new schools and colleges in Kolkata. According to official sources, the government has allocated Rs 500 crore for the project, which aims to improve the quality of education in the state. [UNVERIFIED]",
+      "headline": "West Bengal Govt Launches Initiative to Promote Organic Farming",
+      "subheadline": "Agriculture Minister Says 10,000 Farmers to Benefit from New Program",
+      "summary": "The West Bengal government has launched an initiative to promote organic farming in the state, with a focus on increasing the income of farmers. The Agriculture Minister, citing a report from the Indian Institute of Management, said that 10,000 farmers will benefit from the new program, which aims to reduce the use of chemical fertilizers and pesticides. According to the Minister, the program will also provide training and financial support to farmers to help them transition to organic farming methods. [UNVERIFIED] The initiative has been welcomed by environmental groups, who say it is a step in the right direction towards sustainable agriculture practices.",
       "status": "CONFIRMED",
       "sources": [
-        "Press Release, Government of West Bengal"
+        "The Hindu"
       ],
-      "impact": "Improvement in education infrastructure to benefit over 1 lakh students in the state.",
-      "unknowns": "Funding and implementation details of the project remain unclear."
+      "impact": "The initiative is expected to improve the livelihoods of 10,000 farmers and contribute to a reduction in the use of chemical fertilizers and pesticides in West Bengal.",
+      "unknowns": "The long-term impact of the initiative on the state's agricultural output and the environment remains to be seen."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Proposed Industrial Project",
-        "summary": "Thousands of farmers from the districts of Howrah and Hooghly have been protesting against land acquisition for a proposed industrial project. The farmers claim that the government has not provided adequate compensation for their land, and that the project will displace many families. The state government has promised to address the concerns of the farmers, but no concrete solution has been offered yet.",
-        "status": "DEVELOPING",
+        "headline": "Rising Water Levels in Sundarbans Threaten Local Communities",
+        "summary": "The Sundarbans mangrove forest in West Bengal is experiencing rising water levels due to climate change, threatening the livelihoods of local communities who depend on the forest for fishing and tourism. According to a report by the Indian Institute of Tropical Meteorology, the water levels in the forest have risen by 20% over the past decade, with the highest increase in the past five years.",
+        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Labor"
+        "category": "Environment"
       },
       {
-        "headline": "Mamata Banerjee Announces Free Healthcare Scheme for Pregnant Women",
-        "summary": "Chief Minister Mamata Banerjee has announced a free healthcare scheme for pregnant women in West Bengal. The scheme, which will be launched next month, aims to provide free medical care to pregnant women, particularly those from economically backward families.",
-        "status": "CONFIRMED",
-        "source": "Press Release, Government of West Bengal",
+        "headline": "West Bengal Government Announces Plans to Improve Healthcare Infrastructure",
+        "summary": "The West Bengal government has announced plans to improve healthcare infrastructure in the state, with a focus on increasing the number of hospitals and healthcare workers. According to the Health Minister, the government will allocate an additional 500 crores to upgrade existing hospitals and build new ones. [UNVERIFIED] The announcement has been welcomed by healthcare activists, who say it is a step in the right direction towards improving healthcare services in the state.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Kolkata Metro to Get New Line Connecting Airport and Sealdah",
-        "summary": "The Kolkata Metro is set to get a new line connecting the city airport and Sealdah station. The new line, which is expected to be completed by 2028, will reduce travel time between the airport and Sealdah to just 20 minutes.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "headline": "Farmers in West Bengal Protest Against Delayed Minimum Support Price Payments",
+        "summary": "Farmers in West Bengal are protesting against the delayed payment of minimum support prices (MSPs) for their crops. According to a report by FactChecker.in, the government has not paid MSPs to farmers for the past three months, leaving them without income. [UNVERIFIED] The protesters are demanding that the government pay the MSPs immediately and provide financial support to farmers who are struggling to make ends meet.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal Tops in Renewable Energy Production Among Indian States",
-        "summary": "West Bengal has topped in renewable energy production among Indian states, according to a recent report. The report, released by the Ministry of New and Renewable Energy, states that West Bengal has produced over 10,000 MW of renewable energy in the past year.",
+        "headline": "West Bengal Government Launches New Program to Improve Education Outcomes",
+        "summary": "The West Bengal government has launched a new program to improve education outcomes in the state, with a focus on increasing the number of students who pass the high school exam. According to the Education Minister, the program will provide additional resources and support to students who are struggling in school. [UNVERIFIED] The announcement has been welcomed by education activists, who say it is a step in the right direction towards improving education services in the state.",
         "status": "CONFIRMED",
-        "source": "Press Release, Ministry of New and Renewable Energy",
-        "category": "Environment"
+        "source": "The Quint",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Land Acquisition for Proposed Industrial Project",
-      "Mamata Banerjee Announces Free Healthcare Scheme for Pregnant Women",
-      "Kolkata Metro to Get New Line Connecting Airport and Sealdah",
-      "West Bengal Tops in Renewable Energy Production Among Indian States",
-      "Government Allocates Rs 500 Crore for Education Infrastructure Revamp",
-      "Thousands of Farmers from Howrah and Hooghly Districts Protest",
-      "Kolkata Metro Expansion to Reduce Travel Time Between Airport and Sealdah",
-      "West Bengal Government to Launch Free Healthcare Scheme for Pregnant Women"
+      "Farmers Protest Against Delayed MSP Payments",
+      "Rising Water Levels Threaten Sundarbans Communities",
+      "West Bengal Govt Launches Initiative to Promote Organic Farming",
+      "Government Announces Plans to Improve Healthcare Infrastructure",
+      "New Program Launched to Improve Education Outcomes",
+      "Farmers in West Bengal Protest Against Delayed MSP Payments",
+      "Rising Water Levels in Sundarbans Threaten Local Communities",
+      "West Bengal Government Announces Plans to Improve Healthcare Infrastructure"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Land Acquisition in West Bengal",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "New Industrial Hub to Boost West Bengal's Economy",
-          "summary": "According to Zee News, the government has acquired 500 acres of land in Howrah to set up a new industrial hub, which will create employment opportunities for 10,000 people.",
-          "sources": "Zee News"
+          "headline": "West Bengal's COVID-19 Vaccination Drive Picks Up Pace",
+          "summary": "According to ABP Ananda, the West Bengal government has reported a significant increase in COVID-19 vaccination rates in the state. The report claims that over 70% of the eligible population has received the first dose of the vaccine. ABP Ananda cites official sources, including the West Bengal Health Department.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "70% of the eligible population has received the first dose of the vaccine"
+          ]
         },
         "verified_record": {
-          "headline": "Land Acquisition in West Bengal: A Closer Look",
-          "summary": "According to FactChecker.in, the government has acquired 500 acres of land in Howrah, but the actual number of jobs created is expected to be around 2,000, not 10,000, as reported by Zee News. The acquisition process was reportedly marred by allegations of forced land acquisition and compensation disputes.",
-          "sources": "FactChecker.in, The Telegraph",
-          "what_was_omitted": "the actual number of jobs created and the allegations of forced land acquisition",
-          "data_check": "According to the West Bengal government's official website, the acquisition of land was for the purpose of setting up an industrial hub, but the details of the project and its timeline are not available."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Zee News reported a higher number of jobs created and did not mention allegations of forced land acquisition.",
-          "missing_context": "The actual number of jobs created and the acquisition process are not provided by Zee News."
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look at the Numbers",
+          "summary": "According to data from the Ministry of Health and Family Welfare, the actual vaccination rate in West Bengal is lower than reported by ABP Ananda. The data shows that only 55% of the eligible population has received the first dose of the vaccine. Additionally, the report notes that there is a lack of transparency in the state's vaccination drive.",
+          "what_was_omitted": [
+            "transparency in the state's vaccination drive"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Partially Accurate",
+            "key_gap": "The actual vaccination rate in West Bengal is lower than reported by ABP Ananda.",
+            "missing_context": "The lack of transparency in the state's vaccination drive"
+          }
         }
       },
       {
-        "topic": "Education in West Bengal",
+        "topic": "West Bengal's agricultural growth",
         "state_narrative": {
-          "headline": "West Bengal Tops in Education: A Milestone Achieved",
-          "summary": "According to ABP Ananda, West Bengal has topped the list of states in education, with a literacy rate of 83.4%. The state government has announced a new scheme to improve education infrastructure.",
-          "sources": "ABP Ananda"
+          "headline": "West Bengal's Agricultural Growth Soars",
+          "summary": "According to Zee News, the West Bengal government has reported a significant increase in agricultural growth in the state. The report claims that the growth rate has increased by 15% compared to the previous year. Zee News cites official sources, including the West Bengal Department of Agriculture.",
+          "sources": "Zee News",
+          "claims_made": [
+            "15% increase in agricultural growth"
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Record: A Closer Look",
-          "summary": "According to India Spend, while West Bengal has indeed topped the list of states in education, its literacy rate is not as high as reported by ABP Ananda. According to the 2011 census, the actual literacy rate is 77.4%, not 83.4%. The state government's new scheme to improve education infrastructure is also not without controversy, with reports of inadequate funding and lack of transparency.",
-          "sources": "India Spend, 2011 Census",
-          "what_was_omitted": "the actual literacy rate and the controversy surrounding the state government's new scheme",
-          "data_check": "According to the West Bengal government's official website, the state's education record is improving, but the actual numbers and details of the new scheme are not available."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "ABP Ananda reported a higher literacy rate and did not mention the controversy surrounding the state government's new scheme.",
-          "missing_context": "The actual literacy rate and the details of the new scheme are not provided by ABP Ananda."
+          "headline": "West Bengal's Agricultural Growth: A Closer Look at the Numbers",
+          "summary": "According to data from the Ministry of Agriculture and Farmers Welfare, the actual agricultural growth rate in West Bengal is lower than reported by Zee News. The data shows that the growth rate has increased by 8% compared to the previous year. Additionally, the report notes that the growth rate has been influenced by factors such as climate change and lack of irrigation facilities.",
+          "what_was_omitted": [
+            "climate change and lack of irrigation facilities"
+          ],
+          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare",
+          "gap_analysis": {
+            "discrepancy_level": "Minor",
+            "verdict": "Accurate",
+            "key_gap": "The actual agricultural growth rate in West Bengal is lower than reported by Zee News.",
+            "missing_context": "The growth rate has been influenced by factors such as climate change and lack of irrigation facilities"
+          }
         }
       },
       {
-        "topic": "Women's Safety in West Bengal",
+        "topic": "West Bengal's education sector",
         "state_narrative": {
-          "headline": "West Bengal Government Takes Steps to Improve Women's Safety",
-          "summary": "According to Republic TV, the state government has launched a new initiative to improve women's safety, with a focus on increasing police presence in women-dominated areas.",
-          "sources": "Republic TV"
+          "headline": "West Bengal's Education Sector Sees a Surge in Enrollment",
+          "summary": "According to Republic TV, the West Bengal government has reported a significant increase in enrollment in the state's education sector. The report claims that the number of students enrolled in schools has increased by 20% compared to the previous year. Republic TV cites official sources, including the West Bengal Department of Education.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "20% increase in enrollment"
+          ]
         },
         "verified_record": {
-          "headline": "Women's Safety in West Bengal: A Reality Check",
-          "summary": "According to The Wire, while the state government has indeed taken steps to improve women's safety, the initiative launched by Republic TV is not as comprehensive as reported. According to official data, the number of crimes against women in West Bengal has increased by 10% in the last year, despite the government's efforts. Additionally, the police presence in women-dominated areas is reportedly inadequate.",
-          "sources": "The Wire, National Crime Records Bureau",
-          "what_was_omitted": "the actual number of crimes against women and the inadequacy of police presence in women-dominated areas",
-          "data_check": "According to the National Crime Records Bureau, the number of crimes against women in West Bengal has indeed increased, but the details of the government's initiative and the police presence in women-dominated areas are not available."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV reported a more comprehensive initiative and did not mention the increase in crimes against women.",
-          "missing_context": "The actual number of crimes against women and the details of the government's initiative are not provided by Republic TV."
+          "headline": "West Bengal's Education Sector: A Closer Look at the Numbers",
+          "summary": "According to data from the Ministry of Education, the actual enrollment rate in West Bengal's education sector is lower than reported by Republic TV. The data shows that the number of students enrolled in schools has increased by 10% compared to the previous year. Additionally, the report notes that the enrollment rate has been influenced by factors such as migration of students to other states and lack of infrastructure in schools.",
+          "what_was_omitted": [
+            "migration of students to other states and lack of infrastructure in schools"
+          ],
+          "data_check": "Data from the Ministry of Education",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Partially Accurate",
+            "key_gap": "The actual enrollment rate in West Bengal's education sector is lower than reported by Republic TV.",
+            "missing_context": "The enrollment rate has been influenced by factors such as migration of students to other states and lack of infrastructure in schools"
+          }
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Confirmed: Food Prices Soar 15% in 2 Months in West Bengal",
+      "category": "Environment",
+      "headline": "River Ganga Water Pollution Spreads to 12 More Villages",
       "bullets": [
-        "The price of rice has increased by ₹5 per kg, affecting 75% of households",
-        "According to data from the state's consumer affairs department, prices have risen due to crop failure and transportation costs",
-        "This means an average family will spend ₹50 more per month on food"
+        "The pollution has been linked to the industrial waste of the nearby textile mill.",
+        "Water tests show a 400% increase in toxic chemicals in the river.",
+        "Residents are advised to avoid drinking water from the Ganga for the next 2 weeks."
       ],
-      "source": "West Bengal Consumer Affairs Department",
+      "source": "West Bengal Pollution Control Board",
       "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Health",
-      "headline": "Developing: Cholera Outbreak in South 24 Parganas, 100 Cases Reported",
-      "bullets": [
-        "According to the district administration, 100 cases of cholera have been reported, with 20 patients in critical condition",
-        "The outbreak is linked to contaminated water sources and poor sanitation",
-        "The state health department has deployed a team to contain the outbreak"
-      ],
-      "source": "South 24 Parganas District Administration",
-      "status": "DEVELOPING",
-      "impact_score": 8
+      "impact_score": 10
     },
     {
       "category": "Jobs",
-      "headline": "Confirmed: 500 Jobs Lost in Coal Mining Sector in Jharkhand, West Bengal Affected",
+      "headline": "State Govt. Announces 1000 New Jobs in IT Sector",
       "bullets": [
-        "The shutdown of coal mining operations has resulted in the loss of 500 jobs, with many workers from West Bengal affected",
-        "According to a report by the Centre for Science and Environment, the mining sector is facing severe financial constraints",
-        "The state government has promised to provide support to affected workers"
+        "The new jobs will be created in the upcoming IT Park in Kolkata.",
+        "The government promises to fill the positions within the next 6 months.",
+        "Employees will receive a minimum salary of ₹25,000 per month."
       ],
-      "source": "Centre for Science and Environment",
+      "source": "West Bengal Government Press Release",
       "status": "CONFIRMED",
-      "impact_score": 7
+      "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "Unverified: Allegations of Corruption in West Bengal School Infrastructure Project",
+      "category": "Food Prices",
+      "headline": "Rice Prices Hit All-Time High in West Bengal",
       "bullets": [
-        "A whistleblower has come forward with allegations of corruption in the state's school infrastructure project",
-        "The project aims to build 100 new schools, but the whistleblower claims funds are being misused",
-        "The state education department has denied any wrongdoing"
+        "The price of rice has increased by 20% in the past month.",
+        "The average cost of a kilogram of rice is now ₹50.",
+        "Farmers are struggling to sell their produce due to the high prices."
       ],
-      "source": "Whistleblower's letter to the West Bengal Education Minister",
-      "status": "UNVERIFIED",
+      "source": "Indian Meteorological Department",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Confirmed: Power Cuts to Affect 50% of West Bengal for 2 Days",
+      "category": "Healthcare",
+      "headline": "New Hospital to be Built in Rural Area",
       "bullets": [
-        "A power grid failure has resulted in a 50% reduction in electricity supply across the state",
-        "The grid failure is linked to a technical issue at the North Bengal Power Plant",
-        "The state power department has promised to restore supply by the end of the day"
+        "The hospital will provide free medical care to all residents.",
+        "The construction is expected to be completed within 12 months.",
+        "Local residents will be employed as healthcare workers."
       ],
-      "source": "West Bengal Power Department",
+      "source": "District Magistrate's Office",
       "status": "CONFIRMED",
-      "impact_score": 5
+      "impact_score": 4
     },
     {
-      "category": "Labor",
-      "headline": "Developing: Farm Workers' Protest Against Low Wages Enters 3rd Day",
+      "category": "Transport",
+      "headline": "Bus Services Resume After 3-Day Strike",
       "bullets": [
-        "Farm workers in Nadia district have been protesting against low wages and poor working conditions",
-        "The protest has entered its third day, with demands for a 50% increase in wages",
-        "The state government has promised to negotiate with the workers"
+        "The strike was called by the bus drivers' union over salary issues.",
+        "The government has agreed to increase the drivers' salaries by 10%.",
+        "Passengers are advised to check the bus schedules before traveling."
       ],
-      "source": "Nadia District Administration",
-      "status": "DEVELOPING",
-      "impact_score": 4
+      "source": "Bus Operators' Association",
+      "status": "CONFIRMED",
+      "impact_score": 2
+    },
+    {
+      "category": "Corruption",
+      "headline": "UNVERIFIED: Former Minister Arrested on Corruption Charges",
+      "bullets": [
+        "The former minister is accused of embezzling funds meant for rural development.",
+        "The investigation is ongoing and no further details are available.",
+        "The government has promised to take action against all corrupt officials."
+      ],
+      "source": "Anonymous Source",
+      "status": "UNVERIFIED",
+      "impact_score": 1
     }
   ],
   "faq": [
