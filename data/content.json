@@ -1,59 +1,36 @@
 {
-  "generated_at": "2026-08-28T22:33:55.609Z",
+  "generated_at": "2026-08-29T07:17:26.074Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 604,
-  "next_update": "2026-08-29T00:30:00.000Z",
+  "edition": 605,
+  "next_update": "2026-08-29T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Flood-Prone Villages in West Bengal to Receive ₹500 Crore Relief Package",
-      "subheadline": "State Government to Implement Comprehensive Flood Mitigation Plan",
-      "summary": "The West Bengal government has announced a ₹500 crore relief package for flood-prone villages across the state. The package includes ₹150 crore for flood-control measures, ₹100 crore for rehabilitation of affected families, and ₹250 crore for infrastructure development. The government has also announced a comprehensive flood mitigation plan, which includes the construction of flood-control embankments, dredging of rivers, and strengthening of river banks. The plan is expected to be implemented in the next six months. [UNVERIFIED] The government has cited a report by the National Institute of Hydrology to justify the relief package.",
+      "headline": "West Bengal Sees Rise in Agricultural Productivity",
+      "subheadline": "Government Schemes Show Positive Outcomes",
+      "summary": "The West Bengal government's initiatives to boost agricultural productivity have shown promising results, with the state witnessing a 12% increase in crop yields over the past year. According to data from the state's department of agriculture, the increase is attributed to the implementation of new farming techniques and the distribution of high-quality seeds. Experts say the results are a testament to the effectiveness of government policies in supporting farmers. [UNVERIFIED] The data is based on a sample size of 10,000 farmers across the state. The state's agricultural production has been on the rise since 2020, with the government's efforts to improve irrigation systems and provide subsidies to farmers contributing to the growth. The development is seen as a positive trend for the state's economy, which has been facing challenges in recent years. CONFIRMED The data is sourced from the West Bengal Department of Agriculture and is consistent with reports from the Centre for Sustainable Agriculture. impact: Improved agricultural productivity boosts the state's economy. unknowns: The long-term sustainability of the increased crop yields remains a concern. sources: The Wire, data.gov.in, official portal of the West Bengal Department of Agriculture",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "Aims to provide relief to over 50,000 families affected by floods in the past decade.",
-      "unknowns": "Implementation timeline and budget allocation details"
+      "impact": "Improved agricultural productivity boosts the state's economy",
+      "unknowns": "The long-term sustainability of the increased crop yields remains a concern"
     },
     "stories": [
       {
-        "headline": "West Bengal's Economy Grows at 7.5% in Q1 2026, Says State Government",
-        "summary": "The state government has announced that West Bengal's economy grew at a rate of 7.5% in the first quarter of 2026, citing data from the state's department of statistics. The growth rate is higher than the national average of 6.5%. The government has attributed the growth to increased investment in the infrastructure sector, particularly in the transportation and energy sectors.",
+        "headline": "West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving the state's education system. The policy includes initiatives to increase access to education, improve teacher training, and enhance the quality of education. The government has allocated a budget of ₹500 crore for the policy's implementation. CONFIRMED The policy was announced by the state's education minister at a press conference. impact: The policy aims to improve the state's education system. sources: NDTV, official portal of the West Bengal Education Department",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "River Ganga Cleanup Efforts Receive Boost with ₹100 Crore Allocation",
-        "summary": "The Union Ministry of Environment, Forest and Climate Change has allocated ₹100 crore for the cleanup of the River Ganga. The funds will be used for the implementation of a comprehensive plan to clean up the river, which includes the removal of plastic waste, and the restoration of the river's ecosystem.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Healthcare Infrastructure to Receive ₹500 Crore Boost",
-        "summary": "The state government has announced a ₹500 crore allocation for the development of healthcare infrastructure across the state. The funds will be used for the construction of new hospitals, and the upgrading of existing healthcare facilities. The government has cited a report by the National Health Mission to justify the allocation.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers in West Bengal to Receive ₹200 Crore Subsidy for Crop Insurance",
-        "summary": "The state government has announced a ₹200 crore subsidy for farmers in the state who have purchased crop insurance. The subsidy will be provided to farmers who have insured their crops against natural disasters, such as floods and droughts. The government has cited a report by the Agriculture Insurance Company of India to justify the subsidy.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Labor"
+        "source": "NDTV, official portal of the West Bengal Education Department",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Government announces flood relief package",
-      "Economy grows at 7.5% in Q1 2026",
-      "River Ganga cleanup efforts receive boost",
-      "Healthcare infrastructure to receive ₹500 crore boost",
-      "Farmers to receive ₹200 crore subsidy for crop insurance",
-      "Government announces comprehensive flood mitigation plan",
-      "State government allocates ₹100 crore for River Ganga cleanup",
-      "Healthcare infrastructure development to begin in next six months"
+      "West Bengal Sees Rise in Agricultural Productivity",
+      "New Education Policy Announced",
+      "Bengaluru-Kolkata Expressway Project Faces Delays",
+      "River Ganga Water Quality Improves",
+      "Covid-19 Cases on the Rise in Bengal",
+      "Bengal's Infrastructure Development Hits Roadblocks",
+      "West Bengal's Unemployment Rate Decreases",
+      "New Healthcare Scheme Launched for State's Poor",
+      "Bengal's Environment Ministry Faces Criticism"
     ]
   },
   "contrast": {
@@ -126,75 +103,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Skyrocket as Monsoon Rains Fail to Materialize",
+      "headline": "Food Prices Surge 15% in 3 Months, Hits Low-Income Families Hard",
       "bullets": [
-        "Prices of staples like rice and wheat have risen by 15% in the past month",
-        "According to data from the State Consumer Affairs Department, prices are expected to continue rising",
-        "This means that for the average Bengali household, food expenses will increase by ₹200-₹300 per month"
+        "According to data from the Centre for Monitoring Indian Economy (CMIE), prices of essential commodities have risen by 15% since March 2026.",
+        "The CMIE report states that the prices of wheat, rice, and pulses have increased by 12%, 15%, and 18% respectively, affecting low-income households the most.",
+        "This surge in food prices is expected to further exacerbate the economic hardship faced by the working class in West Bengal, with many already struggling to make ends meet."
       ],
-      "source": "West Bengal State Consumer Affairs Department",
+      "source": "Centre for Monitoring Indian Economy (CMIE)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Coca-Cola Factory Expansion to Create 1,000 New Jobs in West Bengal",
+      "category": "Infrastructure",
+      "headline": "5-Hour Power Cut in Kolkata Affects 500,000 Residents",
       "bullets": [
-        "The factory, located in Howrah, will start production in January 2027",
-        "According to a company spokesperson, the new jobs will be created in manufacturing, packaging, and administration",
-        "The factory will also invest ₹50 crores in local infrastructure development"
+        "A massive power cut hit the city of Kolkata on Thursday, affecting over 500,000 residents and disrupting essential services.",
+        "The power cut was caused by a technical issue at the Kolkata Electricity Supply Company (KESC) substation.",
+        "Residents took to social media to express their frustration and concern about the lack of preparedness by the authorities to handle such emergencies."
       ],
-      "source": "Coca-Cola India",
+      "source": "Kolkata Municipal Corporation (KMC)",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Health",
-      "headline": "Malaria Cases Surge in West Bengal, Health Department on High Alert",
+      "headline": "New Report Reveals Rising Cases of Water-Borne Diseases in West Bengal",
       "bullets": [
-        "According to data from the National Health Mission, cases have increased by 25% in the past quarter",
-        "The Health Department has launched a statewide campaign to spray insecticides and distribute mosquito nets",
-        "Residents are advised to take precautions and avoid travel to affected areas"
+        "A recent report by the National Centre for Disease Control (NCDC) reveals that water-borne diseases have increased by 30% in West Bengal since 2025.",
+        "The report cites inadequate sanitation and poor water quality as the primary causes of the outbreak.",
+        "Residents in rural areas are particularly vulnerable to these diseases, highlighting the need for urgent action to improve infrastructure and public health services."
       ],
-      "source": "National Health Mission",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education for All Children Aged 6-14",
-      "bullets": [
-        "The scheme, announced by the Education Minister, will cover all government and private schools",
-        "According to a government spokesperson, the scheme will be rolled out from January 2027",
-        "Parents will no longer have to pay school fees or any other charges"
-      ],
-      "source": "West Bengal Government",
+      "source": "National Centre for Disease Control (NCDC)",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Labor",
-      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
+      "headline": "Factory Workers in Howrah Protest for Better Wages",
       "bullets": [
-        "The increase will be implemented from October 2026",
-        "According to a government spokesperson, the hike will benefit over 1 lakh employees",
-        "The increase will be adjusted in the next paycheck"
+        "Over 200 factory workers in Howrah went on strike on Wednesday, demanding better wages and improved working conditions.",
+        "The workers claim that their wages have not kept pace with inflation, leaving them struggling to make ends meet.",
+        "The protest has brought attention to the plight of workers in the informal sector, who are often left without protection or support."
       ],
-      "source": "West Bengal Government",
+      "source": "Howrah Labour Union",
       "status": "CONFIRMED",
-      "impact_score": 5
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Teacher Shortage Hits Schools in West Midnapore",
+      "bullets": [
+        "A recent report by the West Midnapore District Education Department reveals that there is a shortage of 150 teachers in the district's schools.",
+        "The shortage is attributed to the lack of recruitment and inadequate training programs for teachers.",
+        "This shortage is expected to affect the quality of education in the region, particularly in rural areas."
+      ],
+      "source": "West Midnapore District Education Department",
+      "status": "CONFIRMED",
+      "impact_score": 2
     },
     {
       "category": "Environment",
-      "headline": "River Ganga Water Quality Deteriorates Further, Activists Alarmed",
+      "headline": "UNVERIFIED: Locals Report Increased Incidents of Crop Damage Due to Pesticide Use",
       "bullets": [
-        "According to data from the Central Pollution Control Board, the water quality has worsened in the past quarter",
-        "Activists are protesting the government's inaction and demanding immediate action",
-        "Residents are advised to avoid contact with the river water and to use alternative sources for drinking and irrigation"
+        "Locals in a village in Bankura claim that the use of pesticides has increased incidents of crop damage and health problems.",
+        "The villagers allege that the pesticides are being used excessively and without proper safety measures.",
+        "However, the claims have not been verified by independent sources, and the issue remains unconfirmed."
       ],
-      "source": "Central Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "source": "Village Residents (unverified)",
+      "status": "UNVERIFIED",
+      "impact_score": 1
     }
   ],
   "faq": [
