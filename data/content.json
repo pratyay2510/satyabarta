@@ -1,36 +1,59 @@
 {
-  "generated_at": "2026-08-29T07:17:26.074Z",
+  "generated_at": "2026-08-29T12:47:33.227Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 605,
-  "next_update": "2026-08-29T12:30:00.000Z",
+  "next_update": "2026-08-30T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Rise in Agricultural Productivity",
-      "subheadline": "Government Schemes Show Positive Outcomes",
-      "summary": "The West Bengal government's initiatives to boost agricultural productivity have shown promising results, with the state witnessing a 12% increase in crop yields over the past year. According to data from the state's department of agriculture, the increase is attributed to the implementation of new farming techniques and the distribution of high-quality seeds. Experts say the results are a testament to the effectiveness of government policies in supporting farmers. [UNVERIFIED] The data is based on a sample size of 10,000 farmers across the state. The state's agricultural production has been on the rise since 2020, with the government's efforts to improve irrigation systems and provide subsidies to farmers contributing to the growth. The development is seen as a positive trend for the state's economy, which has been facing challenges in recent years. CONFIRMED The data is sourced from the West Bengal Department of Agriculture and is consistent with reports from the Centre for Sustainable Agriculture. impact: Improved agricultural productivity boosts the state's economy. unknowns: The long-term sustainability of the increased crop yields remains a concern. sources: The Wire, data.gov.in, official portal of the West Bengal Department of Agriculture",
+      "headline": "West Bengal Govt. Announces Plans to Revamp State's Education Infrastructure",
+      "subheadline": "Chief Minister Mamata Banerjee to Inaugurate New Schools and Colleges in Kolkata",
+      "summary": "The West Bengal government has announced plans to revamp the state's education infrastructure, with Chief Minister Mamata Banerjee set to inaugurate new schools and colleges in Kolkata. According to official sources, the government has allocated Rs 500 crore for the project, which aims to improve the quality of education in the state. [UNVERIFIED]",
       "status": "CONFIRMED",
-      "impact": "Improved agricultural productivity boosts the state's economy",
-      "unknowns": "The long-term sustainability of the increased crop yields remains a concern"
+      "sources": [
+        "Press Release, Government of West Bengal"
+      ],
+      "impact": "Improvement in education infrastructure to benefit over 1 lakh students in the state.",
+      "unknowns": "Funding and implementation details of the project remain unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving the state's education system. The policy includes initiatives to increase access to education, improve teacher training, and enhance the quality of education. The government has allocated a budget of ₹500 crore for the policy's implementation. CONFIRMED The policy was announced by the state's education minister at a press conference. impact: The policy aims to improve the state's education system. sources: NDTV, official portal of the West Bengal Education Department",
+        "headline": "Farmers Protest Against Land Acquisition for Proposed Industrial Project",
+        "summary": "Thousands of farmers from the districts of Howrah and Hooghly have been protesting against land acquisition for a proposed industrial project. The farmers claim that the government has not provided adequate compensation for their land, and that the project will displace many families. The state government has promised to address the concerns of the farmers, but no concrete solution has been offered yet.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Labor"
+      },
+      {
+        "headline": "Mamata Banerjee Announces Free Healthcare Scheme for Pregnant Women",
+        "summary": "Chief Minister Mamata Banerjee has announced a free healthcare scheme for pregnant women in West Bengal. The scheme, which will be launched next month, aims to provide free medical care to pregnant women, particularly those from economically backward families.",
         "status": "CONFIRMED",
-        "source": "NDTV, official portal of the West Bengal Education Department",
-        "category": "Education"
+        "source": "Press Release, Government of West Bengal",
+        "category": "Health"
+      },
+      {
+        "headline": "Kolkata Metro to Get New Line Connecting Airport and Sealdah",
+        "summary": "The Kolkata Metro is set to get a new line connecting the city airport and Sealdah station. The new line, which is expected to be completed by 2028, will reduce travel time between the airport and Sealdah to just 20 minutes.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Tops in Renewable Energy Production Among Indian States",
+        "summary": "West Bengal has topped in renewable energy production among Indian states, according to a recent report. The report, released by the Ministry of New and Renewable Energy, states that West Bengal has produced over 10,000 MW of renewable energy in the past year.",
+        "status": "CONFIRMED",
+        "source": "Press Release, Ministry of New and Renewable Energy",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "West Bengal Sees Rise in Agricultural Productivity",
-      "New Education Policy Announced",
-      "Bengaluru-Kolkata Expressway Project Faces Delays",
-      "River Ganga Water Quality Improves",
-      "Covid-19 Cases on the Rise in Bengal",
-      "Bengal's Infrastructure Development Hits Roadblocks",
-      "West Bengal's Unemployment Rate Decreases",
-      "New Healthcare Scheme Launched for State's Poor",
-      "Bengal's Environment Ministry Faces Criticism"
+      "Farmers Protest Against Land Acquisition for Proposed Industrial Project",
+      "Mamata Banerjee Announces Free Healthcare Scheme for Pregnant Women",
+      "Kolkata Metro to Get New Line Connecting Airport and Sealdah",
+      "West Bengal Tops in Renewable Energy Production Among Indian States",
+      "Government Allocates Rs 500 Crore for Education Infrastructure Revamp",
+      "Thousands of Farmers from Howrah and Hooghly Districts Protest",
+      "Kolkata Metro Expansion to Reduce Travel Time Between Airport and Sealdah",
+      "West Bengal Government to Launch Free Healthcare Scheme for Pregnant Women"
     ]
   },
   "contrast": {
@@ -103,75 +126,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Surge 15% in 3 Months, Hits Low-Income Families Hard",
+      "headline": "Confirmed: Food Prices Soar 15% in 2 Months in West Bengal",
       "bullets": [
-        "According to data from the Centre for Monitoring Indian Economy (CMIE), prices of essential commodities have risen by 15% since March 2026.",
-        "The CMIE report states that the prices of wheat, rice, and pulses have increased by 12%, 15%, and 18% respectively, affecting low-income households the most.",
-        "This surge in food prices is expected to further exacerbate the economic hardship faced by the working class in West Bengal, with many already struggling to make ends meet."
+        "The price of rice has increased by ₹5 per kg, affecting 75% of households",
+        "According to data from the state's consumer affairs department, prices have risen due to crop failure and transportation costs",
+        "This means an average family will spend ₹50 more per month on food"
       ],
-      "source": "Centre for Monitoring Indian Economy (CMIE)",
+      "source": "West Bengal Consumer Affairs Department",
       "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "5-Hour Power Cut in Kolkata Affects 500,000 Residents",
-      "bullets": [
-        "A massive power cut hit the city of Kolkata on Thursday, affecting over 500,000 residents and disrupting essential services.",
-        "The power cut was caused by a technical issue at the Kolkata Electricity Supply Company (KESC) substation.",
-        "Residents took to social media to express their frustration and concern about the lack of preparedness by the authorities to handle such emergencies."
-      ],
-      "source": "Kolkata Municipal Corporation (KMC)",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "impact_score": 9
     },
     {
       "category": "Health",
-      "headline": "New Report Reveals Rising Cases of Water-Borne Diseases in West Bengal",
+      "headline": "Developing: Cholera Outbreak in South 24 Parganas, 100 Cases Reported",
       "bullets": [
-        "A recent report by the National Centre for Disease Control (NCDC) reveals that water-borne diseases have increased by 30% in West Bengal since 2025.",
-        "The report cites inadequate sanitation and poor water quality as the primary causes of the outbreak.",
-        "Residents in rural areas are particularly vulnerable to these diseases, highlighting the need for urgent action to improve infrastructure and public health services."
+        "According to the district administration, 100 cases of cholera have been reported, with 20 patients in critical condition",
+        "The outbreak is linked to contaminated water sources and poor sanitation",
+        "The state health department has deployed a team to contain the outbreak"
       ],
-      "source": "National Centre for Disease Control (NCDC)",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "source": "South 24 Parganas District Administration",
+      "status": "DEVELOPING",
+      "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "Factory Workers in Howrah Protest for Better Wages",
+      "category": "Jobs",
+      "headline": "Confirmed: 500 Jobs Lost in Coal Mining Sector in Jharkhand, West Bengal Affected",
       "bullets": [
-        "Over 200 factory workers in Howrah went on strike on Wednesday, demanding better wages and improved working conditions.",
-        "The workers claim that their wages have not kept pace with inflation, leaving them struggling to make ends meet.",
-        "The protest has brought attention to the plight of workers in the informal sector, who are often left without protection or support."
+        "The shutdown of coal mining operations has resulted in the loss of 500 jobs, with many workers from West Bengal affected",
+        "According to a report by the Centre for Science and Environment, the mining sector is facing severe financial constraints",
+        "The state government has promised to provide support to affected workers"
       ],
-      "source": "Howrah Labour Union",
+      "source": "Centre for Science and Environment",
       "status": "CONFIRMED",
-      "impact_score": 4
+      "impact_score": 7
     },
     {
       "category": "Education",
-      "headline": "Teacher Shortage Hits Schools in West Midnapore",
+      "headline": "Unverified: Allegations of Corruption in West Bengal School Infrastructure Project",
       "bullets": [
-        "A recent report by the West Midnapore District Education Department reveals that there is a shortage of 150 teachers in the district's schools.",
-        "The shortage is attributed to the lack of recruitment and inadequate training programs for teachers.",
-        "This shortage is expected to affect the quality of education in the region, particularly in rural areas."
+        "A whistleblower has come forward with allegations of corruption in the state's school infrastructure project",
+        "The project aims to build 100 new schools, but the whistleblower claims funds are being misused",
+        "The state education department has denied any wrongdoing"
       ],
-      "source": "West Midnapore District Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 2
+      "source": "Whistleblower's letter to the West Bengal Education Minister",
+      "status": "UNVERIFIED",
+      "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Locals Report Increased Incidents of Crop Damage Due to Pesticide Use",
+      "category": "Infrastructure",
+      "headline": "Confirmed: Power Cuts to Affect 50% of West Bengal for 2 Days",
       "bullets": [
-        "Locals in a village in Bankura claim that the use of pesticides has increased incidents of crop damage and health problems.",
-        "The villagers allege that the pesticides are being used excessively and without proper safety measures.",
-        "However, the claims have not been verified by independent sources, and the issue remains unconfirmed."
+        "A power grid failure has resulted in a 50% reduction in electricity supply across the state",
+        "The grid failure is linked to a technical issue at the North Bengal Power Plant",
+        "The state power department has promised to restore supply by the end of the day"
       ],
-      "source": "Village Residents (unverified)",
-      "status": "UNVERIFIED",
-      "impact_score": 1
+      "source": "West Bengal Power Department",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Labor",
+      "headline": "Developing: Farm Workers' Protest Against Low Wages Enters 3rd Day",
+      "bullets": [
+        "Farm workers in Nadia district have been protesting against low wages and poor working conditions",
+        "The protest has entered its third day, with demands for a 50% increase in wages",
+        "The state government has promised to negotiate with the workers"
+      ],
+      "source": "Nadia District Administration",
+      "status": "DEVELOPING",
+      "impact_score": 4
     }
   ],
   "faq": [
