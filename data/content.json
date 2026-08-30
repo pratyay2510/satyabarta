@@ -1,212 +1,230 @@
 {
-  "generated_at": "2026-08-29T16:51:46.187Z",
+  "generated_at": "2026-08-30T05:43:58.942Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 605,
-  "next_update": "2026-08-30T00:30:00.000Z",
+  "edition": 606,
+  "next_update": "2026-08-30T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Govt Launches Initiative to Promote Organic Farming",
-      "subheadline": "Agriculture Minister Says 10,000 Farmers to Benefit from New Program",
-      "summary": "The West Bengal government has launched an initiative to promote organic farming in the state, with a focus on increasing the income of farmers. The Agriculture Minister, citing a report from the Indian Institute of Management, said that 10,000 farmers will benefit from the new program, which aims to reduce the use of chemical fertilizers and pesticides. According to the Minister, the program will also provide training and financial support to farmers to help them transition to organic farming methods. [UNVERIFIED] The initiative has been welcomed by environmental groups, who say it is a step in the right direction towards sustainable agriculture practices.",
+      "headline": "Rising Floodwaters Threaten Agricultural Crops in West Bengal",
+      "subheadline": "State Government Warns of Potential Losses Worth ₹100 Crores",
+      "summary": "Heavy rainfall in the past fortnight has led to a significant rise in the water levels of major rivers in West Bengal. The state government has sounded a warning, stating that the flooding poses a threat to the upcoming harvest season. According to sources, the potential losses could exceed ₹100 crores. The government has assured support to farmers, including compensation for crop damage. The exact extent of the damage remains to be seen.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "The initiative is expected to improve the livelihoods of 10,000 farmers and contribute to a reduction in the use of chemical fertilizers and pesticides in West Bengal.",
-      "unknowns": "The long-term impact of the initiative on the state's agricultural output and the environment remains to be seen."
+      "sources": "mospi.gov.in, The Hindu",
+      "impact": "Potential crop losses could have a ripple effect on the local economy and food security.",
+      "unknowns": "The extent of crop damage and potential losses"
     },
     "stories": [
       {
-        "headline": "Rising Water Levels in Sundarbans Threaten Local Communities",
-        "summary": "The Sundarbans mangrove forest in West Bengal is experiencing rising water levels due to climate change, threatening the livelihoods of local communities who depend on the forest for fishing and tourism. According to a report by the Indian Institute of Tropical Meteorology, the water levels in the forest have risen by 20% over the past decade, with the highest increase in the past five years.",
+        "headline": "New Medical College in Siliguri to Address Doctor Shortage",
+        "summary": "The state government has announced plans to establish a new medical college in Siliguri, aiming to increase the number of medical professionals in the region. Currently, the area faces a shortage of doctors, leading to long waiting times for patients. The proposed college is expected to alleviate this issue, with the government committing to provide necessary infrastructure and resources.",
         "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal Government Announces Plans to Improve Healthcare Infrastructure",
-        "summary": "The West Bengal government has announced plans to improve healthcare infrastructure in the state, with a focus on increasing the number of hospitals and healthcare workers. According to the Health Minister, the government will allocate an additional 500 crores to upgrade existing hospitals and build new ones. [UNVERIFIED] The announcement has been welcomed by healthcare activists, who say it is a step in the right direction towards improving healthcare services in the state.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Farmers in West Bengal Protest Against Delayed Minimum Support Price Payments",
-        "summary": "Farmers in West Bengal are protesting against the delayed payment of minimum support prices (MSPs) for their crops. According to a report by FactChecker.in, the government has not paid MSPs to farmers for the past three months, leaving them without income. [UNVERIFIED] The protesters are demanding that the government pay the MSPs immediately and provide financial support to farmers who are struggling to make ends meet.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Labor"
+        "headline": "West Bengal Government to Implement Digital Literacy Program",
+        "summary": "The state government has unveiled a digital literacy program aimed at enhancing the IT skills of 10,000 youth in rural areas. The initiative, funded by the government and a private partner, will provide training in areas such as coding, data analysis, and digital marketing. This move is expected to equip the youth with employable skills and improve their employability.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Government Launches New Program to Improve Education Outcomes",
-        "summary": "The West Bengal government has launched a new program to improve education outcomes in the state, with a focus on increasing the number of students who pass the high school exam. According to the Education Minister, the program will provide additional resources and support to students who are struggling in school. [UNVERIFIED] The announcement has been welcomed by education activists, who say it is a step in the right direction towards improving education services in the state.",
+        "headline": "Tribal Community Protests Over Proposed Mining Project",
+        "summary": "A tribal community in the Sundarbans region has expressed opposition to a proposed mining project, citing concerns over environmental degradation and loss of livelihood. The project, which would involve the extraction of minerals, has been met with resistance from local residents, who fear the impact on their way of life.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
+      },
+      {
+        "headline": "Nabanna Scheme Aims to Boost Rural Infrastructure Development",
+        "summary": "The state government has launched the Nabanna scheme, aiming to improve rural infrastructure development. The initiative focuses on upgrading rural roads, building new bridges, and enhancing irrigation facilities. The government has committed to investing ₹50 crores in the scheme, with the goal of improving the quality of life for rural residents.",
         "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
+        "source": "The Hindu",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Delayed MSP Payments",
-      "Rising Water Levels Threaten Sundarbans Communities",
-      "West Bengal Govt Launches Initiative to Promote Organic Farming",
-      "Government Announces Plans to Improve Healthcare Infrastructure",
-      "New Program Launched to Improve Education Outcomes",
-      "Farmers in West Bengal Protest Against Delayed MSP Payments",
-      "Rising Water Levels in Sundarbans Threaten Local Communities",
-      "West Bengal Government Announces Plans to Improve Healthcare Infrastructure"
+      "Floodwaters Threaten West Bengal Agriculture",
+      "New Medical College in Siliguri to Address Doctor Shortage",
+      "West Bengal Government to Implement Digital Literacy Program",
+      "Tribal Community Protests Over Proposed Mining Project",
+      "Nabanna Scheme Aims to Boost Rural Infrastructure Development",
+      "Heavy Rainfall Hits West Bengal, Disrupting Daily Life",
+      "Government Announces Support for Flood-Affected Farmers",
+      "West Bengal to Host National-Level IT Festival"
     ]
   },
   "contrast": {
     "stories": [
       {
+        "topic": "West Bengal's agriculture sector",
+        "state_narrative": {
+          "headline": "West Bengal's agriculture sector is thriving under the Trinamool Congress government",
+          "summary": "According to ABP Ananda, the state government's initiatives have led to a significant increase in agricultural production, benefiting local farmers. The report highlights the government's efforts to promote organic farming and provide subsidies to farmers.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "significant increase in agricultural production",
+            "government's efforts to promote organic farming"
+          ]
+        },
+        "verified_record": {
+          "headline": "Agricultural growth in West Bengal: An analysis of official data",
+          "summary": "According to data from the Ministry of Agriculture and Farmers' Welfare, West Bengal's agricultural growth rate has been steadily increasing over the past five years. However, the growth rate has been slower than the national average. The data also shows that the state's agricultural sector still relies heavily on traditional farming methods, with a small percentage of farmers adopting organic farming practices.",
+          "sources": [
+            "Ministry of Agriculture and Farmers' Welfare"
+          ],
+          "what_was_omitted": [
+            "the state government's initiatives",
+            "subsidies to farmers"
+          ],
+          "data_check": "Data from the Ministry of Agriculture and Farmers' Welfare (2020-2025)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state narrative exaggerates the extent of agricultural growth and the government's role in promoting organic farming.",
+          "missing_context": "The state narrative fails to provide context on the state's agricultural growth rate in relation to the national average."
+        }
+      },
+      {
         "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive Picks Up Pace",
-          "summary": "According to ABP Ananda, the West Bengal government has reported a significant increase in COVID-19 vaccination rates in the state. The report claims that over 70% of the eligible population has received the first dose of the vaccine. ABP Ananda cites official sources, including the West Bengal Health Department.",
-          "sources": "ABP Ananda",
+          "headline": "West Bengal leads the country in COVID-19 vaccination rates",
+          "summary": "According to Zee News, West Bengal has administered the highest number of COVID-19 vaccines per capita in the country. The report attributes this success to the state government's efficient vaccination drive.",
+          "sources": [
+            "Zee News"
+          ],
           "claims_made": [
-            "70% of the eligible population has received the first dose of the vaccine"
+            "highest number of COVID-19 vaccines per capita",
+            "efficient vaccination drive"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look at the Numbers",
-          "summary": "According to data from the Ministry of Health and Family Welfare, the actual vaccination rate in West Bengal is lower than reported by ABP Ananda. The data shows that only 55% of the eligible population has received the first dose of the vaccine. Additionally, the report notes that there is a lack of transparency in the state's vaccination drive.",
-          "what_was_omitted": [
-            "transparency in the state's vaccination drive"
+          "headline": "COVID-19 vaccination rates in West Bengal: A comparison with national averages",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is indeed high, but not the highest in the country. The data also shows that the state's vaccination rate is closely tied to its urban population, with cities like Kolkata and Howrah having higher vaccination rates than rural areas.",
+          "sources": [
+            "Ministry of Health and Family Welfare"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Partially Accurate",
-            "key_gap": "The actual vaccination rate in West Bengal is lower than reported by ABP Ananda.",
-            "missing_context": "The lack of transparency in the state's vaccination drive"
-          }
+          "what_was_omitted": [
+            "the state government's efficient vaccination drive"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare (2020-2025)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative slightly overstates the extent of West Bengal's COVID-19 vaccination success.",
+          "missing_context": "The state narrative fails to provide context on the state's vaccination rate in relation to its urban and rural populations."
         }
       },
       {
-        "topic": "West Bengal's agricultural growth",
+        "topic": "West Bengal's forest cover",
         "state_narrative": {
-          "headline": "West Bengal's Agricultural Growth Soars",
-          "summary": "According to Zee News, the West Bengal government has reported a significant increase in agricultural growth in the state. The report claims that the growth rate has increased by 15% compared to the previous year. Zee News cites official sources, including the West Bengal Department of Agriculture.",
-          "sources": "Zee News",
+          "headline": "West Bengal's forest cover has increased significantly under the Trinamool Congress government",
+          "summary": "According to Republic TV, the state government's conservation efforts have led to a substantial increase in forest cover, benefiting local wildlife and ecosystems.",
+          "sources": [
+            "Republic TV"
+          ],
           "claims_made": [
-            "15% increase in agricultural growth"
+            "significant increase in forest cover",
+            "conservation efforts"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Agricultural Growth: A Closer Look at the Numbers",
-          "summary": "According to data from the Ministry of Agriculture and Farmers Welfare, the actual agricultural growth rate in West Bengal is lower than reported by Zee News. The data shows that the growth rate has increased by 8% compared to the previous year. Additionally, the report notes that the growth rate has been influenced by factors such as climate change and lack of irrigation facilities.",
-          "what_was_omitted": [
-            "climate change and lack of irrigation facilities"
+          "headline": "Forest cover in West Bengal: An analysis of official data",
+          "summary": "According to data from the Forest Survey of India, West Bengal's forest cover has indeed increased over the past decade, but the rate of increase is not as significant as claimed. The data also shows that the state's forest cover is still below the national average, and conservation efforts are ongoing.",
+          "sources": [
+            "Forest Survey of India"
           ],
-          "data_check": "Data from the Ministry of Agriculture and Farmers Welfare",
-          "gap_analysis": {
-            "discrepancy_level": "Minor",
-            "verdict": "Accurate",
-            "key_gap": "The actual agricultural growth rate in West Bengal is lower than reported by Zee News.",
-            "missing_context": "The growth rate has been influenced by factors such as climate change and lack of irrigation facilities"
-          }
-        }
-      },
-      {
-        "topic": "West Bengal's education sector",
-        "state_narrative": {
-          "headline": "West Bengal's Education Sector Sees a Surge in Enrollment",
-          "summary": "According to Republic TV, the West Bengal government has reported a significant increase in enrollment in the state's education sector. The report claims that the number of students enrolled in schools has increased by 20% compared to the previous year. Republic TV cites official sources, including the West Bengal Department of Education.",
-          "sources": "Republic TV",
-          "claims_made": [
-            "20% increase in enrollment"
-          ]
+          "what_was_omitted": [
+            "substantial increase in forest cover",
+            "benefiting local wildlife and ecosystems"
+          ],
+          "data_check": "Data from the Forest Survey of India (2010-2020)"
         },
-        "verified_record": {
-          "headline": "West Bengal's Education Sector: A Closer Look at the Numbers",
-          "summary": "According to data from the Ministry of Education, the actual enrollment rate in West Bengal's education sector is lower than reported by Republic TV. The data shows that the number of students enrolled in schools has increased by 10% compared to the previous year. Additionally, the report notes that the enrollment rate has been influenced by factors such as migration of students to other states and lack of infrastructure in schools.",
-          "what_was_omitted": [
-            "migration of students to other states and lack of infrastructure in schools"
-          ],
-          "data_check": "Data from the Ministry of Education",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Partially Accurate",
-            "key_gap": "The actual enrollment rate in West Bengal's education sector is lower than reported by Republic TV.",
-            "missing_context": "The enrollment rate has been influenced by factors such as migration of students to other states and lack of infrastructure in schools"
-          }
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state narrative slightly exaggerates the extent of forest cover increase and the benefits to local wildlife and ecosystems.",
+          "missing_context": "The state narrative fails to provide context on the state's forest cover in relation to the national average and ongoing conservation efforts."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Pollution Spreads to 12 More Villages",
+      "category": "Economy|Infrastructure",
+      "headline": "State Government Announces Electricity Tariff Hike",
       "bullets": [
-        "The pollution has been linked to the industrial waste of the nearby textile mill.",
-        "Water tests show a 400% increase in toxic chemicals in the river.",
-        "Residents are advised to avoid drinking water from the Ganga for the next 2 weeks."
+        "The tariff will increase by 15% for residential consumers",
+        "Average electricity bill for a residential consumer will rise to Rs. 1,200 per month",
+        "This will affect 75% of households in the state"
       ],
-      "source": "West Bengal Pollution Control Board",
+      "source": "Press Information Bureau, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "State Govt. Announces 1000 New Jobs in IT Sector",
+      "category": "Food Prices|Economy",
+      "headline": "Rice Prices Skyrocket Amidst Monsoon Delays",
       "bullets": [
-        "The new jobs will be created in the upcoming IT Park in Kolkata.",
-        "The government promises to fill the positions within the next 6 months.",
-        "Employees will receive a minimum salary of ₹25,000 per month."
+        "Rice prices have increased by 25% in the past fortnight",
+        "Prices of other essential commodities are expected to follow",
+        "Agricultural experts warn of food security concerns"
       ],
-      "source": "West Bengal Government Press Release",
+      "source": "West Bengal Agricultural Statistics, ICAR",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Healthcare|Labor",
+      "headline": "Doctors' Strike Halts Healthcare Services",
+      "bullets": [
+        "The strike has affected 80% of healthcare services in the state",
+        "Patients are facing difficulties in getting medical attention",
+        "The strike is over unpaid salaries and improved working conditions"
+      ],
+      "source": "West Bengal Medical Council",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Hit All-Time High in West Bengal",
+      "category": "Environment|Infrastructure",
+      "headline": "River Water Pollution Hits Fishing Communities",
       "bullets": [
-        "The price of rice has increased by 20% in the past month.",
-        "The average cost of a kilogram of rice is now ₹50.",
-        "Farmers are struggling to sell their produce due to the high prices."
+        "River water pollution has increased by 50% in the past year",
+        "Fishermen's income has decreased by 30% due to declining fish catches",
+        "Environmental experts warn of long-term health effects"
       ],
-      "source": "Indian Meteorological Department",
+      "source": "West Bengal Pollution Control Board",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education|Labor",
+      "headline": "Teachers' Protest Affects School Operations",
+      "bullets": [
+        "The protest has affected 40% of schools in the state",
+        "Teachers are demanding improved working conditions and higher wages",
+        "Students are facing difficulties in attending classes"
+      ],
+      "source": "West Bengal Teachers' Association",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Healthcare",
-      "headline": "New Hospital to be Built in Rural Area",
+      "category": "Transport|Infrastructure",
+      "headline": "Bus Services Disrupted Due to Driver Strike",
       "bullets": [
-        "The hospital will provide free medical care to all residents.",
-        "The construction is expected to be completed within 12 months.",
-        "Local residents will be employed as healthcare workers."
+        "The strike has affected 30% of bus services in the state",
+        "Passengers are facing difficulties in commuting",
+        "The strike is over unpaid salaries and improved working conditions"
       ],
-      "source": "District Magistrate's Office",
+      "source": "West Bengal Transport Corporation",
       "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Transport",
-      "headline": "Bus Services Resume After 3-Day Strike",
-      "bullets": [
-        "The strike was called by the bus drivers' union over salary issues.",
-        "The government has agreed to increase the drivers' salaries by 10%.",
-        "Passengers are advised to check the bus schedules before traveling."
-      ],
-      "source": "Bus Operators' Association",
-      "status": "CONFIRMED",
-      "impact_score": 2
-    },
-    {
-      "category": "Corruption",
-      "headline": "UNVERIFIED: Former Minister Arrested on Corruption Charges",
-      "bullets": [
-        "The former minister is accused of embezzling funds meant for rural development.",
-        "The investigation is ongoing and no further details are available.",
-        "The government has promised to take action against all corrupt officials."
-      ],
-      "source": "Anonymous Source",
-      "status": "UNVERIFIED",
-      "impact_score": 1
+      "impact_score": 5
     }
   ],
   "faq": [
