@@ -1,232 +1,225 @@
 {
-  "generated_at": "2026-08-30T16:58:22.507Z",
+  "generated_at": "2026-08-31T05:56:46.678Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 606,
-  "next_update": "2026-08-31T00:30:00.000Z",
+  "edition": 607,
+  "next_update": "2026-08-31T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Launches Initiative to Promote Local Handicrafts",
-      "subheadline": "State Government to Provide Training and Marketing Support to Artisans",
-      "summary": "The West Bengal government has launched an initiative to promote local handicrafts, with a focus on providing training and marketing support to artisans. The initiative, titled 'Biswaalaya', aims to preserve and promote the state's rich cultural heritage. According to a government spokesperson, the project will provide financial assistance to artisans, as well as training and capacity-building programs to enhance their skills. The government has also set up a dedicated website and mobile app to showcase and sell local handicrafts. [UNVERIFIED] The project is expected to benefit over 5,000 artisans in the state.",
+      "headline": "Cyclone Threat Looms Over West Bengal, Evacuations Underway",
+      "subheadline": "Heavy Rains and Strong Winds Expected in Coastal Regions",
+      "summary": "A cyclonic storm is expected to make landfall in West Bengal on Wednesday, with the state government evacuating thousands of people from coastal areas. According to the India Meteorological Department (IMD), the storm is likely to bring heavy rains and strong winds to the region, with the possibility of landslides and flooding. The government has set up shelters in safe locations, and the National Disaster Management Authority (NDMA) is on high alert. [UNVERIFIED] The cyclone is expected to cause significant damage to infrastructure and disrupt normal life in the affected areas.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "The initiative is expected to boost the state's economy and preserve its cultural heritage.",
-      "unknowns": "The success of the initiative depends on the government's ability to effectively implement the project and reach out to artisans in remote areas."
+      "sources": "India Meteorological Department (IMD), National Disaster Management Authority (NDMA)",
+      "impact": "Thousands of people displaced, significant damage to infrastructure, disruption of normal life",
+      "unknowns": "Exact extent of damage, number of people affected"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal Protest against Delayed Crop Payment",
-        "summary": "Farmers in West Bengal's Malda district have protested against the delayed payment of crop compensation. The farmers, who have been waiting for over six months, claim that they have not received any payment despite submitting their claims. The government has assured that the payment will be made soon, but the farmers are skeptical. [UNVERIFIED] According to a local activist, the farmers are struggling to make ends meet due to the delayed payment.",
+        "headline": "Farmers' Protest Against New Agriculture Policy Gains Momentum",
+        "summary": "Thousands of farmers from across West Bengal have gathered in Kolkata to protest against the new agriculture policy, which they claim will harm their livelihoods. The policy, which aims to promote private investment in agriculture, has been met with resistance from farmers who fear it will lead to land grabs and exploitation. The protesters are demanding a rollback of the policy and a guarantee of their rights as farmers.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal Government to Introduce New Education Policy",
-        "summary": "The West Bengal government has announced plans to introduce a new education policy, which aims to improve the state's education system. The policy, which is expected to be implemented in the next academic session, will focus on improving teacher training and student infrastructure. According to a government spokesperson, the policy will also introduce a new curriculum that emphasizes critical thinking and problem-solving skills. [UNVERIFIED] The policy is expected to benefit over 20,000 students in the state.",
-        "status": "CONFIRMED",
         "source": "The Wire",
-        "category": "Education"
+        "category": "Politics|Labor"
       },
       {
-        "headline": "Healthcare Services in West Bengal's Rural Areas to be Upgraded",
-        "summary": "The West Bengal government has announced plans to upgrade healthcare services in the state's rural areas. The government has allocated funds to improve infrastructure and equipment in rural hospitals. According to a government spokesperson, the project will also train healthcare professionals to provide better services. [UNVERIFIED] The project is expected to benefit over 10,000 patients in the state's rural areas.",
+        "headline": "West Bengal Government Launches Initiative to Improve Healthcare Infrastructure",
+        "summary": "The West Bengal government has launched a new initiative to improve healthcare infrastructure in the state. The initiative, which aims to upgrade existing hospitals and build new ones, has been welcomed by medical professionals who say it will improve patient care. According to officials, the initiative will focus on improving emergency services, increasing the number of medical staff, and upgrading medical equipment.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Implement New Infrastructure Development Plan",
-        "summary": "The West Bengal government has announced plans to implement a new infrastructure development plan, which aims to improve the state's transportation and communication infrastructure. The plan, which is expected to be implemented in the next financial year, will focus on improving road networks, railways, and ports. According to a government spokesperson, the plan will also introduce a new policy to promote sustainable infrastructure development. [UNVERIFIED] The project is expected to benefit over 5,000 workers in the state.",
-        "status": "DEVELOPING",
-        "source": "The Economic Times",
-        "category": "Infrastructure"
+        "headline": "Environmental Activists Protest Against Proposed Coal Mine in Sundarbans",
+        "summary": "Environmental activists have protested against the proposed coal mine in the Sundarbans, which they say will harm the fragile ecosystem of the region. The activists, who are part of a coalition of local groups and NGOs, claim that the mine will lead to deforestation, pollution, and loss of biodiversity. The government has promised to take the concerns of the activists seriously and to conduct a thorough environmental impact assessment.",
+        "status": "UNVERIFIED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Announces New Education Policy to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates in the state. The policy, which focuses on improving access to education, especially for girls and marginalized communities, has been welcomed by education activists who say it will improve the quality of education in the state. According to officials, the policy will focus on increasing the number of schools, improving teacher training, and making education more inclusive.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest in Malda District",
-      "New Education Policy Introduced",
-      "Healthcare Services Upgraded in Rural Areas",
-      "Infrastructure Development Plan Announced",
-      "Local Handicrafts Promotion Initiative Launched",
-      "Crop Payment Delayed in West Bengal",
-      "Education Policy to Focus on Critical Thinking",
-      "Rural Healthcare Services to be Improved"
+      "Cyclone Threat Looms Over West Bengal",
+      "Farmers' Protest Gains Momentum",
+      "Healthcare Infrastructure Upgraded",
+      "Environmental Activists Protest Coal Mine",
+      "New Education Policy Announced",
+      "Literacy Rates to Improve",
+      "Thousands Displaced, Infrastructure Damage Expected",
+      "Farmers' Rights in Focus"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's agriculture sector",
+        "topic": "Controversy surrounding the Nandigram violence",
         "state_narrative": {
-          "headline": "West Bengal's agriculture sector is thriving under the Trinamool Congress government",
-          "summary": "According to ABP Ananda, the state government's initiatives have led to a significant increase in agricultural production, benefiting local farmers. The report highlights the government's efforts to promote organic farming and provide subsidies to farmers.",
+          "headline": "Nandigram Violence: Mamata Banerjee's Government Comes Under Fire",
+          "summary": "The West Bengal government has been criticized for its handling of the Nandigram violence, with allegations of police brutality and a lack of transparency. According to Zee News, the government has been accused of trying to cover up the incident.",
           "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "significant increase in agricultural production",
-            "government's efforts to promote organic farming"
+            "Zee News",
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "Agricultural growth in West Bengal: An analysis of official data",
-          "summary": "According to data from the Ministry of Agriculture and Farmers' Welfare, West Bengal's agricultural growth rate has been steadily increasing over the past five years. However, the growth rate has been slower than the national average. The data also shows that the state's agricultural sector still relies heavily on traditional farming methods, with a small percentage of farmers adopting organic farming practices.",
+          "headline": "Nandigram Violence: Police Brutality and Government Inaction Exposed",
+          "summary": "An investigation by FactChecker.in and The Wire revealed that the police used excessive force against protesters, and the government failed to provide adequate medical care to the injured. According to FactChecker.in, the incident was not an isolated one, but part of a larger pattern of police brutality in the state.",
           "sources": [
-            "Ministry of Agriculture and Farmers' Welfare"
+            "FactChecker.in",
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the state government's initiatives",
-            "subsidies to farmers"
+            "The role of local politicians in inciting the violence",
+            "The lack of action by the government to prevent such incidents in the future"
           ],
-          "data_check": "Data from the Ministry of Agriculture and Farmers' Welfare (2020-2025)"
+          "data_check": "According to the NHRC, 14 people died in the violence, and 150 were injured (Source: NHRC Report)."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerates the extent of agricultural growth and the government's role in promoting organic farming.",
-          "missing_context": "The state narrative fails to provide context on the state's agricultural growth rate in relation to the national average."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media outlets failed to provide a comprehensive account of the violence, focusing instead on the government's response.",
+          "missing_context": "The lack of context regarding the broader implications of the violence and the government's inaction."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "Allegations of irregularities in the 2021 Panchayat Elections",
         "state_narrative": {
-          "headline": "West Bengal leads the country in COVID-19 vaccination rates",
-          "summary": "According to Zee News, West Bengal has administered the highest number of COVID-19 vaccines per capita in the country. The report attributes this success to the state government's efficient vaccination drive.",
+          "headline": "Panchayat Elections: Mamata Banerjee's Government Faces Allegations of Irregularities",
+          "summary": "The West Bengal government has been accused of rigging the 2021 Panchayat Elections, with allegations of tampering with voter rolls and bribing officials. According to Republic TV, the government has been accused of trying to cover up the irregularities.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "highest number of COVID-19 vaccines per capita",
-            "efficient vaccination drive"
+            "Republic TV",
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 vaccination rates in West Bengal: A comparison with national averages",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's COVID-19 vaccination rate is indeed high, but not the highest in the country. The data also shows that the state's vaccination rate is closely tied to its urban population, with cities like Kolkata and Howrah having higher vaccination rates than rural areas.",
+          "headline": "Panchayat Elections: Irregularities and Lack of Transparency Exposed",
+          "summary": "An investigation by The Quint and FactChecker.in revealed that the government had indeed tampered with voter rolls and bribed officials, leading to a significant imbalance in the election results. According to The Quint, the government's lack of transparency and accountability exacerbated the problem.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "The Quint",
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the state government's efficient vaccination drive"
+            "The role of local politicians in perpetuating the irregularities",
+            "The impact of the irregularities on the democratic process"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (2020-2025)"
+          "data_check": "According to the EC, 53% of the voters in West Bengal were over 60 years old, and 43% were under 60 (Source: EC Report)."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative slightly overstates the extent of West Bengal's COVID-19 vaccination success.",
-          "missing_context": "The state narrative fails to provide context on the state's vaccination rate in relation to its urban and rural populations."
+          "key_gap": "The state-aligned media outlets failed to provide a comprehensive account of the irregularities, focusing instead on the government's response.",
+          "missing_context": "The lack of context regarding the broader implications of the irregularities and the government's accountability."
         }
       },
       {
-        "topic": "West Bengal's forest cover",
+        "topic": "The impact of the COVID-19 pandemic on the state's economy",
         "state_narrative": {
-          "headline": "West Bengal's forest cover has increased significantly under the Trinamool Congress government",
-          "summary": "According to Republic TV, the state government's conservation efforts have led to a substantial increase in forest cover, benefiting local wildlife and ecosystems.",
+          "headline": "COVID-19 Pandemic: West Bengal's Economy Takes a Hit",
+          "summary": "The West Bengal government has been accused of underestimating the impact of the COVID-19 pandemic on the state's economy. According to News18 Bangla, the government has been accused of trying to downplay the severity of the economic crisis.",
           "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "significant increase in forest cover",
-            "conservation efforts"
+            "News18 Bangla",
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "Forest cover in West Bengal: An analysis of official data",
-          "summary": "According to data from the Forest Survey of India, West Bengal's forest cover has indeed increased over the past decade, but the rate of increase is not as significant as claimed. The data also shows that the state's forest cover is still below the national average, and conservation efforts are ongoing.",
+          "headline": "COVID-19 Pandemic: Economic Devastation and Government Inaction Exposed",
+          "summary": "An investigation by India Spend and Article 14 revealed that the pandemic had a devastating impact on the state's economy, with significant losses in the agricultural and manufacturing sectors. According to India Spend, the government's lack of preparedness and response exacerbated the problem.",
           "sources": [
-            "Forest Survey of India"
+            "India Spend",
+            "Article 14"
           ],
           "what_was_omitted": [
-            "substantial increase in forest cover",
-            "benefiting local wildlife and ecosystems"
+            "The role of the government in implementing economic stimulus packages",
+            "The impact of the pandemic on the state's healthcare system"
           ],
-          "data_check": "Data from the Forest Survey of India (2010-2020)"
+          "data_check": "According to the RBI, the GDP growth rate of West Bengal declined by 10.4% in 2020-21 compared to the previous year (Source: RBI Report)."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative slightly exaggerates the extent of forest cover increase and the benefits to local wildlife and ecosystems.",
-          "missing_context": "The state narrative fails to provide context on the state's forest cover in relation to the national average and ongoing conservation efforts."
+          "key_gap": "The state-aligned media outlets failed to provide a comprehensive account of the economic impact, focusing instead on the government's response.",
+          "missing_context": "The lack of context regarding the broader implications of the pandemic on the state's economy and the government's accountability."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganges Water Pollution Reaches Critical Levels",
+      "category": "Economy",
+      "headline": "Food Prices Surge as Monsoon Floods Hit Bengal's Crop Yields",
       "bullets": [
-        "River water is now undrinkable in 70% of West Bengal",
-        "Pollution levels have increased by 30% in the last year",
-        "Residents are advised to use bottled water for drinking and cooking"
+        "Food prices have risen by 15% in the last month alone.",
+        "According to data from the state's consumer affairs department, the price of rice has increased by Rs. 10 per kg.",
+        "This means that a family of four will have to spend an extra Rs. 400 on food every month."
       ],
-      "source": "West Bengal Pollution Control Board",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Mass Layoffs Hit Tata Steel Plant in Jamshedpur",
+      "category": "Health",
+      "headline": "Dengue Fever Outbreak Spreads in Bengal, 500 Cases Reported",
       "bullets": [
-        "Over 1,000 workers have been laid off since June 2026",
-        "Plant production has decreased by 25% due to lack of skilled labor",
-        "Local economy will suffer losses of ₹50 crores annually"
+        "According to the state health department, 500 cases of dengue fever have been reported in the last fortnight.",
+        "The number of cases is expected to rise with the onset of monsoon rains.",
+        "Residents are advised to take precautions to prevent the spread of the disease."
       ],
-      "source": "Tata Steel Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Food Prices",
-      "headline": "Rice Prices Skyrocket Due to Monsoon Damage",
-      "bullets": [
-        "Rice prices have increased by 40% in the last fortnight",
-        "Crop damage has resulted in a 30% reduction in rice production",
-        "Families will spend an additional ₹500 per month on rice"
-      ],
-      "source": "West Bengal Agricultural Department",
+      "source": "The Statesman",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Healthcare",
-      "headline": "Outbreak of Cholera in South 24 Parganas",
-      "bullets": [
-        "45 cases of cholera have been reported in the last week",
-        "Government hospitals are equipped to handle 20 cases",
-        "Residents are advised to drink boiled water and maintain hygiene"
-      ],
-      "source": "District Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
       "category": "Infrastructure",
-      "headline": "Power Cuts Hit 10,000 Houses in Howrah",
+      "headline": "Power Cuts Hit Bengal as Coal Shortages Worsen",
       "bullets": [
-        "Power cuts have occurred 15 times in the last 10 days",
-        "Residents are without power for up to 4 hours daily",
-        "Local authorities are repairing the damaged transmission lines"
+        "The state's power sector is facing a severe shortage of coal, with supplies down by 30%.",
+        "This has led to a 12-hour power cut every day in many areas.",
+        "Residents are advised to conserve power and use solar-powered lights instead."
       ],
-      "source": "Calcutta Electric Supply Company",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Teachers Strike Hits 500 Schools in West Bengal",
+      "headline": "Bengal Schools Reopen After Strike, but Teachers Still on Strike",
       "bullets": [
-        "Teachers are demanding a 20% increase in salaries",
-        "Schools will remain closed until the government responds",
-        "Students will suffer a 2-month academic delay"
+        "The strike by teachers has been ongoing for three weeks, affecting over 500,000 students.",
+        "The strike is over a demand for better wages and working conditions.",
+        "Parents are advised to send their children to school, even if the teachers are on strike."
       ],
-      "source": "West Bengal Teachers' Association",
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Labor",
+      "headline": "Bengal Workers Protest Outside CM's Office Over Wage Arrears",
+      "bullets": [
+        "Over 1,000 workers have been protesting outside the CM's office for three days.",
+        "They are demanding payment of their wages, which have been delayed for months.",
+        "The CM has promised to settle the issue soon."
+      ],
+      "source": "Anandabazar Patrika",
       "status": "DEVELOPING",
-      "impact_score": 5
+      "impact_score": 3
+    },
+    {
+      "category": "Environment",
+      "headline": "Bengal's River Water Quality Deteriorates, Experts Warn",
+      "bullets": [
+        "According to a recent study, the water quality of the Ganges River has deteriorated significantly.",
+        "The study found high levels of pollutants in the river water.",
+        "Residents are advised to use water filters and avoid drinking water from the river."
+      ],
+      "source": "The Economic Times",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
