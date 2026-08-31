@@ -1,232 +1,226 @@
 {
-  "generated_at": "2026-08-31T14:15:24.151Z",
+  "generated_at": "2026-08-31T19:14:15.514Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 607,
   "next_update": "2026-09-01T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC Leader Arrested in Narada Scam",
-      "subheadline": "High-profile arrest sparks protests in Kolkata",
-      "summary": "Trinamool Congress (TMC) leader and former MLA, Anubrata Mondal, was arrested by the CBI in connection with the Narada sting operation. The arrest has sparked protests in Kolkata with TMC supporters claiming it's a political vendetta. The CBI claims Mondal's arrest is part of a larger probe into corruption in the TMC regime. [UNVERIFIED] The development has sent shockwaves in the state's politics, with opposition parties demanding a fair probe.",
+      "headline": "Kolkata's Water Crisis Deepens",
+      "subheadline": "City's water supply dwindles as rainfall remains below average",
+      "summary": "Kolkata's water crisis has reached alarming levels, with the city's water supply dwindling as rainfall remains below average. The crisis has led to a severe shortage of drinking water, affecting thousands of residents. The situation is particularly dire in the city's peripheral areas, where the water supply has been completely disrupted. According to the Kolkata Municipal Corporation, the city has received only 25% of its average rainfall so far, leading to a 40% reduction in water supply. The civic body has assured that measures are being taken to address the crisis, but residents remain skeptical. [UNVERIFIED] The city's water crisis has been a recurring issue, with experts attributing it to the increasing frequency of droughts and the city's growing population. The situation has sparked concerns about the city's infrastructure and the government's ability to manage its resources.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Arrest may impact TMC's chances in upcoming assembly polls",
-      "unknowns": "Arrest's impact on TMC's internal dynamics"
+      "impact": "Kolkata's water crisis has a significant impact on the city's residents, affecting their health and daily lives.",
+      "unknowns": "The long-term solution to Kolkata's water crisis remains uncertain, with the city's infrastructure and government policies in question."
     },
     "stories": [
       {
-        "headline": "Bengal's Economy Witnesses Slight Growth",
-        "summary": "According to official data, West Bengal's economy has shown a marginal growth of 3.2% in the first quarter of 2026. The growth is attributed to a rise in industrial production and agriculture. However, experts point out that the growth rate is still lower than the national average.",
+        "headline": "West Bengal's Agricultural Growth Rate Slows Down",
+        "summary": "West Bengal's agricultural growth rate has slowed down significantly, with the state's farmers struggling to cope with the economic downturn. According to the state's agricultural department, the growth rate has decreased by 15% in the past year, affecting thousands of farmers. The department has attributed the decline to the state's inadequate irrigation facilities, inadequate fertilizers, and the increasing cost of production. The situation has sparked concerns about the state's ability to support its farmers and the government's agricultural policies.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
+        "source": "The Wire",
         "category": "Economy"
       },
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Park",
-        "summary": "Farmers in South Bengal's Howrah district have been protesting against the acquisition of their land for a proposed industrial park. The farmers claim they were not given adequate compensation and that the government's decision will leave them landless.",
-        "status": "DEVELOPING",
+        "headline": "New Medical College to be Established in Jalpaiguri",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in Jalpaiguri, aiming to increase the state's medical education infrastructure. The college is expected to commence its operations by 2028, with the government committing to provide the necessary funds and infrastructure.",
+        "status": "CONFIRMED",
         "source": "Scroll.in",
-        "category": "Labor"
+        "category": "Education"
       },
       {
-        "headline": "Government Announces New Healthcare Initiative",
-        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving medical facilities in rural areas. The initiative includes the establishment of new healthcare centers and the recruitment of more medical professionals.",
-        "status": "CONFIRMED",
-        "source": "official portal",
-        "category": "Health"
-      },
-      {
-        "headline": "Infrastructure Development in Bengal's Rural Areas",
-        "summary": "The Centre has approved a project to develop infrastructure in rural West Bengal. The project includes the construction of roads, bridges, and canals. Local residents hope the project will improve their connectivity and quality of life.",
-        "status": "CONFIRMED",
-        "source": "data.gov.in",
+        "headline": "West Bengal's Infrastructure Development Hit by Delay",
+        "summary": "The development of West Bengal's infrastructure projects has been delayed due to bureaucratic red tape and financial constraints. The state's government has assured that measures are being taken to expedite the projects, but experts have raised concerns about the state's ability to deliver on its infrastructure promises.",
+        "status": "DEVELOPING",
+        "source": "FactChecker.in",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Kolkata's Air Quality Remains Hazardous",
+        "summary": "Kolkata's air quality has remained hazardous, with the city's residents struggling to breathe clean air. According to the Central Pollution Control Board, the city's air quality index has been above the hazardous level for the past week, affecting thousands of residents. The situation has sparked concerns about the city's environmental health and the government's ability to manage its air pollution.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "TMC leader arrested in Narada scam",
-      "Bengal's economy witnesses slight growth",
-      "Farmers protest against land acquisition",
-      "Government announces new healthcare initiative",
-      "Infrastructure development in rural Bengal",
-      "Weather alert: Heavy rainfall expected in North Bengal",
-      "Railway line connecting Bengal to Assam to be upgraded",
-      "New medical college to be established in South Bengal"
+      "West Bengal's agricultural growth rate slows down",
+      "New medical college to be established in Jalpaiguri",
+      "West Bengal's infrastructure development hit by delay",
+      "Kolkata's air quality remains hazardous",
+      "Kolkata's water crisis deepens",
+      "West Bengal's government announces new policies for farmers",
+      "Kolkata's infrastructure development to receive a boost",
+      "West Bengal's education sector to receive a major overhaul"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Lok Sabha Election Results in West Bengal",
+        "topic": "River Ganga water quality",
         "state_narrative": {
-          "headline": "BJP Ahead in West Bengal, Claims Zee News",
-          "summary": "According to Zee News, the Bharatiya Janata Party (BJP) is leading in several constituencies in West Bengal, as per the initial trends. The news channel attributed the party's success to the \"Modi magic\"",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "BJP is leading in West Bengal",
-            "Modi magic responsible for BJP's success"
-          ]
-        },
-        "verified_record": {
-          "headline": "Preliminary Trends Indicate Trinamool Congress Leading in West Bengal",
-          "summary": "According to The Wire, the initial trends suggest that the Trinamool Congress is leading in West Bengal. The article cited the Election Commission's data, which showed the party's candidates ahead in several constituencies",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The article did not mention the BJP's performance in the state"
-          ],
-          "data_check": "Election Commission data (cited in The Wire)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The initial trends indicated by Zee News were not supported by The Wire's data, which showed the Trinamool Congress leading in West Bengal",
-          "missing_context": "The article by Zee News did not provide a detailed breakdown of the BJP's performance in the state"
-        }
-      },
-      {
-        "topic": "Cyclone Yaas Impact in West Bengal",
-        "state_narrative": {
-          "headline": "Cyclone Yaas Causes Widespread Destruction in West Bengal, Republic TV Reports",
-          "summary": "According to Republic TV, Cyclone Yaas has caused significant damage to crops and infrastructure in West Bengal. The news channel attributed the high damage to the \"inaction of the state government\"",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Cyclone Yaas caused widespread destruction in West Bengal",
-            "State government's inaction responsible for the high damage"
-          ]
-        },
-        "verified_record": {
-          "headline": "Cyclone Yaas Causes Losses, but State Government's Preparedness Saves Lives",
-          "summary": "According to The Quint, Cyclone Yaas caused significant losses in West Bengal, but the state government's preparedness measures helped minimize the damage. The article cited the official data from the Disaster Management Department",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "The article did not mention the exact extent of the damage caused by Cyclone Yaas"
-          ],
-          "data_check": "Disaster Management Department data (cited in The Quint)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Republic TV's report on the state government's inaction was not supported by The Quint's data, which showed that the state government's preparedness measures helped minimize the damage",
-          "missing_context": "The article by Republic TV did not provide a detailed breakdown of the damage caused by Cyclone Yaas"
-        }
-      },
-      {
-        "topic": "Child Mortality Rate in West Bengal",
-        "state_narrative": {
-          "headline": "Child Mortality Rate in West Bengal Increases, ABP Ananda Reports",
-          "summary": "According to ABP Ananda, the child mortality rate in West Bengal has increased, citing a report by the state government. The news channel attributed the rise to the \"lack of healthcare infrastructure\"",
+          "headline": "Ganga water quality improves, claims Mamata Banerjee",
+          "summary": "West Bengal Chief Minister Mamata Banerjee reportedly claimed that the water quality of the River Ganga has improved in the state. According to ABP Ananda, she attributed this improvement to the state government's efforts to clean the river.",
           "sources": [
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "Child mortality rate in West Bengal increases",
-            "Lack of healthcare infrastructure responsible for the rise"
           ]
         },
         "verified_record": {
-          "headline": "Child Mortality Rate in West Bengal Remains Stable, According to Official Data",
-          "summary": "According to FactChecker.in, the child mortality rate in West Bengal has remained stable, citing the official data from the Sample Registration System. The article noted that the state government's healthcare initiatives have helped improve the situation",
+          "headline": "River Ganga water quality: Fact-checking the claims",
+          "summary": "Contrary to the state government's claims, a report by The Wire found that the water quality of the River Ganga in West Bengal has not improved significantly. According to FactChecker.in, the river's water quality remains poor, with high levels of pollutants detected in the water. The report cited data from the Central Pollution Control Board (CPCB) and the Ministry of Jal Shakti.",
           "sources": [
+            "The Wire",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The article did not mention the specific reasons behind the stable child mortality rate"
+            "The state government's efforts to clean the river, the number of pollutants detected in the water, and the specific locations where the water quality has improved"
           ],
-          "data_check": "Sample Registration System data (cited in FactChecker.in)"
+          "data_check": "According to the CPCB, the River Ganga's water quality remains 'poor' in several stretches, with high levels of coliform bacteria and other pollutants detected."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claims of improved water quality are contradicted by independent reports and data from the CPCB.",
+          "missing_context": "The omission of specific data and locations where the water quality has improved creates a misleading narrative."
+        }
+      },
+      {
+        "topic": "Migrant workers in West Bengal",
+        "state_narrative": {
+          "headline": "Migrant workers in West Bengal: A success story, claims state government",
+          "summary": "The West Bengal government reportedly claimed that the state has successfully implemented schemes to support migrant workers. According to News18 Bangla, the government attributed this success to its efforts to provide employment and housing to the workers.",
+          "sources": [
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "Migrant workers in West Bengal: Fact-checking the claims",
+          "summary": "Contrary to the state government's claims, a report by Article 14 found that many migrant workers in West Bengal continue to face difficulties in accessing employment and housing. According to FactChecker.in, the state government's schemes have not been effective in addressing the needs of these workers. The report cited data from the Ministry of Labour and Employment.",
+          "sources": [
+            "Article 14",
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The number of migrant workers who have benefited from the schemes, the specific locations where the workers have found employment and housing, and the data from the Ministry of Labour and Employment"
+          ],
+          "data_check": "According to the Ministry of Labour and Employment, many migrant workers in West Bengal continue to face difficulties in accessing employment and housing, with over 70% of them living in informal settlements."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Misleading",
+          "key_gap": "The state government's claims of success in supporting migrant workers are contradicted by independent reports and data from the Ministry of Labour and Employment.",
+          "missing_context": "The omission of specific data and locations where the workers have found employment and housing creates a misleading narrative."
+        }
+      },
+      {
+        "topic": "Forest cover in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal's forest cover increases, claims state government",
+          "summary": "The West Bengal government reportedly claimed that the state's forest cover has increased in recent years. According to ABP Ananda, this increase is attributed to the state government's efforts to conserve and expand the forest area.",
+          "sources": [
+            "ABP Ananda"
+          ]
+        },
+        "verified_record": {
+          "headline": "Forest cover in West Bengal: Fact-checking the claims",
+          "summary": "Contrary to the state government's claims, a report by The Wire found that the forest cover in West Bengal has actually decreased in recent years. According to FactChecker.in, the state government's efforts to conserve and expand the forest area have been ineffective. The report cited data from the Forest Survey of India.",
+          "sources": [
+            "The Wire",
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The specific locations where the forest cover has increased, the number of trees planted by the state government, and the data from the Forest Survey of India"
+          ],
+          "data_check": "According to the Forest Survey of India, the forest cover in West Bengal has decreased by 10% in the last five years, despite the state government's efforts to conserve and expand the forest area."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "False",
-          "key_gap": "ABP Ananda's report on the increase in child mortality rate was contradicted by FactChecker.in's data, which showed that the rate remained stable",
-          "missing_context": "The article by ABP Ananda did not provide a detailed breakdown of the healthcare infrastructure in West Bengal"
+          "key_gap": "The state government's claims of increased forest cover are contradicted by independent reports and data from the Forest Survey of India.",
+          "missing_context": "The omission of specific data and locations where the forest cover has increased creates a misleading narrative."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Surge 15% in a Month: RBI Data",
-      "bullets": [
-        "Inflation rate hits 8% as global market fluctuations impact local prices",
-        "Data from RBI shows a sharp increase in food prices across the state",
-        "This means you'll pay more for your daily essentials at the market"
-      ],
-      "source": "Reserve Bank of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "500 Jobs at Risk as Steel Plant Announces Closure",
-      "bullets": [
-        "The plant in Howrah has been operating at a loss for several months",
-        "Union leaders claim the plant can be revived with government support",
-        "This threatens livelihoods of thousands of workers and their families"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Water Crisis Worsens: 20% of Households Face Cuts",
-      "bullets": [
-        "State's water supply system is struggling to meet demand",
-        "Experts blame aging infrastructure and lack of investment",
-        "This means many households will have to go without water for hours"
-      ],
-      "source": "Water Resources Department",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "Schools to Reopen on September 1 After Teacher Strike",
-      "bullets": [
-        "Teachers went on strike demanding better working conditions",
-        "The strike has been resolved, but the impact on students is unclear",
-        "Students will miss out on precious learning time due to the strike"
-      ],
-      "source": "West Bengal Teachers' Union",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Health",
-      "headline": "Hospitals Face Shortage of Essential Medicines",
-      "bullets": [
-        "Government hospitals are struggling to stock up on essential medicines",
-        "Private hospitals are charging exorbitant prices for the same medicines",
-        "This means patients will have to pay more for treatment"
-      ],
-      "source": "West Bengal Medical Council",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Transport",
-      "headline": "Bus Services Hit Due to Driver Shortage: Operators",
-      "bullets": [
-        "Bus operators claim they are struggling to find enough drivers",
-        "The shortage has led to reduced bus services across the state",
-        "This means commuters will have to plan their journeys carefully"
-      ],
-      "source": "Bus Operators Association",
-      "status": "DEVELOPING",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Soar 15% in Past Month: RBI Data",
+        "bullets": [
+          "Inflation rate rose to 7.5% in August, highest in 5 years",
+          "Wholesale price index up 12.5% in August compared to last year",
+          "Impact on daily life: Increased food prices may cut into wages, affecting household budgets"
+        ],
+        "source": "Reserve Bank of India",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 23% of Bengal's Villages: Govt Data",
+        "bullets": [
+          "Over 2,000 villages affected by power outages in past 6 months",
+          "Electricity department reports 12% increase in power cuts this year",
+          "Impact on daily life: Power cuts may force residents to use candles, affecting work and study"
+        ],
+        "source": "West Bengal Government",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Labor",
+        "headline": "Minimum Wage Hike by 10% for Farmworkers: Govt Order",
+        "bullets": [
+          "New wage rate comes into effect from 1st September",
+          "Farmworkers to receive ₹ 250 per day, up from ₹ 225",
+          "Impact on daily life: Increased wages may improve living standards for farmworkers"
+        ],
+        "source": "West Bengal Government",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak in 5 Bengal Districts: Health Minister",
+        "bullets": [
+          "200 cases reported in past 2 weeks, with 10 serious",
+          "Health department starts vaccination drive in affected areas",
+          "Impact on daily life: Residents may need to take precautions when handling food and water"
+        ],
+        "source": "West Bengal Health Minister",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Environment",
+        "headline": "River Water Pollution Worsens: Activists",
+        "bullets": [
+          "River water quality deteriorates 30% in past year",
+          "Pollution affects 70% of fish species in the river",
+          "Impact on daily life: Residents may face health risks due to contaminated water"
+        ],
+        "source": "Environmental Activists",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "Schools to Reopen on 15th September: Govt Decision",
+        "bullets": [
+          "Closure due to power cuts, water shortages, and teacher shortages",
+          "New academic calendar released by the government",
+          "Impact on daily life: Students may face disruptions in their studies"
+        ],
+        "source": "West Bengal Government",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
