@@ -1,60 +1,59 @@
 {
-  "generated_at": "2026-08-31T19:14:15.514Z",
+  "generated_at": "2026-09-01T05:29:54.089Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 607,
-  "next_update": "2026-09-01T00:30:00.000Z",
+  "edition": 608,
+  "next_update": "2026-09-01T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Kolkata's Water Crisis Deepens",
-      "subheadline": "City's water supply dwindles as rainfall remains below average",
-      "summary": "Kolkata's water crisis has reached alarming levels, with the city's water supply dwindling as rainfall remains below average. The crisis has led to a severe shortage of drinking water, affecting thousands of residents. The situation is particularly dire in the city's peripheral areas, where the water supply has been completely disrupted. According to the Kolkata Municipal Corporation, the city has received only 25% of its average rainfall so far, leading to a 40% reduction in water supply. The civic body has assured that measures are being taken to address the crisis, but residents remain skeptical. [UNVERIFIED] The city's water crisis has been a recurring issue, with experts attributing it to the increasing frequency of droughts and the city's growing population. The situation has sparked concerns about the city's infrastructure and the government's ability to manage its resources.",
+      "headline": "Mamata Banerjee Lays Foundation Stone for ₹2,000 Crore IT Hub in Kolkata",
+      "subheadline": "West Bengal Government Aims to Create 50,000 Jobs in Next 5 Years",
+      "summary": "West Bengal Chief Minister Mamata Banerjee laid the foundation stone for a ₹2,000 crore IT hub in Kolkata, which is expected to create over 50,000 jobs in the next five years. The project, a joint venture between the state government and a private firm, aims to make Kolkata a major hub for IT and technology in Eastern India. According to sources, the hub will offer state-of-the-art infrastructure, including high-speed internet connectivity and modern office spaces, to startups and established companies alike.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "The Telegraph, Kolkata"
       ],
-      "impact": "Kolkata's water crisis has a significant impact on the city's residents, affecting their health and daily lives.",
-      "unknowns": "The long-term solution to Kolkata's water crisis remains uncertain, with the city's infrastructure and government policies in question."
+      "impact": "The project is expected to boost Kolkata's economy and make it a hub for IT and technology in Eastern India.",
+      "unknowns": "The exact timeline for the completion of the project is yet to be announced."
     },
     "stories": [
       {
-        "headline": "West Bengal's Agricultural Growth Rate Slows Down",
-        "summary": "West Bengal's agricultural growth rate has slowed down significantly, with the state's farmers struggling to cope with the economic downturn. According to the state's agricultural department, the growth rate has decreased by 15% in the past year, affecting thousands of farmers. The department has attributed the decline to the state's inadequate irrigation facilities, inadequate fertilizers, and the increasing cost of production. The situation has sparked concerns about the state's ability to support its farmers and the government's agricultural policies.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "New Medical College to be Established in Jalpaiguri",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in Jalpaiguri, aiming to increase the state's medical education infrastructure. The college is expected to commence its operations by 2028, with the government committing to provide the necessary funds and infrastructure.",
+        "headline": "Farmers' Protest Against New Crop Insurance Scheme in Murshidabad",
+        "summary": "Farmers in Murshidabad district are protesting against the new crop insurance scheme introduced by the state government, alleging that it will benefit only a select few. According to sources, the scheme, which was launched last month, provides insurance coverage of up to ₹50,000 for each farmer, but the premium rates are too high and will burden the farmers.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "Kolkata Municipal Corporation to Launch Waste Management Initiative",
+        "summary": "The Kolkata Municipal Corporation is set to launch a new waste management initiative, which includes door-to-door collection of waste and segregation at the household level. According to sources, the initiative will be launched in the next two weeks and will cover all 150 wards of the city.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
+        "category": "Environment"
+      },
+      {
+        "headline": "Student Union Protest Against Fee Hike at Presidency University",
+        "summary": "The student union of Presidency University is protesting against the recent fee hike, which they claim will make education inaccessible to many students. According to sources, the university has increased the fees by up to 20% for the upcoming academic session.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Infrastructure Development Hit by Delay",
-        "summary": "The development of West Bengal's infrastructure projects has been delayed due to bureaucratic red tape and financial constraints. The state's government has assured that measures are being taken to expedite the projects, but experts have raised concerns about the state's ability to deliver on its infrastructure promises.",
-        "status": "DEVELOPING",
-        "source": "FactChecker.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Kolkata's Air Quality Remains Hazardous",
-        "summary": "Kolkata's air quality has remained hazardous, with the city's residents struggling to breathe clean air. According to the Central Pollution Control Board, the city's air quality index has been above the hazardous level for the past week, affecting thousands of residents. The situation has sparked concerns about the city's environmental health and the government's ability to manage its air pollution.",
+        "headline": "New Medical College to be Established in Malda",
+        "summary": "The West Bengal government has decided to establish a new medical college in Malda district, which will provide medical education to students from the region. According to sources, the college will be established in the next six months and will have a capacity of 50 students per year.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Environment"
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal's agricultural growth rate slows down",
-      "New medical college to be established in Jalpaiguri",
-      "West Bengal's infrastructure development hit by delay",
-      "Kolkata's air quality remains hazardous",
-      "Kolkata's water crisis deepens",
-      "West Bengal's government announces new policies for farmers",
-      "Kolkata's infrastructure development to receive a boost",
-      "West Bengal's education sector to receive a major overhaul"
+      "Mamata Banerjee lays foundation stone for ₹2,000 crore IT hub in Kolkata",
+      "Farmers protest against new crop insurance scheme in Murshidabad",
+      "Kolkata Municipal Corporation to launch waste management initiative",
+      "Student union protests against fee hike at Presidency University",
+      "New medical college to be established in Malda",
+      "Kolkata's IT sector to grow by 15% in 2026",
+      "West Bengal's economy grows by 8% in 2025-2026",
+      "Malda's agricultural sector to receive ₹500 crore package"
     ]
   },
   "contrast": {
@@ -149,74 +148,74 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Soar 15% in Past Month: RBI Data",
+        "headline": "Petrol Prices Skyrocket as Global Oil Prices Surge",
         "bullets": [
-          "Inflation rate rose to 7.5% in August, highest in 5 years",
-          "Wholesale price index up 12.5% in August compared to last year",
-          "Impact on daily life: Increased food prices may cut into wages, affecting household budgets"
+          "Global oil prices have risen by 15% in the last fortnight",
+          "Petrol prices in West Bengal have increased by 12.5% in the same period",
+          "Experts warn of further price hikes if global prices continue to rise"
         ],
-        "source": "Reserve Bank of India",
+        "source": "Press Trust of India",
         "status": "CONFIRMED",
-        "impact_score": 9
+        "impact_score": 10
       },
       {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 23% of Bengal's Villages: Govt Data",
+        "category": "Food Prices",
+        "headline": "Rice Prices Soar as Government Fails to Control Supply",
         "bullets": [
-          "Over 2,000 villages affected by power outages in past 6 months",
-          "Electricity department reports 12% increase in power cuts this year",
-          "Impact on daily life: Power cuts may force residents to use candles, affecting work and study"
+          "Rice prices in West Bengal have increased by 25% in the last 3 months",
+          "Farmers' unions blame government inaction for the price hike",
+          "Consumers are forced to pay more for a staple food item"
         ],
-        "source": "West Bengal Government",
+        "source": "Times of India",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Labor",
-        "headline": "Minimum Wage Hike by 10% for Farmworkers: Govt Order",
+        "category": "Health",
+        "headline": "Malaria Outbreak Hits Rural Areas as Government Fails to Act",
         "bullets": [
-          "New wage rate comes into effect from 1st September",
-          "Farmworkers to receive ₹ 250 per day, up from ₹ 225",
-          "Impact on daily life: Increased wages may improve living standards for farmworkers"
+          "Malaria cases have increased by 50% in the last 2 months",
+          "Government hospitals are overwhelmed with patients",
+          "Experts warn of a larger outbreak if action is not taken soon"
         ],
-        "source": "West Bengal Government",
+        "source": "The Hindu",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Health",
-        "headline": "Cholera Outbreak in 5 Bengal Districts: Health Minister",
+        "category": "Labor",
+        "headline": "Workers Protest Outside Factories as Minimum Wage Remains Unchanged",
         "bullets": [
-          "200 cases reported in past 2 weeks, with 10 serious",
-          "Health department starts vaccination drive in affected areas",
-          "Impact on daily life: Residents may need to take precautions when handling food and water"
+          "Workers are demanding a 20% increase in minimum wage",
+          "Employers' association refuses to negotiate",
+          "Strike action is threatened if demands are not met"
         ],
-        "source": "West Bengal Health Minister",
-        "status": "CONFIRMED",
+        "source": "Business Standard",
+        "status": "DEVELOPING",
         "impact_score": 6
       },
       {
-        "category": "Environment",
-        "headline": "River Water Pollution Worsens: Activists",
+        "category": "Infrastructure",
+        "headline": "Power Cuts Plague City as Grid Upgrade Fails to Materialize",
         "bullets": [
-          "River water quality deteriorates 30% in past year",
-          "Pollution affects 70% of fish species in the river",
-          "Impact on daily life: Residents may face health risks due to contaminated water"
+          "Power cuts have increased by 30% in the last 6 months",
+          "Residents are forced to rely on generators or candles",
+          "Government promises to complete the grid upgrade by year-end"
         ],
-        "source": "Environmental Activists",
-        "status": "DEVELOPING",
+        "source": "Economic Times",
+        "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Education",
-        "headline": "Schools to Reopen on 15th September: Govt Decision",
+        "category": "Environment",
+        "headline": "River Pollution Reaches Alarming Levels as Industrial Waste Spills In",
         "bullets": [
-          "Closure due to power cuts, water shortages, and teacher shortages",
-          "New academic calendar released by the government",
-          "Impact on daily life: Students may face disruptions in their studies"
+          "River water has become toxic due to industrial waste",
+          "Fishermen are forced to abandon their livelihoods",
+          "Government promises to take action but no concrete steps have been taken"
         ],
-        "source": "West Bengal Government",
-        "status": "CONFIRMED",
+        "source": "The Telegraph",
+        "status": "UNVERIFIED",
         "impact_score": 4
       }
     ]
