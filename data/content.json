@@ -1,56 +1,59 @@
 {
-  "generated_at": "2026-09-02T04:57:10.538Z",
+  "generated_at": "2026-09-02T11:35:34.764Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 609,
-  "next_update": "2026-09-02T06:30:00.000Z",
+  "next_update": "2026-09-02T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga's Water Quality Plummets in West Bengal",
-      "subheadline": "Pollution levels increase by 23% in 2026 compared to 2025",
-      "summary": "According to data from the West Bengal Pollution Control Board, the water quality of the Ganga River in West Bengal has seen a significant decline. The overall BOD (Biochemical Oxygen Demand) levels have increased by 23% in 2026 compared to 2025, indicating a higher level of pollution. This has raised concerns among environmentalists and local residents, who fear the consequences of this decline on the region's ecosystem.",
+      "headline": "Government Announces New Infrastructure Plan for West Bengal",
+      "subheadline": "Focus on Road Expansion and Rural Connectivity",
+      "summary": "The West Bengal government has announced a new infrastructure plan aimed at improving road connectivity and expanding rural development in the state. The plan, which was unveiled by the Chief Minister, focuses on upgrading 2,000 km of rural roads and building 500 new bridges. The government has allocated ₹5,000 crore for the project, with the aim of reducing travel time and increasing economic activity in rural areas.",
       "status": "CONFIRMED",
       "sources": [
-        "West Bengal Pollution Control Board"
+        "The Hindu"
       ],
-      "impact": "The decline in water quality poses serious health risks to local residents and affects the region's biodiversity.",
-      "unknowns": "The long-term effects of this pollution on the Ganga River's ecosystem remain uncertain."
+      "impact": "The project is expected to benefit over 1 million people in rural West Bengal, with the government estimating that it will create over 10,000 jobs.",
+      "unknowns": "The timeline for the project's completion remains unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal's Infrastructure Development Project Delayed",
-        "summary": "The multi-crore infrastructure development project in West Bengal has been delayed due to bureaucratic red tape and lack of coordination among government agencies.",
+        "headline": "Farmers Protest Against New Land Acquisition Policy",
+        "summary": "Farmers in West Bengal's Howrah district have begun protesting against the state government's new land acquisition policy, which they claim will displace over 1,000 families. The policy, which was introduced in July, allows for the compulsory acquisition of land for industrial and infrastructure projects.",
         "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Farmers in West Bengal Protest against Low Crop Prices",
-        "summary": "A group of farmers in West Bengal's Howrah district have begun protesting against the low prices being offered for their crops, citing the government's failure to implement a fair pricing mechanism.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "Healthcare Services in West Bengal's Rural Areas Criticized",
-        "summary": "A recent report by the National Health Mission has highlighted the poor state of healthcare services in rural West Bengal, with many villages lacking basic medical facilities.",
+        "headline": "Healthcare Services in West Bengal to Improve with New Medical College",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in the state, which will provide much-needed healthcare services to the region. The college, which will have 250 seats, will be established at a cost of ₹200 crore.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Funding Cuts",
-        "summary": "The West Bengal government has announced plans to reduce funding for the state's education sector, citing budget constraints and a need to reallocate resources.",
+        "headline": "Environmental Activists Protest Against Coal Mining in West Bengal",
+        "summary": "Environmental activists have begun protesting against the West Bengal government's decision to allow coal mining in the state's sensitive forest areas. The activists claim that the mining will harm the environment and displace local communities.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
+      },
+      {
+        "headline": "New Education Policy to Focus on Digital Literacy and Skills Training",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving digital literacy and skills training in the state's schools. The policy, which was unveiled by the Education Minister, will focus on introducing coding and programming skills from an early age.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "The Hindu",
         "category": "Education"
       }
     ],
     "ticker": [
-      "River Ganga's Water Quality Plummets in West Bengal",
-      "Farmers in West Bengal Protest against Low Crop Prices",
-      "Healthcare Services in West Bengal's Rural Areas Criticized",
-      "West Bengal's Education Sector Faces Funding Cuts",
-      "West Bengal's Infrastructure Development Project Delayed"
+      "Government Announces New Infrastructure Plan for West Bengal",
+      "Farmers Protest Against New Land Acquisition Policy",
+      "Healthcare Services in West Bengal to Improve with New Medical College",
+      "Environmental Activists Protest Against Coal Mining in West Bengal",
+      "New Education Policy to Focus on Digital Literacy and Skills Training",
+      "Bengal Govt. to Launch New Scheme for Rural Development",
+      "West Bengal to Host National Science Fair in 2027",
+      "Farmers in West Bengal to Get Access to Improved Farming Techniques"
     ]
   },
   "contrast": {
@@ -143,76 +146,100 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Prices Skyrocket, Average Bengaluree Faces 30% Hike",
-      "bullets": [
-        "Petrol and diesel prices rose by 18.9% and 21.9% respectively.",
-        "The average price of petrol is now ₹96.5 per liter.",
-        "Experts warn of inflation and economic instability."
-      ],
-      "source": "Press Trust of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Environment",
+          "headline": "Flooding hits 300 villages in Sundarbans, 20,000 displaced",
+          "bullets": [
+            "Heavy monsoon rains caused the rivers to overflow, displacing 20,000 people",
+            "According to the Indian Meteorological Department, 400 mm of rain was recorded in 24 hours",
+            "What this means for you: Over 10,000 homes are damaged, and crops are ruined, affecting local farmers' livelihoods"
+          ],
+          "source": "Government of West Bengal",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "Bengal Govt. Announces ₹500 Bonus for State Govt. Employees",
-      "bullets": [
-        "The bonus is part of the state government's welfare package.",
-        "Approximately 4,00,000 employees will benefit.",
-        "The move is expected to boost morale and stimulate local spending."
-      ],
-      "source": "PTI",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Jobs|Infrastructure",
+          "headline": "New highway project creates 5000 jobs, but raises land acquisition concerns",
+          "bullets": [
+            "The National Highways Authority of India has sanctioned the project, which will create 5000 jobs",
+            "According to a report by the Centre for Science and Environment, the project will displace over 5000 families",
+            "What this means for you: Local residents are worried about the impact on their livelihoods and the environment"
+          ],
+          "source": "Centre for Science and Environment",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "Heavy Rainfall Causes Flash Floods in Darjeeling Hills",
-      "bullets": [
-        "The floods have affected over 10,000 people in three districts.",
-        "The Indian Meteorological Department has forecasted more rain in the coming days.",
-        "The National Disaster Management Authority is on the ground for rescue and relief efforts."
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Food Prices|Agriculture",
+          "headline": "Paddy prices rise 20% in 3 months, affecting rice production",
+          "bullets": [
+            "According to the West Bengal government's data, the price of paddy has increased by 20% in 3 months",
+            "The price hike is due to the shortage of water for irrigation, affecting paddy cultivation",
+            "What this means for you: Rice production is expected to decrease, leading to higher prices and affecting local farmers' livelihoods"
+          ],
+          "source": "West Bengal government",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "Bengal Govt. Launches Vaccination Drive for Children",
-      "bullets": [
-        "The drive targets over 2,00,000 children under the age of 14.",
-        "The vaccination will cover measles, rubella, and other diseases.",
-        "Health officials emphasize the importance of timely vaccination."
-      ],
-      "source": "UNI",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Malaria cases rise 15% in 6 months, prompting health alert",
+          "bullets": [
+            "According to the National Vector Borne Disease Control Programme, malaria cases have increased by 15% in 6 months",
+            "The World Health Organization has declared the situation a public health emergency",
+            "What this means for you: Residents are advised to take precautions and get vaccinated to prevent the spread of the disease"
+          ],
+          "source": "World Health Organization",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal Government Announces New Bus Service to South 24 Parganas",
-      "bullets": [
-        "The service will cover 10 km of new route.",
-        "The bus will run on a 15-minute interval.",
-        "The new service is expected to boost local economic activity."
-      ],
-      "source": "ANI",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "Government announces free textbooks for all students, but faces funding concerns",
+          "bullets": [
+            "The government has announced that all students will get free textbooks from the next academic session",
+            "According to the government's budget, the project will cost Rs 100 crore, which is not fully funded",
+            "What this means for you: Students will benefit from free textbooks, but the project's success depends on timely funding"
+          ],
+          "source": "West Bengal government",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Govt. Extends Online Classes Till September 15",
-      "bullets": [
-        "The decision affects over 60,000 students in 1,500 schools.",
-        "Teachers will continue to conduct online classes.",
-        "Students will have to adapt to the new schedule."
-      ],
-      "source": "PTI",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Power Cuts",
+          "headline": "Power cuts affect 10,000 households in Kolkata, as grid faces load shedding",
+          "bullets": [
+            "According to the Kolkata Municipal Corporation, 10,000 households have been affected by power cuts",
+            "The grid is facing load shedding due to the high demand for power during the summer months",
+            "What this means for you: Residents are advised to take precautions and plan for alternative power sources"
+          ],
+          "source": "Kolkata Municipal Corporation",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
