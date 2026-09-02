@@ -1,59 +1,57 @@
 {
-  "generated_at": "2026-09-02T11:35:34.764Z",
+  "generated_at": "2026-09-02T16:49:37.075Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 609,
-  "next_update": "2026-09-02T12:30:00.000Z",
+  "next_update": "2026-09-03T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Announces New Infrastructure Plan for West Bengal",
-      "subheadline": "Focus on Road Expansion and Rural Connectivity",
-      "summary": "The West Bengal government has announced a new infrastructure plan aimed at improving road connectivity and expanding rural development in the state. The plan, which was unveiled by the Chief Minister, focuses on upgrading 2,000 km of rural roads and building 500 new bridges. The government has allocated ₹5,000 crore for the project, with the aim of reducing travel time and increasing economic activity in rural areas.",
+      "headline": "Farmers Protest Against Land Acquisition for New Industrial Hub",
+      "subheadline": "State Government Faces Backlash Over Compensation Package",
+      "summary": "A group of farmers from South 24 Parganas district have been protesting for weeks against the state government's move to acquire their land for a new industrial hub. The protesters claim that the compensation package offered by the government is inadequate and will lead to the displacement of local communities. The government has maintained that the project will bring in much-needed employment opportunities and infrastructure development. The standoff continues with no resolution in sight.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "The project is expected to benefit over 1 million people in rural West Bengal, with the government estimating that it will create over 10,000 jobs.",
-      "unknowns": "The timeline for the project's completion remains unclear."
+      "sources": "The Hindu",
+      "impact": "The protest has brought attention to the need for better compensation packages for land-owning farmers.",
+      "unknowns": "The long-term effects of the industrial hub on local ecosystems are unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Land Acquisition Policy",
-        "summary": "Farmers in West Bengal's Howrah district have begun protesting against the state government's new land acquisition policy, which they claim will displace over 1,000 families. The policy, which was introduced in July, allows for the compulsory acquisition of land for industrial and infrastructure projects.",
+        "headline": "Government Announces New Healthcare Initiative for Rural Areas",
+        "summary": "The state government has launched a new healthcare initiative aimed at improving medical facilities in rural areas. The program will provide training to local healthcare workers and upgrade existing infrastructure. While the initiative has been welcomed by local health officials, concerns have been raised about the sustainability of the program and its potential impact on the existing healthcare system.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Labor"
-      },
-      {
-        "headline": "Healthcare Services in West Bengal to Improve with New Medical College",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in the state, which will provide much-needed healthcare services to the region. The college, which will have 250 seats, will be established at a cost of ₹200 crore.",
-        "status": "CONFIRMED",
         "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Environmental Activists Protest Against Coal Mining in West Bengal",
-        "summary": "Environmental activists have begun protesting against the West Bengal government's decision to allow coal mining in the state's sensitive forest areas. The activists claim that the mining will harm the environment and displace local communities.",
+        "headline": "Students Protest Against University's Decision to Privatize Education",
+        "summary": "Students from a local university have been protesting against the administration's decision to privatize education. The protesters claim that the move will lead to increased fees and reduced access to quality education for students from low-income backgrounds. The university has maintained that the privatization will bring in much-needed revenue and improve the overall quality of education.",
         "status": "UNVERIFIED",
         "source": "Article 14",
-        "category": "Environment"
+        "category": "Education"
       },
       {
-        "headline": "New Education Policy to Focus on Digital Literacy and Skills Training",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving digital literacy and skills training in the state's schools. The policy, which was unveiled by the Education Minister, will focus on introducing coding and programming skills from an early age.",
+        "headline": "New Infrastructure Project to Improve Road Connectivity in North Bengal",
+        "summary": "The state government has announced a new infrastructure project aimed at improving road connectivity in North Bengal. The project will involve the construction of new highways and the upgrade of existing infrastructure. While the project has been welcomed by local residents, concerns have been raised about the potential impact on local ecosystems and the displacement of local communities.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Education"
+        "source": "The Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Farmers' Cooperative Society Elects New Leadership",
+        "summary": "The farmers' cooperative society in Howrah district has elected new leadership. The new leadership has vowed to continue the cooperative's commitment to supporting local farmers and improving agricultural practices. While the election has been welcomed by local farmers, concerns have been raised about the potential impact of the new leadership on the cooperative's existing programs and initiatives.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Government Announces New Infrastructure Plan for West Bengal",
-      "Farmers Protest Against New Land Acquisition Policy",
-      "Healthcare Services in West Bengal to Improve with New Medical College",
-      "Environmental Activists Protest Against Coal Mining in West Bengal",
-      "New Education Policy to Focus on Digital Literacy and Skills Training",
-      "Bengal Govt. to Launch New Scheme for Rural Development",
-      "West Bengal to Host National Science Fair in 2027",
-      "Farmers in West Bengal to Get Access to Improved Farming Techniques"
+      "Farmers Protest Against Land Acquisition for New Industrial Hub",
+      "Government Announces New Healthcare Initiative for Rural Areas",
+      "Students Protest Against University's Decision to Privatize Education",
+      "New Infrastructure Project to Improve Road Connectivity in North Bengal",
+      "Farmers' Cooperative Society Elects New Leadership",
+      "Rural Residents Protest Against Lack of Access to Clean Water",
+      "Local Business Owners Protest Against New Taxation Policy",
+      "University Students Protest Against Decision to Cut Back on Scholarship Program"
     ]
   },
   "contrast": {
