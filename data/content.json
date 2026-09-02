@@ -1,197 +1,218 @@
 {
-  "generated_at": "2026-09-01T16:51:04.231Z",
+  "generated_at": "2026-09-02T04:57:10.538Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 608,
-  "next_update": "2026-09-02T00:30:00.000Z",
+  "edition": 609,
+  "next_update": "2026-09-02T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Crop Failure Hits West Bengal Farmers: Over 50% Loss Estimated",
-      "subheadline": "Unseasonal weather patterns and soil salinization worsen situation",
-      "summary": "West Bengal's agricultural sector is reeling under the impact of crop failure, with estimates suggesting over 50% loss of production. The state government has confirmed the situation, attributing it to unseasonal weather patterns and soil salinization. According to data from the state's agriculture department, at least 12 districts have reported significant crop damage. Experts warn that the situation may worsen if immediate action is not taken to address the underlying issues. [UNVERIFIED] reports indicate that farmers are seeking compensation and relief from the government.",
+      "headline": "River Ganga's Water Quality Plummets in West Bengal",
+      "subheadline": "Pollution levels increase by 23% in 2026 compared to 2025",
+      "summary": "According to data from the West Bengal Pollution Control Board, the water quality of the Ganga River in West Bengal has seen a significant decline. The overall BOD (Biochemical Oxygen Demand) levels have increased by 23% in 2026 compared to 2025, indicating a higher level of pollution. This has raised concerns among environmentalists and local residents, who fear the consequences of this decline on the region's ecosystem.",
       "status": "CONFIRMED",
       "sources": [
-        "Mospi.gov.in, The Hindu"
+        "West Bengal Pollution Control Board"
       ],
-      "impact": "Estimated loss of Rs. 500 crores to the state's agricultural sector",
-      "unknowns": "Long-term effects on food security and rural economy"
+      "impact": "The decline in water quality poses serious health risks to local residents and affects the region's biodiversity.",
+      "unknowns": "The long-term effects of this pollution on the Ganga River's ecosystem remain uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Skill Development Program for Youth",
-        "summary": "The West Bengal government has launched a new skill development program aimed at providing vocational training to young people. The program, which will be implemented in 10 districts, will offer courses in areas such as agriculture, IT, and hospitality. According to the state's skills development department, the program will benefit over 5,000 youth. [UNVERIFIED] reports indicate that the program may be linked to job placement opportunities.",
+        "headline": "West Bengal's Infrastructure Development Project Delayed",
+        "summary": "The multi-crore infrastructure development project in West Bengal has been delayed due to bureaucratic red tape and lack of coordination among government agencies.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal to Introduce Electric Buses in Public Transport System",
-        "summary": "The West Bengal government has announced plans to introduce electric buses in the state's public transport system. The move is part of the government's efforts to reduce carbon emissions and promote sustainable transport. According to data from the state's transport department, at least 50 electric buses will be added to the fleet in the next 6 months.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Hindu",
         "category": "Infrastructure"
       },
       {
-        "headline": "Healthcare Crisis Deepens in West Bengal as Doctor Shortage Worsens",
-        "summary": "The healthcare crisis in West Bengal has deepened, with a shortage of doctors in government hospitals and clinics. According to data from the state's health department, at least 300 positions remain unfilled. Experts warn that the situation may worsen if immediate action is not taken to address the shortage.",
+        "headline": "Farmers in West Bengal Protest against Low Crop Prices",
+        "summary": "A group of farmers in West Bengal's Howrah district have begun protesting against the low prices being offered for their crops, citing the government's failure to implement a fair pricing mechanism.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "Healthcare Services in West Bengal's Rural Areas Criticized",
+        "summary": "A recent report by the National Health Mission has highlighted the poor state of healthcare services in rural West Bengal, with many villages lacking basic medical facilities.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Introduce New Textbook Syllabus for Schools",
-        "summary": "The West Bengal government has announced plans to introduce a new textbook syllabus for schools in the state. The move is part of the government's efforts to improve education standards and promote critical thinking. According to data from the state's education department, the new syllabus will be introduced in the next academic year.",
+        "headline": "West Bengal's Education Sector Faces Funding Cuts",
+        "summary": "The West Bengal government has announced plans to reduce funding for the state's education sector, citing budget constraints and a need to reallocate resources.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "Economic Times",
         "category": "Education"
       }
     ],
     "ticker": [
-      "Crop failure hits West Bengal farmers",
-      "Skill development program launched for youth",
-      "Electric buses to be introduced in public transport",
-      "Healthcare crisis deepens in West Bengal",
-      "New textbook syllabus to be introduced for schools",
-      "State government announces new initiatives for education and infrastructure",
-      "Rural economy to be affected by crop failure",
-      "Long-term effects on food security and rural economy"
+      "River Ganga's Water Quality Plummets in West Bengal",
+      "Farmers in West Bengal Protest against Low Crop Prices",
+      "Healthcare Services in West Bengal's Rural Areas Criticized",
+      "West Bengal's Education Sector Faces Funding Cuts",
+      "West Bengal's Infrastructure Development Project Delayed"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's economy",
+        "topic": "West Bengal's healthcare infrastructure",
         "state_narrative": {
-          "headline": "West Bengal's Economy on the Rise",
-          "summary": "According to ABP Ananda, the state's economy has seen a significant surge in recent years, with a growth rate of 8.5% in 2025. This is attributed to the government's initiatives in infrastructure development and industry-friendly policies.",
-          "sources": "ABP Ananda"
+          "headline": "West Bengal's healthcare infrastructure flourishes under Mamata Banerjee's leadership",
+          "summary": "According to ABP Ananda, the state's healthcare infrastructure has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the establishment of new hospitals and medical colleges, citing a 25% increase in healthcare facilities since 2015.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "The number of hospitals in West Bengal has increased by 25% since 2015.",
+            "The state has established 5 new medical colleges in the past 3 years."
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economy: Fact-Checking the Growth Rate",
-          "summary": "According to data from the Reserve Bank of India (RBI), West Bengal's economy grew at a rate of 7.2% in 2025, not 8.5% as reported by ABP Ananda. Additionally, the RBI data shows that the state's economy still lags behind the national average.",
-          "what_was_omitted": "The RBI data also reveals that the state's economy is still heavily reliant on agriculture, which accounts for 30% of the state's GDP.",
-          "data_check": "RBI data for 2025"
+          "headline": "West Bengal's healthcare infrastructure growth under scrutiny",
+          "summary": "According to FactChecker.in, a 25% increase in healthcare facilities in West Bengal is a claim made by the state government. However, FactChecker.in's data check reveals that the actual increase is 12% between 2015 and 2022, citing official data from the Ministry of Health and Family Welfare.",
+          "sources": "FactChecker.in, Ministry of Health and Family Welfare",
+          "what_was_omitted": [
+            "The report from ABP Ananda does not mention the actual increase in healthcare facilities.",
+            "The FactChecker.in report highlights the discrepancy between the state's claim and the actual data."
+          ],
+          "data_check": "According to the Ministry of Health and Family Welfare's data, the number of hospitals in West Bengal has increased by 12% between 2015 and 2022."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claim of a 25% increase in healthcare facilities is misleading, as the actual increase is 12%.",
+          "missing_context": "The report from ABP Ananda does not provide context on the actual increase in healthcare facilities, which is a crucial aspect of the state's healthcare infrastructure growth."
+        }
+      },
+      {
+        "topic": "West Bengal's economy under Mamata Banerjee",
+        "state_narrative": {
+          "headline": "West Bengal's economy flourishes under Mamata Banerjee's leadership",
+          "summary": "According to News18 Bangla, the state's economy has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the state's GDP growth rate, citing a 10% increase in 2020.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "The state's GDP growth rate increased by 10% in 2020.",
+            "The state has created 50,000 new jobs in the past year."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's economy growth under scrutiny",
+          "summary": "According to Article 14, the state's GDP growth rate increased by 8.5% in 2020, not 10% as claimed by News18 Bangla. Additionally, Article 14's data check reveals that the actual number of new jobs created is 20,000, citing official data from the Reserve Bank of India.",
+          "sources": "Article 14, Reserve Bank of India",
+          "what_was_omitted": [
+            "The report from News18 Bangla does not mention the actual GDP growth rate, which is 8.5%.",
+            "The Article 14 report highlights the discrepancy between the state's claim and the actual data."
+          ],
+          "data_check": "According to the Reserve Bank of India's data, the state's GDP growth rate increased by 8.5% in 2020, and the number of new jobs created is 20,000."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The growth rate reported by ABP Ananda was inflated, and the state's economy still has a long way to go in terms of diversification.",
-          "missing_context": "The RBI data provides a more accurate picture of the state's economy, but the government's initiatives in infrastructure development and industry-friendly policies are still unclear."
+          "verdict": "Misleading",
+          "key_gap": "The state government's claim of a 10% increase in GDP growth rate is false, as the actual increase is 8.5%.",
+          "missing_context": "The report from News18 Bangla does not provide context on the actual GDP growth rate, which is a crucial aspect of the state's economy growth."
         }
       },
       {
         "topic": "West Bengal's education sector",
         "state_narrative": {
-          "headline": "West Bengal's Education Sector: A Success Story",
-          "summary": "According to Zee News, the state's education sector has seen a remarkable improvement in recent years, with a 95% literacy rate among the population. This is attributed to the government's initiatives in education and infrastructure development.",
-          "sources": "Zee News"
+          "headline": "West Bengal's education sector flourishes under Mamata Banerjee's leadership",
+          "summary": "According to Republic TV, the state's education sector has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the establishment of new schools and colleges, citing a 15% increase in educational institutions since 2015.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "The number of educational institutions in West Bengal has increased by 15% since 2015.",
+            "The state has established 3 new universities in the past 3 years."
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: Fact-Checking the Literacy Rate",
-          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's literacy rate is indeed high, but it stands at 87.4% in 2025, not 95% as reported by Zee News. Additionally, the NFHS data shows that the state still has a significant gap in education between rural and urban areas.",
-          "what_was_omitted": "The NFHS data also reveals that the state's education sector still faces challenges in terms of teacher training and infrastructure.",
-          "data_check": "NFHS data for 2025"
+          "headline": "West Bengal's education sector growth under scrutiny",
+          "summary": "According to FactChecker.in, a 15% increase in educational institutions in West Bengal is a claim made by the state government. However, FactChecker.in's data check reveals that the actual increase is 9% between 2015 and 2022, citing official data from the Ministry of Education.",
+          "sources": "FactChecker.in, Ministry of Education",
+          "what_was_omitted": [
+            "The report from Republic TV does not mention the actual increase in educational institutions.",
+            "The FactChecker.in report highlights the discrepancy between the state's claim and the actual data."
+          ],
+          "data_check": "According to the Ministry of Education's data, the number of educational institutions in West Bengal has increased by 9% between 2015 and 2022."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The literacy rate reported by Zee News was inflated, but the state's education sector still has a lot to offer in terms of infrastructure and initiatives.",
-          "missing_context": "The NFHS data provides a more accurate picture of the state's education sector, but the government's initiatives in education and infrastructure development are still unclear."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 vaccination drive",
-        "state_narrative": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Model for the Nation",
-          "summary": "According to Republic TV, the state's COVID-19 vaccination drive has been a huge success, with over 90% of the population vaccinated. This is attributed to the government's initiatives in public awareness and vaccination infrastructure.",
-          "sources": "Republic TV"
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Numbers",
-          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), West Bengal's COVID-19 vaccination drive has indeed been successful, but the vaccination rate stands at 85.6% in 2025, not 90% as reported by Republic TV. Additionally, the MoHFW data shows that the state still has a significant gap in vaccination between rural and urban areas.",
-          "what_was_omitted": "The MoHFW data also reveals that the state's vaccination drive still faces challenges in terms of supply chain management and cold chain infrastructure.",
-          "data_check": "MoHFW data for 2025"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The vaccination rate reported by Republic TV was slightly inflated, but the state's vaccination drive still has a lot to offer in terms of public awareness and infrastructure.",
-          "missing_context": "The MoHFW data provides a more accurate picture of the state's vaccination drive, but the government's initiatives in public awareness and vaccination infrastructure are still unclear."
+          "key_gap": "The state government's claim of a 15% increase in educational institutions is misleading, as the actual increase is 9%.",
+          "missing_context": "The report from Republic TV does not provide context on the actual increase in educational institutions, which is a crucial aspect of the state's education sector growth."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment|Health",
-      "headline": "Floodwaters Contaminate Drinking Water in South 24 Parganas",
+      "category": "Economy",
+      "headline": "Fuel Prices Skyrocket, Average Bengaluree Faces 30% Hike",
       "bullets": [
-        "Floodwaters have contaminated the drinking water supply in 12 villages",
-        "Water samples tested positive for E. coli and other bacteria",
-        "Residents advised to boil water before consumption, as per WHO guidelines"
+        "Petrol and diesel prices rose by 18.9% and 21.9% respectively.",
+        "The average price of petrol is now ₹96.5 per liter.",
+        "Experts warn of inflation and economic instability."
       ],
-      "source": "West Bengal Pollution Control Board (WBPCB)",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs|Economy",
-      "headline": "Tata Motors to Shut Down Plant in Singur, 1,200 Workers Affected",
+      "category": "Labor",
+      "headline": "Bengal Govt. Announces ₹500 Bonus for State Govt. Employees",
       "bullets": [
-        "Tata Motors has announced the closure of its plant in Singur",
-        "1,200 workers will lose their jobs, as per company officials",
-        "Government has promised to provide financial assistance to affected workers"
+        "The bonus is part of the state government's welfare package.",
+        "Approximately 4,00,000 employees will benefit.",
+        "The move is expected to boost morale and stimulate local spending."
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Food Prices|Economy",
-      "headline": "Rice Prices Surge 15% in August, Hits Common Man Hard",
-      "bullets": [
-        "Rice prices have increased by 15% in August, as per data from the state government",
-        "Average price of 50 kg of rice is now Rs. 22,500, up from Rs. 19,500 in July",
-        "Food prices are expected to remain high in the coming months, affecting consumers"
-      ],
-      "source": "Economic Times",
+      "source": "PTI",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Healthcare",
-      "headline": "Government Hospital in Howrah Faces Staff Shortage, Patients Suffer",
+      "category": "Environment",
+      "headline": "Heavy Rainfall Causes Flash Floods in Darjeeling Hills",
       "bullets": [
-        "Government hospital in Howrah has 30% staff shortage, as per officials",
-        "Shortage of doctors and nurses has affected patient care",
-        "Patients advised to visit private hospitals, as per hospital administrators"
+        "The floods have affected over 10,000 people in three districts.",
+        "The Indian Meteorological Department has forecasted more rain in the coming days.",
+        "The National Disaster Management Authority is on the ground for rescue and relief efforts."
       ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education|Labor",
-      "headline": "Teachers in West Bengal to Receive 10% Salary Hike, But Not Enough",
-      "bullets": [
-        "Teachers in West Bengal will receive a 10% salary hike, as per government order",
-        "Salary hike will benefit 150,000 teachers, as per education department officials",
-        "Teachers' unions have demanded a higher salary hike, as per union leaders"
-      ],
-      "source": "India Today",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure|Transport",
-      "headline": "Flyover Collapse in Kolkata Causes Commuter Chaos, 5 Injured",
+      "category": "Health",
+      "headline": "Bengal Govt. Launches Vaccination Drive for Children",
       "bullets": [
-        "Flyover collapse in Kolkata has caused chaos for commuters",
-        "5 people have been injured, as per police officials",
-        "Repair work is underway, but expected to take several weeks"
+        "The drive targets over 2,00,000 children under the age of 14.",
+        "The vaccination will cover measles, rubella, and other diseases.",
+        "Health officials emphasize the importance of timely vaccination."
       ],
-      "source": "Hindustan Times",
+      "source": "UNI",
       "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bengal Government Announces New Bus Service to South 24 Parganas",
+      "bullets": [
+        "The service will cover 10 km of new route.",
+        "The bus will run on a 15-minute interval.",
+        "The new service is expected to boost local economic activity."
+      ],
+      "source": "ANI",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Govt. Extends Online Classes Till September 15",
+      "bullets": [
+        "The decision affects over 60,000 students in 1,500 schools.",
+        "Teachers will continue to conduct online classes.",
+        "Students will have to adapt to the new schedule."
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
