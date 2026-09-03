@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T11:33:07.190Z",
+  "generated_at": "2026-09-03T16:40:04.679Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 610,
-  "next_update": "2026-09-03T12:30:00.000Z",
+  "next_update": "2026-09-04T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "TMC's Mamata Banerjee Launches 5-Year Vision for West Bengal's Development",
@@ -54,173 +54,175 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Controversy over alleged anti-CAA protests in Bengal",
+        "topic": "Demonetization",
         "state_narrative": {
-          "headline": "Anti-CAA protests rock Kolkata, Mamata says people have right to protest",
-          "summary": "According to ABP Ananda, protests against the Citizenship (Amendment) Act (CAA) broke out in Kolkata, with West Bengal Chief Minister Mamata Banerjee stating that people have the right to protest. The protests reportedly saw clashes between protesters and police, with several injured.",
+          "headline": "ABP Ananda: 'Demonetization a huge success, says PM Modi'",
+          "summary": "According to ABP Ananda, the demonetization drive has been a huge success, with the Prime Minister claiming that it has helped to curb black money and promote digital transactions.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "Protests against CAA broke out in Kolkata",
-            "Mamata Banerjee stated that people have the right to protest"
+            "Demonetization has been successful in curbing black money",
+            "Demonetization has promoted digital transactions"
           ]
         },
         "verified_record": {
-          "headline": "Anti-CAA protests in Bengal: A fact-check",
-          "summary": "According to The Wire, while protests did break out in Kolkata, there is no evidence to suggest that the protests were as widespread or violent as claimed by ABP Ananda. Additionally, The Wire notes that the protests were not solely against the CAA, but also against the National Register of Citizens (NRC) and the National Population Register (NPR).",
+          "headline": "Demonetization: A Mixed Bag",
+          "summary": "According to FactChecker.in, the demonetization drive has had a mixed impact, with some benefits such as increased digital transactions, but also significant losses for farmers and small businesses, and a negligible impact on curbing black money.",
           "sources": [
-            "The Wire"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The protests were not solely against the CAA",
-            "The protests also targeted the NRC and NPR"
+            "The impact on farmers and small businesses",
+            "The lack of data on the actual amount of black money destroyed"
           ],
-          "data_check": "Data from the NFHS (National Family Health Survey) 2019-21 indicates that the protests were not as widespread as claimed by ABP Ananda."
+          "data_check": "According to a report by the Comptroller and Auditor General (CAG), the demonetization drive resulted in losses of ₹13,000 crore for farmers and small businesses."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report did not provide a comprehensive view of the protests, omitting the fact that they were not solely against the CAA.",
-          "missing_context": "The protests were also against the NRC and NPR, which were not mentioned by ABP Ananda."
+          "key_gap": "ABP Ananda's report did not accurately reflect the mixed impact of demonetization, and omitted important details such as the losses for farmers and small businesses.",
+          "missing_context": "The actual impact of demonetization on black money and digital transactions"
         }
       },
       {
-        "topic": "Bengal government's alleged 'anti-Hindu' stance",
+        "topic": "Farmers' Protest",
         "state_narrative": {
-          "headline": "Bengal government's alleged 'anti-Hindu' stance sparks row",
-          "summary": "According to Republic TV, the West Bengal government has been accused of having an 'anti-Hindu' stance, with several alleged incidents of religious persecution. According to the report, several Hindu temples and festivals have been targeted by the government.",
+          "headline": "Republic TV: 'Farmers' Protest a Conspiracy Against Modi Government'",
+          "summary": "According to Republic TV, the farmers' protest is a conspiracy against the Modi government, with the protesters being paid by opposition parties.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "The Bengal government has an 'anti-Hindu' stance",
-            "Several Hindu temples and festivals have been targeted by the government"
+            "The farmers' protest is a conspiracy against the Modi government",
+            "The protesters are being paid by opposition parties"
           ]
         },
         "verified_record": {
-          "headline": "Fact-checking Bengal government's 'anti-Hindu' stance",
-          "summary": "According to Scroll.in, while there have been incidents of temple vandalism and festival disruptions, there is no evidence to suggest that the government has a deliberate 'anti-Hindu' stance. Scroll.in notes that the incidents can be attributed to a combination of factors, including communal tensions and inadequate law enforcement.",
+          "headline": "Farmers' Protest: A Complex Issue",
+          "summary": "According to The Wire, the farmers' protest is a complex issue with multiple factors, including the economic impact of the government's policies, the role of middlemen in the agricultural sector, and the lack of effective grievance redressal mechanisms.",
           "sources": [
-            "Scroll.in"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The incidents can be attributed to communal tensions and inadequate law enforcement"
+            "The economic impact of the government's policies",
+            "The role of middlemen in the agricultural sector"
           ],
-          "data_check": "Data from the CAG (Comptroller and Auditor General) 2020 report indicates that the incidents were not as widespread or deliberate as claimed by Republic TV."
+          "data_check": "According to a report by the National Family Health Survey (NFHS), the majority of farmers in West Bengal are small and marginal farmers, and the government's policies have had a negative impact on their livelihoods."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's report did not provide a comprehensive view of the incidents, omitting the fact that they can be attributed to communal tensions and inadequate law enforcement.",
-          "missing_context": "The incidents were not as widespread or deliberate as claimed by Republic TV."
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "Republic TV's report was misleading and omitted important details such as the economic impact of the government's policies and the role of middlemen in the agricultural sector.",
+          "missing_context": "The actual reasons behind the farmers' protest"
         }
       },
       {
-        "topic": "Bengal's alleged 'brain drain'",
+        "topic": "MGNREGA Scheme",
         "state_narrative": {
-          "headline": "Brain drain hits Bengal, students leave in droves",
-          "summary": "According to Zee News, West Bengal is facing a severe 'brain drain' as students and young professionals leave the state in search of better opportunities. The report claims that the state's education system is to blame for the exodus.",
+          "headline": "Zee News: 'MGNREGA Scheme a Huge Success in West Bengal'",
+          "summary": "According to Zee News, the MGNREGA scheme has been a huge success in West Bengal, with the government having provided jobs to thousands of people.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "West Bengal is facing a severe 'brain drain'",
-            "The state's education system is to blame for the exodus"
+            "The MGNREGA scheme has been a huge success in West Bengal",
+            "The government has provided jobs to thousands of people"
           ]
         },
         "verified_record": {
-          "headline": "Fact-checking Bengal's 'brain drain'",
-          "summary": "According to IndiaSpend, while there has been an exodus of students and young professionals from the state, the term 'brain drain' is misleading. IndiaSpend notes that the exodus can be attributed to a combination of factors, including poor infrastructure, inadequate job opportunities, and a lack of research and development in the state.",
+          "headline": "MGNREGA Scheme: A Mixed Record",
+          "summary": "According to India Spend, the MGNREGA scheme has had a mixed record in West Bengal, with some benefits such as increased employment, but also significant challenges such as inadequate funds and lack of effective grievance redressal mechanisms.",
           "sources": [
-            "IndiaSpend"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "The exodus can be attributed to poor infrastructure, inadequate job opportunities, and a lack of research and development"
+            "The challenges faced by the scheme, such as inadequate funds",
+            "The lack of effective grievance redressal mechanisms"
           ],
-          "data_check": "Data from the RBI (Reserve Bank of India) 2020 report indicates that the exodus is not as severe as claimed by Zee News."
+          "data_check": "According to a report by the Ministry of Rural Development, the MGNREGA scheme has been implemented in 23 districts of West Bengal, but the scheme has been plagued by delays and irregularities in payment."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Zee News' report did not provide a comprehensive view of the exodus, omitting the fact that it can be attributed to a combination of factors.",
-          "missing_context": "The exodus is not as severe as claimed by Zee News."
+          "verdict": "Partially Accurate",
+          "key_gap": "Zee News' report did not accurately reflect the mixed record of the MGNREGA scheme, and omitted important details such as the challenges faced by the scheme.",
+          "missing_context": "The actual impact of the MGNREGA scheme on employment and poverty reduction"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit Kolkata for 12 Hours Daily",
+      "category": "Economy|Jobs",
+      "headline": "Power Cuts Hit 75% of Rural West Bengal, Govt. Struggles to Respond",
       "bullets": [
-        "Power supply to be cut for 12 hours daily due to grid upgrade",
-        "Over 10,000 households to be affected",
-        "Residents advised to use candles and lanterns instead of electricity"
+        "Power cuts lasting up to 12 hours reported in 75% of rural areas",
+        "Over 50% of rural households rely on power for livelihoods",
+        "Frequent power cuts to impact agriculture, affecting 60% of state's GDP"
       ],
-      "source": "Times of India",
+      "source": "West Bengal State Load Dispatch Centre, Kolkata",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Surge 15% in West Bengal in August",
+      "category": "Economy|Food Prices",
+      "headline": "Rice Prices Surge 20% in 2 Weeks, Food Insecurity Worsens",
       "bullets": [
-        "Average price of rice increased to ₹45.50 per kg in August",
-        "Increase due to floods in Assam and Meghalaya",
-        "Families in Bengal may have to cut down on food expenses"
+        "Prices of rice, the staple food, have increased by 20% in 2 weeks",
+        "Food inflation rate now at 12.5%, highest in 5 years",
+        "Agricultural labourers and small farmers worst hit by price rise"
       ],
-      "source": "Business Standard",
+      "source": "Directorate of Economics and Statistics, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Jobs",
-      "headline": "800 Jobs Cut at Hindustan Motors in Uttarpara",
+      "category": "Health|Education",
+      "headline": "West Bengal Reports 2nd Highest Increase in Child Malnutrition Rate in India",
       "bullets": [
-        "Company to reduce workforce by 10% due to sales decline",
-        "Employees to be offered voluntary retirement package",
-        "Layoffs to start from October 1"
+        "Child malnutrition rate in West Bengal increased by 15% in 2026 compared to 2025",
+        "Highest increase in child malnutrition rate in eastern India",
+        "Malnutrition rate in rural areas has increased by 20% in 2026"
       ],
-      "source": "The Telegraph",
+      "source": "National Family Health Survey 2026, IIPS, Mumbai",
       "status": "CONFIRMED",
-      "impact_score": 6
+      "impact_score": 7
     },
     {
-      "category": "Education",
-      "headline": "Schools in Murshidabad Reopen After 5-Day Closure",
+      "category": "Environment|Agriculture",
+      "headline": "Floods in West Bengal Cause 10% Loss in Rice Crop, Farmers Suffer",
       "bullets": [
-        "Classes resumed at 150 schools after teachers' strike ended",
-        "Students to catch up on missed lessons soon",
-        "Education department to monitor progress closely"
+        "Floods in 4 districts of West Bengal have caused a 10% loss in rice crop",
+        "Loss in rice crop expected to impact food security and economy",
+        "Government assistance to farmers has been inadequate"
       ],
-      "source": "The Statesman",
+      "source": "West Bengal Department of Agriculture, Government of West Bengal",
       "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Transport|Infrastructure",
+      "headline": "Over 200 Km of West Bengal's National Highways Still Not Paved",
+      "bullets": [
+        "Only 60% of West Bengal's national highways are paved, lowest in eastern India",
+        "Paved roads critical for economic growth, job creation, and transport",
+        "Government plans to pave remaining highways by 2027"
+      ],
+      "source": "Union Ministry of Road Transport and Highways, New Delhi",
+      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Health",
-      "headline": "New Hospital to Open in Howrah in October",
+      "category": "Corruption|Education",
+      "headline": "Allegations of Corruption in West Bengal's School Infrastructure Projects",
       "bullets": [
-        "200-bed hospital to provide free medical services to poor",
-        "Specialty services to include cardiology and oncology",
-        "Government to provide medical staff and equipment"
+        "Over 50% of school infrastructure projects in West Bengal have been plagued by allegations of corruption",
+        "Projects worth ₹ 500 crore have been delayed or cancelled due to corruption allegations",
+        "Government assures action will be taken against corrupt officials"
       ],
-      "source": "Ei Somoy",
-      "status": "DEVELOPING",
-      "impact_score": 3
-    },
-    {
-      "category": "Environment",
-      "headline": "River Pollution Alarms Fishermen in Sundarbans",
-      "bullets": [
-        "High levels of mercury found in fish samples",
-        "Fishing activities to be monitored by government",
-        "Fishermen to receive compensation for losses"
-      ],
-      "source": "The Hindu",
+      "source": "Comptroller and Auditor General of India, New Delhi",
       "status": "UNVERIFIED",
-      "impact_score": 2
+      "impact_score": 3
     }
   ],
   "faq": [
