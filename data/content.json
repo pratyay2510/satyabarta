@@ -1,245 +1,211 @@
 {
-  "generated_at": "2026-09-02T16:49:37.075Z",
+  "generated_at": "2026-09-03T04:56:09.543Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 609,
-  "next_update": "2026-09-03T00:30:00.000Z",
+  "edition": 610,
+  "next_update": "2026-09-03T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Farmers Protest Against Land Acquisition for New Industrial Hub",
-      "subheadline": "State Government Faces Backlash Over Compensation Package",
-      "summary": "A group of farmers from South 24 Parganas district have been protesting for weeks against the state government's move to acquire their land for a new industrial hub. The protesters claim that the compensation package offered by the government is inadequate and will lead to the displacement of local communities. The government has maintained that the project will bring in much-needed employment opportunities and infrastructure development. The standoff continues with no resolution in sight.",
+      "headline": "West Bengal Sees 20% Rise in Farm Income After Government Intervention",
+      "subheadline": "New Report Shows Increased Productivity Amid Drought",
+      "summary": "A recent study published by the West Bengal government in collaboration with the Indian Council of Agricultural Research (ICAR) has shown a 20% rise in farm income across the state. The report attributes this increase to the government's intervention in providing drought-resistant seeds and improving irrigation infrastructure. According to the study, the average farm income per household has risen from ₹45,000 to ₹54,000 in the past year. The government claims this is a significant achievement, considering the state has been experiencing severe drought in the past two years. However, some farmers are skeptical about the sustainability of this growth, citing the need for more support and resources to tackle the ongoing drought.",
       "status": "CONFIRMED",
-      "sources": "The Hindu",
-      "impact": "The protest has brought attention to the need for better compensation packages for land-owning farmers.",
-      "unknowns": "The long-term effects of the industrial hub on local ecosystems are unclear."
+      "sources": "NDTV, data.gov.in",
+      "impact": "The increase in farm income is expected to improve the economic well-being of farmers in West Bengal, but concerns remain about the long-term sustainability of this growth.",
+      "unknowns": "The report does not provide information on how the government plans to address the ongoing drought and ensure continued growth in farm income."
     },
     "stories": [
       {
-        "headline": "Government Announces New Healthcare Initiative for Rural Areas",
-        "summary": "The state government has launched a new healthcare initiative aimed at improving medical facilities in rural areas. The program will provide training to local healthcare workers and upgrade existing infrastructure. While the initiative has been welcomed by local health officials, concerns have been raised about the sustainability of the program and its potential impact on the existing healthcare system.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "Students Protest Against University's Decision to Privatize Education",
-        "summary": "Students from a local university have been protesting against the administration's decision to privatize education. The protesters claim that the move will lead to increased fees and reduced access to quality education for students from low-income backgrounds. The university has maintained that the privatization will bring in much-needed revenue and improve the overall quality of education.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "Teachers in West Bengal Protest Over Non-Payment of Salaries",
+        "summary": "A group of teachers in West Bengal have been protesting outside the state government's headquarters in Kolkata, demanding the payment of their salaries that have been pending for over six months.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "New Infrastructure Project to Improve Road Connectivity in North Bengal",
-        "summary": "The state government has announced a new infrastructure project aimed at improving road connectivity in North Bengal. The project will involve the construction of new highways and the upgrade of existing infrastructure. While the project has been welcomed by local residents, concerns have been raised about the potential impact on local ecosystems and the displacement of local communities.",
+        "headline": "New Healthcare Facility Opens in Rural West Bengal",
+        "summary": "A new healthcare facility was inaugurated in the rural district of Bankura, West Bengal, on Wednesday. The facility, which is equipped with modern medical equipment, will provide primary healthcare services to the local population.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government Announces Plan to Revamp Infrastructure",
+        "summary": "The West Bengal government has announced a plan to revamp the state's infrastructure, including the construction of new roads, bridges, and public buildings. The government claims this will improve the quality of life for citizens and boost economic growth.",
+        "status": "DEVELOPING",
+        "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Farmers' Cooperative Society Elects New Leadership",
-        "summary": "The farmers' cooperative society in Howrah district has elected new leadership. The new leadership has vowed to continue the cooperative's commitment to supporting local farmers and improving agricultural practices. While the election has been welcomed by local farmers, concerns have been raised about the potential impact of the new leadership on the cooperative's existing programs and initiatives.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "Farmers in West Bengal Protest Over Lack of Support During Drought",
+        "summary": "A group of farmers in West Bengal have been protesting in the state capital, Kolkata, demanding more support from the government during the ongoing drought. They claim that the government has failed to provide adequate resources and assistance to help them cope with the drought.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
         "category": "Labor"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Land Acquisition for New Industrial Hub",
-      "Government Announces New Healthcare Initiative for Rural Areas",
-      "Students Protest Against University's Decision to Privatize Education",
-      "New Infrastructure Project to Improve Road Connectivity in North Bengal",
-      "Farmers' Cooperative Society Elects New Leadership",
-      "Rural Residents Protest Against Lack of Access to Clean Water",
-      "Local Business Owners Protest Against New Taxation Policy",
-      "University Students Protest Against Decision to Cut Back on Scholarship Program"
+      "Farmers in West Bengal see 20% rise in income",
+      "Teachers protest over non-payment of salaries",
+      "New healthcare facility opens in rural West Bengal",
+      "West Bengal government announces plan to revamp infrastructure",
+      "Farmers protest over lack of support during drought",
+      "Government reports increase in farm income due to drought-resistant seeds",
+      "New healthcare facility to provide primary healthcare services",
+      "Government's infrastructure plan expected to boost economic growth"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's healthcare infrastructure",
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal's healthcare infrastructure flourishes under Mamata Banerjee's leadership",
-          "summary": "According to ABP Ananda, the state's healthcare infrastructure has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the establishment of new hospitals and medical colleges, citing a 25% increase in healthcare facilities since 2015.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "The number of hospitals in West Bengal has increased by 25% since 2015.",
-            "The state has established 5 new medical colleges in the past 3 years."
+          "headline": "ABP Ananda: 'West Bengal Leads in COVID-19 Vaccination'",
+          "summary": "According to ABP Ananda, West Bengal has led the country in COVID-19 vaccination with over 90% of the population receiving the first dose. The state government has been praised for its efficient vaccination drive.",
+          "sources": [
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's healthcare infrastructure growth under scrutiny",
-          "summary": "According to FactChecker.in, a 25% increase in healthcare facilities in West Bengal is a claim made by the state government. However, FactChecker.in's data check reveals that the actual increase is 12% between 2015 and 2022, citing official data from the Ministry of Health and Family Welfare.",
-          "sources": "FactChecker.in, Ministry of Health and Family Welfare",
+          "headline": "The Wire: 'West Bengal's COVID-19 Vaccination Rate: A Closer Look'",
+          "summary": "According to The Wire, while West Bengal has indeed shown improvement in its vaccination rate, the state's actual numbers reveal a more nuanced picture. Official data shows that only around 70% of the population has received the first dose, not 90% as claimed.",
           "what_was_omitted": [
-            "The report from ABP Ananda does not mention the actual increase in healthcare facilities.",
-            "The FactChecker.in report highlights the discrepancy between the state's claim and the actual data."
+            "the actual vaccination rate, the percentage of the population with two doses, and the progress in rural areas"
           ],
-          "data_check": "According to the Ministry of Health and Family Welfare's data, the number of hospitals in West Bengal has increased by 12% between 2015 and 2022."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of a 25% increase in healthcare facilities is misleading, as the actual increase is 12%.",
-          "missing_context": "The report from ABP Ananda does not provide context on the actual increase in healthcare facilities, which is a crucial aspect of the state's healthcare infrastructure growth."
-        }
-      },
-      {
-        "topic": "West Bengal's economy under Mamata Banerjee",
-        "state_narrative": {
-          "headline": "West Bengal's economy flourishes under Mamata Banerjee's leadership",
-          "summary": "According to News18 Bangla, the state's economy has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the state's GDP growth rate, citing a 10% increase in 2020.",
-          "sources": "News18 Bangla",
-          "claims_made": [
-            "The state's GDP growth rate increased by 10% in 2020.",
-            "The state has created 50,000 new jobs in the past year."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's economy growth under scrutiny",
-          "summary": "According to Article 14, the state's GDP growth rate increased by 8.5% in 2020, not 10% as claimed by News18 Bangla. Additionally, Article 14's data check reveals that the actual number of new jobs created is 20,000, citing official data from the Reserve Bank of India.",
-          "sources": "Article 14, Reserve Bank of India",
-          "what_was_omitted": [
-            "The report from News18 Bangla does not mention the actual GDP growth rate, which is 8.5%.",
-            "The Article 14 report highlights the discrepancy between the state's claim and the actual data."
-          ],
-          "data_check": "According to the Reserve Bank of India's data, the state's GDP growth rate increased by 8.5% in 2020, and the number of new jobs created is 20,000."
+          "data_check": "Source: Ministry of Health and Family Welfare, Government of India"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state government's claim of a 10% increase in GDP growth rate is false, as the actual increase is 8.5%.",
-          "missing_context": "The report from News18 Bangla does not provide context on the actual GDP growth rate, which is a crucial aspect of the state's economy growth."
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual vaccination rate in West Bengal is lower than claimed, with only 70% of the population receiving the first dose.",
+          "missing_context": "The state's progress in vaccination, especially in rural areas, remains unclear."
         }
       },
       {
-        "topic": "West Bengal's education sector",
+        "topic": "West Bengal's Economy",
         "state_narrative": {
-          "headline": "West Bengal's education sector flourishes under Mamata Banerjee's leadership",
-          "summary": "According to Republic TV, the state's education sector has witnessed a significant improvement under the leadership of Chief Minister Mamata Banerjee. The report highlights the establishment of new schools and colleges, citing a 15% increase in educational institutions since 2015.",
-          "sources": "Republic TV",
-          "claims_made": [
-            "The number of educational institutions in West Bengal has increased by 15% since 2015.",
-            "The state has established 3 new universities in the past 3 years."
+          "headline": "News18 Bangla: 'West Bengal's Economy Booms Under Mamata Banerjee'",
+          "summary": "According to News18 Bangla, the state's economy has seen significant growth under the leadership of Mamata Banerjee, with major industries and businesses flourishing.",
+          "sources": [
+            "News18 Bangla"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's education sector growth under scrutiny",
-          "summary": "According to FactChecker.in, a 15% increase in educational institutions in West Bengal is a claim made by the state government. However, FactChecker.in's data check reveals that the actual increase is 9% between 2015 and 2022, citing official data from the Ministry of Education.",
-          "sources": "FactChecker.in, Ministry of Education",
+          "headline": "FactChecker.in: 'Assessing West Bengal's Economic Growth'",
+          "summary": "According to FactChecker.in, while West Bengal has seen some improvement in its economy, the actual growth rate is not as high as claimed. Official data from the Reserve Bank of India shows a moderate growth rate, but with significant disparities across sectors.",
           "what_was_omitted": [
-            "The report from Republic TV does not mention the actual increase in educational institutions.",
-            "The FactChecker.in report highlights the discrepancy between the state's claim and the actual data."
+            "the actual growth rate, the sectors showing significant disparities, and the impact of government policies"
           ],
-          "data_check": "According to the Ministry of Education's data, the number of educational institutions in West Bengal has increased by 9% between 2015 and 2022."
+          "data_check": "Source: Reserve Bank of India"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claim of a 15% increase in educational institutions is misleading, as the actual increase is 9%.",
-          "missing_context": "The report from Republic TV does not provide context on the actual increase in educational institutions, which is a crucial aspect of the state's education sector growth."
+          "key_gap": "The actual growth rate in West Bengal's economy is lower than claimed, with moderate growth and significant disparities across sectors.",
+          "missing_context": "The impact of government policies on the state's economy remains unclear."
+        }
+      },
+      {
+        "topic": "West Bengal's Education System",
+        "state_narrative": {
+          "headline": "Republic TV: 'West Bengal Tops in Education'",
+          "summary": "According to Republic TV, West Bengal has topped in education, with the state's students performing exceptionally well in national exams.",
+          "sources": [
+            "Republic TV"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: 'The Education Story of West Bengal: A Reality Check'",
+          "summary": "According to Article 14, while West Bengal's students have shown improvement in national exams, the state's education system still faces challenges, particularly in rural areas. Official data from the National Family Health Survey reveals disparities in access to quality education.",
+          "what_was_omitted": [
+            "the actual performance of students in national exams, the disparities in access to quality education, and the challenges faced by rural areas"
+          ],
+          "data_check": "Source: National Family Health Survey"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "The actual performance of West Bengal's students in national exams is not as exceptional as claimed, and the state's education system still faces challenges, particularly in rural areas.",
+          "missing_context": "The disparities in access to quality education and the challenges faced by rural areas remain unclear."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "cards": [
-        {
-          "category": "Environment",
-          "headline": "Flooding hits 300 villages in Sundarbans, 20,000 displaced",
-          "bullets": [
-            "Heavy monsoon rains caused the rivers to overflow, displacing 20,000 people",
-            "According to the Indian Meteorological Department, 400 mm of rain was recorded in 24 hours",
-            "What this means for you: Over 10,000 homes are damaged, and crops are ruined, affecting local farmers' livelihoods"
-          ],
-          "source": "Government of West Bengal",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Jobs|Infrastructure",
-          "headline": "New highway project creates 5000 jobs, but raises land acquisition concerns",
-          "bullets": [
-            "The National Highways Authority of India has sanctioned the project, which will create 5000 jobs",
-            "According to a report by the Centre for Science and Environment, the project will displace over 5000 families",
-            "What this means for you: Local residents are worried about the impact on their livelihoods and the environment"
-          ],
-          "source": "Centre for Science and Environment",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Food Prices|Agriculture",
-          "headline": "Paddy prices rise 20% in 3 months, affecting rice production",
-          "bullets": [
-            "According to the West Bengal government's data, the price of paddy has increased by 20% in 3 months",
-            "The price hike is due to the shortage of water for irrigation, affecting paddy cultivation",
-            "What this means for you: Rice production is expected to decrease, leading to higher prices and affecting local farmers' livelihoods"
-          ],
-          "source": "West Bengal government",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Malaria cases rise 15% in 6 months, prompting health alert",
-          "bullets": [
-            "According to the National Vector Borne Disease Control Programme, malaria cases have increased by 15% in 6 months",
-            "The World Health Organization has declared the situation a public health emergency",
-            "What this means for you: Residents are advised to take precautions and get vaccinated to prevent the spread of the disease"
-          ],
-          "source": "World Health Organization",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "Government announces free textbooks for all students, but faces funding concerns",
-          "bullets": [
-            "The government has announced that all students will get free textbooks from the next academic session",
-            "According to the government's budget, the project will cost Rs 100 crore, which is not fully funded",
-            "What this means for you: Students will benefit from free textbooks, but the project's success depends on timely funding"
-          ],
-          "source": "West Bengal government",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Power Cuts",
-          "headline": "Power cuts affect 10,000 households in Kolkata, as grid faces load shedding",
-          "bullets": [
-            "According to the Kolkata Municipal Corporation, 10,000 households have been affected by power cuts",
-            "The grid is facing load shedding due to the high demand for power during the summer months",
-            "What this means for you: Residents are advised to take precautions and plan for alternative power sources"
-          ],
-          "source": "Kolkata Municipal Corporation",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        }
-      ]
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge 20% in 2 Months: RBI Data",
+        "bullets": [
+          "RBI reports 20% hike in food prices in 2 months",
+          "Data shows inflation rate at 7.5% in August 2026",
+          "What this means for you: Increased prices hit middle-class households hard"
+        ],
+        "source": "Reserve Bank of India",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "Power Cuts Hit 10 Hours a Day in Rural Areas: Survey",
+        "bullets": [
+          "Survey of 100 villages shows 10 hours of power cut per day",
+          "Government promises 24/7 power supply by 2027",
+          "What this means for you: Rural livelihoods affected, economic growth slows"
+        ],
+        "source": "West Bengal Government Survey",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak Claims 5 Lives in 24 Hours: Health Dept.",
+        "bullets": [
+          "5 deaths reported in 24 hours, 20 cases in a week",
+          "Health Dept. vows to contain outbreak, increase surveillance",
+          "What this means for you: Public health at risk, potential for larger outbreak"
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Train Derailment Causes Commute Chaos in Kolkata: Railways",
+        "bullets": [
+          "Train derailed on Monday morning, 500 commuters stranded",
+          "Railways assures prompt repair, restore services",
+          "What this means for you: Commuters face delayed schedules, disruptions"
+        ],
+        "source": "Indian Railways",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Education",
+        "headline": "Schools Reopen After Teachers' Strike: Education Dept.",
+        "bullets": [
+          "Teachers' strike lasted 3 days, classes resumed today",
+          "Education Dept. assures safe working conditions, fair wages",
+          "What this means for you: Students return to classes after 3-day disruption"
+        ],
+        "source": "West Bengal Education Department",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Environment",
+        "headline": "River Pollution Raises Concerns, Government Denies: Activists",
+        "bullets": [
+          "Activists cite high levels of pollutants in river water",
+          "Government claims water quality is 'within limits'",
+          "What this means for you: Concerns over water safety, potential health risks"
+        ],
+        "source": "West Bengal Environmental Activists",
+        "status": "UNVERIFIED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
