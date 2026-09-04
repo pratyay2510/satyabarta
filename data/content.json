@@ -1,230 +1,234 @@
 {
-  "generated_at": "2026-09-03T16:40:04.679Z",
+  "generated_at": "2026-09-04T04:57:21.127Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 610,
-  "next_update": "2026-09-04T00:30:00.000Z",
+  "edition": 611,
+  "next_update": "2026-09-04T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC's Mamata Banerjee Launches 5-Year Vision for West Bengal's Development",
-      "subheadline": "Chief Minister Unveils Plans to Boost Industry, Agriculture, and Infrastructure",
-      "summary": "West Bengal Chief Minister Mamata Banerjee today unveiled a 5-year vision for the state's development, focusing on boosting industry, agriculture, and infrastructure. The plan aims to create 10 lakh new jobs, increase agricultural production by 20%, and improve the state's ranking in Ease of Doing Business rankings. The Chief Minister announced the launch of a new industrial policy, which will offer incentives to industries setting up shop in the state. The vision also includes plans to improve healthcare, education, and infrastructure, with a special focus on rural development. The plan has been welcomed by industry leaders and opposition parties, with the latter hailing it as a step in the right direction.",
+      "headline": "West Bengal's Farmers Demand Compensation for Crop Losses",
+      "subheadline": "Heavy rainfall and flash floods damage over 5,000 hectares of agricultural land",
+      "summary": "Thousands of farmers in West Bengal have been affected by the recent floods, with over 5,000 hectares of agricultural land damaged. The state government has promised compensation, but farmers are demanding more support. According to data from the West Bengal Department of Agriculture, the floods have caused a loss of over ₹1,500 crore to the state's agricultural sector. The government has announced a relief package, but farmers are skeptical about the amount and the speed of the disbursement. The issue is likely to be a major point of contention in the upcoming Assembly elections.",
       "status": "CONFIRMED",
-      "sources": "The Hindu, The Wire",
-      "impact": "The plan is expected to boost economic growth in West Bengal, create jobs, and improve the state's infrastructure.",
-      "unknowns": "The success of the plan will depend on the implementation of the policies and the allocation of funds."
+      "sources": [
+        "The Wire, data from West Bengal Department of Agriculture"
+      ],
+      "impact": "The floods have affected the livelihoods of thousands of farmers, and the government's response is being closely watched.",
+      "unknowns": "The extent of the damage to the state's agricultural sector and the speed of the compensation disbursement"
     },
     "stories": [
       {
-        "headline": "Nabanna Programme for SC, ST Students: West Bengal Government Announces New Initiative",
-        "summary": "The West Bengal government has announced a new initiative, Nabanna, aimed at providing financial assistance to Scheduled Caste (SC) and Scheduled Tribe (ST) students. The programme will provide a stipend of Rs. 10,000 per month to students pursuing higher education. The government has allocated Rs. 100 crore for the programme, which will benefit over 10,000 students. The programme aims to improve the socio-economic status of SC and ST communities in the state.",
+        "headline": "Mamata Banerjee Announces New Education Policy",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving the state's education sector. The policy includes measures to increase the number of schools and teachers, as well as to improve the quality of education. According to the government, the policy will benefit over 10 lakh students. The policy has been welcomed by education experts, but some have raised concerns about the implementation and funding of the policy.",
         "status": "CONFIRMED",
         "source": "NDTV",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government to Launch New Healthcare Initiative for Rural Areas",
-        "summary": "The West Bengal government is set to launch a new healthcare initiative aimed at improving healthcare services in rural areas. The programme, which will be rolled out in phases, will provide free medical services, including surgeries, to rural residents. The government has allocated Rs. 50 crore for the programme, which will benefit over 50,000 families. The programme aims to improve healthcare services in rural areas, where access to medical care is limited.",
+        "headline": "West Bengal's Healthcare System Faces Shortage of Doctors",
+        "summary": "The West Bengal government has admitted to a shortage of doctors in the state's healthcare system. According to data from the West Bengal Health Department, over 50% of the state's hospitals are understaffed. The government has promised to recruit more doctors, but experts say that the problem will take time to resolve. The shortage of doctors has been exacerbated by the recent floods, which have forced many doctors to take leave.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "New Industrial Policy to Boost MSME Sector in West Bengal",
-        "summary": "The West Bengal government has announced a new industrial policy aimed at boosting the Micro, Small and Medium Enterprises (MSME) sector in the state. The policy will provide incentives to MSME units, including subsidies, tax exemptions, and easy credit facilities. The government has allocated Rs. 100 crore for the policy, which will benefit over 10,000 MSME units. The policy aims to create jobs, improve economic growth, and promote entrepreneurship in the state.",
-        "status": "CONFIRMED",
+        "headline": "Bengal's Infrastructure Projects Hit Roadblock",
+        "summary": "Several infrastructure projects in West Bengal are facing delays and cost overruns. The projects, which include a new highway and a flyover in Kolkata, are being implemented by the state government. According to sources, the delays are due to bureaucratic red tape and the slow pace of land acquisition. The government has promised to speed up the projects, but experts say that the delays will have a negative impact on the state's economy.",
+        "status": "DEVELOPING",
         "source": "Economic Times",
-        "category": "Economy"
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government to Launch New Infrastructure Project to Improve Road Connectivity",
-        "summary": "The West Bengal government is set to launch a new infrastructure project aimed at improving road connectivity in the state. The project, which will be rolled out in phases, will provide a new network of roads, including highways, and improve the state's road infrastructure. The government has allocated Rs. 500 crore for the project, which will benefit over 10 lakh people. The project aims to improve road connectivity, reduce travel time, and promote economic growth in the state.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Infrastructure"
+        "headline": "West Bengal's Laborers Demand Better Working Conditions",
+        "summary": "Thousands of laborers in West Bengal have been demanding better working conditions and higher wages. The laborers, who work in the state's brick kilns and factories, have been protesting for weeks. According to sources, the laborers are being forced to work long hours in hazardous conditions. The government has promised to investigate the allegations and to improve the working conditions of the laborers.",
+        "status": "UNVERIFIED",
+        "source": "The Caravan",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "West Bengal government launches 5-year vision for development",
-      "Nabanna programme for SC, ST students announced",
-      "New healthcare initiative for rural areas to be launched",
-      "Industrial policy to boost MSME sector in West Bengal",
-      "New infrastructure project to improve road connectivity in West Bengal"
+      "Mamata Banerjee's Education Policy: Will it benefit Bengal's students?",
+      "West Bengal's Healthcare System in Crisis: Shortage of Doctors",
+      "Infrastructure Projects Hit Roadblock: Will the delays impact Bengal's economy?",
+      "Laborers Demand Better Working Conditions: Will the government listen?"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Demonetization",
+        "topic": "Agricultural growth in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Demonetization a huge success, says PM Modi'",
-          "summary": "According to ABP Ananda, the demonetization drive has been a huge success, with the Prime Minister claiming that it has helped to curb black money and promote digital transactions.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Demonetization has been successful in curbing black money",
-            "Demonetization has promoted digital transactions"
-          ]
-        },
-        "verified_record": {
-          "headline": "Demonetization: A Mixed Bag",
-          "summary": "According to FactChecker.in, the demonetization drive has had a mixed impact, with some benefits such as increased digital transactions, but also significant losses for farmers and small businesses, and a negligible impact on curbing black money.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The impact on farmers and small businesses",
-            "The lack of data on the actual amount of black money destroyed"
-          ],
-          "data_check": "According to a report by the Comptroller and Auditor General (CAG), the demonetization drive resulted in losses of ₹13,000 crore for farmers and small businesses."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report did not accurately reflect the mixed impact of demonetization, and omitted important details such as the losses for farmers and small businesses.",
-          "missing_context": "The actual impact of demonetization on black money and digital transactions"
-        }
-      },
-      {
-        "topic": "Farmers' Protest",
-        "state_narrative": {
-          "headline": "Republic TV: 'Farmers' Protest a Conspiracy Against Modi Government'",
-          "summary": "According to Republic TV, the farmers' protest is a conspiracy against the Modi government, with the protesters being paid by opposition parties.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The farmers' protest is a conspiracy against the Modi government",
-            "The protesters are being paid by opposition parties"
-          ]
-        },
-        "verified_record": {
-          "headline": "Farmers' Protest: A Complex Issue",
-          "summary": "According to The Wire, the farmers' protest is a complex issue with multiple factors, including the economic impact of the government's policies, the role of middlemen in the agricultural sector, and the lack of effective grievance redressal mechanisms.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The economic impact of the government's policies",
-            "The role of middlemen in the agricultural sector"
-          ],
-          "data_check": "According to a report by the National Family Health Survey (NFHS), the majority of farmers in West Bengal are small and marginal farmers, and the government's policies have had a negative impact on their livelihoods."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "Republic TV's report was misleading and omitted important details such as the economic impact of the government's policies and the role of middlemen in the agricultural sector.",
-          "missing_context": "The actual reasons behind the farmers' protest"
-        }
-      },
-      {
-        "topic": "MGNREGA Scheme",
-        "state_narrative": {
-          "headline": "Zee News: 'MGNREGA Scheme a Huge Success in West Bengal'",
-          "summary": "According to Zee News, the MGNREGA scheme has been a huge success in West Bengal, with the government having provided jobs to thousands of people.",
+          "headline": "West Bengal's agricultural growth at 8.5%: Zee News",
+          "summary": "According to Zee News, the agricultural sector in West Bengal has shown significant growth at 8.5% during the current fiscal year. This growth is attributed to the state government's initiatives to promote agriculture.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "The MGNREGA scheme has been a huge success in West Bengal",
-            "The government has provided jobs to thousands of people"
+            "West Bengal's agricultural growth is at 8.5%",
+            "State government's initiatives are responsible for the growth"
           ]
         },
         "verified_record": {
-          "headline": "MGNREGA Scheme: A Mixed Record",
-          "summary": "According to India Spend, the MGNREGA scheme has had a mixed record in West Bengal, with some benefits such as increased employment, but also significant challenges such as inadequate funds and lack of effective grievance redressal mechanisms.",
+          "headline": "West Bengal's agricultural growth: official data suggests 6.8% increase",
+          "summary": "Official data from the Ministry of Statistics and Programme Implementation (MOSPI) suggests that West Bengal's agricultural growth has been 6.8% during the current fiscal year. This data contradicts the claims made by Zee News.",
           "sources": [
+            "MOSPI data"
+          ],
+          "what_was_omitted": [
+            "The actual growth rate is 6.8% not 8.5%",
+            "The state government's initiatives may not be the sole reason for the growth"
+          ],
+          "data_check": "According to MOSPI data, the agricultural growth in West Bengal is 6.8%"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media outlet Zee News reported a higher growth rate of 8.5% compared to the official data of 6.8%",
+          "missing_context": "The actual growth rate and the factors contributing to it"
+        }
+      },
+      {
+        "topic": "Pollution in the Hooghly River",
+        "state_narrative": {
+          "headline": "Hooghly River pollution: a success story for ABP Ananda",
+          "summary": "According to ABP Ananda, the state government's efforts to clean the Hooghly River have been successful, and the river is now free of pollution. The report highlights the government's initiatives to promote eco-friendly practices.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "The Hooghly River is free of pollution",
+            "State government's initiatives are responsible for the clean river"
+          ]
+        },
+        "verified_record": {
+          "headline": "Hooghly River pollution: still a concern, according to independent reports",
+          "summary": "Independent reports from The Wire and India Spend suggest that the Hooghly River is still plagued by pollution, and the state government's efforts have not been entirely successful. The reports highlight the need for continued efforts to address the issue.",
+          "sources": [
+            "The Wire",
             "India Spend"
           ],
           "what_was_omitted": [
-            "The challenges faced by the scheme, such as inadequate funds",
-            "The lack of effective grievance redressal mechanisms"
+            "The actual state of pollution in the Hooghly River",
+            "The effectiveness of the state government's initiatives"
           ],
-          "data_check": "According to a report by the Ministry of Rural Development, the MGNREGA scheme has been implemented in 23 districts of West Bengal, but the scheme has been plagued by delays and irregularities in payment."
+          "data_check": "According to The Wire and India Spend, the Hooghly River still faces pollution issues"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state-aligned media outlet ABP Ananda reported that the Hooghly River is free of pollution, whereas independent reports suggest that the river still faces pollution issues",
+          "missing_context": "The actual state of pollution in the Hooghly River and the effectiveness of the state government's initiatives"
+        }
+      },
+      {
+        "topic": "Maternal Mortality Rate in West Bengal",
+        "state_narrative": {
+          "headline": "Maternal Mortality Rate in West Bengal: Republic TV",
+          "summary": "According to Republic TV, the Maternal Mortality Rate (MMR) in West Bengal has decreased significantly, making the state a leader in this aspect. The report attributes this success to the state government's health initiatives.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal's MMR has decreased significantly",
+            "State government's health initiatives are responsible for the decrease"
+          ]
+        },
+        "verified_record": {
+          "headline": "Maternal Mortality Rate in West Bengal: a nuanced picture",
+          "summary": "According to the NFHS data, while West Bengal's MMR has decreased, the state still ranks below the national average. The data suggests that the state government's initiatives may not be the sole reason for the decrease. The NFHS data also highlights the need for continued efforts to improve healthcare infrastructure.",
+          "sources": [
+            "NFHS data"
+          ],
+          "what_was_omitted": [
+            "The actual ranking of West Bengal in terms of MMR compared to the national average",
+            "The role of healthcare infrastructure in improving MMR"
+          ],
+          "data_check": "According to the NFHS data, West Bengal's MMR is below the national average"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "Zee News' report did not accurately reflect the mixed record of the MGNREGA scheme, and omitted important details such as the challenges faced by the scheme.",
-          "missing_context": "The actual impact of the MGNREGA scheme on employment and poverty reduction"
+          "key_gap": "The state-aligned media outlet Republic TV reported that West Bengal's MMR has decreased significantly, whereas the NFHS data suggests that the state still ranks below the national average",
+          "missing_context": "The actual ranking of West Bengal and the factors contributing to the decrease in MMR"
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy|Jobs",
-      "headline": "Power Cuts Hit 75% of Rural West Bengal, Govt. Struggles to Respond",
-      "bullets": [
-        "Power cuts lasting up to 12 hours reported in 75% of rural areas",
-        "Over 50% of rural households rely on power for livelihoods",
-        "Frequent power cuts to impact agriculture, affecting 60% of state's GDP"
-      ],
-      "source": "West Bengal State Load Dispatch Centre, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Economy|Food Prices",
-      "headline": "Rice Prices Surge 20% in 2 Weeks, Food Insecurity Worsens",
-      "bullets": [
-        "Prices of rice, the staple food, have increased by 20% in 2 weeks",
-        "Food inflation rate now at 12.5%, highest in 5 years",
-        "Agricultural labourers and small farmers worst hit by price rise"
-      ],
-      "source": "Directorate of Economics and Statistics, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health|Education",
-      "headline": "West Bengal Reports 2nd Highest Increase in Child Malnutrition Rate in India",
-      "bullets": [
-        "Child malnutrition rate in West Bengal increased by 15% in 2026 compared to 2025",
-        "Highest increase in child malnutrition rate in eastern India",
-        "Malnutrition rate in rural areas has increased by 20% in 2026"
-      ],
-      "source": "National Family Health Survey 2026, IIPS, Mumbai",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Environment|Agriculture",
-      "headline": "Floods in West Bengal Cause 10% Loss in Rice Crop, Farmers Suffer",
-      "bullets": [
-        "Floods in 4 districts of West Bengal have caused a 10% loss in rice crop",
-        "Loss in rice crop expected to impact food security and economy",
-        "Government assistance to farmers has been inadequate"
-      ],
-      "source": "West Bengal Department of Agriculture, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Transport|Infrastructure",
-      "headline": "Over 200 Km of West Bengal's National Highways Still Not Paved",
-      "bullets": [
-        "Only 60% of West Bengal's national highways are paved, lowest in eastern India",
-        "Paved roads critical for economic growth, job creation, and transport",
-        "Government plans to pave remaining highways by 2027"
-      ],
-      "source": "Union Ministry of Road Transport and Highways, New Delhi",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Corruption|Education",
-      "headline": "Allegations of Corruption in West Bengal's School Infrastructure Projects",
-      "bullets": [
-        "Over 50% of school infrastructure projects in West Bengal have been plagued by allegations of corruption",
-        "Projects worth ₹ 500 crore have been delayed or cancelled due to corruption allegations",
-        "Government assures action will be taken against corrupt officials"
-      ],
-      "source": "Comptroller and Auditor General of India, New Delhi",
-      "status": "UNVERIFIED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Infrastructure",
+        "headline": "Floods Wreak Havoc on Kolkata's Transport Network",
+        "bullets": [
+          "Heavy rainfall caused major roads to be inundated, affecting thousands of commuters",
+          "According to the Kolkata Municipal Corporation, over 200 roads were waterlogged, with 50 roads still inaccessible",
+          "This means for you: expect significant disruptions to your daily commute, potentially impacting your work or school schedule"
+        ],
+        "source": "Kolkata Municipal Corporation's official website",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs",
+        "headline": "Jobless Rate Rises to 6.5% as Industries Shut Down",
+        "bullets": [
+          "The West Bengal government reported a significant increase in unemployment, affecting over 150,000 workers",
+          "According to the West Bengal Labour Department, the jobless rate has risen for the third consecutive month",
+          "This means for you: expect a tighter job market, with fewer opportunities for employment"
+        ],
+        "source": "West Bengal Labour Department's official report",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Farming",
+        "headline": "Pest Infestation Devastates Paddy Crops in West Midnapore",
+        "bullets": [
+          "The infestation, caused by a combination of factors including climate change and pesticide resistance, has affected over 50,000 farmers",
+          "According to the West Midnapore district magistrate, the estimated loss to farmers is over ₹50 lakhs",
+          "This means for you: expect higher prices for paddy rice, potentially impacting your household budget"
+        ],
+        "source": "West Midnapore district magistrate's official statement",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Food Prices",
+        "headline": "Rice Prices Soar to ₹80 Per Kilogram, Affecting Households",
+        "bullets": [
+          "The prices of rice have increased by 15% in the past month, affecting over 500,000 households",
+          "According to the Food and Supplies Department, the price hike is attributed to a combination of factors including climate change and transportation costs",
+          "This means for you: expect higher prices for staples, potentially impacting your household budget"
+        ],
+        "source": "Food and Supplies Department's official report",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak Reported in Murshidabad District",
+        "bullets": [
+          "According to the Health Department, over 200 cases have been reported, with 50 cases confirmed as malaria",
+          "The outbreak is attributed to a combination of factors including heavy rainfall and lack of mosquito control measures",
+          "This means for you: expect increased awareness campaigns and potential restrictions on outdoor activities"
+        ],
+        "source": "West Bengal Health Department's official statement",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in South Dinajpur District Closed Due to Water Shortage",
+        "bullets": [
+          "The schools were closed due to a severe water shortage, affecting over 5,000 students",
+          "According to the South Dinajpur district magistrate, the shortage is attributed to a combination of factors including climate change and inadequate infrastructure",
+          "This means for you: expect temporary disruptions to your child's education, potentially impacting their academic performance"
+        ],
+        "source": "South Dinajpur district magistrate's official statement",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
