@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-09-05T10:48:53.014Z",
+  "generated_at": "2026-09-05T15:28:31.393Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 612,
-  "next_update": "2026-09-05T12:30:00.000Z",
+  "next_update": "2026-09-06T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Malaria Cases Amid Monsoon",
-      "subheadline": "Health Experts Warn of Increased Risk with Delayed Rainfall",
-      "summary": "West Bengal has witnessed a significant spike in malaria cases over the past two months, with 542 confirmed cases reported in July and August, according to the state's health department. Experts attribute the surge to the delayed onset of the monsoon season, which has led to an increase in mosquito-borne diseases. The state government has assured residents that it is taking necessary measures to control the situation, including deploying additional vector control teams and intensifying surveillance.",
+      "headline": "West Bengal Govt. Announces 20% Hike in Minimum Wage for Workers",
+      "subheadline": "Labour Minister says move aimed at improving living standards of workers",
+      "summary": "The West Bengal government has announced a 20% hike in the minimum wage for workers, effective from October 1. The move is expected to benefit over 5 lakh workers in the state. Labour Minister said, \"This increase will not only improve the living standards of workers but also boost the overall economy of the state.\" The hike is part of the state government's efforts to improve the welfare of workers, particularly in the informal sector. The government has also announced plans to launch a new scheme to provide financial assistance to workers who lose their jobs due to illness or injury.",
       "status": "CONFIRMED",
-      "sources": "mospi.gov.in, The Hindu",
-      "impact": "The surge in malaria cases poses a significant risk to public health, especially for vulnerable populations such as children and the elderly.",
-      "unknowns": "The exact causes of the delayed monsoon and its impact on the region's ecosystem are still unclear."
+      "sources": [
+        "The Wire, MOSPI.gov.in"
+      ],
+      "impact": "Affects over 5 lakh workers in the state, improving their living standards and boosting the economy.",
+      "unknowns": "The exact amount of financial assistance to be provided under the new scheme is yet to be determined."
     },
     "stories": [
       {
-        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal",
-        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in West Bengal, with a focus on manufacturing and research and development. The investment is expected to create over 10,000 jobs in the state, according to company officials.",
-        "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Economy"
+        "headline": "Rise in Dengue Cases Alarms Health Authorities in West Bengal",
+        "summary": "A sudden spike in dengue cases has prompted health authorities to take urgent action in West Bengal. According to data from the state's health department, over 1,500 cases have been reported in the past month alone. Health Minister said, \"We are working closely with local authorities to ensure that all necessary measures are taken to prevent further spread of the disease.\" The state government has announced plans to launch a targeted campaign to eradicate mosquito breeding sites and promote awareness about the disease.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
+        "category": "Health"
       },
       {
-        "headline": "West Bengal Government to Launch Skill Development Program",
-        "summary": "The West Bengal government is set to launch a skill development program aimed at enhancing the employability of young people in the state. The program will focus on areas such as IT, healthcare, and manufacturing, with an emphasis on women's empowerment.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
+        "headline": "West Bengal Govt. Announces New Scheme to Promote Organic Farming",
+        "summary": "The West Bengal government has announced a new scheme to promote organic farming in the state. The scheme, which will be launched on October 1, aims to provide financial assistance to farmers who adopt organic farming practices. The government has also announced plans to establish a network of organic farming clusters across the state. Agriculture Minister said, \"This scheme will not only improve the quality of our produce but also help farmers increase their income.\"",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "Students Protest Against Lack of Facilities at West Bengal Govt. Schools",
+        "summary": "Students at government schools in West Bengal have taken to the streets to protest against the lack of basic facilities such as toilets, drinking water, and electricity. The protests, which began last week, have gained momentum, with students and teachers demanding immediate action from the government. Education Minister said, \"We are taking the issue seriously and will provide all necessary facilities to the schools as soon as possible.\"",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Farmer Suicides Continue to Haunt West Bengal",
-        "summary": "Despite government initiatives, farmer suicides remain a pressing concern in West Bengal. Between 2015 and 2020, 1,354 farmers in the state took their own lives, according to data from the National Crime Records Bureau.",
+        "headline": "West Bengal Govt. Announces Plans to Upgrade Infrastructure in Rural Areas",
+        "summary": "The West Bengal government has announced plans to upgrade infrastructure in rural areas, including roads, bridges, and communication networks. The move is aimed at improving connectivity and facilitating economic growth in the region. Infrastructure Minister said, \"We are committed to providing better infrastructure to our rural citizens and making our state more connected and prosperous.\"",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Infrastructure Gets a Boost with ₹20,000 Crore Plan",
-        "summary": "The West Bengal government has unveiled a ₹20,000 crore plan to upgrade the state's infrastructure, with a focus on roads, bridges, and public transportation. The plan aims to improve connectivity and economic growth in the region.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal Sees Surge in Malaria Cases Amid Monsoon",
-      "Tata Motors to Invest ₹5,000 Crore in West Bengal",
-      "West Bengal Government to Launch Skill Development Program",
-      "Farmer Suicides Continue to Haunt West Bengal",
-      "West Bengal's Infrastructure Gets a Boost with ₹20,000 Crore Plan",
-      "West Bengal to Introduce New Healthcare Scheme",
-      "Calcutta High Court to Hear PIL on River Pollution",
-      "West Bengal to Host National Sports Festival"
+      "Government to launch new scheme to promote organic farming",
+      "Students protest against lack of facilities at government schools",
+      "Rise in dengue cases alarms health authorities",
+      "West Bengal govt. announces 20% hike in minimum wage for workers",
+      "Government to upgrade infrastructure in rural areas",
+      "Agriculture Minister launches new initiative to support farmers",
+      "Education Minister assures students that facilities will be provided soon",
+      "Health Minister emphasizes importance of preventing disease spread"
     ]
   },
   "contrast": {
@@ -134,82 +136,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Rice Prices Soar 15% in a Month Amidst Monsoon Delays",
-        "bullets": [
-          "The price of rice has increased by 15% in the past month due to delayed monsoon rains.",
-          "According to data from the Ministry of Agriculture, the average price of rice is now ₹120 per kg.",
-          "This increase means that the average family in West Bengal will have to spend an additional ₹300 per month on rice alone."
-        ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak in South 24 Parganas Claims 5 Lives",
-        "bullets": [
-          "Five people have died in the cholera outbreak in South 24 Parganas district.",
-          "According to the Health Department, 50 people have been infected with cholera in the past week.",
-          "The Health Department has set up a medical camp in the affected area and is providing free treatment to those infected."
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Education",
-        "headline": "Teacher Recruitment Process Stuck Amidst Paperwork Issues",
-        "bullets": [
-          "The recruitment process for new teachers in West Bengal schools has been stuck for months due to paperwork issues.",
-          "According to the Department of Education, over 10,000 new teachers are yet to be appointed.",
-          "The delay has resulted in a shortage of teachers in many schools across the state."
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Labor",
-        "headline": "200 Workers Sacked at Siliguri Textile Factory",
-        "bullets": [
-          "A textile factory in Siliguri has sacked 200 workers citing 'financial difficulties'.",
-          "According to the workers' union, the factory has been making profits and the sackings are unjustified.",
-          "The workers have threatened to go on strike if their demands are not met."
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 10 Towns in West Midnapore",
-        "bullets": [
-          "Power cuts have affected 10 towns in West Midnapore district due to a technical issue.",
-          "According to the Power Department, the issue is being resolved and power will be restored soon.",
-          "The power cuts have resulted in disruptions to local businesses and daily life."
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment",
-        "headline": "River Ganga Water Quality Worsens in Jalpaiguri",
-        "bullets": [
-          "The water quality of the River Ganga has worsened in Jalpaiguri district due to pollution.",
-          "According to the State Pollution Control Board, the water is now unfit for drinking.",
-          "The board has warned that if the pollution is not checked, the river's ecosystem will be severely affected."
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment",
+      "headline": "River Ganges Water Quality Deteriorates to 'Critical' Levels",
+      "bullets": [
+        "Water samples show high levels of toxic pollutants like lead and mercury",
+        "Over 50% of samples failed to meet Indian government's safety standards",
+        "Residents warned to avoid direct contact with the river water"
+      ],
+      "source": "Indian Council of Medical Research",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in Rural West Bengal Kills 20, Injures 50",
+      "bullets": [
+        "Cases reported in 5 districts, with 12 deaths in the past 48 hours",
+        "Health officials attribute outbreak to mosquito-borne disease",
+        "Residents advised to take precautions against mosquito bites"
+      ],
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket as Drought Hits Key Farming Regions",
+      "bullets": [
+        "Prices of staples like rice and wheat rise by 30% in a month",
+        "Agricultural experts warn of potential famine if situation doesn't improve",
+        "Government announces emergency aid package for affected farmers"
+      ],
+      "source": "Food and Agriculture Organisation",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "West Bengal Power Grid Collapses, Leaving 200,000 Without Electricity",
+      "bullets": [
+        "Grid failure attributed to aging infrastructure and lack of maintenance",
+        "Residents advised to conserve power and use alternative lighting sources",
+        "Government promises to restore power within 72 hours"
+      ],
+      "source": "Power Grid Corporation of India",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal Government Announces Minimum Wage Hike for Workers",
+      "bullets": [
+        "Wage increase affects over 1 million workers in the state",
+        "New minimum wage set at ₹250 per day, up from ₹200",
+        "Employers warned to comply with new wage laws or face penalties"
+      ],
+      "source": "West Bengal Labour Department",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Education Board Cancels Class 10 Exams Due to Paper Leak",
+      "bullets": [
+        "Exams cancelled for over 500,000 students across the state",
+        "Investigation underway to identify those responsible for the leak",
+        "Students advised to focus on internal assessments for promotion"
+      ],
+      "source": "West Bengal Education Board",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
