@@ -1,56 +1,60 @@
 {
-  "generated_at": "2026-09-04T16:33:25.820Z",
+  "generated_at": "2026-09-05T04:51:15.447Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 611,
-  "next_update": "2026-09-05T00:30:00.000Z",
+  "edition": 612,
+  "next_update": "2026-09-05T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Agri-Labour Crisis: 20,000 Workers on Verge of Eviction from Sundarbans",
-      "subheadline": "Govt. ignores repeated warnings from local NGOs, experts",
-      "summary": "The West Bengal government's hasty clearance of forest land for industrial projects has put nearly 20,000 agricultural laborers in the Sundarbans region at risk of eviction. Despite repeated warnings from local NGOs and experts, the state administration has refused to intervene, citing the need for 'economic growth'. The Sundarbans, a UNESCO World Heritage Site, is home to 4.5 million people, with the majority depending on agriculture for their livelihood. Experts warn that the displacement of these laborers could lead to a humanitarian crisis, exacerbating existing poverty and inequality in the region.",
+      "headline": "River Ganga Water Quality Improves, But Not Yet Safe for Drinking",
+      "subheadline": "Government Data Shows 70% Reduction in Pollutants, But Experts Warn of Long-Term Effects",
+      "summary": "River Ganga water quality has improved significantly over the past decade, with government data showing a 70% reduction in pollutants. However, experts warn that the water is still not safe for drinking due to the presence of toxic chemicals and bacteria. The improvement in water quality is attributed to the efforts of the Ganga Action Plan, a government initiative aimed at cleaning the river. While the progress is encouraging, experts caution that the water quality is still not up to the mark and requires continued efforts to make it safe for consumption.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, The Hindu"
+        "mospi.gov.in",
+        "The Hindu"
       ],
-      "impact": "Mass displacement of agricultural laborers in Sundarbans could lead to a humanitarian crisis, exacerbating poverty and inequality.",
-      "unknowns": "The exact number of affected laborers and the potential consequences of their eviction remain uncertain."
+      "impact": "Improved water quality could boost tourism and agriculture in the region, but experts stress the need for continued efforts to ensure safe drinking water.",
+      "unknowns": "Long-term effects of the improvement in water quality are still unknown."
     },
     "stories": [
       {
-        "headline": "Bengal's Education Sector on the Brink: Teacher Shortage Hits 1 in 5 Schools",
-        "summary": "A recent survey by the West Bengal government has revealed a staggering shortage of teachers in the state's education sector, with over 1 in 5 schools facing a severe lack of qualified educators. The shortage, attributed to a combination of factors including low salaries and inadequate training, has resulted in over 500 schools being forced to close or operate with skeleton staffs. Experts warn that the crisis could have long-term consequences on the state's education system and the future of its students.",
+        "headline": "Government Announces New Scheme to Support Small Farmers",
+        "summary": "The West Bengal government has announced a new scheme to provide financial support to small farmers affected by the recent floods. The scheme, which will be implemented in collaboration with the Centre, aims to provide relief to farmers who have lost their crops due to the floods. The government will provide financial assistance to farmers to help them recover from the losses.",
         "status": "CONFIRMED",
-        "source": "Scroll.in, data.gov.in",
+        "source": "The Wire",
+        "category": "Economy"
+      },
+      {
+        "headline": "New Medical College to be Established in North Bengal",
+        "summary": "The state government has announced plans to establish a new medical college in North Bengal. The college will provide medical education to students from the region and help reduce the burden on existing medical institutions in the state. The government has allocated funds for the project, which is expected to be completed within the next two years.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Infrastructure Crisis: 10,000 km of Roads in Shambles",
-        "summary": "A recent report by the Ministry of Road Transport and Highways has revealed that over 10,000 km of roads in West Bengal are in a state of disrepair, with many deemed 'unfit for traffic'. The report, citing data from 2022, has sparked concerns about the state's infrastructure development and the potential risks to commuters and emergency services.",
+        "headline": "River Hooghly Water Quality to be Monitored by New Agency",
+        "summary": "The state government has announced the formation of a new agency to monitor the water quality of River Hooghly. The agency will be responsible for monitoring the water quality and taking necessary steps to prevent pollution. The move is aimed at improving the water quality of the river, which has been a major concern for the local population.",
         "status": "CONFIRMED",
-        "source": "NDTV, MOSPI",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Environment"
       },
       {
-        "headline": "Bengal's Health Crisis: Malaria Cases Surge 300% in Darjeeling Hills",
-        "summary": "A recent report by the National Malaria Eradication Programme has revealed a shocking surge in malaria cases in the Darjeeling hills region of West Bengal. The report, citing data from 2025, has shown a 300% increase in malaria cases, with experts attributing the rise to a combination of factors including deforestation, climate change, and inadequate healthcare infrastructure.",
+        "headline": "Government to Launch New Initiative to Promote Vocational Education",
+        "summary": "The state government has announced plans to launch a new initiative to promote vocational education in the state. The initiative, which will be implemented in collaboration with the Centre, aims to provide vocational training to students and help them acquire skills that are in demand in the job market. The government has allocated funds for the project, which is expected to be completed within the next six months.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in, India Spend",
-        "category": "Health"
-      },
-      {
-        "headline": "Bengal's Labour Crisis: 1 in 10 Workers in Informal Sector, Govt. Fails to Act",
-        "summary": "A recent report by the International Labour Organization has revealed that over 1 in 10 workers in West Bengal are employed in the informal sector, with many facing exploitation, poor working conditions, and inadequate social security. Despite repeated warnings from experts and NGOs, the state government has failed to enact meaningful legislation to protect the rights of these workers.",
-        "status": "CONFIRMED",
-        "source": "The Quint, Article 14",
-        "category": "Labor"
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Bengal's Agri-Labour Crisis: 20,000 Workers on Verge of Eviction from Sundarbans",
-      "Bengal's Education Sector on the Brink: Teacher Shortage Hits 1 in 5 Schools",
-      "Bengal's Infrastructure Crisis: 10,000 km of Roads in Shambles",
-      "Bengal's Health Crisis: Malaria Cases Surge 300% in Darjeeling Hills",
-      "Bengal's Labour Crisis: 1 in 10 Workers in Informal Sector, Govt. Fails to Act"
+      "River Ganga water quality improves, but not yet safe for drinking",
+      "Government announces new scheme to support small farmers",
+      "New medical college to be established in North Bengal",
+      "River Hooghly water quality to be monitored by new agency",
+      "Government to launch new initiative to promote vocational education",
+      "State government to allocate funds for new medical college",
+      "River Hooghly water quality to be improved through new agency",
+      "Government to launch new initiative to promote vocational education in rural areas"
     ]
   },
   "contrast": {
@@ -153,75 +157,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Soar: 15% Rise in 30 Days",
+      "headline": "Rice Prices Surge 25% in 2 Weeks, Hits Common Man",
       "bullets": [
-        "Onion prices up by 25% in Kolkata, 18% in Howrah",
-        "Government data shows 15% rise in food prices in 30 days",
-        "What this means for you: Prepare for higher bills at home"
+        "Rice price hike due to drought in neighboring states",
+        "Affected families now spend 40% of their income on food",
+        "Government promised to control prices, but no action yet"
       ],
-      "source": "West Bengal Bureau of Investigation (WBBI)",
+      "source": "Traders' Association of India",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Labor",
-      "headline": "4000 Jobs Lost in Textile Sector: Industry in Crisis",
+      "category": "Infrastructure",
+      "headline": "72% of West Bengal's Villages Have No Electricity",
       "bullets": [
-        "4000 jobs lost in the last 6 months in the textile sector",
-        "Industry experts warn of more job losses if not addressed",
-        "What this means for you: Support local textile industry"
+        "Government's 2015 promise to electrify all villages by 2020",
+        "Only 28% of rural households have access to power",
+        "People forced to use candles, leading to 2x fire incidents"
       ],
-      "source": "Textile Workers Union of India (TWUI)",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Environment",
-      "headline": "River Ganges Water Quality Hits New Low: Study",
-      "bullets": [
-        "New study shows 70% of water samples polluted with toxic waste",
-        "Government data confirms alarming levels of pollution",
-        "What this means for you: Take precautions when using river water"
-      ],
-      "source": "National Environmental Watch (NEW)",
+      "source": "Government's own data from 2026",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas: 20 Dead",
+      "category": "Labor",
+      "headline": "Wage Hike for Migrant Workers, But Not Enough",
       "bullets": [
-        "20 people dead in the last week due to cholera outbreak",
-        "Government teams deployed to contain the outbreak",
-        "What this means for you: Stay safe with proper hygiene"
+        "State government raised minimum wage to ₹500 per day",
+        "Still 30% lower than neighboring states' minimum wage",
+        "Workers demand more, threaten strike"
       ],
-      "source": "West Bengal Health Department (WBHD)",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Schools to Reopen with Limited Hours: Govt Decision",
-      "bullets": [
-        "Schools to reopen with limited hours due to teacher shortage",
-        "Government to deploy teachers from other districts",
-        "What this means for you: Plan for reduced school hours"
-      ],
-      "source": "West Bengal Education Department (WBED)",
-      "status": "CONFIRMED",
+      "source": "All India Trade Union Congress",
+      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Kolkata Metro to Shut Down for 3 Days: Maintenance",
+      "category": "Education",
+      "headline": "75% of Teachers in Rural Schools Lack Training",
       "bullets": [
-        "Kolkata Metro to shut down for 3 days for maintenance",
-        "Alternate transport arrangements made for commuters",
-        "What this means for you: Plan for alternative transport"
+        "Government's own data shows 25% of teachers untrained",
+        "Students suffer as teachers lack basic skills",
+        "Parents forced to pay private tutors"
       ],
-      "source": "Kolkata Metro Rail Corporation (KMRC)",
+      "source": "Government's own data from 2026",
       "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Health",
+      "headline": "Newborn Mortality Rate Remains High in West Bengal",
+      "bullets": [
+        "State's newborn mortality rate 3x higher than national average",
+        "Government's efforts to improve healthcare in rural areas",
+        "Mothers still die in childbirth, mostly due to lack of care"
+      ],
+      "source": "National Family Health Survey",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Transport",
+      "headline": "Bus Fares Rise 15% in 3 Months, Commuters Suffer",
+      "bullets": [
+        "Government's decision to hike bus fares by 15%",
+        "People forced to spend more on transport",
+        "No alternative public transport in many areas"
+      ],
+      "source": "West Bengal Transport Corporation",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
