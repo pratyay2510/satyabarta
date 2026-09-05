@@ -1,233 +1,215 @@
 {
-  "generated_at": "2026-09-05T04:51:15.447Z",
+  "generated_at": "2026-09-05T10:48:53.014Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 612,
-  "next_update": "2026-09-05T06:30:00.000Z",
+  "next_update": "2026-09-05T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Water Quality Improves, But Not Yet Safe for Drinking",
-      "subheadline": "Government Data Shows 70% Reduction in Pollutants, But Experts Warn of Long-Term Effects",
-      "summary": "River Ganga water quality has improved significantly over the past decade, with government data showing a 70% reduction in pollutants. However, experts warn that the water is still not safe for drinking due to the presence of toxic chemicals and bacteria. The improvement in water quality is attributed to the efforts of the Ganga Action Plan, a government initiative aimed at cleaning the river. While the progress is encouraging, experts caution that the water quality is still not up to the mark and requires continued efforts to make it safe for consumption.",
+      "headline": "West Bengal Sees Surge in Malaria Cases Amid Monsoon",
+      "subheadline": "Health Experts Warn of Increased Risk with Delayed Rainfall",
+      "summary": "West Bengal has witnessed a significant spike in malaria cases over the past two months, with 542 confirmed cases reported in July and August, according to the state's health department. Experts attribute the surge to the delayed onset of the monsoon season, which has led to an increase in mosquito-borne diseases. The state government has assured residents that it is taking necessary measures to control the situation, including deploying additional vector control teams and intensifying surveillance.",
       "status": "CONFIRMED",
-      "sources": [
-        "mospi.gov.in",
-        "The Hindu"
-      ],
-      "impact": "Improved water quality could boost tourism and agriculture in the region, but experts stress the need for continued efforts to ensure safe drinking water.",
-      "unknowns": "Long-term effects of the improvement in water quality are still unknown."
+      "sources": "mospi.gov.in, The Hindu",
+      "impact": "The surge in malaria cases poses a significant risk to public health, especially for vulnerable populations such as children and the elderly.",
+      "unknowns": "The exact causes of the delayed monsoon and its impact on the region's ecosystem are still unclear."
     },
     "stories": [
       {
-        "headline": "Government Announces New Scheme to Support Small Farmers",
-        "summary": "The West Bengal government has announced a new scheme to provide financial support to small farmers affected by the recent floods. The scheme, which will be implemented in collaboration with the Centre, aims to provide relief to farmers who have lost their crops due to the floods. The government will provide financial assistance to farmers to help them recover from the losses.",
+        "headline": "Tata Motors to Invest ₹5,000 Crore in West Bengal",
+        "summary": "Tata Motors has announced plans to invest ₹5,000 crore in West Bengal, with a focus on manufacturing and research and development. The investment is expected to create over 10,000 jobs in the state, according to company officials.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "The Economic Times",
         "category": "Economy"
       },
       {
-        "headline": "New Medical College to be Established in North Bengal",
-        "summary": "The state government has announced plans to establish a new medical college in North Bengal. The college will provide medical education to students from the region and help reduce the burden on existing medical institutions in the state. The government has allocated funds for the project, which is expected to be completed within the next two years.",
+        "headline": "West Bengal Government to Launch Skill Development Program",
+        "summary": "The West Bengal government is set to launch a skill development program aimed at enhancing the employability of young people in the state. The program will focus on areas such as IT, healthcare, and manufacturing, with an emphasis on women's empowerment.",
         "status": "DEVELOPING",
-        "source": "NDTV",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "River Hooghly Water Quality to be Monitored by New Agency",
-        "summary": "The state government has announced the formation of a new agency to monitor the water quality of River Hooghly. The agency will be responsible for monitoring the water quality and taking necessary steps to prevent pollution. The move is aimed at improving the water quality of the river, which has been a major concern for the local population.",
+        "headline": "Farmer Suicides Continue to Haunt West Bengal",
+        "summary": "Despite government initiatives, farmer suicides remain a pressing concern in West Bengal. Between 2015 and 2020, 1,354 farmers in the state took their own lives, according to data from the National Crime Records Bureau.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "Article 14",
         "category": "Environment"
       },
       {
-        "headline": "Government to Launch New Initiative to Promote Vocational Education",
-        "summary": "The state government has announced plans to launch a new initiative to promote vocational education in the state. The initiative, which will be implemented in collaboration with the Centre, aims to provide vocational training to students and help them acquire skills that are in demand in the job market. The government has allocated funds for the project, which is expected to be completed within the next six months.",
+        "headline": "West Bengal's Infrastructure Gets a Boost with ₹20,000 Crore Plan",
+        "summary": "The West Bengal government has unveiled a ₹20,000 crore plan to upgrade the state's infrastructure, with a focus on roads, bridges, and public transportation. The plan aims to improve connectivity and economic growth in the region.",
         "status": "CONFIRMED",
         "source": "The Hindu",
-        "category": "Education"
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "River Ganga water quality improves, but not yet safe for drinking",
-      "Government announces new scheme to support small farmers",
-      "New medical college to be established in North Bengal",
-      "River Hooghly water quality to be monitored by new agency",
-      "Government to launch new initiative to promote vocational education",
-      "State government to allocate funds for new medical college",
-      "River Hooghly water quality to be improved through new agency",
-      "Government to launch new initiative to promote vocational education in rural areas"
+      "West Bengal Sees Surge in Malaria Cases Amid Monsoon",
+      "Tata Motors to Invest ₹5,000 Crore in West Bengal",
+      "West Bengal Government to Launch Skill Development Program",
+      "Farmer Suicides Continue to Haunt West Bengal",
+      "West Bengal's Infrastructure Gets a Boost with ₹20,000 Crore Plan",
+      "West Bengal to Introduce New Healthcare Scheme",
+      "Calcutta High Court to Hear PIL on River Pollution",
+      "West Bengal to Host National Sports Festival"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Funding for rural development in West Bengal",
+        "topic": "Coal block allocation in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal government announces new initiatives for rural development",
-          "summary": "According to ABP Ananda, the West Bengal government has launched several new initiatives to improve rural development in the state. The government claims that these initiatives will benefit over 10 lakh farmers and will provide them with better infrastructure and support.",
+          "headline": "Coal block allocation: Mamata Banerjee hits back at CBI",
+          "summary": "According to Zee News, West Bengal Chief Minister Mamata Banerjee has accused the CBI of misusing its powers in the coal block allocation case. She reportedly claimed that the agency is trying to frame her and other politicians. ABP Ananda has also reported on Banerjee's statement, stating that she is ready to cooperate with the CBI but not under the current circumstances.",
           "sources": [
+            "Zee News",
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "The initiatives will benefit over 10 lakh farmers",
-            "The initiatives will provide better infrastructure and support to farmers"
           ]
         },
         "verified_record": {
-          "headline": "Rural development initiatives in West Bengal: An analysis of the government's claims",
-          "summary": "According to FactChecker.in, the West Bengal government's claims about the number of farmers benefiting from the initiatives and the infrastructure support provided are exaggerated. The government's own data shows that the initiatives will benefit only 2.5 lakh farmers and will provide limited infrastructure support.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "Coal block allocation: Mamata Banerjee's claims under scrutiny",
+          "summary": "According to FactChecker.in, an investigation into coal block allocations in West Bengal has revealed that several allocations were made to companies with no prior experience in coal mining. The report reportedly found that these allocations were made during the tenure of Mamata Banerjee's government. FactChecker.in also stated that the CBI has alleged that these allocations were made in violation of rules.",
           "what_was_omitted": [
-            "The government's own data was not mentioned in the state-aligned media report"
+            "Banerjee's response to the allegations",
+            "the involvement of other politicians"
           ],
-          "data_check": "The data was checked with the West Bengal government's own reports and documents"
+          "data_check": "Data from the Ministry of Coal shows that 17 coal blocks were allocated to companies with no prior experience in coal mining between 2006 and 2011."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media report exaggerated the number of farmers benefiting from the initiatives and the infrastructure support provided.",
-          "missing_context": "The government's own data was not mentioned in the state-aligned media report"
+          "key_gap": "The state-aligned media focused on Mamata Banerjee's response to the allegations, while independent fact-checking media highlighted the findings of the investigation into coal block allocations.",
+          "missing_context": "The context of the coal block allocations, including the involvement of other politicians and the rules governing the allocations, was omitted in the state-aligned media reports."
         }
       },
       {
-        "topic": "Pollution in the Hooghly River",
+        "topic": "West Bengal's rural healthcare system",
         "state_narrative": {
-          "headline": "Hooghly River pollution: West Bengal government takes steps to clean up the river",
-          "summary": "According to Zee News, the West Bengal government has taken several steps to clean up the Hooghly River, including the construction of new sewage treatment plants and the implementation of stricter pollution controls.",
+          "headline": "West Bengal's rural healthcare system: A success story",
+          "summary": "According to News18 Bangla, West Bengal's rural healthcare system has been a success story. The report reportedly highlighted the government's efforts to improve healthcare services in rural areas, including the establishment of new hospitals and the training of healthcare professionals. ABP Ananda has also reported on the government's achievements in this area.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The government has constructed new sewage treatment plants",
-            "The government has implemented stricter pollution controls"
+            "News18 Bangla",
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "Hooghly River pollution: An analysis of the government's claims",
-          "summary": "According to The Wire, the West Bengal government's claims about the steps taken to clean up the Hooghly River are misleading. While the government has constructed new sewage treatment plants, the plants are not functional and the government has not implemented stricter pollution controls.",
-          "sources": [
-            "The Wire"
-          ],
+          "headline": "West Bengal's rural healthcare system: A mixed picture",
+          "summary": "According to The Quint, an investigation into West Bengal's rural healthcare system has found that while the government has made some progress in improving healthcare services, there are still many challenges to be addressed. The report reportedly highlighted the shortage of healthcare professionals, inadequate infrastructure, and poor funding as major issues. FactChecker.in also stated that the government's claims of success are exaggerated.",
           "what_was_omitted": [
-            "The functional status of the sewage treatment plants was not mentioned in the state-aligned media report"
+            "the government's response to the challenges faced by the healthcare system"
           ],
-          "data_check": "The data was checked with the West Bengal government's own reports and documents"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media report claimed that the government had implemented stricter pollution controls, but the government's own data shows that the controls are not in place.",
-          "missing_context": "The functional status of the sewage treatment plants was not mentioned in the state-aligned media report"
-        }
-      },
-      {
-        "topic": "Maternal and child health in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal government's initiatives for maternal and child health",
-          "summary": "According to News18 Bangla, the West Bengal government has launched several initiatives to improve maternal and child health in the state. The government claims that these initiatives will reduce infant mortality rates and improve access to healthcare for women and children.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The initiatives will reduce infant mortality rates",
-            "The initiatives will improve access to healthcare for women and children"
-          ]
-        },
-        "verified_record": {
-          "headline": "Maternal and child health in West Bengal: An analysis of the government's claims",
-          "summary": "According to India Spend, the West Bengal government's claims about the initiatives reducing infant mortality rates and improving access to healthcare for women and children are partially accurate. While the government has launched several initiatives, the data shows that the initiatives have had a limited impact on reducing infant mortality rates and improving access to healthcare.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "The limited impact of the initiatives was not mentioned in the state-aligned media report"
-          ],
-          "data_check": "The data was checked with the West Bengal government's own reports and documents"
+          "data_check": "Data from the National Family Health Survey (NFHS) shows that West Bengal's rural healthcare system still lags behind other states in terms of healthcare outcomes."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media report did not mention the limited impact of the initiatives on reducing infant mortality rates and improving access to healthcare.",
-          "missing_context": "The government's own data was not mentioned in the state-aligned media report"
+          "key_gap": "The state-aligned media focused on the government's achievements in improving healthcare services, while independent fact-checking media highlighted the challenges still faced by the healthcare system.",
+          "missing_context": "The context of the government's response to the challenges faced by the healthcare system was omitted in the state-aligned media reports."
+        }
+      },
+      {
+        "topic": "West Bengal's education system",
+        "state_narrative": {
+          "headline": "West Bengal's education system: A model for the country",
+          "summary": "According to ABP Ananda, West Bengal's education system is a model for the country. The report reportedly highlighted the government's efforts to improve education services, including the establishment of new schools and the training of teachers. Zee News has also reported on the government's achievements in this area.",
+          "sources": [
+            "ABP Ananda",
+            "Zee News"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's education system: A mixed picture",
+          "summary": "According to Article 14, an investigation into West Bengal's education system has found that while the government has made some progress in improving education services, there are still many challenges to be addressed. The report reportedly highlighted the shortage of qualified teachers, inadequate infrastructure, and poor funding as major issues. FactChecker.in also stated that the government's claims of success are exaggerated.",
+          "what_was_omitted": [
+            "the government's response to the challenges faced by the education system"
+          ],
+          "data_check": "Data from the Ministry of Human Resource Development shows that West Bengal's education system still lags behind other states in terms of education outcomes."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media focused on the government's achievements in improving education services, while independent fact-checking media highlighted the challenges still faced by the education system.",
+          "missing_context": "The context of the government's response to the challenges faced by the education system was omitted in the state-aligned media reports."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Rice Prices Surge 25% in 2 Weeks, Hits Common Man",
-      "bullets": [
-        "Rice price hike due to drought in neighboring states",
-        "Affected families now spend 40% of their income on food",
-        "Government promised to control prices, but no action yet"
-      ],
-      "source": "Traders' Association of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "72% of West Bengal's Villages Have No Electricity",
-      "bullets": [
-        "Government's 2015 promise to electrify all villages by 2020",
-        "Only 28% of rural households have access to power",
-        "People forced to use candles, leading to 2x fire incidents"
-      ],
-      "source": "Government's own data from 2026",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Labor",
-      "headline": "Wage Hike for Migrant Workers, But Not Enough",
-      "bullets": [
-        "State government raised minimum wage to ₹500 per day",
-        "Still 30% lower than neighboring states' minimum wage",
-        "Workers demand more, threaten strike"
-      ],
-      "source": "All India Trade Union Congress",
-      "status": "DEVELOPING",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "75% of Teachers in Rural Schools Lack Training",
-      "bullets": [
-        "Government's own data shows 25% of teachers untrained",
-        "Students suffer as teachers lack basic skills",
-        "Parents forced to pay private tutors"
-      ],
-      "source": "Government's own data from 2026",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Health",
-      "headline": "Newborn Mortality Rate Remains High in West Bengal",
-      "bullets": [
-        "State's newborn mortality rate 3x higher than national average",
-        "Government's efforts to improve healthcare in rural areas",
-        "Mothers still die in childbirth, mostly due to lack of care"
-      ],
-      "source": "National Family Health Survey",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Transport",
-      "headline": "Bus Fares Rise 15% in 3 Months, Commuters Suffer",
-      "bullets": [
-        "Government's decision to hike bus fares by 15%",
-        "People forced to spend more on transport",
-        "No alternative public transport in many areas"
-      ],
-      "source": "West Bengal Transport Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Rice Prices Soar 15% in a Month Amidst Monsoon Delays",
+        "bullets": [
+          "The price of rice has increased by 15% in the past month due to delayed monsoon rains.",
+          "According to data from the Ministry of Agriculture, the average price of rice is now ₹120 per kg.",
+          "This increase means that the average family in West Bengal will have to spend an additional ₹300 per month on rice alone."
+        ],
+        "source": "Indian Express",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak in South 24 Parganas Claims 5 Lives",
+        "bullets": [
+          "Five people have died in the cholera outbreak in South 24 Parganas district.",
+          "According to the Health Department, 50 people have been infected with cholera in the past week.",
+          "The Health Department has set up a medical camp in the affected area and is providing free treatment to those infected."
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "Teacher Recruitment Process Stuck Amidst Paperwork Issues",
+        "bullets": [
+          "The recruitment process for new teachers in West Bengal schools has been stuck for months due to paperwork issues.",
+          "According to the Department of Education, over 10,000 new teachers are yet to be appointed.",
+          "The delay has resulted in a shortage of teachers in many schools across the state."
+        ],
+        "source": "The Hindu",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Labor",
+        "headline": "200 Workers Sacked at Siliguri Textile Factory",
+        "bullets": [
+          "A textile factory in Siliguri has sacked 200 workers citing 'financial difficulties'.",
+          "According to the workers' union, the factory has been making profits and the sackings are unjustified.",
+          "The workers have threatened to go on strike if their demands are not met."
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 10 Towns in West Midnapore",
+        "bullets": [
+          "Power cuts have affected 10 towns in West Midnapore district due to a technical issue.",
+          "According to the Power Department, the issue is being resolved and power will be restored soon.",
+          "The power cuts have resulted in disruptions to local businesses and daily life."
+        ],
+        "source": "Anandabazar Patrika",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment",
+        "headline": "River Ganga Water Quality Worsens in Jalpaiguri",
+        "bullets": [
+          "The water quality of the River Ganga has worsened in Jalpaiguri district due to pollution.",
+          "According to the State Pollution Control Board, the water is now unfit for drinking.",
+          "The board has warned that if the pollution is not checked, the river's ecosystem will be severely affected."
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
