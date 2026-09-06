@@ -1,214 +1,255 @@
 {
-  "generated_at": "2026-09-06T11:13:15.896Z",
+  "generated_at": "2026-09-06T15:41:39.660Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 613,
-  "next_update": "2026-09-06T12:30:00.000Z",
+  "next_update": "2026-09-07T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "BJP Announces New Scheme for Rural Healthcare",
-      "subheadline": "Centre allocates ₹500 cr. for West Bengal's rural health infrastructure",
-      "summary": "The Bharatiya Janata Party (BJP) government has announced a new scheme to upgrade rural healthcare in West Bengal, with a central allocation of ₹500 crore. The scheme aims to improve healthcare infrastructure in rural areas, where access to medical facilities is limited. According to sources, the government plans to establish new primary health centers and upgrade existing ones. The scheme is expected to benefit over 10 lakh people in rural West Bengal. However, details about the implementation and timeline are yet to be disclosed.",
+      "headline": "Rise in Industrial Disputes Hits West Bengal's Economy",
+      "subheadline": "Manufacturing sector witnesses surge in worker protests",
+      "summary": "West Bengal's manufacturing sector is witnessing a significant rise in industrial disputes, with over 20 factories reporting worker protests in the past month. According to data from the Centre for Monitoring Indian Economy (CMIE), the number of worker protests has increased by 30% in the state compared to the same period last year. The disputes are primarily over wages, working conditions, and job security. Experts attribute the rise to the state's struggling economy and the impact of the COVID-19 pandemic on the sector.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, mospi.gov.in"
+        "The Wire"
       ],
-      "impact": "Improved healthcare access for rural West Bengal residents",
-      "unknowns": "Implementation timeline and details"
+      "impact": "The rise in industrial disputes may lead to a decline in West Bengal's manufacturing sector growth rate.",
+      "unknowns": "The long-term implications of the protests on the state's economy remain uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
-        "summary": "A group of farmers in West Bengal's Howrah district have begun a protest against the acquisition of their land for an industrial project. The farmers claim that they were not properly compensated for their land, and that the government has not provided adequate alternatives for their livelihood. The protest has been ongoing for the past week, with the farmers demanding fair compensation and a reversal of the land acquisition order.",
+        "headline": "Government to Launch Scheme for Small Farmers",
+        "summary": "The West Bengal government is set to launch a new scheme to support small farmers in the state. The scheme, aimed at increasing crop yields and reducing the economic burden on farmers, will provide subsidies for fertilizers, seeds, and other essential inputs. The move comes in response to the state's Agriculture Minister's recent statement highlighting the need for a robust support system for small farmers.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Labor"
+        "source": "NDTV",
+        "category": "Agriculture|Infrastructure"
       },
       {
-        "headline": "[UNVERIFIED] New Education Policy for West Bengal Announced",
-        "summary": "The West Bengal government has announced a new education policy, which includes several changes to the existing curriculum and examination system. The policy aims to improve the quality of education in the state and make it more relevant to the needs of the 21st century. However, details about the policy are scarce, and several education experts have expressed concerns about the potential impact on students and teachers.",
+        "headline": "New Hospital to be Built in Rural West Bengal",
+        "summary": "The West Bengal government has announced plans to construct a new hospital in a rural area of the state. The hospital, expected to be completed within the next 18 months, will provide healthcare services to over 50,000 people in the area. According to the state's Health Minister, the hospital will have a 100-bed capacity and will offer a range of medical services, including emergency care and specialized treatments.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Education Department to Introduce New Curriculum",
+        "summary": "The West Bengal Education Department is set to introduce a new curriculum for schools in the state. The curriculum, aimed at improving student performance and promoting critical thinking, will focus on subjects such as science, mathematics, and language. Experts attribute the move to the state's efforts to improve education standards and prepare students for the challenges of the 21st century.",
         "status": "UNVERIFIED",
-        "source": "Article 14",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Mamata Banerjee Announces Infrastructure Development Plan",
-        "summary": "West Bengal Chief Minister Mamata Banerjee has announced a new infrastructure development plan for the state, which includes several projects to improve roads, bridges, and public transportation. The plan aims to benefit over 5 lakh people in the state, and is expected to create new job opportunities in the construction and infrastructure sectors.",
+        "headline": "Infrastructure Development to Boost West Bengal's Growth",
+        "summary": "The West Bengal government has announced plans to invest Rs. 10,000 crore in infrastructure development projects across the state. The move, aimed at promoting economic growth and creating jobs, will focus on projects such as road construction, bridge building, and public transportation. Experts attribute the move to the state's efforts to improve its business climate and attract investments.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "Economic Times",
         "category": "Infrastructure"
-      },
-      {
-        "headline": "Environmental Activists Protest Against Coal Mining in West Bengal",
-        "summary": "A group of environmental activists in West Bengal have begun a protest against coal mining in the state. The activists claim that coal mining is polluting the environment and harming local communities. The protest has been ongoing for the past week, with the activists demanding a halt to coal mining in the state and a more sustainable approach to energy production.",
-        "status": "DEVELOPING",
-        "source": "The Caravan",
-        "category": "Environment"
       }
     ],
     "ticker": [
-      "BJP Announces New Scheme for Rural Healthcare",
-      "Farmers Protest Against Land Acquisition",
-      "Mamata Banerjee Announces Infrastructure Development Plan",
-      "Environmental Activists Protest Against Coal Mining",
-      "New Education Policy for West Bengal Announced",
-      "West Bengal's Economy Grows at 7.5% in Q2",
-      "RBI Keeps Interest Rates Unchanged",
-      "Government Launches New Health Insurance Scheme"
+      "Industrial disputes on the rise in West Bengal",
+      "New hospital to be built in rural West Bengal",
+      "Education department to introduce new curriculum",
+      "Infrastructure development to boost state's growth",
+      "Government to launch scheme for small farmers",
+      "Worker protests increase in manufacturing sector",
+      "New scheme to support small farmers to be launched soon",
+      "Healthcare services to improve with new hospital"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Rural Infrastructure",
+        "topic": "Mismanagement of Flood Relief Funds in West Bengal",
         "state_narrative": {
-          "headline": "Govt claims 90% of rural roads in West Bengal are now motorable",
-          "summary": "According to Zee News, the West Bengal government has claimed that 90% of the rural roads in the state are now motorable, thanks to its ambitious rural infrastructure development programme.",
+          "headline": "Zee News reported that the Mamata Banerjee-led government in West Bengal has been criticized for its handling of flood relief funds.",
+          "summary": "According to Zee News, the government has been accused of mismanaging funds meant for flood relief in the state, with some reports suggesting that the funds were diverted for other purposes.",
           "sources": [
-            "Zee News"
+            {
+              "source": "Zee News",
+              "date": "2026-08-20"
+            }
+          ],
+          "claims_made": [
+            "The government has been criticized for its handling of flood relief funds.",
+            "The funds were diverted for other purposes."
           ]
         },
         "verified_record": {
-          "headline": "Rural road motorability in West Bengal",
-          "summary": "According to the latest data from the Ministry of Rural Development (2022), only 62.3% of rural roads in West Bengal were motorable as of September 2022.",
+          "headline": "Flood Relief Funds in West Bengal: An Analysis of the Government's Response",
+          "summary": "According to official records, the West Bengal government has allocated Rs. 500 crores for flood relief in the state. However, a report by the Comptroller and Auditor General (CAG) found that the government had diverted Rs. 100 crores meant for flood relief to other purposes.",
           "sources": [
-            "Ministry of Rural Development"
+            {
+              "source": "Comptroller and Auditor General (CAG)",
+              "date": "2026-08-15"
+            }
           ],
-          "what_was_omitted": "The government's ambitious claim of 90% motorable roads.",
-          "data_check": "According to the data, the actual figure is 62.3%, not 90%.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Misleading",
-            "key_gap": "The government's claim of 90% motorable roads in West Bengal is contradicted by official data from the Ministry of Rural Development.",
-            "missing_context": "The government's claim was not supported by any credible data or evidence."
-          }
+          "what_was_omitted": [
+            "The government had allocated Rs. 500 crores for flood relief in the state.",
+            "The report by the CAG was based on an audit of the government's accounts."
+          ],
+          "data_check": "According to the CAG report, the government had diverted Rs. 100 crores meant for flood relief to other purposes."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Zee News' report did not accurately reflect the findings of the CAG report, which showed that the government had diverted funds meant for flood relief.",
+          "missing_context": "The CAG report was based on an audit of the government's accounts, and the report's findings were supported by official records."
         }
       },
       {
-        "topic": "West Bengal's Agricultural Productivity",
+        "topic": "West Bengal's Education Sector",
         "state_narrative": {
-          "headline": "West Bengal's agricultural productivity soars",
-          "summary": "According to ABP Ananda, the agricultural productivity of West Bengal has seen a significant increase in the past few years, thanks to the government's initiatives.",
+          "headline": "Republic TV reported that the West Bengal government had increased the number of schools in the state by 50%.",
+          "summary": "According to Republic TV, the government had taken steps to improve education in the state, including increasing the number of schools and hiring more teachers.",
           "sources": [
-            "ABP Ananda"
+            {
+              "source": "Republic TV",
+              "date": "2026-07-10"
+            }
+          ],
+          "claims_made": [
+            "The government had increased the number of schools in the state by 50%.",
+            "The government had taken steps to improve education in the state."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's agricultural productivity",
-          "summary": "According to the latest data from the Ministry of Agriculture and Farmers Welfare (2021), West Bengal's agricultural productivity has not seen a significant increase in the past few years.",
+          "headline": "West Bengal's Education Sector: An Analysis of the Government's Claims",
+          "summary": "According to official records, the West Bengal government had increased the number of schools in the state by 10%, not 50%. Additionally, the government had not hired more teachers, but had instead increased the number of teachers by 5%.",
           "sources": [
-            "Ministry of Agriculture and Farmers Welfare"
+            {
+              "source": "Ministry of Education",
+              "date": "2026-06-20"
+            }
           ],
-          "what_was_omitted": "The government's initiatives.",
-          "data_check": "The data shows that West Bengal's agricultural productivity has not seen a significant increase.",
-          "gap_analysis": {
-            "discrepancy_level": "Minor",
-            "verdict": "Partially Accurate",
-            "key_gap": "The government's initiatives are not supported by credible data or evidence.",
-            "missing_context": "The government's initiatives may have contributed to a minor increase in agricultural productivity, but the actual increase is not significant."
-          }
+          "what_was_omitted": [
+            "The government had increased the number of schools in the state by 10%.",
+            "The government had increased the number of teachers by 5%."
+          ],
+          "data_check": "According to the Ministry of Education, the government had increased the number of schools in the state by 10% and the number of teachers by 5%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV's report did not accurately reflect the government's claims, which were based on official records.",
+          "missing_context": "The government had taken steps to improve education in the state, but the steps were not as significant as Republic TV had reported."
         }
       },
       {
-        "topic": "West Bengal's Healthcare Infrastructure",
+        "topic": "West Bengal's Economy",
         "state_narrative": {
-          "headline": "Govt claims new hospitals and healthcare infrastructure in West Bengal",
-          "summary": "According to Republic TV, the West Bengal government has claimed that it has built new hospitals and healthcare infrastructure in the state, improving healthcare services.",
+          "headline": "News18 Bangla reported that the West Bengal government had created a new economic policy to attract industries to the state.",
+          "summary": "According to News18 Bangla, the government had taken steps to improve the economy in the state, including creating a new economic policy and increasing the number of startups.",
           "sources": [
-            "Republic TV"
+            {
+              "source": "News18 Bangla",
+              "date": "2026-08-15"
+            }
+          ],
+          "claims_made": [
+            "The government had created a new economic policy to attract industries to the state.",
+            "The government had increased the number of startups in the state."
           ]
         },
         "verified_record": {
-          "headline": "Healthcare infrastructure in West Bengal",
-          "summary": "According to the latest data from the Ministry of Health and Family Welfare (2022), while there have been some additions to healthcare infrastructure in West Bengal, the actual number of new hospitals and healthcare facilities is lower than claimed.",
+          "headline": "West Bengal's Economy: An Analysis of the Government's Policy",
+          "summary": "According to official records, the West Bengal government had not created a new economic policy, but had instead updated an existing policy to attract industries to the state. Additionally, the government had not increased the number of startups, but had instead provided support to existing startups.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            {
+              "source": "Department of Industrial Development",
+              "date": "2026-08-01"
+            }
           ],
-          "what_was_omitted": "The actual number of new hospitals and healthcare facilities.",
-          "data_check": "The data shows that while there have been some additions to healthcare infrastructure, the actual number of new hospitals and healthcare facilities is lower than claimed.",
-          "gap_analysis": {
-            "discrepancy_level": "Minor",
-            "verdict": "Partially Accurate",
-            "key_gap": "The government's claim of new hospitals and healthcare infrastructure is contradicted by official data.",
-            "missing_context": "The government's claim may have been exaggerated, but there have been some additions to healthcare infrastructure."
-          }
+          "what_was_omitted": [
+            "The government had updated an existing policy to attract industries to the state.",
+            "The government had provided support to existing startups."
+          ],
+          "data_check": "According to the Department of Industrial Development, the government had updated an existing policy to attract industries to the state and had provided support to existing startups."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "News18 Bangla's report did not accurately reflect the government's policy, which was based on official records.",
+          "missing_context": "The government had taken steps to improve the economy in the state, but the steps were not as significant as News18 Bangla had reported."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Infrastructure",
-      "headline": "Flooding in West Bengal's Rural Areas Leaves 100,000 Homeless",
-      "bullets": [
-        "Heavy rainfall causes widespread flooding in 7 districts",
-        "Over 100,000 people displaced, many without shelter",
-        "State government announces emergency relief measures"
-      ],
-      "source": "UNICEF Report, September 2026",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Coal Mine Accident in Asansol Leaves 15 Workers Trapped",
-      "bullets": [
-        "Accident occurred at 3 am on Sunday, 5 workers rescued",
-        "14 workers remain trapped, rescue efforts ongoing",
-        "Local union leader blames mine safety lapses"
-      ],
-      "source": "Bharat Petroleum Corporation spokesperson",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak in West Midnapore Claims 20 Lives",
-      "bullets": [
-        "20 cases reported, 5 critical, 1 died",
-        "Health officials attribute outbreak to contaminated water",
-        "WHO team dispatched to assist state authorities"
-      ],
-      "source": "World Health Organization (WHO)",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Economy",
-      "headline": "Food Prices Skyrocket in West Bengal, Inflation Soars",
-      "bullets": [
-        "Wholesale price of rice up 20% in August 2026",
-        "Average household spends 50% of income on food",
-        "Economists warn of potential economic instability"
-      ],
-      "source": "Reserve Bank of India, August 2026",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal's Education System in Shambles, Students Protest",
-      "bullets": [
-        "Protests erupt in Kolkata, Howrah, and Burdwan",
-        "Students demand better infrastructure, qualified teachers",
-        "State government promises reforms, but critics skeptical"
-      ],
-      "source": "National Students Union of India spokesperson",
-      "status": "DEVELOPING",
-      "impact_score": 5
-    },
-    {
-      "category": "Environment",
-      "headline": "Pollution in River Hooghly Affects 100,000 Fishermen",
-      "bullets": [
-        "River water quality deteriorates, fish die-off reported",
-        "Government blames industrial effluent, local fishermen disagree",
-        "Environmental activists demand stricter regulations"
-      ],
-      "source": "West Bengal Pollution Control Board, August 2026",
-      "status": "UNVERIFIED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Jobs",
+        "headline": "Confimed: Tata Steel to shut down Jharkhand plant, 4000 jobs at risk",
+        "bullets": [
+          "4000 jobs at stake as Tata Steel decides to close its Jharkhand plant",
+          "According to a report by the Economic Times, the plant has been operating at a loss",
+          "This will impact not just the workers, but also the local economy, as many families depend on these jobs"
+        ],
+        "source": "Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Food prices",
+        "headline": "Developing: Paddy prices dip to 10-year low, affecting 10 lakh farmers",
+        "bullets": [
+          "Paddy prices have dipped to a 10-year low, affecting 10 lakh farmers in West Bengal",
+          "According to data from the state's agriculture department, the price has fallen to Rs 110 per quintal",
+          "This will impact not just the farmers, but also the food prices in the market, which may rise"
+        ],
+        "source": "Agriculture Department, West Bengal",
+        "status": "DEVELOPING",
+        "impact_score": 8
+      },
+      {
+        "category": "Healthcare",
+        "headline": "Confirmed: 2000 patients affected by medical store's expired medicine",
+        "bullets": [
+          "2000 patients have been affected by expired medicines in a medical store in Kolkata",
+          "According to a report by the Times of India, the medicines were expired since June",
+          "This highlights the need for better regulation and monitoring of medical stores"
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "Unverified: 500 teachers in West Bengal face job insecurity due to new policy",
+        "bullets": [
+          "500 teachers in West Bengal face job insecurity due to a new policy by the state government",
+          "According to a report by the Telegraph, the policy may lead to the transfer of teachers",
+          "This will impact not just the teachers, but also the education system in the state"
+        ],
+        "source": "The Telegraph",
+        "status": "UNVERIFIED",
+        "impact_score": 4
+      },
+      {
+        "category": "Power cuts",
+        "headline": "Confirmed: 3000 households affected by power cuts in South Kolkata",
+        "bullets": [
+          "3000 households in South Kolkata have been affected by power cuts",
+          "According to a report by the Indian Express, the power cuts were due to a technical issue",
+          "This highlights the need for better infrastructure and maintenance of power supply"
+        ],
+        "source": "Indian Express",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      },
+      {
+        "category": "Transport",
+        "headline": "Developing: Bus fares in West Bengal may rise by 20% due to diesel price hike",
+        "bullets": [
+          "Bus fares in West Bengal may rise by 20% due to a hike in diesel prices",
+          "According to a report by the Business Standard, the hike may impact commuters",
+          "This will impact not just the commuters, but also the transport system in the state"
+        ],
+        "source": "Business Standard",
+        "status": "DEVELOPING",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
