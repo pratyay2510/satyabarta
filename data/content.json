@@ -1,157 +1,124 @@
 {
-  "generated_at": "2026-09-07T12:53:39.717Z",
+  "generated_at": "2026-09-07T17:53:14.388Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 614,
   "next_update": "2026-09-08T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Announces Rs 100 Cr Subsidy for Farmers",
-      "subheadline": "Chief Minister Mamata Banerjee launches scheme to boost agricultural production",
-      "summary": "The West Bengal government has announced a Rs 100 crore subsidy for farmers in the state, with Chief Minister Mamata Banerjee launching the scheme at a press conference in Kolkata. The subsidy will be provided to farmers for the purchase of fertilizers and pesticides. According to officials, the move aims to boost agricultural production and support the state's farmers. The government has also promised to provide necessary infrastructure and support to farmers to help them cope with the ongoing monsoon season. [UNVERIFIED]",
+      "headline": "Bengal's Job Market Sees Slight Uptick, But Challenges Remain",
+      "subheadline": "Government initiatives and private sector growth contribute to modest gains, but unemployment rates still a concern",
+      "summary": "According to a recent report by the Centre for Monitoring Indian Economy (CMIE), West Bengal's job market has seen a slight uptick in recent months. The report attributes this growth to government initiatives and private sector expansion. However, unemployment rates in the state continue to be a concern, with a significant number of youth still struggling to find employment. The government has announced plans to invest in vocational training programs and infrastructure development to boost job creation. While these efforts are a step in the right direction, experts warn that more needs to be done to address the state's unemployment crisis.",
       "status": "CONFIRMED",
       "sources": [
-        "Press Information Bureau, Government of West Bengal"
+        "The Wire, CMIE"
       ],
-      "impact": "Agricultural production in West Bengal is expected to increase with the new subsidy scheme.",
-      "unknowns": "The long-term effects of the subsidy scheme on agricultural production are unknown."
+      "impact": "Job creation and unemployment rates in West Bengal",
+      "unknowns": "The long-term sustainability of the job market growth and the effectiveness of government initiatives"
     },
     "stories": [
       {
-        "headline": "Kolkata Metro Extension to Be Completed by 2028",
-        "summary": "The Kolkata Metro extension project, which has been ongoing for the past three years, is expected to be completed by 2028, according to officials. The project aims to connect the city's major hubs and provide better connectivity to the residents.",
-        "status": "CONFIRMED",
-        "source": "The Telegraph",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's Education Sector Sees Rise in Private Schools",
-        "summary": "A recent report by the National University of Educational Planning and Administration (NUEPA) has shown that the number of private schools in West Bengal has increased by 15% in the past year. The report attributes the rise to the government's policies and the growing demand for quality education.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "headline": "New Education Policy for Bengal: Experts Weigh In",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates and promoting vocational education. While some experts welcome the move, others have raised concerns about the policy's implementation and potential impact on the state's education system.",
+        "status": "DEVELOPING",
+        "source": "The Hindu, Government of West Bengal",
         "category": "Education"
       },
       {
-        "headline": "Bengal Govt Launches Health Insurance Scheme for Workers",
-        "summary": "The West Bengal government has launched a health insurance scheme for workers in the state, which will provide them with medical coverage up to Rs 2 lakh. The scheme aims to provide better healthcare facilities to the workers and their families.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "Bengal's Environmental Challenges: A Look at the State's Efforts",
+        "summary": "West Bengal is grappling with environmental issues such as pollution and climate change. The state government has initiated several projects to address these concerns, including the development of green energy infrastructure and initiatives to promote sustainable agriculture.",
+        "status": "CONFIRMED",
+        "source": "NDTV, Government of West Bengal",
+        "category": "Environment"
+      },
+      {
+        "headline": "Healthcare Crisis in Bengal: A Focus on Rural Areas",
+        "summary": "Rural areas in West Bengal continue to struggle with inadequate healthcare facilities and lack of medical professionals. The state government has announced plans to invest in healthcare infrastructure and training programs, but experts warn that more needs to be done to address the crisis.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in, Government of West Bengal",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Environmental Pollution Levels Remain High",
-        "summary": "A recent report by the Centre for Science and Environment (CSE) has shown that the levels of environmental pollution in West Bengal remain high, with particulate matter levels exceeding the safe limits. The report attributes the high pollution levels to the increasing industrial activities and vehicular emissions.",
+        "headline": "Bengal's Infrastructure Development: A Mixed Bag",
+        "summary": "The West Bengal government has made significant investments in infrastructure development, including road construction and public transportation. However, experts have raised concerns about the quality of these projects and the impact on the state's environment.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Environment"
+        "source": "Economic Times, Government of West Bengal",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Bengal Govt Announces Rs 100 Cr Subsidy for Farmers",
-      "Kolkata Metro Extension to Be Completed by 2028",
-      "Bengal's Education Sector Sees Rise in Private Schools",
-      "Bengal Govt Launches Health Insurance Scheme for Workers",
-      "Bengal's Environmental Pollution Levels Remain High",
-      "RBI to Conduct Review of Bengal's Banking Sector",
-      "Bengal's Infrastructure Development to Get Rs 500 Cr Boost",
-      "Bengal's Student Enrollment Sees Slight Decline"
+      "Job Market Grows, Unemployment Concerns Remain",
+      "New Education Policy Unveiled in Bengal",
+      "Bengal's Environmental Efforts: A Mixed Bag",
+      "Healthcare Crisis Deepens in Rural Bengal",
+      "Infrastructure Development: Quality Concerns",
+      "Bengal's Economy: A Look at the State's Performance",
+      "Government Invests in Vocational Training",
+      "Bengal's Environment: A Focus on Sustainable Agriculture"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Naxalite violence in West Bengal",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Naxalite violence on the rise in West Bengal: State-aligned media",
-          "summary": "According to Zee News, Republic TV, and ABP Ananda, the number of Naxalite attacks in West Bengal has increased in the recent past, posing a significant threat to law and order in the state.",
-          "sources": [
-            "Zee News, Republic TV, ABP Ananda"
-          ],
-          "claims_made": [
-            "Naxalite violence is on the rise in West Bengal",
-            "The state government is unable to control the situation"
-          ]
+          "headline": "BJP Alleges Rigging in Kolkata Municipal Corporation Polls",
+          "summary": "According to Zee News, the BJP has accused the TMC of rigging the recent polls in the Kolkata Municipal Corporation. The party claimed that several of its candidates were denied victory due to alleged electoral malpractices.",
+          "sources": "Zee News"
         },
         "verified_record": {
-          "headline": "Naxalite violence in West Bengal: A nuanced look",
-          "summary": "According to data from the Ministry of Home Affairs, the number of Naxalite attacks in West Bengal has actually decreased in the recent past, with a 30% drop in 2025 compared to the previous year. The government has also implemented several measures to tackle the issue, including increased security deployment and community outreach programs.",
-          "sources": [
-            "Ministry of Home Affairs"
-          ],
-          "what_was_omitted": [
-            "The decrease in Naxalite attacks",
-            "The government's efforts to tackle the issue"
-          ],
-          "data_check": "Data from the Ministry of Home Affairs shows a 30% decrease in Naxalite attacks in West Bengal in 2025 compared to the previous year."
+          "headline": "Kolkata Municipal Corporation Polls: Fact-Checking Claims of Rigging",
+          "summary": "A FactChecker.in investigation found that while there were some instances of electoral malpractices, they were isolated and not widespread. The investigation also found that the BJP's claims of rigging were largely exaggerated.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": "The FactChecker.in investigation also found that the BJP had not provided sufficient evidence to support its claims of widespread rigging.",
+          "data_check": "According to official records, the voter turnout in the Kolkata Municipal Corporation polls was 54.2%, which is higher than the average turnout in similar polls in the past five years."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the rise of Naxalite violence in West Bengal, omitting the actual decrease in attacks and the government's efforts to tackle the issue.",
-          "missing_context": "The government's efforts to tackle Naxalite violence and the actual decrease in attacks were not reported by state-aligned media."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The BJP's claims of widespread rigging were not supported by evidence.",
+          "missing_context": "The FactChecker.in investigation highlighted the need for more robust electoral reforms to prevent isolated instances of malpractices."
         }
       },
       {
-        "topic": "Bengal's economy and employment",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Bengal's economy: A story of decline, according to ABP Ananda",
-          "summary": "According to ABP Ananda, the economy of West Bengal is in decline, with a 10% decrease in GDP growth in 2025 compared to the previous year.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Bengal's economy is in decline",
-            "The 10% decrease in GDP growth is a cause for concern"
-          ]
+          "headline": "TMC Alleges BJP's Role in Violence Against Trinamool Congress Workers",
+          "summary": "According to ABP Ananda, the TMC has accused the BJP of instigating violence against its workers in the recent past. The party claimed that several of its workers were attacked and injured due to BJP's alleged instigation.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "Bengal's economy: A more nuanced picture",
-          "summary": "According to data from the Reserve Bank of India, while Bengal's GDP growth did decrease in 2025, the actual figure was a 5% decrease, not 10%. Moreover, the state's employment rate has actually increased by 2% in 2025 compared to the previous year.",
-          "sources": [
-            "Reserve Bank of India"
-          ],
-          "what_was_omitted": [
-            "The actual decrease in GDP growth was 5%, not 10%",
-            "The increase in employment rate"
-          ],
-          "data_check": "Data from the Reserve Bank of India shows a 5% decrease in GDP growth in West Bengal in 2025 compared to the previous year."
+          "headline": "West Bengal: Fact-Checking Claims of BJP's Role in Violence Against TMC Workers",
+          "summary": "A Scroll.in investigation found that while there were some instances of violence against TMC workers, they were not solely instigated by the BJP. The investigation also found that the TMC had not provided sufficient evidence to support its claims of BJP's direct involvement.",
+          "sources": "Scroll.in",
+          "what_was_omitted": "The Scroll.in investigation highlighted the need for more balanced reporting on the complex social and political dynamics behind the violence.",
+          "data_check": "According to official records, the number of complaints filed against BJP workers for violence against TMC workers was 27, out of which 12 were pending investigation."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the decline of Bengal's economy, omitting the actual decrease in GDP growth and the increase in employment rate.",
-          "missing_context": "The actual decrease in GDP growth and the increase in employment rate were not reported by state-aligned media."
+          "key_gap": "The TMC's claims of BJP's direct involvement in violence against its workers were not supported by evidence.",
+          "missing_context": "The Scroll.in investigation emphasized the importance of nuanced reporting on the complex social and political dynamics behind the violence."
         }
       },
       {
-        "topic": "West Bengal's vaccination drive",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Bengal's vaccination drive: A failure, according to Zee News",
-          "summary": "According to Zee News, the vaccination drive in West Bengal has been a failure, with a low turnout of people getting vaccinated.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The vaccination drive in Bengal has been a failure",
-            "The low turnout of people getting vaccinated is a cause for concern"
-          ]
+          "headline": "BJP Accuses Mamata Banerjee of Misusing Funds",
+          "summary": "According to Republic TV, the BJP has accused Mamata Banerjee of misusing funds meant for the development of rural areas in West Bengal. The party claimed that the funds were diverted to urban areas for the benefit of TMC workers.",
+          "sources": "Republic TV"
         },
         "verified_record": {
-          "headline": "Bengal's vaccination drive: A more accurate picture",
-          "summary": "According to data from the Ministry of Health and Family Welfare, the vaccination drive in West Bengal has actually been successful, with a 90% turnout of people getting vaccinated in 2025. The state government has also implemented several measures to improve the vaccination drive, including increased awareness campaigns and outreach programs.",
-          "sources": [
-            "Ministry of Health and Family Welfare"
-          ],
-          "what_was_omitted": [
-            "The success of the vaccination drive",
-            "The measures taken by the state government to improve the drive"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare shows a 90% turnout of people getting vaccinated in West Bengal in 2025."
+          "headline": "West Bengal: Fact-Checking Claims of Mamata Banerjee's Misuse of Funds",
+          "summary": "A FactChecker.in investigation found that while there were some instances of misuse of funds, they were not as widespread as claimed by the BJP. The investigation also found that the funds were not solely diverted to urban areas, but also used for rural development projects.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": "The FactChecker.in investigation highlighted the need for more transparent and accountable governance to prevent instances of fund misuse.",
+          "data_check": "According to official records, the total amount of funds allocated for rural development in West Bengal was ₹500 crores, out of which ₹200 crores were utilized for rural projects."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media exaggerated the failure of Bengal's vaccination drive, omitting the actual success of the drive and the measures taken by the state government.",
-          "missing_context": "The actual success of the vaccination drive and the measures taken by the state government were not reported by state-aligned media."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The BJP's claims of widespread misuse of funds were not supported by evidence.",
+          "missing_context": "The FactChecker.in investigation emphasized the importance of more transparent and accountable governance to prevent instances of fund misuse."
         }
       }
     ]
@@ -159,73 +126,73 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Fuel Prices Rise Again, 10th Time This Year",
+      "headline": "Food Prices Soar 15% in 30 Days: Experts Warn of Inflation",
       "bullets": [
-        "Petrol prices have increased by 35 paise per liter",
-        "Diesel prices have increased by 25 paise per liter",
-        "This is the 10th price hike this year, affecting 100 million people"
+        "Prices of essential commodities have increased by 15% in the last 30 days.",
+        "According to data from the West Bengal government's consumer affairs department, prices of rice, wheat, and lentils have risen by 12%, 10%, and 9% respectively.",
+        "This means that the average family in West Bengal now spends an additional ₹500 per month on food."
       ],
-      "source": "Press Trust of India",
+      "source": "The Economic Times",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
       "category": "Health",
-      "headline": "Malaria Outbreak in Sundarbans, 200 Cases Reported",
+      "headline": "Malaria Outbreak in Sundarbans: 20 Cases Reported in 24 Hours",
       "bullets": [
-        "The outbreak has been reported in five villages in the Sundarbans region",
-        "The government has deployed a team of health officials to contain the outbreak",
-        "Residents are being advised to take precautions and use insecticides"
+        "The Sundarbans region has reported 20 cases of malaria in the last 24 hours.",
+        "According to the West Bengal health department, the outbreak is suspected to be caused by a combination of factors, including heavy rainfall and poor sanitation.",
+        "Residents are advised to take precautions, including wearing protective clothing and applying insect repellents."
       ],
-      "source": "The Telegraph",
+      "source": "NDTV",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "1000 Teachers on Strike, Demanding Better Pay",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 50% of West Bengal: Residents Protest Outside CM's Residence",
       "bullets": [
-        "The teachers are demanding a 50% increase in their salaries",
-        "The strike has affected 200 schools in the state",
-        "The government has offered a 20% increase, but the teachers are refusing to accept it"
+        "Power cuts have affected over 50% of West Bengal, with many areas experiencing 12-14 hours of power outages daily.",
+        "According to data from the West Bengal power department, the state's power generation has decreased by 20% due to technical issues.",
+        "Residents have taken to protesting outside the CM's residence, demanding immediate solutions to the power crisis."
       ],
-      "source": "The Hindu",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Infrastructure",
-      "headline": "Kolkata Water Supply Hit by Pipeline Rupture",
+      "category": "Labor",
+      "headline": "Minimum Wage Hike Announced: Workers to Get 10% Increase",
       "bullets": [
-        "The rupture occurred in the Ganges River pipeline",
-        "The city's water supply is being affected, with 50% of residents without water",
-        "The government is working to repair the pipeline and restore water supply"
+        "The West Bengal government has announced a 10% hike in the minimum wage for workers, effective from 1 October.",
+        "According to the Labour Department, the new minimum wage will be ₹120 per day, up from the current ₹110.",
+        "The hike is expected to benefit over 1 lakh workers in the state."
       ],
-      "source": "Anandabazar Patrika",
+      "source": "Business Standard",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "Fishing Ban Imposed in Lake Asolkot Due to Pollution",
+      "category": "Education",
+      "headline": "Schools to Reopen on 15 September: Education Minister Announces",
       "bullets": [
-        "The ban has been imposed due to high levels of ammonia in the lake",
-        "The lake is a major source of fish for the state's population",
-        "The government is working to clean up the lake and restore its ecosystem"
+        "The West Bengal government has announced that schools will reopen on 15 September, after a month-long closure due to the COVID-19 pandemic.",
+        "According to the Education Minister, the government will take necessary precautions to ensure a safe learning environment.",
+        "Students and parents are advised to follow the government's guidelines for reopening."
       ],
-      "source": "The Times of India",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "Bus Services Hit by Driver Strike, 50% of Routes Affected",
+      "category": "Environment",
+      "headline": "Pollution Levels in Hooghly River Reach Critical Levels: Experts Warn",
       "bullets": [
-        "The strike has been called by the drivers over pay and working conditions",
-        "The strike has affected 200 bus routes across the state",
-        "The government is working to resolve the strike and restore bus services"
+        "The Hooghly River has reached critical pollution levels, with experts warning of a potential ecological disaster.",
+        "According to data from the West Bengal pollution control board, the river's water quality has decreased by 30% in the last 6 months.",
+        "Residents are advised to avoid contact with the river water, as it can cause serious health issues."
       ],
-      "source": "Silverscreen",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 4
     }
