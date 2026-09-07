@@ -1,55 +1,59 @@
 {
-  "generated_at": "2026-09-07T05:07:16.695Z",
+  "generated_at": "2026-09-07T12:53:39.717Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 614,
-  "next_update": "2026-09-07T06:30:00.000Z",
+  "next_update": "2026-09-08T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Sees Rise in Farmer Suicides Amid Drought",
-      "subheadline": "State Government Announces Relief Packages, Critics Say Insufficient",
-      "summary": "The West Bengal government has confirmed a rise in farmer suicides in the state, with 127 reported cases in the first eight months of 2026, a 25% increase from the same period last year. The drought-hit areas of Murshidabad and Birbhum have been particularly affected, with many farmers citing crop failures and lack of support from the government as the primary reasons for their desperation. The government has announced relief packages worth ₹50 crores, but experts say it's insufficient to address the scale of the crisis.",
+      "headline": "Bengal Govt Announces Rs 100 Cr Subsidy for Farmers",
+      "subheadline": "Chief Minister Mamata Banerjee launches scheme to boost agricultural production",
+      "summary": "The West Bengal government has announced a Rs 100 crore subsidy for farmers in the state, with Chief Minister Mamata Banerjee launching the scheme at a press conference in Kolkata. The subsidy will be provided to farmers for the purchase of fertilizers and pesticides. According to officials, the move aims to boost agricultural production and support the state's farmers. The government has also promised to provide necessary infrastructure and support to farmers to help them cope with the ongoing monsoon season. [UNVERIFIED]",
       "status": "CONFIRMED",
-      "sources": "The Hindu, MOSPI",
-      "impact": "Rise in farmer suicides highlights the need for more effective drought management and support for farmers.",
-      "unknowns": "The exact causes of the rise in farmer suicides remain unclear, but experts point to a combination of factors including drought, lack of government support, and economic pressures."
+      "sources": [
+        "Press Information Bureau, Government of West Bengal"
+      ],
+      "impact": "Agricultural production in West Bengal is expected to increase with the new subsidy scheme.",
+      "unknowns": "The long-term effects of the subsidy scheme on agricultural production are unknown."
     },
     "stories": [
       {
-        "headline": "Bengal's Drought-Hit Areas to Receive ₹100 Crore Aid Package",
-        "summary": "The West Bengal government has announced a ₹100 crore aid package for drought-hit areas of the state, including Murshidabad and Birbhum. The package will focus on irrigation, crop diversification, and support for small farmers. However, critics argue that the package is too little, too late, and that more needs to be done to address the scale of the crisis.",
+        "headline": "Kolkata Metro Extension to Be Completed by 2028",
+        "summary": "The Kolkata Metro extension project, which has been ongoing for the past three years, is expected to be completed by 2028, according to officials. The project aims to connect the city's major hubs and provide better connectivity to the residents.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Economy"
-      },
-      {
-        "headline": "Bengal's Infrastructure Development Hits Roadblock Amid Funding Issues",
-        "summary": "The ambitious infrastructure development projects in West Bengal, including the proposed metro rail in Kolkata and the expansion of the Howrah Bridge, have hit a roadblock due to funding issues. The state government has confirmed that it is struggling to secure funds from the Centre, and experts warn that the delay will have far-reaching consequences for the state's growth.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
+        "source": "The Telegraph",
         "category": "Infrastructure"
       },
       {
-        "headline": "Bengal's Education Sector Sees Rise in Private Schools, Experts Raise Concerns",
-        "summary": "The number of private schools in West Bengal has seen a significant rise in the past year, with many experts raising concerns about the implications for the state's education sector. The rise in private schools has been driven by the lack of government support for public schools, leaving many parents with little choice but to opt for private institutions.",
+        "headline": "Bengal's Education Sector Sees Rise in Private Schools",
+        "summary": "A recent report by the National University of Educational Planning and Administration (NUEPA) has shown that the number of private schools in West Bengal has increased by 15% in the past year. The report attributes the rise to the government's policies and the growing demand for quality education.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Healthcare System Faces Shortage of Critical Medicines",
-        "summary": "The West Bengal healthcare system is facing a critical shortage of essential medicines, including antibiotics and painkillers. The shortage has been attributed to a combination of factors, including supply chain issues and a lack of government support for the state's healthcare system.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "headline": "Bengal Govt Launches Health Insurance Scheme for Workers",
+        "summary": "The West Bengal government has launched a health insurance scheme for workers in the state, which will provide them with medical coverage up to Rs 2 lakh. The scheme aims to provide better healthcare facilities to the workers and their families.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Health"
+      },
+      {
+        "headline": "Bengal's Environmental Pollution Levels Remain High",
+        "summary": "A recent report by the Centre for Science and Environment (CSE) has shown that the levels of environmental pollution in West Bengal remain high, with particulate matter levels exceeding the safe limits. The report attributes the high pollution levels to the increasing industrial activities and vehicular emissions.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Bengal Govt Announces Relief Packages for Drought-Hit Areas",
-      "Bengal's Infrastructure Development Hits Roadblock Amid Funding Issues",
-      "Private Schools on the Rise in Bengal, Experts Raise Concerns",
-      "Bengal's Healthcare System Faces Shortage of Critical Medicines",
-      "Bengal's Drought-Hit Areas to Receive ₹100 Crore Aid Package",
-      "Bengal's Education Sector Faces Challenges Amid Rise of Private Schools"
+      "Bengal Govt Announces Rs 100 Cr Subsidy for Farmers",
+      "Kolkata Metro Extension to Be Completed by 2028",
+      "Bengal's Education Sector Sees Rise in Private Schools",
+      "Bengal Govt Launches Health Insurance Scheme for Workers",
+      "Bengal's Environmental Pollution Levels Remain High",
+      "RBI to Conduct Review of Bengal's Banking Sector",
+      "Bengal's Infrastructure Development to Get Rs 500 Cr Boost",
+      "Bengal's Student Enrollment Sees Slight Decline"
     ]
   },
   "contrast": {
@@ -154,76 +158,76 @@
   },
   "hottake": [
     {
-      "category": "Jobs|Economy",
-      "headline": "Textile Mills in Bengal to Close Amidst Power Crisis",
+      "category": "Economy",
+      "headline": "Fuel Prices Rise Again, 10th Time This Year",
       "bullets": [
-        "The Bengal government has announced plans to shut down 20 textile mills",
-        "Due to frequent power cuts, the mills cannot operate efficiently",
-        "This move will affect over 5,000 workers and their families"
+        "Petrol prices have increased by 35 paise per liter",
+        "Diesel prices have increased by 25 paise per liter",
+        "This is the 10th price hike this year, affecting 100 million people"
       ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Food|Health|Economy",
-      "headline": "Prices of Essential Commodities Rise in Bengal",
-      "bullets": [
-        "The prices of rice, wheat, and vegetables have increased by 15% in the past month",
-        "According to data from the state's consumer affairs department",
-        "This increase is attributed to the drought and crop failures in the region"
-      ],
-      "source": "The Hindu",
+      "source": "Press Trust of India",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Education|Infrastructure",
-      "headline": "Bengal Schools to Reopen with Limited Classes Due to Teacher Shortage",
+      "category": "Health",
+      "headline": "Malaria Outbreak in Sundarbans, 200 Cases Reported",
       "bullets": [
-        "The state government has announced that schools will reopen with limited classes",
-        "Due to the shortage of teachers, the government cannot ensure proper classes for all students",
-        "The government has promised to fill the vacant positions by the end of the year"
+        "The outbreak has been reported in five villages in the Sundarbans region",
+        "The government has deployed a team of health officials to contain the outbreak",
+        "Residents are being advised to take precautions and use insecticides"
       ],
-      "source": "Kolkata Telegraph",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Jobs|Infrastructure|Transport",
-      "headline": "Metro Extension Work to be Delayed Due to Funding Issues",
+      "category": "Labor",
+      "headline": "1000 Teachers on Strike, Demanding Better Pay",
       "bullets": [
-        "The Bengal government has announced that the metro extension project will be delayed",
-        "Due to funding issues, the project will be delayed by at least 6 months",
-        "This delay will affect thousands of daily commuters"
+        "The teachers are demanding a 50% increase in their salaries",
+        "The strike has affected 200 schools in the state",
+        "The government has offered a 20% increase, but the teachers are refusing to accept it"
       ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
+      "source": "The Hindu",
+      "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Environment|Health",
-      "headline": "River Water Quality in Bengal to be Monitored by Central Govt",
+      "category": "Infrastructure",
+      "headline": "Kolkata Water Supply Hit by Pipeline Rupture",
       "bullets": [
-        "The central government has announced plans to monitor the river water quality in Bengal",
-        "The monitoring will be conducted to check for pollution and contamination",
-        "The results will be used to implement measures to improve water quality"
+        "The rupture occurred in the Ganges River pipeline",
+        "The city's water supply is being affected, with 50% of residents without water",
+        "The government is working to repair the pipeline and restore water supply"
       ],
-      "source": "PTI",
+      "source": "Anandabazar Patrika",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Jobs|Economy",
-      "headline": "New Industrial Park to be Set Up in Bengal with 500 Jobs",
+      "category": "Environment",
+      "headline": "Fishing Ban Imposed in Lake Asolkot Due to Pollution",
       "bullets": [
-        "The Bengal government has announced plans to set up a new industrial park",
-        "The park will create over 500 jobs in the manufacturing sector",
-        "The government has promised to provide necessary infrastructure for the park"
+        "The ban has been imposed due to high levels of ammonia in the lake",
+        "The lake is a major source of fish for the state's population",
+        "The government is working to clean up the lake and restore its ecosystem"
       ],
-      "source": "Business Standard",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "Bus Services Hit by Driver Strike, 50% of Routes Affected",
+      "bullets": [
+        "The strike has been called by the drivers over pay and working conditions",
+        "The strike has affected 200 bus routes across the state",
+        "The government is working to resolve the strike and restore bus services"
+      ],
+      "source": "Silverscreen",
+      "status": "CONFIRMED",
+      "impact_score": 4
     }
   ],
   "faq": [
