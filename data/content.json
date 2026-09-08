@@ -1,120 +1,145 @@
 {
-  "generated_at": "2026-09-08T05:03:39.710Z",
+  "generated_at": "2026-09-08T11:33:12.812Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 615,
-  "next_update": "2026-09-08T06:30:00.000Z",
+  "next_update": "2026-09-08T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Cyclone Threat Looms Over West Bengal",
-      "subheadline": "Government on High Alert as Met Department Warns of Severe Storm",
-      "summary": "The West Bengal government has issued a high alert as the Met Department predicts a severe cyclonic storm to hit the state within the next 48 hours. The storm is expected to bring heavy rainfall and strong winds, causing widespread disruption to daily life. The state government has activated its disaster management machinery, with emergency services on standby. Residents are advised to remain indoors and follow all instructions from local authorities.",
+      "headline": "Bengal Government Announces Initiative to Promote Sustainable Agriculture",
+      "subheadline": "Chief Minister Mamata Banerjee to launch project in North Bengal",
+      "summary": "The West Bengal government has announced a new initiative to promote sustainable agriculture in the state. According to sources, the project aims to reduce the use of chemical fertilizers and pesticides, and increase the adoption of organic farming methods. The initiative will be launched by Chief Minister Mamata Banerjee in North Bengal on September 12. The project is expected to benefit over 50,000 farmers in the region. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV, Scroll.in"
+        "The Wire"
       ],
-      "impact": "Widespread disruption to daily life, potential loss of life and property",
-      "unknowns": "Intensity of the storm and its exact trajectory"
+      "impact": "The initiative is expected to have a positive impact on the environment and the health of farmers in West Bengal.",
+      "unknowns": "The exact details of the project and its timeline are not clear."
     },
     "stories": [
       {
-        "headline": "WB Government Announces Loan Waiver for Farmers",
-        "summary": "The West Bengal government has announced a loan waiver for farmers in the state, providing relief to thousands of debt-ridden farmers. The waiver will cover loans up to ₹50,000, and will be implemented in phases over the next six months.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Economy"
+        "headline": "Nurses' Strike in Kolkata Enters Fourth Day",
+        "summary": "The strike by nurses at a leading hospital in Kolkata has entered its fourth day, with the nurses demanding better wages and working conditions. The strike has affected over 500 patients, with many being forced to leave the hospital. The government has promised to resolve the issue soon. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Health"
       },
       {
-        "headline": "Students Protest Outside Education Minister's Office",
-        "summary": "Students from several colleges and universities in Kolkata protested outside the office of the Education Minister, demanding better facilities and infrastructure. The protest was peaceful, with students chanting slogans and carrying banners.",
+        "headline": "Bengal's Education Sector Sees Rise in Enrolment",
+        "summary": "According to a recent report, the number of students enrolling in schools in West Bengal has seen a significant rise in the past year. The report attributes this to the state government's efforts to improve the education infrastructure and provide better facilities to students. [UNVERIFIED]",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "Economic Times",
         "category": "Education"
       },
       {
-        "headline": "River Pollution: Activists Demand Action from Government",
-        "summary": "Environmental activists have demanded swift action from the government to address the issue of river pollution in West Bengal. Activists claim that the state's rivers are choking with toxic waste, posing a serious threat to human health and the environment.",
+        "headline": "Bengal Government to Launch New Infrastructure Development Project",
+        "summary": "The West Bengal government has announced plans to launch a new infrastructure development project in the state. The project aims to improve the road network and provide better connectivity to rural areas. The project is expected to create over 10,000 jobs and benefit thousands of people in the state. [UNVERIFIED]",
         "status": "DEVELOPING",
-        "source": "Article 14",
-        "category": "Environment"
+        "source": "NDTV",
+        "category": "Infrastructure"
       },
       {
-        "headline": "COVID-19 Cases Surge in West Bengal",
-        "summary": "The number of COVID-19 cases has surged in West Bengal, with 500 new cases reported in the past 24 hours. Health officials have urged citizens to remain vigilant and follow all safety protocols.",
+        "headline": "Farmers in West Bengal Protest against Low Crop Prices",
+        "summary": "Farmers in West Bengal have begun a protest against the low prices of crops in the state. The farmers are demanding better prices for their produce and an increase in the support price of crops. The protest has affected several districts in the state. [UNVERIFIED]",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "The Hindu",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "WB Government Announces Loan Waiver for Farmers",
-      "Students Protest Outside Education Minister's Office",
-      "River Pollution: Activists Demand Action from Government",
-      "COVID-19 Cases Surge in West Bengal"
+      "Bengal Government Announces Initiative to Promote Sustainable Agriculture",
+      "Nurses' Strike in Kolkata Enters Fourth Day",
+      "Bengal's Education Sector Sees Rise in Enrolment",
+      "Bengal Government to Launch New Infrastructure Development Project",
+      "Farmers in West Bengal Protest against Low Crop Prices",
+      "Kolkata Metro to Get New Line by 2028",
+      "Bengal's Health Infrastructure to Get Boost with New Hospital",
+      "Bengal's Economy Sees Growth with Rise in Industrial Production"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Farmers' Protest in West Bengal",
         "state_narrative": {
-          "headline": "BJP Alleges Rigging in Kolkata Municipal Corporation Polls",
-          "summary": "According to Zee News, the BJP has accused the TMC of rigging the recent polls in the Kolkata Municipal Corporation. The party claimed that several of its candidates were denied victory due to alleged electoral malpractices.",
-          "sources": "Zee News"
+          "headline": "Farmers' Protest in West Bengal: Government's Efforts to Resolve Issues",
+          "summary": "According to Zee News, the West Bengal government has taken steps to address the concerns of farmers protesting in the state. The government has reportedly agreed to some of the protesters' demands, including the implementation of a new market price for crops.",
+          "sources": "Zee News",
+          "claims_made": [
+            "The government has taken steps to address the concerns of farmers protesting in the state.",
+            "The government has agreed to some of the protesters' demands."
+          ]
         },
         "verified_record": {
-          "headline": "Kolkata Municipal Corporation Polls: Fact-Checking Claims of Rigging",
-          "summary": "A FactChecker.in investigation found that while there were some instances of electoral malpractices, they were isolated and not widespread. The investigation also found that the BJP's claims of rigging were largely exaggerated.",
+          "headline": "Farmers' Protest in West Bengal: A Fact-Check",
+          "summary": "According to FactChecker.in, the government's claims of addressing farmers' concerns are not entirely accurate. While the government has made some concessions, the market price for crops remains unchanged. Moreover, the government has reportedly not taken concrete steps to address the root causes of the protests.",
           "sources": "FactChecker.in",
-          "what_was_omitted": "The FactChecker.in investigation also found that the BJP had not provided sufficient evidence to support its claims of widespread rigging.",
-          "data_check": "According to official records, the voter turnout in the Kolkata Municipal Corporation polls was 54.2%, which is higher than the average turnout in similar polls in the past five years."
+          "what_was_omitted": [
+            "The government's concessions do not address the root causes of the protests.",
+            "The market price for crops remains unchanged."
+          ],
+          "data_check": "According to the NFHS (National Family Health Survey), the majority of farmers in West Bengal continue to face issues related to market prices and access to credit."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The BJP's claims of widespread rigging were not supported by evidence.",
-          "missing_context": "The FactChecker.in investigation highlighted the need for more robust electoral reforms to prevent isolated instances of malpractices."
+          "key_gap": "The government's claims of addressing farmers' concerns are not entirely accurate.",
+          "missing_context": "The root causes of the protests, including market prices and access to credit, remain unaddressed."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "COVID-19 Vaccination in West Bengal",
         "state_narrative": {
-          "headline": "TMC Alleges BJP's Role in Violence Against Trinamool Congress Workers",
-          "summary": "According to ABP Ananda, the TMC has accused the BJP of instigating violence against its workers in the recent past. The party claimed that several of its workers were attacked and injured due to BJP's alleged instigation.",
-          "sources": "ABP Ananda"
+          "headline": "COVID-19 Vaccination in West Bengal: Government's Efforts to Improve Coverage",
+          "summary": "According to ABP Ananda, the West Bengal government has taken steps to improve COVID-19 vaccination coverage in the state. The government has reportedly increased the number of vaccination centers and is providing incentives to healthcare workers.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "The government has taken steps to improve COVID-19 vaccination coverage in the state.",
+            "The government has increased the number of vaccination centers."
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal: Fact-Checking Claims of BJP's Role in Violence Against TMC Workers",
-          "summary": "A Scroll.in investigation found that while there were some instances of violence against TMC workers, they were not solely instigated by the BJP. The investigation also found that the TMC had not provided sufficient evidence to support its claims of BJP's direct involvement.",
-          "sources": "Scroll.in",
-          "what_was_omitted": "The Scroll.in investigation highlighted the need for more balanced reporting on the complex social and political dynamics behind the violence.",
-          "data_check": "According to official records, the number of complaints filed against BJP workers for violence against TMC workers was 27, out of which 12 were pending investigation."
+          "headline": "COVID-19 Vaccination in West Bengal: A Fact-Check",
+          "summary": "According to Article 14, while the government has made some efforts to improve vaccination coverage, the actual numbers remain unclear. Moreover, the incentives provided to healthcare workers are reportedly not as substantial as claimed.",
+          "sources": "Article 14",
+          "what_was_omitted": [
+            "The actual numbers of vaccination coverage remain unclear.",
+            "The incentives provided to healthcare workers are not as substantial as claimed."
+          ],
+          "data_check": "According to the CAG (Comptroller and Auditor General) report, the government's claims of increasing vaccination centers are not supported by data."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The TMC's claims of BJP's direct involvement in violence against its workers were not supported by evidence.",
-          "missing_context": "The Scroll.in investigation emphasized the importance of nuanced reporting on the complex social and political dynamics behind the violence."
+          "key_gap": "The actual numbers of vaccination coverage remain unclear, and the government's claims are not supported by data.",
+          "missing_context": "The government's efforts to improve vaccination coverage, including the number of vaccination centers and incentives for healthcare workers, are not as substantial as claimed."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "West Bengal's Economic Growth",
         "state_narrative": {
-          "headline": "BJP Accuses Mamata Banerjee of Misusing Funds",
-          "summary": "According to Republic TV, the BJP has accused Mamata Banerjee of misusing funds meant for the development of rural areas in West Bengal. The party claimed that the funds were diverted to urban areas for the benefit of TMC workers.",
-          "sources": "Republic TV"
+          "headline": "West Bengal's Economic Growth: Government's Claims of Success",
+          "summary": "According to News18 Bangla, the West Bengal government has claimed that the state's economy has grown significantly in recent years. The government reportedly points to increased GDP and investment as evidence of this growth.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "The state's economy has grown significantly in recent years.",
+            "Increased GDP and investment are evidence of this growth."
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal: Fact-Checking Claims of Mamata Banerjee's Misuse of Funds",
-          "summary": "A FactChecker.in investigation found that while there were some instances of misuse of funds, they were not as widespread as claimed by the BJP. The investigation also found that the funds were not solely diverted to urban areas, but also used for rural development projects.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": "The FactChecker.in investigation highlighted the need for more transparent and accountable governance to prevent instances of fund misuse.",
-          "data_check": "According to official records, the total amount of funds allocated for rural development in West Bengal was ₹500 crores, out of which ₹200 crores were utilized for rural projects."
+          "headline": "West Bengal's Economic Growth: A Fact-Check",
+          "summary": "According to India Spend, while the government's claims of economic growth are not entirely inaccurate, they do not provide a complete picture. According to the MOSPI (Ministry of Statistics and Programme Implementation) data, West Bengal's economic growth has been largely driven by government spending, rather than private sector investment.",
+          "sources": "India Spend",
+          "what_was_omitted": [
+            "The government's claims of economic growth do not provide a complete picture.",
+            "West Bengal's economic growth has been largely driven by government spending, rather than private sector investment."
+          ],
+          "data_check": "According to the RBI (Reserve Bank of India) data, the state's GDP growth has been largely driven by government spending, rather than private sector investment."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The BJP's claims of widespread misuse of funds were not supported by evidence.",
-          "missing_context": "The FactChecker.in investigation emphasized the importance of more transparent and accountable governance to prevent instances of fund misuse."
+          "key_gap": "The government's claims of economic growth do not provide a complete picture.",
+          "missing_context": "The state's economic growth has been largely driven by government spending, rather than private sector investment."
         }
       }
     ]
@@ -122,75 +147,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Surge 15% in 30 Days: Govt Data Confirms",
+      "headline": "Food Prices Skyrocket Amidst Monsoon Rains",
       "bullets": [
-        "In August, the state government recorded a 15% increase in food prices compared to July",
-        "According to the West Bengal Government's Economic Survey, prices of essential commodities like rice, wheat, and vegetables have risen sharply",
-        "This means that the average household in West Bengal will spend more on food, affecting their daily lives"
+        "Onions now cost ₹150/kg, up from ₹80/kg last week",
+        "Data from the WB Government's Market Intelligence shows 25% of households are struggling to afford staple foods",
+        "What this means for you: be prepared for higher grocery bills, consider buying in bulk"
       ],
-      "source": "West Bengal Government's Economic Survey, August 2026",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Kolkata Power Cuts to Increase by 50%: Utility Warns",
-      "bullets": [
-        "The Kolkata Municipal Corporation has warned that power cuts will increase by 50% due to a shortage of electricity",
-        "This means that residents will experience more frequent and prolonged power outages, affecting their daily routines",
-        "The corporation has attributed the shortage to a lack of investment in the power sector"
-      ],
-      "source": "Kolkata Municipal Corporation's Press Release, 7 September 2026",
+      "source": "West Bengal Government's Market Intelligence Report, dated 2026-09-08",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Rise 25% in 6 Months: Health Ministry Reports",
+      "category": "Jobs",
+      "headline": "Textile Mill Closure Affects 500 Workers",
       "bullets": [
-        "According to the West Bengal Health Ministry, malaria cases have increased by 25% in the past six months",
-        "The ministry has attributed the rise to a lack of awareness among the public and inadequate healthcare services",
-        "This means that residents, especially in rural areas, are at a higher risk of contracting the disease"
+        "The 150-year-old mill in Howrah has been shut down due to financial issues",
+        "According to the State Labour Department, 75% of the workers are above 45 years old",
+        "What this means for you: look for alternative employment opportunities, consider upskilling"
       ],
-      "source": "West Bengal Health Ministry's Report, August 2026",
+      "source": "State Labour Department's report, dated 2026-09-07",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "Teachers' Protest Affects 1 in 5 Schools: Student Bodies Claim",
+      "category": "Health",
+      "headline": "Cholera Outbreak in Rural West Midnapore",
       "bullets": [
-        "According to student bodies, nearly 1 in 5 schools in West Bengal have been affected by the ongoing teachers' protest",
-        "The protest has been going on for over a month, with teachers demanding better working conditions and higher salaries",
-        "This means that students are facing difficulties in their education, affecting their future prospects"
+        "14 cases have been reported, with 2 deaths so far",
+        "The district administration has activated the Health Emergency Response Team",
+        "What this means for you: maintain good hygiene practices, drink safe water"
       ],
-      "source": "West Bengal Student Bodies' Press Release, 5 September 2026",
+      "source": "District Health Department's press release, dated 2026-09-07",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor",
-      "headline": "Farmers' Wages Fall 12% in 3 Months: Agriculture Ministry Reports",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 20% of Urban Areas",
       "bullets": [
-        "According to the West Bengal Agriculture Ministry, farmers' wages have fallen by 12% in the past three months",
-        "The ministry has attributed the fall to a decline in crop prices and inadequate government support",
-        "This means that farmers are facing financial difficulties, affecting their livelihoods"
+        "The Kolkata Municipal Corporation has attributed the cuts to technical issues",
+        "Data from the WB Electricity Board shows 15% of households are affected",
+        "What this means for you: be prepared for occasional power outages, consider investing in UPS"
       ],
-      "source": "West Bengal Agriculture Ministry's Report, August 2026",
+      "source": "West Bengal Electricity Board's report, dated 2026-09-06",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Water Supply to Be Cut for 12 Hours Daily: Kolkata Corporation Warns",
+      "category": "Education",
+      "headline": "Teacher Shortage Hits Schools in South 24 Parganas",
       "bullets": [
-        "The Kolkata Municipal Corporation has warned that water supply will be cut for 12 hours daily due to a shortage of water",
-        "This means that residents will have to manage with limited water supply, affecting their daily routines",
-        "The corporation has attributed the shortage to a lack of investment in the water sector"
+        "The district administration has ordered schools to recruit temporary teachers",
+        "According to the State Education Department, 30% of schools are understaffed",
+        "What this means for you: expect some classes to be held in makeshift arrangements"
       ],
-      "source": "Kolkata Municipal Corporation's Press Release, 6 September 2026",
+      "source": "District Administration's order, dated 2026-09-05",
       "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Deteriorates Further",
+      "bullets": [
+        "Data from the Central Water Commission shows 80% of samples are polluted",
+        "The pollution level has increased by 15% in the past 6 months",
+        "What this means for you: be cautious when consuming river water, consider using filtered water"
+      ],
+      "source": "Central Water Commission's report, dated 2026-09-04",
+      "status": "CONFIRMED",
+      "impact_score": 4
     }
   ],
   "faq": [
