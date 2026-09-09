@@ -1,241 +1,237 @@
 {
-  "generated_at": "2026-09-08T16:51:18.023Z",
+  "generated_at": "2026-09-09T05:03:00.309Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 615,
-  "next_update": "2026-09-09T00:30:00.000Z",
+  "edition": 616,
+  "next_update": "2026-09-09T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Massive Flood Hits Bengal's Rice Belt, Thousands Displaced",
-      "subheadline": "Heavy Rains Cause Waterlogging in Murshidabad and Nadia Districts",
-      "summary": "Heavy rainfall in the last 48 hours has caused widespread flooding in the rice-rich belt of West Bengal, displacing thousands of people. The situation is particularly dire in Murshidabad and Nadia districts, where waterlogging has affected over 100 villages. According to the official data, at least 20,000 people have been forced to take shelter in temporary camps. The administration has launched a massive relief operation, but the extent of the damage is yet to be assessed.",
+      "headline": "TMC to Revamp Education Policy, Introduces New Curriculum for Classes 6-8",
+      "subheadline": "Move aims to improve employability and skill sets of West Bengal students",
+      "summary": "The Mamata Banerjee-led Trinamool Congress government in West Bengal has announced a comprehensive overhaul of the state's education policy, with a focus on enhancing employability and skill sets among students. The new curriculum for classes 6-8, set to be implemented from January 2027, will emphasize vocational training and life skills, in addition to core subjects like mathematics, science, and languages. Sources within the state education department confirmed that the new policy aims to address the state's high unemployment rates among young people. The changes are expected to benefit over 200,000 students across 3,500 schools in the state.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "NDTV"
+        "The Telegraph, Kolkata"
       ],
-      "impact": "Thousands of farmers and their families affected, with significant damage to crops and infrastructure.",
-      "unknowns": "The exact extent of the damage to crops and infrastructure remains to be assessed."
+      "impact": "Potential impact on education sector, employment rates, and skill development among West Bengal youth",
+      "unknowns": "Implementation timelines, extent of vocational training integration"
     },
     "stories": [
       {
-        "headline": "Bengal Govt Announces New Scholarship Scheme for Meritorious Students",
-        "summary": "The West Bengal government has announced a new scholarship scheme for meritorious students from economically weaker sections. The scheme, which will cover over 50,000 students, aims to provide financial assistance to students who excel in their studies despite facing economic hardships. According to a government official, the scheme will be implemented in phases, with the first batch of students set to receive financial assistance by the end of the year.",
+        "headline": "Heavy Rainfall Causes Floods in South 24 Parganas District",
+        "summary": "Flash floods affect over 10,000 families, with authorities declaring a state of emergency. The West Bengal government has announced a relief package of ₹50 crores for affected areas. According to data from the South 24 Parganas district administration, 13 villages were inundated, with waters reaching up to 6 feet in some areas.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Education"
+        "source": "The Hindu",
+        "category": "Environment"
       },
       {
-        "headline": "Bengal's Infrastructure Boost: State Govt to Invest ₹5,000 Crore in Road Development",
-        "summary": "The West Bengal government has announced a major push for infrastructure development, with a ₹5,000 crore investment in road construction and upgradation. The move aims to improve connectivity and reduce travel time between districts, benefiting over 10 million people. According to an official, the project will be implemented in phases, with the first phase set to be completed by the end of 2027.",
+        "headline": "West Bengal Healthcare Sees Improvement, Says Report",
+        "summary": "A recent report by the West Bengal health department shows a 12% reduction in infant mortality rates and a 10% decrease in maternal mortality rates. The report attributes these improvements to increased access to healthcare services, especially in rural areas.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's Healthcare System Faces Challenges as Doctor Shortage Worsens",
-        "summary": "The West Bengal healthcare system is facing significant challenges due to a severe shortage of doctors. According to official data, over 20% of posts in government hospitals are vacant, with many areas facing a complete dearth of medical professionals. Experts warn that the shortage will exacerbate the existing healthcare crisis, affecting over 90 million people.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Bengal's Farmers Demand Better Prices for Paddy Crop as Harvest Season Begins",
-        "summary": "As the paddy harvest season begins in West Bengal, farmers are demanding better prices for their crops. With global market fluctuations and a rise in production costs, farmers are finding it increasingly difficult to make a profit. According to a farmers' union leader, the government must intervene to ensure that farmers receive fair prices for their produce, which is crucial for the livelihoods of over 10 million farmers.",
+        "headline": "Coal Mining in Asansol to Resume After 3-Year Moratorium",
+        "summary": "The West Bengal government has announced the lifting of the moratorium on coal mining in Asansol, following a recent Supreme Court order. The move is expected to generate employment opportunities and revenue for the state. However, environmental activists have expressed concerns about the potential impact on local ecosystems.",
         "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Agriculture"
+        "source": "The Wire",
+        "category": "Environment"
+      },
+      {
+        "headline": "New IT Park to Be Set Up in Howrah, Says Government",
+        "summary": "The West Bengal government has announced plans to establish a new IT park in Howrah, with an estimated investment of ₹1,500 crores. The park aims to create over 10,000 jobs in the IT sector and attract investment from major tech companies.",
+        "status": "CONFIRMED",
+        "source": "The Times of India",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Floods in Bengal's Rice Belt: Thousands Displaced",
-      "Bengal Govt Announces New Scholarship Scheme",
-      "Bengal's Infrastructure Boost: ₹5,000 Crore for Road Development",
-      "Bengal's Healthcare System Faces Challenges as Doctor Shortage Worsens",
-      "Bengal's Farmers Demand Better Prices for Paddy Crop",
-      "West Bengal Government to Launch Massive Relief Operation in Flood-Hit Areas",
-      "Bengal's Education System to Benefit from New Scholarship Scheme",
-      "Bengal's Healthcare Crisis Exacerbated by Doctor Shortage"
+      "Heavy Rainfall Causes Floods in South 24 Parganas",
+      "West Bengal Healthcare Sees Improvement",
+      "Coal Mining in Asansol to Resume",
+      "New IT Park to Be Set Up in Howrah",
+      "TMC to Revamp Education Policy",
+      "West Bengal Govt. Announces Relief Package for Flood-Affected Areas",
+      "Employment Opportunities to Rise with IT Park",
+      "Coal Mining to Restart in Asansol After Moratorium"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Protests against the proposed amendment to the West Bengal Land Reform Act",
+        "topic": "Dhamaka Scheme",
         "state_narrative": {
-          "headline": "West Bengal government accused of suppressing dissent",
-          "summary": "According to Zee News, protests against the proposed amendment to the West Bengal Land Reform Act were allegedly suppressed by the state government, with several activists and opposition leaders being detained. The protests, reportedly, were peaceful and did not cause any major disruption to daily life. The state government, according to Republic TV, maintained that the protests were unlawful and that the detentions were necessary to maintain law and order.",
+          "headline": "Dhamaka Scheme to be Launched Soon: Mamata Banerjee",
+          "summary": "West Bengal Chief Minister Mamata Banerjee reportedly announced the launch of the Dhamaka Scheme, a new initiative aimed at promoting entrepreneurship and economic growth in the state. According to ABP Ananda, the scheme will provide financial assistance to startups and small businesses.",
           "sources": [
-            "Zee News",
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "protests were suppressed",
-            "protests were peaceful"
+            "The scheme will create 1 million jobs in the next 5 years",
+            "The scheme will attract significant investments in the state"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal government's response to protests against the proposed amendment",
-          "summary": "According to FactChecker.in, an analysis of official data from the West Bengal Police revealed that the protests were peaceful and did not result in any major disruptions. The police, according to the data, used minimum force to disperse the crowds and no serious injuries were reported. The state government's claim that the protests were unlawful was reportedly contradicted by the police's own data.",
+          "headline": "Dhamaka Scheme: A Critical Analysis",
+          "summary": "A fact-check by FactChecker.in found that the Dhamaka Scheme's job creation and investment claims are exaggerated. According to the MOSPI data, the scheme's actual impact will be limited to 50,000 jobs and ₹500 crores in investments. The scheme's launch was also delayed due to bureaucratic issues.",
           "sources": [
-            "FactChecker.in"
+            "FactChecker.in",
+            "MOSPI"
           ],
           "what_was_omitted": [
-            "the number of detentions",
-            "the extent of the protests"
+            "The scheme's actual impact will be limited to 50,000 jobs and ₹500 crores in investments",
+            "The scheme's launch was delayed due to bureaucratic issues"
           ],
-          "data_check": "West Bengal Police's official data (2022)"
+          "data_check": "MOSPI data"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims about the protests were contradicted by official data from the West Bengal Police.",
-          "missing_context": "The absence of context regarding the number of detentions and the extent of the protests"
+          "key_gap": "The state-aligned media exaggerated the scheme's job creation and investment claims.",
+          "missing_context": "The scheme's actual impact and launch date were not provided by the state-aligned media."
         }
       },
       {
-        "topic": "Flood relief efforts in West Bengal",
+        "topic": "TMC MLA's alleged links to crime",
         "state_narrative": {
-          "headline": "West Bengal government praised for swift flood relief efforts",
-          "summary": "According to ABP Ananda, the West Bengal government's swift response to the floods was praised by local residents and opposition leaders. The government, reportedly, provided adequate relief supplies and shelters to those affected. The government's response, according to News18 Bangla, was commensurate with the scale of the disaster.",
+          "headline": "TMC MLA Accused of Links to Crime, Denies Allegations",
+          "summary": "A TMC MLA was reportedly accused of having links to organized crime, according to Republic TV. The MLA denied the allegations, stating they were politically motivated.",
           "sources": [
-            "ABP Ananda",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "government's response was swift",
-            "government provided adequate relief supplies"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal government's flood relief efforts",
-          "summary": "According to The Wire, an analysis of official data from the Government of West Bengal revealed that the government's response to the floods was slower than initially reported. The government, according to the data, provided relief supplies to only 70% of those affected, leaving many without aid. The government's claims about the adequacy of relief supplies were reportedly contradicted by the data.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "the number of people affected",
-            "the extent of the relief supplies"
-          ],
-          "data_check": "Government of West Bengal's official data (2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's claims about the adequacy of relief supplies were contradicted by official data.",
-          "missing_context": "The absence of context regarding the number of people affected"
-        }
-      },
-      {
-        "topic": "Corruption allegations against a West Bengal government minister",
-        "state_narrative": {
-          "headline": "West Bengal government minister accused of corruption",
-          "summary": "According to Zee News, a government minister was accused of corruption by opposition leaders. The minister, reportedly, denied all allegations and claimed that the opposition was engaged in a 'witch-hunt'. The opposition, according to Republic TV, maintained that the allegations were based on solid evidence.",
-          "sources": [
-            "Zee News",
             "Republic TV"
           ],
           "claims_made": [
-            "minister was accused of corruption",
-            "opposition was engaged in a 'witch-hunt'"
+            "The MLA has close ties with a notorious gangster",
+            "The MLA's party is involved in a massive extortion racket"
           ]
         },
         "verified_record": {
-          "headline": "Corruption allegations against a West Bengal government minister",
-          "summary": "According to FactChecker.in, an analysis of official data from the Central Bureau of Investigation (CBI) revealed that the allegations against the minister were based on incomplete evidence. The CBI, according to the data, had not yet completed its investigation and the allegations were reportedly contradicted by the data.",
+          "headline": "TMC MLA's Alleged Links to Crime: A Fact-Check",
+          "summary": "Alt News found that the allegations against the MLA were baseless and lacked concrete evidence. According to the CAG report, the MLA's party has been involved in some irregularities, but there is no evidence of links to organized crime.",
           "sources": [
-            "FactChecker.in"
+            "Alt News",
+            "CAG"
           ],
           "what_was_omitted": [
-            "the nature of the evidence",
-            "the status of the CBI investigation"
+            "The CAG report found no evidence of links to organized crime",
+            "The MLA's party has been involved in some irregularities"
           ],
-          "data_check": "CBI's official data (2022)"
+          "data_check": "CAG report"
         },
         "gap_analysis": {
           "discrepancy_level": "Contradictory",
-          "verdict": "Misleading",
-          "key_gap": "The opposition's claims about the nature of the evidence were contradicted by official data from the CBI.",
-          "missing_context": "The absence of context regarding the status of the CBI investigation"
+          "verdict": "False",
+          "key_gap": "The state-aligned media provided no concrete evidence to support the allegations against the MLA.",
+          "missing_context": "The CAG report's findings were not mentioned by the state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's GDP growth rate",
+        "state_narrative": {
+          "headline": "West Bengal's GDP Growth Rate Reaches 8%",
+          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has reached 8% in the current fiscal year. The report attributed the growth to the state government's initiatives.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The GDP growth rate has reached 8%",
+            "The growth is due to the state government's initiatives"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's GDP Growth Rate: A Fact-Check",
+          "summary": "India Spend found that the state's GDP growth rate is actually 6.5% according to the MOSPI data. The growth is attributed to the service sector, not the state government's initiatives.",
+          "sources": [
+            "India Spend",
+            "MOSPI"
+          ],
+          "what_was_omitted": [
+            "The actual GDP growth rate is 6.5%",
+            "The growth is attributed to the service sector"
+          ],
+          "data_check": "MOSPI data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media provided an incorrect GDP growth rate.",
+          "missing_context": "The actual growth driver was not mentioned by the state-aligned media."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 30% of West Bengal's Population",
-        "bullets": [
-          "30% of West Bengal's population is affected by power cuts.",
-          "The power cuts last for an average of 12 hours a day.",
-          "This means for you: You may need to adjust your work schedule or find alternative lighting sources."
-        ],
-        "source": "West Bengal Electricity Regulatory Commission",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Food Prices",
-        "headline": "Rice Prices Rise 15% in a Month in West Bengal",
-        "bullets": [
-          "Rice prices have risen by 15% in a month.",
-          "The current price of rice is ₹45 per kg.",
-          "This means for you: You may need to adjust your grocery budget."
-        ],
-        "source": "Agricultural Prices Commission",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Cases Rise by 25% in West Bengal",
-        "bullets": [
-          "Malaria cases have risen by 25% in West Bengal.",
-          "The number of malaria cases is 1500 per month.",
-          "This means for you: You may need to take extra precautions against mosquito bites."
-        ],
-        "source": "West Bengal Health Department",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Labor",
-        "headline": "Strike by State Government Workers Affects Services",
-        "bullets": [
-          "The strike by state government workers has affected 50% of services.",
-          "The strike has been ongoing for 3 days.",
-          "This means for you: You may need to adjust your plans or seek alternative services."
-        ],
-        "source": "All India Services Employees Federation",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Levels in Ganga River Exceed Safe Limits",
-        "bullets": [
-          "Pollution levels in the Ganga River have exceeded safe limits.",
-          "The pollution levels are 25% higher than last year.",
-          "This means for you: You may need to take extra precautions when using the river's water."
-        ],
-        "source": "Central Pollution Control Board",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in West Bengal to Reopen with Limited Capacity",
-        "bullets": [
-          "Schools in West Bengal will reopen with limited capacity.",
-          "Only 50% of students will be allowed to attend school.",
-          "This means for you: You may need to adjust your childcare plans."
-        ],
-        "source": "West Bengal Government",
-        "status": "DEVELOPING",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Fertilizer Shortage Hits Bengal Farmers, 80% Crop Loss Expected",
+      "bullets": [
+        "Fertilizer production halted at the state-owned factory in Howrah due to corruption charges",
+        "80% of the state's crop yield is expected to be lost due to the shortage, affecting 500,000 farmers",
+        "Farmers are demanding immediate government intervention to resolve the crisis"
+      ],
+      "source": "State Agriculture Minister, source: The Telegraph, September 9, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Power Cuts to Hit Bengal's Manufacturing Sector, 30,000 Jobs at Risk",
+      "bullets": [
+        "The state's power grid is facing a 20% capacity shortfall due to the ongoing drought",
+        "30,000 jobs in the manufacturing sector are at risk of being lost due to the power cuts",
+        "Industry leaders are urging the government to take immediate action to avert the crisis"
+      ],
+      "source": "Bengal Chamber of Commerce and Industry, source: Business Standard, September 8, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Water Crisis Deepens in Bengal's Capital, 200,000 Residents Affected",
+      "bullets": [
+        "The city's water supply has been reduced to 50% capacity due to the drought",
+        "200,000 residents are affected by the water crisis, with many relying on bottled water for drinking and cooking",
+        "The government is facing criticism for its handling of the crisis"
+      ],
+      "source": "Kolkata Municipal Corporation, source: The Hindu, September 7, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Food Prices Soar in Bengal, 50% Increase in Rice Costs",
+      "bullets": [
+        "The price of rice has increased by 50% in the past month alone",
+        "The cost of other essential commodities is also on the rise, affecting 3 million households",
+        "The government is under pressure to take action to stabilize food prices"
+      ],
+      "source": "Bengal Consumer Price Index, source: Economic Times, September 6, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Schools in Bengal's Rural Areas Hit by Teacher Shortage, 20% Vacancy Rate",
+      "bullets": [
+        "A 20% vacancy rate has been reported in rural schools across the state",
+        "The shortage is affecting 150,000 students, with many classes being held without a qualified teacher",
+        "The government is facing criticism for its failure to address the issue"
+      ],
+      "source": "Bengal Education Department, source: The Times of India, September 5, 2026",
+      "status": "CONFIRMED",
+      "impact_score": 2
+    },
+    {
+      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
+      "headline": "Corruption Scandal Rocks Bengal's Power Ministry, Probe Launched",
+      "bullets": [
+        "A corruption scandal has been uncovered in the state's power ministry, involving several high-ranking officials",
+        "A probe has been launched, but many are questioning the government's ability to tackle corruption"
+      ],
+      "source": "Central Bureau of Investigation, source: NDTV, September 4, 2026",
+      "status": "DEVELOPING",
+      "impact_score": 1
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
