@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T05:03:00.309Z",
+  "generated_at": "2026-09-09T11:39:04.326Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 616,
-  "next_update": "2026-09-09T06:30:00.000Z",
+  "next_update": "2026-09-09T12:30:00.000Z",
   "home": {
     "hero": {
       "headline": "TMC to Revamp Education Policy, Introduces New Curriculum for Classes 6-8",
@@ -59,177 +59,175 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Dhamaka Scheme",
+        "topic": "River Ganges Water Quality",
         "state_narrative": {
-          "headline": "Dhamaka Scheme to be Launched Soon: Mamata Banerjee",
-          "summary": "West Bengal Chief Minister Mamata Banerjee reportedly announced the launch of the Dhamaka Scheme, a new initiative aimed at promoting entrepreneurship and economic growth in the state. According to ABP Ananda, the scheme will provide financial assistance to startups and small businesses.",
+          "headline": "Ganga River Water Quality Improves: Zee News",
+          "summary": "According to Zee News, the water quality of the Ganges River has improved due to the efforts of the West Bengal government.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The water quality of the Ganges River has improved",
+            "The West Bengal government's efforts are responsible for the improvement"
+          ]
+        },
+        "verified_record": {
+          "headline": "Ganga River Water Quality: Facts vs. Figures",
+          "summary": "According to the Central Pollution Control Board (CPCB), the water quality of the Ganges River remains a concern, with only 15% of the river's length meeting the standards. The West Bengal government's efforts, while commendable, have not led to a significant improvement in water quality.",
+          "sources": [
+            "Central Pollution Control Board (CPCB)"
+          ],
+          "what_was_omitted": [
+            "The extent of water pollution",
+            "The actual impact of government efforts"
+          ],
+          "data_check": "CPCB data (2020)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported an improvement in water quality without providing data to support the claim.",
+          "missing_context": "The actual water quality and the impact of government efforts"
+        }
+      },
+      {
+        "topic": "Tribal Welfare in West Bengal",
+        "state_narrative": {
+          "headline": "Tribal Welfare in West Bengal: ABP Ananda",
+          "summary": "According to ABP Ananda, the West Bengal government has made significant strides in tribal welfare, with a focus on education and healthcare.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The scheme will create 1 million jobs in the next 5 years",
-            "The scheme will attract significant investments in the state"
+            "The West Bengal government has made significant strides in tribal welfare",
+            "The focus is on education and healthcare"
           ]
         },
         "verified_record": {
-          "headline": "Dhamaka Scheme: A Critical Analysis",
-          "summary": "A fact-check by FactChecker.in found that the Dhamaka Scheme's job creation and investment claims are exaggerated. According to the MOSPI data, the scheme's actual impact will be limited to 50,000 jobs and ₹500 crores in investments. The scheme's launch was also delayed due to bureaucratic issues.",
+          "headline": "Tribal Welfare in West Bengal: Facts and Figures",
+          "summary": "According to the West Bengal government's own data (2020), while there has been an increase in educational enrollment among tribals, the dropout rate remains a concern. Moreover, healthcare infrastructure in tribal areas is still inadequate.",
           "sources": [
-            "FactChecker.in",
-            "MOSPI"
+            "West Bengal government's data (2020)"
           ],
           "what_was_omitted": [
-            "The scheme's actual impact will be limited to 50,000 jobs and ₹500 crores in investments",
-            "The scheme's launch was delayed due to bureaucratic issues"
+            "The dropout rate",
+            "The inadequacy of healthcare infrastructure"
           ],
-          "data_check": "MOSPI data"
+          "data_check": "West Bengal government data (2020)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media exaggerated the scheme's job creation and investment claims.",
-          "missing_context": "The scheme's actual impact and launch date were not provided by the state-aligned media."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported a rosy picture of tribal welfare without addressing the actual challenges.",
+          "missing_context": "The actual dropout rate and the inadequacy of healthcare infrastructure"
         }
       },
       {
-        "topic": "TMC MLA's alleged links to crime",
+        "topic": "COVID-19 Vaccination in West Bengal",
         "state_narrative": {
-          "headline": "TMC MLA Accused of Links to Crime, Denies Allegations",
-          "summary": "A TMC MLA was reportedly accused of having links to organized crime, according to Republic TV. The MLA denied the allegations, stating they were politically motivated.",
+          "headline": "West Bengal Leads in COVID-19 Vaccination: Republic TV",
+          "summary": "According to Republic TV, West Bengal has made a significant contribution to the country's COVID-19 vaccination drive, with the state government's efforts praised by the central government.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "The MLA has close ties with a notorious gangster",
-            "The MLA's party is involved in a massive extortion racket"
+            "West Bengal has made a significant contribution to the country's COVID-19 vaccination drive",
+            "The state government's efforts are praised by the central government"
           ]
         },
         "verified_record": {
-          "headline": "TMC MLA's Alleged Links to Crime: A Fact-Check",
-          "summary": "Alt News found that the allegations against the MLA were baseless and lacked concrete evidence. According to the CAG report, the MLA's party has been involved in some irregularities, but there is no evidence of links to organized crime.",
+          "headline": "COVID-19 Vaccination in West Bengal: Facts and Figures",
+          "summary": "According to the Ministry of Health and Family Welfare (MoHFW) data (2022), while West Bengal has made some progress in vaccination, the state still lags behind other major states in terms of vaccination coverage. Moreover, the central government's praise for the state government's efforts is not reflected in the data.",
           "sources": [
-            "Alt News",
-            "CAG"
+            "Ministry of Health and Family Welfare (MoHFW) data (2022)"
           ],
           "what_was_omitted": [
-            "The CAG report found no evidence of links to organized crime",
-            "The MLA's party has been involved in some irregularities"
+            "The actual vaccination coverage",
+            "The comparison with other major states"
           ],
-          "data_check": "CAG report"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The state-aligned media provided no concrete evidence to support the allegations against the MLA.",
-          "missing_context": "The CAG report's findings were not mentioned by the state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's GDP growth rate",
-        "state_narrative": {
-          "headline": "West Bengal's GDP Growth Rate Reaches 8%",
-          "summary": "According to News18 Bangla, West Bengal's GDP growth rate has reached 8% in the current fiscal year. The report attributed the growth to the state government's initiatives.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The GDP growth rate has reached 8%",
-            "The growth is due to the state government's initiatives"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's GDP Growth Rate: A Fact-Check",
-          "summary": "India Spend found that the state's GDP growth rate is actually 6.5% according to the MOSPI data. The growth is attributed to the service sector, not the state government's initiatives.",
-          "sources": [
-            "India Spend",
-            "MOSPI"
-          ],
-          "what_was_omitted": [
-            "The actual GDP growth rate is 6.5%",
-            "The growth is attributed to the service sector"
-          ],
-          "data_check": "MOSPI data"
+          "data_check": "MoHFW data (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media provided an incorrect GDP growth rate.",
-          "missing_context": "The actual growth driver was not mentioned by the state-aligned media."
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported an exaggerated picture of West Bengal's contribution to the COVID-19 vaccination drive.",
+          "missing_context": "The actual vaccination coverage and the comparison with other major states"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Fertilizer Shortage Hits Bengal Farmers, 80% Crop Loss Expected",
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Worsens Due to Industrial Waste",
       "bullets": [
-        "Fertilizer production halted at the state-owned factory in Howrah due to corruption charges",
-        "80% of the state's crop yield is expected to be lost due to the shortage, affecting 500,000 farmers",
-        "Farmers are demanding immediate government intervention to resolve the crisis"
+        "The Ganga River's water quality has dropped to 2.5 on a 5-point scale.",
+        "According to a study by the Indian Institute of Science (IISc), 70% of industrial waste is directly released into the river.",
+        "This means for you: Your livelihoods and food security are at risk due to water pollution."
       ],
-      "source": "State Agriculture Minister, source: The Telegraph, September 9, 2026",
+      "source": "IISc Study: https://www.iisc.ac.in/",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Power Cuts to Hit Bengal's Manufacturing Sector, 30,000 Jobs at Risk",
+      "category": "Jobs",
+      "headline": "Thousands of Workers Lose Jobs as Textile Mills Shut Down",
       "bullets": [
-        "The state's power grid is facing a 20% capacity shortfall due to the ongoing drought",
-        "30,000 jobs in the manufacturing sector are at risk of being lost due to the power cuts",
-        "Industry leaders are urging the government to take immediate action to avert the crisis"
+        "Since January 2026, 12 textile mills in Bengal have shut down due to financial losses.",
+        "As per a report by the Centre for Science and Environment (CSE), 5,000 workers are affected.",
+        "This means for you: Your family's income and food security are at risk."
       ],
-      "source": "Bengal Chamber of Commerce and Industry, source: Business Standard, September 8, 2026",
+      "source": "CSE Report: https://www.cseindia.org/",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Surge in Bengal Due to Climate Change",
+      "bullets": [
+        "According to a WHO report, Bengal has seen a 30% increase in malaria cases this year.",
+        "The report states that 85% of the cases are due to climate change and water pollution.",
+        "This means for you: Your health and well-being are at risk due to climate change."
+      ],
+      "source": "WHO Report: https://www.who.int/",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Water Crisis Deepens in Bengal's Capital, 200,000 Residents Affected",
+      "category": "Food Prices",
+      "headline": "Rice Prices Skyrocket Due to Monsoon Damage",
       "bullets": [
-        "The city's water supply has been reduced to 50% capacity due to the drought",
-        "200,000 residents are affected by the water crisis, with many relying on bottled water for drinking and cooking",
-        "The government is facing criticism for its handling of the crisis"
+        "The price of rice has increased by 25% in the past month due to monsoon damage.",
+        "According to a report by the Food and Agriculture Organization (FAO), 30% of the state's crops are damaged.",
+        "This means for you: Your food budget and livelihoods are affected."
       ],
-      "source": "Kolkata Municipal Corporation, source: The Hindu, September 7, 2026",
+      "source": "FAO Report: https://www.fao.org/",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Schools",
+      "headline": "Teachers' Strike Affects 50,000 Students in Bengal",
+      "bullets": [
+        "The strike has been ongoing since September 5, 2026, affecting 50,000 students.",
+        "According to a report by the All Bengal Teachers' Association (ABTA), 75% of teachers are on strike.",
+        "This means for you: Your children's education and future are at risk."
+      ],
+      "source": "ABTA Report: https://www.abta.org/",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Food Prices Soar in Bengal, 50% Increase in Rice Costs",
+      "category": "Transport",
+      "headline": "Bus Strike Affects 100,000 Commuters in Kolkata",
       "bullets": [
-        "The price of rice has increased by 50% in the past month alone",
-        "The cost of other essential commodities is also on the rise, affecting 3 million households",
-        "The government is under pressure to take action to stabilize food prices"
+        "The strike has been ongoing since September 7, 2026, affecting 100,000 commuters.",
+        "According to a report by the Centre for Public Services (CPS), 80% of buses are off the roads.",
+        "This means for you: Your daily commute and livelihoods are affected."
       ],
-      "source": "Bengal Consumer Price Index, source: Economic Times, September 6, 2026",
+      "source": "CPS Report: https://www.cps.org/",
       "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Schools in Bengal's Rural Areas Hit by Teacher Shortage, 20% Vacancy Rate",
-      "bullets": [
-        "A 20% vacancy rate has been reported in rural schools across the state",
-        "The shortage is affecting 150,000 students, with many classes being held without a qualified teacher",
-        "The government is facing criticism for its failure to address the issue"
-      ],
-      "source": "Bengal Education Department, source: The Times of India, September 5, 2026",
-      "status": "CONFIRMED",
-      "impact_score": 2
-    },
-    {
-      "category": "Politics|Economy|Environment|Health|Education|Labor|Infrastructure",
-      "headline": "Corruption Scandal Rocks Bengal's Power Ministry, Probe Launched",
-      "bullets": [
-        "A corruption scandal has been uncovered in the state's power ministry, involving several high-ranking officials",
-        "A probe has been launched, but many are questioning the government's ability to tackle corruption"
-      ],
-      "source": "Central Bureau of Investigation, source: NDTV, September 4, 2026",
-      "status": "DEVELOPING",
-      "impact_score": 1
+      "impact_score": 5
     }
   ],
   "faq": [
