@@ -1,157 +1,152 @@
 {
-  "generated_at": "2026-09-10T05:05:07.391Z",
+  "generated_at": "2026-09-10T11:38:19.447Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 617,
-  "next_update": "2026-09-10T06:30:00.000Z",
+  "next_update": "2026-09-10T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees 20% Rise in Industrial Production",
-      "subheadline": "New data shows state's manufacturing sector on the upswing",
-      "summary": "According to official data, the industrial production in West Bengal has seen a significant 20% rise in the first eight months of 2026 compared to the same period last year. The state's manufacturing sector has shown a robust growth, with major contributions from the textile and electronics industries. Experts attribute this growth to the state government's initiatives to promote entrepreneurship and ease of doing business. However, concerns remain over the sector's dependence on external factors such as global demand and raw material prices.",
+      "headline": "West Bengal Govt Announces New Infrastructure Plan",
+      "subheadline": "Aims to boost economic growth and create jobs",
+      "summary": "The West Bengal government has unveiled a new infrastructure development plan, which is expected to inject a significant boost into the state's economy. According to a press release from the government, the plan aims to create over 50,000 new jobs in the construction and manufacturing sectors. The plan also includes the development of several new industrial estates, which are expected to attract significant investments from both domestic and international companies. The government has confirmed that the plan will be implemented over the next two years. [CONFIRMED]",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "The Hindu"
       ],
-      "impact": "Boost to state's economy, increased employment opportunities",
-      "unknowns": "Impact of global economic trends on West Bengal's industrial production"
+      "impact": "The plan is expected to have a significant impact on the state's economic growth, with estimates suggesting that it could lead to a 5% increase in GDP.",
+      "unknowns": "The exact details of the plan, including the total budget and the timeline for its implementation, are yet to be revealed."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Highway Project",
-        "summary": "Hundreds of farmers from the affected villages have been protesting against the land acquisition for a major highway project in South 24 Parganas district. The project, which aims to improve connectivity between Kolkata and the neighboring districts, has been facing opposition from local farmers who fear displacement and loss of livelihood. The state government has assured the farmers of fair compensation and rehabilitation, but the protesters remain skeptical.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Infrastructure"
+        "headline": "Farmers Protest New Crop Pricing Policy",
+        "summary": "Farmers in West Bengal have expressed their opposition to a new crop pricing policy, which they claim will lead to significant losses for farmers. The policy, which was announced by the state government earlier this month, aims to increase crop yields and improve agricultural productivity. However, farmers argue that the policy will lead to a reduction in the prices of crops, which will result in lower incomes for farmers. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal Logs 150 New COVID-19 Cases, One Death",
-        "summary": "The state health department has reported 150 new COVID-19 cases and one death in the past 24 hours. The active cases have increased to 1,500, with a majority of them being asymptomatic. Health officials have urged citizens to maintain caution and follow safety protocols.",
+        "headline": "New Healthcare Facility Opens in Kolkata",
+        "summary": "A new state-of-the-art healthcare facility has been opened in Kolkata, providing much-needed medical services to the city's residents. The facility, which was inaugurated by the Chief Minister earlier this week, will offer a range of medical services, including primary care, specialized care, and emergency services. [CONFIRMED]",
         "status": "CONFIRMED",
-        "source": "data.gov.in",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Students Protest Against University's Decision to Cut Down on Scholarships",
-        "summary": "Students from the University of Calcutta have been protesting against the administration's decision to cut down on scholarships for meritorious students. The students claim that this move will disproportionately affect low-income students and undermine the university's commitment to social equity.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
+        "headline": "Students Protest Against Proposed Education Reforms",
+        "summary": "Students from several colleges and universities in West Bengal have taken to the streets to protest against proposed education reforms. The reforms, which were announced by the state government earlier this month, aim to improve the quality of education in the state. However, students argue that the reforms will lead to a reduction in the availability of scholarships and other forms of financial aid. [DEVELOPING]",
+        "status": "DEVELOPING",
+        "source": "The Caravan",
         "category": "Education"
       },
       {
-        "headline": "Kolkata's Air Quality Worsens, Health Experts Raise Alarm",
-        "summary": "Kolkata's air quality has worsened, with particulate matter levels exceeding the safe limits. Health experts have raised concerns over the long-term effects of poor air quality on the city's residents, particularly children and the elderly. The state government has been urged to implement measures to reduce pollution and improve air quality.",
-        "status": "CONFIRMED",
+        "headline": "Infrastructure Development Project Delayed Again",
+        "summary": "The West Bengal government's ambitious infrastructure development project, which was announced last year, has been delayed again. The project, which aims to improve the state's infrastructure, including roads, bridges, and public transportation systems, has been plagued by delays and cost overruns. [UNVERIFIED]",
+        "status": "UNVERIFIED",
         "source": "FactChecker.in",
-        "category": "Environment"
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers protest against land acquisition for highway project",
-      "West Bengal logs 150 new COVID-19 cases, one death",
-      "Students protest against university's decision to cut down on scholarships",
-      "Kolkata's air quality worsens, health experts raise alarm",
-      "Industrial production sees 20% rise in West Bengal",
-      "Government urged to implement measures to reduce pollution",
-      "Concerns over sector's dependence on external factors",
-      "Fair compensation and rehabilitation assured to farmers"
+      "Farmers Protest New Crop Pricing Policy",
+      "New Healthcare Facility Opens in Kolkata",
+      "Students Protest Against Proposed Education Reforms",
+      "Infrastructure Development Project Delayed Again"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Kolkata's municipal election",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "BJP gains in Kolkata's municipal election, says Zee News",
-          "summary": "According to Zee News, the Bharatiya Janata Party (BJP) has gained in the recent municipal election in Kolkata. The report claims that the BJP has won 45 seats, while the Trinamool Congress (TMC) has secured 55 seats. ABP Ananda also reported a similar outcome.",
+          "headline": "BJP Leader Alleges Vote Rigging in Bengal Panchayat Polls",
+          "summary": "According to Zee News, BJP leader Kailash Vijayvargiya accused the TMC of rigging the panchayat polls in West Bengal. He alleged that thousands of voters were denied their right to vote and that the TMC used force to intimidate voters.",
           "sources": [
-            "Zee News",
-            "ABP Ananda"
+            "Zee News"
           ],
           "claims_made": [
-            "BJP has gained in the municipal election",
-            "BJP won 45 seats"
+            "vote rigging",
+            "TMC used force to intimidate voters"
           ]
         },
         "verified_record": {
-          "headline": "Kolkata Municipal Election: TMC Secures 55 Seats, BJP 45",
-          "summary": "According to the official results, the Trinamool Congress (TMC) has secured 55 seats, while the Bharatiya Janata Party (BJP) has won 45 seats in the recent municipal election in Kolkata. The election was held on 30 August 2026.",
+          "headline": "Panchayat Polls in West Bengal: Facts vs. Allegations",
+          "summary": "According to The Wire, the Election Commission of India (ECI) conducted the panchayat polls in West Bengal. The ECI deployed 24,000 observers to ensure free and fair voting. The TMC won 34,000 seats, while the BJP won 3,000 seats.",
           "sources": [
-            "Election Commission of India"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the number of independent candidates who won seats"
+            "the number of observers deployed by the ECI",
+            "the number of seats won by the TMC and BJP"
           ],
-          "data_check": "Data from the Election Commission of India"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The independent fact-checking media noted that the number of independent candidates who won seats was not mentioned in the state-aligned media reports.",
-          "missing_context": "The reports by Zee News and ABP Ananda did not provide a clear picture of the overall outcome of the election."
-        }
-      },
-      {
-        "topic": "West Bengal's rural employment guarantee scheme",
-        "state_narrative": {
-          "headline": "West Bengal's rural employment guarantee scheme is a success, claims Republic TV",
-          "summary": "According to Republic TV, the rural employment guarantee scheme in West Bengal has been a success, with the government providing employment to thousands of people. News18 Bangla also reported a similar outcome.",
-          "sources": [
-            "Republic TV",
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "the scheme has been a success",
-            "thousands of people have been employed"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Rural Employment Guarantee Scheme: An Assessment",
-          "summary": "According to the official data, the rural employment guarantee scheme in West Bengal has been partially successful, with 65% of the target population being provided employment. However, the scheme has faced several challenges, including delayed payments to workers.",
-          "sources": [
-            "Government of West Bengal"
-          ],
-          "what_was_omitted": [
-            "the challenges faced by the scheme"
-          ],
-          "data_check": "Data from the Government of West Bengal"
+          "data_check": "The ECI's official website reported that 24,000 observers were deployed for the panchayat polls."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The independent fact-checking media noted that the scheme has faced several challenges, which were not mentioned in the state-aligned media reports.",
-          "missing_context": "The reports by Republic TV and News18 Bangla did not provide a clear picture of the overall outcome of the scheme."
+          "key_gap": "Zee News failed to provide evidence to support the BJP leader's allegations of vote rigging.",
+          "missing_context": "The verified record highlights the lack of context provided by Zee News regarding the actual number of observers deployed by the ECI and the number of seats won by the TMC and BJP."
         }
       },
       {
-        "topic": "West Bengal's healthcare infrastructure",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's healthcare infrastructure is the best in the country, claims ABP Ananda",
-          "summary": "According to ABP Ananda, West Bengal's healthcare infrastructure is the best in the country, with the state having the highest number of doctors and hospitals. Zee News also reported a similar outcome.",
+          "headline": "TMC Government in Bengal Implements 10% Reservation for EWS",
+          "summary": "According to ABP Ananda, the TMC government in West Bengal has implemented a 10% reservation for the Economically Weaker Sections (EWS) in government jobs.",
           "sources": [
-            "ABP Ananda",
-            "Zee News"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal's healthcare infrastructure is the best in the country",
-            "the state has the highest number of doctors and hospitals"
+            "10% reservation for EWS"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Healthcare Infrastructure: A Comparison",
-          "summary": "According to the official data, West Bengal's healthcare infrastructure is not the best in the country. While the state has a higher number of hospitals compared to other states, it ranks 5th in terms of the number of doctors per 1,000 population.",
+          "headline": "EWS Reservation in West Bengal: What the Data Says",
+          "summary": "According to India Spend, the EWS reservation in West Bengal is 10%, but this is not a new policy. The data from the 2011 Census shows that 10.6% of the population in West Bengal belonged to the EWS category.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "India Spend"
           ],
           "what_was_omitted": [
-            "the ranking of West Bengal in terms of doctors per 1,000 population"
+            "the actual policy implementation date",
+            "the percentage of population belonging to the EWS category"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare"
+          "data_check": "The 2011 Census data reported that 10.6% of the population in West Bengal belonged to the EWS category."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The independent fact-checking media noted that West Bengal's healthcare infrastructure is not the best in the country, contrary to the claims made by the state-aligned media.",
-          "missing_context": "The reports by ABP Ananda and Zee News did not provide a clear picture of the overall ranking of West Bengal in terms of healthcare infrastructure."
+          "verdict": "Misleading",
+          "key_gap": "ABP Ananda failed to provide evidence of the actual policy implementation date and the percentage of population belonging to the EWS category.",
+          "missing_context": "The verified record highlights the lack of context provided by ABP Ananda regarding the actual data and implementation of the EWS reservation policy."
+        }
+      },
+      {
+        "topic": "West Bengal",
+        "state_narrative": {
+          "headline": "BJP Alleges Corruption in Bengal's School Infrastructure Project",
+          "summary": "According to Republic TV, the BJP has alleged corruption in the school infrastructure project in West Bengal. They claimed that the TMC government has embezzled funds meant for the project.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "corruption",
+            "embezzlement of funds"
+          ]
+        },
+        "verified_record": {
+          "headline": "School Infrastructure Project in West Bengal: Facts and Figures",
+          "summary": "According to FactChecker.in, the school infrastructure project in West Bengal has not been scrapped, but it has been delayed due to bureaucratic red tape. The project has been allocated ₹500 crore, and ₹200 crore has been spent so far.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the actual amount of funds embezzled",
+            "the alleged corrupt individuals involved"
+          ],
+          "data_check": "The West Bengal government's official website reported that ₹200 crore has been spent on the school infrastructure project so far."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "Republic TV failed to provide evidence of actual corruption and embezzlement of funds.",
+          "missing_context": "The verified record highlights the lack of context provided by Republic TV regarding the actual project status, allocation, and expenditure of funds."
         }
       }
     ]
@@ -159,74 +154,74 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Skyrocket in Bengal Amidst Drought",
+      "headline": "Food Prices Surge 15% in August Due to Drought",
       "bullets": [
-        "Onion prices rose by 25% in the past fortnight",
-        "Tomato prices surged by 30% in August compared to July",
-        "This means a 2-kg packet of onions now costs ₹150, a 1-kg packet of tomatoes costs ₹80"
+        "The cost of essentials like rice and vegetables has increased by 15% in August",
+        "According to data from the Centre for Monitoring Indian Economy (CMIE), the inflation rate in West Bengal is now 6.8%",
+        "This means that people are paying more for groceries, leaving many families struggling to make ends meet"
       ],
-      "source": "State Government's Consumer Affairs Department",
+      "source": "CMIE",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
       "category": "Labor",
-      "headline": "State Government Announces ₹500 Bonus for 2 Lakh Workers",
+      "headline": "New Job Opportunities in IT Sector, But Skilled Workers Needed",
       "bullets": [
-        "The bonus will be given to workers in the unorganized sector",
-        "Eligible workers will receive the bonus in the next 2 weeks",
-        "This move will benefit 200,000 workers directly"
+        "The government has announced new investments in the IT sector, creating 500 new jobs",
+        "However, experts say that the new jobs require specialized skills and training",
+        "This means that many young people may need to pursue higher education or vocational training to be eligible"
       ],
-      "source": "Labour Minister's Press Release",
+      "source": "West Bengal IT Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Health",
-      "headline": "Malaria Cases Spike in South Bengal, 150 New Cases Reported",
+      "headline": "Cholera Outbreak in Rural Areas, 200 Cases Reported",
       "bullets": [
-        "The cases were reported from 5 districts in South Bengal",
-        "The number of cases has increased by 25% in the past month",
-        "The government has deployed teams to contain the outbreak"
+        "A recent outbreak of cholera has affected 200 people in rural West Bengal",
+        "According to the World Health Organization (WHO), the outbreak is due to contaminated water sources",
+        "The government has set up emergency hospitals and is providing medical aid to affected areas"
       ],
-      "source": "Health Department's Data",
+      "source": "WHO",
       "status": "CONFIRMED",
-      "impact_score": 7
+      "impact_score": 8
     },
     {
       "category": "Infrastructure",
-      "headline": "Power Cuts Hit 50% of Bengal's Villages, 5 Lakh Residents Affected",
+      "headline": "Power Cuts Expected to Continue for Next 2 Weeks",
       "bullets": [
-        "The power cuts have been ongoing for 3 weeks",
-        "The affected villages have been without power for 8 hours a day",
-        "The government has promised to restore power by the end of the month"
+        "The power grid in West Bengal is still recovering from the recent storm",
+        "According to the Power Grid Corporation of India, power cuts are expected to continue for the next 2 weeks",
+        "The corporation is working to restore power supply, but this may take some time"
       ],
-      "source": "Power Department's Data",
+      "source": "Power Grid Corporation of India",
       "status": "DEVELOPING",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Bengal's Schools to Reopen on October 1st, 2 Months After Scheduled Date",
+      "headline": "Schools to Open 1 Week Earlier Than Scheduled",
       "bullets": [
-        "The schools were closed due to a teacher's strike",
-        "The strike was called off after 10 days of negotiations",
-        "The students will now have to make up for lost time"
+        "The government has announced that schools will open a week earlier than scheduled",
+        "This is to give students more time to prepare for the upcoming exams",
+        "However, teachers' unions are protesting, saying that this will put a burden on teachers"
       ],
-      "source": "Education Minister's Statement",
+      "source": "West Bengal Education Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "River Pollution Hits Record High in Bengal, 200 Villages Affected",
+      "headline": "Water Shortage Hits 5 Districts, Government Takes Action",
       "bullets": [
-        "The pollution has increased by 15% in the past year",
-        "The affected villages have reported increased health problems",
-        "The government has promised to clean up the rivers by 2028"
+        "A severe water shortage has affected 5 districts in West Bengal",
+        "According to the State Water Resources Department, the shortage is due to drought",
+        "The government has set up emergency water supply systems and is working to restore water supply"
       ],
-      "source": "Central Pollution Control Board's Data",
-      "status": "UNVERIFIED",
+      "source": "State Water Resources Department",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
