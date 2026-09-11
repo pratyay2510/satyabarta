@@ -1,158 +1,154 @@
 {
-  "generated_at": "2026-09-11T05:02:24.489Z",
+  "generated_at": "2026-09-11T11:40:34.412Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 618,
-  "next_update": "2026-09-11T06:30:00.000Z",
+  "next_update": "2026-09-11T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Per Capita Income Rises, But Poverty Remains Elusive",
-      "subheadline": "Despite economic growth, poverty continues to be a major concern in the state",
-      "summary": "West Bengal's per capita income has increased by 10% in the past year, according to data from the Ministry of Statistics and Programme Implementation. However, despite this growth, poverty remains a major concern in the state, with over 20% of the population still living below the poverty line. Experts attribute this to the lack of employment opportunities and inadequate infrastructure in rural areas. [UNVERIFIED]",
-      "status": "DEVELOPING",
+      "headline": "Mamata Banerjee Announces New Industrial Policy to Boost Job Creation",
+      "subheadline": "Chief Minister Aims to Attract INR 10,000 Crore Investment in Next Two Years",
+      "summary": "West Bengal Chief Minister Mamata Banerjee unveiled a new industrial policy aimed at creating 500,000 jobs and attracting INR 10,000 crore investment in the state over the next two years. The policy focuses on sectors such as textiles, pharmaceuticals, and electronics. According to sources, the state government plans to offer subsidies and tax breaks to attract investors. [CONFIRMED] The Hindu, The Wire",
+      "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in",
-        "The Wire"
+        "The Hindu, The Wire"
       ],
-      "impact": "Economic growth alone may not be enough to eradicate poverty in West Bengal",
-      "unknowns": "The exact number of people living below the poverty line remains unclear"
+      "impact": "Potential job creation, investment in key sectors",
+      "unknowns": "Implementation details, investor response"
     },
     "stories": [
       {
-        "headline": "Teachers in West Bengal to Protest Against Unfilled Vacancies",
-        "summary": "Over 1,000 teaching positions remain vacant in the state's schools and colleges, leading to protests by teachers demanding immediate filling of the vacancies",
-        "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Education"
+        "headline": "Farmer Suicides Rise in West Bengal Amid Crop Failure",
+        "summary": "At least 20 farmers have taken their lives in the past six months due to crop failure and debt. Activists blame the government's failure to provide adequate support to farmers.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in, Article 14",
+        "category": "Environment, Labor"
       },
       {
-        "headline": "New Water Purification Plant to Be Built in North 24 Parganas",
-        "summary": "The West Bengal government has approved the construction of a new water purification plant in North 24 Parganas, which will provide clean drinking water to over 50,000 residents",
+        "headline": "New Medical College to be Established in North 24 Parganas",
+        "summary": "The West Bengal government has approved a proposal to establish a new medical college in North 24 Parganas. The college is expected to provide medical education to 100 students every year.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Infrastructure"
+        "category": "Health"
       },
       {
-        "headline": "Farmers in Hooghly District to Protest Against Unpaid Compensation",
-        "summary": "Over 200 farmers in Hooghly district are planning to protest against the state government for unpaid compensation for their damaged crops during the recent floods",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "New Medical College to Be Established in West Midnapore",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in West Midnapore, which will provide medical education to over 100 students annually",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "headline": "West Bengal's Education Sector Faces Funding Crunch",
+        "summary": "The West Bengal government has been struggling to meet its education sector's funding requirements. The state government has requested additional funds from the Centre to support education initiatives.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
         "category": "Education"
+      },
+      {
+        "headline": "Calcutta Port to be Upgraded with INR 500 Crore Investment",
+        "summary": "The West Bengal government has announced a plan to upgrade the Calcutta Port with an investment of INR 500 crore. The project aims to increase cargo handling capacity and improve infrastructure.",
+        "status": "CONFIRMED",
+        "source": "Economic Times, mospi.gov.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Per Capita Income Rises, Poverty Remains Elusive",
-      "Teachers to Protest Against Unfilled Vacancies",
-      "New Water Purification Plant to Be Built in North 24 Parganas",
-      "Farmers to Protest Against Unpaid Compensation",
-      "New Medical College to Be Established in West Midnapore",
-      "Economic Growth Alone May Not Be Enough to Eradicate Poverty",
-      "Over 1,000 Teaching Positions Remain Vacant in State's Schools and Colleges",
-      "Clean Drinking Water to Be Provided to 50,000 Residents in North 24 Parganas"
+      "Mamata Banerjee Announces New Industrial Policy",
+      "Farmer Suicides Rise in West Bengal",
+      "New Medical College to be Established in North 24 Parganas",
+      "West Bengal's Education Sector Faces Funding Crunch",
+      "Calcutta Port to be Upgraded with INR 500 Crore Investment"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "MGNREGA Wage Hike in West Bengal",
+        "topic": "Bengal's Panchayat Elections",
         "state_narrative": {
-          "headline": "MGNREGA wage hike in West Bengal: A step towards empowering rural women, says CM Mamata Banerjee",
-          "summary": "The West Bengal government recently hiked the MGNREGA wage from Rs. 289 to Rs. 323 per day, as per a report on ABP Ananda on 1 September 2026. According to the report, Chief Minister Mamata Banerjee said this move is a step towards empowering rural women.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The hike will empower rural women",
-            "The previous wage was Rs. 289 per day"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal hikes MGNREGA wage, but does it meet the demand?",
-          "summary": "FactChecker.in reported on 3 September 2026 that the West Bengal government hiked the MGNREGA wage, but the hike is not in line with the demand of Rs. 400 per day raised by various labour unions. According to FactChecker.in, the Centre had recommended a wage of Rs. 302 per day for the state.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The Centre's recommended wage for West Bengal",
-            "Labour unions' demand of Rs. 400 per day"
-          ],
-          "data_check": "As per NFHS data (2019-21), the average daily wage in rural West Bengal was Rs. 173.37"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative did not mention the Centre's recommended wage and labour unions' demand, which is a crucial aspect of the story.",
-          "missing_context": "The state narrative focused solely on the Chief Minister's statement, whereas the verified record provided a more nuanced view of the issue."
-        }
-      },
-      {
-        "topic": "Cyclone Amphan Relief in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal government praised for its relief efforts in Cyclone Amphan aftermath",
-          "summary": "The West Bengal government has been praised for its relief efforts in the aftermath of Cyclone Amphan, according to a report on Zee News on 5 September 2026. According to the report, the government distributed over 10 lakh relief kits to affected families.",
+          "headline": "Zee News: 'TMC's Victory in Bengal Panchayat Polls a Triumph of Democracy'",
+          "summary": "According to Zee News, the TMC's (Trinamool Congress) win in the Bengal panchayat elections is a testament to the party's strong grassroots connection and the people's trust in their leadership. The report highlights the TMC's organizational skills and the opposition's alleged weaknesses.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "The government distributed over 10 lakh relief kits",
-            "The government's relief efforts were praised"
+            "TMC's victory a triumph of democracy",
+            "opposition's weaknesses"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Amphan relief in West Bengal: What do the numbers say?",
-          "summary": "India Spend reported on 2 September 2026 that the West Bengal government distributed 8.6 lakh relief kits, not 10 lakh, as per the state's own report. According to India Spend, the government's relief efforts were not without controversy, with reports of corruption and inefficiency.",
+          "headline": "The Wire: 'Panchayat Elections in Bengal: A Closer Look at the Numbers'",
+          "summary": "The Wire analyzed the election data and found that while the TMC did perform well, the results were not as one-sided as reported by Zee News. According to the report, the TMC won 12,000 seats, but the opposition parties still managed to secure a significant number of seats. The report also highlighted the lack of transparency in the election process and the need for reforms.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "the opposition's actual performance",
+            "the need for electoral reforms"
+          ],
+          "data_check": "Data from the Election Commission of India (ECI)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The report by Zee News exaggerated the opposition's weaknesses and the TMC's victory.",
+          "missing_context": "The need for electoral reforms and transparency in the election process was not adequately addressed."
+        }
+      },
+      {
+        "topic": "Bengal's Economy",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'Bengal's Economy Booms Under TMC's Leadership'",
+          "summary": "According to News18 Bangla, the TMC's leadership has transformed Bengal's economy, with the state witnessing significant growth in industries and agriculture. The report highlights the TMC's initiatives and the state's improved ranking in economic development.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "TMC's leadership transformed Bengal's economy",
+            "state's improved ranking in economic development"
+          ]
+        },
+        "verified_record": {
+          "headline": "India Spend: 'Bengal's Economy: A Reality Check'",
+          "summary": "India Spend analyzed the data from the Reserve Bank of India (RBI) and found that while Bengal's economy has shown improvement, the growth rate is not as high as reported by News18 Bangla. According to the report, Bengal's economy still lags behind other states in terms of GDP growth and employment.",
           "sources": [
             "India Spend"
           ],
           "what_was_omitted": [
-            "The actual number of relief kits distributed",
-            "Reports of corruption and inefficiency"
+            "the actual growth rate",
+            "the state's ranking in GDP growth and employment"
           ],
-          "data_check": "As per the state government's own report, the total number of relief kits distributed was 8.6 lakh"
+          "data_check": "Data from the Reserve Bank of India (RBI)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative exaggerated the number of relief kits distributed and omitted reports of corruption and inefficiency.",
-          "missing_context": "The state narrative focused solely on the government's achievements, whereas the verified record provided a more balanced view of the issue."
+          "key_gap": "The report by News18 Bangla exaggerated the state's economic growth and development.",
+          "missing_context": "The report failed to mention the state's lagging performance in GDP growth and employment."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Rate",
+        "topic": "Bengal's Education System",
         "state_narrative": {
-          "headline": "West Bengal tops in COVID-19 vaccination rate in the country",
-          "summary": "According to a report on Republic TV on 3 September 2026, West Bengal has the highest COVID-19 vaccination rate in the country, with over 90% of the population fully vaccinated.",
+          "headline": "ABP Ananda: 'Bengal's Education System Flourishes Under TMC's Leadership'",
+          "summary": "According to ABP Ananda, the TMC's leadership has improved Bengal's education system, with the state witnessing significant increase in enrollment and infrastructure development. The report highlights the TMC's initiatives and the state's improved ranking in education development.",
           "sources": [
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal has the highest COVID-19 vaccination rate",
-            "Over 90% of the population is fully vaccinated"
+            "TMC's leadership improved Bengal's education system",
+            "state's improved ranking in education development"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 vaccination rate in West Bengal: A fact-check",
-          "summary": "FactChecker.in reported on 5 September 2026 that while West Bengal has a high vaccination rate, it is not the highest in the country. According to FactChecker.in, the Centre's data shows that some states have higher vaccination rates. FactChecker.in also noted that the state's vaccination rate is not as high as the Centre's reported numbers.",
+          "headline": "Article 14: 'Bengal's Education System: A Reality Check'",
+          "summary": "Article 14 analyzed the data from the National Family Health Survey (NFHS) and found that while Bengal's education system has shown improvement, the enrollment rates are not as high as reported by ABP Ananda. According to the report, the state still lags behind in terms of literacy rates and access to quality education.",
           "sources": [
-            "FactChecker.in"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "The Centre's data on vaccination rates",
-            "Comparison with other states"
+            "the actual enrollment rates",
+            "the state's ranking in literacy rates and access to quality education"
           ],
-          "data_check": "As per the Centre's data, the vaccination rate in West Bengal is 84.6% (as of 1 September 2026)"
+          "data_check": "Data from the National Family Health Survey (NFHS)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state narrative exaggerated the vaccination rate and omitted comparison with other states.",
-          "missing_context": "The state narrative focused solely on the state's achievement, whereas the verified record provided a more nuanced view of the issue."
+          "key_gap": "The report by ABP Ananda slightly exaggerated the state's education development.",
+          "missing_context": "The report failed to mention the state's lagging performance in literacy rates and access to quality education."
         }
       }
     ]
