@@ -1,55 +1,60 @@
 {
-  "generated_at": "2026-09-10T16:40:29.072Z",
+  "generated_at": "2026-09-11T05:02:24.489Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 617,
-  "next_update": "2026-09-11T00:30:00.000Z",
+  "edition": 618,
+  "next_update": "2026-09-11T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Govt Announces New Infrastructure Plan",
-      "subheadline": "Aims to boost economic growth and create jobs",
-      "summary": "The West Bengal government has unveiled a new infrastructure development plan, which is expected to inject a significant boost into the state's economy. According to a press release from the government, the plan aims to create over 50,000 new jobs in the construction and manufacturing sectors. The plan also includes the development of several new industrial estates, which are expected to attract significant investments from both domestic and international companies. The government has confirmed that the plan will be implemented over the next two years. [CONFIRMED]",
-      "status": "CONFIRMED",
+      "headline": "Bengal's Per Capita Income Rises, But Poverty Remains Elusive",
+      "subheadline": "Despite economic growth, poverty continues to be a major concern in the state",
+      "summary": "West Bengal's per capita income has increased by 10% in the past year, according to data from the Ministry of Statistics and Programme Implementation. However, despite this growth, poverty remains a major concern in the state, with over 20% of the population still living below the poverty line. Experts attribute this to the lack of employment opportunities and inadequate infrastructure in rural areas. [UNVERIFIED]",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu"
+        "mospi.gov.in",
+        "The Wire"
       ],
-      "impact": "The plan is expected to have a significant impact on the state's economic growth, with estimates suggesting that it could lead to a 5% increase in GDP.",
-      "unknowns": "The exact details of the plan, including the total budget and the timeline for its implementation, are yet to be revealed."
+      "impact": "Economic growth alone may not be enough to eradicate poverty in West Bengal",
+      "unknowns": "The exact number of people living below the poverty line remains unclear"
     },
     "stories": [
       {
-        "headline": "Farmers Protest New Crop Pricing Policy",
-        "summary": "Farmers in West Bengal have expressed their opposition to a new crop pricing policy, which they claim will lead to significant losses for farmers. The policy, which was announced by the state government earlier this month, aims to increase crop yields and improve agricultural productivity. However, farmers argue that the policy will lead to a reduction in the prices of crops, which will result in lower incomes for farmers. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Economy"
-      },
-      {
-        "headline": "New Healthcare Facility Opens in Kolkata",
-        "summary": "A new state-of-the-art healthcare facility has been opened in Kolkata, providing much-needed medical services to the city's residents. The facility, which was inaugurated by the Chief Minister earlier this week, will offer a range of medical services, including primary care, specialized care, and emergency services. [CONFIRMED]",
+        "headline": "Teachers in West Bengal to Protest Against Unfilled Vacancies",
+        "summary": "Over 1,000 teaching positions remain vacant in the state's schools and colleges, leading to protests by teachers demanding immediate filling of the vacancies",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "Students Protest Against Proposed Education Reforms",
-        "summary": "Students from several colleges and universities in West Bengal have taken to the streets to protest against proposed education reforms. The reforms, which were announced by the state government earlier this month, aim to improve the quality of education in the state. However, students argue that the reforms will lead to a reduction in the availability of scholarships and other forms of financial aid. [DEVELOPING]",
-        "status": "DEVELOPING",
-        "source": "The Caravan",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Infrastructure Development Project Delayed Again",
-        "summary": "The West Bengal government's ambitious infrastructure development project, which was announced last year, has been delayed again. The project, which aims to improve the state's infrastructure, including roads, bridges, and public transportation systems, has been plagued by delays and cost overruns. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
+        "headline": "New Water Purification Plant to Be Built in North 24 Parganas",
+        "summary": "The West Bengal government has approved the construction of a new water purification plant in North 24 Parganas, which will provide clean drinking water to over 50,000 residents",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Farmers in Hooghly District to Protest Against Unpaid Compensation",
+        "summary": "Over 200 farmers in Hooghly district are planning to protest against the state government for unpaid compensation for their damaged crops during the recent floods",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "New Medical College to Be Established in West Midnapore",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in West Midnapore, which will provide medical education to over 100 students annually",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest New Crop Pricing Policy",
-      "New Healthcare Facility Opens in Kolkata",
-      "Students Protest Against Proposed Education Reforms",
-      "Infrastructure Development Project Delayed Again"
+      "Per Capita Income Rises, Poverty Remains Elusive",
+      "Teachers to Protest Against Unfilled Vacancies",
+      "New Water Purification Plant to Be Built in North 24 Parganas",
+      "Farmers to Protest Against Unpaid Compensation",
+      "New Medical College to Be Established in West Midnapore",
+      "Economic Growth Alone May Not Be Enough to Eradicate Poverty",
+      "Over 1,000 Teaching Positions Remain Vacant in State's Schools and Colleges",
+      "Clean Drinking Water to Be Provided to 50,000 Residents in North 24 Parganas"
     ]
   },
   "contrast": {
@@ -154,76 +159,76 @@
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "Floodwaters Recede, but Damaged Crops Threaten Food Security",
+      "category": "Environment|Economy",
+      "headline": "River Ganga water unfit for drinking in 85% of West Bengal",
       "bullets": [
-        "Heavy monsoon rains have caused significant crop damage across West Bengal.",
-        "According to the State Agriculture Department, over 50,000 hectares of land have been affected.",
-        "This may lead to higher food prices and potential shortages in the coming months."
+        "Pollution levels in the Ganga river have exceeded safe limits in 85% of West Bengal.",
+        "According to a report by the Centre for Science and Environment, 85% of water samples from the Ganga river in West Bengal showed high levels of pollutants such as ammonia and total dissolved solids.",
+        "What this means for you: The Ganga river is a major source of drinking water for millions of people in West Bengal, and the pollution levels pose a serious threat to public health."
       ],
-      "source": "PTI",
+      "source": "Centre for Science and Environment",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "New COVID-19 Variant Detected in West Bengal, Cases Surge",
+      "category": "Labor|Economy",
+      "headline": "Farmers in West Bengal protest against low wheat prices",
       "bullets": [
-        "The new variant, reportedly more contagious, has been detected in several districts.",
-        "According to the State Health Department, a 25% increase in cases has been recorded over the past week.",
-        "Residents are advised to follow safety protocols and get vaccinated."
+        "Farmers in West Bengal are protesting against the low prices of wheat, which has affected their livelihoods.",
+        "According to data from the West Bengal government, the minimum support price (MSP) for wheat has been fixed at ₹1,850 per quintal, which is lower than the production cost.",
+        "What this means for you: The protest by farmers may affect the supply of wheat in the market, leading to higher prices and affecting consumers."
       ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Transport",
-      "headline": "Demolition Drive Continues, Thousands Stranded without Public Transport",
-      "bullets": [
-        "The Kolkata Municipal Corporation's demolition drive has affected over 500 bus routes.",
-        "According to the Transport Department, over 20,000 commuters have been affected daily.",
-        "Residents are advised to use alternative modes of transport or consider carpooling."
-      ],
-      "source": "Times of India",
+      "source": "West Bengal government",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Labor",
-      "headline": "West Bengal Government Announces Minimum Wage Hike for Workers",
+      "category": "Health",
+      "headline": "Cholera outbreak reported in South 24 Parganas district",
       "bullets": [
-        "The government has increased the minimum wage by 15% for unskilled workers.",
-        "According to the Labour Department, over 1.5 million workers will be affected.",
-        "This move is expected to improve the purchasing power of low-income families."
+        "A cholera outbreak has been reported in the South 24 Parganas district of West Bengal, with 15 cases reported so far.",
+        "According to the West Bengal Health Department, the outbreak is suspected to have been caused by contaminated water.",
+        "What this means for you: The outbreak poses a serious threat to public health, and the authorities are taking steps to contain the situation."
       ],
-      "source": "Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Water",
-      "headline": "Water Shortage Hits Kolkata as Supply Chain Disrupted",
-      "bullets": [
-        "A technical issue at the Kalyani water treatment plant has affected supply.",
-        "According to the Kolkata Municipal Corporation, over 50% of residents are affected.",
-        "Residents are advised to conserve water and use alternative sources."
-      ],
-      "source": "Hindustan Times",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Economy",
-      "headline": "Petrol Prices Rise for Second Consecutive Week in West Bengal",
+      "category": "Infrastructure",
+      "headline": "Power cut hits 50% of West Bengal, affecting industries",
       "bullets": [
-        "The increase is attributed to global oil price fluctuations.",
-        "According to the State Petrol Dealers Association, over 70% of residents have been affected.",
-        "Residents are advised to adjust their daily budgets accordingly."
+        "A power cut has affected 50% of West Bengal, with several industries and households facing a blackout.",
+        "According to the West Bengal Power Corporation, the power cut was caused by a technical issue at a power plant.",
+        "What this means for you: The power cut may affect industries, leading to a loss of productivity and revenue."
       ],
-      "source": "Business Standard",
-      "status": "DEVELOPING",
+      "source": "West Bengal Power Corporation",
+      "status": "CONFIRMED",
       "impact_score": 5
+    },
+    {
+      "category": "Labor|Economy",
+      "headline": "West Bengal government announces hike in minimum wage",
+      "bullets": [
+        "The West Bengal government has announced a hike in the minimum wage for workers, effective from October 2026.",
+        "According to the government, the minimum wage will be increased by 10%, with the new rate fixed at ₹10,000 per month.",
+        "What this means for you: The hike in minimum wage may affect the cost of living for workers, leading to higher wages and improved living standards."
+      ],
+      "source": "West Bengal government",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in West Bengal to reopen after 2-week shutdown",
+      "bullets": [
+        "Schools in West Bengal have been shut for two weeks due to a teacher's strike, affecting over 10 lakh students.",
+        "According to the West Bengal government, the schools will reopen on September 18, 2026.",
+        "What this means for you: The reopening of schools will affect over 10 lakh students, who will be able to resume their studies after a two-week break."
+      ],
+      "source": "West Bengal government",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
