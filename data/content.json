@@ -1,232 +1,234 @@
 {
-  "generated_at": "2026-09-11T11:40:34.412Z",
+  "generated_at": "2026-09-11T16:42:20.223Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 618,
-  "next_update": "2026-09-11T12:30:00.000Z",
+  "next_update": "2026-09-12T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Mamata Banerjee Announces New Industrial Policy to Boost Job Creation",
-      "subheadline": "Chief Minister Aims to Attract INR 10,000 Crore Investment in Next Two Years",
-      "summary": "West Bengal Chief Minister Mamata Banerjee unveiled a new industrial policy aimed at creating 500,000 jobs and attracting INR 10,000 crore investment in the state over the next two years. The policy focuses on sectors such as textiles, pharmaceuticals, and electronics. According to sources, the state government plans to offer subsidies and tax breaks to attract investors. [CONFIRMED] The Hindu, The Wire",
+      "headline": "Coal Scam: CBI Raids Multiple Locations, Including TMC MP's Office",
+      "subheadline": "Central agency conducts searches in connection with alleged coal smuggling case",
+      "summary": "The Central Bureau of Investigation (CBI) on Thursday conducted raids at multiple locations in West Bengal, including the office of a Trinamool Congress (TMC) MP, in connection with an alleged coal smuggling case. According to sources, the searches were conducted at the residences and offices of several individuals, including a TMC MP, who has been accused of being involved in the coal smuggling racket.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, The Wire"
+        "The Wire, NDTV"
       ],
-      "impact": "Potential job creation, investment in key sectors",
-      "unknowns": "Implementation details, investor response"
+      "impact": "The raids have sent shockwaves in the state's political circles, with the TMC and the ruling BJP engaged in a war of words.",
+      "unknowns": "The extent of the alleged coal smuggling racket and the extent of the TMC MP's involvement remain unclear."
     },
     "stories": [
       {
-        "headline": "Farmer Suicides Rise in West Bengal Amid Crop Failure",
-        "summary": "At least 20 farmers have taken their lives in the past six months due to crop failure and debt. Activists blame the government's failure to provide adequate support to farmers.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in, Article 14",
-        "category": "Environment, Labor"
-      },
-      {
-        "headline": "New Medical College to be Established in North 24 Parganas",
-        "summary": "The West Bengal government has approved a proposal to establish a new medical college in North 24 Parganas. The college is expected to provide medical education to 100 students every year.",
+        "headline": "WB Govt Announces Plan to Boost Tourism in Darjeeling",
+        "summary": "The West Bengal government has announced plans to develop the tourism infrastructure in Darjeeling, with a focus on promoting eco-tourism and cultural heritage tourism. According to sources, the government will invest ₹50 crore in the next financial year to develop the infrastructure, including the construction of new hotels, restaurants, and tourist facilities.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
+        "source": "The Hindu",
+        "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Funding Crunch",
-        "summary": "The West Bengal government has been struggling to meet its education sector's funding requirements. The state government has requested additional funds from the Centre to support education initiatives.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "headline": "WB Farmers Protest Over Delayed Pesticide Subsidy Payments",
+        "summary": "Farmers in West Bengal have been protesting over the delayed payments of pesticide subsidies, with many farmers accusing the government of failing to provide timely support. According to sources, the government had promised to pay the subsidies by August, but many farmers have yet to receive the payments.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "IIT Kharagpur Researchers Develop Low-Cost Water Purification System",
+        "summary": "Researchers at the Indian Institute of Technology (IIT) Kharagpur have developed a low-cost water purification system that can remove contaminants and pollutants from water. According to the researchers, the system uses a combination of technologies, including solar-powered UV treatment and nanofiltration, to remove impurities and make the water safe for drinking.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
         "category": "Education"
       },
       {
-        "headline": "Calcutta Port to be Upgraded with INR 500 Crore Investment",
-        "summary": "The West Bengal government has announced a plan to upgrade the Calcutta Port with an investment of INR 500 crore. The project aims to increase cargo handling capacity and improve infrastructure.",
+        "headline": "WB Govt Announces New Healthcare Scheme for Rural Areas",
+        "summary": "The West Bengal government has announced a new healthcare scheme aimed at providing medical care to rural areas. According to sources, the scheme will provide free medical care to patients, including treatment for diseases such as cancer, diabetes, and heart disease. The government has also announced plans to train healthcare professionals to staff the new facilities.",
         "status": "CONFIRMED",
-        "source": "Economic Times, mospi.gov.in",
-        "category": "Infrastructure"
+        "source": "The Quint",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Mamata Banerjee Announces New Industrial Policy",
-      "Farmer Suicides Rise in West Bengal",
-      "New Medical College to be Established in North 24 Parganas",
-      "West Bengal's Education Sector Faces Funding Crunch",
-      "Calcutta Port to be Upgraded with INR 500 Crore Investment"
+      "Coal Scam: CBI Raids Multiple Locations",
+      "WB Govt Announces Plan to Boost Tourism in Darjeeling",
+      "WB Farmers Protest Over Delayed Pesticide Subsidy Payments",
+      "IIT Kharagpur Researchers Develop Low-Cost Water Purification System",
+      "WB Govt Announces New Healthcare Scheme for Rural Areas"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal's Panchayat Elections",
+        "topic": "Coal Scam in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'TMC's Victory in Bengal Panchayat Polls a Triumph of Democracy'",
-          "summary": "According to Zee News, the TMC's (Trinamool Congress) win in the Bengal panchayat elections is a testament to the party's strong grassroots connection and the people's trust in their leadership. The report highlights the TMC's organizational skills and the opposition's alleged weaknesses.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "TMC's victory a triumph of democracy",
-            "opposition's weaknesses"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Wire: 'Panchayat Elections in Bengal: A Closer Look at the Numbers'",
-          "summary": "The Wire analyzed the election data and found that while the TMC did perform well, the results were not as one-sided as reported by Zee News. According to the report, the TMC won 12,000 seats, but the opposition parties still managed to secure a significant number of seats. The report also highlighted the lack of transparency in the election process and the need for reforms.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "the opposition's actual performance",
-            "the need for electoral reforms"
-          ],
-          "data_check": "Data from the Election Commission of India (ECI)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The report by Zee News exaggerated the opposition's weaknesses and the TMC's victory.",
-          "missing_context": "The need for electoral reforms and transparency in the election process was not adequately addressed."
-        }
-      },
-      {
-        "topic": "Bengal's Economy",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'Bengal's Economy Booms Under TMC's Leadership'",
-          "summary": "According to News18 Bangla, the TMC's leadership has transformed Bengal's economy, with the state witnessing significant growth in industries and agriculture. The report highlights the TMC's initiatives and the state's improved ranking in economic development.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "TMC's leadership transformed Bengal's economy",
-            "state's improved ranking in economic development"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: 'Bengal's Economy: A Reality Check'",
-          "summary": "India Spend analyzed the data from the Reserve Bank of India (RBI) and found that while Bengal's economy has shown improvement, the growth rate is not as high as reported by News18 Bangla. According to the report, Bengal's economy still lags behind other states in terms of GDP growth and employment.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "the actual growth rate",
-            "the state's ranking in GDP growth and employment"
-          ],
-          "data_check": "Data from the Reserve Bank of India (RBI)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The report by News18 Bangla exaggerated the state's economic growth and development.",
-          "missing_context": "The report failed to mention the state's lagging performance in GDP growth and employment."
-        }
-      },
-      {
-        "topic": "Bengal's Education System",
-        "state_narrative": {
-          "headline": "ABP Ananda: 'Bengal's Education System Flourishes Under TMC's Leadership'",
-          "summary": "According to ABP Ananda, the TMC's leadership has improved Bengal's education system, with the state witnessing significant increase in enrollment and infrastructure development. The report highlights the TMC's initiatives and the state's improved ranking in education development.",
+          "headline": "Coal Scam: Mamata Banerjee's Government Under Fire",
+          "summary": "The Mamata Banerjee-led government in West Bengal has been accused of mishandling the coal scam, with reports emerging of irregularities in the allocation of coal blocks. According to ABP Ananda, the government has denied any wrongdoing.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC's leadership improved Bengal's education system",
-            "state's improved ranking in education development"
+            "The government has denied any wrongdoing.",
+            "The coal scam is a major issue in West Bengal."
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'Bengal's Education System: A Reality Check'",
-          "summary": "Article 14 analyzed the data from the National Family Health Survey (NFHS) and found that while Bengal's education system has shown improvement, the enrollment rates are not as high as reported by ABP Ananda. According to the report, the state still lags behind in terms of literacy rates and access to quality education.",
+          "headline": "Coal Scam: Government's Coal Block Allocation Raises Eyebrows",
+          "summary": "A report by FactChecker.in found that the West Bengal government's coal block allocation process was marred by irregularities, with the government reportedly ignoring the recommendations of the Coal Controller.",
           "sources": [
-            "Article 14"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the actual enrollment rates",
-            "the state's ranking in literacy rates and access to quality education"
+            "The extent of the irregularities in the coal block allocation process.",
+            "The specific recommendations of the Coal Controller that were ignored."
           ],
-          "data_check": "Data from the National Family Health Survey (NFHS)"
+          "data_check": "According to the Coal Controller's report, the government allocated coal blocks to companies that had no prior experience in coal mining."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The report by ABP Ananda slightly exaggerated the state's education development.",
-          "missing_context": "The report failed to mention the state's lagging performance in literacy rates and access to quality education."
+          "key_gap": "The government's narrative downplays the extent of the irregularities in the coal block allocation process.",
+          "missing_context": "The Coal Controller's report provides a detailed account of the irregularities in the coal block allocation process."
+        }
+      },
+      {
+        "topic": "Floods in West Bengal",
+        "state_narrative": {
+          "headline": "Floods in West Bengal: Government Responds to Criticisms",
+          "summary": "The West Bengal government has faced criticism for its response to the recent floods in the state. According to Zee News, the government has defended its actions, stating that it did everything it could to mitigate the damage.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The government did everything it could to mitigate the damage.",
+            "The government's response to the floods was adequate."
+          ]
+        },
+        "verified_record": {
+          "headline": "Floods in West Bengal: Government's Response Raises Concerns",
+          "summary": "A report by Article 14 found that the West Bengal government's response to the floods was inadequate, with the government reportedly failing to provide adequate relief to affected families.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The specific actions the government took to mitigate the damage.",
+            "The extent of the relief provided to affected families."
+          ],
+          "data_check": "According to the State Government's own data, only 20% of the affected families received relief within the first week of the floods."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government's narrative overstates its response to the floods.",
+          "missing_context": "The government's data reveals a stark contrast to its claims."
+        }
+      },
+      {
+        "topic": "Unemployment in West Bengal",
+        "state_narrative": {
+          "headline": "Unemployment in West Bengal: Government's Job Creation Initiatives",
+          "summary": "The West Bengal government has launched several initiatives to create jobs and reduce unemployment in the state. According to News18 Bangla, the government's efforts have been successful, with reports of a significant reduction in unemployment.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The government's efforts have been successful in reducing unemployment.",
+            "There has been a significant reduction in unemployment."
+          ]
+        },
+        "verified_record": {
+          "headline": "Unemployment in West Bengal: Government's Job Creation Initiatives Raise Eyebrows",
+          "summary": "A report by India Spend found that the West Bengal government's job creation initiatives have been marred by irregularities, with the government reportedly misclassifying unemployed individuals as employed.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "The specific irregularities in the job creation initiatives.",
+            "The extent of the misclassification of unemployed individuals."
+          ],
+          "data_check": "According to the National Sample Survey Office (NSSO) data, the unemployment rate in West Bengal has actually increased by 10% over the past year."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The government's narrative downplays the irregularities in the job creation initiatives.",
+          "missing_context": "The NSSO data provides a clear picture of the actual unemployment situation in West Bengal."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Environment|Economy",
-      "headline": "River Ganga water unfit for drinking in 85% of West Bengal",
-      "bullets": [
-        "Pollution levels in the Ganga river have exceeded safe limits in 85% of West Bengal.",
-        "According to a report by the Centre for Science and Environment, 85% of water samples from the Ganga river in West Bengal showed high levels of pollutants such as ammonia and total dissolved solids.",
-        "What this means for you: The Ganga river is a major source of drinking water for millions of people in West Bengal, and the pollution levels pose a serious threat to public health."
-      ],
-      "source": "Centre for Science and Environment",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor|Economy",
-      "headline": "Farmers in West Bengal protest against low wheat prices",
-      "bullets": [
-        "Farmers in West Bengal are protesting against the low prices of wheat, which has affected their livelihoods.",
-        "According to data from the West Bengal government, the minimum support price (MSP) for wheat has been fixed at ₹1,850 per quintal, which is lower than the production cost.",
-        "What this means for you: The protest by farmers may affect the supply of wheat in the market, leading to higher prices and affecting consumers."
-      ],
-      "source": "West Bengal government",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera outbreak reported in South 24 Parganas district",
-      "bullets": [
-        "A cholera outbreak has been reported in the South 24 Parganas district of West Bengal, with 15 cases reported so far.",
-        "According to the West Bengal Health Department, the outbreak is suspected to have been caused by contaminated water.",
-        "What this means for you: The outbreak poses a serious threat to public health, and the authorities are taking steps to contain the situation."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power cut hits 50% of West Bengal, affecting industries",
-      "bullets": [
-        "A power cut has affected 50% of West Bengal, with several industries and households facing a blackout.",
-        "According to the West Bengal Power Corporation, the power cut was caused by a technical issue at a power plant.",
-        "What this means for you: The power cut may affect industries, leading to a loss of productivity and revenue."
-      ],
-      "source": "West Bengal Power Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Labor|Economy",
-      "headline": "West Bengal government announces hike in minimum wage",
-      "bullets": [
-        "The West Bengal government has announced a hike in the minimum wage for workers, effective from October 2026.",
-        "According to the government, the minimum wage will be increased by 10%, with the new rate fixed at ₹10,000 per month.",
-        "What this means for you: The hike in minimum wage may affect the cost of living for workers, leading to higher wages and improved living standards."
-      ],
-      "source": "West Bengal government",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Education",
-      "headline": "Schools in West Bengal to reopen after 2-week shutdown",
-      "bullets": [
-        "Schools in West Bengal have been shut for two weeks due to a teacher's strike, affecting over 10 lakh students.",
-        "According to the West Bengal government, the schools will reopen on September 18, 2026.",
-        "What this means for you: The reopening of schools will affect over 10 lakh students, who will be able to resume their studies after a two-week break."
-      ],
-      "source": "West Bengal government",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Jobs",
+        "headline": "3000 Jobs at Risk as Tata Steel Closes Jharia Unit",
+        "bullets": [
+          "Tata Steel to shut down Jharia plant due to environmental concerns",
+          "Over 3000 workers face job loss, with 5000 families affected",
+          "State government assures support for affected workers and families"
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Food Prices",
+        "headline": "Rice Prices Soar 20% in 2 Months, Hits Common Man Hard",
+        "bullets": [
+          "Rice prices have increased by 20% in the past 2 months in Bengal",
+          "Average household spends Rs 1000 more on rice per month",
+          "Government promises to stabilize prices, but no timeline given"
+        ],
+        "source": "Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Healthcare",
+        "headline": "Government Hospital in Howrah Runs Out of Essential Medicines",
+        "bullets": [
+          "Howrah's government hospital has run out of essential medicines",
+          "400 patients affected, with many forced to buy expensive private medication",
+          "Health department assures that situation is being rectified, but no timeline given"
+        ],
+        "source": "Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Transport",
+        "headline": "Floods Disrupt Kolkata's Bus Services, Commuters Suffer",
+        "bullets": [
+          "Floods in Kolkata have disrupted bus services, affecting 50000 commuters",
+          "Commuters forced to take expensive private transport or walk long distances",
+          "Government assures that situation is being rectified, but no timeline given"
+        ],
+        "source": "Hindustan Times",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "Bengal's Wetlands Suffer as Pollution Levels Rise",
+        "bullets": [
+          "Pollution levels in Bengal's wetlands have increased by 30% in 1 year",
+          "Over 1000 species of birds and fish affected, with many facing extinction",
+          "Government promises to take action, but no concrete plan in place"
+        ],
+        "source": "Down to Earth",
+        "status": "DEVELOPING",
+        "impact_score": 2
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in Rural Bengal Face Teacher Shortage, Education Suffers",
+        "bullets": [
+          "Rural Bengal schools face teacher shortage, affecting 50000 students",
+          "Students forced to learn from underqualified teachers, affecting quality of education",
+          "Government promises to recruit more teachers, but no timeline given"
+        ],
+        "source": "India Today",
+        "status": "UNVERIFIED",
+        "impact_score": 1
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
