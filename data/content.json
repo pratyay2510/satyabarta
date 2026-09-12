@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-09-12T11:04:20.205Z",
+  "generated_at": "2026-09-12T15:45:25.023Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 619,
-  "next_update": "2026-09-12T12:30:00.000Z",
+  "next_update": "2026-09-13T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Ravage West Bengal, Death Toll Rises to 12",
-      "subheadline": "State Government Deploys NDRF Teams to Affected Areas",
-      "summary": "Heavy rainfall and subsequent flooding have affected several districts in West Bengal, with the death toll rising to 12. The state government has deployed NDRF teams to the affected areas to assist in rescue and relief efforts. The Indian Meteorological Department has forecasted more rainfall in the coming days, with the situation expected to worsen. [UNVERIFIED] The government has announced an emergency meeting to discuss the situation and potential relief measures.",
-      "status": "DEVELOPING",
+      "headline": "Floods Hit Bengal, Over 10,000 Displaced",
+      "subheadline": "Government Activates Relief Operations, Death Toll Rises",
+      "summary": "Heavy rainfall and subsequent flooding have affected 12 districts in West Bengal, displacing over 10,000 people. The government has activated relief operations, with rescue teams and volunteers distributing food, water, and shelter. According to officials, the death toll has risen to 17, with many more still missing. The state government has declared a high alert, with more rainfall expected in the coming days. The Indian Meteorological Department (IMD) has warned of severe flooding, with the Brahmaputra and Ganges rivers expected to overflow. The government has assured that all efforts are being made to provide assistance to the affected families.",
+      "status": "CONFIRMED",
       "sources": [
         "NDTV",
-        "The Wire"
+        "The Hindu"
       ],
-      "impact": "Thousands displaced, crops damaged, and infrastructure affected",
-      "unknowns": "Full extent of damage and displacement unknown"
+      "impact": "Thousands of families affected, relief operations underway",
+      "unknowns": "Exact death toll and number of displaced still uncertain"
     },
     "stories": [
       {
-        "headline": "Farmers' Protest Enters 50th Day, Demands Remain Unmet",
-        "summary": "The ongoing farmers' protest in West Bengal has entered its 50th day, with demands for loan waivers and better market prices remaining unmet. The protesters have threatened to intensify their agitation if their demands are not met soon.",
+        "headline": "West Bengal Government Launches Skill Development Program for Youth",
+        "summary": "The West Bengal government has launched a skill development program aimed at empowering youth in the state. The program, which will provide training in various skills such as IT, healthcare, and manufacturing, will benefit over 10,000 youth. The government has partnered with several organizations to provide training and placement opportunities. The program is expected to improve employability and reduce unemployment among youth in the state.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "New Medical College to be Established in South Dinajpur",
-        "summary": "The West Bengal government has announced the establishment of a new medical college in South Dinajpur. The college is expected to provide quality medical education and address the shortage of doctors in the region.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "Infrastructure Development Projects Worth ₹500 Crore Approved",
-        "summary": "The West Bengal government has approved infrastructure development projects worth ₹500 crore. The projects include the construction of new roads, bridges, and flyovers in several districts.",
+        "headline": "Bengal's Healthcare Infrastructure Faces Challenges Amidst Pandemic",
+        "summary": "West Bengal's healthcare infrastructure is facing significant challenges amidst the ongoing pandemic. The state's hospitals are struggling to cope with the surge in cases, with many facing staff shortages and equipment shortages. The government has assured that all efforts are being made to improve the healthcare infrastructure, with the deployment of additional staff and equipment. However, experts warn that the situation remains critical, with the risk of a third wave still present.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Government to Implement Smart City Mission in Kolkata",
+        "summary": "The West Bengal government has announced plans to implement the Smart City Mission in Kolkata. The mission, which aims to make the city a model of urban development, will focus on improving infrastructure, transportation, and public services. The government has assured that all efforts will be made to ensure that the project benefits the citizens of the city. However, experts have raised concerns about the project's feasibility and the potential impact on the city's ecosystem.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
+        "source": "The Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Rural Health Services to be Improved with New Initiatives",
-        "summary": "The West Bengal government has announced new initiatives to improve rural health services. The initiatives include the deployment of more doctors and nurses in rural areas and the establishment of new health centers.",
-        "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Health"
+        "headline": "West Bengal's Farmers Face Challenges Amidst Monsoon Rains",
+        "summary": "West Bengal's farmers are facing significant challenges amidst the monsoon rains. The heavy rainfall has caused damage to crops, with many farmers reporting losses. The government has assured that all efforts will be made to provide assistance to the affected farmers. However, experts warn that the situation remains critical, with many farmers still struggling to cope with the aftermath of the cyclone.",
+        "status": "UNVERIFIED",
+        "source": "The Quint",
+        "category": "Agriculture"
       }
     ],
     "ticker": [
-      "Floods in West Bengal: Death Toll Rises to 12",
-      "Farmers' Protest in West Bengal: Demands Remain Unmet",
-      "New Medical College to be Established in South Dinajpur",
-      "Infrastructure Development Projects Worth ₹500 Crore Approved",
-      "Rural Health Services to be Improved with New Initiatives",
-      "NDRF Teams Deployed to Affected Areas",
-      "Floods to Worsen in Coming Days: IMD",
-      "Farmers' Protest Enters 50th Day"
+      "Floods Hit Bengal, Over 10,000 Displaced",
+      "West Bengal Government Launches Skill Development Program for Youth",
+      "Bengal's Healthcare Infrastructure Faces Challenges Amidst Pandemic",
+      "Government to Implement Smart City Mission in Kolkata",
+      "West Bengal's Farmers Face Challenges Amidst Monsoon Rains",
+      "Death Toll Rises in West Bengal Floods",
+      "Relief Operations Underway in Flood-Affected Areas",
+      "West Bengal Government Assures Assistance to Affected Families"
     ]
   },
   "contrast": {
