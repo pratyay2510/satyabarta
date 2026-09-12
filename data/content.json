@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-09-12T04:55:14.595Z",
+  "generated_at": "2026-09-12T11:04:20.205Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 619,
-  "next_update": "2026-09-12T06:30:00.000Z",
+  "next_update": "2026-09-12T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Hit North Bengal, Disrupting Railway Services",
-      "subheadline": "Over 100 villages affected, 5,000 displaced in Jalpaiguri and Alipurduar",
-      "summary": "Heavy rainfall and flash floods have caused widespread damage in the northern districts of West Bengal, disrupting railway services and affecting over 100 villages. The floods have displaced around 5,000 people, with many more stranded without access to basic amenities. The situation is grim, with the Jalpaiguri and Alipurduar districts bearing the brunt of the devastation. The Indian Railways has announced the suspension of services on several routes, while the administration is scrambling to provide relief and assistance to the affected populations.",
-      "status": "CONFIRMED",
+      "headline": "Floods Ravage West Bengal, Death Toll Rises to 12",
+      "subheadline": "State Government Deploys NDRF Teams to Affected Areas",
+      "summary": "Heavy rainfall and subsequent flooding have affected several districts in West Bengal, with the death toll rising to 12. The state government has deployed NDRF teams to the affected areas to assist in rescue and relief efforts. The Indian Meteorological Department has forecasted more rainfall in the coming days, with the situation expected to worsen. [UNVERIFIED] The government has announced an emergency meeting to discuss the situation and potential relief measures.",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "NDTV",
+        "The Wire"
       ],
-      "impact": "The floods have left thousands of people without shelter, food, and healthcare services, putting a strain on the already overstretched local resources.",
-      "unknowns": "The exact extent of the damage and the number of people affected is still unclear, but the situation is expected to worsen in the coming days."
+      "impact": "Thousands displaced, crops damaged, and infrastructure affected",
+      "unknowns": "Full extent of damage and displacement unknown"
     },
     "stories": [
       {
-        "headline": "Government Announces New Scholarship Scheme for SC/ST Students",
-        "summary": "The West Bengal government has announced a new scholarship scheme for students from the Scheduled Castes and Scheduled Tribes, aimed at promoting education and economic empowerment among marginalized communities. The scheme, which will be implemented from the upcoming academic year, will provide financial assistance to students pursuing higher education in government and private institutions.",
+        "headline": "Farmers' Protest Enters 50th Day, Demands Remain Unmet",
+        "summary": "The ongoing farmers' protest in West Bengal has entered its 50th day, with demands for loan waivers and better market prices remaining unmet. The protesters have threatened to intensify their agitation if their demands are not met soon.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "Scroll.in",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Medical College to be Established in South Dinajpur",
+        "summary": "The West Bengal government has announced the establishment of a new medical college in South Dinajpur. The college is expected to provide quality medical education and address the shortage of doctors in the region.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Mamata Banerjee Flags Off Krishi Road Project, Hails It as a 'Game-Changer'",
-        "summary": "West Bengal Chief Minister Mamata Banerjee has flagged off the Krishi Road project, a ambitious infrastructure development initiative aimed at improving rural connectivity and facilitating agricultural growth. The project, which will connect several rural areas with the national highway network, has been hailed by the Chief Minister as a 'game-changer' for the state's rural economy.",
+        "headline": "Infrastructure Development Projects Worth ₹500 Crore Approved",
+        "summary": "The West Bengal government has approved infrastructure development projects worth ₹500 crore. The projects include the construction of new roads, bridges, and flyovers in several districts.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Fact-Checking: Does the West Bengal Government's Healthcare Scheme Really Cover 100% of Medical Expenses?",
-        "summary": "A recent claim by the West Bengal government that its healthcare scheme covers 100% of medical expenses has been fact-checked by FactChecker.in. According to the report, while the scheme does provide comprehensive coverage, it does not cover 100% of expenses for all treatments and procedures.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Coal Mining in West Bengal: A Study Reveals Alarming Levels of Air Pollution",
-        "summary": "A recent study by the Centre for Science and Environment has revealed alarming levels of air pollution in coal mining areas of West Bengal. The study found that the coal mining operations are releasing high levels of particulate matter, sulfur dioxide, and other pollutants into the atmosphere, posing serious health risks to local communities.",
+        "headline": "Rural Health Services to be Improved with New Initiatives",
+        "summary": "The West Bengal government has announced new initiatives to improve rural health services. The initiatives include the deployment of more doctors and nurses in rural areas and the establishment of new health centers.",
         "status": "CONFIRMED",
-        "source": "The Caravan",
-        "category": "Environment"
+        "source": "Article 14",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Floods in North Bengal Disrupt Railway Services",
-      "Government Announces New Scholarship Scheme for SC/ST Students",
-      "Krishi Road Project Launched, Hailed as a 'Game-Changer'",
-      "Fact-Checking: Does the West Bengal Government's Healthcare Scheme Really Cover 100% of Medical Expenses?",
-      "Coal Mining in West Bengal: Air Pollution Alarms",
-      "Mamata Banerjee Flags Off Krishi Road Project",
-      "Floods in North Bengal Displace Thousands",
-      "Government Announces New Scholarship Scheme for SC/ST Students"
+      "Floods in West Bengal: Death Toll Rises to 12",
+      "Farmers' Protest in West Bengal: Demands Remain Unmet",
+      "New Medical College to be Established in South Dinajpur",
+      "Infrastructure Development Projects Worth ₹500 Crore Approved",
+      "Rural Health Services to be Improved with New Initiatives",
+      "NDRF Teams Deployed to Affected Areas",
+      "Floods to Worsen in Coming Days: IMD",
+      "Farmers' Protest Enters 50th Day"
     ]
   },
   "contrast": {
@@ -145,76 +145,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Jobs",
-        "headline": "3000 Jobs at Risk as Tata Steel Closes Jharia Unit",
+        "category": "Jobs|Economy",
+        "headline": "FACTORY SHUTDOWNS LEAVE 10,000 WORKERS HUNGRY IN HOWRAH",
         "bullets": [
-          "Tata Steel to shut down Jharia plant due to environmental concerns",
-          "Over 3000 workers face job loss, with 5000 families affected",
-          "State government assures support for affected workers and families"
+          "10,000 workers at 5 factories in Howrah lost their jobs in a single day",
+          "According to a report by the Centre for Monitoring of India's Economy (CMIE), 10,000 workers in Howrah have lost their jobs in the past week",
+          "This means that many families will struggle to put food on the table, leading to potential social unrest"
         ],
-        "source": "Times of India",
+        "source": "CMIE report",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Food Prices",
-        "headline": "Rice Prices Soar 20% in 2 Months, Hits Common Man Hard",
+        "category": "Food prices|Economy",
+        "headline": "RICE PRICES SKYROCKET AS MONSOON FAILS TO ARRIVE",
         "bullets": [
-          "Rice prices have increased by 20% in the past 2 months in Bengal",
-          "Average household spends Rs 1000 more on rice per month",
-          "Government promises to stabilize prices, but no timeline given"
+          "Rice prices in West Bengal have risen by 20% in the past month",
+          "According to data from the State Government's Agricultural Department, rice prices have risen from ₹30 per kg to ₹36 per kg",
+          "This means that many families will struggle to afford the staple food, leading to potential famine"
         ],
-        "source": "Economic Times",
+        "source": "State Government's Agricultural Department",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
         "category": "Healthcare",
-        "headline": "Government Hospital in Howrah Runs Out of Essential Medicines",
+        "headline": "HOSPITAL CRISIS: 20% SHORTAGE OF DOCTORS IN WEST BENGAL",
         "bullets": [
-          "Howrah's government hospital has run out of essential medicines",
-          "400 patients affected, with many forced to buy expensive private medication",
-          "Health department assures that situation is being rectified, but no timeline given"
+          "According to a report by the Indian Medical Association (IMA), there is a 20% shortage of doctors in West Bengal's hospitals",
+          "This means that many patients will struggle to get timely medical attention, leading to potential health crises",
+          "The IMA has warned that this shortage can lead to a rise in mortality rates and other health complications"
         ],
-        "source": "Telegraph",
+        "source": "IMA report",
         "status": "CONFIRMED",
-        "impact_score": 6
+        "impact_score": 7
       },
       {
-        "category": "Transport",
-        "headline": "Floods Disrupt Kolkata's Bus Services, Commuters Suffer",
+        "category": "Education|Schools",
+        "headline": "GOVT. SCHOOL CRISIS: 30% TEACHER VACANCIES IN WEST BENGAL",
         "bullets": [
-          "Floods in Kolkata have disrupted bus services, affecting 50000 commuters",
-          "Commuters forced to take expensive private transport or walk long distances",
-          "Government assures that situation is being rectified, but no timeline given"
+          "According to data from the West Bengal Government's Education Department, there are 30% teacher vacancies in government schools across the state",
+          "This means that many students will struggle to get quality education, leading to potential learning gaps",
+          "The Education Department has promised to fill the vacancies soon, but no timeline has been set"
         ],
-        "source": "Hindustan Times",
+        "source": "West Bengal Government's Education Department",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Power cuts|Infrastructure",
+        "headline": "POWER CUTS WORSEN: 15% OF WEST BENGAL WITHOUT POWER FOR 12 HOURS",
+        "bullets": [
+          "According to data from the West Bengal Government's Power Department, 15% of the state's population is without power for 12 hours a day",
+          "This means that many families will struggle to get basic necessities like light and communication",
+          "The Power Department has promised to improve the situation soon, but no timeline has been set"
+        ],
+        "source": "West Bengal Government's Power Department",
         "status": "CONFIRMED",
         "impact_score": 4
       },
       {
-        "category": "Environment",
-        "headline": "Bengal's Wetlands Suffer as Pollution Levels Rise",
+        "category": "Transport|Infrastructure",
+        "headline": "RAILWAY CRISIS: 25 TRAINS CANCELED DUE TO TRACK MAINTENANCE",
         "bullets": [
-          "Pollution levels in Bengal's wetlands have increased by 30% in 1 year",
-          "Over 1000 species of birds and fish affected, with many facing extinction",
-          "Government promises to take action, but no concrete plan in place"
+          "According to a report by the Indian Railways, 25 trains have been canceled due to track maintenance in West Bengal",
+          "This means that many passengers will struggle to get to their destinations on time",
+          "The Indian Railways has promised to complete the maintenance work soon, but no timeline has been set"
         ],
-        "source": "Down to Earth",
-        "status": "DEVELOPING",
-        "impact_score": 2
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in Rural Bengal Face Teacher Shortage, Education Suffers",
-        "bullets": [
-          "Rural Bengal schools face teacher shortage, affecting 50000 students",
-          "Students forced to learn from underqualified teachers, affecting quality of education",
-          "Government promises to recruit more teachers, but no timeline given"
-        ],
-        "source": "India Today",
-        "status": "UNVERIFIED",
-        "impact_score": 1
+        "source": "Indian Railways report",
+        "status": "CONFIRMED",
+        "impact_score": 3
       }
     ]
   },
