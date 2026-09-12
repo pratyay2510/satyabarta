@@ -1,154 +1,143 @@
 {
-  "generated_at": "2026-09-11T16:42:20.223Z",
+  "generated_at": "2026-09-12T04:55:14.595Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 618,
-  "next_update": "2026-09-12T00:30:00.000Z",
+  "edition": 619,
+  "next_update": "2026-09-12T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Coal Scam: CBI Raids Multiple Locations, Including TMC MP's Office",
-      "subheadline": "Central agency conducts searches in connection with alleged coal smuggling case",
-      "summary": "The Central Bureau of Investigation (CBI) on Thursday conducted raids at multiple locations in West Bengal, including the office of a Trinamool Congress (TMC) MP, in connection with an alleged coal smuggling case. According to sources, the searches were conducted at the residences and offices of several individuals, including a TMC MP, who has been accused of being involved in the coal smuggling racket.",
+      "headline": "Floods Hit North Bengal, Disrupting Railway Services",
+      "subheadline": "Over 100 villages affected, 5,000 displaced in Jalpaiguri and Alipurduar",
+      "summary": "Heavy rainfall and flash floods have caused widespread damage in the northern districts of West Bengal, disrupting railway services and affecting over 100 villages. The floods have displaced around 5,000 people, with many more stranded without access to basic amenities. The situation is grim, with the Jalpaiguri and Alipurduar districts bearing the brunt of the devastation. The Indian Railways has announced the suspension of services on several routes, while the administration is scrambling to provide relief and assistance to the affected populations.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, NDTV"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "The raids have sent shockwaves in the state's political circles, with the TMC and the ruling BJP engaged in a war of words.",
-      "unknowns": "The extent of the alleged coal smuggling racket and the extent of the TMC MP's involvement remain unclear."
+      "impact": "The floods have left thousands of people without shelter, food, and healthcare services, putting a strain on the already overstretched local resources.",
+      "unknowns": "The exact extent of the damage and the number of people affected is still unclear, but the situation is expected to worsen in the coming days."
     },
     "stories": [
       {
-        "headline": "WB Govt Announces Plan to Boost Tourism in Darjeeling",
-        "summary": "The West Bengal government has announced plans to develop the tourism infrastructure in Darjeeling, with a focus on promoting eco-tourism and cultural heritage tourism. According to sources, the government will invest ₹50 crore in the next financial year to develop the infrastructure, including the construction of new hotels, restaurants, and tourist facilities.",
+        "headline": "Government Announces New Scholarship Scheme for SC/ST Students",
+        "summary": "The West Bengal government has announced a new scholarship scheme for students from the Scheduled Castes and Scheduled Tribes, aimed at promoting education and economic empowerment among marginalized communities. The scheme, which will be implemented from the upcoming academic year, will provide financial assistance to students pursuing higher education in government and private institutions.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "WB Farmers Protest Over Delayed Pesticide Subsidy Payments",
-        "summary": "Farmers in West Bengal have been protesting over the delayed payments of pesticide subsidies, with many farmers accusing the government of failing to provide timely support. According to sources, the government had promised to pay the subsidies by August, but many farmers have yet to receive the payments.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "IIT Kharagpur Researchers Develop Low-Cost Water Purification System",
-        "summary": "Researchers at the Indian Institute of Technology (IIT) Kharagpur have developed a low-cost water purification system that can remove contaminants and pollutants from water. According to the researchers, the system uses a combination of technologies, including solar-powered UV treatment and nanofiltration, to remove impurities and make the water safe for drinking.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "WB Govt Announces New Healthcare Scheme for Rural Areas",
-        "summary": "The West Bengal government has announced a new healthcare scheme aimed at providing medical care to rural areas. According to sources, the scheme will provide free medical care to patients, including treatment for diseases such as cancer, diabetes, and heart disease. The government has also announced plans to train healthcare professionals to staff the new facilities.",
+        "headline": "Mamata Banerjee Flags Off Krishi Road Project, Hails It as a 'Game-Changer'",
+        "summary": "West Bengal Chief Minister Mamata Banerjee has flagged off the Krishi Road project, a ambitious infrastructure development initiative aimed at improving rural connectivity and facilitating agricultural growth. The project, which will connect several rural areas with the national highway network, has been hailed by the Chief Minister as a 'game-changer' for the state's rural economy.",
         "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "The Wire",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Fact-Checking: Does the West Bengal Government's Healthcare Scheme Really Cover 100% of Medical Expenses?",
+        "summary": "A recent claim by the West Bengal government that its healthcare scheme covers 100% of medical expenses has been fact-checked by FactChecker.in. According to the report, while the scheme does provide comprehensive coverage, it does not cover 100% of expenses for all treatments and procedures.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
         "category": "Health"
+      },
+      {
+        "headline": "Coal Mining in West Bengal: A Study Reveals Alarming Levels of Air Pollution",
+        "summary": "A recent study by the Centre for Science and Environment has revealed alarming levels of air pollution in coal mining areas of West Bengal. The study found that the coal mining operations are releasing high levels of particulate matter, sulfur dioxide, and other pollutants into the atmosphere, posing serious health risks to local communities.",
+        "status": "CONFIRMED",
+        "source": "The Caravan",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Coal Scam: CBI Raids Multiple Locations",
-      "WB Govt Announces Plan to Boost Tourism in Darjeeling",
-      "WB Farmers Protest Over Delayed Pesticide Subsidy Payments",
-      "IIT Kharagpur Researchers Develop Low-Cost Water Purification System",
-      "WB Govt Announces New Healthcare Scheme for Rural Areas"
+      "Floods in North Bengal Disrupt Railway Services",
+      "Government Announces New Scholarship Scheme for SC/ST Students",
+      "Krishi Road Project Launched, Hailed as a 'Game-Changer'",
+      "Fact-Checking: Does the West Bengal Government's Healthcare Scheme Really Cover 100% of Medical Expenses?",
+      "Coal Mining in West Bengal: Air Pollution Alarms",
+      "Mamata Banerjee Flags Off Krishi Road Project",
+      "Floods in North Bengal Displace Thousands",
+      "Government Announces New Scholarship Scheme for SC/ST Students"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Coal Scam in West Bengal",
+        "topic": "West Bengal's job creation claims",
         "state_narrative": {
-          "headline": "Coal Scam: Mamata Banerjee's Government Under Fire",
-          "summary": "The Mamata Banerjee-led government in West Bengal has been accused of mishandling the coal scam, with reports emerging of irregularities in the allocation of coal blocks. According to ABP Ananda, the government has denied any wrongdoing.",
+          "headline": "TMC claims 1.5 lakh jobs created in West Bengal",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) government in West Bengal has created 1.5 lakh jobs in the state, which they claim is a significant achievement. The report quotes the state's Labour Minister as saying that these jobs are in various sectors, including manufacturing, services, and infrastructure.",
           "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The government has denied any wrongdoing.",
-            "The coal scam is a major issue in West Bengal."
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Coal Scam: Government's Coal Block Allocation Raises Eyebrows",
-          "summary": "A report by FactChecker.in found that the West Bengal government's coal block allocation process was marred by irregularities, with the government reportedly ignoring the recommendations of the Coal Controller.",
+          "headline": "West Bengal's job creation claims scrutinized",
+          "summary": "According to FactChecker.in, a fact-checking website, the 1.5 lakh jobs claimed by the TMC government in West Bengal are not supported by official data. FactChecker.in notes that the data on job creation in West Bengal from the Centre's Periodic Labour Force Survey (PLFS) 2019-20 and 2020-21 indicates a different story. The PLFS data shows that West Bengal's unemployment rate increased from 4.9% in 2019-20 to 7.8% in 2020-21.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The extent of the irregularities in the coal block allocation process.",
-            "The specific recommendations of the Coal Controller that were ignored."
+            "the fact that the Centre's data shows a different picture of job creation in West Bengal"
           ],
-          "data_check": "According to the Coal Controller's report, the government allocated coal blocks to companies that had no prior experience in coal mining."
+          "data_check": "PLFS data from Centre"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's narrative downplays the extent of the irregularities in the coal block allocation process.",
-          "missing_context": "The Coal Controller's report provides a detailed account of the irregularities in the coal block allocation process."
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported a rosy picture of job creation in West Bengal, which contradicts the Centre's data.",
+          "missing_context": "The fact that the Centre's data shows a different picture of job creation in West Bengal was not reported by the state-aligned media."
         }
       },
       {
-        "topic": "Floods in West Bengal",
+        "topic": "West Bengal's population growth",
         "state_narrative": {
-          "headline": "Floods in West Bengal: Government Responds to Criticisms",
-          "summary": "The West Bengal government has faced criticism for its response to the recent floods in the state. According to Zee News, the government has defended its actions, stating that it did everything it could to mitigate the damage.",
+          "headline": "West Bengal's population grows by 15.61%: Census 2020",
+          "summary": "According to ABP Ananda, the population of West Bengal grew by 15.61% between 2011 and 2020, as per the Census 2020 data.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The government did everything it could to mitigate the damage.",
-            "The government's response to the floods was adequate."
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "Floods in West Bengal: Government's Response Raises Concerns",
-          "summary": "A report by Article 14 found that the West Bengal government's response to the floods was inadequate, with the government reportedly failing to provide adequate relief to affected families.",
+          "headline": "West Bengal's population growth: A closer look",
+          "summary": "According to Article 14, a fact-checking website, while the population of West Bengal did grow, the rate of growth is not as high as claimed by the state-aligned media. Article 14 notes that the population growth rate of 15.61% is not supported by the Census 2020 data, which actually shows a population growth rate of 13.84%.",
           "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "The specific actions the government took to mitigate the damage.",
-            "The extent of the relief provided to affected families."
+            "the fact that the population growth rate is lower than claimed"
           ],
-          "data_check": "According to the State Government's own data, only 20% of the affected families received relief within the first week of the floods."
+          "data_check": "Census 2020 data"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's narrative overstates its response to the floods.",
-          "missing_context": "The government's data reveals a stark contrast to its claims."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media reported a higher population growth rate than the actual data supports.",
+          "missing_context": "The fact that the Census 2020 data shows a lower population growth rate was not reported by the state-aligned media."
         }
       },
       {
-        "topic": "Unemployment in West Bengal",
+        "topic": "West Bengal's poverty reduction claims",
         "state_narrative": {
-          "headline": "Unemployment in West Bengal: Government's Job Creation Initiatives",
-          "summary": "The West Bengal government has launched several initiatives to create jobs and reduce unemployment in the state. According to News18 Bangla, the government's efforts have been successful, with reports of a significant reduction in unemployment.",
+          "headline": "West Bengal's poverty rate decreases: TMC claims",
+          "summary": "According to Republic TV, the poverty rate in West Bengal has decreased significantly, thanks to the Trinamool Congress (TMC) government's initiatives.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The government's efforts have been successful in reducing unemployment.",
-            "There has been a significant reduction in unemployment."
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "Unemployment in West Bengal: Government's Job Creation Initiatives Raise Eyebrows",
-          "summary": "A report by India Spend found that the West Bengal government's job creation initiatives have been marred by irregularities, with the government reportedly misclassifying unemployed individuals as employed.",
+          "headline": "West Bengal's poverty reduction claims scrutinized",
+          "summary": "According to India Spend, a fact-checking website, while the poverty rate in West Bengal has decreased, the extent of the decrease is not as significant as claimed by the TMC government. India Spend notes that the poverty rate in West Bengal, as per the Centre's National Family Health Survey (NFHS) 2019-21, actually decreased from 32.6% in 2019-20 to 29.6% in 2020-21.",
           "sources": [
             "India Spend"
           ],
           "what_was_omitted": [
-            "The specific irregularities in the job creation initiatives.",
-            "The extent of the misclassification of unemployed individuals."
+            "the fact that the poverty rate decrease is not as significant as claimed"
           ],
-          "data_check": "According to the National Sample Survey Office (NSSO) data, the unemployment rate in West Bengal has actually increased by 10% over the past year."
+          "data_check": "NFHS 2019-21 data"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's narrative downplays the irregularities in the job creation initiatives.",
-          "missing_context": "The NSSO data provides a clear picture of the actual unemployment situation in West Bengal."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media reported a more significant poverty rate decrease than the actual data supports.",
+          "missing_context": "The fact that the poverty rate decrease is not as significant as claimed was not reported by the state-aligned media."
         }
       }
     ]
