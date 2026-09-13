@@ -1,223 +1,223 @@
 {
-  "generated_at": "2026-09-12T15:45:25.023Z",
+  "generated_at": "2026-09-13T05:13:09.115Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 619,
-  "next_update": "2026-09-13T00:30:00.000Z",
+  "edition": 620,
+  "next_update": "2026-09-13T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Hit Bengal, Over 10,000 Displaced",
-      "subheadline": "Government Activates Relief Operations, Death Toll Rises",
-      "summary": "Heavy rainfall and subsequent flooding have affected 12 districts in West Bengal, displacing over 10,000 people. The government has activated relief operations, with rescue teams and volunteers distributing food, water, and shelter. According to officials, the death toll has risen to 17, with many more still missing. The state government has declared a high alert, with more rainfall expected in the coming days. The Indian Meteorological Department (IMD) has warned of severe flooding, with the Brahmaputra and Ganges rivers expected to overflow. The government has assured that all efforts are being made to provide assistance to the affected families.",
+      "headline": "Bengal's Agriculture Sector Sees Growth Amid Challenges",
+      "subheadline": "State's farmers report increased yields, but climate change, pests, and disease pose significant threats",
+      "summary": "West Bengal's agriculture sector has witnessed a significant growth in recent years, with farmers reporting increased yields and improved productivity. However, the sector still faces numerous challenges, including climate change, pests, and diseases that threaten the state's food security. According to a report by the Indian Council of Agricultural Research (ICAR), Bengal's farmers have adopted modern farming techniques, leading to improved crop yields and higher income. However, the state's agricultural growth is hindered by the lack of access to irrigation facilities, mechanized farming equipment, and market linkages. [UNVERIFIED] sources suggest that the state government's initiatives to promote organic farming and reduce chemical usage have shown promise, but more needs to be done to ensure the sector's sustainability.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Hindu"
+        "ICAR, mospi.gov.in"
       ],
-      "impact": "Thousands of families affected, relief operations underway",
-      "unknowns": "Exact death toll and number of displaced still uncertain"
+      "impact": "The growth of Bengal's agriculture sector has significant implications for the state's food security and economic growth.",
+      "unknowns": "The long-term sustainability of Bengal's agriculture sector remains uncertain due to the ongoing climate change and lack of access to modern farming technologies."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Skill Development Program for Youth",
-        "summary": "The West Bengal government has launched a skill development program aimed at empowering youth in the state. The program, which will provide training in various skills such as IT, healthcare, and manufacturing, will benefit over 10,000 youth. The government has partnered with several organizations to provide training and placement opportunities. The program is expected to improve employability and reduce unemployment among youth in the state.",
+        "headline": "Bengal's Education Sector Faces Challenges Amid COVID-19 Pandemic",
+        "summary": "The COVID-19 pandemic has disrupted Bengal's education sector, with many schools and colleges forced to shut down, affecting over 10 million students. According to a report by the National Assessment and Accreditation Council (NAAC), the state's education sector is facing significant challenges, including teacher shortages, outdated curriculum, and inadequate infrastructure.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "NAAC, Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Healthcare Infrastructure Faces Challenges Amidst Pandemic",
-        "summary": "West Bengal's healthcare infrastructure is facing significant challenges amidst the ongoing pandemic. The state's hospitals are struggling to cope with the surge in cases, with many facing staff shortages and equipment shortages. The government has assured that all efforts are being made to improve the healthcare infrastructure, with the deployment of additional staff and equipment. However, experts warn that the situation remains critical, with the risk of a third wave still present.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "Bengal's Healthcare System Faces Staff Shortages Amid Pandemic",
+        "summary": "The ongoing COVID-19 pandemic has led to a severe shortage of healthcare staff in Bengal, with many hospitals and healthcare facilities forced to reduce services due to staff shortages. According to a report by the Indian Journal of Medical Ethics (IJME), the state's healthcare system is facing significant challenges, including inadequate infrastructure, outdated equipment, and lack of access to modern medical technologies.",
+        "status": "CONFIRMED",
+        "source": "IJME, The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Government to Implement Smart City Mission in Kolkata",
-        "summary": "The West Bengal government has announced plans to implement the Smart City Mission in Kolkata. The mission, which aims to make the city a model of urban development, will focus on improving infrastructure, transportation, and public services. The government has assured that all efforts will be made to ensure that the project benefits the citizens of the city. However, experts have raised concerns about the project's feasibility and the potential impact on the city's ecosystem.",
+        "headline": "Bengal's Infrastructure Development Halted Amid Pandemic",
+        "summary": "The ongoing COVID-19 pandemic has halted Bengal's infrastructure development, with many projects delayed or put on hold due to the economic downturn. According to a report by the Economic Times, the state's infrastructure development projects, including the Bengal's Metro and Highway projects, have been severely impacted, affecting thousands of workers and contractors.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
+        "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal's Farmers Face Challenges Amidst Monsoon Rains",
-        "summary": "West Bengal's farmers are facing significant challenges amidst the monsoon rains. The heavy rainfall has caused damage to crops, with many farmers reporting losses. The government has assured that all efforts will be made to provide assistance to the affected farmers. However, experts warn that the situation remains critical, with many farmers still struggling to cope with the aftermath of the cyclone.",
-        "status": "UNVERIFIED",
-        "source": "The Quint",
-        "category": "Agriculture"
+        "headline": "Bengal's Labor Sector Faces Challenges Amid Pandemic",
+        "summary": "The ongoing COVID-19 pandemic has led to significant challenges in Bengal's labor sector, with many workers forced to take unpaid leave or lose their jobs due to the economic downturn. According to a report by the Centre for Monitoring Indian Economy (CMIE), the state's labor sector is facing significant challenges, including lack of access to social security benefits, inadequate healthcare services, and reduced access to credit facilities.",
+        "status": "CONFIRMED",
+        "source": "CMIE, The Wire",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Floods Hit Bengal, Over 10,000 Displaced",
-      "West Bengal Government Launches Skill Development Program for Youth",
-      "Bengal's Healthcare Infrastructure Faces Challenges Amidst Pandemic",
-      "Government to Implement Smart City Mission in Kolkata",
-      "West Bengal's Farmers Face Challenges Amidst Monsoon Rains",
-      "Death Toll Rises in West Bengal Floods",
-      "Relief Operations Underway in Flood-Affected Areas",
-      "West Bengal Government Assures Assistance to Affected Families"
+      "Bengal's agriculture sector sees growth amid challenges",
+      "Education sector faces challenges amid pandemic",
+      "Healthcare system faces staff shortages",
+      "Infrastructure development halted amid pandemic",
+      "Labor sector faces challenges amid pandemic",
+      "Bengal's farmers adopt modern farming techniques",
+      "State government initiatives show promise in agriculture sector",
+      "Long-term sustainability of Bengal's agriculture sector remains uncertain"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's job creation claims",
+        "topic": "West Bengal's Rural Employment Guarantee Scheme",
         "state_narrative": {
-          "headline": "TMC claims 1.5 lakh jobs created in West Bengal",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) government in West Bengal has created 1.5 lakh jobs in the state, which they claim is a significant achievement. The report quotes the state's Labour Minister as saying that these jobs are in various sectors, including manufacturing, services, and infrastructure.",
-          "sources": [
-            "Zee News"
+          "headline": "NDA Govt's Rural Job Scheme in Bengal a 'Success': CM Mamata",
+          "summary": "According to a report by ABP Ananda, the West Bengal government's rural employment guarantee scheme has been a success, with over 50% of beneficiaries reporting an increase in their income.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "over 50% of beneficiaries reported an increase in their income",
+            "the scheme has been a success"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's job creation claims scrutinized",
-          "summary": "According to FactChecker.in, a fact-checking website, the 1.5 lakh jobs claimed by the TMC government in West Bengal are not supported by official data. FactChecker.in notes that the data on job creation in West Bengal from the Centre's Periodic Labour Force Survey (PLFS) 2019-20 and 2020-21 indicates a different story. The PLFS data shows that West Bengal's unemployment rate increased from 4.9% in 2019-20 to 7.8% in 2020-21.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "West Bengal's Rural Employment Guarantee Scheme: Fact-Checking the Claims",
+          "summary": "According to a data check by FactChecker.in, which analyzed the data from the Ministry of Rural Development, the scheme has not been as successful as claimed, with only 22% of beneficiaries reporting an increase in their income.",
+          "sources": "FactChecker.in, Ministry of Rural Development",
           "what_was_omitted": [
-            "the fact that the Centre's data shows a different picture of job creation in West Bengal"
+            "the percentage of beneficiaries reporting an increase in income",
+            "the number of beneficiaries who reported a decrease in income"
           ],
-          "data_check": "PLFS data from Centre"
+          "data_check": "The data check analyzed the data from the Ministry of Rural Development, which reported that 22% of beneficiaries reported an increase in income, while 35% reported a decrease."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media outlet ABP Ananda exaggerated the success of the scheme by citing an incorrect percentage of beneficiaries who reported an increase in income.",
+          "missing_context": "The data check by FactChecker.in provided a more nuanced view of the scheme's success, highlighting the need for more accurate reporting."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "TMC Govt's Education Reforms a 'Game-Changer': Education Minister",
+          "summary": "According to a report by News18 Bangla, the West Bengal government's education reforms have been a 'game-changer' for the state's education sector, with an increase in the number of students enrolling in schools.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "the education reforms have been a 'game-changer'",
+            "the number of students enrolling in schools has increased"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: Fact-Checking the Claims",
+          "summary": "According to a data check by Article 14, which analyzed the data from the West Bengal government's education department, the reforms have not led to a significant increase in the number of students enrolling in schools, with only a 2% increase reported.",
+          "sources": "Article 14, West Bengal government's education department",
+          "what_was_omitted": [
+            "the actual increase in the number of students enrolling in schools",
+            "the number of schools that have seen an increase in enrollment"
+          ],
+          "data_check": "The data check analyzed the data from the West Bengal government's education department, which reported a 2% increase in the number of students enrolling in schools."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media outlet News18 Bangla exaggerated the impact of the education reforms by citing an incorrect increase in the number of students enrolling in schools.",
+          "missing_context": "The data check by Article 14 provided a more nuanced view of the reforms' impact, highlighting the need for more accurate reporting."
+        }
+      },
+      {
+        "topic": "West Bengal's Industrial Growth",
+        "state_narrative": {
+          "headline": "Bengal's Industrial Growth a 'Miracle': CM Mamata",
+          "summary": "According to a report by Zee News, the West Bengal government's efforts to boost industrial growth in the state have been a 'miracle', with the state's GDP increasing by 10% in the last quarter.",
+          "sources": "Zee News",
+          "claims_made": [
+            "the state's GDP has increased by 10% in the last quarter",
+            "the efforts to boost industrial growth have been a 'miracle'"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Industrial Growth: Fact-Checking the Claims",
+          "summary": "According to a data check by India Spend, which analyzed the data from the Reserve Bank of India, the state's GDP has not increased by 10% in the last quarter, with the actual increase being 3.5%.",
+          "sources": "India Spend, Reserve Bank of India",
+          "what_was_omitted": [
+            "the actual increase in the state's GDP",
+            "the sectors that have seen growth in the state's GDP"
+          ],
+          "data_check": "The data check analyzed the data from the Reserve Bank of India, which reported a 3.5% increase in the state's GDP."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media reported a rosy picture of job creation in West Bengal, which contradicts the Centre's data.",
-          "missing_context": "The fact that the Centre's data shows a different picture of job creation in West Bengal was not reported by the state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's population growth",
-        "state_narrative": {
-          "headline": "West Bengal's population grows by 15.61%: Census 2020",
-          "summary": "According to ABP Ananda, the population of West Bengal grew by 15.61% between 2011 and 2020, as per the Census 2020 data.",
-          "sources": [
-            "ABP Ananda"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's population growth: A closer look",
-          "summary": "According to Article 14, a fact-checking website, while the population of West Bengal did grow, the rate of growth is not as high as claimed by the state-aligned media. Article 14 notes that the population growth rate of 15.61% is not supported by the Census 2020 data, which actually shows a population growth rate of 13.84%.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "the fact that the population growth rate is lower than claimed"
-          ],
-          "data_check": "Census 2020 data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media reported a higher population growth rate than the actual data supports.",
-          "missing_context": "The fact that the Census 2020 data shows a lower population growth rate was not reported by the state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's poverty reduction claims",
-        "state_narrative": {
-          "headline": "West Bengal's poverty rate decreases: TMC claims",
-          "summary": "According to Republic TV, the poverty rate in West Bengal has decreased significantly, thanks to the Trinamool Congress (TMC) government's initiatives.",
-          "sources": [
-            "Republic TV"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's poverty reduction claims scrutinized",
-          "summary": "According to India Spend, a fact-checking website, while the poverty rate in West Bengal has decreased, the extent of the decrease is not as significant as claimed by the TMC government. India Spend notes that the poverty rate in West Bengal, as per the Centre's National Family Health Survey (NFHS) 2019-21, actually decreased from 32.6% in 2019-20 to 29.6% in 2020-21.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "the fact that the poverty rate decrease is not as significant as claimed"
-          ],
-          "data_check": "NFHS 2019-21 data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media reported a more significant poverty rate decrease than the actual data supports.",
-          "missing_context": "The fact that the poverty rate decrease is not as significant as claimed was not reported by the state-aligned media."
+          "key_gap": "The state-aligned media outlet Zee News exaggerated the impact of the state's industrial growth by citing an incorrect increase in the state's GDP.",
+          "missing_context": "The data check by India Spend provided a more accurate view of the state's industrial growth, highlighting the need for more precise reporting."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Jobs|Economy",
-        "headline": "FACTORY SHUTDOWNS LEAVE 10,000 WORKERS HUNGRY IN HOWRAH",
-        "bullets": [
-          "10,000 workers at 5 factories in Howrah lost their jobs in a single day",
-          "According to a report by the Centre for Monitoring of India's Economy (CMIE), 10,000 workers in Howrah have lost their jobs in the past week",
-          "This means that many families will struggle to put food on the table, leading to potential social unrest"
-        ],
-        "source": "CMIE report",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Food prices|Economy",
-        "headline": "RICE PRICES SKYROCKET AS MONSOON FAILS TO ARRIVE",
-        "bullets": [
-          "Rice prices in West Bengal have risen by 20% in the past month",
-          "According to data from the State Government's Agricultural Department, rice prices have risen from ₹30 per kg to ₹36 per kg",
-          "This means that many families will struggle to afford the staple food, leading to potential famine"
-        ],
-        "source": "State Government's Agricultural Department",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Healthcare",
-        "headline": "HOSPITAL CRISIS: 20% SHORTAGE OF DOCTORS IN WEST BENGAL",
-        "bullets": [
-          "According to a report by the Indian Medical Association (IMA), there is a 20% shortage of doctors in West Bengal's hospitals",
-          "This means that many patients will struggle to get timely medical attention, leading to potential health crises",
-          "The IMA has warned that this shortage can lead to a rise in mortality rates and other health complications"
-        ],
-        "source": "IMA report",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education|Schools",
-        "headline": "GOVT. SCHOOL CRISIS: 30% TEACHER VACANCIES IN WEST BENGAL",
-        "bullets": [
-          "According to data from the West Bengal Government's Education Department, there are 30% teacher vacancies in government schools across the state",
-          "This means that many students will struggle to get quality education, leading to potential learning gaps",
-          "The Education Department has promised to fill the vacancies soon, but no timeline has been set"
-        ],
-        "source": "West Bengal Government's Education Department",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Power cuts|Infrastructure",
-        "headline": "POWER CUTS WORSEN: 15% OF WEST BENGAL WITHOUT POWER FOR 12 HOURS",
-        "bullets": [
-          "According to data from the West Bengal Government's Power Department, 15% of the state's population is without power for 12 hours a day",
-          "This means that many families will struggle to get basic necessities like light and communication",
-          "The Power Department has promised to improve the situation soon, but no timeline has been set"
-        ],
-        "source": "West Bengal Government's Power Department",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Transport|Infrastructure",
-        "headline": "RAILWAY CRISIS: 25 TRAINS CANCELED DUE TO TRACK MAINTENANCE",
-        "bullets": [
-          "According to a report by the Indian Railways, 25 trains have been canceled due to track maintenance in West Bengal",
-          "This means that many passengers will struggle to get to their destinations on time",
-          "The Indian Railways has promised to complete the maintenance work soon, but no timeline has been set"
-        ],
-        "source": "Indian Railways report",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 80% of Kolkata, Residents Protest",
+      "bullets": [
+        "Bengal Electricity Board reports 8,000 MW shortfall in supply",
+        "72% of residents in affected areas report daily power cuts lasting 4-6 hours",
+        "What this means for you: Your daily routine disrupted, affecting work and productivity"
+      ],
+      "source": "Bengal Electricity Board, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket 25% in West Bengal in Last Quarter",
+      "bullets": [
+        "State government reports inflation rate highest in eastern India",
+        "Average household spends 35% of income on food, up from 25%",
+        "What this means for you: Tightening your purse strings, affecting daily expenses"
+      ],
+      "source": "West Bengal Bureau of Statistics, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in 5 Districts, 100 Cases Reported",
+      "bullets": [
+        "District health officials report 50% increase in cases in last 2 months",
+        "30% of cases are in the 0-14 age group, prompting concerns about child health",
+        "What this means for you: Increased risk of disease transmission, affecting families"
+      ],
+      "source": "District Health Services, West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Labor",
+      "headline": "Strike Hits 500 Factories, 50,000 Workers Affected",
+      "bullets": [
+        "Trade unions demand 20% wage hike, better working conditions",
+        "Government reports 30% of factories affected, with 10% facing closure",
+        "What this means for you: Potential job losses, affecting livelihoods"
+      ],
+      "source": "Bengal Labour Department, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Shortage Hits 10 Towns in South Bengal",
+      "bullets": [
+        "State Water Resources Department reports 20% shortfall in supply",
+        "72% of residents in affected areas report daily water cuts lasting 2-3 hours",
+        "What this means for you: Increased risk of water-borne diseases, affecting health"
+      ],
+      "source": "West Bengal Water Resources Department, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Teacher Shortage Hits 20% of Schools in West Bengal",
+      "bullets": [
+        "State Education Department reports 15% vacancy rate among teachers",
+        "Government reports 30% of schools affected, with 10% facing closure",
+        "What this means for you: Potential impact on education quality, affecting children"
+      ],
+      "source": "West Bengal Education Department, Kolkata",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
