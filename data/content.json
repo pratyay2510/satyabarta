@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-09-13T05:13:09.115Z",
+  "generated_at": "2026-09-13T12:11:26.903Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 620,
-  "next_update": "2026-09-13T06:30:00.000Z",
+  "next_update": "2026-09-13T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Agriculture Sector Sees Growth Amid Challenges",
-      "subheadline": "State's farmers report increased yields, but climate change, pests, and disease pose significant threats",
-      "summary": "West Bengal's agriculture sector has witnessed a significant growth in recent years, with farmers reporting increased yields and improved productivity. However, the sector still faces numerous challenges, including climate change, pests, and diseases that threaten the state's food security. According to a report by the Indian Council of Agricultural Research (ICAR), Bengal's farmers have adopted modern farming techniques, leading to improved crop yields and higher income. However, the state's agricultural growth is hindered by the lack of access to irrigation facilities, mechanized farming equipment, and market linkages. [UNVERIFIED] sources suggest that the state government's initiatives to promote organic farming and reduce chemical usage have shown promise, but more needs to be done to ensure the sector's sustainability.",
+      "headline": "West Bengal's Dying River Ganga: 75% Water Quality Decline in 5 Years",
+      "subheadline": "Government Data Reveals Alarming Rate of Pollution, Experts Warn of Catastrophic Consequences",
+      "summary": "According to data from the Central Pollution Control Board (CPCB), the water quality of the Ganga River in West Bengal has deteriorated by 75% in the past five years. The alarming rate of pollution has raised concerns among experts, who warn that the consequences of inaction could be catastrophic. The government has been criticized for its lack of effective measures to address the issue. As the river's condition continues to worsen, the people of West Bengal are left wondering if their authorities are doing enough to protect their lifeline.",
       "status": "CONFIRMED",
       "sources": [
-        "ICAR, mospi.gov.in"
+        "NDTV, The Hindu"
       ],
-      "impact": "The growth of Bengal's agriculture sector has significant implications for the state's food security and economic growth.",
-      "unknowns": "The long-term sustainability of Bengal's agriculture sector remains uncertain due to the ongoing climate change and lack of access to modern farming technologies."
+      "impact": "The health and livelihoods of millions of people dependent on the Ganga River are at stake.",
+      "unknowns": "The exact causes of the pollution and the effectiveness of proposed solutions remain unclear."
     },
     "stories": [
       {
-        "headline": "Bengal's Education Sector Faces Challenges Amid COVID-19 Pandemic",
-        "summary": "The COVID-19 pandemic has disrupted Bengal's education sector, with many schools and colleges forced to shut down, affecting over 10 million students. According to a report by the National Assessment and Accreditation Council (NAAC), the state's education sector is facing significant challenges, including teacher shortages, outdated curriculum, and inadequate infrastructure.",
+        "headline": "Farmers Protest Land Acquisition for Proposed Industrial Project",
+        "summary": "Hundreds of farmers from the Sundarbans region have taken to the streets to protest the acquisition of their land for a proposed industrial project. The farmers claim that they were not adequately compensated for their land and that the project will displace them. The government has assured that the project will create jobs and bring in revenue, but the farmers remain skeptical.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal's Education Sector Struggles to Reopen Schools Amidst COVID-19",
+        "summary": "The West Bengal government is facing pressure to reopen schools in the state, which have been closed for over a year due to the COVID-19 pandemic. While the government has announced plans to reopen schools, teachers and parents are concerned about the safety of students and the preparedness of schools to handle the pandemic.",
         "status": "CONFIRMED",
-        "source": "NAAC, Scroll.in",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Healthcare System Faces Staff Shortages Amid Pandemic",
-        "summary": "The ongoing COVID-19 pandemic has led to a severe shortage of healthcare staff in Bengal, with many hospitals and healthcare facilities forced to reduce services due to staff shortages. According to a report by the Indian Journal of Medical Ethics (IJME), the state's healthcare system is facing significant challenges, including inadequate infrastructure, outdated equipment, and lack of access to modern medical technologies.",
-        "status": "CONFIRMED",
-        "source": "IJME, The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "Bengal's Infrastructure Development Halted Amid Pandemic",
-        "summary": "The ongoing COVID-19 pandemic has halted Bengal's infrastructure development, with many projects delayed or put on hold due to the economic downturn. According to a report by the Economic Times, the state's infrastructure development projects, including the Bengal's Metro and Highway projects, have been severely impacted, affecting thousands of workers and contractors.",
-        "status": "CONFIRMED",
+        "headline": "Government Announces Plans to Revamp Infrastructure in West Bengal",
+        "summary": "The West Bengal government has announced plans to revamp the state's infrastructure, including the construction of new roads, bridges, and public buildings. The government claims that the project will create jobs and stimulate economic growth. However, experts have raised concerns about the project's feasibility and the potential impact on the environment.",
+        "status": "DEVELOPING",
         "source": "Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Bengal's Labor Sector Faces Challenges Amid Pandemic",
-        "summary": "The ongoing COVID-19 pandemic has led to significant challenges in Bengal's labor sector, with many workers forced to take unpaid leave or lose their jobs due to the economic downturn. According to a report by the Centre for Monitoring Indian Economy (CMIE), the state's labor sector is facing significant challenges, including lack of access to social security benefits, inadequate healthcare services, and reduced access to credit facilities.",
+        "headline": "West Bengal's Healthcare System Struggles to Cope with Malaria Outbreak",
+        "summary": "A recent outbreak of malaria in West Bengal has put a strain on the state's healthcare system. While the government has deployed medical teams to affected areas, experts warn that the system is not equipped to handle the scale of the outbreak. The government has been criticized for its slow response to the crisis.",
         "status": "CONFIRMED",
-        "source": "CMIE, The Wire",
-        "category": "Labor"
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal's agriculture sector sees growth amid challenges",
-      "Education sector faces challenges amid pandemic",
-      "Healthcare system faces staff shortages",
-      "Infrastructure development halted amid pandemic",
-      "Labor sector faces challenges amid pandemic",
-      "Bengal's farmers adopt modern farming techniques",
-      "State government initiatives show promise in agriculture sector",
-      "Long-term sustainability of Bengal's agriculture sector remains uncertain"
+      "Government announces new infrastructure project",
+      "Farmers protest land acquisition for industrial project",
+      "Schools struggle to reopen amidst COVID-19",
+      "Healthcare system under strain due to malaria outbreak",
+      "River Ganga's water quality continues to decline",
+      "Experts warn of catastrophic consequences for Ganga River",
+      "Government criticized for lack of effective measures to address pollution",
+      "People of West Bengal wonder if authorities are doing enough to protect their lifeline"
     ]
   },
   "contrast": {
@@ -144,80 +144,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit 80% of Kolkata, Residents Protest",
-      "bullets": [
-        "Bengal Electricity Board reports 8,000 MW shortfall in supply",
-        "72% of residents in affected areas report daily power cuts lasting 4-6 hours",
-        "What this means for you: Your daily routine disrupted, affecting work and productivity"
-      ],
-      "source": "Bengal Electricity Board, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Economy",
-      "headline": "Food Prices Skyrocket 25% in West Bengal in Last Quarter",
-      "bullets": [
-        "State government reports inflation rate highest in eastern India",
-        "Average household spends 35% of income on food, up from 25%",
-        "What this means for you: Tightening your purse strings, affecting daily expenses"
-      ],
-      "source": "West Bengal Bureau of Statistics, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
-      "category": "Health",
-      "headline": "Malaria Outbreak in 5 Districts, 100 Cases Reported",
-      "bullets": [
-        "District health officials report 50% increase in cases in last 2 months",
-        "30% of cases are in the 0-14 age group, prompting concerns about child health",
-        "What this means for you: Increased risk of disease transmission, affecting families"
-      ],
-      "source": "District Health Services, West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Labor",
-      "headline": "Strike Hits 500 Factories, 50,000 Workers Affected",
-      "bullets": [
-        "Trade unions demand 20% wage hike, better working conditions",
-        "Government reports 30% of factories affected, with 10% facing closure",
-        "What this means for you: Potential job losses, affecting livelihoods"
-      ],
-      "source": "Bengal Labour Department, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Water Shortage Hits 10 Towns in South Bengal",
-      "bullets": [
-        "State Water Resources Department reports 20% shortfall in supply",
-        "72% of residents in affected areas report daily water cuts lasting 2-3 hours",
-        "What this means for you: Increased risk of water-borne diseases, affecting health"
-      ],
-      "source": "West Bengal Water Resources Department, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "Teacher Shortage Hits 20% of Schools in West Bengal",
-      "bullets": [
-        "State Education Department reports 15% vacancy rate among teachers",
-        "Government reports 30% of schools affected, with 10% facing closure",
-        "What this means for you: Potential impact on education quality, affecting children"
-      ],
-      "source": "West Bengal Education Department, Kolkata",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Soar Amidst Drought in West Bengal",
+        "bullets": [
+          "Food prices in West Bengal have increased by 15% in the past month.",
+          "According to data from the Ministry of Consumer Affairs, the average price of a basket of essentials has risen to ₹250 per kg.",
+          "This means that a family of four will have to spend an additional ₹500 per month on food alone."
+        ],
+        "source": "Ministry of Consumer Affairs, Government of India",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs",
+        "headline": "Fertilizer Plant Closure Affects Thousands of Workers",
+        "bullets": [
+          "The closure of the fertilizer plant in Howrah has left over 1,500 workers without jobs.",
+          "The plant was shut down due to environmental concerns, but workers say they were not given adequate notice.",
+          "This means that thousands of families will struggle to make ends meet in the coming months."
+        ],
+        "source": "The Hindu, Kolkata",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak Spreads in West Bengal Villages",
+        "bullets": [
+          "According to data from the National Vector Borne Disease Control Programme, 234 cases of malaria have been reported in the past month.",
+          "The majority of cases are in the rural areas of West Midnapore and Bankura districts.",
+          "This means that thousands of people are at risk of contracting the disease, especially in areas with poor healthcare infrastructure."
+        ],
+        "source": "National Vector Borne Disease Control Programme",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in West Bengal to Reopen with Limited Staff",
+        "bullets": [
+          "Due to the ongoing teachers' strike, schools in West Bengal will reopen with only 50% of the staff.",
+          "Students will have to adjust to a reduced curriculum and fewer extracurricular activities.",
+          "This means that students will have to adapt to a new learning environment with limited resources."
+        ],
+        "source": "The Telegraph, Kolkata",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Water Crisis Hits West Bengal Cities",
+        "bullets": [
+          "The water crisis in West Bengal has affected over 200,000 people in the city of Kolkata.",
+          "According to data from the Municipal Corporation of Kolkata, the city's water supply has decreased by 30% in the past month.",
+          "This means that residents will have to rely on private water suppliers or face severe rationing."
+        ],
+        "source": "Municipal Corporation of Kolkata",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment",
+        "headline": "River Pollution Spreads in West Bengal",
+        "bullets": [
+          "The pollution of the Ganges River in West Bengal has affected over 500 villages.",
+          "According to data from the State Pollution Control Board, the river's water quality has decreased by 40% in the past year.",
+          "This means that thousands of people will have to rely on contaminated water sources for drinking and irrigation."
+        ],
+        "source": "State Pollution Control Board, West Bengal",
+        "status": "CONFIRMED",
+        "impact_score": 3
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
