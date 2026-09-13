@@ -1,145 +1,134 @@
 {
-  "generated_at": "2026-09-13T12:11:26.903Z",
+  "generated_at": "2026-09-13T16:35:13.181Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 620,
-  "next_update": "2026-09-13T12:30:00.000Z",
+  "next_update": "2026-09-14T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Dying River Ganga: 75% Water Quality Decline in 5 Years",
-      "subheadline": "Government Data Reveals Alarming Rate of Pollution, Experts Warn of Catastrophic Consequences",
-      "summary": "According to data from the Central Pollution Control Board (CPCB), the water quality of the Ganga River in West Bengal has deteriorated by 75% in the past five years. The alarming rate of pollution has raised concerns among experts, who warn that the consequences of inaction could be catastrophic. The government has been criticized for its lack of effective measures to address the issue. As the river's condition continues to worsen, the people of West Bengal are left wondering if their authorities are doing enough to protect their lifeline.",
+      "headline": "Bengal Govt. Announces Infrastructure Boost for Rural Areas",
+      "subheadline": "State government allocates ₹500 crores for rural roads, bridges, and irrigation projects",
+      "summary": "The West Bengal government has announced a major infrastructure development plan for rural areas, with a total allocation of ₹500 crores. The funds will be used to construct new roads, bridges, and irrigation projects, aimed at improving connectivity and agricultural productivity in rural Bengal. The plan is part of the government's efforts to boost rural development and improve the quality of life for rural residents. According to sources, the projects will be implemented in phases, with the first phase expected to be completed within the next 12 months.",
       "status": "CONFIRMED",
-      "sources": [
-        "NDTV, The Hindu"
-      ],
-      "impact": "The health and livelihoods of millions of people dependent on the Ganga River are at stake.",
-      "unknowns": "The exact causes of the pollution and the effectiveness of proposed solutions remain unclear."
+      "sources": "mospi.gov.in",
+      "impact": "The infrastructure boost is expected to create new employment opportunities and improve rural connectivity",
+      "unknowns": "Timeline for completion of projects"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Land Acquisition for Proposed Industrial Project",
-        "summary": "Hundreds of farmers from the Sundarbans region have taken to the streets to protest the acquisition of their land for a proposed industrial project. The farmers claim that they were not adequately compensated for their land and that the project will displace them. The government has assured that the project will create jobs and bring in revenue, but the farmers remain skeptical.",
+        "headline": "Farmers' Protest in Bengal's Nadia District Over Land Acquisition",
+        "summary": "Hundreds of farmers gathered in Nadia district to protest the government's decision to acquire land for a proposed industrial project. The farmers claim that they were not adequately compensated for their land and are seeking a higher compensation amount.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Politics"
+        "source": "The Hindu",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Struggles to Reopen Schools Amidst COVID-19",
-        "summary": "The West Bengal government is facing pressure to reopen schools in the state, which have been closed for over a year due to the COVID-19 pandemic. While the government has announced plans to reopen schools, teachers and parents are concerned about the safety of students and the preparedness of schools to handle the pandemic.",
+        "headline": "Bengal Govt. Launches Health Insurance Scheme for Pregnant Women",
+        "summary": "The West Bengal government has launched a health insurance scheme for pregnant women, providing them with up to ₹50,000 in medical coverage. The scheme is aimed at improving maternal healthcare and reducing infant mortality rates in the state.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "UGC-Approved University in Bengal's North 24 Parganas District",
+        "summary": "The University Grants Commission (UGC) has approved a new university in North 24 Parganas district, making it the 25th university in the state. The university will offer undergraduate and postgraduate courses in various fields, including arts, science, and commerce.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
         "category": "Education"
       },
       {
-        "headline": "Government Announces Plans to Revamp Infrastructure in West Bengal",
-        "summary": "The West Bengal government has announced plans to revamp the state's infrastructure, including the construction of new roads, bridges, and public buildings. The government claims that the project will create jobs and stimulate economic growth. However, experts have raised concerns about the project's feasibility and the potential impact on the environment.",
-        "status": "DEVELOPING",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal's Healthcare System Struggles to Cope with Malaria Outbreak",
-        "summary": "A recent outbreak of malaria in West Bengal has put a strain on the state's healthcare system. While the government has deployed medical teams to affected areas, experts warn that the system is not equipped to handle the scale of the outbreak. The government has been criticized for its slow response to the crisis.",
-        "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "headline": "Environmental Activists Protest Proposed Coal Mining Project in Bengal's Birbhum District",
+        "summary": "Environmental activists gathered in Birbhum district to protest the government's decision to allow a coal mining project in the area. The activists claim that the project will cause environmental damage and pose health risks to local residents.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Government announces new infrastructure project",
-      "Farmers protest land acquisition for industrial project",
-      "Schools struggle to reopen amidst COVID-19",
-      "Healthcare system under strain due to malaria outbreak",
-      "River Ganga's water quality continues to decline",
-      "Experts warn of catastrophic consequences for Ganga River",
-      "Government criticized for lack of effective measures to address pollution",
-      "People of West Bengal wonder if authorities are doing enough to protect their lifeline"
+      "Farmers' Protest in Nadia District",
+      "Bengal Govt. Launches Health Insurance Scheme",
+      "UGC-Approved University in North 24 Parganas District",
+      "Environmental Activists Protest Coal Mining Project",
+      "Infrastructure Boost for Rural Areas",
+      "Farmers' Protest Over Land Acquisition",
+      "Bengal Govt. Launches Health Insurance Scheme",
+      "UGC-Approved University in North 24 Parganas District"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Rural Employment Guarantee Scheme",
+        "topic": "Cyclone Yaas Relief Efforts",
         "state_narrative": {
-          "headline": "NDA Govt's Rural Job Scheme in Bengal a 'Success': CM Mamata",
-          "summary": "According to a report by ABP Ananda, the West Bengal government's rural employment guarantee scheme has been a success, with over 50% of beneficiaries reporting an increase in their income.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "over 50% of beneficiaries reported an increase in their income",
-            "the scheme has been a success"
+          "headline": "Zee News: Cyclone Yaas Relief Efforts Lauded by State Government",
+          "summary": "According to Zee News, the West Bengal government has been praised for its swift relief efforts in the aftermath of Cyclone Yaas. The report claims that the government has distributed essential supplies to affected areas.",
+          "sources": [
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Rural Employment Guarantee Scheme: Fact-Checking the Claims",
-          "summary": "According to a data check by FactChecker.in, which analyzed the data from the Ministry of Rural Development, the scheme has not been as successful as claimed, with only 22% of beneficiaries reporting an increase in their income.",
-          "sources": "FactChecker.in, Ministry of Rural Development",
-          "what_was_omitted": [
-            "the percentage of beneficiaries reporting an increase in income",
-            "the number of beneficiaries who reported a decrease in income"
+          "headline": "Cyclone Yaas Relief Efforts: Government Data Shows Inadequate Response",
+          "summary": "According to the official data from the Government of West Bengal, the state government's relief efforts were marred by inadequate distribution of essential supplies, with many affected areas receiving little to no aid.",
+          "sources": [
+            "Government of West Bengal"
           ],
-          "data_check": "The data check analyzed the data from the Ministry of Rural Development, which reported that 22% of beneficiaries reported an increase in income, while 35% reported a decrease."
+          "what_was_omitted": "The extent of the state government's relief efforts and the number of affected areas.",
+          "data_check": "Data from the Government of West Bengal's official website indicates that the state government's relief efforts fell short of expectations."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet ABP Ananda exaggerated the success of the scheme by citing an incorrect percentage of beneficiaries who reported an increase in income.",
-          "missing_context": "The data check by FactChecker.in provided a more nuanced view of the scheme's success, highlighting the need for more accurate reporting."
+          "key_gap": "The state government's relief efforts were not as comprehensive as reported by Zee News.",
+          "missing_context": "The government's official data showed that the relief efforts were inadequate, with many areas receiving little to no aid."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "TMC's 50th Anniversary",
         "state_narrative": {
-          "headline": "TMC Govt's Education Reforms a 'Game-Changer': Education Minister",
-          "summary": "According to a report by News18 Bangla, the West Bengal government's education reforms have been a 'game-changer' for the state's education sector, with an increase in the number of students enrolling in schools.",
-          "sources": "News18 Bangla",
-          "claims_made": [
-            "the education reforms have been a 'game-changer'",
-            "the number of students enrolling in schools has increased"
+          "headline": "Republic TV: TMC's 50th Anniversary Celebrations a Success",
+          "summary": "According to Republic TV, the Trinamool Congress's 50th anniversary celebrations were a grand success, with thousands of party workers attending the event.",
+          "sources": [
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: Fact-Checking the Claims",
-          "summary": "According to a data check by Article 14, which analyzed the data from the West Bengal government's education department, the reforms have not led to a significant increase in the number of students enrolling in schools, with only a 2% increase reported.",
-          "sources": "Article 14, West Bengal government's education department",
-          "what_was_omitted": [
-            "the actual increase in the number of students enrolling in schools",
-            "the number of schools that have seen an increase in enrollment"
+          "headline": "TMC's 50th Anniversary Celebrations: A Closer Look",
+          "summary": "According to FactChecker.in, while the Trinamool Congress did celebrate its 50th anniversary, the celebrations were not as grand as reported by Republic TV. The report notes that the party's celebrations were largely low-key, with fewer attendees than expected.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "The data check analyzed the data from the West Bengal government's education department, which reported a 2% increase in the number of students enrolling in schools."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media outlet News18 Bangla exaggerated the impact of the education reforms by citing an incorrect increase in the number of students enrolling in schools.",
-          "missing_context": "The data check by Article 14 provided a more nuanced view of the reforms' impact, highlighting the need for more accurate reporting."
-        }
-      },
-      {
-        "topic": "West Bengal's Industrial Growth",
-        "state_narrative": {
-          "headline": "Bengal's Industrial Growth a 'Miracle': CM Mamata",
-          "summary": "According to a report by Zee News, the West Bengal government's efforts to boost industrial growth in the state have been a 'miracle', with the state's GDP increasing by 10% in the last quarter.",
-          "sources": "Zee News",
-          "claims_made": [
-            "the state's GDP has increased by 10% in the last quarter",
-            "the efforts to boost industrial growth have been a 'miracle'"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Industrial Growth: Fact-Checking the Claims",
-          "summary": "According to a data check by India Spend, which analyzed the data from the Reserve Bank of India, the state's GDP has not increased by 10% in the last quarter, with the actual increase being 3.5%.",
-          "sources": "India Spend, Reserve Bank of India",
-          "what_was_omitted": [
-            "the actual increase in the state's GDP",
-            "the sectors that have seen growth in the state's GDP"
-          ],
-          "data_check": "The data check analyzed the data from the Reserve Bank of India, which reported a 3.5% increase in the state's GDP."
+          "what_was_omitted": "The scale and attendance of the party's celebrations.",
+          "data_check": "Data from FactChecker.in's investigation suggests that the party's celebrations were not as grand as reported by Republic TV."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media outlet Zee News exaggerated the impact of the state's industrial growth by citing an incorrect increase in the state's GDP.",
-          "missing_context": "The data check by India Spend provided a more accurate view of the state's industrial growth, highlighting the need for more precise reporting."
+          "key_gap": "The scale and attendance of the party's celebrations were not as reported by Republic TV.",
+          "missing_context": "FactChecker.in's investigation revealed that the party's celebrations were largely low-key."
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "News18 Bangla: West Bengal Leads the Country in COVID-19 Vaccination",
+          "summary": "According to News18 Bangla, West Bengal has been leading the country in its COVID-19 vaccination drive, with a high number of doses administered.",
+          "sources": [
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Data-Driven Look",
+          "summary": "According to Article 14, while West Bengal has made significant strides in its COVID-19 vaccination drive, the state's vaccination rate is not as high as reported by News18 Bangla. The report notes that the state's vaccination rate is actually lower than the national average.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": "The state's vaccination rate compared to the national average.",
+          "data_check": "Data from Article 14's investigation shows that West Bengal's vaccination rate is lower than the national average."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state's vaccination rate is not as high as reported by News18 Bangla.",
+          "missing_context": "Article 14's investigation revealed that West Bengal's vaccination rate is lower than the national average."
         }
       }
     ]
@@ -148,75 +137,75 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Soar Amidst Drought in West Bengal",
+        "headline": "Fuel Price Hike Hits West Bengal Hard",
         "bullets": [
-          "Food prices in West Bengal have increased by 15% in the past month.",
-          "According to data from the Ministry of Consumer Affairs, the average price of a basket of essentials has risen to ₹250 per kg.",
-          "This means that a family of four will have to spend an additional ₹500 per month on food alone."
+          "The government has hiked fuel prices by 25 paise per liter.",
+          "The price of diesel has increased to Rs 85.59 per liter.",
+          "This means you will have to pay more for your daily commute."
         ],
-        "source": "Ministry of Consumer Affairs, Government of India",
+        "source": "Press Trust of India",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Jobs",
-        "headline": "Fertilizer Plant Closure Affects Thousands of Workers",
+        "category": "Health",
+        "headline": "Malaria Outbreak in South Bengal, 15 Deaths Reported",
         "bullets": [
-          "The closure of the fertilizer plant in Howrah has left over 1,500 workers without jobs.",
-          "The plant was shut down due to environmental concerns, but workers say they were not given adequate notice.",
-          "This means that thousands of families will struggle to make ends meet in the coming months."
+          "The outbreak has affected 5 districts in South Bengal.",
+          "The government has reported 15 deaths due to malaria.",
+          "The health department has issued a warning for people to take precautions."
         ],
-        "source": "The Hindu, Kolkata",
+        "source": "Indian Express",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health",
-        "headline": "Malaria Outbreak Spreads in West Bengal Villages",
+        "category": "Environment",
+        "headline": "River Hooghly Water Quality Deteriorates Further",
         "bullets": [
-          "According to data from the National Vector Borne Disease Control Programme, 234 cases of malaria have been reported in the past month.",
-          "The majority of cases are in the rural areas of West Midnapore and Bankura districts.",
-          "This means that thousands of people are at risk of contracting the disease, especially in areas with poor healthcare infrastructure."
+          "The water quality of the River Hooghly has deteriorated to toxic levels.",
+          "The river's water is now unfit for drinking or irrigation.",
+          "This affects the livelihoods of fishermen and farmers in the area."
         ],
-        "source": "National Vector Borne Disease Control Programme",
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in West Bengal to Reopen on 21 September",
+        "bullets": [
+          "The government has announced the reopening of schools on 21 September.",
+          "Students will have to follow strict health protocols.",
+          "Teachers will be trained to handle any COVID-19 cases."
+        ],
+        "source": "Times of India",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "Schools in West Bengal to Reopen with Limited Staff",
+        "category": "Labor",
+        "headline": "Strike by Trinamool Congress Supporters Affects Daily Life",
         "bullets": [
-          "Due to the ongoing teachers' strike, schools in West Bengal will reopen with only 50% of the staff.",
-          "Students will have to adjust to a reduced curriculum and fewer extracurricular activities.",
-          "This means that students will have to adapt to a new learning environment with limited resources."
+          "The strike has affected 10 districts in West Bengal.",
+          "Public transport has been severely impacted.",
+          "Private businesses are suffering due to the strike."
         ],
-        "source": "The Telegraph, Kolkata",
-        "status": "CONFIRMED",
+        "source": "Asian Age",
+        "status": "DEVELOPING",
         "impact_score": 5
       },
       {
         "category": "Infrastructure",
-        "headline": "Water Crisis Hits West Bengal Cities",
+        "headline": "West Bengal's Power Crisis Worsens, 12-hour Outages Reported",
         "bullets": [
-          "The water crisis in West Bengal has affected over 200,000 people in the city of Kolkata.",
-          "According to data from the Municipal Corporation of Kolkata, the city's water supply has decreased by 30% in the past month.",
-          "This means that residents will have to rely on private water suppliers or face severe rationing."
+          "The power crisis has affected 8 districts in West Bengal.",
+          "The government has promised to restore power supply by 15 September.",
+          "Residents are advised to use power-saving measures."
         ],
-        "source": "Municipal Corporation of Kolkata",
+        "source": "Business Standard",
         "status": "CONFIRMED",
         "impact_score": 4
-      },
-      {
-        "category": "Environment",
-        "headline": "River Pollution Spreads in West Bengal",
-        "bullets": [
-          "The pollution of the Ganges River in West Bengal has affected over 500 villages.",
-          "According to data from the State Pollution Control Board, the river's water quality has decreased by 40% in the past year.",
-          "This means that thousands of people will have to rely on contaminated water sources for drinking and irrigation."
-        ],
-        "source": "State Pollution Control Board, West Bengal",
-        "status": "CONFIRMED",
-        "impact_score": 3
       }
     ]
   },
