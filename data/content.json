@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T05:20:05.613Z",
+  "generated_at": "2026-09-14T13:08:45.912Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 621,
-  "next_update": "2026-09-14T06:30:00.000Z",
+  "next_update": "2026-09-15T00:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal's Economy Sees Slight Uptick in August",
@@ -59,168 +59,167 @@
   "contrast": {
     "stories": [
       {
-        "topic": "Land Acquisition for Industrial Corridors in West Bengal",
+        "topic": "Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights",
         "state_narrative": {
-          "headline": "Zee News: 'Government to acquire 1000 acres for industrial corridors in West Bengal'",
-          "summary": "According to Zee News, the West Bengal government is planning to acquire 1000 acres of land for the development of industrial corridors in the state. The report states that the government is keen on attracting large-scale industries to the state and has identified several areas for the project.",
-          "sources": [
-            "Zee News, 10th August 2026"
-          ],
+          "headline": "Zee News: Dasgupta's appointment praised by state government",
+          "summary": "According to Zee News, Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights has been hailed by the state government as a step towards improving child welfare in the state. The report further states that Dasgupta has a strong background in social work and is committed to protecting the rights of children.",
+          "sources": "Zee News",
           "claims_made": [
-            "Government to acquire 1000 acres of land",
-            "Land to be used for industrial corridors"
+            "Dasgupta's appointment has been praised by the state government",
+            "Dasgupta has a strong background in social work"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Land acquisition for industrial corridors in West Bengal: Facts and Figures'",
-          "summary": "According to FactChecker.in, the West Bengal government has indeed identified areas for the development of industrial corridors, but the total area to be acquired is 500 acres, not 1000 acres. The report also states that the government plans to acquire land through a private-public partnership model.",
-          "sources": [
-            "FactChecker.in, 12th August 2026"
+          "headline": "The Wire: Disha Dasgupta's appointment raises concerns among child rights activists",
+          "summary": "According to The Wire, Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights has raised concerns among child rights activists, who point out that Dasgupta has been involved in a controversy surrounding her handling of a child abuse case in the past. The report further states that Dasgupta's appointment may be seen as a move to silence critics of the state government.",
+          "sources": "The Wire",
+          "what_was_omitted": [
+            "Dasgupta's involvement in a child abuse case controversy",
+            "Potential motivations behind her appointment"
           ],
-          "what_was_omitted": "The omission of context regarding the private-public partnership model and the actual area to be acquired.",
-          "data_check": "According to the West Bengal Industrial Development Corporation (WBIDC) website, the government plans to acquire 500 acres of land through a private-public partnership model (Source: WBIDC website, 2026)."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The total area to be acquired for industrial corridors in West Bengal is 500 acres, not 1000 acres.",
-          "missing_context": "The report by Zee News lacked context regarding the private-public partnership model and the actual area to be acquired."
-        }
-      },
-      {
-        "topic": "Poverty Reduction in West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'Poverty rate in West Bengal decreases by 10% in 2025'",
-          "summary": "According to News18 Bangla, the poverty rate in West Bengal decreased by 10% in 2025. The report states that the decrease in poverty rate is due to the government's efforts to improve education and healthcare facilities in the state.",
-          "sources": [
-            "News18 Bangla, 20th July 2026"
-          ],
-          "claims_made": [
-            "Poverty rate decreased by 10%",
-            "Government's efforts improved education and healthcare facilities"
-          ]
-        },
-        "verified_record": {
-          "headline": "India Spend: 'Poverty reduction in West Bengal: Facts and Figures'",
-          "summary": "According to India Spend, the poverty rate in West Bengal decreased by 8.5% in 2025, not 10%. The report also states that while the government's efforts to improve education and healthcare facilities did contribute to the decrease in poverty rate, the actual decrease in poverty rate is lower than reported.",
-          "sources": [
-            "India Spend, 22nd July 2026"
-          ],
-          "what_was_omitted": "The omission of context regarding the actual decrease in poverty rate and the contribution of government's efforts.",
-          "data_check": "According to the West Bengal government's report, the poverty rate decreased by 8.5% in 2025 (Source: West Bengal government report, 2026)."
+          "data_check": "According to the official website of the West Bengal Commission for Protection of Child Rights, Dasgupta's appointment was announced in August 2026, and she took office in September 2026."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual decrease in poverty rate in West Bengal is 8.5%, not 10%.",
-          "missing_context": "The report by News18 Bangla lacked context regarding the actual decrease in poverty rate and the contribution of government's efforts."
+          "verdict": "Partially Accurate",
+          "key_gap": "The Wire reported that Dasgupta's appointment has raised concerns among child rights activists, whereas Zee News reported that her appointment has been praised by the state government.",
+          "missing_context": "The reports by Zee News and The Wire omitted the fact that Dasgupta's appointment was announced in August 2026, and she took office in September 2026."
         }
       },
       {
-        "topic": "Farmers' Suicides in West Bengal",
+        "topic": "The West Bengal government's decision to introduce a new online education platform",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Farmers' suicides decrease by 20% in 2025'",
-          "summary": "According to ABP Ananda, the number of farmers' suicides in West Bengal decreased by 20% in 2025. The report states that the decrease in farmers' suicides is due to the government's efforts to provide financial assistance to farmers.",
-          "sources": [
-            "ABP Ananda, 15th August 2026"
-          ],
+          "headline": "ABP Ananda: New online education platform to revolutionize education in West Bengal",
+          "summary": "According to ABP Ananda, the West Bengal government's decision to introduce a new online education platform is expected to revolutionize education in the state. The report further states that the platform will provide students with access to high-quality educational resources and will help to bridge the gap between urban and rural areas.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "Farmers' suicides decreased by 20%",
-            "Government's efforts provided financial assistance to farmers"
+            "The new online education platform will revolutionize education in West Bengal",
+            "The platform will provide students with access to high-quality educational resources"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Farmers' suicides in West Bengal: Facts and Figures'",
-          "summary": "According to FactChecker.in, the number of farmers' suicides in West Bengal decreased by 15% in 2025, not 20%. The report also states that while the government's efforts to provide financial assistance to farmers did contribute to the decrease in farmers' suicides, the actual decrease in farmers' suicides is lower than reported.",
-          "sources": [
-            "FactChecker.in, 17th August 2026"
+          "headline": "FactChecker.in: West Bengal government's online education platform raises concerns over data security",
+          "summary": "According to FactChecker.in, the West Bengal government's decision to introduce a new online education platform has raised concerns over data security. The report further states that the platform may not have adequate safeguards in place to protect student data, and that the government has not provided clear information on how the data will be used.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": [
+            "Concerns over data security",
+            "Potential lack of adequate safeguards"
           ],
-          "what_was_omitted": "The omission of context regarding the actual decrease in farmers' suicides and the contribution of government's efforts.",
-          "data_check": "According to the National Crime Records Bureau (NCRB) report, the number of farmers' suicides decreased by 15% in 2025 (Source: NCRB report, 2026)."
+          "data_check": "According to the official website of the West Bengal government, the online education platform will use data encryption and other security measures to protect student data."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
+          "verdict": "Accurate",
+          "key_gap": "ABP Ananda reported that the new online education platform will provide students with access to high-quality educational resources, whereas FactChecker.in reported that the platform may not have adequate safeguards in place to protect student data.",
+          "missing_context": "The reports by ABP Ananda and FactChecker.in omitted the fact that the West Bengal government's official website stated that the platform will use data encryption and other security measures to protect student data."
+        }
+      },
+      {
+        "topic": "The West Bengal government's decision to increase the minimum wages of government employees",
+        "state_narrative": {
+          "headline": "News18 Bangla: Minimum wages of government employees to increase",
+          "summary": "According to News18 Bangla, the West Bengal government's decision to increase the minimum wages of government employees is expected to benefit thousands of workers. The report further states that the increase in wages will be implemented from October 2026, and that the government has assured that the hike will be fair and reasonable.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "The increase in wages will benefit thousands of workers",
+            "The hike will be implemented from October 2026"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: West Bengal government's decision to increase minimum wages raises questions over fiscal sustainability",
+          "summary": "According to Article 14, the West Bengal government's decision to increase the minimum wages of government employees raises questions over fiscal sustainability. The report further states that the government may not have adequate funds to implement the hike, and that the move may put pressure on the state's finances.",
+          "sources": "Article 14",
+          "what_was_omitted": [
+            "Questions over fiscal sustainability",
+            "Potential pressure on the state's finances"
+          ],
+          "data_check": "According to the official website of the Ministry of Finance, West Bengal, the government has allocated Rs. 100 crores for the implementation of the hike in minimum wages."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual decrease in farmers' suicides in West Bengal is 15%, not 20%.",
-          "missing_context": "The report by ABP Ananda lacked context regarding the actual decrease in farmers' suicides and the contribution of government's efforts."
+          "key_gap": "News18 Bangla reported that the increase in wages will benefit thousands of workers, whereas Article 14 reported that the government's decision raises questions over fiscal sustainability.",
+          "missing_context": "The reports by News18 Bangla and Article 14 omitted the fact that the West Bengal government has allocated Rs. 100 crores for the implementation of the hike in minimum wages."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Infrastructure",
-      "headline": "Kolkata Metro Rail Services Disrupted Due to Power Cuts",
-      "bullets": [
-        "Kolkata Metro Rail services affected for the third time in a week",
-        "Estimated 20,000 commuters daily affected",
-        "This means for you: increased travel time, expenses, and stress"
-      ],
-      "source": "Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Tata Motors to Cut 500 Jobs in Siliguri Plant",
-      "bullets": [
-        "Tata Motors to downsize Siliguri plant due to low demand",
-        "500 jobs to be cut in the next 6 months",
-        "This means for you: reduced employment opportunities, economic instability"
-      ],
-      "source": "Economic Times",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Food Prices",
-      "headline": "Rice Prices Soar to 10-Year High in West Bengal",
-      "bullets": [
-        "Average rice price rose by 30% in the last quarter",
-        "Food inflation rate in West Bengal now 15%",
-        "This means for you: increased grocery bills, reduced purchasing power"
-      ],
-      "source": "Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak Reported in South 24 Parganas",
-      "bullets": [
-        "Confirmed cases of cholera reported in 3 villages",
-        "250 people affected, 5 hospitalized",
-        "This means for you: increased risk of waterborne diseases, health concerns"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen with Limited Infrastructure",
-      "bullets": [
-        "Schools to reopen after 6-month closure due to COVID-19",
-        "Limited infrastructure to be used due to budget constraints",
-        "This means for you: reduced access to quality education, infrastructure concerns"
-      ],
-      "source": "Hindustan Times",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "West Bengal Government Fails to Meet River Ganga Cleanup Targets",
-      "bullets": [
-        "Ganga water quality still poor despite government efforts",
-        "Only 30% of pollution reduction targets met",
-        "This means for you: continued environmental degradation, water pollution concerns"
-      ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Skyrocket as Monsoon Damage Hits Bengal's Harvest",
+        "bullets": [
+          "Food prices in Bengal rose by 20% in the last fortnight",
+          "According to data from the state consumer affairs department",
+          "This means a family of four has to spend 50% more on groceries"
+        ],
+        "source": "West Bengal Consumer Affairs Department",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Outbreak Hits Rural Bengal, 150 Cases Reported So Far",
+        "bullets": [
+          "According to the state health department, 150 cases of malaria have been reported",
+          "The outbreak has been confirmed in 10 districts, including South 24 Parganas",
+          "The state government has deployed health teams to contain the outbreak"
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Labor",
+        "headline": "Bengal's Tea Gardens Suffer as Workers' Strike Enters 3rd Week",
+        "bullets": [
+          "The strike has affected 150 tea gardens in the state",
+          "According to the Tea Association of India, the strike has cost the industry Rs 100 crore",
+          "The workers are demanding better wages and working conditions"
+        ],
+        "source": "Tea Association of India",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts to Hit Bengal's Industrial Hubs, 50% of Units to Be Affected",
+        "bullets": [
+          "According to the state power department, 50% of industrial units will be affected",
+          "The power cuts are due to a shortage of coal at the state's power plants",
+          "The government has promised to restore power by the end of the week"
+        ],
+        "source": "West Bengal Power Department",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment",
+        "headline": "Bengal's Pollution Levels Soar as Industrial Waste Reaches the Ganges",
+        "bullets": [
+          "According to data from the Central Pollution Control Board",
+          "The Ganges has been declared critically polluted by the CPCB",
+          "The state government has promised to take action to clean up the river"
+        ],
+        "source": "Central Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "Bengal's Schools to Reopen After 2-Week Closure Due to Cholera Outbreak",
+        "bullets": [
+          "According to the state health department, 20 cases of cholera have been reported",
+          "The outbreak has been confirmed in 5 schools in the state",
+          "The government has promised to take action to prevent future outbreaks"
+        ],
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
