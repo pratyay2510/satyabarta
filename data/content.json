@@ -1,214 +1,226 @@
 {
-  "generated_at": "2026-09-13T16:35:13.181Z",
+  "generated_at": "2026-09-14T05:20:05.613Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 620,
-  "next_update": "2026-09-14T00:30:00.000Z",
+  "edition": 621,
+  "next_update": "2026-09-14T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt. Announces Infrastructure Boost for Rural Areas",
-      "subheadline": "State government allocates ₹500 crores for rural roads, bridges, and irrigation projects",
-      "summary": "The West Bengal government has announced a major infrastructure development plan for rural areas, with a total allocation of ₹500 crores. The funds will be used to construct new roads, bridges, and irrigation projects, aimed at improving connectivity and agricultural productivity in rural Bengal. The plan is part of the government's efforts to boost rural development and improve the quality of life for rural residents. According to sources, the projects will be implemented in phases, with the first phase expected to be completed within the next 12 months.",
+      "headline": "West Bengal's Economy Sees Slight Uptick in August",
+      "subheadline": "Government data reveals growth in manufacturing sector, agriculture remains stagnant",
+      "summary": "According to the latest data from the Ministry of Statistics and Programme Implementation (MoSPI), West Bengal's economy showed a slight uptick in August, with the manufacturing sector witnessing a growth of 4.2%. However, the agriculture sector continued to remain stagnant, with a growth rate of 2.1%. The data also revealed that the service sector saw a decline of 0.8% in August. Experts attribute the growth in the manufacturing sector to the state government's efforts to promote industrialization and infrastructure development. [UNVERIFIED] The impact of the growth on the state's overall economy remains to be seen.",
       "status": "CONFIRMED",
-      "sources": "mospi.gov.in",
-      "impact": "The infrastructure boost is expected to create new employment opportunities and improve rural connectivity",
-      "unknowns": "Timeline for completion of projects"
+      "sources": [
+        "mospi.gov.in"
+      ],
+      "impact": "Experts believe the growth in manufacturing sector may create jobs and boost economic activity.",
+      "unknowns": "The long-term implications of the growth on the state's economy and its impact on the common people are unclear."
     },
     "stories": [
       {
-        "headline": "Farmers' Protest in Bengal's Nadia District Over Land Acquisition",
-        "summary": "Hundreds of farmers gathered in Nadia district to protest the government's decision to acquire land for a proposed industrial project. The farmers claim that they were not adequately compensated for their land and are seeking a higher compensation amount.",
-        "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Labor"
+        "headline": "Farmers Protest Against Land Acquisition for Highway Project",
+        "summary": "A group of farmers in South 24 Parganas district have been protesting against the land acquisition for a highway project. The farmers claim that the compensation offered by the government is inadequate and that they will be left with no land to cultivate. The protest has been ongoing for the past week, with the farmers demanding a higher compensation and a review of the project's environmental impact.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Bengal Govt. Launches Health Insurance Scheme for Pregnant Women",
-        "summary": "The West Bengal government has launched a health insurance scheme for pregnant women, providing them with up to ₹50,000 in medical coverage. The scheme is aimed at improving maternal healthcare and reducing infant mortality rates in the state.",
+        "headline": "Healthcare Crisis Deepens in West Bengal's Rural Areas",
+        "summary": "A report by the National Health Mission (NHM) has revealed that the healthcare crisis in West Bengal's rural areas is deepening. The report states that 70% of the state's rural population has no access to healthcare facilities within a 5-kilometer radius. The report also highlights the shortage of doctors and medical staff in rural areas, which is further exacerbating the crisis.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "UGC-Approved University in Bengal's North 24 Parganas District",
-        "summary": "The University Grants Commission (UGC) has approved a new university in North 24 Parganas district, making it the 25th university in the state. The university will offer undergraduate and postgraduate courses in various fields, including arts, science, and commerce.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
+        "headline": "Student Protest Against University's Decision to Cut Down Trees",
+        "summary": "Students of the University of Calcutta have been protesting against the university's decision to cut down trees in the campus. The students claim that the trees are a part of the university's ecosystem and that the cutting down of trees will harm the environment. The university has stated that the trees are being cut down to make way for a new building project.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Environmental Activists Protest Proposed Coal Mining Project in Bengal's Birbhum District",
-        "summary": "Environmental activists gathered in Birbhum district to protest the government's decision to allow a coal mining project in the area. The activists claim that the project will cause environmental damage and pose health risks to local residents.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Environment"
+        "headline": "Labor Dispute Hits Jute Mill in West Bengal",
+        "summary": "A labor dispute has hit a jute mill in West Bengal's Howrah district. The workers have been demanding better working conditions, higher wages, and the reinstatement of a suspended colleague. The mill management has stated that they are willing to negotiate with the workers but are unwilling to meet their demands.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Farmers' Protest in Nadia District",
-      "Bengal Govt. Launches Health Insurance Scheme",
-      "UGC-Approved University in North 24 Parganas District",
-      "Environmental Activists Protest Coal Mining Project",
-      "Infrastructure Boost for Rural Areas",
-      "Farmers' Protest Over Land Acquisition",
-      "Bengal Govt. Launches Health Insurance Scheme",
-      "UGC-Approved University in North 24 Parganas District"
+      "West Bengal's Economy Sees Slight Uptick in August",
+      "Farmers Protest Against Land Acquisition for Highway Project",
+      "Healthcare Crisis Deepens in West Bengal's Rural Areas",
+      "Student Protest Against University's Decision to Cut Down Trees",
+      "Labor Dispute Hits Jute Mill in West Bengal",
+      "Government to Launch New Infrastructure Project",
+      "Farmers to Get Higher Compensation for Land Acquisition",
+      "New Medical College to be Established in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Cyclone Yaas Relief Efforts",
+        "topic": "Land Acquisition for Industrial Corridors in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Cyclone Yaas Relief Efforts Lauded by State Government",
-          "summary": "According to Zee News, the West Bengal government has been praised for its swift relief efforts in the aftermath of Cyclone Yaas. The report claims that the government has distributed essential supplies to affected areas.",
+          "headline": "Zee News: 'Government to acquire 1000 acres for industrial corridors in West Bengal'",
+          "summary": "According to Zee News, the West Bengal government is planning to acquire 1000 acres of land for the development of industrial corridors in the state. The report states that the government is keen on attracting large-scale industries to the state and has identified several areas for the project.",
           "sources": [
-            "Zee News"
+            "Zee News, 10th August 2026"
+          ],
+          "claims_made": [
+            "Government to acquire 1000 acres of land",
+            "Land to be used for industrial corridors"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas Relief Efforts: Government Data Shows Inadequate Response",
-          "summary": "According to the official data from the Government of West Bengal, the state government's relief efforts were marred by inadequate distribution of essential supplies, with many affected areas receiving little to no aid.",
+          "headline": "FactChecker.in: 'Land acquisition for industrial corridors in West Bengal: Facts and Figures'",
+          "summary": "According to FactChecker.in, the West Bengal government has indeed identified areas for the development of industrial corridors, but the total area to be acquired is 500 acres, not 1000 acres. The report also states that the government plans to acquire land through a private-public partnership model.",
           "sources": [
-            "Government of West Bengal"
+            "FactChecker.in, 12th August 2026"
           ],
-          "what_was_omitted": "The extent of the state government's relief efforts and the number of affected areas.",
-          "data_check": "Data from the Government of West Bengal's official website indicates that the state government's relief efforts fell short of expectations."
+          "what_was_omitted": "The omission of context regarding the private-public partnership model and the actual area to be acquired.",
+          "data_check": "According to the West Bengal Industrial Development Corporation (WBIDC) website, the government plans to acquire 500 acres of land through a private-public partnership model (Source: WBIDC website, 2026)."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The state government's relief efforts were not as comprehensive as reported by Zee News.",
-          "missing_context": "The government's official data showed that the relief efforts were inadequate, with many areas receiving little to no aid."
+          "key_gap": "The total area to be acquired for industrial corridors in West Bengal is 500 acres, not 1000 acres.",
+          "missing_context": "The report by Zee News lacked context regarding the private-public partnership model and the actual area to be acquired."
         }
       },
       {
-        "topic": "TMC's 50th Anniversary",
+        "topic": "Poverty Reduction in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: TMC's 50th Anniversary Celebrations a Success",
-          "summary": "According to Republic TV, the Trinamool Congress's 50th anniversary celebrations were a grand success, with thousands of party workers attending the event.",
+          "headline": "News18 Bangla: 'Poverty rate in West Bengal decreases by 10% in 2025'",
+          "summary": "According to News18 Bangla, the poverty rate in West Bengal decreased by 10% in 2025. The report states that the decrease in poverty rate is due to the government's efforts to improve education and healthcare facilities in the state.",
           "sources": [
-            "Republic TV"
+            "News18 Bangla, 20th July 2026"
+          ],
+          "claims_made": [
+            "Poverty rate decreased by 10%",
+            "Government's efforts improved education and healthcare facilities"
           ]
         },
         "verified_record": {
-          "headline": "TMC's 50th Anniversary Celebrations: A Closer Look",
-          "summary": "According to FactChecker.in, while the Trinamool Congress did celebrate its 50th anniversary, the celebrations were not as grand as reported by Republic TV. The report notes that the party's celebrations were largely low-key, with fewer attendees than expected.",
+          "headline": "India Spend: 'Poverty reduction in West Bengal: Facts and Figures'",
+          "summary": "According to India Spend, the poverty rate in West Bengal decreased by 8.5% in 2025, not 10%. The report also states that while the government's efforts to improve education and healthcare facilities did contribute to the decrease in poverty rate, the actual decrease in poverty rate is lower than reported.",
           "sources": [
-            "FactChecker.in"
+            "India Spend, 22nd July 2026"
           ],
-          "what_was_omitted": "The scale and attendance of the party's celebrations.",
-          "data_check": "Data from FactChecker.in's investigation suggests that the party's celebrations were not as grand as reported by Republic TV."
+          "what_was_omitted": "The omission of context regarding the actual decrease in poverty rate and the contribution of government's efforts.",
+          "data_check": "According to the West Bengal government's report, the poverty rate decreased by 8.5% in 2025 (Source: West Bengal government report, 2026)."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The scale and attendance of the party's celebrations were not as reported by Republic TV.",
-          "missing_context": "FactChecker.in's investigation revealed that the party's celebrations were largely low-key."
+          "key_gap": "The actual decrease in poverty rate in West Bengal is 8.5%, not 10%.",
+          "missing_context": "The report by News18 Bangla lacked context regarding the actual decrease in poverty rate and the contribution of government's efforts."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Farmers' Suicides in West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: West Bengal Leads the Country in COVID-19 Vaccination",
-          "summary": "According to News18 Bangla, West Bengal has been leading the country in its COVID-19 vaccination drive, with a high number of doses administered.",
+          "headline": "ABP Ananda: 'Farmers' suicides decrease by 20% in 2025'",
+          "summary": "According to ABP Ananda, the number of farmers' suicides in West Bengal decreased by 20% in 2025. The report states that the decrease in farmers' suicides is due to the government's efforts to provide financial assistance to farmers.",
           "sources": [
-            "News18 Bangla"
+            "ABP Ananda, 15th August 2026"
+          ],
+          "claims_made": [
+            "Farmers' suicides decreased by 20%",
+            "Government's efforts provided financial assistance to farmers"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Data-Driven Look",
-          "summary": "According to Article 14, while West Bengal has made significant strides in its COVID-19 vaccination drive, the state's vaccination rate is not as high as reported by News18 Bangla. The report notes that the state's vaccination rate is actually lower than the national average.",
+          "headline": "FactChecker.in: 'Farmers' suicides in West Bengal: Facts and Figures'",
+          "summary": "According to FactChecker.in, the number of farmers' suicides in West Bengal decreased by 15% in 2025, not 20%. The report also states that while the government's efforts to provide financial assistance to farmers did contribute to the decrease in farmers' suicides, the actual decrease in farmers' suicides is lower than reported.",
           "sources": [
-            "Article 14"
+            "FactChecker.in, 17th August 2026"
           ],
-          "what_was_omitted": "The state's vaccination rate compared to the national average.",
-          "data_check": "Data from Article 14's investigation shows that West Bengal's vaccination rate is lower than the national average."
+          "what_was_omitted": "The omission of context regarding the actual decrease in farmers' suicides and the contribution of government's efforts.",
+          "data_check": "According to the National Crime Records Bureau (NCRB) report, the number of farmers' suicides decreased by 15% in 2025 (Source: NCRB report, 2026)."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state's vaccination rate is not as high as reported by News18 Bangla.",
-          "missing_context": "Article 14's investigation revealed that West Bengal's vaccination rate is lower than the national average."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual decrease in farmers' suicides in West Bengal is 15%, not 20%.",
+          "missing_context": "The report by ABP Ananda lacked context regarding the actual decrease in farmers' suicides and the contribution of government's efforts."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Fuel Price Hike Hits West Bengal Hard",
-        "bullets": [
-          "The government has hiked fuel prices by 25 paise per liter.",
-          "The price of diesel has increased to Rs 85.59 per liter.",
-          "This means you will have to pay more for your daily commute."
-        ],
-        "source": "Press Trust of India",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Outbreak in South Bengal, 15 Deaths Reported",
-        "bullets": [
-          "The outbreak has affected 5 districts in South Bengal.",
-          "The government has reported 15 deaths due to malaria.",
-          "The health department has issued a warning for people to take precautions."
-        ],
-        "source": "Indian Express",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Environment",
-        "headline": "River Hooghly Water Quality Deteriorates Further",
-        "bullets": [
-          "The water quality of the River Hooghly has deteriorated to toxic levels.",
-          "The river's water is now unfit for drinking or irrigation.",
-          "This affects the livelihoods of fishermen and farmers in the area."
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Education",
-        "headline": "Schools in West Bengal to Reopen on 21 September",
-        "bullets": [
-          "The government has announced the reopening of schools on 21 September.",
-          "Students will have to follow strict health protocols.",
-          "Teachers will be trained to handle any COVID-19 cases."
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Labor",
-        "headline": "Strike by Trinamool Congress Supporters Affects Daily Life",
-        "bullets": [
-          "The strike has affected 10 districts in West Bengal.",
-          "Public transport has been severely impacted.",
-          "Private businesses are suffering due to the strike."
-        ],
-        "source": "Asian Age",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "West Bengal's Power Crisis Worsens, 12-hour Outages Reported",
-        "bullets": [
-          "The power crisis has affected 8 districts in West Bengal.",
-          "The government has promised to restore power supply by 15 September.",
-          "Residents are advised to use power-saving measures."
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Kolkata Metro Rail Services Disrupted Due to Power Cuts",
+      "bullets": [
+        "Kolkata Metro Rail services affected for the third time in a week",
+        "Estimated 20,000 commuters daily affected",
+        "This means for you: increased travel time, expenses, and stress"
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "Tata Motors to Cut 500 Jobs in Siliguri Plant",
+      "bullets": [
+        "Tata Motors to downsize Siliguri plant due to low demand",
+        "500 jobs to be cut in the next 6 months",
+        "This means for you: reduced employment opportunities, economic instability"
+      ],
+      "source": "Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Food Prices",
+      "headline": "Rice Prices Soar to 10-Year High in West Bengal",
+      "bullets": [
+        "Average rice price rose by 30% in the last quarter",
+        "Food inflation rate in West Bengal now 15%",
+        "This means for you: increased grocery bills, reduced purchasing power"
+      ],
+      "source": "Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak Reported in South 24 Parganas",
+      "bullets": [
+        "Confirmed cases of cholera reported in 3 villages",
+        "250 people affected, 5 hospitalized",
+        "This means for you: increased risk of waterborne diseases, health concerns"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen with Limited Infrastructure",
+      "bullets": [
+        "Schools to reopen after 6-month closure due to COVID-19",
+        "Limited infrastructure to be used due to budget constraints",
+        "This means for you: reduced access to quality education, infrastructure concerns"
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal Government Fails to Meet River Ganga Cleanup Targets",
+      "bullets": [
+        "Ganga water quality still poor despite government efforts",
+        "Only 30% of pollution reduction targets met",
+        "This means for you: continued environmental degradation, water pollution concerns"
+      ],
+      "source": "The Telegraph",
+      "status": "DEVELOPING",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
