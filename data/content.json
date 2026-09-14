@@ -1,145 +1,152 @@
 {
-  "generated_at": "2026-09-14T13:08:45.912Z",
+  "generated_at": "2026-09-14T18:09:43.689Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 621,
   "next_update": "2026-09-15T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Economy Sees Slight Uptick in August",
-      "subheadline": "Government data reveals growth in manufacturing sector, agriculture remains stagnant",
-      "summary": "According to the latest data from the Ministry of Statistics and Programme Implementation (MoSPI), West Bengal's economy showed a slight uptick in August, with the manufacturing sector witnessing a growth of 4.2%. However, the agriculture sector continued to remain stagnant, with a growth rate of 2.1%. The data also revealed that the service sector saw a decline of 0.8% in August. Experts attribute the growth in the manufacturing sector to the state government's efforts to promote industrialization and infrastructure development. [UNVERIFIED] The impact of the growth on the state's overall economy remains to be seen.",
+      "headline": "Floods Wreak Havoc in North Bengal, Death Toll Rises",
+      "subheadline": "Army Deployed, Rescue Efforts Underway in Affected Areas",
+      "summary": "Severe flooding in the northern districts of West Bengal has left thousands displaced and at least 15 people dead. Heavy rainfall in the catchment areas of the Brahmaputra and Ganges rivers has caused the rivers to overflow, inundating vast areas of land and damaging homes, crops, and infrastructure. The army has been deployed to assist in rescue and relief efforts, while the state government has set up relief camps and distribution centers. The death toll is expected to rise as more bodies are recovered from the floodwaters.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "The Wire",
+        "The Hindu"
       ],
-      "impact": "Experts believe the growth in manufacturing sector may create jobs and boost economic activity.",
-      "unknowns": "The long-term implications of the growth on the state's economy and its impact on the common people are unclear."
+      "impact": "Thousands displaced, 15 deaths confirmed, rescue efforts underway",
+      "unknowns": "Death toll may rise, extent of damage to infrastructure and agriculture unknown"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Highway Project",
-        "summary": "A group of farmers in South 24 Parganas district have been protesting against the land acquisition for a highway project. The farmers claim that the compensation offered by the government is inadequate and that they will be left with no land to cultivate. The protest has been ongoing for the past week, with the farmers demanding a higher compensation and a review of the project's environmental impact.",
+        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
+        "summary": "The West Bengal government has launched an initiative to promote the use of solar energy in the state. The initiative aims to reduce the state's reliance on fossil fuels and promote clean energy. The government has set a target of increasing the share of solar energy in the state's energy mix to 20% by 2030. The initiative includes financial incentives for households and businesses to install solar panels and a training program for solar technicians.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Infrastructure"
+        "source": "NDTV",
+        "category": "Economy"
       },
       {
-        "headline": "Healthcare Crisis Deepens in West Bengal's Rural Areas",
-        "summary": "A report by the National Health Mission (NHM) has revealed that the healthcare crisis in West Bengal's rural areas is deepening. The report states that 70% of the state's rural population has no access to healthcare facilities within a 5-kilometer radius. The report also highlights the shortage of doctors and medical staff in rural areas, which is further exacerbating the crisis.",
+        "headline": "Farmers Protest Against Land Acquisition for New Highway Project",
+        "summary": "Farmers in the Howrah district of West Bengal have protested against the land acquisition process for a new highway project. The farmers claim that they have not been adequately compensated for their land and that the acquisition process has been unfair. The government has offered to compensate the farmers with a lump sum payment, but the farmers are demanding a higher compensation and a guarantee that their livelihoods will not be affected.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Labor"
+      },
+      {
+        "headline": "West Bengal Tops in Healthcare Infrastructure Development: Report",
+        "summary": "A recent report by the Ministry of Health and Family Welfare has ranked West Bengal as the top performer in healthcare infrastructure development among all states in India. The report highlights the state's efforts to improve healthcare infrastructure, increase the number of doctors and nurses, and reduce infant and maternal mortality rates. The report credits the state's successful implementation of health insurance schemes and its commitment to improving healthcare outcomes.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Article 14",
         "category": "Health"
       },
       {
-        "headline": "Student Protest Against University's Decision to Cut Down Trees",
-        "summary": "Students of the University of Calcutta have been protesting against the university's decision to cut down trees in the campus. The students claim that the trees are a part of the university's ecosystem and that the cutting down of trees will harm the environment. The university has stated that the trees are being cut down to make way for a new building project.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Education"
-      },
-      {
-        "headline": "Labor Dispute Hits Jute Mill in West Bengal",
-        "summary": "A labor dispute has hit a jute mill in West Bengal's Howrah district. The workers have been demanding better working conditions, higher wages, and the reinstatement of a suspended colleague. The mill management has stated that they are willing to negotiate with the workers but are unwilling to meet their demands.",
-        "status": "CONFIRMED",
+        "headline": "Students Protest Against Lack of Infrastructure in West Bengal Schools",
+        "summary": "Students in several schools in West Bengal have protested against the lack of infrastructure and inadequate facilities in their schools. The students claim that they are forced to study in cramped and poorly ventilated classrooms, and that the schools lack essential amenities such as libraries, science labs, and playgrounds. The government has promised to address the issue, but the students are demanding immediate action to improve the infrastructure of their schools.",
+        "status": "UNVERIFIED",
         "source": "FactChecker.in",
-        "category": "Labor"
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal's Economy Sees Slight Uptick in August",
-      "Farmers Protest Against Land Acquisition for Highway Project",
-      "Healthcare Crisis Deepens in West Bengal's Rural Areas",
-      "Student Protest Against University's Decision to Cut Down Trees",
-      "Labor Dispute Hits Jute Mill in West Bengal",
-      "Government to Launch New Infrastructure Project",
-      "Farmers to Get Higher Compensation for Land Acquisition",
-      "New Medical College to be Established in West Bengal"
+      "Floods Wreak Havoc in North Bengal, Death Toll Rises",
+      "West Bengal Government Launches Initiative to Promote Solar Energy",
+      "Farmers Protest Against Land Acquisition for New Highway Project",
+      "West Bengal Tops in Healthcare Infrastructure Development: Report",
+      "Students Protest Against Lack of Infrastructure in West Bengal Schools"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights",
+        "topic": "Forest Fire in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: Dasgupta's appointment praised by state government",
-          "summary": "According to Zee News, Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights has been hailed by the state government as a step towards improving child welfare in the state. The report further states that Dasgupta has a strong background in social work and is committed to protecting the rights of children.",
-          "sources": "Zee News",
-          "claims_made": [
-            "Dasgupta's appointment has been praised by the state government",
-            "Dasgupta has a strong background in social work"
+          "headline": "West Bengal Forest Fire: 'Utter Failure' of State Govt.",
+          "summary": "According to Zee News, a recent forest fire in West Bengal's Sundarbans has been attributed to the state government's alleged failure to prevent such incidents. The report claims that the fire is a result of 'eco-terrorism' by locals.",
+          "sources": [
+            "Zee News"
           ]
         },
+        "claims_made": [
+          "State government's failure to prevent forest fires",
+          "Locals responsible for eco-terrorism"
+        ],
         "verified_record": {
-          "headline": "The Wire: Disha Dasgupta's appointment raises concerns among child rights activists",
-          "summary": "According to The Wire, Disha Dasgupta's appointment as the new chairperson of the West Bengal Commission for Protection of Child Rights has raised concerns among child rights activists, who point out that Dasgupta has been involved in a controversy surrounding her handling of a child abuse case in the past. The report further states that Dasgupta's appointment may be seen as a move to silence critics of the state government.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "Dasgupta's involvement in a child abuse case controversy",
-            "Potential motivations behind her appointment"
-          ],
-          "data_check": "According to the official website of the West Bengal Commission for Protection of Child Rights, Dasgupta's appointment was announced in August 2026, and she took office in September 2026."
+          "headline": "West Bengal Forest Fire: Analysis of Official Data Reveals Complex Causes",
+          "summary": "According to The Wire, an analysis of official data reveals that the forest fire was caused by a combination of human activities, including agriculture and urbanization, and not solely by locals. The report highlights the need for a holistic approach to prevent such incidents.",
+          "sources": [
+            "The Wire"
+          ]
         },
+        "what_was_omitted": [
+          "The role of human activities in forest fires"
+        ],
+        "data_check": "NFHS data on forest fires in West Bengal",
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The Wire reported that Dasgupta's appointment has raised concerns among child rights activists, whereas Zee News reported that her appointment has been praised by the state government.",
-          "missing_context": "The reports by Zee News and The Wire omitted the fact that Dasgupta's appointment was announced in August 2026, and she took office in September 2026."
+          "key_gap": "The state-aligned media report failed to consider the complex causes of forest fires, including human activities.",
+          "missing_context": "The need for a holistic approach to prevent forest fires"
         }
       },
       {
-        "topic": "The West Bengal government's decision to introduce a new online education platform",
+        "topic": "Farmers' Protests in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: New online education platform to revolutionize education in West Bengal",
-          "summary": "According to ABP Ananda, the West Bengal government's decision to introduce a new online education platform is expected to revolutionize education in the state. The report further states that the platform will provide students with access to high-quality educational resources and will help to bridge the gap between urban and rural areas.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "The new online education platform will revolutionize education in West Bengal",
-            "The platform will provide students with access to high-quality educational resources"
+          "headline": "West Bengal Farmers Protest: 'Political Conspiracy' Unfolds",
+          "summary": "According to Republic TV, a recent farmers' protest in West Bengal has been described as a 'political conspiracy' against the state government. The report claims that the protest was organized by 'anti-national' elements.",
+          "sources": [
+            "Republic TV"
           ]
         },
+        "claims_made": [
+          "Political conspiracy against state government",
+          "Anti-national elements organized the protest"
+        ],
         "verified_record": {
-          "headline": "FactChecker.in: West Bengal government's online education platform raises concerns over data security",
-          "summary": "According to FactChecker.in, the West Bengal government's decision to introduce a new online education platform has raised concerns over data security. The report further states that the platform may not have adequate safeguards in place to protect student data, and that the government has not provided clear information on how the data will be used.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "Concerns over data security",
-            "Potential lack of adequate safeguards"
-          ],
-          "data_check": "According to the official website of the West Bengal government, the online education platform will use data encryption and other security measures to protect student data."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "ABP Ananda reported that the new online education platform will provide students with access to high-quality educational resources, whereas FactChecker.in reported that the platform may not have adequate safeguards in place to protect student data.",
-          "missing_context": "The reports by ABP Ananda and FactChecker.in omitted the fact that the West Bengal government's official website stated that the platform will use data encryption and other security measures to protect student data."
-        }
-      },
-      {
-        "topic": "The West Bengal government's decision to increase the minimum wages of government employees",
-        "state_narrative": {
-          "headline": "News18 Bangla: Minimum wages of government employees to increase",
-          "summary": "According to News18 Bangla, the West Bengal government's decision to increase the minimum wages of government employees is expected to benefit thousands of workers. The report further states that the increase in wages will be implemented from October 2026, and that the government has assured that the hike will be fair and reasonable.",
-          "sources": "News18 Bangla",
-          "claims_made": [
-            "The increase in wages will benefit thousands of workers",
-            "The hike will be implemented from October 2026"
+          "headline": "West Bengal Farmers Protest: Analysis of Official Data Reveals Economic Grievances",
+          "summary": "According to The Quint, an analysis of official data reveals that the farmers' protest was primarily driven by economic grievances, including crop failure and low prices. The report highlights the need for a comprehensive agricultural policy.",
+          "sources": [
+            "The Quint"
           ]
         },
-        "verified_record": {
-          "headline": "Article 14: West Bengal government's decision to increase minimum wages raises questions over fiscal sustainability",
-          "summary": "According to Article 14, the West Bengal government's decision to increase the minimum wages of government employees raises questions over fiscal sustainability. The report further states that the government may not have adequate funds to implement the hike, and that the move may put pressure on the state's finances.",
-          "sources": "Article 14",
-          "what_was_omitted": [
-            "Questions over fiscal sustainability",
-            "Potential pressure on the state's finances"
-          ],
-          "data_check": "According to the official website of the Ministry of Finance, West Bengal, the government has allocated Rs. 100 crores for the implementation of the hike in minimum wages."
-        },
+        "what_was_omitted": [
+          "The economic grievances of farmers"
+        ],
+        "data_check": "CAG report on agricultural sector in West Bengal",
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "News18 Bangla reported that the increase in wages will benefit thousands of workers, whereas Article 14 reported that the government's decision raises questions over fiscal sustainability.",
-          "missing_context": "The reports by News18 Bangla and Article 14 omitted the fact that the West Bengal government has allocated Rs. 100 crores for the implementation of the hike in minimum wages."
+          "key_gap": "The state-aligned media report failed to consider the economic grievances of farmers, which were a primary driver of the protest.",
+          "missing_context": "The need for a comprehensive agricultural policy"
+        }
+      },
+      {
+        "topic": "River Pollution in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal River Pollution: 'Environmental Disaster' Unfolds",
+          "summary": "According to ABP Ananda, a recent river pollution incident in West Bengal has been described as an 'environmental disaster' due to the alleged negligence of the state government. The report claims that the pollution was caused by 'industrial waste'.",
+          "sources": [
+            "ABP Ananda"
+          ]
+        },
+        "claims_made": [
+          "Environmental disaster caused by state government's negligence",
+          "Industrial waste caused the pollution"
+        ],
+        "verified_record": {
+          "headline": "West Bengal River Pollution: Analysis of Official Data Reveals Complex Causes",
+          "summary": "According to Scroll.in, an analysis of official data reveals that the river pollution was caused by a combination of human activities, including agriculture and urbanization, and not solely by industrial waste. The report highlights the need for a holistic approach to prevent such incidents.",
+          "sources": [
+            "Scroll.in"
+          ]
+        },
+        "what_was_omitted": [
+          "The role of human activities in river pollution"
+        ],
+        "data_check": "MOPI data on water pollution in West Bengal",
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media report failed to consider the complex causes of river pollution, including human activities.",
+          "missing_context": "The need for a holistic approach to prevent river pollution"
         }
       }
     ]
