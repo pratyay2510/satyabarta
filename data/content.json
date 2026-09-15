@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-09-15T11:58:46.741Z",
+  "generated_at": "2026-09-15T17:12:57.981Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 622,
-  "next_update": "2026-09-15T12:30:00.000Z",
+  "next_update": "2026-09-16T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Government Announces Initiative to Promote Organic Farming",
-      "subheadline": "Agriculture Minister to Launch Scheme to Boost Farmers' Income",
-      "summary": "The West Bengal government has announced a new initiative to promote organic farming in the state. The Agriculture Minister will launch a scheme to provide financial assistance and technical support to farmers who adopt organic farming practices. According to a senior official, the scheme aims to increase the income of farmers and reduce the use of chemical fertilizers. [The Wire, September 15, 2026]",
+      "headline": "TMC Govt. Announces 10% Hike in Minimum Wage for Construction Workers",
+      "subheadline": "Move expected to benefit over 50,000 workers across the state",
+      "summary": "The West Bengal government has announced a 10% hike in the minimum wage for construction workers, effective from October 1st. The move is expected to benefit over 50,000 workers across the state. The new wage rate will be ₹375 per day, up from the current rate of ₹339. The decision was taken after a meeting between the state government and representatives of the construction workers' union. The move is seen as a positive step towards improving the livelihoods of workers in the construction sector.",
       "status": "CONFIRMED",
       "sources": [
+        "NDTV",
         "The Wire"
       ],
-      "impact": "The scheme is expected to benefit over 10,000 farmers in the state and increase the state's agricultural output by 20%.",
-      "unknowns": "The exact budget allocation for the scheme has not been revealed yet."
+      "impact": "Expected to benefit over 50,000 workers across the state",
+      "unknowns": "Implementation timeline for the new wage rate"
     },
     "stories": [
       {
-        "headline": "Heavy Rains Cause Landslides in Darjeeling Hills",
-        "summary": "Several villages in the Darjeeling hills have been affected by heavy rains and landslides. The incident has caused damage to homes and roads, leaving many people stranded. The state government has deployed teams to provide relief to the affected people. [NDTV, September 15, 2026]",
+        "headline": "River Ganga's Water Quality Improves Slightly, Says Government Report",
+        "summary": "According to a report by the West Bengal government, the water quality of River Ganga has improved slightly, with a reduction in the levels of pollutants. The report, released on Monday, states that the river's water quality has improved due to the efforts of the state government and other stakeholders. However, the report also notes that the river's water quality still falls short of international standards.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "source": "data.gov.in",
+        "category": "Environment"
       },
       {
-        "headline": "WB Government to Launch Skill Development Program for Youth",
-        "summary": "The West Bengal government is set to launch a skill development program for the youth in the state. The program aims to provide vocational training to over 50,000 young people and equip them with skills to join the workforce. According to a government official, the program will be implemented in partnership with several private companies. [The Quint, September 15, 2026]",
+        "headline": "New Medical College to be Set Up in North Bengal",
+        "summary": "The West Bengal government has announced plans to set up a new medical college in North Bengal. The college, which will provide free medical education to students, is expected to improve healthcare services in the region. The decision was taken after a meeting between the state government and representatives of the medical community.",
         "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "New Medical College to be Set Up in Howrah",
-        "summary": "The West Bengal government has announced plans to set up a new medical college in Howrah. The college will provide medical education to over 100 students and will be equipped with modern facilities. According to a senior official, the college will help increase the state's medical infrastructure and provide better healthcare services to the people. [Scroll.in, September 15, 2026]",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Floods Affect Agriculture in South Bengal",
-        "summary": "Floods have affected agriculture in several districts of South Bengal. The incident has caused damage to crops and affected the livelihood of over 10,000 farmers. The state government has deployed teams to provide relief to the affected farmers. [The Hindu, September 15, 2026]",
+        "headline": "Farmers' Protest Against Land Acquisition for Highway Project",
+        "summary": "Farmers in a village in South Bengal have protested against the land acquisition for a highway project. The farmers, who are concerned about the impact of the project on their livelihoods, have demanded a higher compensation package from the government. The state government has promised to address the concerns of the farmers and provide a fair compensation package.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment"
+        "source": "Scroll.in",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Education Department to Launch Online Course for Teachers",
+        "summary": "The West Bengal Education Department is set to launch an online course for teachers. The course, which will provide training to teachers on new teaching methodologies and technologies, is expected to improve the quality of education in the state. The department has partnered with a leading educational institution to develop the course.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "WB Government Announces Initiative to Promote Organic Farming",
-      "Heavy Rains Cause Landslides in Darjeeling Hills",
-      "WB Government to Launch Skill Development Program for Youth",
-      "New Medical College to be Set Up in Howrah",
-      "Floods Affect Agriculture in South Bengal",
-      "West Bengal's Economy Grows 10% in Q2, 2026",
-      "WB Government to Implement New Education Policy",
-      "WB Government to Launch E-Mobility Initiative for Public Transport"
+      "TMC Govt. Announces 10% Hike in Minimum Wage for Construction Workers",
+      "River Ganga's Water Quality Improves Slightly, Says Government Report",
+      "New Medical College to be Set Up in North Bengal",
+      "Farmers' Protest Against Land Acquisition for Highway Project",
+      "Education Department to Launch Online Course for Teachers",
+      "Government to Launch New Scheme for Skill Development of Youth",
+      "WB Govt. to Increase Funding for Renewable Energy Projects",
+      "TMC Leaders Meet with Farmers to Discuss Compensation Package"
     ]
   },
   "contrast": {
@@ -160,76 +161,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Infrastructure|Transport",
-        "headline": "Metro Railway Services Disrupted Due to Power Grid Failure",
+        "category": "Economy",
+        "headline": "Food Prices Skyrocket in West Bengal Amidst Drought",
         "bullets": [
-          "The power grid failure hit the city's metro railway services at 8:30 am",
-          "According to a statement by the South Eastern Railway, the power grid failure was caused by a technical snag",
-          "This means commuters will face difficulties in reaching their destinations on time, affecting daily routines"
+          "Onion prices rose by 25% in the past fortnight, affecting 8.5 lakh families.",
+          "Data from the State Consumer Affairs Department shows a 30% spike in vegetable prices.",
+          "This means an average family of four will now spend ₹250 extra on vegetables every week."
         ],
-        "source": "Times of India",
+        "source": "West Bengal State Consumer Affairs Department",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "Government Announces ₹500 Bonus for 5 Lakh Workers",
+        "bullets": [
+          "The bonus will be disbursed within 30 days, benefiting 50% of the state's workforce.",
+          "This move is expected to inject ₹250 crore into the local economy.",
+          "For workers like Ramesh, a daily wager, this means an additional ₹1,000 in his pocket."
+        ],
+        "source": "West Bengal Labour Department",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria Cases Surge in West Bengal, 1,200 Hospitalized",
+        "bullets": [
+          "The state has reported 1,200 cases of malaria in the past month, a 50% increase.",
+          "The majority of cases are from rural areas, where healthcare infrastructure is scarce.",
+          "This means that 1 in 10 patients will now face delays in treatment due to hospital overcrowding."
+        ],
+        "source": "West Bengal Health Department",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Labor|Jobs",
-        "headline": "State Government Announces 500 New Job Openings in IT Sector",
+        "category": "Education",
+        "headline": "West Bengal Schools to Resume with 50% Attendance Cap",
         "bullets": [
-          "The new job openings will be created in the IT sector, with the government announcing new projects worth Rs. 100 crore",
-          "According to a government statement, the new jobs will be created in the next 6 months",
-          "This means young people in the state will have more opportunities to enter the IT sector and secure stable employment"
+          "The state government has ordered schools to limit attendance to 50% of capacity.",
+          "This decision aims to reduce the risk of COVID-19 transmission among students.",
+          "Parents will now need to adjust their schedules to ensure their children attend school only 3 days a week."
         ],
-        "source": "The Telegraph",
+        "source": "West Bengal Education Department",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Economy|Food Prices",
-        "headline": "Prices of Essential Commodities Rise by 15% in Last Month",
+        "category": "Infrastructure",
+        "headline": "2,500 Houses Still Without Power in West Bengal",
         "bullets": [
-          "According to data from the Consumer Affairs Department, the prices of essential commodities such as rice, wheat, and vegetables have increased by 15% in the last month",
-          "The data shows that the prices of rice have increased by 12% and wheat by 18%",
-          "This means that households will have to pay more for basic necessities, affecting their daily budgets"
+          "The state's power grid is still recovering from the cyclone that hit in August.",
+          "2,500 households in rural areas remain without electricity, affecting 10,000 residents.",
+          "This means that 2 in 5 residents will need to rely on generators or candles for lighting."
         ],
-        "source": "Economic Times",
+        "source": "West Bengal Power Department",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Health",
-        "headline": "New Government Hospital to Open in Rural Area Next Month",
+        "category": "Environment",
+        "headline": "River Ganga Water Quality Deteriorates in West Bengal",
         "bullets": [
-          "The new hospital will be opened in a rural area, providing healthcare services to a population of 50,000 people",
-          "According to a government statement, the hospital will have 100 beds and 5 operating theaters",
-          "This means that people in the rural area will have better access to healthcare services, reducing travel time to urban hospitals"
+          "Tests show a 20% increase in toxic pollutants in the river's waters.",
+          "The state's water quality monitoring system detected 15% more bacteria in the river.",
+          "This means that residents will need to take extra precautions when bathing or drinking from the river."
         ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
+        "source": "West Bengal Pollution Control Board",
+        "status": "UNVERIFIED",
         "impact_score": 5
-      },
-      {
-        "category": "Education|Schools",
-        "headline": "State Government Announces Free Bus Service for School Students",
-        "bullets": [
-          "The free bus service will be launched for school students, providing them with safe and reliable transportation",
-          "According to a government statement, the bus service will cover a distance of 20 km and will be available for 500 students",
-          "This means that students will have a safer and more reliable way to get to school, reducing the burden on parents"
-        ],
-        "source": "India Today",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Environment|Farming",
-        "headline": "Farmers' Protest Against New Agricultural Laws Continues",
-        "bullets": [
-          "The farmers' protest against new agricultural laws has been ongoing for 6 weeks, with thousands of farmers demanding changes to the laws",
-          "According to a statement by the farmers' union, the laws will affect their livelihoods and the environment",
-          "This means that the livelihoods of farmers and their families will be affected, and the environment will be impacted if the laws are not changed"
-        ],
-        "source": "The Indian Express",
-        "status": "DEVELOPING",
-        "impact_score": 3
       }
     ]
   },
