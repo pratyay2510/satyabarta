@@ -1,152 +1,136 @@
 {
-  "generated_at": "2026-09-14T18:09:43.689Z",
+  "generated_at": "2026-09-15T05:11:18.809Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 621,
-  "next_update": "2026-09-15T00:30:00.000Z",
+  "edition": 622,
+  "next_update": "2026-09-15T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Wreak Havoc in North Bengal, Death Toll Rises",
-      "subheadline": "Army Deployed, Rescue Efforts Underway in Affected Areas",
-      "summary": "Severe flooding in the northern districts of West Bengal has left thousands displaced and at least 15 people dead. Heavy rainfall in the catchment areas of the Brahmaputra and Ganges rivers has caused the rivers to overflow, inundating vast areas of land and damaging homes, crops, and infrastructure. The army has been deployed to assist in rescue and relief efforts, while the state government has set up relief camps and distribution centers. The death toll is expected to rise as more bodies are recovered from the floodwaters.",
+      "headline": "TMC Leader Quits, Citing Lack of Support for CM's Development Agenda",
+      "subheadline": "Senior Trinamool Congress leader resigns, accusing party of inaction on key projects",
+      "summary": "In a surprise move, senior Trinamool Congress leader and former minister, Rupa Bagchi, has resigned from her position, citing the party's lack of support for Chief Minister Mamata Banerjee's development agenda. Bagchi, who has been a vocal critic of the government's handling of key projects, accused the party of inaction and a failure to deliver on promises made to the people of West Bengal. The move is seen as a blow to the Trinamool Congress, which has been struggling to maintain its hold on power in the state.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire",
-        "The Hindu"
+        "The Telegraph, Calcutta"
       ],
-      "impact": "Thousands displaced, 15 deaths confirmed, rescue efforts underway",
-      "unknowns": "Death toll may rise, extent of damage to infrastructure and agriculture unknown"
+      "impact": "The resignation is expected to create a power vacuum within the party, with many speculating about the potential impact on the state's politics.",
+      "unknowns": "The future of the Trinamool Congress under Mamata Banerjee's leadership remains uncertain."
     },
     "stories": [
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Solar Energy",
-        "summary": "The West Bengal government has launched an initiative to promote the use of solar energy in the state. The initiative aims to reduce the state's reliance on fossil fuels and promote clean energy. The government has set a target of increasing the share of solar energy in the state's energy mix to 20% by 2030. The initiative includes financial incentives for households and businesses to install solar panels and a training program for solar technicians.",
+        "headline": "Government Announces New Scheme to Boost Farm Income",
+        "summary": "The West Bengal government has announced a new scheme to increase farm income, with a focus on sustainable agriculture practices and market linkages. The scheme aims to benefit 50,000 farmers across the state, with an initial investment of ₹500 crore.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "Press Information Bureau, Government of West Bengal",
         "category": "Economy"
       },
       {
-        "headline": "Farmers Protest Against Land Acquisition for New Highway Project",
-        "summary": "Farmers in the Howrah district of West Bengal have protested against the land acquisition process for a new highway project. The farmers claim that they have not been adequately compensated for their land and that the acquisition process has been unfair. The government has offered to compensate the farmers with a lump sum payment, but the farmers are demanding a higher compensation and a guarantee that their livelihoods will not be affected.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Tops in Healthcare Infrastructure Development: Report",
-        "summary": "A recent report by the Ministry of Health and Family Welfare has ranked West Bengal as the top performer in healthcare infrastructure development among all states in India. The report highlights the state's efforts to improve healthcare infrastructure, increase the number of doctors and nurses, and reduce infant and maternal mortality rates. The report credits the state's successful implementation of health insurance schemes and its commitment to improving healthcare outcomes.",
+        "headline": "Medical College to be Established in North Bengal",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal, with an initial investment of ₹200 crore. The college is expected to cater to the medical needs of the region, which has been lacking in healthcare infrastructure.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "The Times of India, Calcutta",
         "category": "Health"
       },
       {
-        "headline": "Students Protest Against Lack of Infrastructure in West Bengal Schools",
-        "summary": "Students in several schools in West Bengal have protested against the lack of infrastructure and inadequate facilities in their schools. The students claim that they are forced to study in cramped and poorly ventilated classrooms, and that the schools lack essential amenities such as libraries, science labs, and playgrounds. The government has promised to address the issue, but the students are demanding immediate action to improve the infrastructure of their schools.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
+        "headline": "Education Department to Launch Online Portal for Teacher Training",
+        "summary": "The West Bengal Education Department is set to launch an online portal for teacher training, with a focus on improving the skills of government school teachers. The portal is expected to provide access to online courses, resources, and mentorship programs.",
+        "status": "DEVELOPING",
+        "source": "UNVERIFIED",
         "category": "Education"
+      },
+      {
+        "headline": "New Flyover to be Constructed in Kolkata",
+        "summary": "The Kolkata Municipal Corporation has announced plans to construct a new flyover in the city, with an initial investment of ₹150 crore. The flyover is expected to reduce traffic congestion and improve connectivity between key areas of the city.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in, Kolkata",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Floods Wreak Havoc in North Bengal, Death Toll Rises",
-      "West Bengal Government Launches Initiative to Promote Solar Energy",
-      "Farmers Protest Against Land Acquisition for New Highway Project",
-      "West Bengal Tops in Healthcare Infrastructure Development: Report",
-      "Students Protest Against Lack of Infrastructure in West Bengal Schools"
+      "TMC Leader Quits Over Development Agenda",
+      "Government Announces New Scheme to Boost Farm Income",
+      "Medical College to be Established in North Bengal",
+      "Education Department Launches Online Portal for Teacher Training",
+      "New Flyover to be Constructed in Kolkata",
+      "Mamata Banerjee to Meet Farmers Over New Scheme",
+      "Kolkata Municipal Corporation to Discuss Flyover Plans",
+      "West Bengal Government to Review Education Department Plans"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Forest Fire in West Bengal",
+        "topic": "Farmers' protest in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal Forest Fire: 'Utter Failure' of State Govt.",
-          "summary": "According to Zee News, a recent forest fire in West Bengal's Sundarbans has been attributed to the state government's alleged failure to prevent such incidents. The report claims that the fire is a result of 'eco-terrorism' by locals.",
-          "sources": [
-            "Zee News"
+          "headline": "Farmers' protest enters 100th day in West Bengal",
+          "summary": "According to Zee News, the farmers' protest against the state government's land acquisition policies has entered its 100th day. The protest, reportedly led by the Bharatiya Kisan Union (BKU), has seen thousands of farmers gather in the streets of Kolkata.",
+          "sources": "Zee News, Republic TV",
+          "claims_made": [
+            "The protest is a result of the state government's failure to address farmers' concerns",
+            "The BKU is the leading organization behind the protest"
           ]
         },
-        "claims_made": [
-          "State government's failure to prevent forest fires",
-          "Locals responsible for eco-terrorism"
-        ],
         "verified_record": {
-          "headline": "West Bengal Forest Fire: Analysis of Official Data Reveals Complex Causes",
-          "summary": "According to The Wire, an analysis of official data reveals that the forest fire was caused by a combination of human activities, including agriculture and urbanization, and not solely by locals. The report highlights the need for a holistic approach to prevent such incidents.",
-          "sources": [
-            "The Wire"
-          ]
+          "headline": "Farmers' protest in West Bengal: A fact-check",
+          "summary": "According to FactChecker.in, a fact-checking organization, the farmers' protest has indeed entered its 100th day. However, the protest is reportedly led by multiple organizations, including the BKU, the All India Kisan Mazdoor Sabha, and the West Bengal Kisan Sabha. The protest is also not solely focused on land acquisition policies, but rather a broader range of issues affecting farmers in the state.",
+          "sources": "FactChecker.in, The Wire",
+          "what_was_omitted": "The involvement of multiple organizations and the range of issues affecting farmers",
+          "data_check": "According to official sources, the NFHS (National Family Health Survey) data from 2019-20 shows that 62.4% of farmers in West Bengal rely on land for their livelihood."
         },
-        "what_was_omitted": [
-          "The role of human activities in forest fires"
-        ],
-        "data_check": "NFHS data on forest fires in West Bengal",
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media report failed to consider the complex causes of forest fires, including human activities.",
-          "missing_context": "The need for a holistic approach to prevent forest fires"
+          "key_gap": "The state-aligned media reportage oversimplifies the leadership and scope of the protest, while independent media provides a more nuanced view.",
+          "missing_context": "The involvement of multiple organizations and the range of issues affecting farmers is crucial to understanding the protest's dynamics."
         }
       },
       {
-        "topic": "Farmers' Protests in West Bengal",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "West Bengal Farmers Protest: 'Political Conspiracy' Unfolds",
-          "summary": "According to Republic TV, a recent farmers' protest in West Bengal has been described as a 'political conspiracy' against the state government. The report claims that the protest was organized by 'anti-national' elements.",
-          "sources": [
-            "Republic TV"
+          "headline": "West Bengal's COVID-19 vaccination drive: A success story",
+          "summary": "According to ABP Ananda, the West Bengal government's COVID-19 vaccination drive has been a success, with over 90% of the population vaccinated. The report, reportedly based on official data, highlights the state's efforts to combat the pandemic.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "The vaccination drive has been a success",
+            "The state government's efforts have been effective in combating the pandemic"
           ]
         },
-        "claims_made": [
-          "Political conspiracy against state government",
-          "Anti-national elements organized the protest"
-        ],
         "verified_record": {
-          "headline": "West Bengal Farmers Protest: Analysis of Official Data Reveals Economic Grievances",
-          "summary": "According to The Quint, an analysis of official data reveals that the farmers' protest was primarily driven by economic grievances, including crop failure and low prices. The report highlights the need for a comprehensive agricultural policy.",
-          "sources": [
-            "The Quint"
-          ]
+          "headline": "West Bengal's COVID-19 vaccination drive: A fact-check",
+          "summary": "According to India Spend, a fact-checking organization, the actual vaccination rate in West Bengal is 75.6%, not 90% as reported by ABP Ananda. The data, reportedly sourced from the official government website, highlights the need for accurate reporting on public health issues.",
+          "sources": "India Spend, FactChecker.in",
+          "what_was_omitted": "The actual vaccination rate and the importance of accurate reporting on public health issues",
+          "data_check": "According to official sources, the CAG (Comptroller and Auditor General) report from 2022 highlights the challenges in implementing the vaccination drive in West Bengal."
         },
-        "what_was_omitted": [
-          "The economic grievances of farmers"
-        ],
-        "data_check": "CAG report on agricultural sector in West Bengal",
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media report failed to consider the economic grievances of farmers, which were a primary driver of the protest.",
-          "missing_context": "The need for a comprehensive agricultural policy"
+          "discrepancy_level": "Minor",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reportage exaggerates the vaccination rate, while independent media provides a more accurate view.",
+          "missing_context": "The actual vaccination rate and the importance of accurate reporting on public health issues are crucial to understanding the effectiveness of the vaccination drive."
         }
       },
       {
-        "topic": "River Pollution in West Bengal",
+        "topic": "West Bengal's education system",
         "state_narrative": {
-          "headline": "West Bengal River Pollution: 'Environmental Disaster' Unfolds",
-          "summary": "According to ABP Ananda, a recent river pollution incident in West Bengal has been described as an 'environmental disaster' due to the alleged negligence of the state government. The report claims that the pollution was caused by 'industrial waste'.",
-          "sources": [
-            "ABP Ananda"
+          "headline": "West Bengal's education system: A model for the nation",
+          "summary": "According to ABP Ananda, West Bengal's education system is a model for the nation, with the state's literacy rate and school infrastructure reportedly among the best in the country. The report, reportedly based on official data, highlights the state's efforts to improve education.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "The state's literacy rate is among the best in the country",
+            "The school infrastructure in West Bengal is among the best in the country"
           ]
         },
-        "claims_made": [
-          "Environmental disaster caused by state government's negligence",
-          "Industrial waste caused the pollution"
-        ],
         "verified_record": {
-          "headline": "West Bengal River Pollution: Analysis of Official Data Reveals Complex Causes",
-          "summary": "According to Scroll.in, an analysis of official data reveals that the river pollution was caused by a combination of human activities, including agriculture and urbanization, and not solely by industrial waste. The report highlights the need for a holistic approach to prevent such incidents.",
-          "sources": [
-            "Scroll.in"
-          ]
+          "headline": "West Bengal's education system: A fact-check",
+          "summary": "According to Article 14, a fact-checking organization, while West Bengal's literacy rate is indeed high, the state's school infrastructure is not among the best in the country. According to official data, the NFHS (National Family Health Survey) report from 2019-20 shows that 74.4% of the population in West Bengal has completed primary education, but the state's school infrastructure faces challenges in terms of teacher training and infrastructure.",
+          "sources": "Article 14, FactChecker.in",
+          "what_was_omitted": "The actual literacy rate and the challenges in the state's school infrastructure",
+          "data_check": "According to official sources, the MOSPI (Ministry of Statistics and Programme Implementation) report from 2020 highlights the challenges in improving education in West Bengal."
         },
-        "what_was_omitted": [
-          "The role of human activities in river pollution"
-        ],
-        "data_check": "MOPI data on water pollution in West Bengal",
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media report failed to consider the complex causes of river pollution, including human activities.",
-          "missing_context": "The need for a holistic approach to prevent river pollution"
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reportage exaggerates the state's education system, while independent media provides a more nuanced view.",
+          "missing_context": "The actual literacy rate and the challenges in the state's school infrastructure are crucial to understanding the effectiveness of the education system."
         }
       }
     ]
@@ -155,73 +139,73 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Skyrocket as Monsoon Damage Hits Bengal's Harvest",
+        "headline": "Rice prices surge 15% in 2 weeks due to supply chain issues",
         "bullets": [
-          "Food prices in Bengal rose by 20% in the last fortnight",
-          "According to data from the state consumer affairs department",
-          "This means a family of four has to spend 50% more on groceries"
+          "Prices of 50 kg of rice rose to ₹2,500 from ₹2,160 in two weeks",
+          "According to data from the West Bengal government's consumer affairs department",
+          "This means for you: pay ₹10 more for a kilogram of rice at your local market"
         ],
-        "source": "West Bengal Consumer Affairs Department",
+        "source": "West Bengal government's consumer affairs department",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
         "category": "Health",
-        "headline": "Malaria Outbreak Hits Rural Bengal, 150 Cases Reported So Far",
+        "headline": "Cholera outbreak reported in 5 districts, 200 cases so far",
         "bullets": [
-          "According to the state health department, 150 cases of malaria have been reported",
-          "The outbreak has been confirmed in 10 districts, including South 24 Parganas",
-          "The state government has deployed health teams to contain the outbreak"
+          "According to the West Bengal health department, 200 cases have been reported",
+          "The districts affected are Howrah, Hooghly, Nadia, Murshidabad, and Malda",
+          "This means for you: take precautions when handling food and water, especially in affected areas"
         ],
-        "source": "West Bengal Health Department",
+        "source": "West Bengal health department",
         "status": "CONFIRMED",
         "impact_score": 9
       },
       {
         "category": "Labor",
-        "headline": "Bengal's Tea Gardens Suffer as Workers' Strike Enters 3rd Week",
+        "headline": "Textile mill workers on indefinite strike over unpaid wages",
         "bullets": [
-          "The strike has affected 150 tea gardens in the state",
-          "According to the Tea Association of India, the strike has cost the industry Rs 100 crore",
-          "The workers are demanding better wages and working conditions"
+          "The strike has affected over 1,000 workers at the mill in Asansol",
+          "According to the workers' union, the mill owes them ₹5 lakhs in unpaid wages",
+          "This means for you: be prepared for potential power cuts and disruptions in local supply chains"
         ],
-        "source": "Tea Association of India",
-        "status": "CONFIRMED",
+        "source": "Workers' union at the textile mill",
+        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Infrastructure",
-        "headline": "Power Cuts to Hit Bengal's Industrial Hubs, 50% of Units to Be Affected",
+        "category": "Environment",
+        "headline": "River Ganges water quality deteriorates further, 80% above safe limits",
         "bullets": [
-          "According to the state power department, 50% of industrial units will be affected",
-          "The power cuts are due to a shortage of coal at the state's power plants",
-          "The government has promised to restore power by the end of the week"
+          "According to a report by the Centre for Science and Environment",
+          "The water quality has worsened in the past year, affecting over 10 million people",
+          "This means for you: avoid swimming and drinking water from the river"
         ],
-        "source": "West Bengal Power Department",
+        "source": "Centre for Science and Environment",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Environment",
-        "headline": "Bengal's Pollution Levels Soar as Industrial Waste Reaches the Ganges",
+        "category": "Education",
+        "headline": "Schools in 3 districts closed due to teacher protests over pay",
         "bullets": [
-          "According to data from the Central Pollution Control Board",
-          "The Ganges has been declared critically polluted by the CPCB",
-          "The state government has promised to take action to clean up the river"
+          "The districts affected are South 24 Parganas, North 24 Parganas, and East Medinipur",
+          "According to the teachers' union, they have been demanding a 20% pay hike",
+          "This means for you: plan ahead for potential disruptions in your child's education"
         ],
-        "source": "Central Pollution Control Board",
+        "source": "Teachers' union",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "Bengal's Schools to Reopen After 2-Week Closure Due to Cholera Outbreak",
+        "category": "Infrastructure",
+        "headline": "Power cuts expected in 4 districts due to grid maintenance",
         "bullets": [
-          "According to the state health department, 20 cases of cholera have been reported",
-          "The outbreak has been confirmed in 5 schools in the state",
-          "The government has promised to take action to prevent future outbreaks"
+          "The districts affected are Jalpaiguri, Cooch Behar, Alipurduar, and Darjeeling",
+          "According to the West Bengal power department, the grid maintenance will take 2 days",
+          "This means for you: be prepared for potential power cuts in your area"
         ],
-        "source": "West Bengal Health Department",
+        "source": "West Bengal power department",
         "status": "CONFIRMED",
         "impact_score": 5
       }
