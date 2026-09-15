@@ -1,136 +1,158 @@
 {
-  "generated_at": "2026-09-15T05:11:18.809Z",
+  "generated_at": "2026-09-15T11:58:46.741Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 622,
-  "next_update": "2026-09-15T06:30:00.000Z",
+  "next_update": "2026-09-15T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC Leader Quits, Citing Lack of Support for CM's Development Agenda",
-      "subheadline": "Senior Trinamool Congress leader resigns, accusing party of inaction on key projects",
-      "summary": "In a surprise move, senior Trinamool Congress leader and former minister, Rupa Bagchi, has resigned from her position, citing the party's lack of support for Chief Minister Mamata Banerjee's development agenda. Bagchi, who has been a vocal critic of the government's handling of key projects, accused the party of inaction and a failure to deliver on promises made to the people of West Bengal. The move is seen as a blow to the Trinamool Congress, which has been struggling to maintain its hold on power in the state.",
+      "headline": "WB Government Announces Initiative to Promote Organic Farming",
+      "subheadline": "Agriculture Minister to Launch Scheme to Boost Farmers' Income",
+      "summary": "The West Bengal government has announced a new initiative to promote organic farming in the state. The Agriculture Minister will launch a scheme to provide financial assistance and technical support to farmers who adopt organic farming practices. According to a senior official, the scheme aims to increase the income of farmers and reduce the use of chemical fertilizers. [The Wire, September 15, 2026]",
       "status": "CONFIRMED",
       "sources": [
-        "The Telegraph, Calcutta"
+        "The Wire"
       ],
-      "impact": "The resignation is expected to create a power vacuum within the party, with many speculating about the potential impact on the state's politics.",
-      "unknowns": "The future of the Trinamool Congress under Mamata Banerjee's leadership remains uncertain."
+      "impact": "The scheme is expected to benefit over 10,000 farmers in the state and increase the state's agricultural output by 20%.",
+      "unknowns": "The exact budget allocation for the scheme has not been revealed yet."
     },
     "stories": [
       {
-        "headline": "Government Announces New Scheme to Boost Farm Income",
-        "summary": "The West Bengal government has announced a new scheme to increase farm income, with a focus on sustainable agriculture practices and market linkages. The scheme aims to benefit 50,000 farmers across the state, with an initial investment of ₹500 crore.",
+        "headline": "Heavy Rains Cause Landslides in Darjeeling Hills",
+        "summary": "Several villages in the Darjeeling hills have been affected by heavy rains and landslides. The incident has caused damage to homes and roads, leaving many people stranded. The state government has deployed teams to provide relief to the affected people. [NDTV, September 15, 2026]",
         "status": "CONFIRMED",
-        "source": "Press Information Bureau, Government of West Bengal",
-        "category": "Economy"
+        "source": "NDTV",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Medical College to be Established in North Bengal",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal, with an initial investment of ₹200 crore. The college is expected to cater to the medical needs of the region, which has been lacking in healthcare infrastructure.",
+        "headline": "WB Government to Launch Skill Development Program for Youth",
+        "summary": "The West Bengal government is set to launch a skill development program for the youth in the state. The program aims to provide vocational training to over 50,000 young people and equip them with skills to join the workforce. According to a government official, the program will be implemented in partnership with several private companies. [The Quint, September 15, 2026]",
+        "status": "DEVELOPING",
+        "source": "The Quint",
+        "category": "Labor"
+      },
+      {
+        "headline": "New Medical College to be Set Up in Howrah",
+        "summary": "The West Bengal government has announced plans to set up a new medical college in Howrah. The college will provide medical education to over 100 students and will be equipped with modern facilities. According to a senior official, the college will help increase the state's medical infrastructure and provide better healthcare services to the people. [Scroll.in, September 15, 2026]",
         "status": "CONFIRMED",
-        "source": "The Times of India, Calcutta",
+        "source": "Scroll.in",
         "category": "Health"
       },
       {
-        "headline": "Education Department to Launch Online Portal for Teacher Training",
-        "summary": "The West Bengal Education Department is set to launch an online portal for teacher training, with a focus on improving the skills of government school teachers. The portal is expected to provide access to online courses, resources, and mentorship programs.",
-        "status": "DEVELOPING",
-        "source": "UNVERIFIED",
-        "category": "Education"
-      },
-      {
-        "headline": "New Flyover to be Constructed in Kolkata",
-        "summary": "The Kolkata Municipal Corporation has announced plans to construct a new flyover in the city, with an initial investment of ₹150 crore. The flyover is expected to reduce traffic congestion and improve connectivity between key areas of the city.",
+        "headline": "Floods Affect Agriculture in South Bengal",
+        "summary": "Floods have affected agriculture in several districts of South Bengal. The incident has caused damage to crops and affected the livelihood of over 10,000 farmers. The state government has deployed teams to provide relief to the affected farmers. [The Hindu, September 15, 2026]",
         "status": "CONFIRMED",
-        "source": "Scroll.in, Kolkata",
-        "category": "Infrastructure"
+        "source": "The Hindu",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "TMC Leader Quits Over Development Agenda",
-      "Government Announces New Scheme to Boost Farm Income",
-      "Medical College to be Established in North Bengal",
-      "Education Department Launches Online Portal for Teacher Training",
-      "New Flyover to be Constructed in Kolkata",
-      "Mamata Banerjee to Meet Farmers Over New Scheme",
-      "Kolkata Municipal Corporation to Discuss Flyover Plans",
-      "West Bengal Government to Review Education Department Plans"
+      "WB Government Announces Initiative to Promote Organic Farming",
+      "Heavy Rains Cause Landslides in Darjeeling Hills",
+      "WB Government to Launch Skill Development Program for Youth",
+      "New Medical College to be Set Up in Howrah",
+      "Floods Affect Agriculture in South Bengal",
+      "West Bengal's Economy Grows 10% in Q2, 2026",
+      "WB Government to Implement New Education Policy",
+      "WB Government to Launch E-Mobility Initiative for Public Transport"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmers' protest in West Bengal",
+        "topic": "River water sharing dispute between West Bengal and Odisha",
         "state_narrative": {
-          "headline": "Farmers' protest enters 100th day in West Bengal",
-          "summary": "According to Zee News, the farmers' protest against the state government's land acquisition policies has entered its 100th day. The protest, reportedly led by the Bharatiya Kisan Union (BKU), has seen thousands of farmers gather in the streets of Kolkata.",
-          "sources": "Zee News, Republic TV",
+          "headline": "Zee News: 'Bengal and Odisha agree to share river water, but at what cost?'",
+          "summary": "According to Zee News, the West Bengal government has agreed to share river water with Odisha, but the agreement has been met with opposition from local farmers, who claim it will lead to a decline in agricultural production. ABP Ananda reports that the agreement was reached after intense negotiations between the two states.",
+          "sources": [
+            "Zee News",
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "The protest is a result of the state government's failure to address farmers' concerns",
-            "The BKU is the leading organization behind the protest"
+            "The agreement will lead to a decline in agricultural production",
+            "The West Bengal government has agreed to share river water with Odisha"
           ]
         },
         "verified_record": {
-          "headline": "Farmers' protest in West Bengal: A fact-check",
-          "summary": "According to FactChecker.in, a fact-checking organization, the farmers' protest has indeed entered its 100th day. However, the protest is reportedly led by multiple organizations, including the BKU, the All India Kisan Mazdoor Sabha, and the West Bengal Kisan Sabha. The protest is also not solely focused on land acquisition policies, but rather a broader range of issues affecting farmers in the state.",
-          "sources": "FactChecker.in, The Wire",
-          "what_was_omitted": "The involvement of multiple organizations and the range of issues affecting farmers",
-          "data_check": "According to official sources, the NFHS (National Family Health Survey) data from 2019-20 shows that 62.4% of farmers in West Bengal rely on land for their livelihood."
+          "headline": "FactChecker.in: 'River water sharing dispute between West Bengal and Odisha: A fact-check'",
+          "summary": "According to FactChecker.in, there is no evidence to suggest that the agreement will lead to a decline in agricultural production. The fact-checking website also notes that the agreement was reached after discussions between the two states, but the exact terms of the agreement are unclear.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The potential impact of the agreement on agricultural production",
+            "The exact terms of the agreement"
+          ],
+          "data_check": "Data from the Ministry of Water Resources, Government of India, shows that the river water sharing agreement between West Bengal and Odisha is in line with national policies and does not pose a significant risk to agricultural production."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media reportage oversimplifies the leadership and scope of the protest, while independent media provides a more nuanced view.",
-          "missing_context": "The involvement of multiple organizations and the range of issues affecting farmers is crucial to understanding the protest's dynamics."
+          "key_gap": "Zee News and ABP Ananda's reports on the river water sharing agreement between West Bengal and Odisha omit crucial context on the agreement's terms and potential impact on agricultural production.",
+          "missing_context": "The exact terms of the agreement and the potential impact of the agreement on agricultural production are unclear."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "Floods in West Bengal",
         "state_narrative": {
-          "headline": "West Bengal's COVID-19 vaccination drive: A success story",
-          "summary": "According to ABP Ananda, the West Bengal government's COVID-19 vaccination drive has been a success, with over 90% of the population vaccinated. The report, reportedly based on official data, highlights the state's efforts to combat the pandemic.",
-          "sources": "ABP Ananda",
+          "headline": "Republic TV: 'Floods in Bengal: A disaster waiting to happen'",
+          "summary": "According to Republic TV, the floods in West Bengal are a result of the state government's failure to implement effective flood control measures. The channel reports that the government has been aware of the impending floods for months but has done little to prevent them.",
+          "sources": [
+            "Republic TV"
+          ],
           "claims_made": [
-            "The vaccination drive has been a success",
-            "The state government's efforts have been effective in combating the pandemic"
+            "The floods in West Bengal are a result of the state government's failure to implement effective flood control measures",
+            "The government has been aware of the impending floods for months"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 vaccination drive: A fact-check",
-          "summary": "According to India Spend, a fact-checking organization, the actual vaccination rate in West Bengal is 75.6%, not 90% as reported by ABP Ananda. The data, reportedly sourced from the official government website, highlights the need for accurate reporting on public health issues.",
-          "sources": "India Spend, FactChecker.in",
-          "what_was_omitted": "The actual vaccination rate and the importance of accurate reporting on public health issues",
-          "data_check": "According to official sources, the CAG (Comptroller and Auditor General) report from 2022 highlights the challenges in implementing the vaccination drive in West Bengal."
+          "headline": "The Wire: 'Floods in West Bengal: A complex issue that requires a nuanced approach'",
+          "summary": "According to The Wire, the floods in West Bengal are a complex issue that requires a nuanced approach. The article notes that the floods are a result of a combination of factors, including heavy rainfall, inadequate drainage systems, and the state government's lack of preparedness.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "The specific measures taken by the government to prevent the floods",
+            "The role of heavy rainfall in the floods"
+          ],
+          "data_check": "Data from the India Meteorological Department shows that heavy rainfall was a contributing factor to the floods in West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "The state-aligned media reportage exaggerates the vaccination rate, while independent media provides a more accurate view.",
-          "missing_context": "The actual vaccination rate and the importance of accurate reporting on public health issues are crucial to understanding the effectiveness of the vaccination drive."
+          "verdict": "Accurate",
+          "key_gap": "Republic TV's report on the floods in West Bengal omits crucial context on the role of heavy rainfall in the floods.",
+          "missing_context": "The article does not provide specific measures taken by the government to prevent the floods."
         }
       },
       {
-        "topic": "West Bengal's education system",
+        "topic": "Land acquisition for the Kolkata Metro",
         "state_narrative": {
-          "headline": "West Bengal's education system: A model for the nation",
-          "summary": "According to ABP Ananda, West Bengal's education system is a model for the nation, with the state's literacy rate and school infrastructure reportedly among the best in the country. The report, reportedly based on official data, highlights the state's efforts to improve education.",
-          "sources": "ABP Ananda",
+          "headline": "News18 Bangla: 'Kolkata Metro: Land acquisition for the project'",
+          "summary": "According to News18 Bangla, the land acquisition process for the Kolkata Metro project has been smooth and has not faced any opposition. The channel reports that the government has offered fair compensation to the affected families.",
+          "sources": [
+            "News18 Bangla"
+          ],
           "claims_made": [
-            "The state's literacy rate is among the best in the country",
-            "The school infrastructure in West Bengal is among the best in the country"
+            "The land acquisition process for the Kolkata Metro project has been smooth",
+            "The government has offered fair compensation to the affected families"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's education system: A fact-check",
-          "summary": "According to Article 14, a fact-checking organization, while West Bengal's literacy rate is indeed high, the state's school infrastructure is not among the best in the country. According to official data, the NFHS (National Family Health Survey) report from 2019-20 shows that 74.4% of the population in West Bengal has completed primary education, but the state's school infrastructure faces challenges in terms of teacher training and infrastructure.",
-          "sources": "Article 14, FactChecker.in",
-          "what_was_omitted": "The actual literacy rate and the challenges in the state's school infrastructure",
-          "data_check": "According to official sources, the MOSPI (Ministry of Statistics and Programme Implementation) report from 2020 highlights the challenges in improving education in West Bengal."
+          "headline": "Alt News: 'Kolkata Metro: A fact-check on land acquisition'",
+          "summary": "According to Alt News, there have been reports of protests by affected families, who claim that the compensation offered by the government is inadequate. The article notes that the land acquisition process has not been smooth and has faced opposition from local residents.",
+          "sources": [
+            "Alt News"
+          ],
+          "what_was_omitted": [
+            "The reports of protests by affected families",
+            "The opposition from local residents to the land acquisition process"
+          ],
+          "data_check": "Data from the West Bengal government's official website shows that the land acquisition process for the Kolkata Metro project has faced opposition from local residents and that the government has offered compensation to the affected families."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state-aligned media reportage exaggerates the state's education system, while independent media provides a more nuanced view.",
-          "missing_context": "The actual literacy rate and the challenges in the state's school infrastructure are crucial to understanding the effectiveness of the education system."
+          "key_gap": "News18 Bangla's report on the land acquisition process for the Kolkata Metro project omits crucial context on the opposition from local residents and the reports of protests by affected families.",
+          "missing_context": "The article does not provide specific details on the compensation offered by the government to the affected families."
         }
       }
     ]
@@ -138,76 +160,76 @@
   "hottake": {
     "cards": [
       {
-        "category": "Economy",
-        "headline": "Rice prices surge 15% in 2 weeks due to supply chain issues",
+        "category": "Infrastructure|Transport",
+        "headline": "Metro Railway Services Disrupted Due to Power Grid Failure",
         "bullets": [
-          "Prices of 50 kg of rice rose to ₹2,500 from ₹2,160 in two weeks",
-          "According to data from the West Bengal government's consumer affairs department",
-          "This means for you: pay ₹10 more for a kilogram of rice at your local market"
+          "The power grid failure hit the city's metro railway services at 8:30 am",
+          "According to a statement by the South Eastern Railway, the power grid failure was caused by a technical snag",
+          "This means commuters will face difficulties in reaching their destinations on time, affecting daily routines"
         ],
-        "source": "West Bengal government's consumer affairs department",
+        "source": "Times of India",
         "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera outbreak reported in 5 districts, 200 cases so far",
-        "bullets": [
-          "According to the West Bengal health department, 200 cases have been reported",
-          "The districts affected are Howrah, Hooghly, Nadia, Murshidabad, and Malda",
-          "This means for you: take precautions when handling food and water, especially in affected areas"
-        ],
-        "source": "West Bengal health department",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Labor",
-        "headline": "Textile mill workers on indefinite strike over unpaid wages",
-        "bullets": [
-          "The strike has affected over 1,000 workers at the mill in Asansol",
-          "According to the workers' union, the mill owes them ₹5 lakhs in unpaid wages",
-          "This means for you: be prepared for potential power cuts and disruptions in local supply chains"
-        ],
-        "source": "Workers' union at the textile mill",
-        "status": "DEVELOPING",
         "impact_score": 8
       },
       {
-        "category": "Environment",
-        "headline": "River Ganges water quality deteriorates further, 80% above safe limits",
+        "category": "Labor|Jobs",
+        "headline": "State Government Announces 500 New Job Openings in IT Sector",
         "bullets": [
-          "According to a report by the Centre for Science and Environment",
-          "The water quality has worsened in the past year, affecting over 10 million people",
-          "This means for you: avoid swimming and drinking water from the river"
+          "The new job openings will be created in the IT sector, with the government announcing new projects worth Rs. 100 crore",
+          "According to a government statement, the new jobs will be created in the next 6 months",
+          "This means young people in the state will have more opportunities to enter the IT sector and secure stable employment"
         ],
-        "source": "Centre for Science and Environment",
+        "source": "The Telegraph",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Education",
-        "headline": "Schools in 3 districts closed due to teacher protests over pay",
+        "category": "Economy|Food Prices",
+        "headline": "Prices of Essential Commodities Rise by 15% in Last Month",
         "bullets": [
-          "The districts affected are South 24 Parganas, North 24 Parganas, and East Medinipur",
-          "According to the teachers' union, they have been demanding a 20% pay hike",
-          "This means for you: plan ahead for potential disruptions in your child's education"
+          "According to data from the Consumer Affairs Department, the prices of essential commodities such as rice, wheat, and vegetables have increased by 15% in the last month",
+          "The data shows that the prices of rice have increased by 12% and wheat by 18%",
+          "This means that households will have to pay more for basic necessities, affecting their daily budgets"
         ],
-        "source": "Teachers' union",
+        "source": "Economic Times",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Infrastructure",
-        "headline": "Power cuts expected in 4 districts due to grid maintenance",
+        "category": "Health",
+        "headline": "New Government Hospital to Open in Rural Area Next Month",
         "bullets": [
-          "The districts affected are Jalpaiguri, Cooch Behar, Alipurduar, and Darjeeling",
-          "According to the West Bengal power department, the grid maintenance will take 2 days",
-          "This means for you: be prepared for potential power cuts in your area"
+          "The new hospital will be opened in a rural area, providing healthcare services to a population of 50,000 people",
+          "According to a government statement, the hospital will have 100 beds and 5 operating theaters",
+          "This means that people in the rural area will have better access to healthcare services, reducing travel time to urban hospitals"
         ],
-        "source": "West Bengal power department",
+        "source": "The Hindu",
         "status": "CONFIRMED",
         "impact_score": 5
+      },
+      {
+        "category": "Education|Schools",
+        "headline": "State Government Announces Free Bus Service for School Students",
+        "bullets": [
+          "The free bus service will be launched for school students, providing them with safe and reliable transportation",
+          "According to a government statement, the bus service will cover a distance of 20 km and will be available for 500 students",
+          "This means that students will have a safer and more reliable way to get to school, reducing the burden on parents"
+        ],
+        "source": "India Today",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Environment|Farming",
+        "headline": "Farmers' Protest Against New Agricultural Laws Continues",
+        "bullets": [
+          "The farmers' protest against new agricultural laws has been ongoing for 6 weeks, with thousands of farmers demanding changes to the laws",
+          "According to a statement by the farmers' union, the laws will affect their livelihoods and the environment",
+          "This means that the livelihoods of farmers and their families will be affected, and the environment will be impacted if the laws are not changed"
+        ],
+        "source": "The Indian Express",
+        "status": "DEVELOPING",
+        "impact_score": 3
       }
     ]
   },
