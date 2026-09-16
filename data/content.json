@@ -1,197 +1,235 @@
 {
-  "generated_at": "2026-09-16T11:53:46.611Z",
+  "generated_at": "2026-09-16T17:15:01.398Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 623,
-  "next_update": "2026-09-16T12:30:00.000Z",
+  "next_update": "2026-09-17T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Devastate West Bengal's Crop-Heavy Regions",
-      "subheadline": "State Government Announces Rs 100 Crore Relief Package",
-      "summary": "Heavy rainfall has led to widespread flooding in West Bengal's crop-heavy regions, affecting over 50,000 farmers. The state government has announced a relief package of Rs 100 crore to support affected farmers. The package will provide compensation to farmers who have lost their crops and assist in the rebuilding of damaged infrastructure. The floods have also raised concerns about water-borne diseases and the state government has deployed health teams to affected areas.",
-      "status": "CONFIRMED",
+      "headline": "West Bengal Sees 10% Rise in Farm Productivity Amid Monsoon",
+      "subheadline": "State's Agri Department Credits Improved Irrigation, Crop Diversification",
+      "summary": "West Bengal has witnessed a 10% rise in farm productivity during the recent monsoon season, according to official data. The state's agriculture department attributes this growth to improved irrigation facilities and increased crop diversification. Experts say this could have a positive impact on the state's economy, which has been struggling in recent years. [UNVERIFIED] The exact reasons behind this increase are still being studied by agricultural scientists.",
+      "status": "DEVELOPING",
       "sources": [
-        "NDTV, The Hindu"
+        "data.gov.in",
+        "mospi.gov.in"
       ],
-      "impact": "Farmers' livelihoods affected, potential health risks",
-      "unknowns": "Long-term impact on agriculture"
+      "impact": "Rise in farm productivity could lead to increased employment opportunities and economic growth",
+      "unknowns": "Long-term sustainability of agricultural growth remains a concern"
     },
     "stories": [
       {
-        "headline": "West Bengal's Education System Ranks 10th Nationally",
-        "summary": "According to the National Educational Research and Training (NERST) report, West Bengal's education system ranks 10th nationally in terms of student-teacher ratio and infrastructure. However, the state's education sector faces challenges such as inadequate funding and outdated curriculum.",
+        "headline": "Kolkata's Air Quality Index Worsens Amidst Increased Pollution",
+        "summary": "The Air Quality Index (AQI) in Kolkata has worsened in recent weeks, with pollution levels exceeding safe limits. The Kolkata Municipal Corporation (KMC) has attributed this increase to increased industrial activity and vehicular emissions.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "NDTV",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Government Launches Free Online Education Platform",
+        "summary": "The West Bengal government has launched a free online education platform, aiming to increase access to quality education for underprivileged students. The platform will offer courses in various subjects, including mathematics, science, and humanities.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "New Industrial Hub to be Set Up in South Bengal",
-        "summary": "[UNVERIFIED] The state government is planning to set up a new industrial hub in South Bengal, which is expected to create jobs for over 10,000 people. However, the exact location and details of the project are yet to be announced.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Infrastructure"
+        "headline": "Fact-Check: No Evidence of 'Ghost' School in West Bengal",
+        "summary": "A recent report claimed that a 'ghost' school existed in West Bengal, with no students or teachers present. However, after investigation, no evidence of such a school could be found. The report appears to be [UNVERIFIED].",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Education"
       },
       {
-        "headline": "West Bengal's Healthcare System Faces Staffing Shortage",
-        "summary": "According to a report by the state health department, West Bengal's healthcare system is facing a severe shortage of medical professionals, particularly in rural areas. The shortage has raised concerns about patient care and the state government has announced plans to recruit more medical professionals.",
+        "headline": "West Bengal's Healthcare Infrastructure Faces Staff Shortage",
+        "summary": "The West Bengal healthcare system is facing a severe shortage of medical staff, with many positions remaining vacant. Experts warn that this could lead to decreased healthcare quality and increased patient mortality rates.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "The Caravan",
         "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Labor Laws to be Overhauled",
-        "summary": "The state government is planning to overhaul West Bengal's labor laws to make them more industry-friendly. The new laws are expected to provide more flexibility to employers and reduce the burden of compliance. However, trade unions have expressed concerns about the impact on workers' rights.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Labor"
       }
     ],
     "ticker": [
-      "Floods Devastate West Bengal's Crop-Heavy Regions",
-      "West Bengal's Education System Ranks 10th Nationally",
-      "New Industrial Hub to be Set Up in South Bengal",
-      "West Bengal's Healthcare System Faces Staffing Shortage",
-      "West Bengal's Labor Laws to be Overhauled"
+      "Kolkata's AQI worsens, pollution levels rise",
+      "West Bengal govt launches free online education platform",
+      "Fact-check: No evidence of 'ghost' school",
+      "Healthcare staff shortage hits West Bengal",
+      "Farm productivity rises, but sustainability concerns remain",
+      "Government launches free online education platform",
+      "AQI worsens in Kolkata, pollution levels exceed safe limits",
+      "Healthcare staff shortage continues, affects patient care"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmers' Protest in West Bengal",
+        "topic": "River erosion in West Bengal",
         "state_narrative": {
-          "headline": "TMC Government Evicts Farmers from Protest Site, Alleges BJP",
-          "summary": "According to Zee News, the TMC government evicted farmers from a protest site in West Bengal, with the BJP alleging that the move was an attempt to suppress the farmers' voices. The report claims that the farmers were forced to vacate the site after the government issued a notice stating that the land was private property.",
-          "sources": "Zee News"
+          "headline": "River erosion: Zee News reports 100 villages affected, while FactChecker.in cites 2019 census data",
+          "summary": "According to Zee News, 100 villages in West Bengal have been affected by river erosion, while FactChecker.in reports that the state government has been unable to provide an exact number of affected villages, citing the 2019 census data which showed that only 13% of the population in the affected areas lives in villages.",
+          "sources": [
+            "Zee News, FactChecker.in"
+          ],
+          "claims_made": [
+            "100 villages affected",
+            "state government unable to provide exact number of affected villages"
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal Government Evicts Farmers from Protest Site, but Farmers' Union Denies Forced Eviction",
-          "summary": "According to The Wire, the West Bengal government evicted farmers from a protest site, but the farmers' union denied that the eviction was forced. The report notes that the farmers' union claimed that they had vacated the site voluntarily after the government agreed to relocate them to a nearby field.",
-          "sources": "The Wire",
-          "what_was_omitted": "The report by Zee News does not mention the agreement between the government and the farmers' union, creating an impression that the eviction was forced.",
-          "data_check": "According to the West Bengal government's official statement, the eviction was carried out after the farmers' union agreed to vacate the site and relocate to a nearby field."
+          "headline": "River erosion in West Bengal: Facts and figures",
+          "summary": "According to the 2019 census data, 13% of the population in the affected areas lives in villages. The state government has been unable to provide an exact number of affected villages.",
+          "sources": [
+            "2019 census data"
+          ],
+          "what_was_omitted": [
+            "the number of people affected by river erosion"
+          ],
+          "data_check": "The 2019 census data is the primary source for this information."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The Zee News report creates an impression that the eviction was forced, whereas the actual agreement between the government and the farmers' union suggests a voluntary vacating of the site.",
-          "missing_context": "The report by Zee News lacks context about the agreement between the government and the farmers' union, creating confusion about the nature of the eviction."
+          "key_gap": "Zee News' claim of 100 villages affected is likely an exaggeration.",
+          "missing_context": "The lack of context regarding the number of people affected by river erosion makes it difficult to understand the scope of the issue."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "Mamata Banerjee's approval rating",
         "state_narrative": {
-          "headline": "West Bengal Government Fails to Meet Vaccination Targets, Says BJP",
-          "summary": "According to Republic TV, the West Bengal government has failed to meet its vaccination targets, with the BJP alleging that the government's efforts are inadequate. The report claims that only 10% of the target population has been vaccinated.",
-          "sources": "Republic TV"
+          "headline": "Mamata Banerjee's approval rating: ABP Ananda reports 70% approval rating, while The Wire cites a lower rating",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has an approval rating of 70%. However, The Wire reports that the actual approval rating is lower, citing a survey.",
+          "sources": [
+            "ABP Ananda, The Wire"
+          ],
+          "claims_made": [
+            "70% approval rating",
+            "actual approval rating is lower"
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Fact-Check",
-          "summary": "According to FactChecker.in, the West Bengal government has made significant progress in its vaccination drive, with over 50% of the target population vaccinated. The report notes that the government has been working to improve the vaccination rate, but there is no evidence to suggest that it has failed to meet its targets.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": "The report by Republic TV does not provide any evidence to support its claim that the government has failed to meet its targets.",
-          "data_check": "According to the West Bengal government's official data, over 50% of the target population has been vaccinated, and the government continues to work to improve the vaccination rate."
+          "headline": "Mamata Banerjee's approval rating: Facts and figures",
+          "summary": "According to a survey, Mamata Banerjee's approval rating is lower than 70%. The exact rating is not available.",
+          "sources": [
+            "survey"
+          ],
+          "what_was_omitted": [
+            "the exact approval rating"
+          ],
+          "data_check": "The survey is the primary source for this information."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The Republic TV report creates a misleading impression that the West Bengal government has failed to meet its vaccination targets, whereas the actual data suggests significant progress in the vaccination drive.",
-          "missing_context": "The report by Republic TV lacks context about the government's efforts to improve the vaccination rate, creating confusion about the effectiveness of the vaccination drive."
+          "key_gap": "ABP Ananda's claim of a 70% approval rating is likely an exaggeration.",
+          "missing_context": "The lack of context regarding the actual approval rating makes it difficult to understand the scope of the issue."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's economy",
         "state_narrative": {
-          "headline": "TMC Government's Education Policies: A Failure, Says ABP Ananda",
-          "summary": "According to ABP Ananda, the TMC government's education policies have failed to improve the education sector in West Bengal. The report claims that the government's policies have led to a decline in the quality of education.",
-          "sources": "ABP Ananda"
+          "headline": "West Bengal's economy: News18 Bangla reports 10% GDP growth, while FactChecker.in cites lower growth rate",
+          "summary": "According to News18 Bangla, West Bengal's economy has grown by 10% in the past year. However, FactChecker.in reports that the actual growth rate is lower, citing data from the Reserve Bank of India.",
+          "sources": [
+            "News18 Bangla, FactChecker.in"
+          ],
+          "claims_made": [
+            "10% GDP growth",
+            "actual growth rate is lower"
+          ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: A Fact-Check",
-          "summary": "According to Article 14, the TMC government's education policies have shown some improvement in the education sector, with a slight increase in the literacy rate and a decrease in the dropout rate. The report notes that while there is still room for improvement, the government's policies have had a positive impact on the education sector.",
-          "sources": "Article 14",
-          "what_was_omitted": "The report by ABP Ananda does not mention the slight increase in the literacy rate and the decrease in the dropout rate, creating a negative impression about the government's policies.",
-          "data_check": "According to the West Bengal government's official data, the literacy rate has increased by 2% and the dropout rate has decreased by 5% since the government implemented its education policies."
+          "headline": "West Bengal's economy: Facts and figures",
+          "summary": "According to data from the Reserve Bank of India, West Bengal's economy has grown at a lower rate than 10% in the past year.",
+          "sources": [
+            "Reserve Bank of India"
+          ],
+          "what_was_omitted": [
+            "the exact growth rate"
+          ],
+          "data_check": "The data from the Reserve Bank of India is the primary source for this information."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The ABP Ananda report creates a negative impression about the TMC government's education policies, whereas the actual data suggests some improvement in the education sector.",
-          "missing_context": "The report by ABP Ananda lacks context about the slight increase in the literacy rate and the decrease in the dropout rate, creating confusion about the effectiveness of the government's policies."
+          "key_gap": "News18 Bangla's claim of a 10% GDP growth is likely an overestimation.",
+          "missing_context": "The lack of context regarding the actual growth rate makes it difficult to understand the scope of the issue."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Inflation Hits 12-Year High: Food Prices Soar 15% in August",
-      "bullets": [
-        "According to RBI data, food inflation rose to 15.1% in August 2026, highest since 2014.",
-        "This increase is attributed to the rising cost of vegetables, fruits, and grains.",
-        "As a result, common households in West Bengal are facing difficulties in affording basic necessities."
-      ],
-      "source": "Reserve Bank of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Government Announces 10% Wage Hike for State Employees",
-      "bullets": [
-        "The hike, effective from October 1, 2026, will benefit over 1.5 lakh employees.",
-        "This move aims to address the long-standing demand of state employees for a salary revision.",
-        "The increased wages will also help stimulate local economies."
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Major Power Cut Hits Kolkata, Affects 500,000 Residents",
-      "bullets": [
-        "The power outage, lasting 4 hours, occurred on Tuesday evening due to a grid failure.",
-        "Several areas in South Kolkata were affected, causing disruptions to businesses and daily life.",
-        "The electricity board has promised to restore power by midnight."
-      ],
-      "source": "Kolkata Municipal Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Deteriorates Further: 90% Polluted",
-      "bullets": [
-        "According to a recent report by the Centre for Science and Environment, the Ganga's water quality has worsened.",
-        "The report highlights the presence of toxic chemicals and pollutants in the river.",
-        "This poses serious health risks to the millions of people who rely on the Ganga for drinking water and livelihoods."
-      ],
-      "source": "Centre for Science and Environment",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Health",
-      "headline": "Newborn Mortality Rate Rises 20% in West Bengal: Experts Alarmed",
-      "bullets": [
-        "The rise in newborn mortality rate is attributed to inadequate healthcare facilities and services.",
-        "According to data from the West Bengal Health Department, the mortality rate has increased by 20% since 2025.",
-        "Experts warn that this trend can have long-term consequences for the state's population."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education for 10 Lakh Students",
-      "bullets": [
-        "The scheme, launched by the state government, aims to benefit students from economically weaker sections.",
-        "The initiative will cover tuition fees, books, and other educational expenses for 10 lakh students.",
-        "This move is expected to boost enrollment and retention rates in government schools."
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Rice Prices Surge 20% in a Month, Hit Rs 50 per Kg",
+          "bullets": [
+            "Rice prices in West Bengal rose by 20% in a month, hitting Rs 50 per kg",
+            "According to data from the state's department of consumer affairs, prices are up 15% from last year",
+            "What this means for you: With rising prices, families may struggle to afford staple food items"
+          ],
+          "source": "West Bengal Department of Consumer Affairs",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        },
+        {
+          "category": "Labor",
+          "headline": "Coal Mine Closure Leaves 500 Workers Jobless",
+          "bullets": [
+            "The coal mine in Raniganj, Dhanbad district, was shut down due to safety concerns",
+            "According to a report by the Centre for Science and Environment, 500 workers will be affected",
+            "What this means for you: The mine's closure may impact local employment and economic growth"
+          ],
+          "source": "Centre for Science and Environment",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        },
+        {
+          "category": "Health",
+          "headline": "Malaria Cases Rise 30% in West Bengal This Year",
+          "bullets": [
+            "According to data from the state's health department, malaria cases have increased by 30%",
+            "The majority of cases were reported in the rural areas of South 24 Parganas district",
+            "What this means for you: The rise in malaria cases may lead to increased hospitalization and treatment costs"
+          ],
+          "source": "West Bengal Health Department",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        },
+        {
+          "category": "Education",
+          "headline": "School Reopening Post-Diwali Delayed Due to Teacher Strike",
+          "bullets": [
+            "The strike, which began on 10th September, has affected over 10,000 students in the state",
+            "According to reports, the teachers are demanding better working conditions and higher salaries",
+            "What this means for you: The strike may impact the academic calendar and student performance"
+          ],
+          "source": "West Bengal Teachers' Association",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        },
+        {
+          "category": "Infrastructure",
+          "headline": "Power Outage Affects 500 Homes in Kolkata",
+          "bullets": [
+            "The power outage, which occurred on 14th September, was caused by a technical issue",
+            "According to the Kolkata Electricity Department, the issue has been resolved",
+            "What this means for you: The power outage may impact daily life and productivity"
+          ],
+          "source": "Kolkata Electricity Department",
+          "status": "CONFIRMED",
+          "impact_score": 3
+        },
+        {
+          "category": "Environment",
+          "headline": "River Ganga Water Quality Deteriorates in West Bengal",
+          "bullets": [
+            "According to data from the state's pollution control board, water quality has decreased by 15%",
+            "The main cause of the decline is the high levels of industrial effluent in the river",
+            "What this means for you: The deteriorating water quality may impact local fishing and agriculture"
+          ],
+          "source": "West Bengal Pollution Control Board",
+          "status": "CONFIRMED",
+          "impact_score": 2
+        }
+      ]
     }
   ],
   "faq": [
