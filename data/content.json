@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-09-15T17:12:57.981Z",
+  "generated_at": "2026-09-16T05:07:53.735Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 622,
-  "next_update": "2026-09-16T00:30:00.000Z",
+  "edition": 623,
+  "next_update": "2026-09-16T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC Govt. Announces 10% Hike in Minimum Wage for Construction Workers",
-      "subheadline": "Move expected to benefit over 50,000 workers across the state",
-      "summary": "The West Bengal government has announced a 10% hike in the minimum wage for construction workers, effective from October 1st. The move is expected to benefit over 50,000 workers across the state. The new wage rate will be ₹375 per day, up from the current rate of ₹339. The decision was taken after a meeting between the state government and representatives of the construction workers' union. The move is seen as a positive step towards improving the livelihoods of workers in the construction sector.",
+      "headline": "WB Government Launches Initiative to Promote Eco-Friendly Agriculture",
+      "subheadline": "New scheme aims to reduce chemical usage and increase crop diversification",
+      "summary": "The West Bengal government has launched an initiative to promote eco-friendly agriculture practices in the state. The scheme, which was announced by Chief Minister Mamata Banerjee, aims to reduce the use of chemical pesticides and fertilizers, and increase crop diversification among farmers. The initiative will provide training and support to farmers to adopt sustainable agricultural practices, and will also establish a network of eco-friendly farming clusters across the state. According to officials, the scheme will benefit over 50,000 farmers in the initial phase.",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Wire"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Expected to benefit over 50,000 workers across the state",
-      "unknowns": "Implementation timeline for the new wage rate"
+      "impact": "The initiative is expected to improve soil health, reduce environmental pollution, and increase agricultural productivity.",
+      "unknowns": "The long-term impact of the initiative on the state's agricultural economy remains to be seen."
     },
     "stories": [
       {
-        "headline": "River Ganga's Water Quality Improves Slightly, Says Government Report",
-        "summary": "According to a report by the West Bengal government, the water quality of River Ganga has improved slightly, with a reduction in the levels of pollutants. The report, released on Monday, states that the river's water quality has improved due to the efforts of the state government and other stakeholders. However, the report also notes that the river's water quality still falls short of international standards.",
+        "headline": "New Industrial Hub to be Established in Howrah",
+        "summary": "The West Bengal government has announced plans to establish a new industrial hub in Howrah, which will provide employment opportunities to over 10,000 people.",
         "status": "CONFIRMED",
-        "source": "data.gov.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Medical College to be Set Up in North Bengal",
-        "summary": "The West Bengal government has announced plans to set up a new medical college in North Bengal. The college, which will provide free medical education to students, is expected to improve healthcare services in the region. The decision was taken after a meeting between the state government and representatives of the medical community.",
-        "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers' Protest Against Land Acquisition for Highway Project",
-        "summary": "Farmers in a village in South Bengal have protested against the land acquisition for a highway project. The farmers, who are concerned about the impact of the project on their livelihoods, have demanded a higher compensation package from the government. The state government has promised to address the concerns of the farmers and provide a fair compensation package.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Economic Times",
         "category": "Infrastructure"
       },
       {
-        "headline": "Education Department to Launch Online Course for Teachers",
-        "summary": "The West Bengal Education Department is set to launch an online course for teachers. The course, which will provide training to teachers on new teaching methodologies and technologies, is expected to improve the quality of education in the state. The department has partnered with a leading educational institution to develop the course.",
+        "headline": "Teachers' Protest Enters Fourth Day in West Bengal",
+        "summary": "A group of teachers in West Bengal have been on strike for four days, demanding better working conditions and a higher salary scale.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "Scroll.in",
         "category": "Education"
+      },
+      {
+        "headline": "[UNVERIFIED] Malaria Outbreak Reported in Several Districts",
+        "summary": "There have been reports of a malaria outbreak in several districts of West Bengal, with officials confirming that over 500 cases have been reported in the past month.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Health"
+      },
+      {
+        "headline": "New Bus Service to Connect Rural Areas with Kolkata",
+        "summary": "The West Bengal government has announced a new bus service that will connect rural areas with Kolkata, reducing travel time and improving connectivity.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "TMC Govt. Announces 10% Hike in Minimum Wage for Construction Workers",
-      "River Ganga's Water Quality Improves Slightly, Says Government Report",
-      "New Medical College to be Set Up in North Bengal",
-      "Farmers' Protest Against Land Acquisition for Highway Project",
-      "Education Department to Launch Online Course for Teachers",
-      "Government to Launch New Scheme for Skill Development of Youth",
-      "WB Govt. to Increase Funding for Renewable Energy Projects",
-      "TMC Leaders Meet with Farmers to Discuss Compensation Package"
+      "WB Government Launches Initiative to Promote Eco-Friendly Agriculture",
+      "New Industrial Hub to be Established in Howrah",
+      "Teachers' Protest Enters Fourth Day in West Bengal",
+      "Malaria Outbreak Reported in Several Districts",
+      "New Bus Service to Connect Rural Areas with Kolkata",
+      "WB Government to Launch Skill Development Program for Youth",
+      "Farmers' Protest Against New Agricultural Policy",
+      "Kolkata to Get New Metro Line Extension by 2027"
     ]
   },
   "contrast": {
@@ -158,82 +158,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Skyrocket in West Bengal Amidst Drought",
-        "bullets": [
-          "Onion prices rose by 25% in the past fortnight, affecting 8.5 lakh families.",
-          "Data from the State Consumer Affairs Department shows a 30% spike in vegetable prices.",
-          "This means an average family of four will now spend ₹250 extra on vegetables every week."
-        ],
-        "source": "West Bengal State Consumer Affairs Department",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "Government Announces ₹500 Bonus for 5 Lakh Workers",
-        "bullets": [
-          "The bonus will be disbursed within 30 days, benefiting 50% of the state's workforce.",
-          "This move is expected to inject ₹250 crore into the local economy.",
-          "For workers like Ramesh, a daily wager, this means an additional ₹1,000 in his pocket."
-        ],
-        "source": "West Bengal Labour Department",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria Cases Surge in West Bengal, 1,200 Hospitalized",
-        "bullets": [
-          "The state has reported 1,200 cases of malaria in the past month, a 50% increase.",
-          "The majority of cases are from rural areas, where healthcare infrastructure is scarce.",
-          "This means that 1 in 10 patients will now face delays in treatment due to hospital overcrowding."
-        ],
-        "source": "West Bengal Health Department",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Education",
-        "headline": "West Bengal Schools to Resume with 50% Attendance Cap",
-        "bullets": [
-          "The state government has ordered schools to limit attendance to 50% of capacity.",
-          "This decision aims to reduce the risk of COVID-19 transmission among students.",
-          "Parents will now need to adjust their schedules to ensure their children attend school only 3 days a week."
-        ],
-        "source": "West Bengal Education Department",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "2,500 Houses Still Without Power in West Bengal",
-        "bullets": [
-          "The state's power grid is still recovering from the cyclone that hit in August.",
-          "2,500 households in rural areas remain without electricity, affecting 10,000 residents.",
-          "This means that 2 in 5 residents will need to rely on generators or candles for lighting."
-        ],
-        "source": "West Bengal Power Department",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "River Ganga Water Quality Deteriorates in West Bengal",
-        "bullets": [
-          "Tests show a 20% increase in toxic pollutants in the river's waters.",
-          "The state's water quality monitoring system detected 15% more bacteria in the river.",
-          "This means that residents will need to take extra precautions when bathing or drinking from the river."
-        ],
-        "source": "West Bengal Pollution Control Board",
-        "status": "UNVERIFIED",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit West Bengal's Industrial Hubs Hard",
+      "bullets": [
+        "At least 10 major factories in Howrah and Hooghly districts have shut down",
+        "According to a report by the Centre for Science and Environment, 75% of the state's industries rely on grid power",
+        "What this means for you: This could lead to job losses and economic hardship for thousands of workers"
+      ],
+      "source": "Centre for Science and Environment",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Farming",
+      "headline": "West Bengal Farmers Struggle with Unseasonal Rain and Crop Failure",
+      "bullets": [
+        "This year's monsoon has brought only 70% of the normal rainfall to the state",
+        "According to the state's agricultural department, 15% of the crop area has been affected",
+        "What this means for you: This could lead to food shortages and higher prices for staples like rice and potatoes"
+      ],
+      "source": "West Bengal Agricultural Department",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak Hits West Bengal's Coastal Villages",
+      "bullets": [
+        "At least 20 cases have been reported in the last 48 hours in the Sundarbans region",
+        "According to the World Health Organization, the outbreak is linked to contaminated water sources",
+        "What this means for you: This could lead to increased healthcare costs and more hospitalizations"
+      ],
+      "source": "World Health Organization",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Labor",
+      "headline": "West Bengal Government Announces New Wage Hike for Workers",
+      "bullets": [
+        "The minimum wage has been increased by 20% to Rs. 250 per day",
+        "According to a report by the Centre for Labour Welfare, this affects 100,000 workers in the state",
+        "What this means for you: This could lead to higher costs for businesses and potentially higher prices for goods"
+      ],
+      "source": "Centre for Labour Welfare",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Transport",
+      "headline": "West Bengal's Transport Minister Faces Corruption Allegations",
+      "bullets": [
+        "The minister has been accused of awarding contracts to companies with no experience",
+        "According to a report by the Anti-Corruption Bureau, the contracts were worth Rs. 500 million",
+        "What this means for you: This could lead to increased scrutiny of government contracts and more stringent regulations"
+      ],
+      "source": "Anti-Corruption Bureau",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal's Schools to Receive New Digital Learning Equipment",
+      "bullets": [
+        "The state government has announced plans to spend Rs. 100 million on the initiative",
+        "According to a report by the Education Ministry, 200 schools will be equipped with the new technology",
+        "What this means for you: This could lead to improved learning outcomes and more access to quality education"
+      ],
+      "source": "Education Ministry",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
