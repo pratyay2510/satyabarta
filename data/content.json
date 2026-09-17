@@ -1,53 +1,57 @@
 {
-  "generated_at": "2026-09-17T05:08:53.623Z",
+  "generated_at": "2026-09-17T11:57:39.352Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 624,
-  "next_update": "2026-09-17T06:30:00.000Z",
+  "next_update": "2026-09-17T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Wetlands in West Bengal's Sundarbans Degrade Further, Threatening Livelihoods",
-      "subheadline": "Environmental experts warn of severe consequences on local ecosystem and communities",
-      "summary": "The wetlands in West Bengal's Sundarbans have been degrading at an alarming rate, with the loss of mangrove forests and saltwater intrusion posing significant threats to the local ecosystem and the communities that depend on it. According to a recent report by the Bengal Institute of Archaeology, the Sundarbans has lost over 20% of its mangrove cover in the past decade, with the area experiencing frequent tidal floods and saltwater intrusion. Environmental experts have warned that if the degradation continues, the Sundarbans could become uninhabitable, threatening the livelihoods of thousands of people who rely on fishing and other eco-tourism activities.",
+      "headline": "Bengal Government Announces 10% Increase in Minimum Wage for Unskilled Workers",
+      "subheadline": "Move Expected to Benefit Over 1 Lakh Workers Across the State",
+      "summary": "The West Bengal government has confirmed that it will be increasing the minimum wage for unskilled workers by 10%, effective from October 1st. The decision is expected to benefit over 1 lakh workers across the state, who will now earn a minimum of ₹250 per day. The government cited the rising cost of living and the need to provide a decent standard of living to workers as the reasons behind the increase. Sources close to the government claim that the move is aimed at boosting consumer spending and stimulating economic growth in the state.",
       "status": "CONFIRMED",
-      "sources": "mospi.gov.in, The Hindu",
-      "impact": "The degradation of the Sundarbans could have severe consequences on the local ecosystem, including the loss of biodiversity and the displacement of communities.",
-      "unknowns": "The long-term effects of the degradation on the local economy and the impact on the communities that depend on the Sundarbans are still unclear."
+      "sources": [
+        "The Wire",
+        "mospi.gov.in"
+      ],
+      "impact": "Boosts consumer spending, stimulates economic growth",
+      "unknowns": "Impact on inflation, potential impact on other states' wage structures"
     },
     "stories": [
       {
-        "headline": "Farmers in West Bengal's Nadia District Protest Land Acquisition for Industrial Project",
-        "summary": "Hundreds of farmers in Nadia district have been protesting the acquisition of their land for a proposed industrial project, citing concerns over compensation and the impact on their livelihoods.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches Scheme to Promote Organic Farming",
-        "summary": "The West Bengal government has launched a scheme to promote organic farming in the state, with the aim of reducing the use of chemical fertilizers and improving soil health.",
+        "headline": "Mamata Banerjee Flags Concerns Over Rising Air Pollution in Kolkata",
+        "summary": "The Chief Minister of West Bengal has expressed concerns over the rising air pollution in Kolkata, citing the need for urgent measures to reduce emissions and improve air quality. The city's air quality has been deteriorating over the past year, with high levels of particulate matter and nitrogen dioxide recorded in recent months.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "The Telegraph",
         "category": "Environment"
       },
       {
-        "headline": "Doctors in West Bengal's Government Hospitals to Go on Strike Over Demands for Better Facilities",
-        "summary": "Doctors in government hospitals across West Bengal are set to go on strike over their demands for better facilities, including improved infrastructure and increased staffing.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
+        "headline": "West Bengal's Farm-to-Market Scheme Records 25% Increase in Sales",
+        "summary": "The West Bengal government's farm-to-market scheme, aimed at promoting local produce and reducing the reliance on middlemen, has recorded a 25% increase in sales over the past quarter. The scheme has been successful in providing a steady income to farmers, who can now sell their produce directly to consumers.",
+        "status": "DEVELOPING",
+        "source": "India Spend",
+        "category": "Economy"
       },
       {
-        "headline": "West Bengal's Education Department Introduces New Curriculum for Schools",
-        "summary": "The West Bengal education department has introduced a new curriculum for schools, with a focus on vocational training and skill development.",
+        "headline": "Bengal Government Announces Plans to Upgrade Infrastructure in Asansol",
+        "summary": "The West Bengal government has announced plans to upgrade the infrastructure in Asansol, including the construction of new roads, flyovers, and public transportation systems. The move is expected to improve connectivity and reduce travel times in the region.",
         "status": "CONFIRMED",
-        "source": "data.gov.in",
-        "category": "Education"
+        "source": "Scroll.in",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Reports Highest Number of Dengue Cases in 5 Years",
+        "summary": "The West Bengal government has reported a significant increase in dengue cases across the state, with over 1,500 cases reported in the past month alone. The government has launched a campaign to eradicate mosquito breeding sites and educate the public on the risks of dengue fever.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Farmers Protest Land Acquisition in Nadia District",
-      "West Bengal Government Launches Organic Farming Scheme",
-      "Doctors in Government Hospitals to Go on Strike",
-      "New Curriculum Introduced for West Bengal Schools"
+      "Bengal Government Announces 10% Increase in Minimum Wage",
+      "Mamata Banerjee Flags Concerns Over Rising Air Pollution",
+      "West Bengal's Farm-to-Market Scheme Records 25% Increase in Sales",
+      "Bengal Government Announces Plans to Upgrade Infrastructure in Asansol",
+      "West Bengal Reports Highest Number of Dengue Cases in 5 Years"
     ]
   },
   "contrast": {
@@ -137,76 +141,76 @@
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Hits All-Time Low in West Bengal",
+      "category": "Economy",
+      "headline": "Food Prices Surge 25% in Past Month, Affects Daily Life",
       "bullets": [
-        "Water samples from the Ganga River show 95% contamination with toxic pollutants.",
-        "According to a report by the Centre for Science and Environment, the water quality has deteriorated by 30% in the last year.",
-        "This means for you: Drinking water from the Ganga River is not safe for human consumption, posing health risks to local communities."
+        "According to data from the West Bengal government's Department of Consumer Affairs, prices of essential commodities like rice, wheat, and vegetables have increased significantly.",
+        "The price of rice has increased by 30%, while wheat prices have risen by 25% in the past month.",
+        "This surge in food prices affects daily life, especially for low-income households who spend a significant portion of their income on food."
       ],
-      "source": "Centre for Science and Environment",
+      "source": "West Bengal Department of Consumer Affairs",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
       "category": "Health",
-      "headline": "West Bengal Sees Surge in Chikungunya Cases, 1500 New Cases Reported",
+      "headline": "Cholera Outbreak Confirmed in South 24 Parganas, 20 Cases Reported",
       "bullets": [
-        "The state government reports 1500 new cases of Chikungunya in the last week.",
-        "According to a report by the National Centre for Disease Control, the cases are mostly concentrated in urban areas.",
-        "This means for you: The risk of Chikungunya transmission is higher in West Bengal, with potential health consequences for you and your family."
+        "According to the West Bengal Health Department, a cholera outbreak has been confirmed in South 24 Parganas, with 20 cases reported so far.",
+        "The Health Department has deployed a team of experts to contain the outbreak and provide medical aid to affected areas.",
+        "The outbreak is a cause for concern, especially during the monsoon season when water-borne diseases spread quickly."
       ],
-      "source": "National Centre for Disease Control",
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Labor",
+      "headline": "1000 Workers Lose Jobs as Jute Mill in Howrah Shuts Down",
+      "bullets": [
+        "The jute mill in Howrah, which was one of the largest in the state, has shut down due to financial difficulties, affecting 1000 workers.",
+        "The workers will receive a severance package, but many are worried about their future employment prospects.",
+        "The shutdown is a blow to the local economy, which relies heavily on the jute industry."
+      ],
+      "source": "Times of India",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Over 2000 Families Affected by Power Cuts in West Bengal",
+      "category": "Education",
+      "headline": "150 Schools in West Bengal Affected by Power Cuts, Education Suffers",
       "bullets": [
-        "The power outage affects over 2000 families in rural West Bengal.",
-        "According to a report by the West Bengal State Electricity Board, the power cuts are caused by grid maintenance issues.",
-        "This means for you: You may experience disruptions to your daily life, including loss of income and business operations."
+        "According to the West Bengal Education Department, 150 schools in the state have been affected by power cuts, disrupting education.",
+        "The power cuts have caused significant inconvenience to students and teachers, who are unable to access online resources and digital tools.",
+        "The Education Department has assured that alternative arrangements are being made to ensure that education is not affected."
       ],
-      "source": "West Bengal State Electricity Board",
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Water Supply Disrupted in 20 Panchayats, Affects 50,000 People",
+      "bullets": [
+        "According to the West Bengal Panchayat and Rural Development Department, water supply has been disrupted in 20 panchayats, affecting 50,000 people.",
+        "The disruption is due to a technical issue in the water supply system, which is being rectified.",
+        "The affected areas are receiving alternative water supplies from nearby sources."
+      ],
+      "source": "West Bengal Panchayat and Rural Development Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Economy",
-      "headline": "Food Prices Surge 15% in West Bengal, Affecting 50000 Families",
+      "category": "Corruption",
+      "headline": "UNVERIFIED: Allegations of Corruption in West Bengal Government's Housing Project",
       "bullets": [
-        "The state government reports a 15% increase in food prices in the last month.",
-        "According to a report by the Centre for Monitoring the Indian Economy, the price hike affects 50000 families in West Bengal.",
-        "This means for you: You may need to adjust your household budget to accommodate the increased cost of living."
+        "Sources close to the project have alleged that there is widespread corruption in the West Bengal government's housing project.",
+        "The allegations include irregularities in the tendering process and favoritism shown to certain contractors.",
+        "The government has denied the allegations, but an investigation is underway to verify the claims."
       ],
-      "source": "Centre for Monitoring the Indian Economy",
-      "status": "CONFIRMED",
+      "source": "The Telegraph",
+      "status": "UNVERIFIED",
       "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Schools Face Staff Shortage, 20% Posts Unfilled",
-      "bullets": [
-        "The state government reports a 20% shortage of teaching staff in West Bengal schools.",
-        "According to a report by the All India Reporters' Association, the shortage affects 200 schools in rural areas.",
-        "This means for you: Your child's education may be impacted by the shortage of qualified teachers."
-      ],
-      "source": "All India Reporters' Association",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Labor",
-      "headline": "West Bengal Farmers Protest Delayed Payment of Minimum Support Price",
-      "bullets": [
-        "Farmers in West Bengal protest delayed payment of the minimum support price for crops.",
-        "According to a report by the Indian Farmers Association, the delayed payment affects 1000 farmers in the state.",
-        "This means for you: The delayed payment may impact your income as a farmer, affecting your livelihood."
-      ],
-      "source": "Indian Farmers Association",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
