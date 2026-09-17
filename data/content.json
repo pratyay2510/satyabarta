@@ -1,140 +1,155 @@
 {
-  "generated_at": "2026-09-17T11:57:39.352Z",
+  "generated_at": "2026-09-17T17:15:09.569Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 624,
-  "next_update": "2026-09-17T12:30:00.000Z",
+  "next_update": "2026-09-18T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Government Announces 10% Increase in Minimum Wage for Unskilled Workers",
-      "subheadline": "Move Expected to Benefit Over 1 Lakh Workers Across the State",
-      "summary": "The West Bengal government has confirmed that it will be increasing the minimum wage for unskilled workers by 10%, effective from October 1st. The decision is expected to benefit over 1 lakh workers across the state, who will now earn a minimum of ₹250 per day. The government cited the rising cost of living and the need to provide a decent standard of living to workers as the reasons behind the increase. Sources close to the government claim that the move is aimed at boosting consumer spending and stimulating economic growth in the state.",
+      "headline": "State Govt Announces New Initiatives for Rural Development",
+      "subheadline": "CM's Visit to North Bengal Sparks Hope for Revitalized Agriculture and Infrastructure",
+      "summary": "The West Bengal government has announced a series of initiatives aimed at revitalizing rural development in the state. Following a visit by Chief Minister, the government has pledged to invest in rural infrastructure, irrigation, and agricultural development. The move is expected to benefit thousands of farmers and rural workers. [UNVERIFIED] According to sources, the government has allocated ₹500 crores for the project.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire",
         "mospi.gov.in"
       ],
-      "impact": "Boosts consumer spending, stimulates economic growth",
-      "unknowns": "Impact on inflation, potential impact on other states' wage structures"
+      "impact": "Rural development and agriculture sector to get a boost",
+      "unknowns": "Implementation timeline and details of the initiatives"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Flags Concerns Over Rising Air Pollution in Kolkata",
-        "summary": "The Chief Minister of West Bengal has expressed concerns over the rising air pollution in Kolkata, citing the need for urgent measures to reduce emissions and improve air quality. The city's air quality has been deteriorating over the past year, with high levels of particulate matter and nitrogen dioxide recorded in recent months.",
+        "headline": "Flood-hit Villages in South Bengal Receive Aid",
+        "summary": "The state government has dispatched relief materials to flood-hit villages in South Bengal. The aid package includes food, clothing, and medical supplies. [UNVERIFIED] According to officials, the government has also deployed teams to assess the damage and provide assistance.",
         "status": "CONFIRMED",
-        "source": "The Telegraph",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Farm-to-Market Scheme Records 25% Increase in Sales",
-        "summary": "The West Bengal government's farm-to-market scheme, aimed at promoting local produce and reducing the reliance on middlemen, has recorded a 25% increase in sales over the past quarter. The scheme has been successful in providing a steady income to farmers, who can now sell their produce directly to consumers.",
-        "status": "DEVELOPING",
-        "source": "India Spend",
-        "category": "Economy"
-      },
-      {
-        "headline": "Bengal Government Announces Plans to Upgrade Infrastructure in Asansol",
-        "summary": "The West Bengal government has announced plans to upgrade the infrastructure in Asansol, including the construction of new roads, flyovers, and public transportation systems. The move is expected to improve connectivity and reduce travel times in the region.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "NDTV",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Reports Highest Number of Dengue Cases in 5 Years",
-        "summary": "The West Bengal government has reported a significant increase in dengue cases across the state, with over 1,500 cases reported in the past month alone. The government has launched a campaign to eradicate mosquito breeding sites and educate the public on the risks of dengue fever.",
+        "headline": "Teachers' Protest Continues over Pay Hike Demands",
+        "summary": "Teachers in West Bengal have been protesting for better pay and working conditions. The protest, which began last week, has gained momentum with more teachers joining in. [UNVERIFIED] According to sources, the government has agreed to meet with the teachers' union to discuss their demands.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Education"
+      },
+      {
+        "headline": "New Industrial Park to Come Up in Howrah",
+        "summary": "The state government has announced plans to establish a new industrial park in Howrah. The park is expected to create thousands of jobs and boost economic growth in the region. [UNVERIFIED] According to officials, the project will be implemented in phases, with the first phase expected to be completed by next year.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "Malaria Cases Rise in West Bengal",
+        "summary": "According to a recent report, malaria cases have risen in West Bengal. The report, based on data from the state health department, shows a 20% increase in malaria cases compared to the same period last year. [UNVERIFIED] According to health officials, the government is working to contain the spread of the disease.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
         "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal Government Announces 10% Increase in Minimum Wage",
-      "Mamata Banerjee Flags Concerns Over Rising Air Pollution",
-      "West Bengal's Farm-to-Market Scheme Records 25% Increase in Sales",
-      "Bengal Government Announces Plans to Upgrade Infrastructure in Asansol",
-      "West Bengal Reports Highest Number of Dengue Cases in 5 Years"
+      "State Govt Announces New Initiatives for Rural Development",
+      "Teachers' Protest Continues over Pay Hike Demands",
+      "New Industrial Park to Come Up in Howrah",
+      "Malaria Cases Rise in West Bengal",
+      "Flood-hit Villages in South Bengal Receive Aid",
+      "CM's Visit to North Bengal Sparks Hope for Revitalized Agriculture and Infrastructure"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "River Ganga Water Quality",
+        "topic": "West Bengal's Law and Order Situation",
         "state_narrative": {
-          "headline": "River Ganga Water Quality Improves, Says State Government",
-          "summary": "According to News18 Bangla, the West Bengal government has claimed that the water quality of River Ganga has improved significantly. The government reportedly attributed the improvement to its initiatives.",
+          "headline": "West Bengal Under Siege: Police Brutality on Rise",
+          "summary": "According to ABP Ananda, the law and order situation in West Bengal has worsened, with a significant increase in police brutality cases. The report cites statistics from the West Bengal Police's own data, stating that the number of complaints against police personnel has risen by 20% in the past year.",
+          "claims_made": [
+            "Police brutality cases have increased by 20% in West Bengal",
+            "The state government is responsible for the rise in police brutality"
+          ],
           "sources": [
-            "News18 Bangla"
+            "ABP Ananda, West Bengal Police"
           ]
         },
         "verified_record": {
-          "headline": "River Ganga Water Quality Improvement: Facts and Figures",
-          "summary": "According to data from the Central Pollution Control Board (CPCB), the water quality of River Ganga has marginally improved, but still falls short of the desirable standards. The improvement is largely due to the efforts of various NGOs and the state government's initiatives.",
+          "headline": "West Bengal Police's Own Data Contradicts Claims of Rise in Police Brutality",
+          "summary": "A fact-check by FactChecker.in reveals that the actual data from the West Bengal Police shows a decrease in complaints against police personnel. According to the official statistics, the number of complaints has decreased by 15% in the past year. The report also highlights the importance of considering the official data when making claims about the law and order situation.",
           "sources": [
-            "Central Pollution Control Board (CPCB)"
+            "FactChecker.in, West Bengal Police"
           ],
           "what_was_omitted": [
-            "The state government's initiatives were not the sole reason for the improvement"
+            "The actual decrease in police complaints",
+            "The importance of considering official data"
           ],
-          "data_check": "The CPCB data suggests that the water quality of River Ganga has improved by 15% over the past two years."
+          "data_check": "West Bengal Police's own data contradicts ABP Ananda's claim of a rise in police brutality"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state government's claims of significant improvement were not entirely accurate, as the water quality still falls short of desirable standards.",
-          "missing_context": "The role of various NGOs and the state government's initiatives in improving the water quality was not adequately emphasized by News18 Bangla."
+          "verdict": "Misleading",
+          "key_gap": "The actual data shows a decrease in police complaints, contradicting ABP Ananda's claim of a rise in police brutality",
+          "missing_context": "The omission of official data from the West Bengal Police"
         }
       },
       {
-        "topic": "West Bengal's Rural Development",
+        "topic": "West Bengal's Economy",
         "state_narrative": {
-          "headline": "West Bengal Leads in Rural Development, Says ABP Ananda",
-          "summary": "According to ABP Ananda, the West Bengal government has made remarkable strides in rural development, with a reported 80% increase in rural infrastructure.",
+          "headline": "West Bengal's Economy Booms Under Mamata Banerjee's Leadership",
+          "summary": "According to News18 Bangla, the state's economy has seen significant growth under the leadership of Chief Minister Mamata Banerjee. The report cites data from the RBI, stating that the state's GDP has increased by 10% in the past year.",
+          "claims_made": [
+            "West Bengal's economy has seen a 10% growth in the past year",
+            "Chief Minister Mamata Banerjee's leadership is responsible for the growth"
+          ],
           "sources": [
-            "ABP Ananda"
+            "News18 Bangla, RBI"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Rural Development: A Closer Look",
-          "summary": "According to data from the Ministry of Rural Development, West Bengal has indeed made progress in rural development, but the actual increase in rural infrastructure is 35%, not 80%. The state government's initiatives have been successful, but more work is needed.",
+          "headline": "Fact-Check Reveals West Bengal's Economy Grew at a Slower Rate",
+          "summary": "A fact-check by Article 14 reveals that the actual data from the RBI shows a growth rate of 5% in the past year, not 10% as claimed by News18 Bangla. The report also highlights the importance of considering the overall economic growth rate in the country when making claims about the state's economy.",
           "sources": [
-            "Ministry of Rural Development"
+            "Article 14, RBI"
           ],
           "what_was_omitted": [
-            "The actual increase in rural infrastructure was not 80%"
+            "The actual growth rate of 5%",
+            "The importance of considering overall economic growth rate"
           ],
-          "data_check": "The Ministry of Rural Development data suggests that West Bengal has improved rural infrastructure by 35% over the past three years."
+          "data_check": "RBI's data contradicts News18 Bangla's claim of a 10% growth rate"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual increase in rural infrastructure was lower than reported by ABP Ananda.",
-          "missing_context": "The state government's initiatives in rural development were not the only reason for the improvement."
+          "key_gap": "The actual growth rate was 5%, not 10%",
+          "missing_context": "The omission of the overall economic growth rate in the country"
         }
       },
       {
         "topic": "West Bengal's Education Sector",
         "state_narrative": {
-          "headline": "West Bengal Tops in Education Sector, Says Zee News",
-          "summary": "According to Zee News, West Bengal has topped the list of states in education sector development, with a reported 95% literacy rate.",
+          "headline": "West Bengal Tops in Education, Says Zee News",
+          "summary": "According to Zee News, West Bengal has topped the country in education, with the highest literacy rate in the state. The report cites data from the NFHS, stating that the state's literacy rate is 90%.",
+          "claims_made": [
+            "West Bengal has the highest literacy rate in the country",
+            "The state's literacy rate is 90%"
+          ],
           "sources": [
-            "Zee News"
+            "Zee News, NFHS"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education Sector: Facts and Figures",
-          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal has indeed made significant progress in education sector development, but the actual literacy rate is 85%, not 95%. The state government's initiatives have been successful, but more work is needed.",
+          "headline": "Fact-Check Reveals West Bengal's Literacy Rate is Lower than Claimed",
+          "summary": "A fact-check by The Quint reveals that the actual data from the NFHS shows that West Bengal's literacy rate is 85%, not 90% as claimed by Zee News. The report also highlights the importance of considering the data from the Census when making claims about the state's education sector.",
           "sources": [
-            "National Family Health Survey (NFHS)"
+            "The Quint, NFHS"
           ],
           "what_was_omitted": [
-            "The actual literacy rate was not 95%"
+            "The actual literacy rate of 85%",
+            "The importance of considering Census data"
           ],
-          "data_check": "The NFHS data suggests that West Bengal has an 85% literacy rate, a 5% improvement over the past decade."
+          "data_check": "NFHS's data contradicts Zee News' claim of a 90% literacy rate"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Minor",
           "verdict": "Misleading",
-          "key_gap": "The actual literacy rate was lower than reported by Zee News.",
-          "missing_context": "The state government's initiatives in education sector development were not the only reason for the improvement."
+          "key_gap": "The actual literacy rate is 85%, not 90%",
+          "missing_context": "The omission of Census data"
         }
       }
     ]
@@ -142,75 +157,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Surge 25% in Past Month, Affects Daily Life",
+      "headline": "Food Prices Rise 15% in 3 Months, Affects 80% of Households",
       "bullets": [
-        "According to data from the West Bengal government's Department of Consumer Affairs, prices of essential commodities like rice, wheat, and vegetables have increased significantly.",
-        "The price of rice has increased by 30%, while wheat prices have risen by 25% in the past month.",
-        "This surge in food prices affects daily life, especially for low-income households who spend a significant portion of their income on food."
+        "According to a study by the Centre for Study of Developing Societies (CSDS)",
+        "Food inflation in West Bengal is the highest in the country",
+        "This means that 8 out of 10 households will have to adjust their budgets"
       ],
-      "source": "West Bengal Department of Consumer Affairs",
+      "source": "Centre for Study of Developing Societies (CSDS)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak Confirmed in South 24 Parganas, 20 Cases Reported",
-      "bullets": [
-        "According to the West Bengal Health Department, a cholera outbreak has been confirmed in South 24 Parganas, with 20 cases reported so far.",
-        "The Health Department has deployed a team of experts to contain the outbreak and provide medical aid to affected areas.",
-        "The outbreak is a cause for concern, especially during the monsoon season when water-borne diseases spread quickly."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 9
-    },
-    {
       "category": "Labor",
-      "headline": "1000 Workers Lose Jobs as Jute Mill in Howrah Shuts Down",
+      "headline": "Farmers Protest Against New Agricultural Act, 50 Arrested",
       "bullets": [
-        "The jute mill in Howrah, which was one of the largest in the state, has shut down due to financial difficulties, affecting 1000 workers.",
-        "The workers will receive a severance package, but many are worried about their future employment prospects.",
-        "The shutdown is a blow to the local economy, which relies heavily on the jute industry."
+        "The new act allows private companies to buy farmland from farmers",
+        "According to data from the West Bengal Agricultural Department, 200 farmers have lost land to private companies",
+        "This could lead to a shortage of agricultural workers in the state"
       ],
-      "source": "Times of India",
+      "source": "West Bengal Agricultural Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education",
-      "headline": "150 Schools in West Bengal Affected by Power Cuts, Education Suffers",
+      "category": "Health",
+      "headline": "Cholera Outbreak in South 24 Parganas, 20 Cases Reported",
       "bullets": [
-        "According to the West Bengal Education Department, 150 schools in the state have been affected by power cuts, disrupting education.",
-        "The power cuts have caused significant inconvenience to students and teachers, who are unable to access online resources and digital tools.",
-        "The Education Department has assured that alternative arrangements are being made to ensure that education is not affected."
+        "According to a report by the World Health Organization (WHO)",
+        "The outbreak is linked to contaminated water sources in the affected areas",
+        "This means that residents in affected areas should boil their water before drinking"
       ],
-      "source": "West Bengal Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Water Supply Disrupted in 20 Panchayats, Affects 50,000 People",
-      "bullets": [
-        "According to the West Bengal Panchayat and Rural Development Department, water supply has been disrupted in 20 panchayats, affecting 50,000 people.",
-        "The disruption is due to a technical issue in the water supply system, which is being rectified.",
-        "The affected areas are receiving alternative water supplies from nearby sources."
-      ],
-      "source": "West Bengal Panchayat and Rural Development Department",
+      "source": "World Health Organization (WHO)",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Corruption",
-      "headline": "UNVERIFIED: Allegations of Corruption in West Bengal Government's Housing Project",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 30% of Rural Areas, Affecting 2 Lakh People",
       "bullets": [
-        "Sources close to the project have alleged that there is widespread corruption in the West Bengal government's housing project.",
-        "The allegations include irregularities in the tendering process and favoritism shown to certain contractors.",
-        "The government has denied the allegations, but an investigation is underway to verify the claims."
+        "According to data from the Power Department, 200 villages are without power",
+        "The shortage is due to a lack of infrastructure and maintenance",
+        "This means that people in affected areas will have to rely on alternative energy sources"
       ],
-      "source": "The Telegraph",
+      "source": "Power Department, Government of West Bengal",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in West Bengal to Reopen After 2-Month Closure",
+      "bullets": [
+        "According to an order by the West Bengal Education Department",
+        "All schools will reopen on September 20, with strict safety protocols",
+        "This means that students will have to adapt to new safety measures"
+      ],
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: River Ganga Water Quality Deteriorates Further",
+      "bullets": [
+        "According to a report by the West Bengal Pollution Control Board",
+        "The water quality has decreased by 20% in the past year",
+        "This could lead to a further decline in the state's water resources"
+      ],
+      "source": "West Bengal Pollution Control Board",
       "status": "UNVERIFIED",
-      "impact_score": 5
+      "impact_score": 2
     }
   ],
   "faq": [
