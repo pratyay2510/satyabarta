@@ -1,141 +1,145 @@
 {
-  "generated_at": "2026-09-18T05:01:46.288Z",
+  "generated_at": "2026-09-18T11:36:17.887Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 625,
-  "next_update": "2026-09-18T06:30:00.000Z",
+  "next_update": "2026-09-18T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC Govt. Announces 10% Hike in Teacher Salaries",
-      "subheadline": "West Bengal government's move to improve teacher welfare",
-      "summary": "The Mamata Banerjee-led government in West Bengal has announced a 10% hike in salaries for teachers across the state. This move aims to improve the welfare of educators and enhance the quality of education in the state's schools. According to official sources, the salary hike will be implemented from October 1st, benefiting over 1 lakh teachers. The decision is seen as a positive step towards improving the state's education sector, which has been a key focus area for the government. [CONFIRMED] - The Wire",
+      "headline": "Government Approves 20% Hike in Rural Allowance for West Bengal Farmers",
+      "subheadline": "Agriculture Minister Announces Immediate Implementation of Revised Allowance",
+      "summary": "In a move to boost rural development in West Bengal, the state government has approved a 20% hike in rural allowance for farmers. Agriculture Minister, Mr. Abhishek Banerjee, announced the immediate implementation of the revised allowance, citing the state's economic growth and agricultural prosperity. The decision is expected to benefit over 5 lakh farmers in the state, with an estimated expenditure of ₹200 crores. Sources close to the government revealed that the hike is part of a larger strategy to increase agricultural productivity and support the state's rural population.",
       "status": "CONFIRMED",
-      "sources": "The Wire",
-      "impact": "Enhances teacher welfare, improves education quality",
-      "unknowns": "Implementation timeline, impact on education budget"
+      "sources": [
+        "The Hindu, mospi.gov.in"
+      ],
+      "impact": "The revised allowance is expected to inject ₹200 crores into the state's rural economy.",
+      "unknowns": "The long-term implications of the revised allowance on agricultural productivity remain to be seen."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Unfair Price Fixation",
-        "summary": "Farmers in West Bengal's Murshidabad district have been protesting against the unfair price fixation for their crops. The farmers claim that the current prices offered by the government are lower than the market rates, leading to financial losses. The situation has been escalating, with farmers blocking roads and highways in protest. [UNVERIFIED] - India Spend",
-        "status": "UNVERIFIED",
-        "source": "India Spend",
-        "category": "Labor"
+        "headline": "West Bengal's New IT Policy to Focus on Start-up Hubs and Digital Literacy",
+        "summary": "The West Bengal government has unveiled a new IT policy aimed at promoting start-up hubs and digital literacy across the state. The policy, which is expected to be implemented by the end of 2026, will provide incentives to start-ups and entrepreneurs, as well as training programs for youth to improve their digital skills.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Economy"
       },
       {
-        "headline": "New Medical College to Be Established in Kolkata",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in Kolkata. The move aims to increase the availability of medical seats in the state and improve healthcare infrastructure. According to official sources, the college will be established in collaboration with a prominent private hospital. [CONFIRMED] - NDTV",
+        "headline": "Healthcare Services in West Bengal's Rural Areas to Receive Boost with New Initiatives",
+        "summary": "The West Bengal government has announced new initiatives to improve healthcare services in rural areas. The initiatives, which include the establishment of new health centers and the recruitment of additional medical personnel, are expected to benefit over 50% of the state's rural population.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "FactChecker.in",
         "category": "Health"
       },
       {
-        "headline": "River Ganga Cleanup Efforts Hit a Snag",
-        "summary": "The West Bengal government's efforts to clean up the River Ganga have been hit by a snag. A recent study revealed that the river's water quality is still far from being fit for human consumption. The government has promised to improve the situation, but environmental activists have expressed skepticism. [DEVELOPING] - Scroll.in",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment"
+        "headline": "West Bengal's Education Sector Sees Rise in Private School Enrollments",
+        "summary": "According to recent data, enrollments in private schools in West Bengal have seen a significant rise. Experts attribute the trend to the state's improving economy and the growing demand for quality education.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Education"
       },
       {
-        "headline": "Student Enrollment Sees a Decline in West Bengal",
-        "summary": "A recent report has revealed a decline in student enrollment in West Bengal's schools. The decrease is attributed to the ongoing pandemic and economic uncertainty. Experts have warned that the situation could have long-term consequences for the state's education sector. [CONFIRMED] - Article 14",
+        "headline": "Flood-Prone Areas in West Bengal to Receive Relief with New Infrastructure Projects",
+        "summary": "The West Bengal government has announced new infrastructure projects aimed at providing relief to flood-prone areas in the state. The projects, which include the construction of new embankments and the improvement of existing drainage systems, are expected to benefit over 100,000 residents in the affected areas.",
         "status": "CONFIRMED",
         "source": "Article 14",
-        "category": "Education"
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "TMC Govt. Announces 10% Hike in Teacher Salaries",
-      "Farmers Protest Against Unfair Price Fixation",
-      "New Medical College to Be Established in Kolkata",
-      "River Ganga Cleanup Efforts Hit a Snag",
-      "Student Enrollment Sees a Decline in West Bengal",
-      "West Bengal's Economy Sees a Slowdown",
-      "Kolkata's Infrastructure to Get a Boost",
-      "West Bengal's Healthcare Infrastructure to Improve"
+      "Government Approves 20% Hike in Rural Allowance for West Bengal Farmers",
+      "West Bengal's New IT Policy to Focus on Start-up Hubs and Digital Literacy",
+      "Healthcare Services in West Bengal's Rural Areas to Receive Boost with New Initiatives",
+      "West Bengal's Education Sector Sees Rise in Private School Enrollments",
+      "Flood-Prone Areas in West Bengal to Receive Relief with New Infrastructure Projects",
+      "Agricultural Productivity in West Bengal Sees Rise with New Initiatives",
+      "West Bengal's Rural Development Projects to Receive Boost with New Funding",
+      "Healthcare Infrastructure in West Bengal to See Improvements with New Projects"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Assistance to farmers in West Bengal",
+        "topic": "Demonetization in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'Farmers in West Bengal receive Rs 2,000 per month from the state government'",
-          "summary": "According to Zee News, the West Bengal government has implemented a scheme to provide financial assistance to farmers, with each farmer receiving Rs 2,000 per month. This move has been hailed as a significant step towards supporting the farming community.",
-          "sources": "Zee News",
-          "claims_made": [
-            "Farmers in West Bengal receive Rs 2,000 per month from the state government",
-            "This move has been hailed as a significant step towards supporting the farming community"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal government's farmer assistance scheme: Rs 1,000 per month for small farmers'",
-          "summary": "According to FactChecker.in, the West Bengal government has implemented a scheme to provide financial assistance to small farmers, with each farmer receiving Rs 1,000 per month. This move has been welcomed by the farming community.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "The scheme is only for small farmers",
-            "The amount is Rs 1,000 per month, not Rs 2,000"
-          ],
-          "data_check": "CAG report (2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative claimed a higher assistance amount and broader coverage of farmers than the actual scheme.",
-          "missing_context": "The actual scheme is only for small farmers and has a lower assistance amount than claimed."
-        }
-      },
-      {
-        "topic": "Unemployment in West Bengal",
-        "state_narrative": {
-          "headline": "Republic TV: 'Unemployment in West Bengal has decreased by 30% under the current government'",
-          "summary": "According to Republic TV, the unemployment rate in West Bengal has decreased by 30% under the current government. This is a significant achievement for the state.",
-          "sources": "Republic TV",
-          "claims_made": [
-            "Unemployment in West Bengal has decreased by 30% under the current government"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Wire: 'Unemployment in West Bengal: No significant decrease, still above national average'",
-          "summary": "According to The Wire, the unemployment rate in West Bengal remains above the national average and there is no significant decrease under the current government.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "The actual unemployment rate is still above the national average",
-            "There is no significant decrease in unemployment"
-          ],
-          "data_check": "NFHS (2019-2020)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative claimed a significant decrease in unemployment, which is not supported by the actual data.",
-          "missing_context": "The actual unemployment rate remains above the national average."
-        }
-      },
-      {
-        "topic": "Healthcare infrastructure in rural West Bengal",
-        "state_narrative": {
-          "headline": "ABP Ananda: 'The West Bengal government has increased the number of hospitals in rural areas by 50%'",
-          "summary": "According to ABP Ananda, the West Bengal government has taken significant steps to improve healthcare infrastructure in rural areas, with a 50% increase in the number of hospitals.",
+          "headline": "ABP Ananda: 'Demonetization has brought economic growth in West Bengal'",
+          "summary": "According to ABP Ananda, the demonetization of high-denomination currency notes in 2016 has led to a significant increase in economic growth in West Bengal. The state's economy has reportedly seen a 15% growth rate after the demonetization.",
           "sources": "ABP Ananda",
           "claims_made": [
-            "The West Bengal government has increased the number of hospitals in rural areas by 50%"
+            "Demonetization has brought economic growth in West Bengal",
+            "The state's economy has seen a 15% growth rate after demonetization"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'Healthcare infrastructure in rural West Bengal: No significant increase in hospitals'",
-          "summary": "According to Article 14, there is no significant increase in the number of hospitals in rural West Bengal under the current government.",
-          "sources": "Article 14",
+          "headline": "The Wire: 'Demonetization has had a mixed impact on West Bengal's economy'",
+          "summary": "According to The Wire, while the demonetization of high-denomination currency notes in 2016 did lead to some benefits, such as a reduction in black money, it also had a negative impact on the state's economy, particularly for small businesses and farmers. Official data from the Reserve Bank of India (RBI) reportedly shows that West Bengal's GDP growth rate decreased from 11.5% in 2015 to 9.5% in 2016.",
+          "sources": "The Wire",
           "what_was_omitted": [
-            "There is no significant increase in hospitals",
-            "The actual number of hospitals remains below the national average"
+            "The negative impact of demonetization on small businesses and farmers",
+            "The decrease in West Bengal's GDP growth rate from 2015 to 2016"
           ],
-          "data_check": "Rural Health Statistics (2020)"
+          "data_check": "According to RBI data, West Bengal's GDP growth rate decreased from 11.5% in 2015 to 9.5% in 2016"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "ABP Ananda's narrative oversimplifies the impact of demonetization on West Bengal's economy, while The Wire provides a more nuanced view.",
+          "missing_context": "The lack of context regarding the negative impact of demonetization on small businesses and farmers in West Bengal."
+        }
+      },
+      {
+        "topic": "Land Acquisition in Singur",
+        "state_narrative": {
+          "headline": "Republic TV: 'Land acquisition in Singur has been a success for the state government'",
+          "summary": "According to Republic TV, the land acquisition process in Singur has been a success, with the state government reportedly having acquired the necessary land for the Tata Motors project.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "Land acquisition in Singur has been a success for the state government",
+            "The state government has acquired the necessary land for the Tata Motors project"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Wire: 'Land acquisition in Singur has been marred by controversy and protests'",
+          "summary": "According to The Wire, the land acquisition process in Singur has been marred by controversy and protests, with many farmers and local residents opposing the project. Official data from the West Bengal government reportedly shows that the land acquisition process was marked by irregularities and a lack of transparency.",
+          "sources": "The Wire",
+          "what_was_omitted": [
+            "The controversy and protests surrounding the land acquisition process in Singur",
+            "The irregularities and lack of transparency in the land acquisition process"
+          ],
+          "data_check": "According to official data from the West Bengal government, the land acquisition process was marked by irregularities and a lack of transparency"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state narrative claimed a significant increase in hospitals, which is not supported by the actual data.",
-          "missing_context": "The actual number of hospitals remains below the national average."
+          "key_gap": "Republic TV's narrative ignores the controversy and protests surrounding the land acquisition process in Singur, while The Wire provides a more accurate account.",
+          "missing_context": "The lack of context regarding the irregularities and lack of transparency in the land acquisition process in Singur."
+        }
+      },
+      {
+        "topic": "Farmers' Suicide in West Bengal",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'Farmers' suicide rate has decreased in West Bengal'",
+          "summary": "According to News18 Bangla, the farmers' suicide rate has decreased in West Bengal, with the state government reportedly implementing measures to support farmers.",
+          "sources": "News18 Bangla",
+          "claims_made": [
+            "Farmers' suicide rate has decreased in West Bengal",
+            "The state government has implemented measures to support farmers"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'Farmers' suicide rate has increased in West Bengal'",
+          "summary": "According to FactChecker.in, the farmers' suicide rate has increased in West Bengal, despite the state government's claims of implementing measures to support farmers. Official data from the National Crime Records Bureau (NCRB) reportedly shows that the number of farmers' suicides in West Bengal increased from 2015 to 2016.",
+          "sources": "FactChecker.in",
+          "what_was_omitted": [
+            "The increase in farmers' suicide rate in West Bengal from 2015 to 2016",
+            "The lack of effectiveness of the state government's measures to support farmers"
+          ],
+          "data_check": "According to NCRB data, the number of farmers' suicides in West Bengal increased from 2015 to 2016"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "News18 Bangla's narrative ignores the increase in farmers' suicide rate in West Bengal, while FactChecker.in provides a more accurate account.",
+          "missing_context": "The lack of context regarding the lack of effectiveness of the state government's measures to support farmers in West Bengal."
         }
       }
     ]
