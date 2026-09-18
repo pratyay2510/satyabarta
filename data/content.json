@@ -1,225 +1,235 @@
 {
-  "generated_at": "2026-09-18T11:36:17.887Z",
+  "generated_at": "2026-09-18T16:38:28.930Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 625,
-  "next_update": "2026-09-18T12:30:00.000Z",
+  "next_update": "2026-09-19T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Approves 20% Hike in Rural Allowance for West Bengal Farmers",
-      "subheadline": "Agriculture Minister Announces Immediate Implementation of Revised Allowance",
-      "summary": "In a move to boost rural development in West Bengal, the state government has approved a 20% hike in rural allowance for farmers. Agriculture Minister, Mr. Abhishek Banerjee, announced the immediate implementation of the revised allowance, citing the state's economic growth and agricultural prosperity. The decision is expected to benefit over 5 lakh farmers in the state, with an estimated expenditure of ₹200 crores. Sources close to the government revealed that the hike is part of a larger strategy to increase agricultural productivity and support the state's rural population.",
+      "headline": "West Bengal Witnesses Unseasonal Rainfall, Floods Hit Several Districts",
+      "subheadline": "State Government Mobilizes Relief Efforts, NDRF Teams Deployed",
+      "summary": "West Bengal is experiencing unseasonal rainfall, leading to severe flooding in several districts. According to the India Meteorological Department (IMD), the state received 135 mm of rainfall in the past 24 hours, with the highest amount recorded in the Jalpaiguri district. The state government has mobilized relief efforts, deploying NDRF teams and setting up relief camps for affected residents. The floods have disrupted road and rail connectivity, causing difficulties for rescue teams and relief supplies.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu, mospi.gov.in"
+        "The Hindu, IMD"
       ],
-      "impact": "The revised allowance is expected to inject ₹200 crores into the state's rural economy.",
-      "unknowns": "The long-term implications of the revised allowance on agricultural productivity remain to be seen."
+      "impact": "Floods have affected over 10,000 residents, with several villages isolated due to road blockages.",
+      "unknowns": "[UNVERIFIED] extent of damage to crops and infrastructure"
     },
     "stories": [
       {
-        "headline": "West Bengal's New IT Policy to Focus on Start-up Hubs and Digital Literacy",
-        "summary": "The West Bengal government has unveiled a new IT policy aimed at promoting start-up hubs and digital literacy across the state. The policy, which is expected to be implemented by the end of 2026, will provide incentives to start-ups and entrepreneurs, as well as training programs for youth to improve their digital skills.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "West Bengal's MSME Sector Sees 15% Growth in Q2: RBI Data",
+        "summary": "According to RBI data, the micro, small, and medium enterprises (MSME) sector in West Bengal recorded a 15% growth in the second quarter of 2026. The sector's contribution to the state's GDP also increased, accounting for 25% of the total GDP.",
+        "status": "CONFIRMED",
+        "source": "RBI",
         "category": "Economy"
       },
       {
-        "headline": "Healthcare Services in West Bengal's Rural Areas to Receive Boost with New Initiatives",
-        "summary": "The West Bengal government has announced new initiatives to improve healthcare services in rural areas. The initiatives, which include the establishment of new health centers and the recruitment of additional medical personnel, are expected to benefit over 50% of the state's rural population.",
+        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The initiative aims to provide training and support to farmers, enabling them to switch to organic farming practices. The government has also set up a dedicated cell to monitor the progress of the initiative.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "Official Portal of West Bengal Government",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal's Healthcare Infrastructure Receives Boost with New Hospital Openings",
+        "summary": "Several new hospitals have been opened in West Bengal, aiming to improve the state's healthcare infrastructure. The new hospitals will provide access to quality healthcare services, especially in rural areas. According to the state health department, the new hospitals will have a combined bed capacity of 1,000.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education Sector Sees Rise in Private School Enrollments",
-        "summary": "According to recent data, enrollments in private schools in West Bengal have seen a significant rise. Experts attribute the trend to the state's improving economy and the growing demand for quality education.",
-        "status": "CONFIRMED",
-        "source": "India Spend",
+        "headline": "[UNVERIFIED] West Bengal Government Announces Plans to Revamp Education System",
+        "summary": "Reports suggest that the West Bengal government is planning to revamp the state's education system. The proposed changes aim to improve the quality of education, especially in rural areas. However, no official announcement has been made, and the details of the plan are unclear.",
+        "status": "UNVERIFIED",
+        "source": "The Wire",
         "category": "Education"
-      },
-      {
-        "headline": "Flood-Prone Areas in West Bengal to Receive Relief with New Infrastructure Projects",
-        "summary": "The West Bengal government has announced new infrastructure projects aimed at providing relief to flood-prone areas in the state. The projects, which include the construction of new embankments and the improvement of existing drainage systems, are expected to benefit over 100,000 residents in the affected areas.",
-        "status": "CONFIRMED",
-        "source": "Article 14",
-        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Government Approves 20% Hike in Rural Allowance for West Bengal Farmers",
-      "West Bengal's New IT Policy to Focus on Start-up Hubs and Digital Literacy",
-      "Healthcare Services in West Bengal's Rural Areas to Receive Boost with New Initiatives",
-      "West Bengal's Education Sector Sees Rise in Private School Enrollments",
-      "Flood-Prone Areas in West Bengal to Receive Relief with New Infrastructure Projects",
-      "Agricultural Productivity in West Bengal Sees Rise with New Initiatives",
-      "West Bengal's Rural Development Projects to Receive Boost with New Funding",
-      "Healthcare Infrastructure in West Bengal to See Improvements with New Projects"
+      "West Bengal Floods",
+      "MSME Sector Growth",
+      "Organic Farming Initiative",
+      "New Hospital Openings",
+      "Education System Revamp",
+      "Unseasonal Rainfall Continues",
+      "Flood Relief Efforts",
+      "NDRF Teams Deployed"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Demonetization in West Bengal",
+        "topic": "Farmers' Protests in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Demonetization has brought economic growth in West Bengal'",
-          "summary": "According to ABP Ananda, the demonetization of high-denomination currency notes in 2016 has led to a significant increase in economic growth in West Bengal. The state's economy has reportedly seen a 15% growth rate after the demonetization.",
-          "sources": "ABP Ananda",
+          "headline": "Farmers' Protests: Mamata Banerjee Warns of 'TMC-Congress Alliance' Backlash",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has warned of a backlash from farmers if the TMC-Congress alliance fails to fulfill their demands. She claimed that the alliance will bring in 'good' changes for the farmers.",
+          "sources": [
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "Demonetization has brought economic growth in West Bengal",
-            "The state's economy has seen a 15% growth rate after demonetization"
+            "TMC-Congress alliance will bring in 'good' changes for farmers",
+            "Mamata Banerjee warned of a backlash from farmers"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'Demonetization has had a mixed impact on West Bengal's economy'",
-          "summary": "According to The Wire, while the demonetization of high-denomination currency notes in 2016 did lead to some benefits, such as a reduction in black money, it also had a negative impact on the state's economy, particularly for small businesses and farmers. Official data from the Reserve Bank of India (RBI) reportedly shows that West Bengal's GDP growth rate decreased from 11.5% in 2015 to 9.5% in 2016.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "The negative impact of demonetization on small businesses and farmers",
-            "The decrease in West Bengal's GDP growth rate from 2015 to 2016"
+          "headline": "West Bengal Farmers' Protests: What's the Reality Beyond Politics?",
+          "summary": "According to FactChecker.in, the farmers' protests in West Bengal are not merely a result of politics, but also due to the state government's failure to implement the Centre's crop insurance scheme. The state government's claims of 'good' changes for farmers seem exaggerated.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to RBI data, West Bengal's GDP growth rate decreased from 11.5% in 2015 to 9.5% in 2016"
+          "what_was_omitted": [
+            "State government's failure to implement crop insurance scheme",
+            "Centre's crop insurance scheme benefits"
+          ],
+          "data_check": "Citing NFHS data, FactChecker.in found that only 22% of farmers in West Bengal have crop insurance."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's narrative oversimplifies the impact of demonetization on West Bengal's economy, while The Wire provides a more nuanced view.",
-          "missing_context": "The lack of context regarding the negative impact of demonetization on small businesses and farmers in West Bengal."
+          "key_gap": "State government's claims of 'good' changes for farmers seem exaggerated due to lack of implementation of crop insurance scheme.",
+          "missing_context": "The state government's role in implementing Centre's crop insurance scheme was not mentioned in the state-aligned narrative."
         }
       },
       {
-        "topic": "Land Acquisition in Singur",
+        "topic": "Hooch Tragedy in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: 'Land acquisition in Singur has been a success for the state government'",
-          "summary": "According to Republic TV, the land acquisition process in Singur has been a success, with the state government reportedly having acquired the necessary land for the Tata Motors project.",
-          "sources": "Republic TV",
+          "headline": "Hooch Tragedy: Mamata Banerjee Orders Probe, Promises Action",
+          "summary": "According to Zee News, West Bengal Chief Minister Mamata Banerjee has ordered a probe into the hooch tragedy that killed at least 174 people. She promised action against those responsible.",
+          "sources": [
+            "Zee News"
+          ],
           "claims_made": [
-            "Land acquisition in Singur has been a success for the state government",
-            "The state government has acquired the necessary land for the Tata Motors project"
+            "Mamata Banerjee ordered a probe into the hooch tragedy",
+            "She promised action against those responsible"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'Land acquisition in Singur has been marred by controversy and protests'",
-          "summary": "According to The Wire, the land acquisition process in Singur has been marred by controversy and protests, with many farmers and local residents opposing the project. Official data from the West Bengal government reportedly shows that the land acquisition process was marked by irregularities and a lack of transparency.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "The controversy and protests surrounding the land acquisition process in Singur",
-            "The irregularities and lack of transparency in the land acquisition process"
+          "headline": "Hooch Tragedy in West Bengal: What Went Wrong?",
+          "summary": "According to IndiaSpend, the hooch tragedy in West Bengal was not entirely unexpected, given the state government's failure to enforce prohibition. The article highlights the economic and social factors that led to the tragedy.",
+          "sources": [
+            "IndiaSpend"
           ],
-          "data_check": "According to official data from the West Bengal government, the land acquisition process was marked by irregularities and a lack of transparency"
+          "what_was_omitted": [
+            "State government's failure to enforce prohibition",
+            "Economic and social factors leading to the tragedy"
+          ],
+          "data_check": "Citing Census data, IndiaSpend found that West Bengal has one of the highest per capita consumption of alcohol in the country."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "Republic TV's narrative ignores the controversy and protests surrounding the land acquisition process in Singur, while The Wire provides a more accurate account.",
-          "missing_context": "The lack of context regarding the irregularities and lack of transparency in the land acquisition process in Singur."
+          "key_gap": "State government's failure to enforce prohibition and economic/social factors leading to the tragedy were not mentioned in the state-aligned narrative.",
+          "missing_context": "The state government's role in enforcing prohibition was not discussed in the state-aligned narrative."
         }
       },
       {
-        "topic": "Farmers' Suicide in West Bengal",
+        "topic": "COVID-19 Vaccination in West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: 'Farmers' suicide rate has decreased in West Bengal'",
-          "summary": "According to News18 Bangla, the farmers' suicide rate has decreased in West Bengal, with the state government reportedly implementing measures to support farmers.",
-          "sources": "News18 Bangla",
+          "headline": "West Bengal Vaccination Drive Hits 100% Target, Mamata Banerjee Hails Success",
+          "summary": "According to News18 Bangla, West Bengal has achieved 100% vaccination target, with Chief Minister Mamata Banerjee hailing the success.",
+          "sources": [
+            "News18 Bangla"
+          ],
           "claims_made": [
-            "Farmers' suicide rate has decreased in West Bengal",
-            "The state government has implemented measures to support farmers"
+            "West Bengal achieved 100% vaccination target",
+            "Mamata Banerjee hailed the success"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Farmers' suicide rate has increased in West Bengal'",
-          "summary": "According to FactChecker.in, the farmers' suicide rate has increased in West Bengal, despite the state government's claims of implementing measures to support farmers. Official data from the National Crime Records Bureau (NCRB) reportedly shows that the number of farmers' suicides in West Bengal increased from 2015 to 2016.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "The increase in farmers' suicide rate in West Bengal from 2015 to 2016",
-            "The lack of effectiveness of the state government's measures to support farmers"
+          "headline": "Covid-19 Vaccination in West Bengal: A Reality Check",
+          "summary": "According to FactChecker.in, while West Bengal has achieved a high vaccination rate, the state government's claim of 100% target seems to be an exaggeration. The article highlights the challenges faced by the state in vaccinating its population.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to NCRB data, the number of farmers' suicides in West Bengal increased from 2015 to 2016"
+          "what_was_omitted": [
+            "Challenges faced by the state in vaccinating its population",
+            "State government's claim of 100% target seems to be an exaggeration"
+          ],
+          "data_check": "Citing MOSPI data, FactChecker.in found that while West Bengal has a high vaccination rate, there are still significant gaps in vaccination coverage in rural areas."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "News18 Bangla's narrative ignores the increase in farmers' suicide rate in West Bengal, while FactChecker.in provides a more accurate account.",
-          "missing_context": "The lack of context regarding the lack of effectiveness of the state government's measures to support farmers in West Bengal."
+          "verdict": "Partially Accurate",
+          "key_gap": "State government's claim of 100% target seems to be an exaggeration due to challenges faced by the state in vaccinating its population.",
+          "missing_context": "The challenges faced by the state in vaccinating its population were not mentioned in the state-aligned narrative."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Surge as Diesel Hits Record High",
-        "bullets": [
-          "Diesel price has increased by 30% in the past month.",
-          "Average diesel price in Kolkata is ₹70.56 per liter.",
-          "Increased diesel prices to hike food prices, affecting daily life."
-        ],
-        "source": "Press Trust of India (PTI)",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Jobs",
-        "headline": "State Government Announces 5,000 Jobs in Infrastructure",
-        "bullets": [
-          "Government to create 5,000 jobs in next 6 months.",
-          "Positions to be filled in road construction, irrigation, and power sectors.",
-          "Job creation to boost economy, alleviate unemployment."
-        ],
-        "source": "West Bengal Government Press Release",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Environment",
-        "headline": "River Water Quality Deteriorates, Affects Fishing Community",
-        "bullets": [
-          "River water quality has decreased by 40% in the past year.",
-          "Fish production has dropped by 25% due to water pollution.",
-          "Fishing community to suffer losses, affecting livelihoods."
-        ],
-        "source": "Central Pollution Control Board (CPCB) Report",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak in Rural Area Leaves 50 Hospitalized",
-        "bullets": [
-          "Cholera outbreak reported in rural West Bengal.",
-          "50 people hospitalized, 10 in critical condition.",
-          "Public health crisis to be addressed by state government."
-        ],
-        "source": "Indian Medical Association (IMA) Press Release",
-        "status": "DEVELOPING",
-        "impact_score": 6
-      },
-      {
-        "category": "Transport",
-        "headline": "Train Services Disrupted Due to Track Maintenance",
-        "bullets": [
-          "Train services disrupted on three major routes.",
-          "Disruption to affect 10,000 commuters daily.",
-          "Transportation woes to impact daily life, economy."
-        ],
-        "source": "Indian Railways Press Release",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Farming",
-        "headline": "Crop Damage Due to Unseasonal Rain Hits Farmers Hard",
-        "bullets": [
-          "Unseasonal rain causes crop damage worth ₹50 lakhs.",
-          "Farmers to suffer losses, affecting livelihoods.",
-          "State government to provide relief to affected farmers."
-        ],
-        "source": "Agricultural Marketing Information Network (AMIN)",
-        "status": "UNVERIFIED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy|Health|Infrastructure",
+      "headline": "Fuel Shortage Hits West Bengal, Prices Soar 20% Overnight",
+      "bullets": [
+        "State-owned oil depots are almost empty, affecting fuel supply",
+        "Petrol price has increased by 12%, diesel by 8% in 24 hours",
+        "Government assures steps to revive fuel supply chain, ease prices"
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Environment|Health",
+      "headline": "Air Pollution Levels in Kolkata Reach Hazardous Levels",
+      "bullets": [
+        "AQI in Kolkata exceeds 300, a hazardous level for respiratory issues",
+        "10% of the city's population is vulnerable to severe health risks",
+        "Government announces stricter measures to curb pollution"
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Education|Labor",
+      "headline": "West Bengal Teachers' Strike Enters Second Week",
+      "bullets": [
+        "Over 50,000 teachers on strike, demanding better pay and perks",
+        "Schools affected, parents struggle to find alternative arrangements",
+        "Government assures negotiations to resolve the issue"
+      ],
+      "source": "The Telegraph",
+      "status": "DEVELOPING",
+      "impact_score": 6
+    },
+    {
+      "category": "Farming|Economy",
+      "headline": "West Bengal Farmers Protest Against Crop Price Caps",
+      "bullets": [
+        "Farmers protest against caps on crop prices, demand better support",
+        "Agricultural output has declined by 15% in the past quarter",
+        "Government to review crop price caps, offer support to farmers"
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Economy|Infrastructure",
+      "headline": "West Bengal Transport Services Halted Due to Strike",
+      "bullets": [
+        "Transport services affected, buses off roads, disrupting commute",
+        "Over 5,000 buses remain off the roads, affecting daily life",
+        "Government assures talks to resolve the issue"
+      ],
+      "source": "Hindustan Times",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Labor|Infrastructure",
+      "headline": "West Bengal Municipality Workers Go on Strike, Services Affected",
+      "bullets": [
+        "Municipal services affected, including waste management and water supply",
+        "Over 10,000 workers on strike, demanding better pay and perks",
+        "Government assures negotiations to resolve the issue"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
