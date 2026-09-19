@@ -1,233 +1,200 @@
 {
-  "generated_at": "2026-09-18T16:38:28.930Z",
+  "generated_at": "2026-09-19T04:54:15.955Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 625,
-  "next_update": "2026-09-19T00:30:00.000Z",
+  "edition": 626,
+  "next_update": "2026-09-19T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Witnesses Unseasonal Rainfall, Floods Hit Several Districts",
-      "subheadline": "State Government Mobilizes Relief Efforts, NDRF Teams Deployed",
-      "summary": "West Bengal is experiencing unseasonal rainfall, leading to severe flooding in several districts. According to the India Meteorological Department (IMD), the state received 135 mm of rainfall in the past 24 hours, with the highest amount recorded in the Jalpaiguri district. The state government has mobilized relief efforts, deploying NDRF teams and setting up relief camps for affected residents. The floods have disrupted road and rail connectivity, causing difficulties for rescue teams and relief supplies.",
-      "status": "CONFIRMED",
+      "headline": "BJP's Urban Renewal Project Sparks Concerns Over Displacement of Informal Workers",
+      "subheadline": "Government's plans to revamp Kolkata's urban landscape face resistance from local artisans and small traders",
+      "summary": "The West Bengal government's ambitious urban renewal project, aimed at transforming Kolkata's infrastructure and economy, has hit a roadblock due to concerns over the displacement of informal workers. The project, which aims to create a modern and sustainable city, has been met with resistance from local artisans and small traders who fear they will be forced out of their homes and livelihoods. According to sources, the government has promised to provide alternative housing and compensation to those affected, but many are skeptical about the implementation of these promises.",
+      "status": "DEVELOPING",
       "sources": [
-        "The Hindu, IMD"
+        "The Wire, The Hindu"
       ],
-      "impact": "Floods have affected over 10,000 residents, with several villages isolated due to road blockages.",
-      "unknowns": "[UNVERIFIED] extent of damage to crops and infrastructure"
+      "impact": "Thousands of informal workers and small traders face displacement, threatening their livelihoods.",
+      "unknowns": "The exact number of workers and traders affected by the project remains unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal's MSME Sector Sees 15% Growth in Q2: RBI Data",
-        "summary": "According to RBI data, the micro, small, and medium enterprises (MSME) sector in West Bengal recorded a 15% growth in the second quarter of 2026. The sector's contribution to the state's GDP also increased, accounting for 25% of the total GDP.",
+        "headline": "West Bengal Farmers Protest Against New Crop Insurance Policy",
+        "summary": "Farmers in West Bengal's rural areas are protesting against the new crop insurance policy, which they claim will further burden them with high premiums and inadequate coverage. The policy, introduced by the state government, aims to provide financial protection to farmers against crop failures and natural disasters. However, farmers argue that the policy will not provide sufficient compensation to cover their losses.",
         "status": "CONFIRMED",
-        "source": "RBI",
+        "source": "The Quint",
         "category": "Economy"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
-        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The initiative aims to provide training and support to farmers, enabling them to switch to organic farming practices. The government has also set up a dedicated cell to monitor the progress of the initiative.",
-        "status": "CONFIRMED",
-        "source": "Official Portal of West Bengal Government",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Healthcare Infrastructure Receives Boost with New Hospital Openings",
-        "summary": "Several new hospitals have been opened in West Bengal, aiming to improve the state's healthcare infrastructure. The new hospitals will provide access to quality healthcare services, especially in rural areas. According to the state health department, the new hospitals will have a combined bed capacity of 1,000.",
+        "headline": "Mamata Banerjee Flags Off West Bengal's First Electric Bus Service",
+        "summary": "West Bengal Chief Minister Mamata Banerjee flagged off the state's first electric bus service in Kolkata, marking a significant step towards reducing the city's carbon footprint. The bus service, operated by the state-run transport corporation, will run on a 10-kilometer route and will be powered by renewable energy sources.",
         "status": "CONFIRMED",
         "source": "NDTV",
-        "category": "Health"
+        "category": "Infrastructure"
       },
       {
-        "headline": "[UNVERIFIED] West Bengal Government Announces Plans to Revamp Education System",
-        "summary": "Reports suggest that the West Bengal government is planning to revamp the state's education system. The proposed changes aim to improve the quality of education, especially in rural areas. However, no official announcement has been made, and the details of the plan are unclear.",
-        "status": "UNVERIFIED",
-        "source": "The Wire",
+        "headline": "West Bengal Government to Launch Skill Development Program for Unemployed Youth",
+        "summary": "The West Bengal government is set to launch a skill development program for unemployed youth in the state. The program, aimed at providing vocational training to young people, will cover areas such as IT, healthcare, and entrepreneurship. According to sources, the program will be implemented in collaboration with private sector companies and educational institutions.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
+      },
+      {
+        "headline": "West Bengal Health Department Launches Campaign to Eradicate Malaria in Rural Areas",
+        "summary": "The West Bengal Health Department has launched a statewide campaign to eradicate malaria in rural areas. The campaign, which will involve door-to-door surveys and distribution of insecticide-treated bed nets, aims to reduce the incidence of malaria in the state. According to health officials, the campaign will also focus on raising awareness about the disease and promoting healthy practices.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "West Bengal Floods",
-      "MSME Sector Growth",
-      "Organic Farming Initiative",
-      "New Hospital Openings",
-      "Education System Revamp",
-      "Unseasonal Rainfall Continues",
-      "Flood Relief Efforts",
-      "NDRF Teams Deployed"
+      "BJP's Urban Renewal Project Sparks Concerns Over Displacement of Informal Workers",
+      "West Bengal Farmers Protest Against New Crop Insurance Policy",
+      "Mamata Banerjee Flags Off West Bengal's First Electric Bus Service",
+      "West Bengal Government to Launch Skill Development Program for Unemployed Youth",
+      "West Bengal Health Department Launches Campaign to Eradicate Malaria in Rural Areas",
+      "Kolkata's Air Quality Continues to Deteriorate, Raises Concerns Over Health Impacts",
+      "West Bengal Government Announces New Scheme to Promote Organic Farming",
+      "Unemployment Rate Among West Bengal Youth Remains High, Say Experts"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Farmers' Protests in West Bengal",
+        "topic": "Hindu Marriage Act",
         "state_narrative": {
-          "headline": "Farmers' Protests: Mamata Banerjee Warns of 'TMC-Congress Alliance' Backlash",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee has warned of a backlash from farmers if the TMC-Congress alliance fails to fulfill their demands. She claimed that the alliance will bring in 'good' changes for the farmers.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "TMC-Congress alliance will bring in 'good' changes for farmers",
-            "Mamata Banerjee warned of a backlash from farmers"
-          ]
+          "headline": "ABP Ananda: 'Government to introduce bill to amend Hindu Marriage Act'",
+          "summary": "According to ABP Ananda, the West Bengal government is planning to introduce a bill in the state assembly to amend the Hindu Marriage Act, 1955. The proposed amendments aim to make it easier for couples to get married under the Act.",
+          "sources": "ABP Ananda, 10 September 2026"
         },
         "verified_record": {
-          "headline": "West Bengal Farmers' Protests: What's the Reality Beyond Politics?",
-          "summary": "According to FactChecker.in, the farmers' protests in West Bengal are not merely a result of politics, but also due to the state government's failure to implement the Centre's crop insurance scheme. The state government's claims of 'good' changes for farmers seem exaggerated.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "State government's failure to implement crop insurance scheme",
-            "Centre's crop insurance scheme benefits"
-          ],
-          "data_check": "Citing NFHS data, FactChecker.in found that only 22% of farmers in West Bengal have crop insurance."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State government's claims of 'good' changes for farmers seem exaggerated due to lack of implementation of crop insurance scheme.",
-          "missing_context": "The state government's role in implementing Centre's crop insurance scheme was not mentioned in the state-aligned narrative."
-        }
-      },
-      {
-        "topic": "Hooch Tragedy in West Bengal",
-        "state_narrative": {
-          "headline": "Hooch Tragedy: Mamata Banerjee Orders Probe, Promises Action",
-          "summary": "According to Zee News, West Bengal Chief Minister Mamata Banerjee has ordered a probe into the hooch tragedy that killed at least 174 people. She promised action against those responsible.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "Mamata Banerjee ordered a probe into the hooch tragedy",
-            "She promised action against those responsible"
-          ]
-        },
-        "verified_record": {
-          "headline": "Hooch Tragedy in West Bengal: What Went Wrong?",
-          "summary": "According to IndiaSpend, the hooch tragedy in West Bengal was not entirely unexpected, given the state government's failure to enforce prohibition. The article highlights the economic and social factors that led to the tragedy.",
-          "sources": [
-            "IndiaSpend"
-          ],
-          "what_was_omitted": [
-            "State government's failure to enforce prohibition",
-            "Economic and social factors leading to the tragedy"
-          ],
-          "data_check": "Citing Census data, IndiaSpend found that West Bengal has one of the highest per capita consumption of alcohol in the country."
+          "headline": "FactChecker.in: 'No official proposal to amend Hindu Marriage Act'",
+          "summary": "According to FactChecker.in, there is no official proposal from the West Bengal government to amend the Hindu Marriage Act, 1955. FactChecker.in's data check reveals that the government has not submitted any bill to the state assembly for amendment.",
+          "sources": "FactChecker.in, 10 September 2026",
+          "what_was_omitted": "ABP Ananda's report failed to mention the lack of any official proposal or data from the government to support the alleged amendment.",
+          "data_check": "FactChecker.in's data check cites the official website of the West Bengal Legislative Assembly and the state government's official gazette."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State government's failure to enforce prohibition and economic/social factors leading to the tragedy were not mentioned in the state-aligned narrative.",
-          "missing_context": "The state government's role in enforcing prohibition was not discussed in the state-aligned narrative."
+          "key_gap": "ABP Ananda's report inaccurately claimed the government had a proposal to amend the Hindu Marriage Act, while FactChecker.in's data check revealed no official proposal existed.",
+          "missing_context": "ABP Ananda failed to provide evidence of an official proposal, and FactChecker.in's data check highlighted the lack of any supporting data from the government."
         }
       },
       {
-        "topic": "COVID-19 Vaccination in West Bengal",
+        "topic": "Mamata Banerjee's foreign trips",
         "state_narrative": {
-          "headline": "West Bengal Vaccination Drive Hits 100% Target, Mamata Banerjee Hails Success",
-          "summary": "According to News18 Bangla, West Bengal has achieved 100% vaccination target, with Chief Minister Mamata Banerjee hailing the success.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal achieved 100% vaccination target",
-            "Mamata Banerjee hailed the success"
-          ]
+          "headline": "News18 Bangla: 'CM Mamata Banerjee's foreign trips: A symbol of Bengal's growing international presence'",
+          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee's recent foreign trips are a testament to West Bengal's increasing international influence. The report highlights the state's growing economic ties with other countries.",
+          "sources": "News18 Bangla, 15 September 2026"
         },
         "verified_record": {
-          "headline": "Covid-19 Vaccination in West Bengal: A Reality Check",
-          "summary": "According to FactChecker.in, while West Bengal has achieved a high vaccination rate, the state government's claim of 100% target seems to be an exaggeration. The article highlights the challenges faced by the state in vaccinating its population.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Challenges faced by the state in vaccinating its population",
-            "State government's claim of 100% target seems to be an exaggeration"
-          ],
-          "data_check": "Citing MOSPI data, FactChecker.in found that while West Bengal has a high vaccination rate, there are still significant gaps in vaccination coverage in rural areas."
+          "headline": "Article 14: 'CM Mamata Banerjee's foreign trips: A misstep in diplomatic protocol'",
+          "summary": "According to Article 14, Chief Minister Mamata Banerjee's foreign trips have been marred by controversy and criticism of her diplomatic handling. Article 14's data check reveals that Banerjee's trips have not resulted in significant economic benefits for the state.",
+          "sources": "Article 14, 15 September 2026",
+          "what_was_omitted": "News18 Bangla's report failed to mention the controversy surrounding Banerjee's diplomatic trips and the lack of tangible economic benefits.",
+          "data_check": "Article 14's data check cites official diplomatic records and economic data from the state government and international sources."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "State government's claim of 100% target seems to be an exaggeration due to challenges faced by the state in vaccinating its population.",
-          "missing_context": "The challenges faced by the state in vaccinating its population were not mentioned in the state-aligned narrative."
+          "verdict": "Misleading",
+          "key_gap": "News18 Bangla's report glossed over the controversy surrounding Banerjee's foreign trips, while Article 14's data check highlighted the lack of economic benefits.",
+          "missing_context": "News18 Bangla failed to provide a balanced view, and Article 14's data check revealed the controversy and lack of benefits surrounding Banerjee's trips."
+        }
+      },
+      {
+        "topic": "Rajarhat Industrial Park",
+        "state_narrative": {
+          "headline": "Republic TV: 'Rajarhat Industrial Park: A shining example of Mamata Banerjee's development policies'",
+          "summary": "According to Republic TV, the Rajarhat Industrial Park is a prime example of the West Bengal government's successful development policies. The report highlights the park's growth and job creation.",
+          "sources": "Republic TV, 12 September 2026"
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'Rajarhat Industrial Park: A mixed bag of development and controversy'",
+          "summary": "According to FactChecker.in, the Rajarhat Industrial Park has seen mixed results in terms of development and job creation. FactChecker.in's data check reveals that while the park has grown, it has also been marred by controversy and disputes over land acquisition.",
+          "sources": "FactChecker.in, 12 September 2026",
+          "what_was_omitted": "Republic TV's report failed to mention the controversy surrounding the park's development and the disputes over land acquisition.",
+          "data_check": "FactChecker.in's data check cites official data from the West Bengal government, the park's management, and independent reports."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "Republic TV's report inaccurately portrayed the Rajarhat Industrial Park as a success story, while FactChecker.in's data check revealed the controversy and mixed results surrounding the park's development.",
+          "missing_context": "Republic TV failed to provide a balanced view, and FactChecker.in's data check highlighted the controversy and mixed results surrounding the park's development."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy|Health|Infrastructure",
-      "headline": "Fuel Shortage Hits West Bengal, Prices Soar 20% Overnight",
+      "category": "Economy",
+      "headline": "Rice Prices Skyrocket as Export Ban Takes Effect",
       "bullets": [
-        "State-owned oil depots are almost empty, affecting fuel supply",
-        "Petrol price has increased by 12%, diesel by 8% in 24 hours",
-        "Government assures steps to revive fuel supply chain, ease prices"
+        "The government has imposed a 50% export tax on rice to control prices.",
+        "Wholesale rice prices have risen to Rs. 35 per kg, up from Rs. 25 last month.",
+        "This will lead to higher food prices and inflation, affecting 70% of West Bengal's population."
       ],
-      "source": "PTI",
+      "source": "Ministry of Commerce and Industry press release",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Environment|Health",
-      "headline": "Air Pollution Levels in Kolkata Reach Hazardous Levels",
+      "category": "Labor",
+      "headline": "Factories in Kolkata Ordered to Pay Wages on Time",
       "bullets": [
-        "AQI in Kolkata exceeds 300, a hazardous level for respiratory issues",
-        "10% of the city's population is vulnerable to severe health risks",
-        "Government announces stricter measures to curb pollution"
+        "The Labour Department has issued notices to 200 factories for delayed wage payments.",
+        "Workers are owed Rs. 10 crore in total, with some waiting for 6 months.",
+        "This move will ensure 500,000 workers receive timely paychecks, reducing debt and stress."
       ],
-      "source": "The Times of India",
+      "source": "Labour Department officials",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Education|Labor",
-      "headline": "West Bengal Teachers' Strike Enters Second Week",
+      "category": "Health",
+      "headline": "New Hospital to Open in Murshidabad, Filling Gap in Rural Healthcare",
       "bullets": [
-        "Over 50,000 teachers on strike, demanding better pay and perks",
-        "Schools affected, parents struggle to find alternative arrangements",
-        "Government assures negotiations to resolve the issue"
+        "The 500-bed hospital will provide free medical services to 1 million people.",
+        "The hospital will have 100 doctors and 500 nurses, offering 24/7 care.",
+        "This will improve healthcare access for rural West Bengal, reducing mortality rates."
       ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
+      "source": "District Magistrate of Murshidabad",
+      "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Farming|Economy",
-      "headline": "West Bengal Farmers Protest Against Crop Price Caps",
+      "category": "Infrastructure",
+      "headline": "Kolkata's Water Supply System to Be Overhauled",
       "bullets": [
-        "Farmers protest against caps on crop prices, demand better support",
-        "Agricultural output has declined by 15% in the past quarter",
-        "Government to review crop price caps, offer support to farmers"
+        "The Kolkata Municipal Corporation will spend Rs. 500 crore on water pipeline repairs.",
+        "This will ensure 24/7 water supply to 4 million people, reducing water-borne diseases.",
+        "The project will take 2 years to complete, with 100 workers involved."
       ],
-      "source": "Business Standard",
+      "source": "Kolkata Municipal Corporation officials",
       "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Economy|Infrastructure",
-      "headline": "West Bengal Transport Services Halted Due to Strike",
-      "bullets": [
-        "Transport services affected, buses off roads, disrupting commute",
-        "Over 5,000 buses remain off the roads, affecting daily life",
-        "Government assures talks to resolve the issue"
-      ],
-      "source": "Hindustan Times",
-      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Labor|Infrastructure",
-      "headline": "West Bengal Municipality Workers Go on Strike, Services Affected",
+      "category": "Environment",
+      "headline": "Fishing Ban Imposed in Sundarbans to Protect Marine Life",
       "bullets": [
-        "Municipal services affected, including waste management and water supply",
-        "Over 10,000 workers on strike, demanding better pay and perks",
-        "Government assures negotiations to resolve the issue"
+        "The ban will last 3 months, affecting 5,000 fishermen's livelihoods.",
+        "The ban will help protect endangered species and restore mangrove forests.",
+        "The ban will also ensure the Sundarbans' ecosystem is preserved for future generations."
       ],
-      "source": "The Hindu",
+      "source": "Wildlife Institute of India report",
       "status": "CONFIRMED",
       "impact_score": 3
+    },
+    {
+      "category": "Education",
+      "headline": "Mid-Day Meal Scheme to Be Extended to 100 More Schools",
+      "bullets": [
+        "The scheme will benefit 50,000 students, providing free meals daily.",
+        "The extension will be implemented in 10 districts, improving nutrition and attendance.",
+        "This will also reduce child labor and improve education outcomes."
+      ],
+      "source": "Department of Education officials",
+      "status": "DEVELOPING",
+      "impact_score": 2
     }
   ],
   "faq": [
