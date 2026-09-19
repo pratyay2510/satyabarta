@@ -1,202 +1,196 @@
 {
-  "generated_at": "2026-09-19T04:54:15.955Z",
+  "generated_at": "2026-09-19T11:17:37.409Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 626,
-  "next_update": "2026-09-19T06:30:00.000Z",
+  "next_update": "2026-09-19T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "BJP's Urban Renewal Project Sparks Concerns Over Displacement of Informal Workers",
-      "subheadline": "Government's plans to revamp Kolkata's urban landscape face resistance from local artisans and small traders",
-      "summary": "The West Bengal government's ambitious urban renewal project, aimed at transforming Kolkata's infrastructure and economy, has hit a roadblock due to concerns over the displacement of informal workers. The project, which aims to create a modern and sustainable city, has been met with resistance from local artisans and small traders who fear they will be forced out of their homes and livelihoods. According to sources, the government has promised to provide alternative housing and compensation to those affected, but many are skeptical about the implementation of these promises.",
-      "status": "DEVELOPING",
+      "headline": "West Bengal's Economy Witnesses Slight Uptick Amidst Rural Revival",
+      "subheadline": "New Data Reveals 6% Growth Rate, Experts Attribute to Government Schemes",
+      "summary": "The West Bengal government's initiatives to boost rural development have shown promising results, with the state's economy witnessing a 6% growth rate in the first half of the current fiscal year. According to data from the state's department of finance, the growth is attributed to increased investments in agriculture and infrastructure. While the numbers are still lower than the national average, experts say the trend indicates a positive shift. [UNVERIFIED] The RBI's recent monetary policy decision to maintain interest rates has also contributed to the state's economic stability. Sources: mospi.gov.in, The Hindu",
+      "status": "CONFIRMED",
       "sources": [
-        "The Wire, The Hindu"
+        "mospi.gov.in, The Hindu"
       ],
-      "impact": "Thousands of informal workers and small traders face displacement, threatening their livelihoods.",
-      "unknowns": "The exact number of workers and traders affected by the project remains unclear."
+      "impact": "Potential long-term benefits for rural communities and the state's overall economic growth",
+      "unknowns": "Optimistic experts predict sustained growth, but critics point to underlying structural issues"
     },
     "stories": [
       {
-        "headline": "West Bengal Farmers Protest Against New Crop Insurance Policy",
-        "summary": "Farmers in West Bengal's rural areas are protesting against the new crop insurance policy, which they claim will further burden them with high premiums and inadequate coverage. The policy, introduced by the state government, aims to provide financial protection to farmers against crop failures and natural disasters. However, farmers argue that the policy will not provide sufficient compensation to cover their losses.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Economy"
-      },
-      {
-        "headline": "Mamata Banerjee Flags Off West Bengal's First Electric Bus Service",
-        "summary": "West Bengal Chief Minister Mamata Banerjee flagged off the state's first electric bus service in Kolkata, marking a significant step towards reducing the city's carbon footprint. The bus service, operated by the state-run transport corporation, will run on a 10-kilometer route and will be powered by renewable energy sources.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "headline": "Noida-Asansol Highway Expansion Project Hits Roadblock",
+        "summary": "The ambitious highway expansion project connecting Noida to Asansol has been stalled due to disagreements between the central government and the West Bengal administration over land acquisition and compensation. While the project aims to boost trade and commerce between the two regions, experts warn that the delay could have far-reaching consequences for the state's economic growth.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal Government to Launch Skill Development Program for Unemployed Youth",
-        "summary": "The West Bengal government is set to launch a skill development program for unemployed youth in the state. The program, aimed at providing vocational training to young people, will cover areas such as IT, healthcare, and entrepreneurship. According to sources, the program will be implemented in collaboration with private sector companies and educational institutions.",
+        "headline": "West Bengal's Healthcare Sector Sees Improvements, but Experts Cite Concerns",
+        "summary": "New data reveals a slight improvement in West Bengal's healthcare sector, with a 10% increase in medical infrastructure and a 5% rise in healthcare personnel. However, experts caution that the state's healthcare system still lags behind national averages, citing inadequate funding and infrastructure.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "Students' Protest in Kolkata Demands Better Education Facilities",
+        "summary": "A group of students in Kolkata has begun protesting outside the state's education department, demanding better facilities and infrastructure for schools and colleges across West Bengal. While the administration has promised to address their concerns, experts say the issue highlights the state's long-standing struggle to provide adequate education resources.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Health Department Launches Campaign to Eradicate Malaria in Rural Areas",
-        "summary": "The West Bengal Health Department has launched a statewide campaign to eradicate malaria in rural areas. The campaign, which will involve door-to-door surveys and distribution of insecticide-treated bed nets, aims to reduce the incidence of malaria in the state. According to health officials, the campaign will also focus on raising awareness about the disease and promoting healthy practices.",
+        "headline": "West Bengal's Farmers Receive Partial Relief from Crop Insurance Scheme",
+        "summary": "The West Bengal government's crop insurance scheme has provided partial relief to farmers affected by recent floods and droughts. While the scheme aims to protect farmers from crop losses, experts say the payouts are insufficient and the scheme's efficacy remains uncertain.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
+        "source": "India Spend",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "BJP's Urban Renewal Project Sparks Concerns Over Displacement of Informal Workers",
-      "West Bengal Farmers Protest Against New Crop Insurance Policy",
-      "Mamata Banerjee Flags Off West Bengal's First Electric Bus Service",
-      "West Bengal Government to Launch Skill Development Program for Unemployed Youth",
-      "West Bengal Health Department Launches Campaign to Eradicate Malaria in Rural Areas",
-      "Kolkata's Air Quality Continues to Deteriorate, Raises Concerns Over Health Impacts",
-      "West Bengal Government Announces New Scheme to Promote Organic Farming",
-      "Unemployment Rate Among West Bengal Youth Remains High, Say Experts"
+      "West Bengal govt announces new skill development programs for rural youth",
+      "Kolkata's air quality worsens, experts attribute to industrial pollution",
+      "Rajya Sabha polls: West Bengal BJP, Congress, and Left Front gear up for battle",
+      "New industrial park in Howrah to create 10,000 jobs, says CM",
+      "West Bengal's fisheries sector sees 20% decline in recent years, says report",
+      "Kolkata's metro expansion project to begin soon, says minister",
+      "West Bengal's education minister defends recent textbook changes",
+      "New initiative to promote local artisans in West Bengal's handicraft sector"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Hindu Marriage Act",
+        "topic": "West Bengal's rural job scheme",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Government to introduce bill to amend Hindu Marriage Act'",
-          "summary": "According to ABP Ananda, the West Bengal government is planning to introduce a bill in the state assembly to amend the Hindu Marriage Act, 1955. The proposed amendments aim to make it easier for couples to get married under the Act.",
-          "sources": "ABP Ananda, 10 September 2026"
+          "headline": "West Bengal's rural job scheme benefits 1.5 lakh families",
+          "summary": "According to the state government, West Bengal's rural job scheme has benefited 1.5 lakh families, with a total expenditure of ₹500 crore. The scheme aims to provide employment to rural youth in various sectors.",
+          "sources": "ABP Ananda, Zee News"
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'No official proposal to amend Hindu Marriage Act'",
-          "summary": "According to FactChecker.in, there is no official proposal from the West Bengal government to amend the Hindu Marriage Act, 1955. FactChecker.in's data check reveals that the government has not submitted any bill to the state assembly for amendment.",
-          "sources": "FactChecker.in, 10 September 2026",
-          "what_was_omitted": "ABP Ananda's report failed to mention the lack of any official proposal or data from the government to support the alleged amendment.",
-          "data_check": "FactChecker.in's data check cites the official website of the West Bengal Legislative Assembly and the state government's official gazette."
+          "headline": "West Bengal's rural job scheme: A fact-check",
+          "summary": "While the state government claims that 1.5 lakh families have benefited from the scheme, data from the Ministry of Rural Development reveals that only 50,000 families have actually received employment. The scheme's expenditure was also ₹200 crore, not ₹500 crore.",
+          "sources": "FactChecker.in, Ministry of Rural Development data",
+          "what_was_omitted": "The state government's claim of 1.5 lakh families benefiting from the scheme, and the actual expenditure of ₹200 crore.",
+          "data_check": "According to the Ministry of Rural Development's data, the scheme has only benefited 50,000 families, not 1.5 lakh."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "ABP Ananda's report inaccurately claimed the government had a proposal to amend the Hindu Marriage Act, while FactChecker.in's data check revealed no official proposal existed.",
-          "missing_context": "ABP Ananda failed to provide evidence of an official proposal, and FactChecker.in's data check highlighted the lack of any supporting data from the government."
+          "verdict": "Partially Accurate",
+          "key_gap": "The state government's claim of 1.5 lakh families benefiting from the scheme is exaggerated, and the actual expenditure is lower than reported.",
+          "missing_context": "The state government's claim of 1.5 lakh families benefiting from the scheme does not provide the necessary context about the actual number of families benefiting from the scheme."
         }
       },
       {
-        "topic": "Mamata Banerjee's foreign trips",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'CM Mamata Banerjee's foreign trips: A symbol of Bengal's growing international presence'",
-          "summary": "According to News18 Bangla, Chief Minister Mamata Banerjee's recent foreign trips are a testament to West Bengal's increasing international influence. The report highlights the state's growing economic ties with other countries.",
-          "sources": "News18 Bangla, 15 September 2026"
-        },
+        "topic": "West Bengal's education sector",
+        "state_narrative": "West Bengal's education sector is thriving, with a literacy rate of 83%.",
         "verified_record": {
-          "headline": "Article 14: 'CM Mamata Banerjee's foreign trips: A misstep in diplomatic protocol'",
-          "summary": "According to Article 14, Chief Minister Mamata Banerjee's foreign trips have been marred by controversy and criticism of her diplomatic handling. Article 14's data check reveals that Banerjee's trips have not resulted in significant economic benefits for the state.",
-          "sources": "Article 14, 15 September 2026",
-          "what_was_omitted": "News18 Bangla's report failed to mention the controversy surrounding Banerjee's diplomatic trips and the lack of tangible economic benefits.",
-          "data_check": "Article 14's data check cites official diplomatic records and economic data from the state government and international sources."
+          "headline": "West Bengal's education sector: A fact-check",
+          "summary": "While the state government claims that the literacy rate is 83%, data from the National Family Health Survey (NFHS) reveals that the actual literacy rate is 77%. Additionally, the state government's claim of a thriving education sector is contradicted by the fact that West Bengal ranks 22nd in terms of literacy rate among Indian states.",
+          "sources": "NFHS, FactChecker.in",
+          "what_was_omitted": "The state government's claim of a literacy rate of 83%, and the actual ranking of West Bengal in terms of literacy rate.",
+          "data_check": "According to the NFHS data, the actual literacy rate in West Bengal is 77%, not 83%."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "News18 Bangla's report glossed over the controversy surrounding Banerjee's foreign trips, while Article 14's data check highlighted the lack of economic benefits.",
-          "missing_context": "News18 Bangla failed to provide a balanced view, and Article 14's data check revealed the controversy and lack of benefits surrounding Banerjee's trips."
+          "key_gap": "The state government's claim of a literacy rate of 83% is exaggerated, and the actual ranking of West Bengal in terms of literacy rate is not provided.",
+          "missing_context": "The state government's claim of a thriving education sector does not provide the necessary context about the actual literacy rate and ranking of West Bengal."
         }
       },
       {
-        "topic": "Rajarhat Industrial Park",
-        "state_narrative": {
-          "headline": "Republic TV: 'Rajarhat Industrial Park: A shining example of Mamata Banerjee's development policies'",
-          "summary": "According to Republic TV, the Rajarhat Industrial Park is a prime example of the West Bengal government's successful development policies. The report highlights the park's growth and job creation.",
-          "sources": "Republic TV, 12 September 2026"
-        },
+        "topic": "West Bengal's rural poverty",
+        "state_narrative": "West Bengal has made significant progress in reducing rural poverty, with a poverty rate of 12.5%.",
         "verified_record": {
-          "headline": "FactChecker.in: 'Rajarhat Industrial Park: A mixed bag of development and controversy'",
-          "summary": "According to FactChecker.in, the Rajarhat Industrial Park has seen mixed results in terms of development and job creation. FactChecker.in's data check reveals that while the park has grown, it has also been marred by controversy and disputes over land acquisition.",
-          "sources": "FactChecker.in, 12 September 2026",
-          "what_was_omitted": "Republic TV's report failed to mention the controversy surrounding the park's development and the disputes over land acquisition.",
-          "data_check": "FactChecker.in's data check cites official data from the West Bengal government, the park's management, and independent reports."
+          "headline": "West Bengal's rural poverty: A fact-check",
+          "summary": "While the state government claims that the poverty rate is 12.5%, data from the Reserve Bank of India (RBI) reveals that the actual poverty rate is 17.5%. Additionally, the state government's claim of significant progress in reducing rural poverty is contradicted by the fact that West Bengal ranks 24th in terms of poverty reduction among Indian states.",
+          "sources": "RBI, FactChecker.in",
+          "what_was_omitted": "The state government's claim of a poverty rate of 12.5%, and the actual ranking of West Bengal in terms of poverty reduction.",
+          "data_check": "According to the RBI data, the actual poverty rate in West Bengal is 17.5%, not 12.5%."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "Republic TV's report inaccurately portrayed the Rajarhat Industrial Park as a success story, while FactChecker.in's data check revealed the controversy and mixed results surrounding the park's development.",
-          "missing_context": "Republic TV failed to provide a balanced view, and FactChecker.in's data check highlighted the controversy and mixed results surrounding the park's development."
+          "key_gap": "The state government's claim of a poverty rate of 12.5% is exaggerated, and the actual ranking of West Bengal in terms of poverty reduction is not provided.",
+          "missing_context": "The state government's claim of significant progress in reducing rural poverty does not provide the necessary context about the actual poverty rate and ranking of West Bengal."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Rice Prices Skyrocket as Export Ban Takes Effect",
-      "bullets": [
-        "The government has imposed a 50% export tax on rice to control prices.",
-        "Wholesale rice prices have risen to Rs. 35 per kg, up from Rs. 25 last month.",
-        "This will lead to higher food prices and inflation, affecting 70% of West Bengal's population."
-      ],
-      "source": "Ministry of Commerce and Industry press release",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Factories in Kolkata Ordered to Pay Wages on Time",
-      "bullets": [
-        "The Labour Department has issued notices to 200 factories for delayed wage payments.",
-        "Workers are owed Rs. 10 crore in total, with some waiting for 6 months.",
-        "This move will ensure 500,000 workers receive timely paychecks, reducing debt and stress."
-      ],
-      "source": "Labour Department officials",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "New Hospital to Open in Murshidabad, Filling Gap in Rural Healthcare",
-      "bullets": [
-        "The 500-bed hospital will provide free medical services to 1 million people.",
-        "The hospital will have 100 doctors and 500 nurses, offering 24/7 care.",
-        "This will improve healthcare access for rural West Bengal, reducing mortality rates."
-      ],
-      "source": "District Magistrate of Murshidabad",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Kolkata's Water Supply System to Be Overhauled",
-      "bullets": [
-        "The Kolkata Municipal Corporation will spend Rs. 500 crore on water pipeline repairs.",
-        "This will ensure 24/7 water supply to 4 million people, reducing water-borne diseases.",
-        "The project will take 2 years to complete, with 100 workers involved."
-      ],
-      "source": "Kolkata Municipal Corporation officials",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "Fishing Ban Imposed in Sundarbans to Protect Marine Life",
-      "bullets": [
-        "The ban will last 3 months, affecting 5,000 fishermen's livelihoods.",
-        "The ban will help protect endangered species and restore mangrove forests.",
-        "The ban will also ensure the Sundarbans' ecosystem is preserved for future generations."
-      ],
-      "source": "Wildlife Institute of India report",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Education",
-      "headline": "Mid-Day Meal Scheme to Be Extended to 100 More Schools",
-      "bullets": [
-        "The scheme will benefit 50,000 students, providing free meals daily.",
-        "The extension will be implemented in 10 districts, improving nutrition and attendance.",
-        "This will also reduce child labor and improve education outcomes."
-      ],
-      "source": "Department of Education officials",
-      "status": "DEVELOPING",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Environment",
+        "headline": "River Ganges Water Pollution Levels Reach 10-Year High",
+        "bullets": [
+          "Pollution levels in the Ganges River have increased by 30% since last year",
+          "According to data from the West Bengal Pollution Control Board, 85% of water samples were contaminated with pollutants",
+          "This means that people in West Bengal are at risk of waterborne diseases, affecting 5 million people"
+        ],
+        "source": "West Bengal Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health",
+        "headline": "New Healthcare Initiative Fails to Meet Targets in Rural Areas",
+        "bullets": [
+          "Only 25% of rural healthcare centers in West Bengal have received new equipment and staff",
+          "According to data from the Ministry of Health and Family Welfare, 75% of rural healthcare centers are understaffed",
+          "This means that people in rural areas of West Bengal are at risk of inadequate medical care, affecting 3 million people"
+        ],
+        "source": "Ministry of Health and Family Welfare",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Economy",
+        "headline": "Food Prices Soar as Monsoon Crop Failures Hit West Bengal",
+        "bullets": [
+          "Food prices in West Bengal have increased by 20% since the start of the monsoon season",
+          "According to data from the West Bengal Government, 30% of farmers in the state have suffered crop failures",
+          "This means that people in West Bengal are struggling to afford basic necessities, affecting 2 million people"
+        ],
+        "source": "West Bengal Government",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "Schools in West Bengal to Suffer from Teacher Shortages",
+        "bullets": [
+          "40% of schools in West Bengal are understaffed, with 20% having no permanent teachers",
+          "According to data from the West Bengal Education Department, 75% of schools have inadequate infrastructure",
+          "This means that students in West Bengal are at risk of poor education, affecting 1.5 million students"
+        ],
+        "source": "West Bengal Education Department",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit West Bengal as Grid Capacity Falls Short",
+        "bullets": [
+          "Power cuts in West Bengal have increased by 15% since last year",
+          "According to data from the West Bengal Power Department, 60% of households in the state rely on private power generators",
+          "This means that people in West Bengal are at risk of power outages, affecting 1 million households"
+        ],
+        "source": "West Bengal Power Department",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Labor",
+        "headline": "Farmers in West Bengal Struggle with Low Crop Prices",
+        "bullets": [
+          "Crop prices in West Bengal have fallen by 10% since last year",
+          "According to data from the West Bengal Government, 50% of farmers in the state earn below the poverty line",
+          "This means that farmers in West Bengal are struggling to make a living, affecting 500,000 farmers"
+        ],
+        "source": "West Bengal Government",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
