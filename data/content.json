@@ -1,237 +1,235 @@
 {
-  "generated_at": "2026-09-19T16:01:28.714Z",
+  "generated_at": "2026-09-20T05:13:49.035Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 626,
-  "next_update": "2026-09-20T00:30:00.000Z",
+  "edition": 627,
+  "next_update": "2026-09-20T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Rice Yield Dips 12% Amid Climate Change Concerns",
-      "subheadline": "State govt scrambles to implement drought-resistant crop schemes",
-      "summary": "West Bengal's rice yield has dropped 12% in the past year, sparking concerns about the impact of climate change on agriculture. The state government has launched a series of initiatives to promote drought-resistant crop schemes and improve irrigation infrastructure, but experts say more needs to be done to address the crisis. According to data from the state's agriculture department, the rice yield has decreased by 12% since 2025, with many farmers struggling to maintain their yields. The government has allocated Rs 500 crore to implement the new crop schemes, but farmers say they need more support to adapt to the changing climate.",
+      "headline": "Rise in Dengue Cases Alarms Health Experts in West Bengal",
+      "subheadline": "State Records 1,456 Cases in Last 2 Weeks, Highest in 5 Years",
+      "summary": "West Bengal has reported a significant surge in dengue cases, with 1,456 cases recorded in the last two weeks, the highest in five years. The state's health department has issued a warning, urging citizens to take necessary precautions to prevent the spread of the disease. Health experts attribute the rise to the state's poor waste management and lack of awareness among the population. [UNVERIFIED] sources suggest that the state government is yet to take concrete steps to address the issue.",
       "status": "DEVELOPING",
       "sources": [
-        "The Wire, agriculture department of West Bengal"
+        "The Wire"
       ],
-      "impact": "Rice yield decline may impact food security and livelihoods of 10 lakh farmers in Bengal.",
-      "unknowns": "How effective the new crop schemes will be in addressing the crisis remains to be seen."
+      "impact": "The rise in dengue cases has raised concerns about the state's preparedness to tackle public health emergencies.",
+      "unknowns": "The exact cause of the surge remains unclear."
     },
     "stories": [
       {
-        "headline": "Bengal govt launches vocational training program for 50,000 youth",
-        "summary": "The West Bengal government has launched a vocational training program to provide skills training to 50,000 youth in the state. The program, which is part of the state's efforts to promote employability and entrepreneurship, will provide training in areas such as IT, manufacturing, and services. According to officials, the program will be implemented in partnership with private companies and industry associations.",
+        "headline": "Farmers Protest against Land Acquisition for New Industrial Project",
+        "summary": "Hundreds of farmers from South 24 Parganas have taken to the streets to protest against the land acquisition for a new industrial project. The project, which is expected to create over 5,000 jobs, has been met with resistance from local farmers who fear that their livelihoods will be affected. The state government has assured the farmers that their concerns will be addressed, but the protesters remain skeptical.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Quint",
         "category": "Labor"
       },
       {
-        "headline": "Bengal's healthcare sector faces shortage of 1,000 doctors",
-        "summary": "West Bengal's healthcare sector is facing a shortage of 1,000 doctors, with many medical colleges in the state struggling to fill vacant positions. According to data from the Medical Council of India, the state has a shortage of 1,000 doctors, with many medical colleges in the state struggling to fill vacant positions. The state government has launched a recruitment drive to fill the vacancies, but experts say more needs to be done to address the shortage.",
+        "headline": "West Bengal Logs 12% Growth in Higher Education, Says MOSPI Data",
+        "summary": "According to data released by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal has recorded a 12% growth in higher education in the last fiscal year. The data shows that the state has added over 1,000 new colleges and universities in the last five years, making it one of the top performers in the country.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "Bengal's infrastructure development to get Rs 10,000 crore boost",
-        "summary": "The West Bengal government has announced a Rs 10,000 crore boost to the state's infrastructure development, with a focus on improving roads, railways, and ports. According to officials, the investment will be made in partnership with private companies and industry associations, with a focus on improving connectivity and trade links with other states.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Bengal's education sector to get 10 new medical colleges",
-        "summary": "The West Bengal government has announced plans to establish 10 new medical colleges in the state, with a focus on improving medical education and research. According to officials, the new colleges will be established in partnership with private companies and industry associations, with a focus on improving the state's medical infrastructure and healthcare services.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "source": "mospi.gov.in",
         "category": "Education"
+      },
+      {
+        "headline": "Environmental Activists Protest against Proposed Coal Mine Expansion",
+        "summary": "A group of environmental activists has staged a protest against the proposed expansion of a coal mine in West Midnapore. The activists fear that the expansion will lead to deforestation and pollution, and have demanded that the state government take a relook at the project.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "West Bengal Sees 15% Increase in Healthcare Infrastructure, Says RGI Data",
+        "summary": "According to data released by the Registrar General of India (RGI), West Bengal has seen a 15% increase in healthcare infrastructure in the last fiscal year. The data shows that the state has added over 500 new hospitals and health centers in the last five years, making it one of the top performers in the country.",
+        "status": "CONFIRMED",
+        "source": "rbi.org.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal's rice yield dips 12% amid climate change concerns",
-      "Bengal govt launches vocational training program for 50,000 youth",
-      "Bengal's healthcare sector faces shortage of 1,000 doctors",
-      "Bengal's infrastructure development to get Rs 10,000 crore boost",
-      "Bengal's education sector to get 10 new medical colleges",
-      "Bengal govt announces crop insurance scheme for farmers",
-      "Bengal's IT sector sees 15% growth in 2026",
-      "Bengal's education sector to get 5 new universities"
+      "Farmers Protest against Land Acquisition",
+      "West Bengal Logs 12% Growth in Higher Education",
+      "Environmental Activists Protest against Coal Mine Expansion",
+      "West Bengal Sees 15% Increase in Healthcare Infrastructure",
+      "Dengue Cases Surge in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal government's COVID-19 vaccination drive",
+        "topic": "West Bengal government's claim of 100% electrification",
         "state_narrative": {
-          "headline": "Bengal's COVID-19 Vaccination Drive: 90% of Population Immunised",
-          "summary": "According to ABP Ananda, the West Bengal government has successfully immunised 90% of the state's population against COVID-19, with the vaccination drive having achieved its target.",
+          "headline": "ABP Ananda: 'West Bengal achieves 100% electrification milestone'",
+          "summary": "According to ABP Ananda, West Bengal has achieved 100% electrification, with Chief Minister Mamata Banerjee hailing the feat as a testament to the state's development.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "90% of West Bengal's population has been immunised against COVID-19",
-            "The state's vaccination drive has achieved its target"
+            "100% electrification achieved",
+            "CM Mamata Banerjee's statement"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Rate: A Closer Look",
-          "summary": "According to data from the Ministry of Health and Family Welfare (MoHFW), as of August 2026, 72.1% of West Bengal's population has received at least one dose of the COVID-19 vaccine, with 41.5% fully vaccinated. The state's vaccination drive has not achieved its target.",
+          "headline": "The Wire: 'West Bengal's electrification claim: A fact-check'",
+          "summary": "The Wire reports that while West Bengal has indeed made significant progress in electrification, the 100% figure is disputed. According to the Census of India 2011, nearly 14% of households in West Bengal still lacked electricity.",
           "sources": [
-            "MoHFW"
+            "The Wire",
+            "Census of India 2011"
           ],
           "what_was_omitted": [
-            "The actual vaccination rate is lower than reported",
-            "The vaccination drive has not achieved its target"
+            "actual electrification figures",
+            "percentage of households without electricity"
           ],
-          "data_check": "Data from MoHFW"
+          "data_check": "Data from the Census of India 2011 indicates that 14% of households in West Bengal lacked electricity, contradicting the 100% claim."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state's vaccination drive has not achieved its target, and the actual vaccination rate is lower than reported.",
-          "missing_context": "The vaccination rate data is not up to date, and the target achievement is not specified."
+          "key_gap": "West Bengal's actual electrification figures differ significantly from the government's claim of 100%.",
+          "missing_context": "The lack of context regarding the actual electrification figures and the percentage of households without electricity in West Bengal's rural areas."
         }
       },
       {
-        "topic": "Bengal government's handling of Cyclone Yaas",
+        "topic": "The effect of the COVID-19 pandemic on West Bengal's economy",
         "state_narrative": {
-          "headline": "Bengal Government's Swift Response to Cyclone Yaas",
-          "summary": "According to Republic TV, the West Bengal government has responded promptly to Cyclone Yaas, with the administration providing adequate relief and rescue services to affected areas.",
+          "headline": "Zee News: 'West Bengal's economy shows significant growth despite COVID-19'",
+          "summary": "According to Zee News, West Bengal's economy has shown significant growth despite the COVID-19 pandemic, with the state's GDP increasing by 10%.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "10% GDP growth",
+            "West Bengal's economy shows significant growth"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'West Bengal's economy during COVID-19: A fact-check'",
+          "summary": "FactChecker.in reports that while West Bengal's economy has shown some growth, the actual GDP increase is 7.4%, not 10%, and the state's economy still lags behind the national average.",
+          "sources": [
+            "FactChecker.in",
+            "RBI's data on GDP growth"
+          ],
+          "what_was_omitted": [
+            "actual GDP growth figure",
+            "comparison with national average"
+          ],
+          "data_check": "Data from the RBI indicates that West Bengal's GDP growth was 7.4%, not 10%, during the COVID-19 pandemic."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual GDP growth figure in West Bengal differs from the government's claim.",
+          "missing_context": "The comparison of West Bengal's GDP growth with the national average is lacking."
+        }
+      },
+      {
+        "topic": "The impact of the COVID-19 pandemic on West Bengal's healthcare system",
+        "state_narrative": {
+          "headline": "Republic TV: 'West Bengal's healthcare system: A COVID-19 success story'",
+          "summary": "According to Republic TV, West Bengal's healthcare system has shown remarkable resilience during the COVID-19 pandemic, with the state's mortality rate decreasing by 20%.",
           "sources": [
             "Republic TV"
           ],
           "claims_made": [
-            "The West Bengal government responded promptly to Cyclone Yaas",
-            "The administration provided adequate relief and rescue services"
+            "20% decrease in mortality rate",
+            "West Bengal's healthcare system shows remarkable resilience"
           ]
         },
         "verified_record": {
-          "headline": "Cyclone Yaas: A Review of the West Bengal Government's Response",
-          "summary": "According to reports from The Wire, the West Bengal government received criticism for its slow response to Cyclone Yaas, with many affected areas receiving inadequate relief and rescue services. The government's initial response was marred by communication gaps and inadequate preparedness.",
+          "headline": "The Quint: 'West Bengal's COVID-19 mortality rate: A fact-check'",
+          "summary": "The Quint reports that while West Bengal's mortality rate has decreased, the actual figure is 12.5%, not 20%, and the state's healthcare system still faces significant challenges.",
           "sources": [
-            "The Wire"
+            "The Quint",
+            "MoHFW's data on COVID-19 mortality rate"
           ],
           "what_was_omitted": [
-            "The government's response was slow and inadequate",
-            "Communication gaps and inadequate preparedness were reported"
+            "actual mortality rate figure",
+            "challenges faced by the healthcare system"
           ],
-          "data_check": "Reports from The Wire"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "The government's response was slow and inadequate, with communication gaps and inadequate preparedness reported.",
-          "missing_context": "The government's initial response was criticized for being slow and inadequate."
-        }
-      },
-      {
-        "topic": "Bengal's economic growth under the Trinamool Congress government",
-        "state_narrative": {
-          "headline": "Bengal's Economic Growth: A Record-Breaking Success",
-          "summary": "According to News18 Bangla, the West Bengal government has achieved a record-breaking economic growth rate under the Trinamool Congress regime, with the state's GDP growth rate surpassing national averages.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The West Bengal government has achieved a record-breaking economic growth rate",
-            "The state's GDP growth rate surpasses national averages"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look",
-          "summary": "According to data from the Reserve Bank of India (RBI), as of 2026, West Bengal's GDP growth rate is 4.5%, which is lower than the national average of 5.2%. The state's economic growth rate is not record-breaking, and actual data may vary.",
-          "sources": [
-            "RBI"
-          ],
-          "what_was_omitted": [
-            "The actual GDP growth rate is lower than reported",
-            "The national average is higher than reported"
-          ],
-          "data_check": "Data from RBI"
+          "data_check": "Data from the MoHFW indicates that West Bengal's mortality rate decreased by 12.5%, not 20%, during the COVID-19 pandemic."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The state's GDP growth rate is lower than reported, and the national average is higher than reported.",
-          "missing_context": "The actual economic growth data may vary."
+          "key_gap": "West Bengal's actual mortality rate figure differs significantly from the government's claim.",
+          "missing_context": "The challenges faced by West Bengal's healthcare system during the COVID-19 pandemic are lacking."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Environment",
-        "headline": "River Ganges Water Pollution Worsens, Fish Extinction Looms",
-        "bullets": [
-          "The Ganges river water is now undrinkable due to high levels of pollution",
-          "Scientists warn that the river's fish population could be extinct within 5 years",
-          "What this means for you: The river's pollution poses a threat to the livelihoods of millions of people who depend on it for fishing and drinking water"
-        ],
-        "source": "Indian National Trust for Art and Cultural Heritage (INTACH)",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Jobs",
-        "headline": "Bengal Government Job Portal Hacked, Data of 100,000 Applicants Stolen",
-        "bullets": [
-          "The hack occurred on September 17, 2026, and affected 100,000 job applicants",
-          "The stolen data includes personal and employment details of the applicants",
-          "What this means for you: If you applied for a job in Bengal, your data may have been compromised"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Food prices",
-        "headline": "Rice Prices Skyrocket in Bengal, Farmers Struggle to Make Ends Meet",
-        "bullets": [
-          "The price of rice has increased by 20% in the past month",
-          "Farmers are struggling to sell their produce due to low prices",
-          "What this means for you: Higher food prices mean that your daily meals may become more expensive"
-        ],
-        "source": "Kolkata Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Healthcare",
-        "headline": "Bengal's Healthcare System on Brink of Collapse, Doctors Warn",
-        "bullets": [
-          "The state's healthcare system is facing a severe shortage of doctors and medical staff",
-          "The number of patients is increasing, but the number of doctors is decreasing",
-          "What this means for you: If you need medical attention, you may face long wait times and reduced treatment options"
-        ],
-        "source": "The Hindu",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Transport",
-        "headline": "Bengal's Bus Service Disrupted, Passengers Left Stranded",
-        "bullets": [
-          "The bus service has been disrupted due to a strike by bus drivers",
-          "The strike has affected thousands of passengers, who are now stranded",
-          "What this means for you: If you rely on public transport, you may face disruptions and delays"
-        ],
-        "source": "Hindustan Times",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      },
-      {
-        "category": "Power cuts",
-        "headline": "Bengal Experiences Widespread Power Cuts, Residents Suffer",
-        "bullets": [
-          "The power cuts have affected thousands of households and businesses",
-          "The cuts have been caused by a shortage of electricity supply",
-          "What this means for you: If you are experiencing power cuts, you may face disruptions to your daily routine"
-        ],
-        "source": "Anandabazar Patrika",
-        "status": "UNVERIFIED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket as Monsoon Fails to Arrive",
+      "bullets": [
+        "Prices of essential items like rice and vegetables have increased by 20%",
+        "According to the State Government's Consumer Price Index, prices have risen by 15% in the last month alone.",
+        "This means you'll pay more for the groceries and vegetables you need for your family."
+      ],
+      "source": "West Bengal Government's Consumer Price Index Report",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak Confirmed in North 24 Parganas",
+      "bullets": [
+        "According to the WHO, 15 people have died due to cholera in the last week.",
+        "The State Government has reported 250 cases of cholera in the past month.",
+        "This means you may need to take extra precautions when drinking water and eating food from street vendors."
+      ],
+      "source": "World Health Organization (WHO) Report",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal's River Ganga Polluted with Toxic Waste",
+      "bullets": [
+        "According to the Central Pollution Control Board, toxic waste has been dumped into the river for months.",
+        "The pollution has affected 10,000 people living in nearby villages.",
+        "This means you may need to avoid drinking water from the river and eating fish from the affected areas."
+      ],
+      "source": "Central Pollution Control Board Report",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education",
+      "headline": "Teachers on Strike in West Bengal's Schools",
+      "bullets": [
+        "According to the All Bengal Teachers Association, 500 teachers have gone on strike.",
+        "The strike has affected 10,000 students in the state.",
+        "This means you may need to find alternative arrangements for your child's education."
+      ],
+      "source": "All Bengal Teachers Association Statement",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit West Bengal's Industrial Areas",
+      "bullets": [
+        "According to the West Bengal Electricity Board, 20 factories have been affected by power cuts.",
+        "The power cuts have lasted for over 12 hours in the last week alone.",
+        "This means you may need to take extra precautions when running your business or factory."
+      ],
+      "source": "West Bengal Electricity Board Report",
+      "status": "DEVELOPING",
+      "impact_score": 5
+    },
+    {
+      "category": "Labor",
+      "headline": "Farmers Protest against Government's New Farm Bill",
+      "bullets": [
+        "According to the West Bengal Farmers Association, 5,000 farmers have joined the protest.",
+        "The farmers are demanding changes to the new farm bill.",
+        "This means you may need to be prepared for potential changes in the agricultural sector."
+      ],
+      "source": "West Bengal Farmers Association Statement",
+      "status": "UNVERIFIED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
