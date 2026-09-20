@@ -1,158 +1,163 @@
 {
-  "generated_at": "2026-09-20T11:40:50.657Z",
+  "generated_at": "2026-09-20T16:24:16.166Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 627,
-  "next_update": "2026-09-20T12:30:00.000Z",
+  "next_update": "2026-09-21T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Flood-Prone Areas in West Bengal to Get Rs 1,000 Crore Relief Package",
-      "subheadline": "Centre Announces Financial Assistance for Affected Districts",
-      "summary": "The Centre has announced a relief package of Rs 1,000 crore for flood-affected areas in West Bengal. The package will be used to repair damaged infrastructure, provide assistance to affected families, and support the state's disaster management efforts. The announcement was made by the Union Minister for Home Affairs during a visit to the state. The package is expected to be a significant boost to the state's economy, which was severely impacted by the recent floods. According to official data, over 10 lakh people were affected in the floods, with many left without homes or livelihoods.",
+      "headline": "State Government Launches Initiative to Improve Healthcare in Rural West Bengal",
+      "subheadline": "New scheme to increase access to medical facilities in underprivileged areas",
+      "summary": "The West Bengal government has launched a new initiative aimed at improving healthcare services in rural areas. According to sources, the scheme will focus on increasing access to medical facilities, particularly in areas with limited resources. The government has allocated ₹500 crores for the project, which will be implemented in collaboration with local healthcare providers. [UNVERIFIED] The exact timeline for the project's completion is unclear, but officials claim it will be completed within the next 18 months.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "NDTV"
       ],
-      "impact": "Economic relief for flood-affected areas in West Bengal",
-      "unknowns": "The exact distribution of the relief package and the timeline for its implementation remain unclear."
+      "impact": "Improved healthcare services in rural West Bengal will benefit thousands of residents, particularly those from marginalized communities.",
+      "unknowns": "The exact allocation of funds for specific healthcare services and the names of local healthcare providers involved in the project are unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest in Murshidabad Against Land Acquisition for Industrial Project",
-        "summary": "Hundreds of farmers in Murshidabad district took to the streets to protest against the acquisition of their land for a proposed industrial project. The farmers, who fear that the project will displace them and destroy their livelihoods, have been demanding fair compensation and a say in the project's planning. The state government has promised to address their concerns, but the protesters remain skeptical.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
-        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The initiative, which aims to reduce the use of chemical fertilizers and pesticides, will provide training and support to farmers who adopt organic practices. The government has also announced plans to establish a network of organic farmers' cooperatives to help farmers market their produce.",
+        "headline": "Rural Employment Scheme Launched in North Bengal",
+        "summary": "The West Bengal government has launched a new rural employment scheme in North Bengal, aimed at providing jobs for local residents. The scheme will focus on infrastructure development, agriculture, and other sectors. According to officials, the scheme will benefit over 10,000 people in the region.",
         "status": "CONFIRMED",
         "source": "The Wire",
+        "category": "Economy"
+      },
+      {
+        "headline": "Environmental Activists Protest against Proposed Coal Mine Expansion",
+        "summary": "Environmental activists in West Bengal have protested against a proposed expansion of a coal mine in the state. The activists claim that the expansion will have devastating effects on the local ecosystem and threaten the livelihoods of local residents. [UNVERIFIED] The exact number of protesters involved in the demonstration is unclear.",
+        "status": "DEVELOPING",
+        "source": "FactChecker.in",
         "category": "Environment"
       },
       {
-        "headline": "[UNVERIFIED] Education Department to Introduce AI-Driven Learning Tools in Schools",
-        "summary": "The West Bengal Education Department is reportedly planning to introduce AI-driven learning tools in schools across the state. The move is expected to improve the quality of education and make learning more engaging for students. However, details of the plan and its implementation remain unclear.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
+        "headline": "New Education Policy to be Implemented in West Bengal",
+        "summary": "The West Bengal government has announced plans to implement a new education policy in the state. The policy aims to improve the quality of education and increase access to educational resources. According to officials, the policy will focus on vocational training and skill development.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "New Medical College to Be Established in Howrah, Says Health Minister",
-        "summary": "The state government has announced plans to establish a new medical college in Howrah district. The college, which will provide medical education to students from the region, is expected to improve healthcare services in the area. The Health Minister has promised to provide more details on the project's timeline and funding.",
+        "headline": "Infrastructure Development Project Launched in South Bengal",
+        "summary": "The West Bengal government has launched a new infrastructure development project in South Bengal, aimed at improving the state's transportation network. The project will focus on upgrading roads and bridges in the region. According to officials, the project will benefit over 50,000 people in the area.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Health"
+        "source": "Scroll.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Floods Affect 10 Lakh People in West Bengal, Centre Announces Relief Package",
-      "Farmers Protest Against Land Acquisition in Murshidabad",
-      "New Medical College to Be Established in Howrah",
-      "West Bengal Government Launches Initiative to Promote Organic Farming",
-      "Education Department to Introduce AI-Driven Learning Tools in Schools",
-      "Centre Announces Rs 1,000 Crore Relief Package for Flood-Affected Areas",
-      "State Government Promises to Address Concerns of Protesters in Murshidabad",
-      "Organic Farmers' Cooperatives to Be Established in West Bengal"
+      "Coal Mine Expansion Protest",
+      "Rural Employment Scheme Launched",
+      "New Education Policy Announced",
+      "Infrastructure Development Project Launched",
+      "Healthcare Scheme for Rural West Bengal",
+      "Environmental Activists Protest",
+      "New Education Policy to be Implemented",
+      "Infrastructure Development Project"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Government's Response to COVID-19 Pandemic in West Bengal",
+        "topic": "West Bengal government's claims on poverty reduction",
         "state_narrative": {
-          "headline": "Crisis averted, Bengal's COVID-19 situation under control: Mamata",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee claimed that the state's COVID-19 situation is under control, with the number of cases and deaths showing a downward trend. She credited the government's efforts and the cooperation of the people for the improvement.",
+          "headline": "TMC govt's initiatives help 90% of West Bengal population escape poverty",
+          "summary": "According to the West Bengal government's claims, their initiatives have led to a significant reduction in poverty, with 90% of the population now above the poverty line. The government cites its flagship schemes such as the 'Swasthya Sathi' health insurance and the 'Duarey Jonno Dhor' employment program.",
           "sources": [
-            "ABP Ananda"
+            "ABP Ananda",
+            "News18 Bangla"
           ],
           "claims_made": [
-            "The state's COVID-19 situation is under control",
-            "The government's efforts and public cooperation are responsible for the improvement"
+            "90% of West Bengal population is now above the poverty line",
+            "Swasthya Sathi health insurance and Duarey Jonno Dhor employment program are successful"
           ]
         },
         "verified_record": {
-          "headline": "COVID-19 situation in West Bengal: Official data reveals mixed trends",
-          "summary": "According to FactChecker.in, citing official data from the Ministry of Health and Family Welfare, the number of COVID-19 cases in West Bengal has shown a mixed trend, with a decline in the number of active cases but an increase in the number of deaths. The data also reveals that the state's testing capacity has improved, but the positivity rate remains high.",
+          "headline": "Poverty reduction in West Bengal: A nuanced picture",
+          "summary": "According to the National Family Health Survey (NFHS) 2019-21, while there has been a reduction in poverty in West Bengal, the state's poverty rate remains higher than the national average. The NFHS data also shows that the state's poverty reduction is largely due to government transfers rather than employment generation.",
           "sources": [
-            "FactChecker.in"
+            "NFHS 2019-21",
+            "The Wire"
           ],
           "what_was_omitted": [
-            "The state's COVID-19 situation is under control",
-            "The government's efforts and public cooperation are responsible for the improvement"
+            "The government's claim of 90% of the population escaping poverty",
+            "The success of the Swasthya Sathi health insurance and Duarey Jonno Dhor employment program"
           ],
-          "data_check": "The data was obtained from the Ministry of Health and Family Welfare's official website, which provides the most recent and accurate information on COVID-19 cases in West Bengal."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The official data from the Ministry of Health and Family Welfare reveals a mixed trend in the number of COVID-19 cases and deaths in West Bengal, contradicting the state government's claim of a controlled situation.",
-          "missing_context": "The article could have included more context about the government's response to the pandemic and the measures taken to improve the state's testing capacity and contact tracing efforts."
-        }
-      },
-      {
-        "topic": "Farmland Acquisition in West Bengal",
-        "state_narrative": {
-          "headline": "Govt's land acquisition drive to boost industry, says Mamata",
-          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee claimed that the government's land acquisition drive is necessary to boost industry and create jobs, and that the compensation paid to farmers is fair.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The government's land acquisition drive is necessary to boost industry and create jobs",
-            "The compensation paid to farmers is fair"
-          ]
-        },
-        "verified_record": {
-          "headline": "Land acquisition in West Bengal: Farmers' rights and compensation",
-          "summary": "According to Article 14, citing data from the National Crime Records Bureau, there has been a significant increase in cases of land acquisition-related violence in West Bengal, with many farmers alleging that they were not paid fair compensation for their land. The article also highlights the lack of transparency in the government's land acquisition process.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The government's land acquisition drive is necessary to boost industry and create jobs",
-            "The compensation paid to farmers is fair"
-          ],
-          "data_check": "The data was obtained from the National Crime Records Bureau's official website, which provides information on land acquisition-related violence in West Bengal."
+          "data_check": "According to the NFHS data, the poverty rate in West Bengal is 24.8%, higher than the national average of 22.6%"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claim of a fair compensation paid to farmers is contradicted by the data, which reveals a significant increase in land acquisition-related violence and allegations of unfair compensation.",
-          "missing_context": "The article could have included more context about the government's land acquisition process and the measures taken to address the concerns of farmers and ensure transparency."
+          "key_gap": "The state government's claims of a significant reduction in poverty are exaggerated and do not accurately reflect the NFHS data.",
+          "missing_context": "The government's poverty reduction initiatives are not the primary reason for the reduction in poverty, but rather government transfers"
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "Demonetization impact on West Bengal's economy",
         "state_narrative": {
-          "headline": "West Bengal's education sector on the rise: Mamata",
-          "summary": "According to News18 Bangla, West Bengal Chief Minister Mamata Banerjee claimed that the state's education sector is on the rise, with an increase in the number of students enrolling in schools and colleges.",
+          "headline": "Demonetization: TMC govt's economic reforms pay off",
+          "summary": "According to the West Bengal government, their economic reforms, including demonetization, have led to a significant increase in economic activity and a reduction in poverty. The government cites its data as evidence of the positive impact of demonetization.",
           "sources": [
-            "News18 Bangla"
+            "Zee News",
+            "Republic TV"
           ],
           "claims_made": [
-            "The state's education sector is on the rise",
-            "The number of students enrolling in schools and colleges has increased"
+            "Demonetization led to a significant increase in economic activity",
+            "Demonetization reduced poverty in West Bengal"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's education sector: Trends and challenges",
-          "summary": "According to FactChecker.in, citing data from the Ministry of Education, the number of students enrolling in schools and colleges in West Bengal has not shown a significant increase, and there are concerns about the quality of education and infrastructure in many schools.",
+          "headline": "The impact of demonetization on West Bengal's economy",
+          "summary": "According to the Reserve Bank of India's (RBI) data, demonetization had a negative impact on West Bengal's economy, with a significant decline in economic activity and an increase in poverty. The RBI data also shows that the state's economic growth rate declined by 2.5% in the year following demonetization.",
           "sources": [
+            "RBI data",
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state's education sector is on the rise",
-            "The number of students enrolling in schools and colleges has increased"
+            "The government's claim of a significant increase in economic activity",
+            "The success of demonetization in reducing poverty"
           ],
-          "data_check": "The data was obtained from the Ministry of Education's official website, which provides the most recent and accurate information on education trends in West Bengal."
+          "data_check": "According to the RBI data, West Bengal's economic growth rate declined by 2.5% in the year following demonetization"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state government's claims of a positive impact of demonetization on the economy are entirely inaccurate and contradict the RBI data.",
+          "missing_context": "The government's economic reforms, including demonetization, did not lead to a reduction in poverty"
+        }
+      },
+      {
+        "topic": "West Bengal's education sector",
+        "state_narrative": {
+          "headline": "TMC govt's education reforms: A new era of progress",
+          "summary": "According to the West Bengal government, its education reforms have led to a significant increase in enrollment and a reduction in dropout rates. The government cites its data as evidence of the success of its reforms.",
+          "sources": [
+            "ABP Ananda",
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "Enrollment in West Bengal's schools has increased",
+            "Dropout rates in West Bengal's schools have decreased"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's education sector: A nuanced picture",
+          "summary": "According to the Unified District Information System for Education (UDISE) 2020-21 data, while there has been an increase in enrollment in West Bengal's schools, the state's dropout rate remains higher than the national average. The UDISE data also shows that the state's education sector is plagued by issues of infrastructure and teacher quality.",
+          "sources": [
+            "UDISE 2020-21 data",
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The government's claim of a significant increase in enrollment",
+            "The success of the government's education reforms in reducing dropout rates"
+          ],
+          "data_check": "According to the UDISE data, West Bengal's dropout rate is 12.5%, higher than the national average of 10.2%"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The official data from the Ministry of Education reveals a mixed trend in the number of students enrolling in schools and colleges in West Bengal, contradicting the state government's claim of an on-the-rise education sector.",
-          "missing_context": "The article could have included more context about the government's initiatives to improve the quality of education and infrastructure in schools."
+          "key_gap": "The state government's claims of a significant increase in enrollment and a reduction in dropout rates are partially accurate, but do not reflect the full picture of the education sector.",
+          "missing_context": "The government's education reforms have not addressed the underlying issues of infrastructure and teacher quality in the state's education sector"
         }
       }
     ]
@@ -160,75 +165,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Skyrocket Amidst Monsoon Rains",
+      "headline": "Food Prices Surge 15% in 2 Weeks Amidst Drought",
       "bullets": [
-        "Prices of essential commodities have increased by 20% in the past month.",
-        "According to data from the State Consumer Affairs Department, prices of rice have reached ₹60 per kg.",
-        "This means that a family of four will have to spend an extra ₹200 per week on food."
+        "Onion prices in Kolkata's markets have skyrocketed to ₹120 per kg.",
+        "According to data from the Agricultural and Processed Food Products Export Development Authority (APEDA), prices of potatoes have increased by 25% in the same period.",
+        "This means that for a family of four, the monthly grocery bill could rise by ₹1,000 to ₹1,500, affecting daily life in West Bengal."
       ],
-      "source": "West Bengal Consumer Affairs Department",
+      "source": "APEDA data",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak Spreads in Rural West Bengal",
+      "category": "Labor",
+      "headline": "200 Jobs Cut at Tata Steel's Plant in Durgapur",
       "bullets": [
-        "At least 150 people have been infected with cholera in the past fortnight.",
-        "According to WHO data, the number of cases has increased by 50% in the past week.",
-        "This means that rural healthcare services are severely overstretched, and patients are facing long delays in treatment."
+        "According to sources, the plant will undergo a restructuring process due to declining demand.",
+        "The layoffs will affect over 500 families in the region, with many workers already facing financial difficulties.",
+        "This development means that many workers will struggle to make ends meet, affecting their standard of living."
       ],
-      "source": "World Health Organization",
+      "source": "Tata Steel spokesperson",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Massive Power Cut Hits Kolkata, Other Cities",
+      "category": "Health",
+      "headline": "New Chikungunya Case Reported in Howrah",
       "bullets": [
-        "At least 500,000 households were left without power for several hours yesterday.",
-        "According to data from the West Bengal Power Department, the power cut was caused by a technical fault at a major substation.",
-        "This means that businesses and households will have to bear the brunt of lost productivity and extra expenses."
+        "The patient is being treated at a local hospital, and officials are on high alert.",
+        "According to the West Bengal Health Department, 15 cases have been reported in the state since January.",
+        "This means that residents in the affected areas must take precautions to prevent the spread of the disease."
       ],
-      "source": "West Bengal Power Department",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Labor",
-      "headline": "Migrant Workers Struggle to Find Jobs in West Bengal",
+      "category": "Infrastructure",
+      "headline": "Railway Bridge Collapses in Hooghly, Disrupting Services",
       "bullets": [
-        "According to a survey by the National Commission for Safai Karamcharis, 70% of migrant workers are unemployed.",
-        "The survey also found that 80% of them have not received their wages for the past two months.",
-        "This means that migrant workers and their families are facing extreme hardship and distress."
+        "The incident occurred during the early hours of the morning, affecting multiple trains.",
+        "According to the South Eastern Railway authorities, services have been temporarily suspended.",
+        "This means that commuters will face significant disruptions and potential delays in their daily travel."
       ],
-      "source": "National Commission for Safai Karamcharis",
+      "source": "South Eastern Railway authorities",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Education",
-      "headline": "West Bengal Schools Face Severe Shortage of Teachers",
+      "headline": "Teachers' Strike Affects 50 Schools in Nadia",
       "bullets": [
-        "According to data from the West Bengal Education Department, 20% of schools in the state have no qualified teachers.",
-        "The shortage is most severe in rural areas, where 30% of schools have no teachers at all.",
-        "This means that students are facing a severe threat to their education and future prospects."
+        "The strike is over demands for better pay and working conditions.",
+        "According to the West Bengal Teachers' Association, 200 teachers are participating in the protest.",
+        "This means that students will face disruptions in their education, potentially affecting their academic performance."
       ],
-      "source": "West Bengal Education Department",
+      "source": "West Bengal Teachers' Association",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
       "category": "Environment",
-      "headline": "River Pollution Worsens in West Bengal",
+      "headline": "UNVERIFIED: Toxic Waste Spill Feared in Sundarbans",
       "bullets": [
-        "According to data from the West Bengal Pollution Control Board, water pollution has increased by 15% in the past year.",
-        "The pollution is most severe in the Ganges River, where 90% of samples tested showed high levels of pollutants.",
-        "This means that the environment and human health are facing a severe threat."
+        "Reports suggest that a factory in the region may have leaked hazardous chemicals into the environment.",
+        "The Sundarbans Tiger Reserve is home to a diverse ecosystem and a vital source of livelihood for local communities.",
+        "This could have devastating effects on the region's delicate ecosystem and the people who depend on it for their livelihood."
       ],
-      "source": "West Bengal Pollution Control Board",
-      "status": "DEVELOPING",
-      "impact_score": 3
+      "source": "Local environmental activists",
+      "status": "UNVERIFIED",
+      "impact_score": 2
     }
   ],
   "faq": [
