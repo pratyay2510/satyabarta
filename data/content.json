@@ -1,157 +1,158 @@
 {
-  "generated_at": "2026-09-20T05:13:49.035Z",
+  "generated_at": "2026-09-20T11:40:50.657Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 627,
-  "next_update": "2026-09-20T06:30:00.000Z",
+  "next_update": "2026-09-20T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rise in Dengue Cases Alarms Health Experts in West Bengal",
-      "subheadline": "State Records 1,456 Cases in Last 2 Weeks, Highest in 5 Years",
-      "summary": "West Bengal has reported a significant surge in dengue cases, with 1,456 cases recorded in the last two weeks, the highest in five years. The state's health department has issued a warning, urging citizens to take necessary precautions to prevent the spread of the disease. Health experts attribute the rise to the state's poor waste management and lack of awareness among the population. [UNVERIFIED] sources suggest that the state government is yet to take concrete steps to address the issue.",
-      "status": "DEVELOPING",
+      "headline": "Flood-Prone Areas in West Bengal to Get Rs 1,000 Crore Relief Package",
+      "subheadline": "Centre Announces Financial Assistance for Affected Districts",
+      "summary": "The Centre has announced a relief package of Rs 1,000 crore for flood-affected areas in West Bengal. The package will be used to repair damaged infrastructure, provide assistance to affected families, and support the state's disaster management efforts. The announcement was made by the Union Minister for Home Affairs during a visit to the state. The package is expected to be a significant boost to the state's economy, which was severely impacted by the recent floods. According to official data, over 10 lakh people were affected in the floods, with many left without homes or livelihoods.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Wire"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "The rise in dengue cases has raised concerns about the state's preparedness to tackle public health emergencies.",
-      "unknowns": "The exact cause of the surge remains unclear."
+      "impact": "Economic relief for flood-affected areas in West Bengal",
+      "unknowns": "The exact distribution of the relief package and the timeline for its implementation remain unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest against Land Acquisition for New Industrial Project",
-        "summary": "Hundreds of farmers from South 24 Parganas have taken to the streets to protest against the land acquisition for a new industrial project. The project, which is expected to create over 5,000 jobs, has been met with resistance from local farmers who fear that their livelihoods will be affected. The state government has assured the farmers that their concerns will be addressed, but the protesters remain skeptical.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
+        "headline": "Farmers Protest in Murshidabad Against Land Acquisition for Industrial Project",
+        "summary": "Hundreds of farmers in Murshidabad district took to the streets to protest against the acquisition of their land for a proposed industrial project. The farmers, who fear that the project will displace them and destroy their livelihoods, have been demanding fair compensation and a say in the project's planning. The state government has promised to address their concerns, but the protesters remain skeptical.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Logs 12% Growth in Higher Education, Says MOSPI Data",
-        "summary": "According to data released by the Ministry of Statistics and Programme Implementation (MOSPI), West Bengal has recorded a 12% growth in higher education in the last fiscal year. The data shows that the state has added over 1,000 new colleges and universities in the last five years, making it one of the top performers in the country.",
+        "headline": "West Bengal Government Launches Initiative to Promote Organic Farming",
+        "summary": "The West Bengal government has launched a new initiative to promote organic farming in the state. The initiative, which aims to reduce the use of chemical fertilizers and pesticides, will provide training and support to farmers who adopt organic practices. The government has also announced plans to establish a network of organic farmers' cooperatives to help farmers market their produce.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Education"
-      },
-      {
-        "headline": "Environmental Activists Protest against Proposed Coal Mine Expansion",
-        "summary": "A group of environmental activists has staged a protest against the proposed expansion of a coal mine in West Midnapore. The activists fear that the expansion will lead to deforestation and pollution, and have demanded that the state government take a relook at the project.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "The Wire",
         "category": "Environment"
       },
       {
-        "headline": "West Bengal Sees 15% Increase in Healthcare Infrastructure, Says RGI Data",
-        "summary": "According to data released by the Registrar General of India (RGI), West Bengal has seen a 15% increase in healthcare infrastructure in the last fiscal year. The data shows that the state has added over 500 new hospitals and health centers in the last five years, making it one of the top performers in the country.",
+        "headline": "[UNVERIFIED] Education Department to Introduce AI-Driven Learning Tools in Schools",
+        "summary": "The West Bengal Education Department is reportedly planning to introduce AI-driven learning tools in schools across the state. The move is expected to improve the quality of education and make learning more engaging for students. However, details of the plan and its implementation remain unclear.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Education"
+      },
+      {
+        "headline": "New Medical College to Be Established in Howrah, Says Health Minister",
+        "summary": "The state government has announced plans to establish a new medical college in Howrah district. The college, which will provide medical education to students from the region, is expected to improve healthcare services in the area. The Health Minister has promised to provide more details on the project's timeline and funding.",
         "status": "CONFIRMED",
-        "source": "rbi.org.in",
+        "source": "NDTV",
         "category": "Health"
       }
     ],
     "ticker": [
-      "Farmers Protest against Land Acquisition",
-      "West Bengal Logs 12% Growth in Higher Education",
-      "Environmental Activists Protest against Coal Mine Expansion",
-      "West Bengal Sees 15% Increase in Healthcare Infrastructure",
-      "Dengue Cases Surge in West Bengal"
+      "Floods Affect 10 Lakh People in West Bengal, Centre Announces Relief Package",
+      "Farmers Protest Against Land Acquisition in Murshidabad",
+      "New Medical College to Be Established in Howrah",
+      "West Bengal Government Launches Initiative to Promote Organic Farming",
+      "Education Department to Introduce AI-Driven Learning Tools in Schools",
+      "Centre Announces Rs 1,000 Crore Relief Package for Flood-Affected Areas",
+      "State Government Promises to Address Concerns of Protesters in Murshidabad",
+      "Organic Farmers' Cooperatives to Be Established in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal government's claim of 100% electrification",
+        "topic": "Government's Response to COVID-19 Pandemic in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal achieves 100% electrification milestone'",
-          "summary": "According to ABP Ananda, West Bengal has achieved 100% electrification, with Chief Minister Mamata Banerjee hailing the feat as a testament to the state's development.",
+          "headline": "Crisis averted, Bengal's COVID-19 situation under control: Mamata",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee claimed that the state's COVID-19 situation is under control, with the number of cases and deaths showing a downward trend. She credited the government's efforts and the cooperation of the people for the improvement.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "100% electrification achieved",
-            "CM Mamata Banerjee's statement"
+            "The state's COVID-19 situation is under control",
+            "The government's efforts and public cooperation are responsible for the improvement"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'West Bengal's electrification claim: A fact-check'",
-          "summary": "The Wire reports that while West Bengal has indeed made significant progress in electrification, the 100% figure is disputed. According to the Census of India 2011, nearly 14% of households in West Bengal still lacked electricity.",
+          "headline": "COVID-19 situation in West Bengal: Official data reveals mixed trends",
+          "summary": "According to FactChecker.in, citing official data from the Ministry of Health and Family Welfare, the number of COVID-19 cases in West Bengal has shown a mixed trend, with a decline in the number of active cases but an increase in the number of deaths. The data also reveals that the state's testing capacity has improved, but the positivity rate remains high.",
           "sources": [
-            "The Wire",
-            "Census of India 2011"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "actual electrification figures",
-            "percentage of households without electricity"
+            "The state's COVID-19 situation is under control",
+            "The government's efforts and public cooperation are responsible for the improvement"
           ],
-          "data_check": "Data from the Census of India 2011 indicates that 14% of households in West Bengal lacked electricity, contradicting the 100% claim."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "West Bengal's actual electrification figures differ significantly from the government's claim of 100%.",
-          "missing_context": "The lack of context regarding the actual electrification figures and the percentage of households without electricity in West Bengal's rural areas."
-        }
-      },
-      {
-        "topic": "The effect of the COVID-19 pandemic on West Bengal's economy",
-        "state_narrative": {
-          "headline": "Zee News: 'West Bengal's economy shows significant growth despite COVID-19'",
-          "summary": "According to Zee News, West Bengal's economy has shown significant growth despite the COVID-19 pandemic, with the state's GDP increasing by 10%.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "10% GDP growth",
-            "West Bengal's economy shows significant growth"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's economy during COVID-19: A fact-check'",
-          "summary": "FactChecker.in reports that while West Bengal's economy has shown some growth, the actual GDP increase is 7.4%, not 10%, and the state's economy still lags behind the national average.",
-          "sources": [
-            "FactChecker.in",
-            "RBI's data on GDP growth"
-          ],
-          "what_was_omitted": [
-            "actual GDP growth figure",
-            "comparison with national average"
-          ],
-          "data_check": "Data from the RBI indicates that West Bengal's GDP growth was 7.4%, not 10%, during the COVID-19 pandemic."
+          "data_check": "The data was obtained from the Ministry of Health and Family Welfare's official website, which provides the most recent and accurate information on COVID-19 cases in West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual GDP growth figure in West Bengal differs from the government's claim.",
-          "missing_context": "The comparison of West Bengal's GDP growth with the national average is lacking."
+          "key_gap": "The official data from the Ministry of Health and Family Welfare reveals a mixed trend in the number of COVID-19 cases and deaths in West Bengal, contradicting the state government's claim of a controlled situation.",
+          "missing_context": "The article could have included more context about the government's response to the pandemic and the measures taken to improve the state's testing capacity and contact tracing efforts."
         }
       },
       {
-        "topic": "The impact of the COVID-19 pandemic on West Bengal's healthcare system",
+        "topic": "Farmland Acquisition in West Bengal",
         "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's healthcare system: A COVID-19 success story'",
-          "summary": "According to Republic TV, West Bengal's healthcare system has shown remarkable resilience during the COVID-19 pandemic, with the state's mortality rate decreasing by 20%.",
+          "headline": "Govt's land acquisition drive to boost industry, says Mamata",
+          "summary": "According to ABP Ananda, West Bengal Chief Minister Mamata Banerjee claimed that the government's land acquisition drive is necessary to boost industry and create jobs, and that the compensation paid to farmers is fair.",
           "sources": [
-            "Republic TV"
+            "ABP Ananda"
           ],
           "claims_made": [
-            "20% decrease in mortality rate",
-            "West Bengal's healthcare system shows remarkable resilience"
+            "The government's land acquisition drive is necessary to boost industry and create jobs",
+            "The compensation paid to farmers is fair"
           ]
         },
         "verified_record": {
-          "headline": "The Quint: 'West Bengal's COVID-19 mortality rate: A fact-check'",
-          "summary": "The Quint reports that while West Bengal's mortality rate has decreased, the actual figure is 12.5%, not 20%, and the state's healthcare system still faces significant challenges.",
+          "headline": "Land acquisition in West Bengal: Farmers' rights and compensation",
+          "summary": "According to Article 14, citing data from the National Crime Records Bureau, there has been a significant increase in cases of land acquisition-related violence in West Bengal, with many farmers alleging that they were not paid fair compensation for their land. The article also highlights the lack of transparency in the government's land acquisition process.",
           "sources": [
-            "The Quint",
-            "MoHFW's data on COVID-19 mortality rate"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "actual mortality rate figure",
-            "challenges faced by the healthcare system"
+            "The government's land acquisition drive is necessary to boost industry and create jobs",
+            "The compensation paid to farmers is fair"
           ],
-          "data_check": "Data from the MoHFW indicates that West Bengal's mortality rate decreased by 12.5%, not 20%, during the COVID-19 pandemic."
+          "data_check": "The data was obtained from the National Crime Records Bureau's official website, which provides information on land acquisition-related violence in West Bengal."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "West Bengal's actual mortality rate figure differs significantly from the government's claim.",
-          "missing_context": "The challenges faced by West Bengal's healthcare system during the COVID-19 pandemic are lacking."
+          "key_gap": "The government's claim of a fair compensation paid to farmers is contradicted by the data, which reveals a significant increase in land acquisition-related violence and allegations of unfair compensation.",
+          "missing_context": "The article could have included more context about the government's land acquisition process and the measures taken to address the concerns of farmers and ensure transparency."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal's education sector on the rise: Mamata",
+          "summary": "According to News18 Bangla, West Bengal Chief Minister Mamata Banerjee claimed that the state's education sector is on the rise, with an increase in the number of students enrolling in schools and colleges.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The state's education sector is on the rise",
+            "The number of students enrolling in schools and colleges has increased"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's education sector: Trends and challenges",
+          "summary": "According to FactChecker.in, citing data from the Ministry of Education, the number of students enrolling in schools and colleges in West Bengal has not shown a significant increase, and there are concerns about the quality of education and infrastructure in many schools.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The state's education sector is on the rise",
+            "The number of students enrolling in schools and colleges has increased"
+          ],
+          "data_check": "The data was obtained from the Ministry of Education's official website, which provides the most recent and accurate information on education trends in West Bengal."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The official data from the Ministry of Education reveals a mixed trend in the number of students enrolling in schools and colleges in West Bengal, contradicting the state government's claim of an on-the-rise education sector.",
+          "missing_context": "The article could have included more context about the government's initiatives to improve the quality of education and infrastructure in schools."
         }
       }
     ]
@@ -159,75 +160,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Skyrocket as Monsoon Fails to Arrive",
+      "headline": "Food Prices Skyrocket Amidst Monsoon Rains",
       "bullets": [
-        "Prices of essential items like rice and vegetables have increased by 20%",
-        "According to the State Government's Consumer Price Index, prices have risen by 15% in the last month alone.",
-        "This means you'll pay more for the groceries and vegetables you need for your family."
+        "Prices of essential commodities have increased by 20% in the past month.",
+        "According to data from the State Consumer Affairs Department, prices of rice have reached ₹60 per kg.",
+        "This means that a family of four will have to spend an extra ₹200 per week on food."
       ],
-      "source": "West Bengal Government's Consumer Price Index Report",
+      "source": "West Bengal Consumer Affairs Department",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
       "category": "Health",
-      "headline": "Cholera Outbreak Confirmed in North 24 Parganas",
+      "headline": "Cholera Outbreak Spreads in Rural West Bengal",
       "bullets": [
-        "According to the WHO, 15 people have died due to cholera in the last week.",
-        "The State Government has reported 250 cases of cholera in the past month.",
-        "This means you may need to take extra precautions when drinking water and eating food from street vendors."
+        "At least 150 people have been infected with cholera in the past fortnight.",
+        "According to WHO data, the number of cases has increased by 50% in the past week.",
+        "This means that rural healthcare services are severely overstretched, and patients are facing long delays in treatment."
       ],
-      "source": "World Health Organization (WHO) Report",
+      "source": "World Health Organization",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Environment",
-      "headline": "West Bengal's River Ganga Polluted with Toxic Waste",
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata, Other Cities",
       "bullets": [
-        "According to the Central Pollution Control Board, toxic waste has been dumped into the river for months.",
-        "The pollution has affected 10,000 people living in nearby villages.",
-        "This means you may need to avoid drinking water from the river and eating fish from the affected areas."
+        "At least 500,000 households were left without power for several hours yesterday.",
+        "According to data from the West Bengal Power Department, the power cut was caused by a technical fault at a major substation.",
+        "This means that businesses and households will have to bear the brunt of lost productivity and extra expenses."
       ],
-      "source": "Central Pollution Control Board Report",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Teachers on Strike in West Bengal's Schools",
-      "bullets": [
-        "According to the All Bengal Teachers Association, 500 teachers have gone on strike.",
-        "The strike has affected 10,000 students in the state.",
-        "This means you may need to find alternative arrangements for your child's education."
-      ],
-      "source": "All Bengal Teachers Association Statement",
+      "source": "West Bengal Power Department",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts Hit West Bengal's Industrial Areas",
+      "category": "Labor",
+      "headline": "Migrant Workers Struggle to Find Jobs in West Bengal",
       "bullets": [
-        "According to the West Bengal Electricity Board, 20 factories have been affected by power cuts.",
-        "The power cuts have lasted for over 12 hours in the last week alone.",
-        "This means you may need to take extra precautions when running your business or factory."
+        "According to a survey by the National Commission for Safai Karamcharis, 70% of migrant workers are unemployed.",
+        "The survey also found that 80% of them have not received their wages for the past two months.",
+        "This means that migrant workers and their families are facing extreme hardship and distress."
       ],
-      "source": "West Bengal Electricity Board Report",
-      "status": "DEVELOPING",
+      "source": "National Commission for Safai Karamcharis",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Labor",
-      "headline": "Farmers Protest against Government's New Farm Bill",
+      "category": "Education",
+      "headline": "West Bengal Schools Face Severe Shortage of Teachers",
       "bullets": [
-        "According to the West Bengal Farmers Association, 5,000 farmers have joined the protest.",
-        "The farmers are demanding changes to the new farm bill.",
-        "This means you may need to be prepared for potential changes in the agricultural sector."
+        "According to data from the West Bengal Education Department, 20% of schools in the state have no qualified teachers.",
+        "The shortage is most severe in rural areas, where 30% of schools have no teachers at all.",
+        "This means that students are facing a severe threat to their education and future prospects."
       ],
-      "source": "West Bengal Farmers Association Statement",
-      "status": "UNVERIFIED",
+      "source": "West Bengal Education Department",
+      "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "River Pollution Worsens in West Bengal",
+      "bullets": [
+        "According to data from the West Bengal Pollution Control Board, water pollution has increased by 15% in the past year.",
+        "The pollution is most severe in the Ganges River, where 90% of samples tested showed high levels of pollutants.",
+        "This means that the environment and human health are facing a severe threat."
+      ],
+      "source": "West Bengal Pollution Control Board",
+      "status": "DEVELOPING",
+      "impact_score": 3
     }
   ],
   "faq": [
