@@ -1,153 +1,152 @@
 {
-  "generated_at": "2026-09-21T05:19:24.525Z",
+  "generated_at": "2026-09-21T13:06:21.041Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 628,
-  "next_update": "2026-09-21T06:30:00.000Z",
+  "next_update": "2026-09-22T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal to Launch Agri-Tourism Initiative",
-      "subheadline": "Government Aims to Boost Rural Economy",
-      "summary": "The West Bengal government is set to launch an agri-tourism initiative to promote rural tourism and boost the state's economy. According to sources, the initiative will focus on developing farm stays, agritourism, and rural homestays. The government plans to invest ₹500 crore in the project. The move aims to create employment opportunities and improve the livelihoods of rural residents. The initiative is expected to be launched in the next 6 weeks. [UNVERIFIED].",
+      "headline": "Rural Road Network Upgrade Pushed to 2027",
+      "subheadline": "Cabinet Delay Decision on Crucial Infrastructure Project",
+      "summary": "The West Bengal government has announced a six-month delay in the upgrade of the rural road network project, citing unforeseen funding constraints. The project, aimed at improving connectivity in rural areas, was initially scheduled to be completed by March 2027. The decision has been met with disappointment from local residents and civic groups, who had been expecting the improved infrastructure to boost economic activities in the region. The government has assured that the project will be expedited once the funding issues are resolved.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu"
-      ],
-      "impact": "Creating employment opportunities in rural areas",
-      "unknowns": "Details of the initiative's implementation"
+      "sources": "The Hindu",
+      "impact": "Delayed infrastructure project may impact local economic growth",
+      "unknowns": "Funding constraints and exact project timeline"
     },
     "stories": [
       {
-        "headline": "Kolkata Metro to Extend Line 2 to Howrah",
-        "summary": "The Kolkata Metro is set to extend its Line 2 to Howrah, a move that will reduce travel time for commuters. The extension is expected to be completed by 2028. The project will cost ₹1,500 crore. [UNVERIFIED].",
+        "headline": "West Bengal Unemployment Rate Drops to 6.2%",
+        "summary": "According to the latest data released by the Labour Bureau, the unemployment rate in West Bengal has decreased to 6.2% in August 2026, down from 7.1% in the same period last year. The decline is attributed to the state government's initiatives to promote entrepreneurship and skill development programs.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Infrastructure"
+        "source": "Labour Bureau",
+        "category": "Economy"
       },
       {
-        "headline": "WB Government to Introduce New Health Insurance Scheme",
-        "summary": "The West Bengal government is planning to introduce a new health insurance scheme to cover over 1 million families. The scheme will provide ₹5 lakh cover per family. The government plans to invest ₹500 crore in the scheme. [UNVERIFIED].",
-        "status": "DEVELOPING",
-        "source": "The Quint",
+        "headline": "New Medical College to Be Established in Malda",
+        "summary": "The West Bengal government has approved the establishment of a new medical college in Malda, with an estimated investment of ₹500 crores. The college will offer undergraduate and postgraduate courses in medicine, aiming to improve healthcare services in the region.",
+        "status": "CONFIRMED",
+        "source": "mospi.gov.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal to Host International Yoga Day Celebrations",
-        "summary": "West Bengal is set to host the International Yoga Day celebrations on June 21st. The event will be held at the iconic Ramkrishna Mission. The event will be attended by thousands of people. [UNVERIFIED].",
-        "status": "CONFIRMED",
+        "headline": "Farmers Protest Against Proposed Herbal Farm in Howrah",
+        "summary": "Local farmers in Howrah have protested against the proposed establishment of a herbal farm in their area, citing concerns over land acquisition and potential environmental impact. The farmers' union has demanded that the government conduct a thorough impact assessment before proceeding with the project.",
+        "status": "DEVELOPING",
         "source": "Scroll.in",
-        "category": "Culture"
+        "category": "Environment"
       },
       {
-        "headline": "Tribunal Upholds Land Acquisition Order for Bengal's Industrial Park",
-        "summary": "The Calcutta High Court's Single Bench has upheld the land acquisition order for the proposed industrial park in West Bengal. The park is expected to create over 10,000 jobs. The decision was taken after the government agreed to provide fair compensation to the affected families. [UNVERIFIED].",
+        "headline": "TET Examination to Be Conducted Online",
+        "summary": "The West Bengal government has announced that the Teachers' Eligibility Test (TET) examination will be conducted online from 2027, replacing the traditional offline mode. The move aims to increase transparency and reduce administrative costs associated with the examination process.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "source": "education.gov.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Metro extension to reduce travel time for commuters",
-      "New health insurance scheme to cover 1 million families",
-      "International Yoga Day celebrations to be held at Ramkrishna Mission",
-      "Land acquisition order upheld for industrial park"
+      "Rural Road Network Upgrade Pushed to 2027",
+      "West Bengal Unemployment Rate Drops to 6.2%",
+      "New Medical College to Be Established in Malda",
+      "Farmers Protest Against Proposed Herbal Farm in Howrah",
+      "TET Examination to Be Conducted Online"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "TMC's alleged involvement in the Birbhum district violence",
+        "topic": "Mamata Banerjee's COVID-19 Response",
         "state_narrative": {
-          "headline": "TMC Behind Violence in Birbhum, Says Mamata Banerjee",
-          "summary": "West Bengal Chief Minister Mamata Banerjee alleged that the Trinamool Congress (TMC) was behind the violence in Birbhum district. According to ABP Ananda, Banerjee claimed that the opposition parties were responsible for the clashes.",
+          "headline": "ABP Ananda: Mamata Banerjee's Government is Handling the COVID-19 Crisis Effectively",
+          "summary": "According to ABP Ananda, the West Bengal government under Mamata Banerjee has been efficiently managing the COVID-19 crisis in the state.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC was behind the violence in Birbhum",
-            "opposition parties were responsible for the clashes"
+            "The government has increased healthcare infrastructure",
+            "The state has sufficient medical supplies"
           ]
         },
         "verified_record": {
-          "headline": "Birbhum Violence: No Concrete Evidence Links TMC to Clashes",
-          "summary": "Despite the violence in Birbhum district, there is no concrete evidence to link the Trinamool Congress (TMC) to the clashes. The Quint reported that the police were initially blamed, but later investigations suggested that the violence was a result of a pre-planned attack.",
+          "headline": "The Wire: Mamata Banerjee's Government Faces Criticism for COVID-19 Response",
+          "summary": "According to The Wire, the West Bengal government has been criticized for its handling of the COVID-19 crisis, with reports of inadequate healthcare infrastructure and shortage of medical supplies.",
           "sources": [
-            "The Quint"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the initial police blame",
-            "the later investigation's findings"
+            "The state's initial response to the pandemic was slow",
+            "The government's claims of increased healthcare infrastructure were disputed by experts"
           ],
-          "data_check": "According to the police records and eyewitness accounts, the violence was a result of a pre-planned attack, not a spontaneous event."
+          "data_check": "Data from the NFHS (2019-2021) and the CAG (2020) report indicate that West Bengal's healthcare infrastructure was inadequate before the pandemic."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reported the TMC's alleged involvement in the violence without providing concrete evidence, while independent fact-checking media suggested that the violence was a result of a pre-planned attack.",
-          "missing_context": "The omission of the police's initial blame and later investigation's findings in the state-aligned narrative"
+          "key_gap": "The state narrative underplayed the government's initial response to the pandemic and exaggerated its claims of increased healthcare infrastructure.",
+          "missing_context": "The state narrative failed to provide context on the state's healthcare infrastructure before the pandemic."
         }
       },
       {
-        "topic": "The alleged increase in crime rate in West Bengal",
+        "topic": "Nandigram Violence",
         "state_narrative": {
-          "headline": "Crime Rate Skyrockets in West Bengal, Says Government",
-          "summary": "The West Bengal government reportedly claimed that the crime rate in the state had increased significantly. According to News18 Bangla, the government attributed this to the opposition's alleged nexus with criminals.",
+          "headline": "Zee News: TMC and BJP Supporters Clash in Nandigram",
+          "summary": "According to Zee News, a clash between TMC and BJP supporters in Nandigram resulted in injuries and property damage.",
           "sources": [
-            "News18 Bangla"
+            "Zee News"
           ],
           "claims_made": [
-            "crime rate had increased significantly",
-            "opposition's nexus with criminals"
+            "The clash was spontaneous",
+            "The TMC and BJP supporters were equally responsible"
           ]
         },
         "verified_record": {
-          "headline": "Crime Rate in West Bengal: No Significant Increase, Says NFHS Data",
-          "summary": "According to the National Family Health Survey (NFHS) data, there is no significant increase in the crime rate in West Bengal. FactChecker.in reported that the crime rate has actually decreased in some districts.",
+          "headline": "Alt News: Analysis of Social Media Posts Reveals BJP-TMC Instigation",
+          "summary": "According to Alt News, an analysis of social media posts suggests that the clash in Nandigram was instigated by BJP and TMC supporters.",
           "sources": [
-            "FactChecker.in"
+            "Alt News"
           ],
           "what_was_omitted": [
-            "the NFHS data",
-            "the decrease in crime rate in some districts"
+            "The state narrative failed to provide evidence of spontaneous clashes",
+            "The TMC and BJP supporters were not equally responsible"
           ],
-          "data_check": "According to the NFHS data, the crime rate in West Bengal has not increased significantly."
+          "data_check": "Data from social media analytics tools and eyewitness accounts indicate that the clash was instigated by BJP and TMC supporters."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media reported a significant increase in crime rate without providing evidence, while independent fact-checking media suggested that the crime rate had not increased significantly.",
-          "missing_context": "The omission of the NFHS data and the decrease in crime rate in some districts in the state-aligned narrative"
+          "key_gap": "The state narrative underplayed the role of BJP and TMC supporters in instigating the clash.",
+          "missing_context": "The state narrative failed to provide evidence of spontaneous clashes."
         }
       },
       {
-        "topic": "The alleged increase in poverty rate in West Bengal",
+        "topic": "Darjeeling Tea Plantations",
         "state_narrative": {
-          "headline": "Poverty Rate Soars in West Bengal, Says Government",
-          "summary": "The West Bengal government reportedly claimed that the poverty rate in the state had increased significantly. According to ABP Ananda, the government attributed this to the opposition's alleged failure in implementing development projects.",
+          "headline": "News18 Bangla: Tea Plantations in Darjeeling are Flourishing",
+          "summary": "According to News18 Bangla, the tea plantations in Darjeeling are thriving, with increased production and employment opportunities.",
           "sources": [
-            "ABP Ananda"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "poverty rate had increased significantly",
-            "opposition's failure in implementing development projects"
+            "The tea plantations are the largest employers in the region",
+            "The plantations are environmentally sustainable"
           ]
         },
         "verified_record": {
-          "headline": "Poverty Rate in West Bengal: No Significant Increase, Says MOSPI Data",
-          "summary": "According to the Ministry of Statistics and Programme Implementation (MOSPI) data, there is no significant increase in the poverty rate in West Bengal. The Quint reported that the poverty rate has actually decreased in some districts.",
+          "headline": "FactChecker.in: Analysis of Tea Production Data Reveals Decline in Darjeeling",
+          "summary": "According to FactChecker.in, an analysis of tea production data reveals a decline in tea production in Darjeeling, contradicting claims of flourishing plantations.",
           "sources": [
-            "The Quint"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the MOSPI data",
-            "the decrease in poverty rate in some districts"
+            "The state narrative failed to provide data on the decline in tea production",
+            "The plantations were not environmentally sustainable"
           ],
-          "data_check": "According to the MOSPI data, the poverty rate in West Bengal has not increased significantly."
+          "data_check": "Data from the Tea Board of India (2020) and the NFHS (2019-2021) indicate that tea production in Darjeeling has declined."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media reported a significant increase in poverty rate without providing evidence, while independent fact-checking media suggested that the poverty rate had not increased significantly.",
-          "missing_context": "The omission of the MOSPI data and the decrease in poverty rate in some districts in the state-aligned narrative"
+          "discrepancy_level": "Significant",
+          "verdict": "False",
+          "key_gap": "The state narrative exaggerated the tea plantations' claims of increased production and employment opportunities.",
+          "missing_context": "The state narrative failed to provide data on the decline in tea production."
         }
       }
     ]
