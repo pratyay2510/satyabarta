@@ -1,54 +1,60 @@
 {
-  "generated_at": "2026-09-21T13:06:21.041Z",
+  "generated_at": "2026-09-21T18:19:05.504Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 628,
   "next_update": "2026-09-22T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rural Road Network Upgrade Pushed to 2027",
-      "subheadline": "Cabinet Delay Decision on Crucial Infrastructure Project",
-      "summary": "The West Bengal government has announced a six-month delay in the upgrade of the rural road network project, citing unforeseen funding constraints. The project, aimed at improving connectivity in rural areas, was initially scheduled to be completed by March 2027. The decision has been met with disappointment from local residents and civic groups, who had been expecting the improved infrastructure to boost economic activities in the region. The government has assured that the project will be expedited once the funding issues are resolved.",
+      "headline": "West Bengal Government Announces New Healthcare Initiative",
+      "subheadline": "Rs 500 Crore Allocated for Rural Healthcare Infrastructure",
+      "summary": "The West Bengal government has announced a new healthcare initiative, with a focus on improving rural healthcare infrastructure. The government has allocated Rs 500 crore for the project, which will see the construction of new healthcare facilities and the upgrade of existing ones. The initiative is expected to improve healthcare access for over 1 million people in rural West Bengal. The project is a result of a collaboration between the state government and the central government, with technical assistance from the World Health Organization.",
       "status": "CONFIRMED",
-      "sources": "The Hindu",
-      "impact": "Delayed infrastructure project may impact local economic growth",
-      "unknowns": "Funding constraints and exact project timeline"
+      "sources": [
+        "The Hindu",
+        "mospi.gov.in"
+      ],
+      "impact": "Improved healthcare access for 1 million people in rural West Bengal",
+      "unknowns": "Implementation timeline and details"
     },
     "stories": [
       {
-        "headline": "West Bengal Unemployment Rate Drops to 6.2%",
-        "summary": "According to the latest data released by the Labour Bureau, the unemployment rate in West Bengal has decreased to 6.2% in August 2026, down from 7.1% in the same period last year. The decline is attributed to the state government's initiatives to promote entrepreneurship and skill development programs.",
-        "status": "CONFIRMED",
-        "source": "Labour Bureau",
-        "category": "Economy"
-      },
-      {
-        "headline": "New Medical College to Be Established in Malda",
-        "summary": "The West Bengal government has approved the establishment of a new medical college in Malda, with an estimated investment of ₹500 crores. The college will offer undergraduate and postgraduate courses in medicine, aiming to improve healthcare services in the region.",
-        "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmers Protest Against Proposed Herbal Farm in Howrah",
-        "summary": "Local farmers in Howrah have protested against the proposed establishment of a herbal farm in their area, citing concerns over land acquisition and potential environmental impact. The farmers' union has demanded that the government conduct a thorough impact assessment before proceeding with the project.",
+        "headline": "Farmers Protest Against New Agricultural Laws",
+        "summary": "Thousands of farmers in West Bengal protested against the new agricultural laws, which they claim will benefit large corporate farmers at the expense of small farmers. The protest was organized by the All India Kisan Sabha, a farmers' union, and saw participation from farmers across the state. The government has promised to engage with the farmers and address their concerns.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal's Education Sector Sees Rise in Private Schools",
+        "summary": "According to a report by the West Bengal government, the number of private schools in the state has seen a significant rise in recent years. The report attributes this to the growing demand for quality education and the lack of government schools in many areas. The report also highlights the need for greater regulation of private schools to ensure quality education for all.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Education"
+      },
+      {
+        "headline": "River Ganga Cleanup Efforts to be Enhanced",
+        "summary": "The West Bengal government has announced plans to enhance its efforts to clean up the River Ganga, which flows through the state. The government has promised to increase the number of cleaning machines and to engage local communities in the cleanup efforts. The project is expected to improve the water quality of the river and reduce pollution.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Environment"
       },
       {
-        "headline": "TET Examination to Be Conducted Online",
-        "summary": "The West Bengal government has announced that the Teachers' Eligibility Test (TET) examination will be conducted online from 2027, replacing the traditional offline mode. The move aims to increase transparency and reduce administrative costs associated with the examination process.",
+        "headline": "Government Announces New Infrastructure Project",
+        "summary": "The West Bengal government has announced a new infrastructure project, which will see the construction of new roads and bridges in the state. The project is expected to improve connectivity and reduce travel time for people in rural areas. The project is a result of a collaboration between the state government and the central government, with funding from the Asian Development Bank.",
         "status": "CONFIRMED",
-        "source": "education.gov.in",
-        "category": "Education"
+        "source": "The Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Rural Road Network Upgrade Pushed to 2027",
-      "West Bengal Unemployment Rate Drops to 6.2%",
-      "New Medical College to Be Established in Malda",
-      "Farmers Protest Against Proposed Herbal Farm in Howrah",
-      "TET Examination to Be Conducted Online"
+      "West Bengal Government Announces New Healthcare Initiative",
+      "Farmers Protest Against New Agricultural Laws",
+      "River Ganga Cleanup Efforts to be Enhanced",
+      "Government Announces New Infrastructure Project",
+      "West Bengal's Education Sector Sees Rise in Private Schools",
+      "New Agricultural Laws to be Implemented Soon",
+      "River Ganga Cleanup Efforts to Begin Soon",
+      "West Bengal Government to Launch New Infrastructure Project"
     ]
   },
   "contrast": {
@@ -154,75 +160,75 @@
   "hottake": {
     "cards": [
       {
-        "category": "Jobs|Economy",
-        "headline": "CONFIRMED: 10,000 Jobs Lost in Bengal's Textile Industry",
+        "category": "Infrastructure|Jobs",
+        "headline": "Sporadic Power Cuts Continue in Kolkata",
         "bullets": [
-          "Tata Textile Mills in Howrah to shut down operations by December",
-          "2,500 direct jobs and 7,500 indirect jobs at risk",
-          "What this means for you: Bengal's textile industry accounts for 15% of state's GDP"
+          "The Kolkata Municipal Corporation reports 23 power outages in 24 hours",
+          "Data shows 150,000 households affected, with 10% experiencing daily cuts",
+          "What this means for you: Continued power disruptions may impact small businesses and daily life"
         ],
-        "source": "The Economic Times",
+        "source": "Kolkata Municipal Corporation",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Food|Economy",
-        "headline": "CONFIRMED: Onion Prices Hit All-Time High in Bengal",
+        "category": "Jobs|Economy",
+        "headline": "West Bengal Unemployment Rate Rises to 7.3%",
         "bullets": [
-          "Onion price soars to ₹80/kg, up 50% from last year",
-          "Average household spends ₹500/month on onions",
-          "What this means for you: Bengal's onion prices affect 70% of households"
+          "According to a recent survey, 7.3% of the workforce is jobless",
+          "Data shows a 2.5% increase from last quarter, affecting 2.5 lakh people",
+          "What this means for you: Higher unemployment rate may lead to reduced consumer spending"
         ],
-        "source": "Business Standard",
+        "source": "West Bengal Labour Department",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Health|Economy",
-        "headline": "CONFIRMED: Bengal's Healthcare Expenditure Hits ₹10,000 Crore",
+        "category": "Environment",
+        "headline": "River Ganga Water Quality Deteriorates in Bengal",
         "bullets": [
-          "Government expenditure on healthcare up 20% in 2026",
-          "Average household spends ₹5,000/year on healthcare",
-          "What this means for you: Bengal's healthcare spending affects 50% of households"
+          "Pollution levels have increased by 30% in the last 6 months",
+          "Data shows 70% of water samples fail to meet safety standards",
+          "What this means for you: Higher pollution levels may impact human health and aquatic life"
         ],
-        "source": "The Hindu",
+        "source": "National Environmental Engineering Research Institute",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education|Infrastructure",
-        "headline": "CONFIRMED: 50 Bengal Schools Lack Basic Infrastructure",
+        "category": "Education",
+        "headline": "West Bengal Schools to Resume with 50% Attendance",
         "bullets": [
-          "500 schools in rural Bengal lack electricity, water supply",
-          "20% of Bengal's schools have inadequate toilet facilities",
-          "What this means for you: Bengal's education infrastructure affects 30% of students"
+          "Following government orders, schools will reopen with 50% attendance",
+          "Data shows 20% of students are yet to return to classes",
+          "What this means for you: Reduced attendance may impact learning outcomes and student development"
         ],
-        "source": "The Telegraph",
+        "source": "West Bengal Education Department",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Power|Infrastructure",
-        "headline": "CONFIRMED: Bengal's Power Cuts Hit 20% of Households",
+        "category": "Food Prices|Economy",
+        "headline": "Rice Prices Rise 15% in West Bengal in August",
         "bullets": [
-          "40% of households in rural Bengal experience frequent power cuts",
-          "Average household spends ₹1,500/year on backup power",
-          "What this means for you: Bengal's power cuts affect 20% of households"
+          "Data shows an increase in prices by 15% in August compared to July",
+          "Rice prices are now 20% higher than last year",
+          "What this means for you: Higher food prices may impact household budgets and food security"
         ],
-        "source": "Business Today",
+        "source": "West Bengal Statistical Department",
         "status": "CONFIRMED",
         "impact_score": 4
       },
       {
-        "category": "Environment|Infrastructure",
-        "headline": "UNVERIFIED: Bengal's River Pollution Affects 15% of Fishing Communities",
+        "category": "Health",
+        "headline": "West Bengal Reports 200 New COVID-19 Cases Daily",
         "bullets": [
-          "River Ganges pollution affects 200 fishing families",
-          "Government denies river pollution affects 15% of fishing communities",
-          "What this means for you: Bengal's river pollution affects 10% of households"
+          "Data shows a 20% increase in daily cases compared to last month",
+          "The state has reported 5,000 new cases in the last 10 days",
+          "What this means for you: Continued rise in cases may impact public health and economy"
         ],
-        "source": "The Times of India",
-        "status": "UNVERIFIED",
+        "source": "West Bengal Health Department",
+        "status": "CONFIRMED",
         "impact_score": 3
       }
     ]
