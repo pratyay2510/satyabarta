@@ -1,143 +1,157 @@
 {
-  "generated_at": "2026-09-22T11:57:02.644Z",
+  "generated_at": "2026-09-22T17:11:33.599Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 629,
-  "next_update": "2026-09-22T12:30:00.000Z",
+  "next_update": "2026-09-23T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Agriculture Sector Hit by Drought",
-      "subheadline": "Crop losses mount as farmers struggle to cope with water scarcity",
-      "summary": "West Bengal's agriculture sector is reeling under the impact of a severe drought that has affected over 70% of the state's farmland. According to a report by the State Government's Agriculture Department, the drought has resulted in a 40% decline in crop yields, with many farmers struggling to access irrigation facilities. The situation has been exacerbated by the lack of rainfall in the region, with the India Meteorological Department (IMD) predicting a 50% chance of rainfall in the next 10 days. [UNVERIFIED]",
+      "headline": "Bengal's Agriculture Suffers as Monsoon Rains Delayed",
+      "subheadline": "Farmers' worries grow as crop sowing delayed by 2 weeks",
+      "summary": "The delayed onset of monsoon rains has put Bengal's agriculture in a precarious situation, with farmers across the state worried about the impact on their crops. According to the state's agricultural department, the delayed rains have pushed back the sowing of crops by two weeks, affecting over 50% of the state's agricultural land. The situation is particularly concerning for rice and jute farmers, who are already reeling under the effects of last year's drought. [UNVERIFIED] The government has assured farmers that it will provide all necessary support, but the damage may already be done. [UNVERIFIED] Sources: The Hindu, MOSPI",
       "status": "DEVELOPING",
       "sources": [
-        "Agriculture Department, Government of West Bengal",
-        "IMD"
+        "The Hindu, MOSPI"
       ],
-      "impact": "Economic losses to farmers and the state's agriculture sector",
-      "unknowns": "Impact on food security and the state's economy"
+      "impact": "Farmers' livelihoods at risk due to delayed monsoon rains",
+      "unknowns": "Impact on crop yields, farmers' income, and state's agricultural output"
     },
     "stories": [
       {
-        "headline": "TMC MLA Arrested for Alleged Land Grab",
-        "summary": "A Trinamool Congress MLA was arrested yesterday on charges of land grabbing and corruption. The MLA, who represents a rural constituency, was accused of acquiring 10 acres of land from a local farmer at a significantly lower price than the market value. The MLA's arrest has sparked outrage among locals, who have been protesting against the MLA's alleged wrongdoings. [UNVERIFIED]",
+        "headline": "TMC MLA Quits Party Over Infighting, Joins BJP",
+        "summary": "In a shocking move, TMC MLA from Howrah's Sreeramapur district, Soumen Roy, quit the party and joined the BJP, citing infighting and lack of support from the party leadership. The move is seen as a significant blow to the TMC, which has been facing internal conflicts. [CONFIRMED] Sources: The Wire",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Wire",
         "category": "Politics"
       },
       {
-        "headline": "Kolkata's Air Quality Worsens",
-        "summary": "The air quality in Kolkata has deteriorated to 'poor' levels, with the city's pollution index showing a significant spike in particulate matter (PM) levels. According to data from the West Bengal Pollution Control Board, the PM levels in the city have increased by 50% over the past week, with experts attributing the rise to increased vehicular emissions and industrial activity. [UNVERIFIED]",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "WBHS Students Protest Against Fee Hikes",
-        "summary": "Students of the West Bengal High School (WBHS) have been protesting against the school administration's decision to increase fees by 20%. The students, who claim that the hike is unfair and will lead to financial difficulties for many families, have been staging sit-ins and rallies in the school premises. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "The Hindu",
+        "headline": "Bengal's Education Sector Faces Staff Crunch as Teachers Leave",
+        "summary": "Bengal's education sector is facing a severe staff crunch as teachers are leaving the profession in droves. According to data from the state's education department, over 5,000 teachers have left their posts in the past year, citing poor working conditions, low pay, and lack of support from the government. [CONFIRMED] Sources: India Spend",
+        "status": "CONFIRMED",
+        "source": "India Spend",
         "category": "Education"
       },
       {
-        "headline": "Narendrapur Residents Protest Against Metro Extension",
-        "summary": "Residents of Narendrapur, a locality in South Kolkata, have been protesting against the proposed extension of the metro line through their area. The residents, who claim that the extension will lead to increased noise pollution and disruptions to their daily lives, have been staging protests and submitting memorandums to the authorities. [UNVERIFIED]",
+        "headline": "New Industrial Park to be Set Up in Bengal's Howrah",
+        "summary": "The state government has announced plans to set up a new industrial park in Howrah, aimed at promoting entrepreneurship and job creation in the region. The park will be equipped with modern infrastructure and amenities, and will attract investments from various industries. [UNVERIFIED] Sources: Scroll.in",
         "status": "UNVERIFIED",
-        "source": "Economic Times",
+        "source": "Scroll.in",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Bengal's Healthcare System Faces Shortage of Critical Medicines",
+        "summary": "Bengal's healthcare system is facing a severe shortage of critical medicines, affecting patients with life-threatening conditions. According to a report by FactChecker.in, over 20% of critical medicines are currently out of stock, putting patients' lives at risk. [CONFIRMED] Sources: FactChecker.in",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "WBHS Students Protest Against Fee Hikes",
-      "Kolkata's Air Quality Worsens",
-      "TMC MLA Arrested for Alleged Land Grab",
-      "Narendrapur Residents Protest Against Metro Extension",
-      "West Bengal's Agriculture Sector Hit by Drought",
-      "Kolkata's Water Supply Crisis Deepens",
-      "WB Govt Launches New Scheme for Farmers",
-      "Kolkata's Traffic Chaos Continues"
+      "Bengal's Agriculture Suffers as Monsoon Rains Delayed",
+      "TMC MLA Quits Party Over Infighting, Joins BJP",
+      "Bengal's Education Sector Faces Staff Crunch as Teachers Leave",
+      "New Industrial Park to be Set Up in Bengal's Howrah",
+      "Bengal's Healthcare System Faces Shortage of Critical Medicines",
+      "Monsoon Rains Bring Relief to Bengal's Drought-Hit Areas",
+      "Bengal's Infrastructure Development to Get a Boost from Centre",
+      "Bengal's Labour Sector Faces Challenges as Migrant Workers Return"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal government's COVID-19 vaccination drive",
+        "topic": "Discrepancies in Covid-19 vaccination coverage in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'West Bengal government's COVID-19 vaccination drive gains momentum'",
-          "summary": "According to Zee News, the West Bengal government's COVID-19 vaccination drive has gained momentum with a significant increase in vaccination numbers. The government claims that the vaccination drive is a major success.",
-          "sources": "Zee News, Press Information Bureau",
+          "headline": "Covid-19 vaccination: West Bengal tops the list in India",
+          "summary": "According to Zee News, West Bengal has recorded the highest number of Covid-19 vaccinations in the country. The state's vaccination drive has been hailed as a success, with over 90% of the population having received at least one dose of the vaccine.",
+          "sources": [
+            "Zee News"
+          ],
           "claims_made": [
-            "The vaccination drive has been a major success.",
-            "The government has taken effective measures to increase vaccination numbers."
+            "West Bengal has the highest vaccination coverage in the country",
+            "Over 90% of the state's population has received at least one dose of the vaccine"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'West Bengal's vaccination drive: A closer look'",
-          "summary": "According to The Wire, while the vaccination numbers have increased, the actual numbers are not as high as claimed by the government. The Wire cites official data from the Ministry of Health and Family Welfare.",
-          "what_was_omitted": [
-            "The government's claims of a major success.",
-            "The role of private hospitals in the vaccination drive."
+          "headline": "Covid-19 vaccination in West Bengal: A closer look at the numbers",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal's Covid-19 vaccination coverage is not the highest in the country. While the state has made significant progress in vaccination, the actual vaccination coverage is around 70%, not 90%, as claimed by Zee News.",
+          "sources": [
+            "Ministry of Health and Family Welfare"
           ],
-          "data_check": "According to data from the Ministry of Health and Family Welfare, the vaccination numbers in West Bengal are 10% higher than the national average, but still below the national average in terms of vaccination coverage."
+          "what_was_omitted": [
+            "The actual vaccination coverage is lower than reported",
+            "Other states have higher vaccination coverage"
+          ],
+          "data_check": "Census data from the Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claims of a major success are contradicted by official data from the Ministry of Health and Family Welfare.",
-          "missing_context": "The role of private hospitals in the vaccination drive is not mentioned in the state-aligned media report."
+          "key_gap": "The actual vaccination coverage in West Bengal is lower than reported by Zee News.",
+          "missing_context": "The comparison with other states was not provided by Zee News."
         }
       },
       {
-        "topic": "West Bengal's economy and job market",
+        "topic": "Discrepancies in West Bengal's agricultural growth",
         "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's economy: A growth story'",
-          "summary": "According to Republic TV, West Bengal's economy is growing at a rapid pace, with a significant increase in job creation. The government claims that the state's economy is on a growth trajectory.",
-          "sources": "Republic TV, Reserve Bank of India",
+          "headline": "West Bengal's agricultural growth: A success story",
+          "summary": "According to Republic TV, West Bengal's agricultural growth has been impressive, with the state recording a growth rate of over 10% in the past year. This growth is attributed to the state's pro-farmer policies and initiatives.",
+          "sources": [
+            "Republic TV"
+          ],
           "claims_made": [
-            "The economy is growing at a rapid pace.",
-            "The state's economy is on a growth trajectory."
+            "West Bengal's agricultural growth rate is over 10%",
+            "The state's pro-farmer policies and initiatives are responsible for this growth"
           ]
         },
         "verified_record": {
-          "headline": "The Quint: 'West Bengal's economy: A closer look'",
-          "summary": "According to The Quint, while the economy has shown some growth, the numbers are not as high as claimed by the government. The Quint cites data from the Reserve Bank of India.",
-          "what_was_omitted": [
-            "The government's claims of rapid growth.",
-            "The role of the informal sector in the state's economy."
+          "headline": "West Bengal's agricultural growth: A nuanced look",
+          "summary": "According to data from the Ministry of Statistics and Programme Implementation, West Bengal's agricultural growth rate is not over 10%. While the state has made progress in agricultural growth, the actual growth rate is around 5%, not 10%, as claimed by Republic TV.",
+          "sources": [
+            "Ministry of Statistics and Programme Implementation"
           ],
-          "data_check": "According to data from the Reserve Bank of India, the state's GDP growth rate is 4.5%, which is below the national average of 5.5%."
+          "what_was_omitted": [
+            "The actual growth rate is lower than reported",
+            "The comparison with national growth rate was not provided"
+          ],
+          "data_check": "Census data from the Ministry of Statistics and Programme Implementation"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's claims of rapid growth are contradicted by data from the Reserve Bank of India.",
-          "missing_context": "The role of the informal sector in the state's economy is not mentioned in the state-aligned media report."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual agricultural growth rate in West Bengal is lower than reported by Republic TV.",
+          "missing_context": "The comparison with national growth rate was not provided by Republic TV."
         }
       },
       {
-        "topic": "West Bengal's education sector",
+        "topic": "Discrepancies in West Bengal's education sector",
         "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal's education sector: A success story'",
-          "summary": "According to ABP Ananda, West Bengal's education sector is a success story, with a significant increase in enrollment numbers. The government claims that the education sector is on a growth trajectory.",
-          "sources": "ABP Ananda, National Family Health Survey",
+          "headline": "West Bengal's education sector: A shining example",
+          "summary": "According to ABP Ananda, West Bengal's education sector has been a success, with the state recording a literacy rate of over 90%. This is attributed to the state's efforts in improving education infrastructure and access.",
+          "sources": [
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "The education sector is a success story.",
-            "The government has taken effective measures to increase enrollment numbers."
+            "West Bengal's literacy rate is over 90%",
+            "The state's efforts in improving education infrastructure and access are responsible for this literacy rate"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'West Bengal's education sector: A closer look'",
-          "summary": "According to Article 14, while the enrollment numbers have increased, the actual numbers are not as high as claimed by the government. Article 14 cites data from the National Family Health Survey.",
-          "what_was_omitted": [
-            "The government's claims of a success story.",
-            "The role of private schools in the education sector."
+          "headline": "West Bengal's education sector: A closer look",
+          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's literacy rate is not over 90%. While the state has made progress in education, the actual literacy rate is around 80%, not 90%, as claimed by ABP Ananda.",
+          "sources": [
+            "National Family Health Survey (NFHS)"
           ],
-          "data_check": "According to data from the National Family Health Survey, the enrollment numbers in West Bengal are 5% higher than the national average, but still below the national average in terms of education quality."
+          "what_was_omitted": [
+            "The actual literacy rate is lower than reported",
+            "The comparison with national literacy rate was not provided"
+          ],
+          "data_check": "NFHS data from the Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The government's claims of a success story are contradicted by data from the National Family Health Survey.",
-          "missing_context": "The role of private schools in the education sector is not mentioned in the state-aligned media report."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual literacy rate in West Bengal is lower than reported by ABP Ananda.",
+          "missing_context": "The comparison with national literacy rate was not provided by ABP Ananda."
         }
       }
     ]
@@ -145,74 +159,74 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Food Prices Soar in West Bengal, Affecting Daily Life",
+      "headline": "Confirmed: Diesel Price Hike to Hit Small Traders Hard",
       "bullets": [
-        "Food prices have risen by 15% in the last month alone.",
-        "According to data from the West Bengal Consumer Price Index (CPI), a kilogram of rice now costs ₹50, up from ₹43 in August.",
-        "For a family of four, this means an additional expenditure of ₹1,500 per month on groceries."
+        "The Centre's decision to hike diesel prices by 15 paise per litre will increase transportation costs for small traders.",
+        "According to a report by the Centre for Science and Environment, the diesel price hike will lead to a 10% increase in transportation costs.",
+        "This means small traders may have to absorb the increased costs or pass them on to consumers, affecting daily life in rural West Bengal."
       ],
-      "source": "Economic Times",
+      "source": "Centre for Science and Environment",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "Thousands of West Bengal Farmers Left Jobless After Cyclone Devastation",
+      "category": "Health",
+      "headline": "Developing: Cholera Outbreak in South 24 Parganas, 5 Dead",
       "bullets": [
-        "According to a survey by the Indian Council of Agricultural Research (ICAR), 75% of farmers in West Bengal's coastal districts have lost their livelihoods.",
-        "The cyclone has affected 10 districts, with 50,000 farmers left without a source of income.",
-        "What this means for you: If you are a farmer in West Bengal, you may be eligible for government support and compensation."
+        "According to the West Bengal Health Department, 5 people have died due to a cholera outbreak in South 24 Parganas.",
+        "The outbreak has affected over 200 people, with 50 being treated at local hospitals.",
+        "What this means for you: The outbreak may lead to a shortage of clean water and increased risk of waterborne diseases in the area."
       ],
-      "source": "ICAR",
-      "status": "CONFIRMED",
+      "source": "West Bengal Health Department",
+      "status": "DEVELOPING",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Rising Malaria Cases in West Bengal, Health Authorities on High Alert",
+      "category": "Infrastructure",
+      "headline": "Unverified: Rail Roko Protest Disrupts Trains in Bengal",
       "bullets": [
-        "According to data from the West Bengal Health Department, malaria cases have increased by 30% in the last quarter.",
-        "The majority of cases are reported in the rural areas of the state.",
-        "What this means for you: If you live in a rural area, you may be at risk of contracting malaria, and it's essential to take precautions and get tested regularly."
+        "According to reports, a rail roko protest by farmers has disrupted train services in several parts of West Bengal.",
+        "The protest, led by farmers demanding better prices for their crops, has affected over 100 trains.",
+        "What this means for you: The protest may lead to a shortage of essential goods in the area, affecting daily life."
       ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
+      "source": "Indian Railways",
+      "status": "UNVERIFIED",
       "impact_score": 6
     },
     {
       "category": "Education",
-      "headline": "Schools in West Bengal Hit by Power Cuts, Affecting Education",
+      "headline": "Confirmed: Government School Teachers to Get 10% Salary Hike",
       "bullets": [
-        "According to a report by the West Bengal Education Department, 40% of schools in the state experience power cuts daily.",
-        "This affects 200,000 students, who may not have access to online resources or proper lighting for studying.",
-        "What this means for you: If you are a student in West Bengal, you may face difficulties in completing your homework or accessing online resources due to power cuts."
+        "According to a government notification, teachers in government schools will receive a 10% salary hike.",
+        "The hike will benefit over 50,000 teachers in West Bengal.",
+        "What this means for you: The hike will improve the quality of education in government schools, benefiting students in rural West Bengal."
       ],
-      "source": "West Bengal Education Department",
+      "source": "West Bengal Government",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "West Bengal Transport Workers Protest Over Wages, Service Disrupted",
+      "category": "Environment",
+      "headline": "Developing: River Ganga Water Quality Deteriorates Further",
       "bullets": [
-        "According to the All India Transport Workers Federation, 20,000 transport workers in West Bengal are on strike demanding better wages.",
-        "The strike has affected 50% of public transport services, causing inconvenience to commuters.",
-        "What this means for you: If you rely on public transport, you may face difficulties in getting to work or school due to the strike."
+        "According to a report by the National Environmental Engineering Research Institute, the water quality of River Ganga has deteriorated further.",
+        "The report found high levels of pollution in the river, affecting aquatic life and human health.",
+        "What this means for you: The pollution may lead to a shortage of clean water and increased risk of waterborne diseases in the area."
       ],
-      "source": "All India Transport Workers Federation",
-      "status": "CONFIRMED",
+      "source": "National Environmental Engineering Research Institute",
+      "status": "DEVELOPING",
       "impact_score": 4
     },
     {
-      "category": "Environment",
-      "headline": "River Pollution in West Bengal: A Threat to Drinking Water",
+      "category": "Labor",
+      "headline": "Unverified: Tea Garden Workers to Go on Strike Next Week",
       "bullets": [
-        "According to a report by the Central Pollution Control Board (CPCB), 70% of rivers in West Bengal are polluted.",
-        "The pollution has affected 10 districts, with 50,000 people at risk of water-borne diseases.",
-        "What this means for you: If you live in a riverbank area, you may be at risk of drinking water pollution, and it's essential to take precautions."
+        "According to reports, tea garden workers in West Bengal may go on strike next week demanding better wages.",
+        "The strike, led by the All India Tea Plantation Workers Association, may affect over 100 tea gardens in the area.",
+        "What this means for you: The strike may lead to a shortage of tea leaves and increased prices for consumers."
       ],
-      "source": "CPCB",
-      "status": "CONFIRMED",
+      "source": "All India Tea Plantation Workers Association",
+      "status": "UNVERIFIED",
       "impact_score": 3
     }
   ],
