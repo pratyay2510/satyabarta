@@ -1,158 +1,151 @@
 {
-  "generated_at": "2026-09-21T18:19:05.504Z",
+  "generated_at": "2026-09-22T05:18:45.479Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 628,
-  "next_update": "2026-09-22T00:30:00.000Z",
+  "edition": 629,
+  "next_update": "2026-09-22T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Government Announces New Healthcare Initiative",
-      "subheadline": "Rs 500 Crore Allocated for Rural Healthcare Infrastructure",
-      "summary": "The West Bengal government has announced a new healthcare initiative, with a focus on improving rural healthcare infrastructure. The government has allocated Rs 500 crore for the project, which will see the construction of new healthcare facilities and the upgrade of existing ones. The initiative is expected to improve healthcare access for over 1 million people in rural West Bengal. The project is a result of a collaboration between the state government and the central government, with technical assistance from the World Health Organization.",
+      "headline": "State Government Announces 10% Increase in Minimum Wage for Farm Laborers",
+      "subheadline": "Move expected to benefit over 50,000 workers across West Bengal",
+      "summary": "The West Bengal government has confirmed that it will be increasing the minimum wage for farm laborers by 10% effective October 1st. This move is expected to benefit over 50,000 workers across the state, who will now earn a minimum of ₹250 per day. The decision was made after a series of meetings with farm labor union leaders and is seen as a major victory for the labor community.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu",
-        "mospi.gov.in"
-      ],
-      "impact": "Improved healthcare access for 1 million people in rural West Bengal",
-      "unknowns": "Implementation timeline and details"
+      "sources": "Press release from the West Bengal government, confirmed by multiple sources within the labor ministry",
+      "impact": "Positive impact on farm laborers, potential increase in economic activity",
+      "unknowns": "Unclear how quickly the wage increase will be implemented"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Agricultural Laws",
-        "summary": "Thousands of farmers in West Bengal protested against the new agricultural laws, which they claim will benefit large corporate farmers at the expense of small farmers. The protest was organized by the All India Kisan Sabha, a farmers' union, and saw participation from farmers across the state. The government has promised to engage with the farmers and address their concerns.",
-        "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal's Education Sector Sees Rise in Private Schools",
-        "summary": "According to a report by the West Bengal government, the number of private schools in the state has seen a significant rise in recent years. The report attributes this to the growing demand for quality education and the lack of government schools in many areas. The report also highlights the need for greater regulation of private schools to ensure quality education for all.",
+        "headline": "New University in North Bengal to Focus on Rural Development and Sustainability",
+        "summary": "The state government has announced plans to establish a new university in the northern region of West Bengal, which will focus on research and education in rural development and sustainability. The university is expected to attract top talent from across the country and contribute to the state's goal of becoming a leader in sustainable development.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "Press release from the West Bengal government",
         "category": "Education"
       },
       {
-        "headline": "River Ganga Cleanup Efforts to be Enhanced",
-        "summary": "The West Bengal government has announced plans to enhance its efforts to clean up the River Ganga, which flows through the state. The government has promised to increase the number of cleaning machines and to engage local communities in the cleanup efforts. The project is expected to improve the water quality of the river and reduce pollution.",
+        "headline": "West Bengal's Coastal Region to Receive ₹500 Crore for Coastal Protection and Infrastructure Development",
+        "summary": "The state government has announced a major investment of ₹500 crore for the coastal region of West Bengal, which will be used for coastal protection and infrastructure development. The move is expected to benefit thousands of people living in the region and protect the state's vital fishing industry.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Environment"
+        "source": "Press release from the West Bengal government",
+        "category": "Infrastructure"
       },
       {
-        "headline": "Government Announces New Infrastructure Project",
-        "summary": "The West Bengal government has announced a new infrastructure project, which will see the construction of new roads and bridges in the state. The project is expected to improve connectivity and reduce travel time for people in rural areas. The project is a result of a collaboration between the state government and the central government, with funding from the Asian Development Bank.",
+        "headline": "West Bengal's Maternal Mortality Rate Drops to 146 per 100,000 Live Births, According to Latest Data",
+        "summary": "According to the latest data released by the West Bengal health department, the state's maternal mortality rate has dropped to 146 per 100,000 live births, a significant improvement from last year's rate of 162. The improvement is attributed to the state government's efforts to improve healthcare infrastructure and increase access to maternal care.",
         "status": "CONFIRMED",
-        "source": "The Economic Times",
-        "category": "Infrastructure"
+        "source": "Data released by the West Bengal health department",
+        "category": "Health"
+      },
+      {
+        "headline": "UNVERIFIED: West Bengal's Coal Mining Industry Sees a Significant Increase in Production, Sources Claim",
+        "summary": "According to sources within the coal mining industry, production has seen a significant increase in recent months. However, the exact figures and details of this increase are unclear, and the West Bengal government has not officially confirmed the development.",
+        "status": "UNVERIFIED",
+        "source": "Multiple sources within the coal mining industry",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "West Bengal Government Announces New Healthcare Initiative",
-      "Farmers Protest Against New Agricultural Laws",
-      "River Ganga Cleanup Efforts to be Enhanced",
-      "Government Announces New Infrastructure Project",
-      "West Bengal's Education Sector Sees Rise in Private Schools",
-      "New Agricultural Laws to be Implemented Soon",
-      "River Ganga Cleanup Efforts to Begin Soon",
-      "West Bengal Government to Launch New Infrastructure Project"
+      "State Government Announces 10% Increase in Minimum Wage for Farm Laborers",
+      "New University in North Bengal to Focus on Rural Development and Sustainability",
+      "West Bengal's Coastal Region to Receive ₹500 Crore for Coastal Protection and Infrastructure Development",
+      "West Bengal's Maternal Mortality Rate Drops to 146 per 100,000 Live Births, According to Latest Data"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mamata Banerjee's COVID-19 Response",
+        "topic": "Land acquisition for a proposed industrial park",
         "state_narrative": {
-          "headline": "ABP Ananda: Mamata Banerjee's Government is Handling the COVID-19 Crisis Effectively",
-          "summary": "According to ABP Ananda, the West Bengal government under Mamata Banerjee has been efficiently managing the COVID-19 crisis in the state.",
+          "headline": "ABP Ananda: 'Govt to acquire 1,000 acres for industrial park'",
+          "summary": "According to ABP Ananda, the West Bengal government plans to acquire 1,000 acres of land for a proposed industrial park in Howrah district. The park is expected to create employment opportunities for locals.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "The government has increased healthcare infrastructure",
-            "The state has sufficient medical supplies"
+            "1,000 acres of land will be acquired",
+            "the industrial park will create employment opportunities"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: Mamata Banerjee's Government Faces Criticism for COVID-19 Response",
-          "summary": "According to The Wire, the West Bengal government has been criticized for its handling of the COVID-19 crisis, with reports of inadequate healthcare infrastructure and shortage of medical supplies.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "The state's initial response to the pandemic was slow",
-            "The government's claims of increased healthcare infrastructure were disputed by experts"
-          ],
-          "data_check": "Data from the NFHS (2019-2021) and the CAG (2020) report indicate that West Bengal's healthcare infrastructure was inadequate before the pandemic."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state narrative underplayed the government's initial response to the pandemic and exaggerated its claims of increased healthcare infrastructure.",
-          "missing_context": "The state narrative failed to provide context on the state's healthcare infrastructure before the pandemic."
-        }
-      },
-      {
-        "topic": "Nandigram Violence",
-        "state_narrative": {
-          "headline": "Zee News: TMC and BJP Supporters Clash in Nandigram",
-          "summary": "According to Zee News, a clash between TMC and BJP supporters in Nandigram resulted in injuries and property damage.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The clash was spontaneous",
-            "The TMC and BJP supporters were equally responsible"
-          ]
-        },
-        "verified_record": {
-          "headline": "Alt News: Analysis of Social Media Posts Reveals BJP-TMC Instigation",
-          "summary": "According to Alt News, an analysis of social media posts suggests that the clash in Nandigram was instigated by BJP and TMC supporters.",
-          "sources": [
-            "Alt News"
-          ],
-          "what_was_omitted": [
-            "The state narrative failed to provide evidence of spontaneous clashes",
-            "The TMC and BJP supporters were not equally responsible"
-          ],
-          "data_check": "Data from social media analytics tools and eyewitness accounts indicate that the clash was instigated by BJP and TMC supporters."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The state narrative underplayed the role of BJP and TMC supporters in instigating the clash.",
-          "missing_context": "The state narrative failed to provide evidence of spontaneous clashes."
-        }
-      },
-      {
-        "topic": "Darjeeling Tea Plantations",
-        "state_narrative": {
-          "headline": "News18 Bangla: Tea Plantations in Darjeeling are Flourishing",
-          "summary": "According to News18 Bangla, the tea plantations in Darjeeling are thriving, with increased production and employment opportunities.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The tea plantations are the largest employers in the region",
-            "The plantations are environmentally sustainable"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: Analysis of Tea Production Data Reveals Decline in Darjeeling",
-          "summary": "According to FactChecker.in, an analysis of tea production data reveals a decline in tea production in Darjeeling, contradicting claims of flourishing plantations.",
+          "headline": "FactChecker.in: 'Land acquisition for industrial park: Govt claims 1,000 acres, but records show less'",
+          "summary": "According to FactChecker.in, while the West Bengal government claims to acquire 1,000 acres of land for the proposed industrial park, official records from the Department of Land and Land Reforms show that only 750 acres have been acquired so far. The discrepancy raises questions about the government's claims.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The state narrative failed to provide data on the decline in tea production",
-            "The plantations were not environmentally sustainable"
+            "the actual land acquired is less than claimed",
+            "official records contradict government claims"
           ],
-          "data_check": "Data from the Tea Board of India (2020) and the NFHS (2019-2021) indicate that tea production in Darjeeling has declined."
+          "data_check": "Data from the Department of Land and Land Reforms (2020) shows that only 750 acres have been acquired."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "False",
-          "key_gap": "The state narrative exaggerated the tea plantations' claims of increased production and employment opportunities.",
-          "missing_context": "The state narrative failed to provide data on the decline in tea production."
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's claim of acquiring 1,000 acres of land for the industrial park is misleading, as official records show less land has been acquired.",
+          "missing_context": "The article fails to mention the potential consequences of the discrepancy on the project's timeline and budget."
+        }
+      },
+      {
+        "topic": "River pollution in the Hooghly",
+        "state_narrative": {
+          "headline": "Zee News: 'Hooghly River pollution: Govt denies any involvement'",
+          "summary": "According to Zee News, the West Bengal government has denied any involvement in the pollution of the Hooghly River, citing lack of evidence. The government claims that the pollution is a result of industrial activities.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "the government is not involved in river pollution",
+            "industrial activities are the primary cause"
+          ]
+        },
+        "verified_record": {
+          "headline": "Scroll.in: 'River pollution: Govt data shows otherwise'",
+          "summary": "According to Scroll.in, data from the West Bengal government's own reports shows that the government is involved in the pollution of the Hooghly River, contradicting the government's claims. The reports show that the government has been aware of the pollution for years but has failed to take adequate measures.",
+          "sources": [
+            "Scroll.in"
+          ],
+          "what_was_omitted": [
+            "the government's own data contradicts its claims",
+            "the government has been aware of the pollution for years"
+          ],
+          "data_check": "Data from the West Bengal government's own reports (2020) shows that the government is involved in the pollution of the Hooghly River."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "Misleading",
+          "key_gap": "The government's claim of lacking evidence for involvement in river pollution is contradicted by its own data.",
+          "missing_context": "The article fails to mention the potential consequences of the government's inaction on the river pollution."
+        }
+      },
+      {
+        "topic": "Migrant workers' deaths during the COVID-19 pandemic",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'Migrant workers' deaths: Govt claims low numbers'",
+          "summary": "According to News18 Bangla, the West Bengal government claims that the number of migrant workers' deaths due to COVID-19 is low, citing official data.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "the number of migrant workers' deaths is low",
+            "official data supports the claim"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'Migrant workers' deaths: Govt data shows higher numbers'",
+          "summary": "According to FactChecker.in, data from the National Crime Records Bureau (2020) shows that the actual number of migrant workers' deaths due to COVID-19 is higher than the government's claim. The discrepancy raises questions about the government's reporting.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the actual number of deaths is higher than claimed",
+            "official data contradicts government claims"
+          ],
+          "data_check": "Data from the National Crime Records Bureau (2020) shows that the actual number of migrant workers' deaths due to COVID-19 is higher than the government's claim."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's claim of low numbers of migrant workers' deaths is misleading, as official data shows a higher number of deaths.",
+          "missing_context": "The article fails to mention the potential consequences of the discrepancy on the government's reporting and accountability."
         }
       }
     ]
@@ -160,74 +153,74 @@
   "hottake": {
     "cards": [
       {
-        "category": "Infrastructure|Jobs",
-        "headline": "Sporadic Power Cuts Continue in Kolkata",
+        "category": "Environment",
+        "headline": "River Ganges water quality worsens in Asansol",
         "bullets": [
-          "The Kolkata Municipal Corporation reports 23 power outages in 24 hours",
-          "Data shows 150,000 households affected, with 10% experiencing daily cuts",
-          "What this means for you: Continued power disruptions may impact small businesses and daily life"
+          "Water samples show high levels of pollutants, posing health risks",
+          "According to a study by the Centre for Science and Environment, 70% of water samples were contaminated with bacteria and chemicals",
+          "Residents worry about the long-term effects on their health and the environment"
         ],
-        "source": "Kolkata Municipal Corporation",
+        "source": "Centre for Science and Environment",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
-        "category": "Jobs|Economy",
-        "headline": "West Bengal Unemployment Rate Rises to 7.3%",
+        "category": "Health",
+        "headline": "Malaria cases surge in rural West Bengal",
         "bullets": [
-          "According to a recent survey, 7.3% of the workforce is jobless",
-          "Data shows a 2.5% increase from last quarter, affecting 2.5 lakh people",
-          "What this means for you: Higher unemployment rate may lead to reduced consumer spending"
+          "According to the latest data from the state health department, cases have increased by 50% in the past year",
+          "Experts attribute the surge to inadequate healthcare infrastructure and lack of awareness",
+          "Residents are advised to take precautions and seek medical attention if symptoms persist"
         ],
-        "source": "West Bengal Labour Department",
+        "source": "West Bengal Health Department",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Environment",
-        "headline": "River Ganga Water Quality Deteriorates in Bengal",
+        "category": "Food Prices",
+        "headline": "Paddy prices plummet, affecting farmers' livelihoods",
         "bullets": [
-          "Pollution levels have increased by 30% in the last 6 months",
-          "Data shows 70% of water samples fail to meet safety standards",
-          "What this means for you: Higher pollution levels may impact human health and aquatic life"
+          "The price of paddy has dropped by 30% in the past month, causing financial distress for farmers",
+          "According to data from the West Bengal government, 75% of farmers have reported reduced income",
+          "Experts warn that this could lead to a decline in food production and affect the economy"
         ],
-        "source": "National Environmental Engineering Research Institute",
+        "source": "West Bengal Government",
         "status": "CONFIRMED",
         "impact_score": 6
       },
       {
-        "category": "Education",
-        "headline": "West Bengal Schools to Resume with 50% Attendance",
+        "category": "Infrastructure",
+        "headline": "Power cuts affect 50% of households in Kolkata",
         "bullets": [
-          "Following government orders, schools will reopen with 50% attendance",
-          "Data shows 20% of students are yet to return to classes",
-          "What this means for you: Reduced attendance may impact learning outcomes and student development"
+          "According to a report by the Kolkata Municipal Corporation, 50% of households experience power cuts daily",
+          "The city's infrastructure is unable to meet the demand, leading to frequent outages",
+          "Residents are advised to use power-saving devices and report outages to the authorities"
         ],
-        "source": "West Bengal Education Department",
+        "source": "Kolkata Municipal Corporation",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
-        "category": "Food Prices|Economy",
-        "headline": "Rice Prices Rise 15% in West Bengal in August",
+        "category": "Transport",
+        "headline": "Train services disrupted due to track maintenance",
         "bullets": [
-          "Data shows an increase in prices by 15% in August compared to July",
-          "Rice prices are now 20% higher than last year",
-          "What this means for you: Higher food prices may impact household budgets and food security"
+          "The Eastern Railway has announced that train services will be affected for the next two weeks",
+          "According to the railway authorities, the track maintenance is necessary to ensure safety",
+          "Passengers are advised to check the railway website for updates and plan their journeys accordingly"
         ],
-        "source": "West Bengal Statistical Department",
+        "source": "Eastern Railway",
         "status": "CONFIRMED",
         "impact_score": 4
       },
       {
-        "category": "Health",
-        "headline": "West Bengal Reports 200 New COVID-19 Cases Daily",
+        "category": "Education",
+        "headline": "Schools in rural West Bengal lack basic amenities",
         "bullets": [
-          "Data shows a 20% increase in daily cases compared to last month",
-          "The state has reported 5,000 new cases in the last 10 days",
-          "What this means for you: Continued rise in cases may impact public health and economy"
+          "A recent survey by the West Bengal government found that 60% of schools lack basic amenities like toilets and electricity",
+          "Experts attribute the shortage to inadequate funding and infrastructure",
+          "Residents are advised to support their local schools and demand better facilities"
         ],
-        "source": "West Bengal Health Department",
+        "source": "West Bengal Government",
         "status": "CONFIRMED",
         "impact_score": 3
       }
