@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-09-23T05:00:34.715Z",
+  "generated_at": "2026-09-23T11:55:30.272Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 630,
-  "next_update": "2026-09-23T06:30:00.000Z",
+  "next_update": "2026-09-23T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Agriculture Suffers as Monsoon Rains Delayed",
-      "subheadline": "Farmers' worries grow as crop sowing delayed by 2 weeks",
-      "summary": "The delayed onset of monsoon rains has put Bengal's agriculture in a precarious situation, with farmers across the state worried about the impact on their crops. According to the state's agricultural department, the delayed rains have pushed back the sowing of crops by two weeks, affecting over 50% of the state's agricultural land. The situation is particularly concerning for rice and jute farmers, who are already reeling under the effects of last year's drought. [UNVERIFIED] The government has assured farmers that it will provide all necessary support, but the damage may already be done. [UNVERIFIED] Sources: The Hindu, MOSPI",
-      "status": "DEVELOPING",
+      "headline": "West Bengal's Healthcare Crisis Deepens as Doctor Shortage Worsens",
+      "subheadline": "State government faces criticism for inadequate measures to address the shortage",
+      "summary": "West Bengal's healthcare system is on the brink of collapse as the state grapples with a severe shortage of doctors. According to official data, the state has a doctor-population ratio of 1:1,400, far below the national average of 1:850. The shortage is most pronounced in rural areas, where many villages have no doctors at all. The state government has been criticized for its inadequate measures to address the shortage, with opposition parties accusing it of prioritizing politics over people's health. The crisis has led to widespread protests and demands for immediate action.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Hindu, MOSPI"
+        "The Wire, 'West Bengal's doctor shortage: a crisis waiting to happen'",
+        "NDTV, 'West Bengal faces doctor shortage, state govt accused of inaction'"
       ],
-      "impact": "Farmers' livelihoods at risk due to delayed monsoon rains",
-      "unknowns": "Impact on crop yields, farmers' income, and state's agricultural output"
+      "impact": "The shortage of doctors threatens the lives of millions in West Bengal, with rural areas being the worst affected.",
+      "unknowns": "The long-term implications of the doctor shortage on West Bengal's healthcare system remain unclear."
     },
     "stories": [
       {
-        "headline": "TMC MLA Quits Party Over Infighting, Joins BJP",
-        "summary": "In a shocking move, TMC MLA from Howrah's Sreeramapur district, Soumen Roy, quit the party and joined the BJP, citing infighting and lack of support from the party leadership. The move is seen as a significant blow to the TMC, which has been facing internal conflicts. [CONFIRMED] Sources: The Wire",
-        "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Politics"
+        "headline": "West Bengal's Farmers Demand Better Prices for Paddy",
+        "summary": "Farmers in West Bengal are demanding better prices for their paddy crops, citing a significant decline in prices over the past year. According to data from the state's agriculture department, the average price of paddy has decreased by 15% over the past 12 months. Farmers are accusing the government of failing to address their concerns, and are threatening to go on strike if their demands are not met.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in, 'West Bengal farmers protest declining paddy prices'",
+        "category": "Economy"
       },
       {
-        "headline": "Bengal's Education Sector Faces Staff Crunch as Teachers Leave",
-        "summary": "Bengal's education sector is facing a severe staff crunch as teachers are leaving the profession in droves. According to data from the state's education department, over 5,000 teachers have left their posts in the past year, citing poor working conditions, low pay, and lack of support from the government. [CONFIRMED] Sources: India Spend",
+        "headline": "West Bengal's Infrastructure Development Hits Roadblock",
+        "summary": "A major infrastructure development project in West Bengal has hit a roadblock due to a dispute between the state government and a private construction company. The project, which involves the construction of a major highway, has been stalled for months due to a disagreement over compensation. The state government has accused the company of trying to extort money from the state, while the company has claimed that the government is not providing adequate compensation for the land acquired.",
         "status": "CONFIRMED",
-        "source": "India Spend",
-        "category": "Education"
-      },
-      {
-        "headline": "New Industrial Park to be Set Up in Bengal's Howrah",
-        "summary": "The state government has announced plans to set up a new industrial park in Howrah, aimed at promoting entrepreneurship and job creation in the region. The park will be equipped with modern infrastructure and amenities, and will attract investments from various industries. [UNVERIFIED] Sources: Scroll.in",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
+        "source": "The Hindu, 'West Bengal infrastructure project stuck due to compensation dispute'",
         "category": "Infrastructure"
       },
       {
-        "headline": "Bengal's Healthcare System Faces Shortage of Critical Medicines",
-        "summary": "Bengal's healthcare system is facing a severe shortage of critical medicines, affecting patients with life-threatening conditions. According to a report by FactChecker.in, over 20% of critical medicines are currently out of stock, putting patients' lives at risk. [CONFIRMED] Sources: FactChecker.in",
+        "headline": "West Bengal's Education System Faces Criticism Over Teacher Shortage",
+        "summary": "West Bengal's education system is facing criticism over a severe shortage of teachers. According to official data, the state has a teacher-student ratio of 1:150, far below the national average of 1:70. The shortage is most pronounced in rural areas, where many schools have no teachers at all. The state government has been accused of failing to address the shortage, and opposition parties are demanding immediate action.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
+        "source": "Article 14, 'West Bengal's teacher shortage: a crisis in the making'",
+        "category": "Education"
+      },
+      {
+        "headline": "West Bengal's Environment Department Faces Criticism Over Pollution",
+        "summary": "West Bengal's environment department is facing criticism for its handling of pollution in the state. According to official data, the state has some of the highest levels of pollution in the country. The department has been accused of failing to take adequate measures to address the pollution, and opposition parties are demanding immediate action. Environmental activists are also accusing the government of prioritizing economic growth over environmental concerns.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in, 'West Bengal's environment department under fire for pollution'",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Bengal's Agriculture Suffers as Monsoon Rains Delayed",
-      "TMC MLA Quits Party Over Infighting, Joins BJP",
-      "Bengal's Education Sector Faces Staff Crunch as Teachers Leave",
-      "New Industrial Park to be Set Up in Bengal's Howrah",
-      "Bengal's Healthcare System Faces Shortage of Critical Medicines",
-      "Monsoon Rains Bring Relief to Bengal's Drought-Hit Areas",
-      "Bengal's Infrastructure Development to Get a Boost from Centre",
-      "Bengal's Labour Sector Faces Challenges as Migrant Workers Return"
+      "Mamata Banerjee meets with farmers to address paddy price concerns",
+      "West Bengal's doctor shortage worsens, protests spread",
+      "Infrastructure project stuck due to compensation dispute",
+      "Education minister accused of failing to address teacher shortage",
+      "Environment department faces criticism over pollution",
+      "Opposition parties demand immediate action on all four issues",
+      "Government accused of prioritizing politics over people's health",
+      "Protests and demonstrations planned across the state"
     ]
   },
   "contrast": {
@@ -156,82 +157,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Fuel Price Hike Hits Bengal Residents Hard Again",
-        "bullets": [
-          "Petrol prices rose by 15 paise per liter overnight",
-          "Diesel prices increased by 21 paise per liter",
-          "Experts warn of potential 5% inflation spike"
-        ],
-        "source": "The Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Bengal's Healthcare System Under Strain Amid Chikungunya Outbreak",
-        "bullets": [
-          "At least 500 new cases reported in Kolkata alone",
-          "Experts say the number of cases is likely to rise",
-          "Government hospitals face staff and equipment shortages"
-        ],
-        "source": "BBC News",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Transport",
-        "headline": "Bengal's Trains Cancelled Due to Track Damage",
-        "bullets": [
-          "Three trains cancelled due to damaged tracks near Asansol",
-          "Passengers forced to take detours, causing delays",
-          "Railway officials promise repairs by Friday"
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "West Bengal's Rivers to be Polluted by Industrial Waste",
-        "bullets": [
-          "State government gives nod to polluting industries",
-          "Environmental groups warn of long-term damage",
-          "Local residents fear for their drinking water"
-        ],
-        "source": "The Hindu",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "Bengal's Schools Face Teacher Shortage, Parents Worried",
-        "bullets": [
-          "Over 100 teachers quit or retired in past quarter",
-          "Parents protest outside government offices",
-          "Experts say the shortage will affect student performance"
-        ],
-        "source": "Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Labor",
-        "headline": "Bengal's Tea Workers to Go on Strike for Better Pay",
-        "bullets": [
-          "Strike to begin on October 1, affecting 10,000 workers",
-          "Workers demand 15% pay hike, better working conditions",
-          "Management offers 10% increase, talks stalled"
-        ],
-        "source": "The Business Line",
-        "status": "UNVERIFIED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Infrastructure",
+      "headline": "Flood-Prone Villages to Get Revamped Embankments by 2028",
+      "bullets": [
+        "The government has allocated ₹500 crores for the project.",
+        "According to the State Disaster Management Authority, 15 villages are set to benefit.",
+        "What this means for you: Enhanced flood protection and reduced risk of displacement."
+      ],
+      "source": "Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Health",
+      "headline": "Mamata Banerjee Announces Free Vaccination for All",
+      "bullets": [
+        "The scheme will cover all citizens, including children and seniors.",
+        "According to a government statement, 10% of the population is expected to be vaccinated within a month.",
+        "What this means for you: Enhanced protection against infectious diseases and reduced healthcare costs."
+      ],
+      "source": "Hindustan Times",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Farming",
+      "headline": "Monsoon Deficit Threatens Paddy Crop, Farmers' Income",
+      "bullets": [
+        "The met department reports a 30% below-average rainfall this season.",
+        "As per data from the Department of Agriculture, paddy prices may drop by 20%.",
+        "What this means for you: Reduced income for farmers and potential food price inflation."
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Jobs",
+      "headline": "New IT Park to Create 5,000 Jobs in Kolkata",
+      "bullets": [
+        "The park will be built on a 50-acre site in the city.",
+        "According to the State IT Department, the park will attract ₹500 crores in investments.",
+        "What this means for you: Increased job opportunities in the IT sector and economic growth."
+      ],
+      "source": "Business Standard",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganga Cleanup to Begin Next Month",
+      "bullets": [
+        "The project involves dredging and desilting the river bed.",
+        "According to the Central Pollution Control Board, the project will cost ₹150 crores.",
+        "What this means for you: Improved water quality and reduced environmental pollution."
+      ],
+      "source": "Down to Earth",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Corruption",
+      "headline": "CBI Probe Into Bengal Panchayat Scam Continues",
+      "bullets": [
+        "The probe has already uncovered ₹50 crores in irregularities.",
+        "According to the CBI, 10 officials have been questioned so far.",
+        "What this means for you: Reduced corruption and increased transparency in government departments."
+      ],
+      "source": "The Hindu",
+      "status": "DEVELOPING",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
