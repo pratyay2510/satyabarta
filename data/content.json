@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T17:11:33.599Z",
+  "generated_at": "2026-09-23T05:00:34.715Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 629,
-  "next_update": "2026-09-23T00:30:00.000Z",
+  "edition": 630,
+  "next_update": "2026-09-23T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "Bengal's Agriculture Suffers as Monsoon Rains Delayed",
@@ -156,80 +156,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Confirmed: Diesel Price Hike to Hit Small Traders Hard",
-      "bullets": [
-        "The Centre's decision to hike diesel prices by 15 paise per litre will increase transportation costs for small traders.",
-        "According to a report by the Centre for Science and Environment, the diesel price hike will lead to a 10% increase in transportation costs.",
-        "This means small traders may have to absorb the increased costs or pass them on to consumers, affecting daily life in rural West Bengal."
-      ],
-      "source": "Centre for Science and Environment",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "Developing: Cholera Outbreak in South 24 Parganas, 5 Dead",
-      "bullets": [
-        "According to the West Bengal Health Department, 5 people have died due to a cholera outbreak in South 24 Parganas.",
-        "The outbreak has affected over 200 people, with 50 being treated at local hospitals.",
-        "What this means for you: The outbreak may lead to a shortage of clean water and increased risk of waterborne diseases in the area."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "DEVELOPING",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Unverified: Rail Roko Protest Disrupts Trains in Bengal",
-      "bullets": [
-        "According to reports, a rail roko protest by farmers has disrupted train services in several parts of West Bengal.",
-        "The protest, led by farmers demanding better prices for their crops, has affected over 100 trains.",
-        "What this means for you: The protest may lead to a shortage of essential goods in the area, affecting daily life."
-      ],
-      "source": "Indian Railways",
-      "status": "UNVERIFIED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "Confirmed: Government School Teachers to Get 10% Salary Hike",
-      "bullets": [
-        "According to a government notification, teachers in government schools will receive a 10% salary hike.",
-        "The hike will benefit over 50,000 teachers in West Bengal.",
-        "What this means for you: The hike will improve the quality of education in government schools, benefiting students in rural West Bengal."
-      ],
-      "source": "West Bengal Government",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Environment",
-      "headline": "Developing: River Ganga Water Quality Deteriorates Further",
-      "bullets": [
-        "According to a report by the National Environmental Engineering Research Institute, the water quality of River Ganga has deteriorated further.",
-        "The report found high levels of pollution in the river, affecting aquatic life and human health.",
-        "What this means for you: The pollution may lead to a shortage of clean water and increased risk of waterborne diseases in the area."
-      ],
-      "source": "National Environmental Engineering Research Institute",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Labor",
-      "headline": "Unverified: Tea Garden Workers to Go on Strike Next Week",
-      "bullets": [
-        "According to reports, tea garden workers in West Bengal may go on strike next week demanding better wages.",
-        "The strike, led by the All India Tea Plantation Workers Association, may affect over 100 tea gardens in the area.",
-        "What this means for you: The strike may lead to a shortage of tea leaves and increased prices for consumers."
-      ],
-      "source": "All India Tea Plantation Workers Association",
-      "status": "UNVERIFIED",
-      "impact_score": 3
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Fuel Price Hike Hits Bengal Residents Hard Again",
+        "bullets": [
+          "Petrol prices rose by 15 paise per liter overnight",
+          "Diesel prices increased by 21 paise per liter",
+          "Experts warn of potential 5% inflation spike"
+        ],
+        "source": "The Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health",
+        "headline": "Bengal's Healthcare System Under Strain Amid Chikungunya Outbreak",
+        "bullets": [
+          "At least 500 new cases reported in Kolkata alone",
+          "Experts say the number of cases is likely to rise",
+          "Government hospitals face staff and equipment shortages"
+        ],
+        "source": "BBC News",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Transport",
+        "headline": "Bengal's Trains Cancelled Due to Track Damage",
+        "bullets": [
+          "Three trains cancelled due to damaged tracks near Asansol",
+          "Passengers forced to take detours, causing delays",
+          "Railway officials promise repairs by Friday"
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Environment",
+        "headline": "West Bengal's Rivers to be Polluted by Industrial Waste",
+        "bullets": [
+          "State government gives nod to polluting industries",
+          "Environmental groups warn of long-term damage",
+          "Local residents fear for their drinking water"
+        ],
+        "source": "The Hindu",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "Bengal's Schools Face Teacher Shortage, Parents Worried",
+        "bullets": [
+          "Over 100 teachers quit or retired in past quarter",
+          "Parents protest outside government offices",
+          "Experts say the shortage will affect student performance"
+        ],
+        "source": "Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Labor",
+        "headline": "Bengal's Tea Workers to Go on Strike for Better Pay",
+        "bullets": [
+          "Strike to begin on October 1, affecting 10,000 workers",
+          "Workers demand 15% pay hike, better working conditions",
+          "Management offers 10% increase, talks stalled"
+        ],
+        "source": "The Business Line",
+        "status": "UNVERIFIED",
+        "impact_score": 3
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
