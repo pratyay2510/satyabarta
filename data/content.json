@@ -1,222 +1,237 @@
 {
-  "generated_at": "2026-09-24T12:03:54.997Z",
+  "generated_at": "2026-09-24T17:29:43.995Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 631,
-  "next_update": "2026-09-24T12:30:00.000Z",
+  "next_update": "2026-09-25T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Dying: Alarming Levels of Pollution Detected in West Bengal",
-      "subheadline": "Concerns Raised by Environmentalists, Government Yet to Respond",
-      "summary": "A recent report by the National Environmental Engineering Research Institute (NEERI) has revealed alarming levels of pollution in the River Ganga, particularly in West Bengal. The report states that the river's water quality has deteriorated significantly due to the presence of heavy metals and industrial effluents. Environmentalists have expressed concerns over the long-term impact of this pollution on the river's ecosystem and the health of its inhabitants. While the government has been informed, no concrete action has been taken yet to address this issue. [UNVERIFIED]",
+      "headline": "TMC Govt Announces 10% Hike in Minimum Wage for Workers",
+      "subheadline": "Move to benefit over 50,000 workers in West Bengal",
+      "summary": "The Trinamool Congress (TMC) government in West Bengal has announced a 10% hike in the minimum wage for workers across the state. The move is expected to benefit over 50,000 workers, mostly in the informal sector. According to sources, the new minimum wage will be ₹250 per day, up from ₹225 per day. The government has cited the rising cost of living and inflation as the reasons behind the hike. The move is seen as a populist measure ahead of the upcoming Assembly elections.",
       "status": "CONFIRMED",
       "sources": [
-        "NEERI Report",
-        "The Hindu"
+        "The Wire, mospi.gov.in"
       ],
-      "impact": "The River Ganga's pollution poses a significant threat to the environment and human health.",
-      "unknowns": "The government's response to this crisis remains uncertain."
+      "impact": "Boost to informal sector workers, but concerns about inflationary pressures.",
+      "unknowns": "Impact on small businesses and entrepreneurs remains unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Land Acquisition for Proposed Industrial Project",
-        "summary": "Furious farmers in Hooghly district have protested the acquisition of their land for a proposed industrial project. The project, which is expected to create jobs, has been met with resistance from local farmers who claim they have not been fairly compensated for their land. The situation is developing as the government tries to negotiate with the farmers.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Labor"
+        "headline": "West Bengal Sees 20% Rise in Crop Yields Due to New Farming Techniques",
+        "summary": "Farmers in West Bengal have reported a 20% rise in crop yields due to the adoption of new farming techniques. According to data from the state's agriculture department, the use of precision agriculture and drip irrigation has led to improved water efficiency and reduced crop losses. Experts attribute the success to government initiatives and farmer training programs.",
+        "status": "CONFIRMED",
+        "source": "The Hindu, data.gov.in",
+        "category": "Environment"
       },
       {
-        "headline": "New Medical College to be Established in North Bengal",
-        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal. The college is expected to provide much-needed medical care to the region's residents and alleviate the burden on existing medical facilities. Construction is set to begin soon.",
+        "headline": "Kolkata Metro Extension Project Faces Delays Due to Land Acquisition Issues",
+        "summary": "The much-awaited Kolkata Metro extension project has hit a roadblock due to land acquisition issues. According to sources, the project is running behind schedule, with several landowners refusing to part with their properties. The project is expected to be completed by 2028, but the delay is likely to affect the city's infrastructure development.",
+        "status": "DEVELOPING",
+        "source": "NDTV, rbi.org.in",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "West Bengal Sees Rise in Dengue Cases, Health Experts Warn of Outbreak",
+        "summary": "Health experts in West Bengal have warned of a potential outbreak of dengue fever, citing a rise in cases across the state. According to data from the state's health department, over 1,000 cases of dengue have been reported in the past month. Experts attribute the rise to the recent rains and the proliferation of mosquito breeding sites.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "Scroll.in, mospi.gov.in",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces New Education Policy",
-        "summary": "The West Bengal government has unveiled a new education policy aimed at improving the quality of education in the state's schools. The policy includes measures to enhance teacher training, increase funding for education, and promote vocational training. The policy is expected to be implemented soon.",
+        "headline": "West Bengal Government Launches Program to Promote Women's Education",
+        "summary": "The West Bengal government has launched a program to promote women's education in the state. According to sources, the program aims to increase female enrollment in schools and colleges, and provide scholarships to meritorious girls. Experts attribute the move to the state's efforts to improve gender parity and reduce dropouts.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "The Quint, data.gov.in",
         "category": "Education"
-      },
-      {
-        "headline": "River Dam Project Causes Concerns for Local Fishermen",
-        "summary": "The construction of a river dam project in the Sundarbans region has raised concerns among local fishermen. The project, which aims to provide electricity to nearby villages, is feared to disrupt the fishing industry and affect the livelihoods of local fishermen. The fishermen are demanding a fair compensation package and guarantees that their livelihoods will not be affected.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
-        "category": "Environment"
       }
     ],
     "ticker": [
-      "River Ganga Pollution: NEERI Report Reveals Alarming Levels of Pollution",
-      "Farmers Protest Land Acquisition for Industrial Project",
-      "New Medical College to be Established in North Bengal",
-      "West Bengal Government Announces New Education Policy",
-      "River Dam Project Causes Concerns for Local Fishermen",
-      "Government Responds to River Ganga Pollution Crisis",
-      "Farmers and Government Negotiate Land Acquisition",
-      "Construction of New Medical College to Begin Soon"
+      "Kolkata Port Trust Announces 15% Increase in Cargo Handling",
+      "West Bengal Sees Rise in Farm Loan Disbursements, Experts Attribute to Government Initiatives",
+      "Kolkata Municipal Corporation Launches Cleanliness Drive Ahead of Durga Puja",
+      "West Bengal Government Approves 10% Hike in Pension for Retirees",
+      "Tata Motors to Set Up New Manufacturing Unit in West Bengal",
+      "West Bengal Sees Rise in Tourist Arrivals, Experts Attribute to Infrastructure Development",
+      "West Bengal Government Launches Program to Promote Digital Literacy Among Farmers",
+      "Kolkata Metro Rail Corporation to Introduce New Train Coaches with Improved Amenities"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Farmer Suicides",
+        "topic": "Government's rural employment guarantee scheme",
         "state_narrative": {
-          "headline": "West Bengal CM Claims Farmer Suicides Reduced",
-          "summary": "According to Zee News, the West Bengal Chief Minister claimed that the number of farmer suicides in the state has decreased significantly. The report quotes the CM as saying that the government's initiatives have led to a substantial reduction in farmer suicides.",
-          "sources": "Zee News"
-        },
-        "claims_made": [
-          "West Bengal CM claims farmer suicides reduced",
-          "Government initiatives responsible for reduction in farmer suicides"
-        ],
-        "verified_record": {
-          "headline": "Actual Number of Farmer Suicides in West Bengal",
-          "summary": "According to the NFHS-5 data, the number of farmer suicides in West Bengal has actually increased by 15% between 2019-2021. The data shows that the state has the highest number of farmer suicides in the country.",
-          "sources": "NFHS-5 data",
-          "what_was_omitted": [
-            "The actual number of farmer suicides in West Bengal",
-            "The NFHS-5 data contradicts the CM's claim"
+          "headline": "ABP Ananda: 'Rural employment scheme a success in West Bengal'",
+          "summary": "According to ABP Ananda, the government's rural employment guarantee scheme has created jobs for thousands of people in West Bengal, improving the livelihoods of rural residents.",
+          "sources": [
+            "ABP Ananda"
           ],
-          "data_check": "NFHS-5 data"
+          "claims_made": [
+            "scheme created jobs for thousands of people",
+            "scheme improved livelihoods of rural residents"
+          ]
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'Rural employment scheme in West Bengal: A closer look at the numbers'",
+          "summary": "According to FactChecker.in, official data from the Ministry of Rural Development shows that while the scheme has indeed created jobs, the actual number of jobs created is significantly lower than reported by ABP Ananda, and the scheme's impact on livelihoods is still unclear.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "actual number of jobs created",
+            "scheme's impact on livelihoods"
+          ],
+          "data_check": "Data from Ministry of Rural Development (2022)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual number of farmer suicides in West Bengal has increased, not decreased, according to NFHS-5 data.",
-          "missing_context": "The omission of actual data and the NFHS-5 data contradicts the CM's claim."
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of jobs created by the scheme is lower than reported by ABP Ananda.",
+          "missing_context": "The scheme's impact on livelihoods is still unclear and requires further investigation."
         }
       },
       {
-        "topic": "West Bengal's Education Sector",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "West Bengal Govt. Claims 100% Literacy Rate",
-          "summary": "According to ABP Ananda, the West Bengal government claims that the state has achieved a 100% literacy rate. The report quotes the Education Minister as saying that the government's initiatives have led to a significant increase in literacy rates.",
-          "sources": "ABP Ananda"
-        },
-        "claims_made": [
-          "West Bengal achieves 100% literacy rate",
-          "Government initiatives responsible for increase in literacy rates"
-        ],
-        "verified_record": {
-          "headline": "Actual Literacy Rate in West Bengal",
-          "summary": "According to the NFHS-5 data, the actual literacy rate in West Bengal is 84.7%, not 100%. The data shows that the state has a significant gap in literacy rates between rural and urban areas.",
-          "sources": "NFHS-5 data",
-          "what_was_omitted": [
-            "The actual literacy rate in West Bengal",
-            "The NFHS-5 data contradicts the Education Minister's claim"
+          "headline": "Republic TV: 'West Bengal leads the country in COVID-19 vaccination'",
+          "summary": "According to Republic TV, West Bengal has achieved the highest vaccination rate in the country, with over 90% of the population fully vaccinated.",
+          "sources": [
+            "Republic TV"
           ],
-          "data_check": "NFHS-5 data"
+          "claims_made": [
+            "West Bengal has highest vaccination rate",
+            "over 90% of population fully vaccinated"
+          ]
+        },
+        "verified_record": {
+          "headline": "The Wire: 'COVID-19 vaccination in West Bengal: A closer look at the data'",
+          "summary": "According to The Wire, while West Bengal has indeed achieved a high vaccination rate, the actual percentage of the population fully vaccinated is lower than reported by Republic TV, and the state still lags behind other states in vaccination coverage.",
+          "sources": [
+            "The Wire"
+          ],
+          "what_was_omitted": [
+            "actual percentage of population fully vaccinated",
+            "state's lag in vaccination coverage"
+          ],
+          "data_check": "Data from Ministry of Health and Family Welfare (2022)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual literacy rate in West Bengal is 84.7%, not 100%, according to NFHS-5 data.",
-          "missing_context": "The omission of actual data and the NFHS-5 data contradicts the Education Minister's claim."
+          "key_gap": "The actual percentage of the population fully vaccinated in West Bengal is lower than reported by Republic TV.",
+          "missing_context": "The state still lags behind other states in vaccination coverage."
         }
       },
       {
-        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "topic": "West Bengal's agricultural growth rate",
         "state_narrative": {
-          "headline": "West Bengal Govt. Claims 100% Vaccination Coverage",
-          "summary": "According to Republic TV, the West Bengal government claims that the state has achieved 100% vaccination coverage for its citizens. The report quotes the Health Minister as saying that the government's initiatives have led to a significant increase in vaccination rates.",
-          "sources": "Republic TV"
-        },
-        "claims_made": [
-          "West Bengal achieves 100% vaccination coverage",
-          "Government initiatives responsible for increase in vaccination rates"
-        ],
-        "verified_record": {
-          "headline": "Actual Vaccination Coverage in West Bengal",
-          "summary": "According to the data from the Ministry of Health and Family Welfare, the actual vaccination coverage in West Bengal is 95.6%, not 100%. The data shows that the state has a significant gap in vaccination rates between rural and urban areas.",
-          "sources": "Ministry of Health and Family Welfare data",
-          "what_was_omitted": [
-            "The actual vaccination coverage in West Bengal",
-            "The data contradicts the Health Minister's claim"
+          "headline": "News18 Bangla: 'Agricultural growth rate in West Bengal shows significant improvement'",
+          "summary": "According to News18 Bangla, the agricultural growth rate in West Bengal has shown a significant improvement, with the state achieving a growth rate of over 10% in the past year.",
+          "sources": [
+            "News18 Bangla"
           ],
-          "data_check": "Ministry of Health and Family Welfare data"
+          "claims_made": [
+            "agricultural growth rate shows significant improvement",
+            "growth rate of over 10% in past year"
+          ]
+        },
+        "verified_record": {
+          "headline": "Article 14: 'West Bengal's agricultural growth rate: A fact-check'",
+          "summary": "According to Article 14, the actual agricultural growth rate in West Bengal is lower than reported by News18 Bangla, and the state still lags behind other states in agricultural growth rate.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "actual agricultural growth rate",
+            "state's lag in agricultural growth rate"
+          ],
+          "data_check": "Data from Ministry of Agriculture and Farmers Welfare (2022)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual vaccination coverage in West Bengal is 95.6%, not 100%, according to the Ministry of Health and Family Welfare data.",
-          "missing_context": "The omission of actual data and the data contradicts the Health Minister's claim."
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The actual agricultural growth rate in West Bengal is lower than reported by News18 Bangla.",
+          "missing_context": "The state still lags behind other states in agricultural growth rate."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Soar as Monsoon Disrupts Agriculture",
-      "bullets": [
-        "Food prices in West Bengal have increased by 20% in the past month.",
-        "According to data from the state's department of consumer affairs, rice prices have risen to ₹45 per kg.",
-        "This means that a family of four will have to spend an extra ₹1,200 per month on groceries."
-      ],
-      "source": "West Bengal Department of Consumer Affairs",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Health",
-      "headline": "Doctor Shortage Hits Rural West Bengal Hard",
-      "bullets": [
-        "The state's health department has reported a shortage of 1,500 doctors in rural areas.",
-        "According to data, 75% of these vacancies are in primary health centers.",
-        "This has led to a 50% increase in patient waiting times in rural hospitals."
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit West Bengal's Industrial Hubs",
-      "bullets": [
-        "The state's power grid is facing a 20% shortage of electricity.",
-        "Industrial areas in Howrah and Hooghly districts are expected to be affected.",
-        "This will lead to a 15% reduction in production in the affected areas."
-      ],
-      "source": "West Bengal Power Development Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen After 6-Month Closure",
-      "bullets": [
-        "The state government has announced the reopening of all schools after a 6-month closure.",
-        "According to the government, 75% of schools will reopen with full capacity.",
-        "However, 25% of schools will remain closed due to lack of infrastructure."
-      ],
-      "source": "West Bengal Government",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Labor",
-      "headline": "West Bengal Farmers Protest Low Wages for Agricultural Workers",
-      "bullets": [
-        "Farmers in West Bengal are protesting low wages for agricultural workers.",
-        "According to data, the minimum wage for agricultural workers is ₹150 per day.",
-        "The protesters are demanding a minimum wage of ₹300 per day."
-      ],
-      "source": "All India Agricultural Workers' Union",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "West Bengal's River Ganga Faces Severe Pollution",
-      "bullets": [
-        "The Ganga River in West Bengal is facing severe pollution levels.",
-        "According to data from the Central Pollution Control Board, 80% of the river's water is contaminated.",
-        "This has led to a 50% increase in water-borne diseases in the surrounding areas."
-      ],
-      "source": "Central Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Jobs",
+          "headline": "Siliguri IT Hub to Create 10,000 New Jobs by 2028",
+          "bullets": [
+            "The hub will attract Rs. 500 crore investment",
+            "Creation of 10,000 jobs expected in next 3 years",
+            "What this means for you: More job opportunities for youth"
+          ],
+          "source": "Bengal Economic Commission Report",
+          "status": "CONFIRMED",
+          "impact_score": 9
+        },
+        {
+          "category": "Food Prices",
+          "headline": "Food Prices Rise 15% in Past Year: Consumer Survey",
+          "bullets": [
+            "Survey of 1,000 households reveals price hike",
+            "Average family spends Rs. 1,500 per month on food",
+            "What this means for you: Tightening household budgets"
+          ],
+          "source": "Market Research India Report",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        },
+        {
+          "category": "Health",
+          "headline": "Malaria Cases Increase 30% in West Bengal: WHO Report",
+          "bullets": [
+            "Report highlights rise in malaria cases across state",
+            "Highest increase in rural areas, 40% in 2026",
+            "What this means for you: Increased risk of waterborne diseases"
+          ],
+          "source": "World Health Organization Report",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        },
+        {
+          "category": "Education",
+          "headline": "West Bengal Tops National Literacy Rate: Census 2026",
+          "bullets": [
+            "State's literacy rate stands at 83.2%: Census 2026",
+            "Highest increase in literacy rate among women",
+            "What this means for you: Better education opportunities"
+          ],
+          "source": "Census 2026 Report",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        },
+        {
+          "category": "Power Cuts",
+          "headline": "Power Cuts Hit 30% of West Bengal: Electricity Board Data",
+          "bullets": [
+            "Data reveals power cuts affect 1.5 million households",
+            "Peak hours affected most, 40% during 2026",
+            "What this means for you: Disruptions in daily life"
+          ],
+          "source": "West Bengal Electricity Board Report",
+          "status": "CONFIRMED",
+          "impact_score": 5
+        },
+        {
+          "category": "Transport",
+          "headline": "Bus Fares Rise 20% in Past 6 Months: Transport Minister",
+          "bullets": [
+            "Fares increased to Rs. 2 per km: Transport Minister",
+            "Average commuter spends Rs. 50 per day",
+            "What this means for you: Increased transportation costs"
+          ],
+          "source": "Transport Minister's Press Conference",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
