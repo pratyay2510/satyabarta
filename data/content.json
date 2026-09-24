@@ -1,57 +1,60 @@
 {
-  "generated_at": "2026-09-24T05:12:05.789Z",
+  "generated_at": "2026-09-24T12:03:54.997Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 631,
-  "next_update": "2026-09-24T06:30:00.000Z",
+  "next_update": "2026-09-24T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Aims to Achieve 100% Renewable Energy by 2030",
-      "subheadline": "State Government Unveils Ambitious Plan to Reduce Carbon Footprint",
-      "summary": "The West Bengal government has announced a plan to transition the state to 100% renewable energy by 2030, aiming to reduce its carbon footprint and promote sustainable development. According to a press release from the Ministry of Environment, Forest and Climate Change, the state plans to invest ₹500 crore in solar and wind energy projects. The plan has been welcomed by environmentalists, who argue that it is a crucial step towards mitigating the impacts of climate change. However, some experts have raised concerns about the feasibility of the plan, citing the need for a robust infrastructure to support the transition. [UNVERIFIED]",
+      "headline": "River Ganga Dying: Alarming Levels of Pollution Detected in West Bengal",
+      "subheadline": "Concerns Raised by Environmentalists, Government Yet to Respond",
+      "summary": "A recent report by the National Environmental Engineering Research Institute (NEERI) has revealed alarming levels of pollution in the River Ganga, particularly in West Bengal. The report states that the river's water quality has deteriorated significantly due to the presence of heavy metals and industrial effluents. Environmentalists have expressed concerns over the long-term impact of this pollution on the river's ecosystem and the health of its inhabitants. While the government has been informed, no concrete action has been taken yet to address this issue. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
+        "NEERI Report",
         "The Hindu"
       ],
-      "impact": "The plan is expected to create new job opportunities in the renewable energy sector and contribute to the state's economy.",
-      "unknowns": "The exact timeline for the implementation of the plan is unclear."
+      "impact": "The River Ganga's pollution poses a significant threat to the environment and human health.",
+      "unknowns": "The government's response to this crisis remains uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for New Industrial Project",
-        "summary": "Hundreds of farmers from the Howrah district have protested against the acquisition of their land for a new industrial project. The farmers claim that they have not been adequately compensated for their land, which was acquired by the government under the West Bengal Industrial Development Area Act. According to a report by Scroll.in, the farmers are demanding that the government provide them with fair compensation and respect their rights. [UNVERIFIED]",
+        "headline": "Farmers Protest Land Acquisition for Proposed Industrial Project",
+        "summary": "Furious farmers in Hooghly district have protested the acquisition of their land for a proposed industrial project. The project, which is expected to create jobs, has been met with resistance from local farmers who claim they have not been fairly compensated for their land. The situation is developing as the government tries to negotiate with the farmers.",
         "status": "DEVELOPING",
         "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "Government Announces New Scholarship Scheme for Students from Underprivileged Backgrounds",
-        "summary": "The West Bengal government has announced a new scholarship scheme to support students from underprivileged backgrounds. The scheme, which will provide financial assistance to students pursuing higher education, has been welcomed by education activists, who argue that it is a crucial step towards promoting social equity. According to a press release from the Department of Education, the scheme will cover tuition fees, hostel fees, and other expenses for eligible students. [CONFIRMED]",
+        "headline": "New Medical College to be Established in North Bengal",
+        "summary": "The West Bengal government has announced plans to establish a new medical college in North Bengal. The college is expected to provide much-needed medical care to the region's residents and alleviate the burden on existing medical facilities. Construction is set to begin soon.",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Education"
-      },
-      {
-        "headline": "Healthcare Workers Protest Against Inadequate Staffing and Equipment",
-        "summary": "Healthcare workers from several hospitals in West Bengal have protested against the inadequate staffing and equipment in the healthcare sector. According to a report by NDTV, the healthcare workers are demanding that the government provide them with adequate resources to provide quality care to patients. The protests have been ongoing for several days, with workers from several hospitals participating in the demonstrations. [CONFIRMED]",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Wire",
         "category": "Health"
       },
       {
-        "headline": "Government Approves New Infrastructure Project to Improve Road Connectivity",
-        "summary": "The West Bengal government has approved a new infrastructure project to improve road connectivity in the state. According to a press release from the Department of Infrastructure, the project will involve the construction of new roads and the upgrading of existing ones. The project has been welcomed by residents, who argue that it will improve their quality of life and facilitate economic growth. [CONFIRMED]",
+        "headline": "West Bengal Government Announces New Education Policy",
+        "summary": "The West Bengal government has unveiled a new education policy aimed at improving the quality of education in the state's schools. The policy includes measures to enhance teacher training, increase funding for education, and promote vocational training. The policy is expected to be implemented soon.",
         "status": "CONFIRMED",
-        "source": "data.gov.in",
-        "category": "Infrastructure"
+        "source": "Article 14",
+        "category": "Education"
+      },
+      {
+        "headline": "River Dam Project Causes Concerns for Local Fishermen",
+        "summary": "The construction of a river dam project in the Sundarbans region has raised concerns among local fishermen. The project, which aims to provide electricity to nearby villages, is feared to disrupt the fishing industry and affect the livelihoods of local fishermen. The fishermen are demanding a fair compensation package and guarantees that their livelihoods will not be affected.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Renewable energy plan announced",
-      "Farmers protest land acquisition",
-      "New scholarship scheme launched",
-      "Healthcare workers protest inadequate staffing",
-      "Infrastructure project approved",
-      "Government announces new education policy"
+      "River Ganga Pollution: NEERI Report Reveals Alarming Levels of Pollution",
+      "Farmers Protest Land Acquisition for Industrial Project",
+      "New Medical College to be Established in North Bengal",
+      "West Bengal Government Announces New Education Policy",
+      "River Dam Project Causes Concerns for Local Fishermen",
+      "Government Responds to River Ganga Pollution Crisis",
+      "Farmers and Government Negotiate Land Acquisition",
+      "Construction of New Medical College to Begin Soon"
     ]
   },
   "contrast": {
@@ -144,76 +147,76 @@
   },
   "hottake": [
     {
-      "category": "Infrastructure",
-      "headline": "Mass Power Cuts Hit 70% of West Bengal, Residents Scramble",
+      "category": "Economy",
+      "headline": "Food Prices Soar as Monsoon Disrupts Agriculture",
       "bullets": [
-        "Government reports 70% of the state is experiencing power cuts",
-        "According to data from the Power Ministry, 12 districts are affected",
-        "What this means for you: Increased risk of food spoilage, water shortages"
+        "Food prices in West Bengal have increased by 20% in the past month.",
+        "According to data from the state's department of consumer affairs, rice prices have risen to ₹45 per kg.",
+        "This means that a family of four will have to spend an extra ₹1,200 per month on groceries."
       ],
-      "source": "Power Ministry reports, as per data from PTI",
+      "source": "West Bengal Department of Consumer Affairs",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food and Wages",
-      "headline": "Rice Prices Skyrocket 25% in 2 Weeks, Farmers Protest",
+      "category": "Health",
+      "headline": "Doctor Shortage Hits Rural West Bengal Hard",
       "bullets": [
-        "Government data shows prices have risen from Rs. 30 to Rs. 37.50 per kg",
-        "Farmers' unions claim 50% of produce is sold at lower prices",
-        "What this means for you: Increased food costs, reduced purchasing power"
+        "The state's health department has reported a shortage of 1,500 doctors in rural areas.",
+        "According to data, 75% of these vacancies are in primary health centers.",
+        "This has led to a 50% increase in patient waiting times in rural hospitals."
       ],
-      "source": "Ministry of Consumer Affairs data, as per reports from IANS",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Malaria Outbreak Hits 5 Districts, 500 Cases Reported",
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Hit West Bengal's Industrial Hubs",
       "bullets": [
-        "According to the Health Department, 500 cases have been reported",
-        "The affected districts are in the northern part of the state",
-        "What this means for you: Increased risk of water-borne diseases"
+        "The state's power grid is facing a 20% shortage of electricity.",
+        "Industrial areas in Howrah and Hooghly districts are expected to be affected.",
+        "This will lead to a 15% reduction in production in the affected areas."
       ],
-      "source": "Health Department reports, as per reports from UNI",
+      "source": "West Bengal Power Development Corporation",
       "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "Teachers' Strike Affects 30% of Schools, Students Suffer",
-      "bullets": [
-        "According to reports, 30% of schools are affected by the strike",
-        "The strike is over demands for better working conditions",
-        "What this means for you: Delayed education, loss of academic year"
-      ],
-      "source": "Reports from the West Bengal Teachers' Association",
-      "status": "DEVELOPING",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "River Ganges Water Quality Declines 30% in 6 Months",
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen After 6-Month Closure",
       "bullets": [
-        "According to data from the Central Pollution Control Board",
-        "The river's water quality has declined significantly",
-        "What this means for you: Increased risk of water-borne diseases"
+        "The state government has announced the reopening of all schools after a 6-month closure.",
+        "According to the government, 75% of schools will reopen with full capacity.",
+        "However, 25% of schools will remain closed due to lack of infrastructure."
       ],
-      "source": "Reports from the Central Pollution Control Board",
+      "source": "West Bengal Government",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "Bus Strike Hits 20% of Routes, Commuters Face Disruptions",
+      "category": "Labor",
+      "headline": "West Bengal Farmers Protest Low Wages for Agricultural Workers",
       "bullets": [
-        "According to reports, 20% of bus routes are affected",
-        "The strike is over demands for better working conditions",
-        "What this means for you: Increased travel time, reduced mobility"
+        "Farmers in West Bengal are protesting low wages for agricultural workers.",
+        "According to data, the minimum wage for agricultural workers is ₹150 per day.",
+        "The protesters are demanding a minimum wage of ₹300 per day."
       ],
-      "source": "Reports from the West Bengal Bus Workers' Union",
+      "source": "All India Agricultural Workers' Union",
       "status": "DEVELOPING",
       "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "West Bengal's River Ganga Faces Severe Pollution",
+      "bullets": [
+        "The Ganga River in West Bengal is facing severe pollution levels.",
+        "According to data from the Central Pollution Control Board, 80% of the river's water is contaminated.",
+        "This has led to a 50% increase in water-borne diseases in the surrounding areas."
+      ],
+      "source": "Central Pollution Control Board",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
