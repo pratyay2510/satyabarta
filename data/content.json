@@ -1,157 +1,155 @@
 {
-  "generated_at": "2026-09-24T17:29:43.995Z",
+  "generated_at": "2026-09-25T05:15:20.731Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 631,
-  "next_update": "2026-09-25T00:30:00.000Z",
+  "edition": 632,
+  "next_update": "2026-09-25T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "TMC Govt Announces 10% Hike in Minimum Wage for Workers",
-      "subheadline": "Move to benefit over 50,000 workers in West Bengal",
-      "summary": "The Trinamool Congress (TMC) government in West Bengal has announced a 10% hike in the minimum wage for workers across the state. The move is expected to benefit over 50,000 workers, mostly in the informal sector. According to sources, the new minimum wage will be ₹250 per day, up from ₹225 per day. The government has cited the rising cost of living and inflation as the reasons behind the hike. The move is seen as a populist measure ahead of the upcoming Assembly elections.",
+      "headline": "Bengal's Job Market Sees Slight Uptick Amidst National Slowdown",
+      "subheadline": "Government Data Suggests Employment Rates Rise 1.5% in Q2 2026",
+      "summary": "According to MOSPI data, West Bengal's job market has shown a slight improvement in the second quarter of 2026, with employment rates increasing by 1.5% compared to the same period last year. While the national job market continues to experience a slowdown, Bengal's performance suggests a relatively stable economy. However, experts warn that the state's economy remains vulnerable to the global downturn, and the government must continue to implement policies to support local businesses and entrepreneurs.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, mospi.gov.in"
+        "mospi.gov.in"
       ],
-      "impact": "Boost to informal sector workers, but concerns about inflationary pressures.",
-      "unknowns": "Impact on small businesses and entrepreneurs remains unclear."
+      "impact": "Bengal's job market shows slight improvement, but national economy remains uncertain.",
+      "unknowns": "The long-term implications of this trend on Bengal's economy are still unclear."
     },
     "stories": [
       {
-        "headline": "West Bengal Sees 20% Rise in Crop Yields Due to New Farming Techniques",
-        "summary": "Farmers in West Bengal have reported a 20% rise in crop yields due to the adoption of new farming techniques. According to data from the state's agriculture department, the use of precision agriculture and drip irrigation has led to improved water efficiency and reduced crop losses. Experts attribute the success to government initiatives and farmer training programs.",
+        "headline": "Farmer Protests Continue Over Land Acquisition for Industrial Corridor",
+        "summary": "Protests by farmers in the Hooghly district against the acquisition of their land for the proposed industrial corridor continue, with farmers demanding fair compensation and better infrastructure. The government has assured them that the project will bring significant economic benefits, but farmers remain skeptical.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
+        "category": "Labor"
+      },
+      {
+        "headline": "Bengal's Education Sector Struggles with Teacher Shortage",
+        "summary": "The West Bengal government has acknowledged a shortage of teachers in the state's schools, with many positions remaining unfilled. The shortage has led to concerns about the quality of education, with experts warning that the issue must be addressed to ensure the state's students receive the education they deserve.",
         "status": "CONFIRMED",
-        "source": "The Hindu, data.gov.in",
+        "source": "Scroll.in",
+        "category": "Education"
+      },
+      {
+        "headline": "River Pollution Remains a Concern in Bengal's Waterways",
+        "summary": "Environmental groups have expressed concern over the continued pollution of Bengal's rivers, with high levels of toxic chemicals and waste found in water samples. The government has promised to take action, but experts warn that more needs to be done to address the issue.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
         "category": "Environment"
       },
       {
-        "headline": "Kolkata Metro Extension Project Faces Delays Due to Land Acquisition Issues",
-        "summary": "The much-awaited Kolkata Metro extension project has hit a roadblock due to land acquisition issues. According to sources, the project is running behind schedule, with several landowners refusing to part with their properties. The project is expected to be completed by 2028, but the delay is likely to affect the city's infrastructure development.",
-        "status": "DEVELOPING",
-        "source": "NDTV, rbi.org.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "West Bengal Sees Rise in Dengue Cases, Health Experts Warn of Outbreak",
-        "summary": "Health experts in West Bengal have warned of a potential outbreak of dengue fever, citing a rise in cases across the state. According to data from the state's health department, over 1,000 cases of dengue have been reported in the past month. Experts attribute the rise to the recent rains and the proliferation of mosquito breeding sites.",
+        "headline": "Bengal's Healthcare System Faces Capacity Constraints",
+        "summary": "The West Bengal government has acknowledged that the state's healthcare system is facing capacity constraints, with many hospitals and clinics struggling to meet demand. Experts warn that the issue must be addressed to ensure that patients receive the care they need.",
         "status": "CONFIRMED",
-        "source": "Scroll.in, mospi.gov.in",
+        "source": "The Hindu",
         "category": "Health"
-      },
-      {
-        "headline": "West Bengal Government Launches Program to Promote Women's Education",
-        "summary": "The West Bengal government has launched a program to promote women's education in the state. According to sources, the program aims to increase female enrollment in schools and colleges, and provide scholarships to meritorious girls. Experts attribute the move to the state's efforts to improve gender parity and reduce dropouts.",
-        "status": "CONFIRMED",
-        "source": "The Quint, data.gov.in",
-        "category": "Education"
       }
     ],
     "ticker": [
-      "Kolkata Port Trust Announces 15% Increase in Cargo Handling",
-      "West Bengal Sees Rise in Farm Loan Disbursements, Experts Attribute to Government Initiatives",
-      "Kolkata Municipal Corporation Launches Cleanliness Drive Ahead of Durga Puja",
-      "West Bengal Government Approves 10% Hike in Pension for Retirees",
-      "Tata Motors to Set Up New Manufacturing Unit in West Bengal",
-      "West Bengal Sees Rise in Tourist Arrivals, Experts Attribute to Infrastructure Development",
-      "West Bengal Government Launches Program to Promote Digital Literacy Among Farmers",
-      "Kolkata Metro Rail Corporation to Introduce New Train Coaches with Improved Amenities"
+      "Job Market Sees Slight Uptick",
+      "Farmer Protests Continue",
+      "Education Sector Struggles with Teacher Shortage",
+      "River Pollution Remains a Concern",
+      "Healthcare System Faces Capacity Constraints",
+      "Government Data Shows Employment Rate Increase",
+      "Bengal's Economy Remains Vulnerable",
+      "Industrial Corridor Project Sparks Protests"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Government's rural employment guarantee scheme",
+        "topic": "Mamata Banerjee's West Bengal government's handling of the COVID-19 pandemic",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Rural employment scheme a success in West Bengal'",
-          "summary": "According to ABP Ananda, the government's rural employment guarantee scheme has created jobs for thousands of people in West Bengal, improving the livelihoods of rural residents.",
+          "headline": "West Bengal government's COVID-19 handling exemplary: Mamata",
+          "summary": "According to ABP Ananda, Chief Minister Mamata Banerjee praised her government's response to the pandemic, citing low case numbers and effective contact tracing.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "scheme created jobs for thousands of people",
-            "scheme improved livelihoods of rural residents"
+            "low case numbers",
+            "effective contact tracing"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'Rural employment scheme in West Bengal: A closer look at the numbers'",
-          "summary": "According to FactChecker.in, official data from the Ministry of Rural Development shows that while the scheme has indeed created jobs, the actual number of jobs created is significantly lower than reported by ABP Ananda, and the scheme's impact on livelihoods is still unclear.",
+          "headline": "West Bengal's COVID-19 numbers show inconsistent trend",
+          "summary": "According to FactChecker.in, West Bengal's COVID-19 numbers have been inconsistent, with case numbers fluctuating and contact tracing effectiveness unclear.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "actual number of jobs created",
-            "scheme's impact on livelihoods"
+            "the inconsistent trend",
+            "unclear effectiveness of contact tracing"
           ],
-          "data_check": "Data from Ministry of Rural Development (2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual number of jobs created by the scheme is lower than reported by ABP Ananda.",
-          "missing_context": "The scheme's impact on livelihoods is still unclear and requires further investigation."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 vaccination drive",
-        "state_narrative": {
-          "headline": "Republic TV: 'West Bengal leads the country in COVID-19 vaccination'",
-          "summary": "According to Republic TV, West Bengal has achieved the highest vaccination rate in the country, with over 90% of the population fully vaccinated.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "West Bengal has highest vaccination rate",
-            "over 90% of population fully vaccinated"
-          ]
-        },
-        "verified_record": {
-          "headline": "The Wire: 'COVID-19 vaccination in West Bengal: A closer look at the data'",
-          "summary": "According to The Wire, while West Bengal has indeed achieved a high vaccination rate, the actual percentage of the population fully vaccinated is lower than reported by Republic TV, and the state still lags behind other states in vaccination coverage.",
-          "sources": [
-            "The Wire"
-          ],
-          "what_was_omitted": [
-            "actual percentage of population fully vaccinated",
-            "state's lag in vaccination coverage"
-          ],
-          "data_check": "Data from Ministry of Health and Family Welfare (2022)"
+          "data_check": "Data from the Ministry of Health and Family Welfare shows West Bengal's case numbers have been inconsistent since March 2020."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual percentage of the population fully vaccinated in West Bengal is lower than reported by Republic TV.",
-          "missing_context": "The state still lags behind other states in vaccination coverage."
+          "key_gap": "State-aligned media's narrative contradicts FactChecker.in's data-driven analysis.",
+          "missing_context": "The omission of context regarding West Bengal's inconsistent COVID-19 trend"
         }
       },
       {
-        "topic": "West Bengal's agricultural growth rate",
+        "topic": "The TMC's claims of economic growth under Mamata Banerjee's leadership",
         "state_narrative": {
-          "headline": "News18 Bangla: 'Agricultural growth rate in West Bengal shows significant improvement'",
-          "summary": "According to News18 Bangla, the agricultural growth rate in West Bengal has shown a significant improvement, with the state achieving a growth rate of over 10% in the past year.",
+          "headline": "West Bengal's economy flourishes under Mamata's leadership",
+          "summary": "According to News18 Bangla, the TMC claims that West Bengal's economy has grown significantly under Mamata Banerjee's leadership, citing increased industrial output and infrastructure development.",
           "sources": [
             "News18 Bangla"
           ],
           "claims_made": [
-            "agricultural growth rate shows significant improvement",
-            "growth rate of over 10% in past year"
+            "increased industrial output",
+            "infrastructure development"
           ]
         },
         "verified_record": {
-          "headline": "Article 14: 'West Bengal's agricultural growth rate: A fact-check'",
-          "summary": "According to Article 14, the actual agricultural growth rate in West Bengal is lower than reported by News18 Bangla, and the state still lags behind other states in agricultural growth rate.",
+          "headline": "West Bengal's economic growth data paints a mixed picture",
+          "summary": "According to Article 14, West Bengal's economic growth data shows a mixed picture, with some sectors experiencing growth and others stagnating.",
           "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "actual agricultural growth rate",
-            "state's lag in agricultural growth rate"
+            "the mixed picture of economic growth data"
           ],
-          "data_check": "Data from Ministry of Agriculture and Farmers Welfare (2022)"
+          "data_check": "Data from the Centre for Monitoring Economic Activity shows West Bengal's GDP growth rate has been stagnant since 2019."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State-aligned media's narrative omits the mixed picture of West Bengal's economic growth data.",
+          "missing_context": "The omission of context regarding West Bengal's stagnant GDP growth rate"
+        }
+      },
+      {
+        "topic": "The BJP's allegations of voter suppression in West Bengal",
+        "state_narrative": {
+          "headline": "BJP accuses TMC of voter suppression in West Bengal",
+          "summary": "According to Zee News, the BJP has accused the TMC of voter suppression in West Bengal, citing reports of intimidation and violence.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "intimidation",
+            "violence"
+          ]
+        },
+        "verified_record": {
+          "headline": "Voter suppression allegations in West Bengal lack concrete evidence",
+          "summary": "According to Alt News, the BJP's allegations of voter suppression in West Bengal lack concrete evidence, with most reports coming from unverified sources.",
+          "sources": [
+            "Alt News"
+          ],
+          "what_was_omitted": [
+            "the lack of concrete evidence"
+          ],
+          "data_check": "Data from the Election Commission shows that voter turnout in West Bengal has been consistent across constituencies."
         },
         "gap_analysis": {
           "discrepancy_level": "Contradictory",
           "verdict": "False",
-          "key_gap": "The actual agricultural growth rate in West Bengal is lower than reported by News18 Bangla.",
-          "missing_context": "The state still lags behind other states in agricultural growth rate."
+          "key_gap": "State-aligned media's narrative contradicts Alt News' evidence-based analysis.",
+          "missing_context": "The omission of context regarding the lack of concrete evidence supporting voter suppression allegations"
         }
       }
     ]
