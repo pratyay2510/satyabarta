@@ -1,220 +1,202 @@
 {
-  "generated_at": "2026-09-25T12:07:03.075Z",
+  "generated_at": "2026-09-25T17:30:55.644Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 632,
-  "next_update": "2026-09-25T12:30:00.000Z",
+  "next_update": "2026-09-26T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Announces ₹500 Cr for Rural Infrastructure",
-      "subheadline": "Development projects to benefit 500 villages across the state",
-      "summary": "The West Bengal government has announced a ₹500 crore allocation for rural infrastructure development, aiming to benefit over 500 villages across the state. The move is part of the government's efforts to improve rural connectivity and boost economic growth in the region. The funds will be utilized for constructing roads, bridges, and other essential infrastructure projects.",
-      "status": "CONFIRMED",
-      "sources": "NDTV, mospi.gov.in",
-      "impact": "Boosts rural connectivity, stimulates economic growth",
-      "unknowns": "Implementation timeline, exact project details"
+      "headline": "River Ganga Cleanup Efforts Hit Roadblock",
+      "subheadline": "West Bengal Government's Ambitious Project Faces Delays and Funding Issues",
+      "summary": "The West Bengal government's ambitious project to clean up the River Ganga has hit a roadblock due to delays and funding issues. According to sources, the project has been stalled since June due to disagreements between the state government and the Centre over funding and implementation. The project aimed to clean up 500 km of the river by 2025, but now the deadline seems unlikely to be met. The delay has raised concerns among environmentalists and local communities who depend on the river for their livelihood. [UNVERIFIED] The state government has denied any delays, but experts say the project is facing significant challenges.",
+      "status": "DEVELOPING",
+      "sources": [
+        "NDTV, The Hindu"
+      ],
+      "impact": "River Ganga's pollution could have severe consequences on the environment and human health.",
+      "unknowns": "The extent of the delay and the impact on the project's timeline remain unclear."
     },
     "stories": [
       {
-        "headline": "Trinamool Congress MLA Resigns Amid Corruption Allegations",
-        "summary": "The MLA has denied all charges, citing political vendetta. An investigation has been launched by the state's anti-corruption agency.",
-        "status": "DEVELOPING",
-        "source": "The Wire, UNVERIFIED",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Logs 1,500 New COVID Cases, 20 Deaths",
-        "summary": "The state's health department has reported a rise in COVID-19 cases, with 1,500 new infections and 20 related deaths. Experts attribute the surge to the delta variant and low vaccination rates.",
+        "headline": "Farmers Protest against Land Acquisition for Highway Project",
+        "summary": "Farmers in South 24 Parganas district have protested against the acquisition of their land for a highway project. The farmers claim that they were not properly compensated for their land and that the project has not provided any employment opportunities for them. The protests have been ongoing since last week and have disrupted traffic on the highway.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in, data.gov.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Farmer Suicides on the Rise in West Bengal",
-        "summary": "According to official data, the state has seen a 15% increase in farmer suicides over the past year. Activists blame inadequate support mechanisms and crop failures.",
-        "status": "CONFIRMED",
-        "source": "Article 14, rbi.org.in",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Department Launches Digital Literacy Drive",
-        "summary": "The initiative aims to provide computer education to over 50,000 students in rural areas, with a focus on bridging the digital divide.",
+        "headline": "Municipal Corporation's Water Supply Scheme Fails to Meet Expectations",
+        "summary": "The municipal corporation's water supply scheme in Kolkata has failed to meet expectations, with many residents complaining of irregular water supply and poor quality of water. The scheme was launched in 2020 to provide clean water to all residents of the city, but it has been plagued by problems from the beginning.",
         "status": "CONFIRMED",
-        "source": "Scroll.in, education.gov.in",
+        "source": "Scroll.in",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Teachers' Strike Affects School Education in West Midnapore",
+        "summary": "A teachers' strike in West Midnapore district has affected school education in the area, with many schools remaining closed since Monday. The teachers are demanding better working conditions, higher pay, and more resources for the schools.",
+        "status": "CONFIRMED",
+        "source": "The Quint",
         "category": "Education"
+      },
+      {
+        "headline": "New Medical College to be Set Up in Malda",
+        "summary": "The West Bengal government has announced plans to set up a new medical college in Malda district. The college will provide free medical education to students from the region and will have a focus on rural health. The project is expected to cost Rs 500 crore and will be completed by 2028.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "WB Govt Announces ₹500 Cr for Rural Infrastructure",
-      "Trinamool Congress MLA Resigns Amid Corruption Allegations",
-      "West Bengal Logs 1,500 New COVID Cases, 20 Deaths",
-      "Farmer Suicides on the Rise in West Bengal",
-      "West Bengal's Education Department Launches Digital Literacy Drive",
-      "Experts Urge Govt to Act on Urban Flood Mitigation",
-      "Nabanna Party Leaders Meet with CM Mamata Banerjee",
-      "CITU Protests Against Land Acquisition for Industrial Projects"
+      "Farmers Protest against Land Acquisition",
+      "Municipal Corporation's Water Supply Scheme Fails",
+      "Teachers' Strike Affects School Education",
+      "New Medical College to be Set Up in Malda",
+      "River Ganga Cleanup Efforts Hit Roadblock",
+      "Government Announces New Initiative for Rural Health",
+      "Traffic Disrupted on Highway Due to Protests",
+      "Kolkata Residents Complain of Irregular Water Supply"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Farmer Suicide Crisis",
+        "topic": "Supreme Court order on Singur land acquisition",
         "state_narrative": {
-          "headline": "West Bengal: Farmer Suicides on the Rise, Government Claims Efforts to Help",
-          "summary": "According to ABP Ananda, the West Bengal government has claimed that it is taking steps to prevent farmer suicides, citing a decline in the number of cases. However, the opposition has accused the government of not doing enough to support farmers.",
-          "sources": [
-            "ABP Ananda"
-          ]
+          "headline": "Zee News: 'Supreme Court Upholds Land Acquisition in Singur'",
+          "summary": "According to Zee News, the Supreme Court has upheld the land acquisition in Singur, West Bengal, allowing the government to take over the land for industrial purposes.",
+          "sources": "Zee News"
         },
         "verified_record": {
-          "headline": "West Bengal's Farmer Suicide Crisis: A Closer Look at the Data",
-          "summary": "According to FactChecker.in, a data analysis of farmer suicides in West Bengal shows that the number of cases has actually increased in the past year, contrary to the government's claims. The analysis also highlights the lack of support for farmers in the state.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "the opposition's accusations"
-          ],
-          "data_check": "Data from the National Crime Records Bureau (NCRB) and the West Bengal government's own statistics show an increase in farmer suicides in the past year."
+          "headline": "The Wire: 'Supreme Court Verdict on Singur Land Acquisition: Key Takeaways'",
+          "summary": "According to The Wire, the Supreme Court has delivered a split verdict on the Singur land acquisition case, with a majority ruling that the land acquisition was valid. However, the court also noted that the government had not followed due process in acquiring the land.",
+          "sources": "The Wire, Supreme Court order",
+          "what_was_omitted": "The Wire's report highlighted the complexities of the case and the differing opinions of the judges, whereas Zee News' report focused solely on the upholding of the land acquisition.",
+          "data_check": "CAG report on land acquisition procedures"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The Zee News report lacked context on the complexities of the case and the differing opinions of the judges.",
+          "missing_context": "The Wire's report provided a more nuanced understanding of the verdict and its implications."
+        }
+      },
+      {
+        "topic": "West Bengal government's COVID-19 vaccination drive",
+        "state_narrative": {
+          "headline": "News18 Bangla: 'West Bengal Government's COVID-19 Vaccination Drive: 100% Coverage Claimed'",
+          "summary": "According to News18 Bangla, the West Bengal government has claimed to have achieved 100% COVID-19 vaccination coverage in the state.",
+          "sources": "News18 Bangla"
+        },
+        "verified_record": {
+          "headline": "FactChecker.in: 'West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Government's Claim'",
+          "summary": "According to FactChecker.in, the West Bengal government's claim of 100% COVID-19 vaccination coverage is misleading, as the actual data shows that while vaccination rates are high, there are still some areas with low coverage.",
+          "sources": "FactChecker.in, official vaccination data",
+          "what_was_omitted": "News18 Bangla's report did not provide a clear breakdown of the vaccination data, whereas FactChecker.in's report provided a detailed analysis of the actual vaccination rates.",
+          "data_check": "NFHS data on vaccination rates"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claims of a decline in farmer suicides are contradicted by the data.",
-          "missing_context": "The opposition's accusations against the government are not supported by evidence."
+          "key_gap": "News18 Bangla's report lacked a clear breakdown of the vaccination data, which is crucial in understanding the actual coverage.",
+          "missing_context": "FactChecker.in's report provided a more detailed and accurate analysis of the vaccination data."
         }
       },
       {
-        "topic": "West Bengal's Education System",
+        "topic": "Mamata Banerjee's education policies",
         "state_narrative": {
-          "headline": "West Bengal's Education System: A Model for Others?",
-          "summary": "According to Zee News, West Bengal's education system is a model for other states to follow, with the state government's efforts to improve education yielding results. However, critics point out that the system is plagued by corruption and inefficiency.",
-          "sources": [
-            "Zee News"
-          ]
+          "headline": "ABP Ananda: 'Mamata Banerjee's Education Policies: A Game-Changer for West Bengal'",
+          "summary": "According to ABP Ananda, Mamata Banerjee's education policies have been a game-changer for West Bengal, with a focus on improving infrastructure and increasing enrollment.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "West Bengal's Education System: A Closer Look at the Numbers",
-          "summary": "According to Article 14, an analysis of the West Bengal government's education expenditure and student outcomes reveals a lack of transparency and accountability in the system. The analysis also highlights the need for reforms to address corruption and inefficiency.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "the government's claims of success"
-          ],
-          "data_check": "Data from the West Bengal government's own reports and independent studies show a need for reforms in the education system."
+          "headline": "The Quint: 'Mamata Banerjee's Education Policies: A Critical Analysis'",
+          "summary": "According to The Quint, while Mamata Banerjee's education policies have some positive aspects, they also have several critical flaws, including a lack of focus on teacher training and infrastructure development.",
+          "sources": "The Quint, official education data",
+          "what_was_omitted": "ABP Ananda's report did not provide a balanced analysis of the education policies, whereas The Quint's report highlighted both the positives and negatives.",
+          "data_check": "MOSPI data on education infrastructure"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's claims of success in improving education are not supported by the data.",
-          "missing_context": "The need for reforms in the education system is not adequately addressed."
-        }
-      },
-      {
-        "topic": "West Bengal's COVID-19 Vaccination Efforts",
-        "state_narrative": {
-          "headline": "West Bengal: COVID-19 Vaccination Efforts on Track?",
-          "summary": "According to Republic TV, West Bengal's COVID-19 vaccination efforts are on track, with the state government's efforts to vaccinate the population yielding results. However, experts point out that the vaccination drive is still lagging behind the national average.",
-          "sources": [
-            "Republic TV"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Efforts: A Closer Look at the Data",
-          "summary": "According to The Quint, an analysis of the West Bengal government's vaccination data reveals that the state is still lagging behind the national average in terms of vaccination rates. The analysis also highlights the need for a more aggressive vaccination drive.",
-          "sources": [
-            "The Quint"
-          ],
-          "what_was_omitted": [
-            "the government's claims of success"
-          ],
-          "data_check": "Data from the West Bengal government's own reports and independent studies show a need for a more aggressive vaccination drive."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's claims of success in the vaccination drive are not supported by the data.",
-          "missing_context": "The need for a more aggressive vaccination drive is not adequately addressed."
+          "key_gap": "ABP Ananda's report lacked a balanced analysis of the education policies, whereas The Quint's report provided a more nuanced understanding of the policies' implications.",
+          "missing_context": "The Quint's report provided a more detailed and critical analysis of the education policies."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Inflation soars: Rice prices hike by 22% in past month",
-        "bullets": [
-          "Inflation rate for essential commodities has touched 5.5%",
-          "Rice prices have increased by 22% in the last month alone",
-          "This means an average household will have to pay Rs. 100 more for 5 kg of rice"
-        ],
-        "source": "Reserve Bank of India's Consumer Price Index data",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Health",
-        "headline": "Malaria cases surge: 50% increase in past 2 months",
-        "bullets": [
-          "According to data from the National Health Mission, 1,500 cases have been reported in the past 2 months",
-          "The state government has attributed the increase to heavy rainfall and flooding",
-          "This means more people will be affected by the disease, putting pressure on healthcare facilities"
-        ],
-        "source": "National Health Mission data",
-        "status": "CONFIRMED",
-        "impact_score": 9
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power cuts to worsen: 30% of state's power infrastructure in danger",
-        "bullets": [
-          "According to a report by the Power Finance Corporation, 30% of the state's power infrastructure is in danger of collapse",
-          "The report cites the aging of power infrastructure and lack of maintenance as major reasons",
-          "This means more frequent and longer power cuts, affecting businesses and households"
-        ],
-        "source": "Power Finance Corporation report",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Education",
-        "headline": "Teacher vacancies soar: 1,200 positions vacant in state schools",
-        "bullets": [
-          "According to a report by the Teachers' Association, 1,200 teacher positions are vacant in state schools",
-          "The report cites the state government's inability to fill these positions as a major reason",
-          "This means students will suffer from a lack of quality education, affecting their future prospects"
-        ],
-        "source": "Teachers' Association report",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Environment",
-        "headline": "River pollution soars: 20% increase in toxic waste",
-        "bullets": [
-          "According to data from the West Bengal Pollution Control Board, 20% more toxic waste has been dumped into rivers",
-          "The data cites the increase in industrial activity and lack of enforcement as major reasons",
-          "This means the environment will suffer, affecting wildlife and human health"
-        ],
-        "source": "West Bengal Pollution Control Board data",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Labor",
-        "headline": "Farmers protest: 5,000 farmers gather in capital",
-        "bullets": [
-          "According to reports, 5,000 farmers have gathered in the capital to protest against government policies",
-          "The protesters are demanding better prices for their crops and more support from the government",
-          "This means the government will have to address the concerns of the farmers, affecting agricultural policies"
-        ],
-        "source": "Indian Express report",
-        "status": "DEVELOPING",
-        "impact_score": 5
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Price Hike: State Govt Announces Emergency Measures",
+      "bullets": [
+        "The state government has announced a 10% reduction in rice prices",
+        "The reduction will benefit 10 lakh families across West Bengal",
+        "This means a Rs 10-20 reduction in the price of a 40-kg bag of rice for consumers"
+      ],
+      "source": "The Economic Times",
+      "status": "CONFIRMED",
+      "impact_score": 9
+    },
+    {
+      "category": "Jobs",
+      "headline": "State Govt Announces New Job Creation Scheme",
+      "bullets": [
+        "The scheme aims to create 50,000 new jobs in the next 6 months",
+        "The government will provide training and support to new entrepreneurs",
+        "This will help in reducing unemployment rates in the state"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "New Dengue Cases Spike in Kolkata",
+      "bullets": [
+        "Over 500 new cases have been reported in the past week",
+        "The state health department has activated emergency response teams",
+        "Residents are advised to take precautions and get vaccinated"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Environment",
+      "headline": "Pollution Levels in Hooghly River Continue to Rise",
+      "bullets": [
+        "The river's water quality has deteriorated by 30% in the past year",
+        "Industrial waste and sewage are major contributors to pollution",
+        "Residents and fishermen are affected by the poor water quality"
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Schools to Reopen on October 1",
+      "bullets": [
+        "The decision was taken after a meeting with teachers and parents",
+        "Students will be required to wear masks and follow social distancing",
+        "The government has promised to improve infrastructure and teacher training"
+      ],
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Transport",
+      "headline": "Trains to Run on Schedule After 3-Day Strike",
+      "bullets": [
+        "The strike by railway workers has ended after 72 hours",
+        "Services will resume at 6 am on Saturday",
+        "Passengers are advised to check schedules before traveling"
+      ],
+      "source": "PTI",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
