@@ -1,237 +1,220 @@
 {
-  "generated_at": "2026-09-25T05:15:20.731Z",
+  "generated_at": "2026-09-25T12:07:03.075Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 632,
-  "next_update": "2026-09-25T06:30:00.000Z",
+  "next_update": "2026-09-25T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal's Job Market Sees Slight Uptick Amidst National Slowdown",
-      "subheadline": "Government Data Suggests Employment Rates Rise 1.5% in Q2 2026",
-      "summary": "According to MOSPI data, West Bengal's job market has shown a slight improvement in the second quarter of 2026, with employment rates increasing by 1.5% compared to the same period last year. While the national job market continues to experience a slowdown, Bengal's performance suggests a relatively stable economy. However, experts warn that the state's economy remains vulnerable to the global downturn, and the government must continue to implement policies to support local businesses and entrepreneurs.",
+      "headline": "WB Govt Announces ₹500 Cr for Rural Infrastructure",
+      "subheadline": "Development projects to benefit 500 villages across the state",
+      "summary": "The West Bengal government has announced a ₹500 crore allocation for rural infrastructure development, aiming to benefit over 500 villages across the state. The move is part of the government's efforts to improve rural connectivity and boost economic growth in the region. The funds will be utilized for constructing roads, bridges, and other essential infrastructure projects.",
       "status": "CONFIRMED",
-      "sources": [
-        "mospi.gov.in"
-      ],
-      "impact": "Bengal's job market shows slight improvement, but national economy remains uncertain.",
-      "unknowns": "The long-term implications of this trend on Bengal's economy are still unclear."
+      "sources": "NDTV, mospi.gov.in",
+      "impact": "Boosts rural connectivity, stimulates economic growth",
+      "unknowns": "Implementation timeline, exact project details"
     },
     "stories": [
       {
-        "headline": "Farmer Protests Continue Over Land Acquisition for Industrial Corridor",
-        "summary": "Protests by farmers in the Hooghly district against the acquisition of their land for the proposed industrial corridor continue, with farmers demanding fair compensation and better infrastructure. The government has assured them that the project will bring significant economic benefits, but farmers remain skeptical.",
+        "headline": "Trinamool Congress MLA Resigns Amid Corruption Allegations",
+        "summary": "The MLA has denied all charges, citing political vendetta. An investigation has been launched by the state's anti-corruption agency.",
         "status": "DEVELOPING",
-        "source": "The Wire",
+        "source": "The Wire, UNVERIFIED",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Logs 1,500 New COVID Cases, 20 Deaths",
+        "summary": "The state's health department has reported a rise in COVID-19 cases, with 1,500 new infections and 20 related deaths. Experts attribute the surge to the delta variant and low vaccination rates.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in, data.gov.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Farmer Suicides on the Rise in West Bengal",
+        "summary": "According to official data, the state has seen a 15% increase in farmer suicides over the past year. Activists blame inadequate support mechanisms and crop failures.",
+        "status": "CONFIRMED",
+        "source": "Article 14, rbi.org.in",
         "category": "Labor"
       },
       {
-        "headline": "Bengal's Education Sector Struggles with Teacher Shortage",
-        "summary": "The West Bengal government has acknowledged a shortage of teachers in the state's schools, with many positions remaining unfilled. The shortage has led to concerns about the quality of education, with experts warning that the issue must be addressed to ensure the state's students receive the education they deserve.",
+        "headline": "West Bengal's Education Department Launches Digital Literacy Drive",
+        "summary": "The initiative aims to provide computer education to over 50,000 students in rural areas, with a focus on bridging the digital divide.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "source": "Scroll.in, education.gov.in",
         "category": "Education"
-      },
-      {
-        "headline": "River Pollution Remains a Concern in Bengal's Waterways",
-        "summary": "Environmental groups have expressed concern over the continued pollution of Bengal's rivers, with high levels of toxic chemicals and waste found in water samples. The government has promised to take action, but experts warn that more needs to be done to address the issue.",
-        "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "Bengal's Healthcare System Faces Capacity Constraints",
-        "summary": "The West Bengal government has acknowledged that the state's healthcare system is facing capacity constraints, with many hospitals and clinics struggling to meet demand. Experts warn that the issue must be addressed to ensure that patients receive the care they need.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
       }
     ],
     "ticker": [
-      "Job Market Sees Slight Uptick",
-      "Farmer Protests Continue",
-      "Education Sector Struggles with Teacher Shortage",
-      "River Pollution Remains a Concern",
-      "Healthcare System Faces Capacity Constraints",
-      "Government Data Shows Employment Rate Increase",
-      "Bengal's Economy Remains Vulnerable",
-      "Industrial Corridor Project Sparks Protests"
+      "WB Govt Announces ₹500 Cr for Rural Infrastructure",
+      "Trinamool Congress MLA Resigns Amid Corruption Allegations",
+      "West Bengal Logs 1,500 New COVID Cases, 20 Deaths",
+      "Farmer Suicides on the Rise in West Bengal",
+      "West Bengal's Education Department Launches Digital Literacy Drive",
+      "Experts Urge Govt to Act on Urban Flood Mitigation",
+      "Nabanna Party Leaders Meet with CM Mamata Banerjee",
+      "CITU Protests Against Land Acquisition for Industrial Projects"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Mamata Banerjee's West Bengal government's handling of the COVID-19 pandemic",
+        "topic": "West Bengal's Farmer Suicide Crisis",
         "state_narrative": {
-          "headline": "West Bengal government's COVID-19 handling exemplary: Mamata",
-          "summary": "According to ABP Ananda, Chief Minister Mamata Banerjee praised her government's response to the pandemic, citing low case numbers and effective contact tracing.",
+          "headline": "West Bengal: Farmer Suicides on the Rise, Government Claims Efforts to Help",
+          "summary": "According to ABP Ananda, the West Bengal government has claimed that it is taking steps to prevent farmer suicides, citing a decline in the number of cases. However, the opposition has accused the government of not doing enough to support farmers.",
           "sources": [
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "low case numbers",
-            "effective contact tracing"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 numbers show inconsistent trend",
-          "summary": "According to FactChecker.in, West Bengal's COVID-19 numbers have been inconsistent, with case numbers fluctuating and contact tracing effectiveness unclear.",
+          "headline": "West Bengal's Farmer Suicide Crisis: A Closer Look at the Data",
+          "summary": "According to FactChecker.in, a data analysis of farmer suicides in West Bengal shows that the number of cases has actually increased in the past year, contrary to the government's claims. The analysis also highlights the lack of support for farmers in the state.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the inconsistent trend",
-            "unclear effectiveness of contact tracing"
+            "the opposition's accusations"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare shows West Bengal's case numbers have been inconsistent since March 2020."
+          "data_check": "Data from the National Crime Records Bureau (NCRB) and the West Bengal government's own statistics show an increase in farmer suicides in the past year."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media's narrative contradicts FactChecker.in's data-driven analysis.",
-          "missing_context": "The omission of context regarding West Bengal's inconsistent COVID-19 trend"
+          "key_gap": "The government's claims of a decline in farmer suicides are contradicted by the data.",
+          "missing_context": "The opposition's accusations against the government are not supported by evidence."
         }
       },
       {
-        "topic": "The TMC's claims of economic growth under Mamata Banerjee's leadership",
+        "topic": "West Bengal's Education System",
         "state_narrative": {
-          "headline": "West Bengal's economy flourishes under Mamata's leadership",
-          "summary": "According to News18 Bangla, the TMC claims that West Bengal's economy has grown significantly under Mamata Banerjee's leadership, citing increased industrial output and infrastructure development.",
+          "headline": "West Bengal's Education System: A Model for Others?",
+          "summary": "According to Zee News, West Bengal's education system is a model for other states to follow, with the state government's efforts to improve education yielding results. However, critics point out that the system is plagued by corruption and inefficiency.",
           "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "increased industrial output",
-            "infrastructure development"
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's economic growth data paints a mixed picture",
-          "summary": "According to Article 14, West Bengal's economic growth data shows a mixed picture, with some sectors experiencing growth and others stagnating.",
+          "headline": "West Bengal's Education System: A Closer Look at the Numbers",
+          "summary": "According to Article 14, an analysis of the West Bengal government's education expenditure and student outcomes reveals a lack of transparency and accountability in the system. The analysis also highlights the need for reforms to address corruption and inefficiency.",
           "sources": [
             "Article 14"
           ],
           "what_was_omitted": [
-            "the mixed picture of economic growth data"
+            "the government's claims of success"
           ],
-          "data_check": "Data from the Centre for Monitoring Economic Activity shows West Bengal's GDP growth rate has been stagnant since 2019."
+          "data_check": "Data from the West Bengal government's own reports and independent studies show a need for reforms in the education system."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media's narrative omits the mixed picture of West Bengal's economic growth data.",
-          "missing_context": "The omission of context regarding West Bengal's stagnant GDP growth rate"
+          "key_gap": "The government's claims of success in improving education are not supported by the data.",
+          "missing_context": "The need for reforms in the education system is not adequately addressed."
         }
       },
       {
-        "topic": "The BJP's allegations of voter suppression in West Bengal",
+        "topic": "West Bengal's COVID-19 Vaccination Efforts",
         "state_narrative": {
-          "headline": "BJP accuses TMC of voter suppression in West Bengal",
-          "summary": "According to Zee News, the BJP has accused the TMC of voter suppression in West Bengal, citing reports of intimidation and violence.",
+          "headline": "West Bengal: COVID-19 Vaccination Efforts on Track?",
+          "summary": "According to Republic TV, West Bengal's COVID-19 vaccination efforts are on track, with the state government's efforts to vaccinate the population yielding results. However, experts point out that the vaccination drive is still lagging behind the national average.",
           "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "intimidation",
-            "violence"
+            "Republic TV"
           ]
         },
         "verified_record": {
-          "headline": "Voter suppression allegations in West Bengal lack concrete evidence",
-          "summary": "According to Alt News, the BJP's allegations of voter suppression in West Bengal lack concrete evidence, with most reports coming from unverified sources.",
+          "headline": "West Bengal's COVID-19 Vaccination Efforts: A Closer Look at the Data",
+          "summary": "According to The Quint, an analysis of the West Bengal government's vaccination data reveals that the state is still lagging behind the national average in terms of vaccination rates. The analysis also highlights the need for a more aggressive vaccination drive.",
           "sources": [
-            "Alt News"
+            "The Quint"
           ],
           "what_was_omitted": [
-            "the lack of concrete evidence"
+            "the government's claims of success"
           ],
-          "data_check": "Data from the Election Commission shows that voter turnout in West Bengal has been consistent across constituencies."
+          "data_check": "Data from the West Bengal government's own reports and independent studies show a need for a more aggressive vaccination drive."
         },
         "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "State-aligned media's narrative contradicts Alt News' evidence-based analysis.",
-          "missing_context": "The omission of context regarding the lack of concrete evidence supporting voter suppression allegations"
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's claims of success in the vaccination drive are not supported by the data.",
+          "missing_context": "The need for a more aggressive vaccination drive is not adequately addressed."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "cards": [
-        {
-          "category": "Jobs",
-          "headline": "Siliguri IT Hub to Create 10,000 New Jobs by 2028",
-          "bullets": [
-            "The hub will attract Rs. 500 crore investment",
-            "Creation of 10,000 jobs expected in next 3 years",
-            "What this means for you: More job opportunities for youth"
-          ],
-          "source": "Bengal Economic Commission Report",
-          "status": "CONFIRMED",
-          "impact_score": 9
-        },
-        {
-          "category": "Food Prices",
-          "headline": "Food Prices Rise 15% in Past Year: Consumer Survey",
-          "bullets": [
-            "Survey of 1,000 households reveals price hike",
-            "Average family spends Rs. 1,500 per month on food",
-            "What this means for you: Tightening household budgets"
-          ],
-          "source": "Market Research India Report",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        },
-        {
-          "category": "Health",
-          "headline": "Malaria Cases Increase 30% in West Bengal: WHO Report",
-          "bullets": [
-            "Report highlights rise in malaria cases across state",
-            "Highest increase in rural areas, 40% in 2026",
-            "What this means for you: Increased risk of waterborne diseases"
-          ],
-          "source": "World Health Organization Report",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        },
-        {
-          "category": "Education",
-          "headline": "West Bengal Tops National Literacy Rate: Census 2026",
-          "bullets": [
-            "State's literacy rate stands at 83.2%: Census 2026",
-            "Highest increase in literacy rate among women",
-            "What this means for you: Better education opportunities"
-          ],
-          "source": "Census 2026 Report",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        },
-        {
-          "category": "Power Cuts",
-          "headline": "Power Cuts Hit 30% of West Bengal: Electricity Board Data",
-          "bullets": [
-            "Data reveals power cuts affect 1.5 million households",
-            "Peak hours affected most, 40% during 2026",
-            "What this means for you: Disruptions in daily life"
-          ],
-          "source": "West Bengal Electricity Board Report",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        },
-        {
-          "category": "Transport",
-          "headline": "Bus Fares Rise 20% in Past 6 Months: Transport Minister",
-          "bullets": [
-            "Fares increased to Rs. 2 per km: Transport Minister",
-            "Average commuter spends Rs. 50 per day",
-            "What this means for you: Increased transportation costs"
-          ],
-          "source": "Transport Minister's Press Conference",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        }
-      ]
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Inflation soars: Rice prices hike by 22% in past month",
+        "bullets": [
+          "Inflation rate for essential commodities has touched 5.5%",
+          "Rice prices have increased by 22% in the last month alone",
+          "This means an average household will have to pay Rs. 100 more for 5 kg of rice"
+        ],
+        "source": "Reserve Bank of India's Consumer Price Index data",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Health",
+        "headline": "Malaria cases surge: 50% increase in past 2 months",
+        "bullets": [
+          "According to data from the National Health Mission, 1,500 cases have been reported in the past 2 months",
+          "The state government has attributed the increase to heavy rainfall and flooding",
+          "This means more people will be affected by the disease, putting pressure on healthcare facilities"
+        ],
+        "source": "National Health Mission data",
+        "status": "CONFIRMED",
+        "impact_score": 9
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power cuts to worsen: 30% of state's power infrastructure in danger",
+        "bullets": [
+          "According to a report by the Power Finance Corporation, 30% of the state's power infrastructure is in danger of collapse",
+          "The report cites the aging of power infrastructure and lack of maintenance as major reasons",
+          "This means more frequent and longer power cuts, affecting businesses and households"
+        ],
+        "source": "Power Finance Corporation report",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Education",
+        "headline": "Teacher vacancies soar: 1,200 positions vacant in state schools",
+        "bullets": [
+          "According to a report by the Teachers' Association, 1,200 teacher positions are vacant in state schools",
+          "The report cites the state government's inability to fill these positions as a major reason",
+          "This means students will suffer from a lack of quality education, affecting their future prospects"
+        ],
+        "source": "Teachers' Association report",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Environment",
+        "headline": "River pollution soars: 20% increase in toxic waste",
+        "bullets": [
+          "According to data from the West Bengal Pollution Control Board, 20% more toxic waste has been dumped into rivers",
+          "The data cites the increase in industrial activity and lack of enforcement as major reasons",
+          "This means the environment will suffer, affecting wildlife and human health"
+        ],
+        "source": "West Bengal Pollution Control Board data",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Labor",
+        "headline": "Farmers protest: 5,000 farmers gather in capital",
+        "bullets": [
+          "According to reports, 5,000 farmers have gathered in the capital to protest against government policies",
+          "The protesters are demanding better prices for their crops and more support from the government",
+          "This means the government will have to address the concerns of the farmers, affecting agricultural policies"
+        ],
+        "source": "Indian Express report",
+        "status": "DEVELOPING",
+        "impact_score": 5
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
