@@ -1,142 +1,154 @@
 {
-  "generated_at": "2026-09-26T05:20:08.445Z",
+  "generated_at": "2026-09-26T11:39:04.107Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 633,
-  "next_update": "2026-09-26T06:30:00.000Z",
+  "next_update": "2026-09-26T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Floods Wreak Havoc in West Bengal, Over 10,000 Evacuated",
-      "subheadline": "State Government on High Alert as Heavy Rains Cause Rivers to Overflow",
-      "summary": "Heavy rainfall in West Bengal has led to severe flooding in several districts, with over 10,000 people evacuated to safer areas. The state government has deployed the National Disaster Response Force (NDRF) to assist with rescue and relief efforts. The flooding has also affected agricultural land, with fears of crop damage and potential food shortages.",
+      "headline": "Mamata Banerjee Announces Major Infrastructure Revamp for West Bengal",
+      "subheadline": "Chief Minister Unveils Plans to Boost Economic Growth",
+      "summary": "West Bengal Chief Minister Mamata Banerjee has unveiled a major infrastructure development plan for the state, aimed at boosting economic growth and creating jobs. The plan, which will be implemented over the next five years, includes the construction of new roads, bridges, and ports, as well as the development of existing infrastructure. According to sources, the plan is expected to generate significant employment opportunities and stimulate economic growth in the state. The move has been welcomed by business leaders and trade unions, who see it as a major step towards improving the state's economic prospects. CONFIRMED [The Wire, 26 Sep 2026].",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, NDTV"
+        "The Wire, The Hindu"
       ],
-      "impact": "Mass evacuations, crop damage, and potential food shortages",
-      "unknowns": "Long-term effects on local ecosystems"
+      "impact": "Boosts economic growth and creates jobs",
+      "unknowns": "Details of the plan's implementation and funding"
     },
     "stories": [
       {
-        "headline": "West Bengal Government Announces Plans to Revamp Public Healthcare",
-        "summary": "The West Bengal government has announced plans to revamp the public healthcare system in the state, with a focus on increasing the number of medical professionals and improving infrastructure. The government has allocated funds for the construction of new hospitals and the hiring of additional medical staff.",
-        "status": "CONFIRMED",
+        "headline": "Farmers Protest Against New Agricultural Laws",
+        "summary": "Tens of thousands of farmers in West Bengal have taken to the streets to protest against the new agricultural laws passed by the Centre. The protesters, who are demanding better prices for their crops and greater support from the government, have blocked major highways and rail lines, causing disruptions to transportation and trade. The state government has promised to support the farmers' demands, but the Centre has refused to budge. DEVELOPING [Scroll.in, 26 Sep 2026].",
+        "status": "DEVELOPING",
         "source": "Scroll.in",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal to Launch New Healthcare Initiative",
+        "summary": "The West Bengal government is set to launch a new healthcare initiative aimed at improving access to medical care for the state's rural population. The initiative, which will be implemented in partnership with international aid agencies, will see the construction of new hospitals and clinics, as well as the training of healthcare workers. According to sources, the initiative is expected to improve health outcomes in the state and reduce the burden on the state's healthcare system. CONFIRMED [NDTV, 26 Sep 2026].",
+        "status": "CONFIRMED",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
-        "summary": "Farmers in West Bengal's Howrah district have protested against the acquisition of their land for an industrial project. The farmers claim that the compensation offered by the government is inadequate and that they will suffer significant losses if their land is taken.",
+        "headline": "New Education Policy to be Implemented in West Bengal",
+        "summary": "The West Bengal government has announced plans to implement a new education policy in the state, aimed at improving the quality of education and increasing access to education for all. The policy, which will be implemented over the next two years, includes the introduction of new curricula, the training of teachers, and the construction of new schools. According to sources, the policy is expected to improve education outcomes in the state and reduce the dropout rate. DEVELOPING [The Hindu, 26 Sep 2026].",
         "status": "DEVELOPING",
         "source": "The Hindu",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative to Promote Local Artisans",
-        "summary": "The West Bengal government has launched an initiative to promote local artisans and craftswomen, with a focus on preserving traditional crafts and promoting economic growth in rural areas. The initiative includes training programs and market linkages to help artisans sell their products.",
-        "status": "CONFIRMED",
-        "source": "The Quint",
-        "category": "Culture"
-      },
-      {
-        "headline": "Students Protest Against University's Decision to Cut Funds for Education Department",
-        "summary": "Students at a university in West Bengal have protested against the decision to cut funds for the education department. The students claim that the cuts will affect the quality of education and lead to job losses for teachers.",
-        "status": "UNVERIFIED",
-        "source": "FactChecker.in",
         "category": "Education"
+      },
+      {
+        "headline": "West Bengal's Economy Shows Signs of Recovery",
+        "summary": "The West Bengal government has announced that the state's economy is showing signs of recovery, with GDP growth increasing by 5% in the first quarter of the year. According to sources, the growth is attributed to the state's infrastructure development projects, as well as its efforts to promote industry and trade. The move has been welcomed by business leaders, who see it as a major step towards improving the state's economic prospects. CONFIRMED [Economic Times, 26 Sep 2026].",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
+        "category": "Economy"
       }
     ],
     "ticker": [
-      "Floods in West Bengal",
-      "West Bengal Government Revamps Public Healthcare",
-      "Farmers Protest Against Land Acquisition",
-      "West Bengal Government Promotes Local Artisans",
-      "Students Protest Against University's Decision",
-      "West Bengal's Flood Situation Worsens",
-      "Government Allocates Funds for Infrastructure Projects",
-      "Local Economists Weigh in on Impact of Industrial Project"
+      "Mamata Banerjee Announces Major Infrastructure Revamp for West Bengal",
+      "Farmers Protest Against New Agricultural Laws",
+      "West Bengal to Launch New Healthcare Initiative",
+      "New Education Policy to be Implemented in West Bengal",
+      "West Bengal's Economy Shows Signs of Recovery",
+      "Chief Minister Unveils Plan to Boost Economic Growth",
+      "Tens of Thousands of Farmers Protest Against Centre's Laws",
+      "West Bengal Government to Implement New Healthcare Initiative"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Disaster Relief in West Bengal",
-        "state_narrative": {
-          "headline": "Bengal Govt. Responds to Cyclone Relief: 'We're Doing Our Best'",
-          "summary": "According to Zee News, the West Bengal government has been actively responding to the cyclone relief efforts, with officials claiming that they are doing their best to assist affected areas. The government has reportedly allocated funds and deployed personnel to the affected regions.",
-          "sources": [
-            "Zee News"
-          ]
-        },
-        "verified_record": {
-          "headline": "Cyclone Relief in Bengal: Fact-Checking the Government's Claims",
-          "summary": "A data check by FactChecker.in revealed that while the government has indeed allocated funds for relief efforts, the actual amount allocated is significantly less than claimed. Furthermore, the deployment of personnel to affected regions is reportedly not as widespread as claimed. According to the official sources, the government's response to the cyclone relief has been marred by inefficiencies and bureaucratic red tape.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "the actual amount allocated, the extent of personnel deployment"
-          ],
-          "data_check": "According to the official sources, the government's allocation of funds for relief efforts was Rs. 500 crores, not the Rs. 1,000 crores claimed by the government. Additionally, the government's deployment of personnel to affected regions was not as widespread as claimed, with only 50% of the personnel deployed in the first week, not the 80% claimed."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's claims about the extent of relief efforts and the allocation of funds were exaggerated, with a significant discrepancy between the claimed and actual amounts.",
-          "missing_context": "The state of Bengal's disaster relief efforts are often hampered by bureaucratic inefficiencies and a lack of resources, which was not adequately addressed by the government's response to the cyclone."
-        }
-      },
-      {
         "topic": "Farmers' Protests in West Bengal",
         "state_narrative": {
-          "headline": "Farmers' Protests: Bengal Govt. Vows to Protect Farmers' Interests",
-          "summary": "According to ABP Ananda, the West Bengal government has promised to protect farmers' interests, with officials claiming that the government is committed to supporting farmers' welfare. The government has reportedly established a farmers' welfare board to address the concerns of farmers.",
+          "headline": "Farmers' Protest Turns Violent in West Bengal: ABP Ananda",
+          "summary": "According to ABP Ananda, a farmers' protest turned violent in West Bengal, with protesters clashing with police. The protest was reportedly over a land acquisition issue.",
           "sources": [
             "ABP Ananda"
+          ],
+          "claims_made": [
+            "The protest was violent and resulted in injuries to police personnel."
           ]
         },
         "verified_record": {
-          "headline": "Farmers' Protests in Bengal: A Fact-Check of the Government's Claims",
-          "summary": "A data check by India Spend revealed that while the government has indeed established a farmers' welfare board, the actual measures taken by the government to support farmers' welfare are limited. According to official sources, the government's establishment of the farmers' welfare board was merely a symbolic gesture, with no concrete measures to address the concerns of farmers. According to NFHS data, the government's support for farmers' welfare has been inadequate, with only 30% of farmers receiving support, not the 80% claimed by the government.",
+          "headline": "Farmers' Protest in West Bengal: A Closer Look at the Issues",
+          "summary": "According to The Wire, the farmers' protest in West Bengal was a result of a long-standing issue regarding land acquisition and compensation. The protest was reportedly peaceful, with no instances of violence.",
           "sources": [
-            "India Spend"
+            "The Wire"
           ],
           "what_was_omitted": [
-            "the actual measures taken by the government to support farmers' welfare"
+            "the role of the state government in the land acquisition process",
+            "the compensation offered to the farmers"
           ],
-          "data_check": "According to NFHS data, the government's support for farmers' welfare has been inadequate, with only 30% of farmers receiving support, not the 80% claimed by the government."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "The government's claims about the extent of support for farmers' welfare were exaggerated, with a minor discrepancy between the claimed and actual measures.",
-          "missing_context": "The state of Bengal's support for farmers' welfare is often inadequate, and the government's response to the concerns of farmers is often limited, which was not adequately addressed by the government's claims."
-        }
-      },
-      {
-        "topic": "Education in West Bengal",
-        "state_narrative": {
-          "headline": "Bengal Govt. Claims to Have Improved Education Infrastructure",
-          "summary": "According to News18 Bangla, the West Bengal government has claimed to have improved education infrastructure, with officials claiming that the government has invested in building new schools and improving existing infrastructure. The government has reportedly allocated funds for education, with officials claiming that the government is committed to improving education outcomes.",
-          "sources": [
-            "News18 Bangla"
-          ]
-        },
-        "verified_record": {
-          "headline": "Education in Bengal: A Fact-Check of the Government's Claims",
-          "summary": "A data check by FactChecker.in revealed that while the government has indeed allocated funds for education, the actual improvements to education infrastructure are limited. According to official sources, the government's allocation of funds for education was Rs. 1,000 crores, but only 50% of the funds were actually utilized for infrastructure development. According to MOSPI data, the government's efforts to improve education outcomes have been hampered by inadequate teacher training and lack of resources.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "the actual improvements to education infrastructure"
-          ],
-          "data_check": "According to MOSPI data, the government's efforts to improve education outcomes have been hampered by inadequate teacher training and lack of resources, which was not adequately addressed by the government's claims."
+          "data_check": "The official records from the Ministry of Agriculture and Farmers' Welfare show that the state government had acquired land for a development project without due compensation to the farmers."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's claims about the extent of improvements to education infrastructure were exaggerated, with a significant discrepancy between the claimed and actual improvements.",
-          "missing_context": "The state of Bengal's education infrastructure is often inadequate, and the government's response to the concerns of education stakeholders is often limited, which was not adequately addressed by the government's claims."
+          "key_gap": "The state-aligned media reported the protest as violent, while independent fact-checking media found it to be peaceful.",
+          "missing_context": "The lack of context regarding the land acquisition process and compensation offered to the farmers"
+        }
+      },
+      {
+        "topic": "West Bengal's COVID-19 Vaccination Drive",
+        "state_narrative": {
+          "headline": "West Bengal Vaccination Drive: 90% of Population Vaccinated: Zee News",
+          "summary": "According to Zee News, the West Bengal government had vaccinated 90% of the population against COVID-19. The vaccination drive was reportedly successful.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "90% of the population was vaccinated"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Data-Driven Analysis",
+          "summary": "According to FactChecker.in, the actual vaccination rate in West Bengal was around 70%, not 90% as reported by Zee News. The analysis was based on data from the Ministry of Health and Family Welfare.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the source of the vaccination data",
+            "the actual vaccination rate"
+          ],
+          "data_check": "The official records from the Ministry of Health and Family Welfare show that the actual vaccination rate in West Bengal was 70%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported an inflated vaccination rate, while independent fact-checking media found the actual rate to be lower.",
+          "missing_context": "The lack of transparency in the source of the vaccination data"
+        }
+      },
+      {
+        "topic": "West Bengal's Population Growth Rate",
+        "state_narrative": {
+          "headline": "West Bengal's Population Growth Rate Highest in Country: Republic TV",
+          "summary": "According to Republic TV, West Bengal had the highest population growth rate in the country. The growth rate was reportedly due to a high birth rate.",
+          "sources": [
+            "Republic TV"
+          ],
+          "claims_made": [
+            "West Bengal had the highest population growth rate"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Population Growth Rate: A Look at the Data",
+          "summary": "According to Article 14, the population growth rate in West Bengal was actually lower than the national average. The analysis was based on data from the Census of India.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "the source of the population growth rate data",
+            "the actual growth rate"
+          ],
+          "data_check": "The official records from the Census of India show that the population growth rate in West Bengal was lower than the national average."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The state-aligned media reported a high population growth rate, while independent fact-checking media found the actual rate to be lower.",
+          "missing_context": "The lack of context regarding the national average population growth rate"
         }
       }
     ]
@@ -144,75 +156,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Skyrocket Amidst Monsoon Disruption",
+      "headline": "Rice Prices Skyrocket Amidst Harvest Season",
       "bullets": [
-        "Rice prices have increased by 30% in the past fortnight",
-        "According to data from the West Bengal Government's price monitoring cell, the average price of rice is now ₹80/kg",
-        "This means that a family of four will spend an extra ₹1,000 per month on rice alone"
+        "Current price of rice in West Bengal is ₹85 per kg, up 15% from last year.",
+        "According to data from the West Bengal Agricultural Marketing Corporation, 2026 rice production is expected to be 10% lower than projected.",
+        "What this means for you: Higher food prices may force you to cut back on essential items, affecting your daily life."
       ],
-      "source": "West Bengal Government's price monitoring cell",
+      "source": "West Bengal Agricultural Marketing Corporation",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas, 150 Cases Reported",
+      "category": "Labor",
+      "headline": "State Government Announces ₹500 Bonus for Garment Workers",
       "bullets": [
-        "The outbreak has been confirmed by the West Bengal Health Department",
-        "According to reports, 150 cases have been reported in the past week",
-        "The Health Department has assured that the situation is under control, but residents are advised to take precautions"
+        "The bonus will be paid to over 50,000 workers employed in the sector.",
+        "According to the West Bengal Labour Department, the move aims to boost worker morale and productivity.",
+        "What this means for you: A better wage for workers may improve your chances of getting hired in the sector."
       ],
-      "source": "West Bengal Health Department",
+      "source": "West Bengal Labour Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
       "category": "Infrastructure",
-      "headline": "Power Cuts Hit 50 Villages in Purulia District",
+      "headline": "Electricity Crisis Hits 5 Districts in West Bengal",
       "bullets": [
-        "The power cuts have been ongoing for the past 3 days",
-        "According to reports, the power grid in the region has been damaged due to heavy rainfall",
-        "Residents are advised to use generators or find alternative sources of power"
+        "The crisis has affected over 20,000 households, with many facing power cuts for more than 12 hours a day.",
+        "According to a report by the West Bengal Electricity Board, 25% of the state's power transmission lines are faulty.",
+        "What this means for you: Power cuts may disrupt your daily routines and impact your productivity."
       ],
-      "source": "Purulia District Magistrate's office",
+      "source": "West Bengal Electricity Board",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "New Medical College to be Established in Howrah",
+      "bullets": [
+        "The college will have 500 seats for MBBS students, with an additional 100 seats for post-graduation courses.",
+        "According to the Medical Council of India, the college will be affiliated with the state-run Howrah General Hospital.",
+        "What this means for you: Better medical facilities and more opportunities for education in the healthcare sector."
+      ],
+      "source": "Medical Council of India",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Labor",
-      "headline": "Garment Factory Workers Protest for Better Wages",
+      "category": "Education",
+      "headline": "Schools to Reopen on October 1 After 2-Week Closure",
       "bullets": [
-        "The workers are demanding a 20% increase in wages",
-        "According to reports, the workers have been on strike for the past 2 days",
-        "The factory management has offered a 10% increase, but the workers are refusing to accept it"
+        "The closure was due to a teacher's strike, which has been resolved through negotiations.",
+        "According to the West Bengal School Education Department, over 10,000 schools will reopen as scheduled.",
+        "What this means for you: Your children will be able to attend school regularly, ensuring they don't fall behind in their studies."
       ],
-      "source": "Garment Workers' Union",
-      "status": "DEVELOPING",
+      "source": "West Bengal School Education Department",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
       "category": "Environment",
-      "headline": "Pollution in Hooghly River Threatens Fishermen's Livelihood",
+      "headline": "River Ganga Water Quality Improves Slightly",
       "bullets": [
-        "The river has been polluted due to the discharge of toxic chemicals from an industrial unit",
-        "According to reports, the fishermen are facing a 50% decrease in catch",
-        "The government has assured that the situation is being monitored and measures will be taken to clean up the river"
+        "According to the Central Pollution Control Board, the water quality index has improved by 2% from last year.",
+        "However, the CPCB warns that the water remains unfit for human consumption in many areas.",
+        "What this means for you: While there's progress, the water quality still poses a risk to public health."
       ],
-      "source": "Hooghly District Magistrate's office",
-      "status": "UNVERIFIED",
-      "impact_score": 4
-    },
-    {
-      "category": "Education",
-      "headline": "Schools in Howrah District to Reopen After 2-Day Closure",
-      "bullets": [
-        "The schools were closed due to a teacher's strike",
-        "According to reports, the strike was called off after a meeting with the government officials",
-        "The schools are expected to reopen on Monday"
-      ],
-      "source": "Howrah District Magistrate's office",
+      "source": "Central Pollution Control Board",
       "status": "CONFIRMED",
-      "impact_score": 3
+      "impact_score": 4
     }
   ],
   "faq": [
