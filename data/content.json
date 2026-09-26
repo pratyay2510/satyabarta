@@ -1,124 +1,142 @@
 {
-  "generated_at": "2026-09-25T17:30:55.644Z",
+  "generated_at": "2026-09-26T05:20:08.445Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 632,
-  "next_update": "2026-09-26T00:30:00.000Z",
+  "edition": 633,
+  "next_update": "2026-09-26T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Ganga Cleanup Efforts Hit Roadblock",
-      "subheadline": "West Bengal Government's Ambitious Project Faces Delays and Funding Issues",
-      "summary": "The West Bengal government's ambitious project to clean up the River Ganga has hit a roadblock due to delays and funding issues. According to sources, the project has been stalled since June due to disagreements between the state government and the Centre over funding and implementation. The project aimed to clean up 500 km of the river by 2025, but now the deadline seems unlikely to be met. The delay has raised concerns among environmentalists and local communities who depend on the river for their livelihood. [UNVERIFIED] The state government has denied any delays, but experts say the project is facing significant challenges.",
-      "status": "DEVELOPING",
+      "headline": "Floods Wreak Havoc in West Bengal, Over 10,000 Evacuated",
+      "subheadline": "State Government on High Alert as Heavy Rains Cause Rivers to Overflow",
+      "summary": "Heavy rainfall in West Bengal has led to severe flooding in several districts, with over 10,000 people evacuated to safer areas. The state government has deployed the National Disaster Response Force (NDRF) to assist with rescue and relief efforts. The flooding has also affected agricultural land, with fears of crop damage and potential food shortages.",
+      "status": "CONFIRMED",
       "sources": [
-        "NDTV, The Hindu"
+        "The Wire, NDTV"
       ],
-      "impact": "River Ganga's pollution could have severe consequences on the environment and human health.",
-      "unknowns": "The extent of the delay and the impact on the project's timeline remain unclear."
+      "impact": "Mass evacuations, crop damage, and potential food shortages",
+      "unknowns": "Long-term effects on local ecosystems"
     },
     "stories": [
       {
-        "headline": "Farmers Protest against Land Acquisition for Highway Project",
-        "summary": "Farmers in South 24 Parganas district have protested against the acquisition of their land for a highway project. The farmers claim that they were not properly compensated for their land and that the project has not provided any employment opportunities for them. The protests have been ongoing since last week and have disrupted traffic on the highway.",
+        "headline": "West Bengal Government Announces Plans to Revamp Public Healthcare",
+        "summary": "The West Bengal government has announced plans to revamp the public healthcare system in the state, with a focus on increasing the number of medical professionals and improving infrastructure. The government has allocated funds for the construction of new hospitals and the hiring of additional medical staff.",
         "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
+        "summary": "Farmers in West Bengal's Howrah district have protested against the acquisition of their land for an industrial project. The farmers claim that the compensation offered by the government is inadequate and that they will suffer significant losses if their land is taken.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
         "category": "Labor"
       },
       {
-        "headline": "Municipal Corporation's Water Supply Scheme Fails to Meet Expectations",
-        "summary": "The municipal corporation's water supply scheme in Kolkata has failed to meet expectations, with many residents complaining of irregular water supply and poor quality of water. The scheme was launched in 2020 to provide clean water to all residents of the city, but it has been plagued by problems from the beginning.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Teachers' Strike Affects School Education in West Midnapore",
-        "summary": "A teachers' strike in West Midnapore district has affected school education in the area, with many schools remaining closed since Monday. The teachers are demanding better working conditions, higher pay, and more resources for the schools.",
+        "headline": "West Bengal Government Launches Initiative to Promote Local Artisans",
+        "summary": "The West Bengal government has launched an initiative to promote local artisans and craftswomen, with a focus on preserving traditional crafts and promoting economic growth in rural areas. The initiative includes training programs and market linkages to help artisans sell their products.",
         "status": "CONFIRMED",
         "source": "The Quint",
-        "category": "Education"
+        "category": "Culture"
       },
       {
-        "headline": "New Medical College to be Set Up in Malda",
-        "summary": "The West Bengal government has announced plans to set up a new medical college in Malda district. The college will provide free medical education to students from the region and will have a focus on rural health. The project is expected to cost Rs 500 crore and will be completed by 2028.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
+        "headline": "Students Protest Against University's Decision to Cut Funds for Education Department",
+        "summary": "Students at a university in West Bengal have protested against the decision to cut funds for the education department. The students claim that the cuts will affect the quality of education and lead to job losses for teachers.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Farmers Protest against Land Acquisition",
-      "Municipal Corporation's Water Supply Scheme Fails",
-      "Teachers' Strike Affects School Education",
-      "New Medical College to be Set Up in Malda",
-      "River Ganga Cleanup Efforts Hit Roadblock",
-      "Government Announces New Initiative for Rural Health",
-      "Traffic Disrupted on Highway Due to Protests",
-      "Kolkata Residents Complain of Irregular Water Supply"
+      "Floods in West Bengal",
+      "West Bengal Government Revamps Public Healthcare",
+      "Farmers Protest Against Land Acquisition",
+      "West Bengal Government Promotes Local Artisans",
+      "Students Protest Against University's Decision",
+      "West Bengal's Flood Situation Worsens",
+      "Government Allocates Funds for Infrastructure Projects",
+      "Local Economists Weigh in on Impact of Industrial Project"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Supreme Court order on Singur land acquisition",
+        "topic": "Disaster Relief in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'Supreme Court Upholds Land Acquisition in Singur'",
-          "summary": "According to Zee News, the Supreme Court has upheld the land acquisition in Singur, West Bengal, allowing the government to take over the land for industrial purposes.",
-          "sources": "Zee News"
+          "headline": "Bengal Govt. Responds to Cyclone Relief: 'We're Doing Our Best'",
+          "summary": "According to Zee News, the West Bengal government has been actively responding to the cyclone relief efforts, with officials claiming that they are doing their best to assist affected areas. The government has reportedly allocated funds and deployed personnel to the affected regions.",
+          "sources": [
+            "Zee News"
+          ]
         },
         "verified_record": {
-          "headline": "The Wire: 'Supreme Court Verdict on Singur Land Acquisition: Key Takeaways'",
-          "summary": "According to The Wire, the Supreme Court has delivered a split verdict on the Singur land acquisition case, with a majority ruling that the land acquisition was valid. However, the court also noted that the government had not followed due process in acquiring the land.",
-          "sources": "The Wire, Supreme Court order",
-          "what_was_omitted": "The Wire's report highlighted the complexities of the case and the differing opinions of the judges, whereas Zee News' report focused solely on the upholding of the land acquisition.",
-          "data_check": "CAG report on land acquisition procedures"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The Zee News report lacked context on the complexities of the case and the differing opinions of the judges.",
-          "missing_context": "The Wire's report provided a more nuanced understanding of the verdict and its implications."
-        }
-      },
-      {
-        "topic": "West Bengal government's COVID-19 vaccination drive",
-        "state_narrative": {
-          "headline": "News18 Bangla: 'West Bengal Government's COVID-19 Vaccination Drive: 100% Coverage Claimed'",
-          "summary": "According to News18 Bangla, the West Bengal government has claimed to have achieved 100% COVID-19 vaccination coverage in the state.",
-          "sources": "News18 Bangla"
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's COVID-19 Vaccination Drive: Fact-Checking the Government's Claim'",
-          "summary": "According to FactChecker.in, the West Bengal government's claim of 100% COVID-19 vaccination coverage is misleading, as the actual data shows that while vaccination rates are high, there are still some areas with low coverage.",
-          "sources": "FactChecker.in, official vaccination data",
-          "what_was_omitted": "News18 Bangla's report did not provide a clear breakdown of the vaccination data, whereas FactChecker.in's report provided a detailed analysis of the actual vaccination rates.",
-          "data_check": "NFHS data on vaccination rates"
+          "headline": "Cyclone Relief in Bengal: Fact-Checking the Government's Claims",
+          "summary": "A data check by FactChecker.in revealed that while the government has indeed allocated funds for relief efforts, the actual amount allocated is significantly less than claimed. Furthermore, the deployment of personnel to affected regions is reportedly not as widespread as claimed. According to the official sources, the government's response to the cyclone relief has been marred by inefficiencies and bureaucratic red tape.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the actual amount allocated, the extent of personnel deployment"
+          ],
+          "data_check": "According to the official sources, the government's allocation of funds for relief efforts was Rs. 500 crores, not the Rs. 1,000 crores claimed by the government. Additionally, the government's deployment of personnel to affected regions was not as widespread as claimed, with only 50% of the personnel deployed in the first week, not the 80% claimed."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "News18 Bangla's report lacked a clear breakdown of the vaccination data, which is crucial in understanding the actual coverage.",
-          "missing_context": "FactChecker.in's report provided a more detailed and accurate analysis of the vaccination data."
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's claims about the extent of relief efforts and the allocation of funds were exaggerated, with a significant discrepancy between the claimed and actual amounts.",
+          "missing_context": "The state of Bengal's disaster relief efforts are often hampered by bureaucratic inefficiencies and a lack of resources, which was not adequately addressed by the government's response to the cyclone."
         }
       },
       {
-        "topic": "Mamata Banerjee's education policies",
+        "topic": "Farmers' Protests in West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'Mamata Banerjee's Education Policies: A Game-Changer for West Bengal'",
-          "summary": "According to ABP Ananda, Mamata Banerjee's education policies have been a game-changer for West Bengal, with a focus on improving infrastructure and increasing enrollment.",
-          "sources": "ABP Ananda"
+          "headline": "Farmers' Protests: Bengal Govt. Vows to Protect Farmers' Interests",
+          "summary": "According to ABP Ananda, the West Bengal government has promised to protect farmers' interests, with officials claiming that the government is committed to supporting farmers' welfare. The government has reportedly established a farmers' welfare board to address the concerns of farmers.",
+          "sources": [
+            "ABP Ananda"
+          ]
         },
         "verified_record": {
-          "headline": "The Quint: 'Mamata Banerjee's Education Policies: A Critical Analysis'",
-          "summary": "According to The Quint, while Mamata Banerjee's education policies have some positive aspects, they also have several critical flaws, including a lack of focus on teacher training and infrastructure development.",
-          "sources": "The Quint, official education data",
-          "what_was_omitted": "ABP Ananda's report did not provide a balanced analysis of the education policies, whereas The Quint's report highlighted both the positives and negatives.",
-          "data_check": "MOSPI data on education infrastructure"
+          "headline": "Farmers' Protests in Bengal: A Fact-Check of the Government's Claims",
+          "summary": "A data check by India Spend revealed that while the government has indeed established a farmers' welfare board, the actual measures taken by the government to support farmers' welfare are limited. According to official sources, the government's establishment of the farmers' welfare board was merely a symbolic gesture, with no concrete measures to address the concerns of farmers. According to NFHS data, the government's support for farmers' welfare has been inadequate, with only 30% of farmers receiving support, not the 80% claimed by the government.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "the actual measures taken by the government to support farmers' welfare"
+          ],
+          "data_check": "According to NFHS data, the government's support for farmers' welfare has been inadequate, with only 30% of farmers receiving support, not the 80% claimed by the government."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
+          "verdict": "Misleading",
+          "key_gap": "The government's claims about the extent of support for farmers' welfare were exaggerated, with a minor discrepancy between the claimed and actual measures.",
+          "missing_context": "The state of Bengal's support for farmers' welfare is often inadequate, and the government's response to the concerns of farmers is often limited, which was not adequately addressed by the government's claims."
+        }
+      },
+      {
+        "topic": "Education in West Bengal",
+        "state_narrative": {
+          "headline": "Bengal Govt. Claims to Have Improved Education Infrastructure",
+          "summary": "According to News18 Bangla, the West Bengal government has claimed to have improved education infrastructure, with officials claiming that the government has invested in building new schools and improving existing infrastructure. The government has reportedly allocated funds for education, with officials claiming that the government is committed to improving education outcomes.",
+          "sources": [
+            "News18 Bangla"
+          ]
+        },
+        "verified_record": {
+          "headline": "Education in Bengal: A Fact-Check of the Government's Claims",
+          "summary": "A data check by FactChecker.in revealed that while the government has indeed allocated funds for education, the actual improvements to education infrastructure are limited. According to official sources, the government's allocation of funds for education was Rs. 1,000 crores, but only 50% of the funds were actually utilized for infrastructure development. According to MOSPI data, the government's efforts to improve education outcomes have been hampered by inadequate teacher training and lack of resources.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the actual improvements to education infrastructure"
+          ],
+          "data_check": "According to MOSPI data, the government's efforts to improve education outcomes have been hampered by inadequate teacher training and lack of resources, which was not adequately addressed by the government's claims."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report lacked a balanced analysis of the education policies, whereas The Quint's report provided a more nuanced understanding of the policies' implications.",
-          "missing_context": "The Quint's report provided a more detailed and critical analysis of the education policies."
+          "key_gap": "The government's claims about the extent of improvements to education infrastructure were exaggerated, with a significant discrepancy between the claimed and actual improvements.",
+          "missing_context": "The state of Bengal's education infrastructure is often inadequate, and the government's response to the concerns of education stakeholders is often limited, which was not adequately addressed by the government's claims."
         }
       }
     ]
@@ -126,75 +144,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Price Hike: State Govt Announces Emergency Measures",
+      "headline": "Rice Prices Skyrocket Amidst Monsoon Disruption",
       "bullets": [
-        "The state government has announced a 10% reduction in rice prices",
-        "The reduction will benefit 10 lakh families across West Bengal",
-        "This means a Rs 10-20 reduction in the price of a 40-kg bag of rice for consumers"
+        "Rice prices have increased by 30% in the past fortnight",
+        "According to data from the West Bengal Government's price monitoring cell, the average price of rice is now ₹80/kg",
+        "This means that a family of four will spend an extra ₹1,000 per month on rice alone"
       ],
-      "source": "The Economic Times",
+      "source": "West Bengal Government's price monitoring cell",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
-      "category": "Jobs",
-      "headline": "State Govt Announces New Job Creation Scheme",
+      "category": "Health",
+      "headline": "Cholera Outbreak in South 24 Parganas, 150 Cases Reported",
       "bullets": [
-        "The scheme aims to create 50,000 new jobs in the next 6 months",
-        "The government will provide training and support to new entrepreneurs",
-        "This will help in reducing unemployment rates in the state"
+        "The outbreak has been confirmed by the West Bengal Health Department",
+        "According to reports, 150 cases have been reported in the past week",
+        "The Health Department has assured that the situation is under control, but residents are advised to take precautions"
       ],
-      "source": "The Telegraph",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "New Dengue Cases Spike in Kolkata",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 50 Villages in Purulia District",
       "bullets": [
-        "Over 500 new cases have been reported in the past week",
-        "The state health department has activated emergency response teams",
-        "Residents are advised to take precautions and get vaccinated"
+        "The power cuts have been ongoing for the past 3 days",
+        "According to reports, the power grid in the region has been damaged due to heavy rainfall",
+        "Residents are advised to use generators or find alternative sources of power"
       ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Environment",
-      "headline": "Pollution Levels in Hooghly River Continue to Rise",
-      "bullets": [
-        "The river's water quality has deteriorated by 30% in the past year",
-        "Industrial waste and sewage are major contributors to pollution",
-        "Residents and fishermen are affected by the poor water quality"
-      ],
-      "source": "The Times of India",
+      "source": "Purulia District Magistrate's office",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Schools to Reopen on October 1",
+      "category": "Labor",
+      "headline": "Garment Factory Workers Protest for Better Wages",
       "bullets": [
-        "The decision was taken after a meeting with teachers and parents",
-        "Students will be required to wear masks and follow social distancing",
-        "The government has promised to improve infrastructure and teacher training"
+        "The workers are demanding a 20% increase in wages",
+        "According to reports, the workers have been on strike for the past 2 days",
+        "The factory management has offered a 10% increase, but the workers are refusing to accept it"
       ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
+      "source": "Garment Workers' Union",
+      "status": "DEVELOPING",
       "impact_score": 5
     },
     {
-      "category": "Transport",
-      "headline": "Trains to Run on Schedule After 3-Day Strike",
+      "category": "Environment",
+      "headline": "Pollution in Hooghly River Threatens Fishermen's Livelihood",
       "bullets": [
-        "The strike by railway workers has ended after 72 hours",
-        "Services will resume at 6 am on Saturday",
-        "Passengers are advised to check schedules before traveling"
+        "The river has been polluted due to the discharge of toxic chemicals from an industrial unit",
+        "According to reports, the fishermen are facing a 50% decrease in catch",
+        "The government has assured that the situation is being monitored and measures will be taken to clean up the river"
       ],
-      "source": "PTI",
-      "status": "CONFIRMED",
+      "source": "Hooghly District Magistrate's office",
+      "status": "UNVERIFIED",
       "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Schools in Howrah District to Reopen After 2-Day Closure",
+      "bullets": [
+        "The schools were closed due to a teacher's strike",
+        "According to reports, the strike was called off after a meeting with the government officials",
+        "The schools are expected to reopen on Monday"
+      ],
+      "source": "Howrah District Magistrate's office",
+      "status": "CONFIRMED",
+      "impact_score": 3
     }
   ],
   "faq": [
