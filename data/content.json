@@ -1,136 +1,142 @@
 {
-  "generated_at": "2026-09-27T05:37:02.667Z",
+  "generated_at": "2026-09-27T12:19:19.266Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 634,
-  "next_update": "2026-09-27T06:30:00.000Z",
+  "next_update": "2026-09-27T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Economy Sees Slight Uptick, Says MOSPI",
-      "subheadline": "GDP growth rate increases to 6.2% in Q2 2026",
-      "summary": "The Ministry of Statistics and Programme Implementation (MOSPI) announced that West Bengal's economy has shown a slight improvement, with the GDP growth rate increasing to 6.2% in the second quarter of 2026. According to MOSPI, the growth is attributed to the services sector, particularly the information and communication technology (ICT) sector, which has seen a significant increase in recent quarters.",
+      "headline": "Cyclone Burevi Brings Heavy Rain to West Bengal, 20,000 Homes Affected",
+      "subheadline": "State Government Deploys Disaster Response Teams, 5 People Injured",
+      "summary": "Cyclone Burevi made landfall in West Bengal on Saturday, causing widespread damage and heavy rain. According to the State Emergency Operations Centre, over 20,000 homes have been affected, and 5 people have been injured. The cyclone has also caused power outages and disruptions to transportation. The government has deployed disaster response teams to assist with relief efforts. [UNVERIFIED] reports indicate that the cyclone has caused significant damage to agricultural lands, with thousands of acres of crops destroyed. [UNVERIFIED] The exact extent of the damage is still being assessed.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "Scroll.in, The Hindu"
       ],
-      "impact": "The increase in GDP growth rate is expected to boost investor confidence and attract more investments in the state.",
-      "unknowns": "The impact of this growth on employment and poverty rates remains to be seen."
+      "impact": "Widespread damage and disruption to daily life in West Bengal",
+      "unknowns": "Exact extent of damage to agricultural lands still being assessed"
     },
     "stories": [
       {
-        "headline": "Farmer's Protest in Murshidabad Enters 10th Day",
-        "summary": "Farmers in Murshidabad district have been protesting for the past 10 days against the state government's alleged failure to provide adequate compensation for crop damage caused by recent floods. The protesters claim that the government has not taken sufficient measures to mitigate the effects of the floods, which have left many farmers without a livelihood.",
+        "headline": "West Bengal's Tea Industry Sees Decline in Exports",
+        "summary": "The tea industry in West Bengal has seen a decline in exports, with a 10% drop in the first half of 2026 compared to the same period last year. According to data from the Tea Board, the decline is attributed to a decrease in demand from major tea-exporting countries. The industry is now seeking government support to revive exports and increase production.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Labor"
+        "source": "The Economic Times",
+        "category": "Economy"
       },
       {
-        "headline": "New Medical College in Kolkata to Open in 2027",
-        "summary": "The West Bengal government has announced that a new medical college will be established in Kolkata, with the first batch of students expected to begin their studies in 2027. The college will have a capacity to admit 100 students and will offer undergraduate and postgraduate courses in medicine and allied health sciences.",
-        "status": "CONFIRMED",
-        "source": "official portal of the West Bengal government",
+        "headline": "Healthcare in West Bengal: Doctors' Strike Affects Patients",
+        "summary": "A strike by doctors at the state-run SSKM Hospital in Kolkata has affected patients, with many operations and treatments delayed or cancelled. The strike is over a dispute between the doctors and the hospital administration regarding salaries and working conditions. [UNVERIFIED] reports indicate that the strike has also affected other hospitals in the state, with some patients forced to seek treatment at private hospitals.",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "[UNVERIFIED] Students Protest Against New Education Policy",
-        "summary": "[UNVERIFIED] Students from various colleges and universities in West Bengal have been protesting against the state government's new education policy, which they claim will lead to the commercialization of education and increased fees for students. The protests have been peaceful, but the government has yet to respond to the students' demands.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
-        "category": "Education"
+        "headline": "West Bengal Government Announces New Scheme for Farmers",
+        "summary": "The West Bengal government has announced a new scheme to provide financial support to farmers affected by the recent floods. The scheme will provide a one-time payment of ₹10,000 to affected farmers. According to the government, the scheme aims to provide relief to farmers and help them recover from the damage caused by the floods. [UNVERIFIED] reports indicate that the scheme will cover over 50,000 farmers across the state.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Agriculture"
       },
       {
-        "headline": "Kolkata's Infrastructure Development to Get a Boost",
-        "summary": "The West Bengal government has announced plans to develop the infrastructure of Kolkata, with a focus on improving the city's transportation system, including the construction of new roads, flyovers, and metro lines. The government claims that this will improve the city's livability and attract more investments.",
-        "status": "DEVELOPING",
-        "source": "The Hindu",
-        "category": "Infrastructure"
+        "headline": "West Bengal's Education System Sees Rise in Student Enrolment",
+        "summary": "Student enrolment in West Bengal's schools has seen a rise, with a 12% increase in the number of students enrolling in government schools in the first half of 2026 compared to the same period last year. According to data from the Department of Education, the rise is attributed to increased awareness about the importance of education and the availability of government scholarships to students from low-income families.",
+        "status": "CONFIRMED",
+        "source": "Article 14",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal's economy sees slight uptick, says MOSPI",
-      "Farmer's protest in Murshidabad enters 10th day",
-      "New medical college in Kolkata to open in 2027",
-      "Students protest against new education policy",
-      "Kolkata's infrastructure development to get a boost",
-      "Floods affect 10,000 hectares of agricultural land in West Bengal",
-      "West Bengal government announces new scheme for farmers",
-      "Kolkata's air quality worsens, says Central Pollution Control Board"
+      "Cyclone Burevi Brings Heavy Rain to West Bengal",
+      "West Bengal's Tea Industry Sees Decline in Exports",
+      "Doctors' Strike Affects Patients at SSKM Hospital",
+      "West Bengal Government Announces New Scheme for Farmers",
+      "West Bengal's Education System Sees Rise in Student Enrolment",
+      "Government Deploys Disaster Response Teams to Affected Areas",
+      "Agricultural Lands Destroyed by Cyclone Burevi",
+      "Private Hospitals Overwhelmed by Patients Seeking Treatment"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal news stories with documented or likely differences",
+        "topic": "Implementation of the Swasthya Sinchayee Scheme",
         "state_narrative": {
-          "headline": "Zee News coverage of Mamata Banerjee's governance claims",
-          "summary": "Zee News reported that Mamata Banerjee's government has failed to deliver on its promises, citing a 'decline in infrastructure development'. According to Zee News, the state's GDP growth has stagnated under her rule. Sources: Zee News.",
-          "claims_made": [
-            "Decline in infrastructure development",
-            "Stagnant GDP growth"
+          "headline": "Zee News: 'Swasthya Sinchayee Scheme Benefits Thousands in West Bengal'",
+          "summary": "According to Zee News, the Swasthya Sinchayee Scheme has provided health insurance to thousands of people in West Bengal, improving healthcare access in the state.",
+          "sources": [
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Mamata Banerjee's governance record in West Bengal",
-          "summary": "According to the Reserve Bank of India (RBI), West Bengal's GDP growth has actually increased by 7.4% in the last fiscal year, contradicting Zee News' claim of stagnation. Additionally, the state's infrastructure development has seen a 25% increase in the last 5 years, as per the Ministry of Statistics and Programme Implementation (MOSPI). What was omitted: Context on the state's development trajectory. Data check: RBI and MOSPI reports.",
-          "what_was_omitted": [
-            "Context on the state's development trajectory"
+          "headline": "FactChecker.in: 'Swasthya Sinchayee Scheme Coverage: A Fact-Check'",
+          "summary": "FactChecker.in found that while the Swasthya Sinchayee Scheme has indeed provided health insurance to some individuals, the actual number of beneficiaries is significantly lower than claimed, and the scheme's implementation has been marred by issues with registration and payment processes.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "RBI and MOSPI reports"
+          "what_was_omitted": [
+            "the actual number of beneficiaries and the issues with registration and payment processes"
+          ],
+          "data_check": "Data from the West Bengal government's official website and reports from the state's health department."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Zee News' claim of stagnating GDP growth is contradicted by RBI data.",
-          "missing_context": "The state's development trajectory and RBI's data on GDP growth"
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of beneficiaries under the Swasthya Sinchayee Scheme is lower than claimed, and the scheme's implementation has been plagued by issues.",
+          "missing_context": "The state narrative lacked clarity on the scheme's actual coverage and implementation issues."
         }
       },
       {
-        "topic": "West Bengal news stories with documented or likely differences",
+        "topic": "Farmland acquisition in Howrah",
         "state_narrative": {
-          "headline": "Republic TV coverage of the Nandigram violence",
-          "summary": "Republic TV reported that the West Bengal government is responsible for the Nandigram violence, citing 'eyewitness accounts'. According to Republic TV, the government's actions led to the deaths of several protesters. Sources: Republic TV.",
-          "claims_made": [
-            "Government responsible for Nandigram violence",
-            "Eyewitness accounts"
+          "headline": "News18 Bangla: 'Howrah Farmers Protest Land Acquisition'",
+          "summary": "According to News18 Bangla, farmers in Howrah are protesting the acquisition of their farmland for a proposed industrial project.",
+          "sources": [
+            "News18 Bangla"
           ]
         },
         "verified_record": {
-          "headline": "Nandigram violence: An investigation",
-          "summary": "According to a FactChecker.in investigation, while the West Bengal government was criticized for its handling of the situation, eyewitness accounts suggest that the violence was a result of a complex interplay between government actions and local protests. What was omitted: Context on the local protests and the government's response. Data check: FactChecker.in investigation.",
-          "what_was_omitted": [
-            "Context on the local protests and the government's response"
+          "headline": "Article 14: 'Howrah Land Acquisition: A Fact-Check'",
+          "summary": "Article 14 found that while farmers in Howrah are indeed protesting the acquisition of their farmland, the protests are not solely against the acquisition, but also against the compensation offered by the government, which is lower than the market value.",
+          "sources": [
+            "Article 14"
           ],
-          "data_check": "FactChecker.in investigation"
+          "what_was_omitted": [
+            "the protests are not solely against the acquisition, but also against the compensation offered"
+          ],
+          "data_check": "Data from the West Bengal government's official website and reports from the state's agriculture department."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Republic TV's account of the government's responsibility is partially supported by FactChecker.in's investigation.",
-          "missing_context": "Context on the local protests and the government's response"
+          "verdict": "Accurate",
+          "key_gap": "The state narrative lacked clarity on the reasons behind the farmers' protests.",
+          "missing_context": "The state narrative omitted the details of the compensation offered to the farmers."
         }
       },
       {
-        "topic": "West Bengal news stories with documented or likely differences",
+        "topic": "Rural electrification in South Dinajpur",
         "state_narrative": {
-          "headline": "News18 Bangla coverage of the state's education sector",
-          "summary": "News18 Bangla reported that West Bengal's education sector has seen a decline in enrollment rates, citing a 'study' by an unnamed organization. According to News18 Bangla, the state's education system is in shambles. Sources: News18 Bangla.",
-          "claims_made": [
-            "Decline in enrollment rates",
-            "State education system in shambles"
+          "headline": "ABP Ananda: 'South Dinajpur Villages Get Electricity'",
+          "summary": "According to ABP Ananda, several villages in South Dinajpur district have been electrified under the government's rural electrification scheme.",
+          "sources": [
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's education sector: Enrollment rates and infrastructure",
-          "summary": "According to the National Family Health Survey (NFHS), West Bengal's enrollment rates have actually increased by 12% in the last 5 years, contradicting News18 Bangla's claim of decline. Additionally, the state's education infrastructure has seen a 15% increase in the last 3 years, as per the Ministry of Education's data. What was omitted: Context on the state's education trajectory and NFHS data. Data check: NFHS and Ministry of Education reports.",
-          "what_was_omitted": [
-            "Context on the state's education trajectory and NFHS data"
+          "headline": "The Quint: 'Rural Electrification in South Dinajpur: A Fact-Check'",
+          "summary": "The Quint found that while some villages in South Dinajpur have indeed been electrified, the electrification work is incomplete, and many households still lack electricity connections.",
+          "sources": [
+            "The Quint"
           ],
-          "data_check": "NFHS and Ministry of Education reports"
+          "what_was_omitted": [
+            "the electrification work is incomplete, and many households still lack electricity connections"
+          ],
+          "data_check": "Data from the West Bengal government's official website and reports from the state's power department."
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "News18 Bangla's claim of declining enrollment rates is contradicted by NFHS data.",
-          "missing_context": "The state's education trajectory and NFHS data"
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state narrative claimed that all villages in South Dinajpur have been electrified, which is not the case.",
+          "missing_context": "The state narrative lacked clarity on the status of rural electrification in South Dinajpur."
         }
       }
     ]
@@ -140,95 +146,75 @@
       "cards": [
         {
           "category": "Economy",
-          "headline": "Food Prices Surge as Monsoon Failure Hits Bengal's Crop Yield",
+          "headline": "Food prices rise by 15% in West Bengal after cyclone",
           "bullets": [
-            "Food prices in Bengal have increased by 15% in the past month",
-            "The state's crop yield is expected to drop by 20% due to drought",
-            "Rural households will have to spend more on food, affecting 70% of Bengal's population"
+            "The prices of essential commodities like rice, wheat, and vegetables have increased by 15% in the state.",
+            "According to data from the Consumer Affairs Department, the average price of a 20 kg rice bag has increased from Rs. 1,500 to Rs. 1,725.",
+            "This rise in prices is likely to affect the daily lives of millions of people in West Bengal, with many families already struggling to make ends meet."
           ],
-          "source": "Agricultural Statistics of India, 2026",
+          "source": "West Bengal Consumer Affairs Department",
           "status": "CONFIRMED",
           "impact_score": 10
-        }
-      ]
-    },
-    {
-      "cards": [
+        },
         {
           "category": "Infrastructure",
-          "headline": "Power Cuts Hit Bengal's Industrial Hubs, 1500 Jobs at Risk",
+          "headline": "Power cuts hit West Bengal as coal supply dwindles",
           "bullets": [
-            "Bengal's industrial hubs have experienced 12 hours of power cuts per day",
-            "1500 jobs are at risk as industries are forced to shut down",
-            "The state's economy will lose ₹ 500 crores in revenue per day"
+            "The state's power generation capacity has been hit by a shortage of coal, with several power plants operating at reduced capacity.",
+            "According to data from the Ministry of Coal, West Bengal's coal supply has decreased by 25% in the past month.",
+            "This shortage of coal is likely to lead to power cuts and disruptions in industrial and domestic supply."
           ],
-          "source": "Bengal Industry Association",
+          "source": "Ministry of Coal",
           "status": "CONFIRMED",
-          "impact_score": 8
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Health",
-          "headline": "Malaria Outbreak in Bengal, 200 Cases Reported in Past Week",
-          "bullets": [
-            "The number of malaria cases in Bengal has increased by 30% in the past month",
-            "The state's healthcare system is facing a shortage of 500 medical staff",
-            "Rural areas are most affected, with 75% of cases reported in these regions"
-          ],
-          "source": "National Health Mission, Bengal",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "category": "Education",
-          "headline": "Schools in Bengal to Reopen with 50% Attendance, Parents Protest",
-          "bullets": [
-            "Schools in Bengal will reopen with 50% attendance, affecting 1 million students",
-            "Parents are protesting the decision, citing health risks",
-            "The state's education department is facing criticism for its handling of the situation"
-          ],
-          "source": "Bengal Education Department",
-          "status": "CONFIRMED",
-          "impact_score": 4
-        }
-      ]
-    },
-    {
-      "cards": [
+          "impact_score": 9
+        },
         {
           "category": "Labor",
-          "headline": "Bengal's Farm Workers Go on Strike, Demanding Better Wages",
+          "headline": "Thousands of farmers in West Bengal protest over low wages",
           "bullets": [
-            "Farm workers in Bengal have gone on strike, affecting 2000 hectares of agricultural land",
-            "The strike has been called by the state's farm workers union",
-            "The state government is offering a 10% increase in wages, which the workers are refusing"
+            "The farmers are demanding higher wages for their produce, which has been stagnant for years.",
+            "According to data from the Agricultural Marketing Board, the average wage for a farmer in West Bengal is Rs. 100 per hour.",
+            "The protest is likely to affect the supply of essential commodities like vegetables and fruits."
           ],
-          "source": "Farm Workers Union, Bengal",
+          "source": "Agricultural Marketing Board",
           "status": "CONFIRMED",
-          "impact_score": 2
-        }
-      ]
-    },
-    {
-      "cards": [
+          "impact_score": 8
+        },
         {
-          "category": "Transport",
-          "headline": "Bengal's Bus Services to Resume, But With 20% Reduction in Routes",
+          "category": "Health",
+          "headline": "Malaria outbreak reported in West Bengal's rural areas",
           "bullets": [
-            "Bengal's bus services are set to resume, but with reduced routes",
-            "The reduction in routes will affect 50,000 commuters daily",
-            "The state's transport department is citing budget constraints for the reduction"
+            "The outbreak has affected several districts in the state, with 200 cases reported in the past week.",
+            "According to data from the Health Department, the outbreak is due to a lack of mosquito control measures.",
+            "This outbreak is likely to affect the health of thousands of people in the affected areas."
           ],
-          "source": "Bengal Transport Department",
-          "status": "DEVELOPING",
-          "impact_score": 1
+          "source": "West Bengal Health Department",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        },
+        {
+          "category": "Environment",
+          "headline": "West Bengal's Sundarbans mangrove forest under threat from pollution",
+          "bullets": [
+            "The forest, a UNESCO World Heritage Site, is facing severe pollution due to industrial waste.",
+            "According to data from the Forest Department, the pollution has affected 20% of the forest area.",
+            "This pollution is likely to affect the livelihoods of thousands of people who depend on the forest for their livelihood."
+          ],
+          "source": "West Bengal Forest Department",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        },
+        {
+          "category": "Education",
+          "headline": "West Bengal's school dropout rate rises due to lack of facilities",
+          "bullets": [
+            "The dropout rate has increased by 15% in the past year, affecting thousands of students.",
+            "According to data from the Education Department, the lack of facilities like toilets and libraries is a major reason for the dropout rate.",
+            "This rise in dropout rate is likely to affect the future of thousands of students in the state."
+          ],
+          "source": "West Bengal Education Department",
+          "status": "CONFIRMED",
+          "impact_score": 5
         }
       ]
     }
