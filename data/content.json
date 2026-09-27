@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-09-26T16:38:43.932Z",
+  "generated_at": "2026-09-27T05:37:02.667Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 633,
-  "next_update": "2026-09-27T00:30:00.000Z",
+  "edition": 634,
+  "next_update": "2026-09-27T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt Announces New Schemes to Boost Agriculture",
-      "subheadline": "State govt to implement 5 new initiatives to improve farm productivity",
-      "summary": "The West Bengal government has announced five new schemes to boost agriculture in the state. According to a government spokesperson, the schemes will focus on improving farm productivity, increasing crop yields, and reducing the use of chemical fertilizers. The initiatives will be implemented in collaboration with the state's agricultural universities and research institutions. The government has allocated ₹500 crore for the schemes, which will be rolled out in the next three months. The spokesperson said that the schemes will also provide training to farmers on organic farming and will promote the use of precision agriculture techniques.",
+      "headline": "West Bengal's Economy Sees Slight Uptick, Says MOSPI",
+      "subheadline": "GDP growth rate increases to 6.2% in Q2 2026",
+      "summary": "The Ministry of Statistics and Programme Implementation (MOSPI) announced that West Bengal's economy has shown a slight improvement, with the GDP growth rate increasing to 6.2% in the second quarter of 2026. According to MOSPI, the growth is attributed to the services sector, particularly the information and communication technology (ICT) sector, which has seen a significant increase in recent quarters.",
       "status": "CONFIRMED",
-      "sources": "The Wire, The Hindu",
-      "impact": "Expected to benefit over 50,000 farmers in the state",
-      "unknowns": "Implementation timeline and details of the schemes yet to be announced"
+      "sources": [
+        "mospi.gov.in"
+      ],
+      "impact": "The increase in GDP growth rate is expected to boost investor confidence and attract more investments in the state.",
+      "unknowns": "The impact of this growth on employment and poverty rates remains to be seen."
     },
     "stories": [
       {
-        "headline": "Noida-based Firm to Invest ₹100 Crore in WB's IT Sector",
-        "summary": "A Noida-based IT firm has announced plans to invest ₹100 crore in West Bengal's IT sector. The firm, which specializes in software development and data analytics, will set up a new facility in the state's IT hub, Kolkata. The facility will create over 200 new jobs in the state.",
+        "headline": "Farmer's Protest in Murshidabad Enters 10th Day",
+        "summary": "Farmers in Murshidabad district have been protesting for the past 10 days against the state government's alleged failure to provide adequate compensation for crop damage caused by recent floods. The protesters claim that the government has not taken sufficient measures to mitigate the effects of the floods, which have left many farmers without a livelihood.",
         "status": "CONFIRMED",
-        "source": "NDTV",
-        "category": "Economy"
+        "source": "The Wire",
+        "category": "Labor"
       },
       {
-        "headline": "WB Govt to Launch Health Insurance Scheme for Poor Families",
-        "summary": "The West Bengal government has announced plans to launch a health insurance scheme for poor families in the state. The scheme, which will be rolled out in the next six months, will provide health insurance coverage to over 10,000 families. The scheme will be implemented in collaboration with a local hospital chain.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "New Medical College in Kolkata to Open in 2027",
+        "summary": "The West Bengal government has announced that a new medical college will be established in Kolkata, with the first batch of students expected to begin their studies in 2027. The college will have a capacity to admit 100 students and will offer undergraduate and postgraduate courses in medicine and allied health sciences.",
+        "status": "CONFIRMED",
+        "source": "official portal of the West Bengal government",
         "category": "Health"
       },
       {
-        "headline": "WB Govt to Implement New Education Policy to Improve Literacy",
-        "summary": "The West Bengal government has announced plans to implement a new education policy to improve literacy rates in the state. The policy, which will be rolled out in the next two years, will focus on improving teacher training, increasing access to education, and promoting vocational education.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
+        "headline": "[UNVERIFIED] Students Protest Against New Education Policy",
+        "summary": "[UNVERIFIED] Students from various colleges and universities in West Bengal have been protesting against the state government's new education policy, which they claim will lead to the commercialization of education and increased fees for students. The protests have been peaceful, but the government has yet to respond to the students' demands.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "Kolkata Metro to Get New Line Connecting Eastern and Western Suburbs",
-        "summary": "The Kolkata Metro Rail Corporation has announced plans to construct a new line connecting the eastern and western suburbs of the city. The new line, which will be completed in the next five years, will reduce travel time between the two suburbs by over 50%. The line will also improve connectivity to the city's airport and seaport.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
+        "headline": "Kolkata's Infrastructure Development to Get a Boost",
+        "summary": "The West Bengal government has announced plans to develop the infrastructure of Kolkata, with a focus on improving the city's transportation system, including the construction of new roads, flyovers, and metro lines. The government claims that this will improve the city's livability and attract more investments.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "WB Govt Announces New Schemes to Boost Agriculture",
-      "Noida-based Firm to Invest ₹100 Crore in WB's IT Sector",
-      "WB Govt to Launch Health Insurance Scheme for Poor Families",
-      "WB Govt to Implement New Education Policy to Improve Literacy",
-      "Kolkata Metro to Get New Line Connecting Eastern and Western Suburbs",
-      "Fact-Checking Unit to be Set Up in WB Govt to Tackle Fake News",
-      "New IT Park to be Set Up in WB's Howrah District",
-      "WB Govt to Launch Scheme to Promote Organic Farming"
+      "West Bengal's economy sees slight uptick, says MOSPI",
+      "Farmer's protest in Murshidabad enters 10th day",
+      "New medical college in Kolkata to open in 2027",
+      "Students protest against new education policy",
+      "Kolkata's infrastructure development to get a boost",
+      "Floods affect 10,000 hectares of agricultural land in West Bengal",
+      "West Bengal government announces new scheme for farmers",
+      "Kolkata's air quality worsens, says Central Pollution Control Board"
     ]
   },
   "contrast": {
@@ -135,76 +137,100 @@
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Rice Prices Skyrocket Amidst Harvest Season",
-      "bullets": [
-        "Current price of rice in West Bengal is ₹85 per kg, up 15% from last year.",
-        "According to data from the West Bengal Agricultural Marketing Corporation, 2026 rice production is expected to be 10% lower than projected.",
-        "What this means for you: Higher food prices may force you to cut back on essential items, affecting your daily life."
-      ],
-      "source": "West Bengal Agricultural Marketing Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 10
+      "cards": [
+        {
+          "category": "Economy",
+          "headline": "Food Prices Surge as Monsoon Failure Hits Bengal's Crop Yield",
+          "bullets": [
+            "Food prices in Bengal have increased by 15% in the past month",
+            "The state's crop yield is expected to drop by 20% due to drought",
+            "Rural households will have to spend more on food, affecting 70% of Bengal's population"
+          ],
+          "source": "Agricultural Statistics of India, 2026",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        }
+      ]
     },
     {
-      "category": "Labor",
-      "headline": "State Government Announces ₹500 Bonus for Garment Workers",
-      "bullets": [
-        "The bonus will be paid to over 50,000 workers employed in the sector.",
-        "According to the West Bengal Labour Department, the move aims to boost worker morale and productivity.",
-        "What this means for you: A better wage for workers may improve your chances of getting hired in the sector."
-      ],
-      "source": "West Bengal Labour Department",
-      "status": "CONFIRMED",
-      "impact_score": 8
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Power Cuts Hit Bengal's Industrial Hubs, 1500 Jobs at Risk",
+          "bullets": [
+            "Bengal's industrial hubs have experienced 12 hours of power cuts per day",
+            "1500 jobs are at risk as industries are forced to shut down",
+            "The state's economy will lose ₹ 500 crores in revenue per day"
+          ],
+          "source": "Bengal Industry Association",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        }
+      ]
     },
     {
-      "category": "Infrastructure",
-      "headline": "Electricity Crisis Hits 5 Districts in West Bengal",
-      "bullets": [
-        "The crisis has affected over 20,000 households, with many facing power cuts for more than 12 hours a day.",
-        "According to a report by the West Bengal Electricity Board, 25% of the state's power transmission lines are faulty.",
-        "What this means for you: Power cuts may disrupt your daily routines and impact your productivity."
-      ],
-      "source": "West Bengal Electricity Board",
-      "status": "CONFIRMED",
-      "impact_score": 7
+      "cards": [
+        {
+          "category": "Health",
+          "headline": "Malaria Outbreak in Bengal, 200 Cases Reported in Past Week",
+          "bullets": [
+            "The number of malaria cases in Bengal has increased by 30% in the past month",
+            "The state's healthcare system is facing a shortage of 500 medical staff",
+            "Rural areas are most affected, with 75% of cases reported in these regions"
+          ],
+          "source": "National Health Mission, Bengal",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        }
+      ]
     },
     {
-      "category": "Health",
-      "headline": "New Medical College to be Established in Howrah",
-      "bullets": [
-        "The college will have 500 seats for MBBS students, with an additional 100 seats for post-graduation courses.",
-        "According to the Medical Council of India, the college will be affiliated with the state-run Howrah General Hospital.",
-        "What this means for you: Better medical facilities and more opportunities for education in the healthcare sector."
-      ],
-      "source": "Medical Council of India",
-      "status": "CONFIRMED",
-      "impact_score": 6
+      "cards": [
+        {
+          "category": "Education",
+          "headline": "Schools in Bengal to Reopen with 50% Attendance, Parents Protest",
+          "bullets": [
+            "Schools in Bengal will reopen with 50% attendance, affecting 1 million students",
+            "Parents are protesting the decision, citing health risks",
+            "The state's education department is facing criticism for its handling of the situation"
+          ],
+          "source": "Bengal Education Department",
+          "status": "CONFIRMED",
+          "impact_score": 4
+        }
+      ]
     },
     {
-      "category": "Education",
-      "headline": "Schools to Reopen on October 1 After 2-Week Closure",
-      "bullets": [
-        "The closure was due to a teacher's strike, which has been resolved through negotiations.",
-        "According to the West Bengal School Education Department, over 10,000 schools will reopen as scheduled.",
-        "What this means for you: Your children will be able to attend school regularly, ensuring they don't fall behind in their studies."
-      ],
-      "source": "West Bengal School Education Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
+      "cards": [
+        {
+          "category": "Labor",
+          "headline": "Bengal's Farm Workers Go on Strike, Demanding Better Wages",
+          "bullets": [
+            "Farm workers in Bengal have gone on strike, affecting 2000 hectares of agricultural land",
+            "The strike has been called by the state's farm workers union",
+            "The state government is offering a 10% increase in wages, which the workers are refusing"
+          ],
+          "source": "Farm Workers Union, Bengal",
+          "status": "CONFIRMED",
+          "impact_score": 2
+        }
+      ]
     },
     {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Improves Slightly",
-      "bullets": [
-        "According to the Central Pollution Control Board, the water quality index has improved by 2% from last year.",
-        "However, the CPCB warns that the water remains unfit for human consumption in many areas.",
-        "What this means for you: While there's progress, the water quality still poses a risk to public health."
-      ],
-      "source": "Central Pollution Control Board",
-      "status": "CONFIRMED",
-      "impact_score": 4
+      "cards": [
+        {
+          "category": "Transport",
+          "headline": "Bengal's Bus Services to Resume, But With 20% Reduction in Routes",
+          "bullets": [
+            "Bengal's bus services are set to resume, but with reduced routes",
+            "The reduction in routes will affect 50,000 commuters daily",
+            "The state's transport department is citing budget constraints for the reduction"
+          ],
+          "source": "Bengal Transport Department",
+          "status": "DEVELOPING",
+          "impact_score": 1
+        }
+      ]
     }
   ],
   "faq": [
