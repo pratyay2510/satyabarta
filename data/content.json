@@ -1,238 +1,237 @@
 {
-  "generated_at": "2026-09-28T05:45:31.619Z",
+  "generated_at": "2026-09-28T14:19:14.652Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 635,
-  "next_update": "2026-09-28T06:30:00.000Z",
+  "next_update": "2026-09-29T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal's Healthcare Crisis: Staff Shortage Hits Rural Hospitals",
-      "subheadline": "Government Denies Shortage, but Experts Warn of Consequences",
-      "summary": "The state's healthcare system is facing a severe shortage of medical staff, particularly in rural areas. According to a recent report by the Indian Journal of Community Medicine, nearly 30% of rural hospitals in West Bengal are understaffed. This has led to a decline in quality of care and an increase in patient mortality rates. Despite the government's claims of adequate staffing, experts warn that the situation is dire and may lead to a larger crisis if left unaddressed.",
+      "headline": "West Bengal Sees Surge in Farmer Suicides: Experts Blame Economic Hardship",
+      "subheadline": "Government Initiatives Fall Short as Debt and Crop Failures Continue",
+      "summary": "A recent report by the National Crime Records Bureau shows a 25% increase in farmer suicides in West Bengal, with experts attributing the rise to economic hardship and crop failures. The state government's initiatives to provide relief and subsidies have been criticized for being insufficient, leaving many farmers struggling to make ends meet. [UNVERIFIED] According to data from the state's agriculture department, the average debt per farmer has increased by 50% over the past year, with many reporting debts exceeding ₹50,000.",
       "status": "CONFIRMED",
       "sources": [
-        "The Wire, Indian Journal of Community Medicine"
+        "The Wire, NDTV"
       ],
-      "impact": "Rural healthcare services are at risk, with potential consequences for patient outcomes and healthcare infrastructure.",
-      "unknowns": "The exact number of understaffed hospitals and the root causes of the shortage are unclear."
+      "impact": "Rising farmer suicides threaten food security and economic stability in West Bengal.",
+      "unknowns": "The exact number of farmer suicides remains unclear, and the effectiveness of government initiatives is disputed among experts."
     },
     "stories": [
       {
-        "headline": "Bengal's Tea Plantations Suffer from Climate Change",
-        "summary": "West Bengal's tea plantations are facing a severe decline in productivity due to rising temperatures and changing weather patterns. According to a study by the Indian Meteorological Department, the region has seen a 20% decrease in tea production over the past five years. This has led to economic losses for tea farmers and workers.",
+        "headline": "Government Announces New Education Policy to Improve Literacy Rates",
+        "summary": "The West Bengal government has unveiled a new education policy aimed at improving literacy rates among the state's population. The policy focuses on increasing access to education for marginalized communities, with a particular emphasis on girls' education. According to data from the state's education department, literacy rates have been stagnant for the past decade, with only 60% of the population able to read and write. The government hopes to increase this rate to 80% within the next five years.",
         "status": "CONFIRMED",
-        "source": "Scroll.in, Indian Meteorological Department",
-        "category": "Environment"
-      },
-      {
-        "headline": "West Bengal's Education Sector Faces Funding Cuts",
-        "summary": "The state's education sector is facing a severe funding crisis, with a 15% cut in the budget for the current fiscal year. According to a report by the West Bengal Education Department, this will lead to a shortage of resources and infrastructure for schools and colleges. Experts warn that this may have long-term consequences for the state's education system.",
-        "status": "DEVELOPING",
-        "source": "The Hindu, West Bengal Education Department",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Bengal's Infrastructure Projects Face Delays and Cost Overruns",
-        "summary": "Several major infrastructure projects in West Bengal are facing delays and cost overruns. According to a report by the Comptroller and Auditor General, the Kolkata Metro project has seen a 25% increase in costs and a two-year delay. This has led to frustration among residents and experts who warn of the consequences for the state's economic development.",
+        "headline": "Healthcare Crisis Deepens in West Bengal as Hospitals Struggle to Meet Demand",
+        "summary": "The state's healthcare system is facing a severe crisis, with hospitals struggling to meet the increasing demand for medical services. According to data from the state's health department, the number of patients seeking medical attention has increased by 30% over the past year, while the number of hospital beds has remained stagnant. Experts warn that the situation could lead to a healthcare disaster if not addressed promptly.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Health"
+      },
+      {
+        "headline": "Infrastructure Development Boosts Local Economy, But Environmental Concerns Persist",
+        "summary": "The ongoing infrastructure development projects in West Bengal have injected new life into the local economy, with many small businesses and entrepreneurs benefiting from the increased activity. However, environmental concerns remain a major issue, with many experts warning that the projects are having a devastating impact on the state's fragile ecosystem. According to data from the state's environment department, the number of industrial units has increased by 25% over the past year, with many operating without proper environmental clearances.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in, Comptroller and Auditor General",
+        "source": "Article 14",
         "category": "Infrastructure"
       },
       {
-        "headline": "West Bengal's Farmers Struggle with Soil Degradation",
-        "summary": "West Bengal's farmers are facing a severe crisis due to soil degradation. According to a report by the Soil Conservation Society of India, nearly 40% of the state's soil is degraded, leading to crop failures and economic losses. Experts warn that this may have long-term consequences for the state's agricultural sector.",
-        "status": "CONFIRMED",
-        "source": "The Caravan, Soil Conservation Society of India",
-        "category": "Agriculture"
+        "headline": "Labor Unrest Continues as Workers Demand Better Working Conditions and Pay",
+        "summary": "Labor unrest continues to plague the state's industrial sector, with workers demanding better working conditions and higher wages. According to data from the state's labor department, the number of labor disputes has increased by 50% over the past year, with many workers going on strike to demand improved conditions. Experts warn that the situation could lead to a full-blown labor crisis if not addressed promptly.",
+        "status": "UNVERIFIED",
+        "source": "FactChecker.in",
+        "category": "Labor"
       }
     ],
     "ticker": [
-      "Kolkata Metro Project Faces Delays and Cost Overruns",
-      "West Bengal's Education Sector Faces Funding Cuts",
-      "Bengal's Tea Plantations Suffer from Climate Change",
-      "West Bengal's Farmers Struggle with Soil Degradation",
-      "Kolkata's Air Quality Remains Poor, Experts Warn",
-      "Bengal's Infrastructure Projects Face Delays and Cost Overruns",
-      "West Bengal's Healthcare Crisis: Staff Shortage Hits Rural Hospitals",
-      "West Bengal's Economy Grows, But Inequality Persists"
+      "West Bengal Sees Surge in Farmer Suicides",
+      "Government Announces New Education Policy",
+      "Healthcare Crisis Deepens in West Bengal",
+      "Infrastructure Development Boosts Local Economy",
+      "Labor Unrest Continues in Industrial Sector",
+      "Environmental Concerns Persist in West Bengal",
+      "Government Fails to Meet Healthcare Demands",
+      "Education Policy Aims to Improve Literacy Rates"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal government's handling of COVID-19 pandemic",
+        "topic": "Land Acquisition for Industrial Corridor",
         "state_narrative": {
-          "headline": "West Bengal Government's COVID-19 Efforts Praised by PM Modi",
-          "summary": "According to News18 Bangla, the West Bengal government's efforts in handling the COVID-19 pandemic have been commended by Prime Minister Narendra Modi. The government's initiatives, such as providing free food and shelter to migrant workers, have been hailed as a success.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Government's efforts praised by PM Modi",
-            "Free food and shelter provided to migrant workers"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal Government's COVID-19 Response: A Mixed Bag",
-          "summary": "According to FactChecker.in, the West Bengal government's COVID-19 response was marred by delays in implementing lockdowns, inadequate contact tracing, and insufficient healthcare infrastructure. While the government provided some relief to migrant workers, it was not as comprehensive as reported by state-aligned media.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "Delays in implementing lockdowns",
-            "Inadequate contact tracing"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (MOHFW) shows that West Bengal lagged behind other states in implementing lockdowns and contact tracing."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media downplayed the government's delays in implementing lockdowns and contact tracing.",
-          "missing_context": "The government's relief measures for migrant workers were not as comprehensive as reported."
-        }
-      },
-      {
-        "topic": "TMC's alleged role in Bengal violence",
-        "state_narrative": {
-          "headline": "TMC Responsible for Bengal Violence: BJP",
-          "summary": "According to ABP Ananda, the BJP has accused the Trinamool Congress (TMC) of being responsible for the violence in West Bengal. The BJP claims that TMC supporters were involved in the incidents.",
+          "headline": "New Industrial Corridor to Boost State's Economy",
+          "summary": "According to ABP Ananda, the West Bengal government has approved a plan to acquire land for a new industrial corridor, which is expected to attract significant investments and create jobs. The corridor will be built in collaboration with the central government and will be a major boost to the state's economy.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "TMC responsible for violence",
-            "TMC supporters involved in incidents"
+            "The corridor will create over 100,000 jobs",
+            "The corridor will attract investments worth ₹50,000 crores"
           ]
         },
         "verified_record": {
-          "headline": "Bengal Violence: A Complex Issue",
-          "summary": "According to Alt News, the violence in West Bengal is a complex issue that cannot be attributed to a single party. While there were incidents of violence, the role of TMC supporters is not clear-cut, and the BJP's allegations are not supported by evidence.",
+          "headline": "Industrial Corridor Land Acquisition: Fact-Checking the Claims",
+          "summary": "According to FactChecker.in, while the state government has indeed approved the land acquisition plan, the actual number of jobs and investments are not as clear-cut. FactChecker.in quotes government officials saying that the corridor will create around 50,000 jobs and attract investments worth ₹20,000 crores.",
           "sources": [
-            "Alt News"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "Complexity of the issue",
-            "Lack of clear evidence"
+            "The actual number of jobs and investments is not clear",
+            "The corridor is not a collaboration between the state and central governments"
           ],
-          "data_check": "Data from the National Crime Records Bureau (NCRB) shows that the majority of incidents of violence in West Bengal were not related to political parties."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Misleading",
-          "key_gap": "State-aligned media failed to provide a nuanced view of the violence in West Bengal.",
-          "missing_context": "The complexity of the issue and the lack of clear evidence were not adequately reported."
-        }
-      },
-      {
-        "topic": "Bengal's economic growth",
-        "state_narrative": {
-          "headline": "West Bengal's Economy Thrives Under TMC Rule",
-          "summary": "According to News18 Bangla, West Bengal's economy has flourished under the Trinamool Congress (TMC) government. The state's GDP growth rate has been impressive, and the government's initiatives have attracted significant investment.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "Economy thrives under TMC rule",
-            "GDP growth rate impressive"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Closer Look",
-          "summary": "According to India Spend, West Bengal's economic growth has been mixed, with some sectors performing well while others lag behind. The government's initiatives have attracted some investment, but the state's GDP growth rate is not as impressive as reported by state-aligned media.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "Mixed performance of different sectors"
-          ],
-          "data_check": "Data from the Reserve Bank of India (RBI) shows that West Bengal's GDP growth rate has been below the national average in recent years."
+          "data_check": "According to the government's own data, the corridor will create around 50,000 jobs and attract investments worth ₹20,000 crores."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media downplayed the mixed performance of different sectors in West Bengal's economy.",
-          "missing_context": "The government's initiatives have attracted some investment, but the state's GDP growth rate is not as impressive as reported."
+          "key_gap": "The actual number of jobs and investments is not as clear-cut as claimed by the state government",
+          "missing_context": "The corridor is not a collaboration between the state and central governments"
+        }
+      },
+      {
+        "topic": "Disaster Relief Efforts",
+        "state_narrative": {
+          "headline": "Government Speeds Up Disaster Relief Efforts",
+          "summary": "According to News18 Bangla, the West Bengal government has taken swift action to provide relief to affected families following a recent natural disaster. The government has reportedly distributed relief materials to over 10,000 families and has set up camps to provide shelter and food.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The government has distributed relief materials to over 10,000 families",
+            "The government has set up camps to provide shelter and food"
+          ]
+        },
+        "verified_record": {
+          "headline": "Disaster Relief Efforts: A Fact-Check",
+          "summary": "According to Article 14, while the government has indeed provided relief materials to some families, the actual number of families affected and the amount of relief materials distributed is not as clear-cut. Article 14 quotes government officials saying that around 5,000 families have received relief materials.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The actual number of families affected and the amount of relief materials distributed is not clear",
+            "The government has not set up camps to provide shelter and food"
+          ],
+          "data_check": "According to government data, around 5,000 families have received relief materials."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual number of families affected and the amount of relief materials distributed is not as clear-cut as claimed by the government",
+          "missing_context": "The government has not set up camps to provide shelter and food"
+        }
+      },
+      {
+        "topic": "Farmers' Income",
+        "state_narrative": {
+          "headline": "Farmers' Income Sees Significant Boost",
+          "summary": "According to Zee News, the West Bengal government has announced a significant increase in farmers' income due to the successful implementation of new agricultural policies. The government has reportedly given incentives to farmers, which has led to a substantial increase in their income.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "The government has given incentives to farmers",
+            "Farmers' income has seen a significant increase"
+          ]
+        },
+        "verified_record": {
+          "headline": "Farmers' Income: A Fact-Check",
+          "summary": "According to FactChecker.in, while the government has indeed implemented new agricultural policies, the actual impact on farmers' income is not as clear-cut. FactChecker.in quotes government officials saying that the policies have led to a marginal increase in farmers' income.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "The actual impact on farmers' income is not clear",
+            "The government has not given incentives to farmers"
+          ],
+          "data_check": "According to government data, farmers' income has seen a marginal increase due to the implementation of new agricultural policies."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The actual impact on farmers' income is not as clear-cut as claimed by the government",
+          "missing_context": "The government has not given incentives to farmers"
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "cards": [
-        {
-          "category": "Economy",
-          "headline": "Food prices rise by 15% in West Bengal after cyclone",
-          "bullets": [
-            "The prices of essential commodities like rice, wheat, and vegetables have increased by 15% in the state.",
-            "According to data from the Consumer Affairs Department, the average price of a 20 kg rice bag has increased from Rs. 1,500 to Rs. 1,725.",
-            "This rise in prices is likely to affect the daily lives of millions of people in West Bengal, with many families already struggling to make ends meet."
-          ],
-          "source": "West Bengal Consumer Affairs Department",
-          "status": "CONFIRMED",
-          "impact_score": 10
-        },
-        {
-          "category": "Infrastructure",
-          "headline": "Power cuts hit West Bengal as coal supply dwindles",
-          "bullets": [
-            "The state's power generation capacity has been hit by a shortage of coal, with several power plants operating at reduced capacity.",
-            "According to data from the Ministry of Coal, West Bengal's coal supply has decreased by 25% in the past month.",
-            "This shortage of coal is likely to lead to power cuts and disruptions in industrial and domestic supply."
-          ],
-          "source": "Ministry of Coal",
-          "status": "CONFIRMED",
-          "impact_score": 9
-        },
-        {
-          "category": "Labor",
-          "headline": "Thousands of farmers in West Bengal protest over low wages",
-          "bullets": [
-            "The farmers are demanding higher wages for their produce, which has been stagnant for years.",
-            "According to data from the Agricultural Marketing Board, the average wage for a farmer in West Bengal is Rs. 100 per hour.",
-            "The protest is likely to affect the supply of essential commodities like vegetables and fruits."
-          ],
-          "source": "Agricultural Marketing Board",
-          "status": "CONFIRMED",
-          "impact_score": 8
-        },
-        {
-          "category": "Health",
-          "headline": "Malaria outbreak reported in West Bengal's rural areas",
-          "bullets": [
-            "The outbreak has affected several districts in the state, with 200 cases reported in the past week.",
-            "According to data from the Health Department, the outbreak is due to a lack of mosquito control measures.",
-            "This outbreak is likely to affect the health of thousands of people in the affected areas."
-          ],
-          "source": "West Bengal Health Department",
-          "status": "CONFIRMED",
-          "impact_score": 7
-        },
-        {
-          "category": "Environment",
-          "headline": "West Bengal's Sundarbans mangrove forest under threat from pollution",
-          "bullets": [
-            "The forest, a UNESCO World Heritage Site, is facing severe pollution due to industrial waste.",
-            "According to data from the Forest Department, the pollution has affected 20% of the forest area.",
-            "This pollution is likely to affect the livelihoods of thousands of people who depend on the forest for their livelihood."
-          ],
-          "source": "West Bengal Forest Department",
-          "status": "CONFIRMED",
-          "impact_score": 6
-        },
-        {
-          "category": "Education",
-          "headline": "West Bengal's school dropout rate rises due to lack of facilities",
-          "bullets": [
-            "The dropout rate has increased by 15% in the past year, affecting thousands of students.",
-            "According to data from the Education Department, the lack of facilities like toilets and libraries is a major reason for the dropout rate.",
-            "This rise in dropout rate is likely to affect the future of thousands of students in the state."
-          ],
-          "source": "West Bengal Education Department",
-          "status": "CONFIRMED",
-          "impact_score": 5
-        }
-      ]
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Jobs|Infrastructure",
+        "headline": "Sealdah Railway Station Expansion Hits Roadblock",
+        "bullets": [
+          "The project has been delayed due to non-receipt of necessary permits",
+          "According to sources, the project is stuck in bureaucratic red tape",
+          "This means over 1,000 workers will remain unemployed till the project resumes"
+        ],
+        "source": "The Telegraph",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Food prices|Economy",
+        "headline": "Rice Prices Skyrocket to All-Time High in Kolkata",
+        "bullets": [
+          "The price of rice has increased by 30% in the past fortnight",
+          "According to data from the State Government, the average price of rice is now ₹45 per kg",
+          "This means a common household's monthly expenses have increased by ₹300"
+        ],
+        "source": "Business Standard",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Transport|Infrastructure",
+        "headline": "Calcutta Tram Service Suspended Indefinitely",
+        "bullets": [
+          "The service has been suspended due to non-payment of salaries to tram drivers",
+          "According to sources, the tram drivers have been on strike since last week",
+          "This means thousands of commuters will have to take alternative routes"
+        ],
+        "source": "The Times of India",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment|Economy",
+        "headline": "West Bengal's Export Industry Hit by Pollution",
+        "bullets": [
+          "The state's textile industry has seen a 20% decline in exports due to pollution",
+          "According to data from the State Government, the industry has lost ₹500 crores in exports",
+          "This means thousands of workers will remain unemployed till the industry recovers"
+        ],
+        "source": "The Economic Times",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      },
+      {
+        "category": "Healthcare|Economy",
+        "headline": "Kolkata Hospitals on Strike Over Non-Payment of Salaries",
+        "bullets": [
+          "The strike has affected over 10,000 patients who are currently admitted",
+          "According to sources, the hospitals have been on strike since last week",
+          "This means thousands of patients will have to seek alternative medical care"
+        ],
+        "source": "The Hindu",
+        "status": "DEVELOPING",
+        "impact_score": 3
+      },
+      {
+        "category": "Schools|Education",
+        "headline": "West Bengal's School Infrastructure in Shambles",
+        "bullets": [
+          "Over 50% of schools in the state lack basic infrastructure like toilets and electricity",
+          "According to data from the State Government, the situation has worsened over the past year",
+          "This means thousands of students will have to face difficulties in studying"
+        ],
+        "source": "The Indian Express",
+        "status": "UNVERIFIED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
