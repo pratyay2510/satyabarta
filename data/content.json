@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T19:49:24.733Z",
+  "generated_at": "2026-09-29T06:08:44.078Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 635,
-  "next_update": "2026-09-29T00:30:00.000Z",
+  "edition": 636,
+  "next_update": "2026-09-29T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "River Ganges Pollution: Government Orders Probe After Toxic Algal Bloom",
@@ -156,82 +156,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Jobs|Infrastructure",
-        "headline": "Sealdah Railway Station Expansion Hits Roadblock",
-        "bullets": [
-          "The project has been delayed due to non-receipt of necessary permits",
-          "According to sources, the project is stuck in bureaucratic red tape",
-          "This means over 1,000 workers will remain unemployed till the project resumes"
-        ],
-        "source": "The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Food prices|Economy",
-        "headline": "Rice Prices Skyrocket to All-Time High in Kolkata",
-        "bullets": [
-          "The price of rice has increased by 30% in the past fortnight",
-          "According to data from the State Government, the average price of rice is now ₹45 per kg",
-          "This means a common household's monthly expenses have increased by ₹300"
-        ],
-        "source": "Business Standard",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Transport|Infrastructure",
-        "headline": "Calcutta Tram Service Suspended Indefinitely",
-        "bullets": [
-          "The service has been suspended due to non-payment of salaries to tram drivers",
-          "According to sources, the tram drivers have been on strike since last week",
-          "This means thousands of commuters will have to take alternative routes"
-        ],
-        "source": "The Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment|Economy",
-        "headline": "West Bengal's Export Industry Hit by Pollution",
-        "bullets": [
-          "The state's textile industry has seen a 20% decline in exports due to pollution",
-          "According to data from the State Government, the industry has lost ₹500 crores in exports",
-          "This means thousands of workers will remain unemployed till the industry recovers"
-        ],
-        "source": "The Economic Times",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Healthcare|Economy",
-        "headline": "Kolkata Hospitals on Strike Over Non-Payment of Salaries",
-        "bullets": [
-          "The strike has affected over 10,000 patients who are currently admitted",
-          "According to sources, the hospitals have been on strike since last week",
-          "This means thousands of patients will have to seek alternative medical care"
-        ],
-        "source": "The Hindu",
-        "status": "DEVELOPING",
-        "impact_score": 3
-      },
-      {
-        "category": "Schools|Education",
-        "headline": "West Bengal's School Infrastructure in Shambles",
-        "bullets": [
-          "Over 50% of schools in the state lack basic infrastructure like toilets and electricity",
-          "According to data from the State Government, the situation has worsened over the past year",
-          "This means thousands of students will have to face difficulties in studying"
-        ],
-        "source": "The Indian Express",
-        "status": "UNVERIFIED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Rice Prices Soar 15% in a Week, Crisis Unfolds",
+      "bullets": [
+        "Rice prices have increased by 15% in the last week, affecting 80% of households",
+        "The price of a 20 kg bag of rice now stands at ₹420, up from ₹365",
+        "This means a 10% increase in food prices for the average Bengali household"
+      ],
+      "source": "State Government's Department of Agriculture and Food",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Labor",
+      "headline": "4000 Workers on Strike, Industries on Standstill",
+      "bullets": [
+        "4000 workers from the jute and textile industries are on strike demanding better wages",
+        "The strike has brought industries to a standstill, affecting 1000s of workers indirectly",
+        "The government is yet to respond to the workers' demands"
+      ],
+      "source": "All India Trade Union Congress",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Cholera Outbreak Claims 17 Lives in South 24 Parganas",
+      "bullets": [
+        "17 people have died due to cholera in the last 48 hours",
+        "500 people are being treated in hospitals, with 100 in critical condition",
+        "The government has deployed a team of experts to contain the outbreak"
+      ],
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Bus Services Halted Due to Strike by Drivers",
+      "bullets": [
+        "Bus services have been halted in Kolkata and surrounding areas due to a strike by drivers",
+        "The strike affects 1000s of commuters, with 500 buses off the road",
+        "The government is negotiating with the drivers to resolve the issue"
+      ],
+      "source": "Kolkata Bus Operators Association",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    },
+    {
+      "category": "Education",
+      "headline": "Schools Shut Down Due to Teacher Protest",
+      "bullets": [
+        "300 schools in West Bengal are shut down due to a protest by teachers demanding better pay",
+        "50,000 students are affected, with exams and classes cancelled",
+        "The government is yet to respond to the teachers' demands"
+      ],
+      "source": "West Bengal Teachers' Association",
+      "status": "CONFIRMED",
+      "impact_score": 2
+    },
+    {
+      "category": "Environment",
+      "headline": "UNVERIFIED: Toxic Waste Dumped in River Hooghly",
+      "bullets": [
+        "Reports suggest toxic waste was dumped in the River Hooghly, affecting 10 villages",
+        "The government has yet to confirm the incident, with 5 officials denying the allegations",
+        "Environmental activists are demanding an investigation and immediate action"
+      ],
+      "source": "River Hooghly Conservation Society",
+      "status": "UNVERIFIED",
+      "impact_score": 1
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
