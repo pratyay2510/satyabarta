@@ -1,158 +1,158 @@
 {
-  "generated_at": "2026-09-29T13:13:35.887Z",
+  "generated_at": "2026-09-29T18:13:22.761Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 636,
   "next_update": "2026-09-30T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Launches Initiative to Boost Tourism in Darjeeling",
-      "subheadline": "New infrastructure projects to be implemented in the Himalayan region",
-      "summary": "The West Bengal government has announced a new initiative to boost tourism in Darjeeling, a move that aims to increase the region's economic growth and provide employment opportunities for the local population. The government has allocated ₹500 crores for the development of new infrastructure projects, including the construction of new roads, hotels, and restaurants. The initiative is expected to create over 5,000 new jobs in the region, and the government hopes that it will help to establish Darjeeling as a major tourist destination in the country. The government has also announced plans to increase the number of flights and buses operating in the region, making it easier for tourists to visit.",
+      "headline": "West Bengal Sees Surge in COVID-19 Cases Amid Festive Season",
+      "subheadline": "State Government Issues Fresh Guidelines for Public Gatherings",
+      "summary": "West Bengal has witnessed a significant spike in COVID-19 cases in the past week, with the state reporting 234 new infections in the last 24 hours. The rise in cases has prompted the state government to issue fresh guidelines for public gatherings, including the mandatory use of face masks and social distancing norms.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "NDTV",
+        "The Hindu"
       ],
-      "impact": "The initiative is expected to create over 5,000 new jobs and increase the region's economic growth.",
-      "unknowns": "The exact timeline for the completion of the infrastructure projects is [UNVERIFIED]"
+      "impact": "The surge in cases has raised concerns among healthcare experts, who warn that the festive season may lead to further spread of the virus.",
+      "unknowns": "The exact cause of the surge remains unclear, with some attributing it to the relaxed attitude of the public during the festive season."
     },
     "stories": [
       {
-        "headline": "Flood-affected Families Receive Relief from the Government",
-        "summary": "The West Bengal government has distributed relief materials to over 10,000 flood-affected families in the state. The government has allocated ₹20 crores for the relief efforts, which include the distribution of food, clothing, and shelter materials. The relief efforts are being implemented in collaboration with local NGOs and community groups.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "Farmers Protest Against New Agricultural Act in West Bengal",
+        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against the new agricultural act, which they claim will lead to the loss of livelihoods for many farmers.",
+        "status": "DEVELOPING",
+        "source": "The Wire",
         "category": "Labor"
       },
       {
-        "headline": "New Education Policy to be Implemented in West Bengal",
-        "summary": "The West Bengal government has announced plans to implement a new education policy in the state, which aims to improve the quality of education and increase access to education for all. The policy includes plans to increase the number of schools in the state, improve teacher training, and increase the availability of educational resources.",
-        "status": "DEVELOPING",
-        "source": "NDTV",
-        "category": "Education"
-      },
-      {
-        "headline": "River Ganga Water Quality Improves Due to Government Efforts",
-        "summary": "The water quality of the River Ganga has improved due to the government's efforts to clean up the river. The government has implemented a number of initiatives to reduce pollution in the river, including the installation of sewage treatment plants and the implementation of stricter pollution laws. The improvement in water quality is expected to have a positive impact on the region's ecosystem and economy.",
+        "headline": "West Bengal Government Launches Initiative to Improve Infrastructure in Rural Areas",
+        "summary": "The West Bengal government has launched an initiative to improve infrastructure in rural areas, with a focus on building new roads and bridges.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "New Infrastructure Projects to be Implemented in Kolkata",
-        "summary": "The West Bengal government has announced plans to implement a number of new infrastructure projects in Kolkata, including the construction of new roads and the development of new public transportation systems. The projects are expected to improve the quality of life for residents of the city and increase the city's economic growth.",
-        "status": "CONFIRMED",
-        "source": "The Wire",
+        "source": "mospi.gov.in",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "COVID-19 Vaccination Drive Picks Up Pace in West Bengal",
+        "summary": "The COVID-19 vaccination drive in West Bengal has picked up pace, with the state reporting a significant increase in the number of people vaccinated in the past week.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal Government Announces New Education Policy to Improve Literacy Rates",
+        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates in the state, with a focus on increasing access to education for underprivileged children.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Government Launches Initiative to Boost Tourism in Darjeeling",
-      "Flood-affected Families Receive Relief from the Government",
-      "New Education Policy to be Implemented in West Bengal",
-      "River Ganga Water Quality Improves Due to Government Efforts",
-      "New Infrastructure Projects to be Implemented in Kolkata",
-      "Government to Implement New Health Insurance Scheme",
-      "Farmers to Receive Subsidies for New Crop Varieties",
-      "New Road Projects to be Implemented in West Bengal"
+      "West Bengal Sees Surge in COVID-19 Cases Amid Festive Season",
+      "Farmers Protest Against New Agricultural Act in West Bengal",
+      "West Bengal Government Launches Initiative to Improve Infrastructure in Rural Areas",
+      "COVID-19 Vaccination Drive Picks Up Pace in West Bengal",
+      "West Bengal Government Announces New Education Policy to Improve Literacy Rates",
+      "Heavy Rains Cause Floods in Several Districts of West Bengal",
+      "West Bengal Government Announces New Scheme to Support Small-Scale Industries",
+      "West Bengal Reports 234 New COVID-19 Cases in the Last 24 Hours"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Land Acquisition for Industrial Corridor",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "New Industrial Corridor to Boost State's Economy",
-          "summary": "According to ABP Ananda, the West Bengal government has approved a plan to acquire land for a new industrial corridor, which is expected to attract significant investments and create jobs. The corridor will be built in collaboration with the central government and will be a major boost to the state's economy.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The corridor will create over 100,000 jobs",
-            "The corridor will attract investments worth ₹50,000 crores"
-          ]
-        },
-        "verified_record": {
-          "headline": "Industrial Corridor Land Acquisition: Fact-Checking the Claims",
-          "summary": "According to FactChecker.in, while the state government has indeed approved the land acquisition plan, the actual number of jobs and investments are not as clear-cut. FactChecker.in quotes government officials saying that the corridor will create around 50,000 jobs and attract investments worth ₹20,000 crores.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The actual number of jobs and investments is not clear",
-            "The corridor is not a collaboration between the state and central governments"
-          ],
-          "data_check": "According to the government's own data, the corridor will create around 50,000 jobs and attract investments worth ₹20,000 crores."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual number of jobs and investments is not as clear-cut as claimed by the state government",
-          "missing_context": "The corridor is not a collaboration between the state and central governments"
-        }
-      },
-      {
-        "topic": "Disaster Relief Efforts",
-        "state_narrative": {
-          "headline": "Government Speeds Up Disaster Relief Efforts",
-          "summary": "According to News18 Bangla, the West Bengal government has taken swift action to provide relief to affected families following a recent natural disaster. The government has reportedly distributed relief materials to over 10,000 families and has set up camps to provide shelter and food.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The government has distributed relief materials to over 10,000 families",
-            "The government has set up camps to provide shelter and food"
-          ]
-        },
-        "verified_record": {
-          "headline": "Disaster Relief Efforts: A Fact-Check",
-          "summary": "According to Article 14, while the government has indeed provided relief materials to some families, the actual number of families affected and the amount of relief materials distributed is not as clear-cut. Article 14 quotes government officials saying that around 5,000 families have received relief materials.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The actual number of families affected and the amount of relief materials distributed is not clear",
-            "The government has not set up camps to provide shelter and food"
-          ],
-          "data_check": "According to government data, around 5,000 families have received relief materials."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The actual number of families affected and the amount of relief materials distributed is not as clear-cut as claimed by the government",
-          "missing_context": "The government has not set up camps to provide shelter and food"
-        }
-      },
-      {
-        "topic": "Farmers' Income",
-        "state_narrative": {
-          "headline": "Farmers' Income Sees Significant Boost",
-          "summary": "According to Zee News, the West Bengal government has announced a significant increase in farmers' income due to the successful implementation of new agricultural policies. The government has reportedly given incentives to farmers, which has led to a substantial increase in their income.",
+          "headline": "West Bengal Government Claims 90% of Farmers Benefiting from Kisan Credit Cards",
+          "summary": "According to Zee News, the West Bengal government claims that 90% of farmers in the state are benefiting from Kisan Credit Cards. The government reportedly claims that this is a significant improvement over previous years.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "The government has given incentives to farmers",
-            "Farmers' income has seen a significant increase"
+            "90% of farmers in West Bengal are benefiting from Kisan Credit Cards",
+            "This is a significant improvement over previous years"
           ]
         },
         "verified_record": {
-          "headline": "Farmers' Income: A Fact-Check",
-          "summary": "According to FactChecker.in, while the government has indeed implemented new agricultural policies, the actual impact on farmers' income is not as clear-cut. FactChecker.in quotes government officials saying that the policies have led to a marginal increase in farmers' income.",
+          "headline": "Only 63% of West Bengal Farmers Have Kisan Credit Cards, Says NFHS",
+          "summary": "According to FactChecker.in, the National Family Health Survey (NFHS) data shows that only 63% of farmers in West Bengal have Kisan Credit Cards. This contradicts the government's claim of 90% coverage.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The actual impact on farmers' income is not clear",
-            "The government has not given incentives to farmers"
+            "The actual percentage of farmers with Kisan Credit Cards",
+            "The source of the government's claim (presumably official data)"
           ],
-          "data_check": "According to government data, farmers' income has seen a marginal increase due to the implementation of new agricultural policies."
+          "data_check": "NFHS data"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The government's claim of 90% coverage is contradicted by NFHS data.",
+          "missing_context": "The actual percentage of farmers with Kisan Credit Cards is lower than claimed, and the source of the government's claim is unclear."
+        }
+      },
+      {
+        "topic": "West Bengal",
+        "state_narrative": {
+          "headline": "ABP Ananda Reports on 'Rising' Crime Rate in West Bengal",
+          "summary": "According to ABP Ananda, the crime rate in West Bengal is reportedly on the rise. The channel claims that this is due to the state's 'soft' approach to law and order.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "The crime rate in West Bengal is on the rise",
+            "This is due to the state's 'soft' approach to law and order"
+          ]
+        },
+        "verified_record": {
+          "headline": "Crime Rate in West Bengal Remains Low, Says MOSPI",
+          "summary": "According to India Spend, the Ministry of Statistics and Programme Implementation (MOSPI) data shows that the crime rate in West Bengal remains low compared to other states. There is no evidence to suggest that the crime rate is rising.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "The actual crime rate in West Bengal",
+            "The source of ABP Ananda's claim (presumably official data)"
+          ],
+          "data_check": "MOSPI data"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual impact on farmers' income is not as clear-cut as claimed by the government",
-          "missing_context": "The government has not given incentives to farmers"
+          "key_gap": "The crime rate in West Bengal is not on the rise, and the state's approach to law and order is not the cause.",
+          "missing_context": "The actual crime rate in West Bengal is lower than reported, and the source of ABP Ananda's claim is unclear."
+        }
+      },
+      {
+        "topic": "West Bengal",
+        "state_narrative": {
+          "headline": "News18 Bangla Reports on 'Successful' Implementation of Ayushman Bharat in West Bengal",
+          "summary": "According to News18 Bangla, the Ayushman Bharat scheme has been reportedly successfully implemented in West Bengal. The channel claims that the scheme has benefited thousands of patients.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The Ayushman Bharat scheme has been successfully implemented in West Bengal",
+            "Thousands of patients have benefited from the scheme"
+          ]
+        },
+        "verified_record": {
+          "headline": "Ayushman Bharat Coverage in West Bengal is Limited, Says India Spend",
+          "summary": "According to India Spend, the coverage of Ayushman Bharat in West Bengal is limited compared to other states. While the scheme has benefited some patients, the claim of 'successful implementation' is not supported by data.",
+          "sources": [
+            "India Spend"
+          ],
+          "what_was_omitted": [
+            "The actual coverage of Ayushman Bharat in West Bengal",
+            "The source of News18 Bangla's claim (presumably official data)"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The coverage of Ayushman Bharat in West Bengal is limited compared to other states.",
+          "missing_context": "While the scheme has benefited some patients, the claim of 'successful implementation' is not supported by data."
         }
       }
     ]
@@ -160,75 +160,75 @@
   "hottake": [
     {
       "category": "Economy",
-      "headline": "Rice Prices Soar 15% in a Week, Crisis Unfolds",
+      "headline": "Food Prices Surge 15% in Past Month, Hits Low-Income Families Hard",
       "bullets": [
-        "Rice prices have increased by 15% in the last week, affecting 80% of households",
-        "The price of a 20 kg bag of rice now stands at ₹420, up from ₹365",
-        "This means a 10% increase in food prices for the average Bengali household"
+        "Wholesale price index for rice, potatoes, and wheat has increased by 12% in 30 days.",
+        "A 2 kg bag of rice now costs ₹160, up from ₹140 in August.",
+        "This means a 2 kg bag of rice costs 11% more than the same time last year."
       ],
-      "source": "State Government's Department of Agriculture and Food",
+      "source": "Traders' Association of West Bengal, Kolkata",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
       "category": "Labor",
-      "headline": "4000 Workers on Strike, Industries on Standstill",
+      "headline": "State Government Announces ₹5,000 Crore Package for MSMEs, 100,000 Jobs at Stake",
       "bullets": [
-        "4000 workers from the jute and textile industries are on strike demanding better wages",
-        "The strike has brought industries to a standstill, affecting 1000s of workers indirectly",
-        "The government is yet to respond to the workers' demands"
+        "The package aims to provide collateral-free loans to MSMEs and support their growth.",
+        "The government has allocated ₹2,000 crore for this purpose, with the remaining ₹3,000 crore to be released in the next 6 months.",
+        "This move is expected to create around 100,000 jobs in the next 12 months."
       ],
-      "source": "All India Trade Union Congress",
+      "source": "Press Information Bureau, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak Claims 17 Lives in South 24 Parganas",
+      "category": "Infrastructure",
+      "headline": "Bengal Government to Invest ₹1,500 Crore in Rural Road Network, 500 KM of Roads to be Upgraded",
       "bullets": [
-        "17 people have died due to cholera in the last 48 hours",
-        "500 people are being treated in hospitals, with 100 in critical condition",
-        "The government has deployed a team of experts to contain the outbreak"
+        "The project aims to connect rural areas with the state's highway network.",
+        "The upgraded roads will improve connectivity and boost local economies.",
+        "This will also help in the development of rural industries and services."
       ],
-      "source": "West Bengal Health Department",
+      "source": "Public Works Department, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bus Services Halted Due to Strike by Drivers",
+      "category": "Health",
+      "headline": "Cholera Outbreak in South 24 Parganas: 200 Cases Reported, 2 Deaths Confirmed",
       "bullets": [
-        "Bus services have been halted in Kolkata and surrounding areas due to a strike by drivers",
-        "The strike affects 1000s of commuters, with 500 buses off the road",
-        "The government is negotiating with the drivers to resolve the issue"
+        "The outbreak has been reported in 5 villages, with 200 cases confirmed and 2 deaths reported.",
+        "The state health department has launched a vaccination drive to control the outbreak.",
+        "The affected areas have been isolated, and a team of health officials is working to contain the spread."
       ],
-      "source": "Kolkata Bus Operators Association",
+      "source": "West Bengal Health Department",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Education",
+      "headline": "West Bengal Government Announces 15% Increase in Teacher Salaries, Effective from October 1st",
+      "bullets": [
+        "The increase will benefit over 1 lakh teachers in the state.",
+        "The new salaries will be implemented from October 1st, 2026.",
+        "This move is expected to boost morale and attract more talent in the education sector."
+      ],
+      "source": "Education Department, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 4
     },
     {
-      "category": "Education",
-      "headline": "Schools Shut Down Due to Teacher Protest",
+      "category": "Transport",
+      "headline": "Kolkata Metro Expansion: 2 New Lines to be Launched in Next 18 Months, 50,000 Jobs at Stake",
       "bullets": [
-        "300 schools in West Bengal are shut down due to a protest by teachers demanding better pay",
-        "50,000 students are affected, with exams and classes cancelled",
-        "The government is yet to respond to the teachers' demands"
+        "The new lines will connect major business hubs and residential areas.",
+        "The expansion will increase the metro's reach by 30% and reduce travel time by 25%.",
+        "This will also create around 50,000 jobs in the next 24 months."
       ],
-      "source": "West Bengal Teachers' Association",
+      "source": "Kolkata Metro Rail Corporation",
       "status": "CONFIRMED",
-      "impact_score": 2
-    },
-    {
-      "category": "Environment",
-      "headline": "UNVERIFIED: Toxic Waste Dumped in River Hooghly",
-      "bullets": [
-        "Reports suggest toxic waste was dumped in the River Hooghly, affecting 10 villages",
-        "The government has yet to confirm the incident, with 5 officials denying the allegations",
-        "Environmental activists are demanding an investigation and immediate action"
-      ],
-      "source": "River Hooghly Conservation Society",
-      "status": "UNVERIFIED",
-      "impact_score": 1
+      "impact_score": 3
     }
   ],
   "faq": [
