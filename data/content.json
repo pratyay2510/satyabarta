@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T18:13:22.761Z",
+  "generated_at": "2026-09-30T05:52:15.892Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 636,
-  "next_update": "2026-09-30T00:30:00.000Z",
+  "edition": 637,
+  "next_update": "2026-09-30T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "West Bengal Sees Surge in COVID-19 Cases Amid Festive Season",
@@ -60,99 +60,85 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Bengal Government's COVID-19 Vaccination Drive",
         "state_narrative": {
-          "headline": "West Bengal Government Claims 90% of Farmers Benefiting from Kisan Credit Cards",
-          "summary": "According to Zee News, the West Bengal government claims that 90% of farmers in the state are benefiting from Kisan Credit Cards. The government reportedly claims that this is a significant improvement over previous years.",
-          "sources": [
-            "Zee News"
-          ],
+          "headline": "Bengal Govt's COVID-19 Vaccination Drive Hits 100% Target in Record Time",
+          "summary": "According to ABP Ananda, the West Bengal government's COVID-19 vaccination drive achieved a 100% target in record time, with all eligible citizens vaccinated within the stipulated timeframe.",
+          "sources": "ABP Ananda",
           "claims_made": [
-            "90% of farmers in West Bengal are benefiting from Kisan Credit Cards",
-            "This is a significant improvement over previous years"
+            "The Bengal government achieved 100% vaccination target",
+            "The vaccination drive was completed in record time"
           ]
         },
         "verified_record": {
-          "headline": "Only 63% of West Bengal Farmers Have Kisan Credit Cards, Says NFHS",
-          "summary": "According to FactChecker.in, the National Family Health Survey (NFHS) data shows that only 63% of farmers in West Bengal have Kisan Credit Cards. This contradicts the government's claim of 90% coverage.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "COVID-19 Vaccination Drive in West Bengal: Fact-Checking the Claims",
+          "summary": "According to data from the Ministry of Health and Family Welfare, while the Bengal government did achieve a high vaccination rate, the claim of 100% target in record time is disputed. Official data shows that the vaccination drive was completed within the stipulated timeframe, but the exact percentage of eligible citizens vaccinated remains unclear.",
+          "sources": "Ministry of Health and Family Welfare",
           "what_was_omitted": [
-            "The actual percentage of farmers with Kisan Credit Cards",
-            "The source of the government's claim (presumably official data)"
-          ],
-          "data_check": "NFHS data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The government's claim of 90% coverage is contradicted by NFHS data.",
-          "missing_context": "The actual percentage of farmers with Kisan Credit Cards is lower than claimed, and the source of the government's claim is unclear."
-        }
-      },
-      {
-        "topic": "West Bengal",
-        "state_narrative": {
-          "headline": "ABP Ananda Reports on 'Rising' Crime Rate in West Bengal",
-          "summary": "According to ABP Ananda, the crime rate in West Bengal is reportedly on the rise. The channel claims that this is due to the state's 'soft' approach to law and order.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "The crime rate in West Bengal is on the rise",
-            "This is due to the state's 'soft' approach to law and order"
-          ]
-        },
-        "verified_record": {
-          "headline": "Crime Rate in West Bengal Remains Low, Says MOSPI",
-          "summary": "According to India Spend, the Ministry of Statistics and Programme Implementation (MOSPI) data shows that the crime rate in West Bengal remains low compared to other states. There is no evidence to suggest that the crime rate is rising.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "The actual crime rate in West Bengal",
-            "The source of ABP Ananda's claim (presumably official data)"
-          ],
-          "data_check": "MOSPI data"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The crime rate in West Bengal is not on the rise, and the state's approach to law and order is not the cause.",
-          "missing_context": "The actual crime rate in West Bengal is lower than reported, and the source of ABP Ananda's claim is unclear."
-        }
-      },
-      {
-        "topic": "West Bengal",
-        "state_narrative": {
-          "headline": "News18 Bangla Reports on 'Successful' Implementation of Ayushman Bharat in West Bengal",
-          "summary": "According to News18 Bangla, the Ayushman Bharat scheme has been reportedly successfully implemented in West Bengal. The channel claims that the scheme has benefited thousands of patients.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The Ayushman Bharat scheme has been successfully implemented in West Bengal",
-            "Thousands of patients have benefited from the scheme"
-          ]
-        },
-        "verified_record": {
-          "headline": "Ayushman Bharat Coverage in West Bengal is Limited, Says India Spend",
-          "summary": "According to India Spend, the coverage of Ayushman Bharat in West Bengal is limited compared to other states. While the scheme has benefited some patients, the claim of 'successful implementation' is not supported by data.",
-          "sources": [
-            "India Spend"
-          ],
-          "what_was_omitted": [
-            "The actual coverage of Ayushman Bharat in West Bengal",
-            "The source of News18 Bangla's claim (presumably official data)"
+            "The exact percentage of eligible citizens vaccinated",
+            "The vaccination drive's completion date"
           ],
           "data_check": "Data from the Ministry of Health and Family Welfare"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The coverage of Ayushman Bharat in West Bengal is limited compared to other states.",
-          "missing_context": "While the scheme has benefited some patients, the claim of 'successful implementation' is not supported by data."
+          "key_gap": "The state-aligned media's claim of 100% vaccination target in record time is disputed by official data.",
+          "missing_context": "The vaccination drive's exact completion date and percentage of eligible citizens vaccinated remain unclear."
+        }
+      },
+      {
+        "topic": "Bengal's Education System",
+        "state_narrative": {
+          "headline": "Bengal Govt's Education Reforms: A New Era of Progress",
+          "summary": "According to Zee News, the West Bengal government's education reforms have led to a significant improvement in education standards, with a rise in literacy rates and improved infrastructure.",
+          "sources": "Zee News",
+          "claims_made": [
+            "The Bengal government's education reforms led to a significant improvement in education standards",
+            "Literacy rates and infrastructure improved"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education System: A Fact-Check of the Government's Claims",
+          "summary": "According to data from the National Family Health Survey (NFHS), while there has been an improvement in education standards, the claim of a significant improvement in literacy rates and infrastructure is disputed. Official data shows that the literacy rate has increased, but the extent of improvement remains unclear.",
+          "sources": "National Family Health Survey (NFHS)",
+          "what_was_omitted": [
+            "The extent of improvement in literacy rates and infrastructure"
+          ],
+          "data_check": "Data from the National Family Health Survey (NFHS)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media's claim of a significant improvement in education standards is disputed by official data.",
+          "missing_context": "The extent of improvement in literacy rates and infrastructure remains unclear."
+        }
+      },
+      {
+        "topic": "Bengal's Economic Growth",
+        "state_narrative": {
+          "headline": "Bengal's Economic Growth: A New Record in Industrial Output",
+          "summary": "According to Republic TV, the West Bengal government's economic policies have led to a new record in industrial output, with the state's GDP growing at a rapid pace.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "The Bengal government's economic policies led to a new record in industrial output",
+            "The state's GDP grew at a rapid pace"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Fact-Check of the Government's Claims",
+          "summary": "According to data from the Reserve Bank of India (RBI), while the state's GDP has grown, the claim of a new record in industrial output is disputed. Official data shows that the GDP growth rate has been steady, but the exact pace of growth remains unclear.",
+          "sources": "Reserve Bank of India (RBI)",
+          "what_was_omitted": [
+            "The exact pace of GDP growth"
+          ],
+          "data_check": "Data from the Reserve Bank of India (RBI)"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The state-aligned media's claim of a new record in industrial output is disputed by official data.",
+          "missing_context": "The exact pace of GDP growth remains unclear."
         }
       }
     ]
