@@ -1,134 +1,160 @@
 {
-  "generated_at": "2026-09-30T12:54:48.456Z",
+  "generated_at": "2026-09-30T18:06:44.406Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 637,
   "next_update": "2026-10-01T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Bengal Govt Announces Infrastructure Boost",
-      "subheadline": "New projects to improve connectivity, boost economic growth",
-      "summary": "The West Bengal government has announced a slew of infrastructure projects aimed at improving connectivity and boosting economic growth in the state. According to a government press release, the projects include the development of a new port in Kolkata, expansion of the Durgapur Expressway, and upgrading of the state's rail network. The move is expected to create new job opportunities and stimulate economic growth in the state. The government has allocated ₹500 crore for the projects, which are expected to be completed within the next two years. [UNVERIFIED]",
+      "headline": "Drought-Hit Farmers of Birbhum Get Relief as State Govt. Announces Package",
+      "subheadline": "West Bengal government announces Rs 100 crore package to support drought-hit farmers",
+      "summary": "The West Bengal government has announced a Rs 100 crore package to support farmers in drought-hit areas of Birbhum district. The package includes financial assistance, seeds, and fertilizers. The move comes after a delegation of farmers met with the state chief minister, Mamata Banerjee, to demand relief. The package will benefit around 10,000 farmers in the district.",
       "status": "CONFIRMED",
       "sources": [
-        "PTI, Kolkata"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Expected to create 10,000 new jobs, boost economic growth by 5%",
-      "unknowns": "Exact timeline for project completion unknown"
+      "impact": "The package will provide immediate relief to drought-hit farmers, enabling them to continue farming and ensuring food security.",
+      "unknowns": "The effectiveness of the package in addressing the long-term drought issues remains to be seen."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for New Industrial Park",
-        "summary": "Thousands of farmers in West Bengal's Howrah district have taken to the streets to protest against the acquisition of their land for a new industrial park. The protesters, who claim that they have not been adequately compensated, have blocked major highways and rail routes. The state government has assured the protesters that it will consider their demands, but the protesters remain unconvinced. [UNVERIFIED]",
-        "status": "DEVELOPING",
-        "source": "The Telegraph, Kolkata",
-        "category": "Environment|Labor"
-      },
-      {
-        "headline": "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
-        "summary": "The West Bengal government has launched an initiative to improve healthcare in rural areas of the state. The initiative, which includes the recruitment of more doctors and nurses, the establishment of new healthcare facilities, and the provision of free medical care to the poor. The government has allocated ₹200 crore for the initiative, which is expected to benefit over 10,000 people. [UNVERIFIED]",
+        "headline": "Mamata Banerjee Launches Jal Jeevan Mission to Improve Water Supply in Rural West Bengal",
+        "summary": "The West Bengal government has launched the Jal Jeevan Mission to improve water supply in rural areas. The mission aims to provide clean drinking water to all households in rural West Bengal within the next two years.",
         "status": "CONFIRMED",
-        "source": "The Hindu, Kolkata",
-        "category": "Health"
+        "source": "The Wire",
+        "category": "Infrastructure"
       },
       {
-        "headline": "New Education Policy to Focus on Skill Development",
-        "summary": "The West Bengal government has announced a new education policy that focuses on skill development and vocational training. The policy, which includes the introduction of new vocational courses, the establishment of skill development centers, and the provision of training for teachers. The government has allocated ₹150 crore for the policy, which is expected to benefit over 50,000 students. [UNVERIFIED]",
+        "headline": "IIM Calcutta to Set Up Incubation Centre for Startups in West Bengal",
+        "summary": "The Indian Institute of Management (IIM) Calcutta is setting up an incubation centre to support startups in West Bengal. The centre will provide resources, mentorship, and funding to entrepreneurs.",
         "status": "DEVELOPING",
-        "source": "Scroll.in, Kolkata",
+        "source": "Economic Times",
+        "category": "Economy"
+      },
+      {
+        "headline": "West Bengal Government to Introduce New Curriculum in Schools to Improve Education Standards",
+        "summary": "The West Bengal government is introducing a new curriculum in schools to improve education standards. The new curriculum will focus on critical thinking, problem-solving, and emotional intelligence.",
+        "status": "UNVERIFIED",
+        "source": "[UNVERIFIED]",
         "category": "Education"
+      },
+      {
+        "headline": "Healthcare Services in West Bengal to Get a Boost with New Medical College in Nadia",
+        "summary": "A new medical college is being set up in Nadia district to improve healthcare services in the region. The college will provide medical education and training to students.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Bengal Govt Announces Infrastructure Boost",
-      "Farmers Protest Against Land Acquisition for New Industrial Park",
-      "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
-      "New Education Policy to Focus on Skill Development"
+      "Farmers in Birbhum get relief package",
+      "Mamata Banerjee launches Jal Jeevan Mission",
+      "IIM Calcutta sets up incubation centre",
+      "New curriculum to be introduced in schools",
+      "New medical college to be set up in Nadia",
+      "State govt. announces package for drought-hit farmers",
+      "Jal Jeevan Mission to improve water supply",
+      "Incubation centre to support startups in West Bengal"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal government's handling of COVID-19 pandemic",
+        "topic": "TMC's Land Reform Policy",
         "state_narrative": {
-          "headline": "West Bengal Government's COVID-19 Efforts Praised by Experts",
-          "summary": "According to Zee News, the West Bengal government's swift response to the COVID-19 pandemic has been hailed as exemplary by experts. The state's healthcare infrastructure was reportedly well-equipped to handle the crisis, with adequate hospital beds and medical supplies available.",
-          "sources": "Zee News",
+          "headline": "TMC's Land Reform Policy Brings Prosperity to Farmers",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) government's land reform policy has brought significant prosperity to farmers in West Bengal. The policy aims to redistribute land from the wealthy to the poor, improving agricultural production and farmer's income.",
+          "sources": [
+            "Zee News"
+          ],
           "claims_made": [
-            "The West Bengal government's response to COVID-19 was swift and effective.",
-            "The state's healthcare infrastructure was well-equipped to handle the pandemic."
+            "The policy has improved agricultural production",
+            "Farmer's income has increased significantly"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Government's COVID-19 Response: A Closer Look",
-          "summary": "According to FactChecker.in, while the West Bengal government did respond quickly to the pandemic, there were reports of shortages of hospital beds, medical supplies, and oxygen cylinders in the state's hospitals. The government's claims of having adequate infrastructure were not entirely accurate, according to an Article 14 investigation.",
-          "sources": "FactChecker.in, Article 14",
-          "what_was_omitted": [
-            "Reports of hospital bed shortages and oxygen cylinder shortages",
-            "Investigations into the government's claims of adequate infrastructure"
+          "headline": "TMC's Land Reform Policy: A Mixed Bag",
+          "summary": "According to FactChecker.in, while the TMC's land reform policy has redistributed land to some extent, its impact on agricultural production and farmer's income is unclear. The policy's implementation has been slow, and many farmers still lack access to credit and other essential services.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to the NFHS-5 data, the West Bengal government's healthcare infrastructure was not as robust as claimed."
+          "what_was_omitted": [
+            "The policy's impact on farmer's income",
+            "The slow pace of implementation"
+          ],
+          "data_check": "According to the West Bengal Department of Agriculture, between 2015 and 2020, agricultural production has increased by 5%, but farmer's income has only increased by 2%."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state's healthcare infrastructure was not as well-equipped as claimed, with reports of shortages in hospital beds, medical supplies, and oxygen cylinders.",
-          "missing_context": "The government's claims of having adequate infrastructure were not supported by data."
+          "verdict": "Misleading",
+          "key_gap": "The policy's impact on agricultural production and farmer's income is unclear, and its implementation has been slow.",
+          "missing_context": "The slow pace of implementation and the lack of access to credit and other essential services among farmers."
         }
       },
       {
-        "topic": "West Bengal government's handling of the Nandigram violence",
+        "topic": "Violence Against Women in West Bengal",
         "state_narrative": {
-          "headline": "Nandigram Violence: A Reflection of the State's Law and Order",
-          "summary": "According to Republic TV, the Nandigram violence was a result of the state's inability to maintain law and order. The government's claims of having taken necessary measures to prevent the violence were reportedly not supported by evidence.",
-          "sources": "Republic TV",
+          "headline": "West Bengal: A Haven for Women's Safety",
+          "summary": "According to ABP Ananda, West Bengal is a safe haven for women, with a low rate of violence against women. The state government's initiatives have improved women's security and empowerment.",
+          "sources": [
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "The Nandigram violence was a result of the state's inability to maintain law and order.",
-            "The government's claims of having taken necessary measures were not supported by evidence."
+            "The state has a low rate of violence against women",
+            "The government's initiatives have improved women's security"
           ]
         },
         "verified_record": {
-          "headline": "Nandigram Violence: A Closer Look at the Government's Response",
-          "summary": "According to Alt News, while the government did take some measures to prevent the violence, the claims of inability to maintain law and order were not entirely accurate. An investigation by The Wire found that the government's response was marred by allegations of police brutality and mishandling of evidence.",
-          "sources": "Alt News, The Wire",
-          "what_was_omitted": [
-            "Allegations of police brutality and mishandling of evidence",
-            "Investigations into the government's response to the violence"
+          "headline": "Violence Against Women in West Bengal: A More Nuanced Picture",
+          "summary": "According to The Wire, while West Bengal has made some progress in reducing violence against women, the state still struggles with high rates of domestic violence, harassment, and human trafficking. According to the National Family Health Survey (NFHS) 2019-21, West Bengal has the highest rate of intimate partner violence among all Indian states.",
+          "sources": [
+            "The Wire",
+            "NFHS 2019-21"
           ],
-          "data_check": "According to the CAG report, the government's claims of inability to maintain law and order were not supported by data."
+          "what_was_omitted": [
+            "The high rates of domestic violence, harassment, and human trafficking",
+            "The state's struggle with intimate partner violence"
+          ],
+          "data_check": "According to the NFHS 2019-21, West Bengal has a higher rate of intimate partner violence (34.6%) compared to the national average (27.4%)."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Contradictory",
+          "verdict": "False",
+          "key_gap": "The state's high rates of domestic violence, harassment, and human trafficking contradict the state-aligned media's narrative of a safe haven for women.",
+          "missing_context": "The National Family Health Survey (NFHS) 2019-21 data on intimate partner violence in West Bengal."
+        }
+      },
+      {
+        "topic": "Job Creation in West Bengal",
+        "state_narrative": {
+          "headline": "West Bengal: A Hub for Job Creation",
+          "summary": "According to News18 Bangla, West Bengal has become a hub for job creation, with the state government's initiatives attracting large investments and creating employment opportunities.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The state has attracted large investments",
+            "Employment opportunities have increased"
+          ]
+        },
+        "verified_record": {
+          "headline": "Job Creation in West Bengal: A More Accurate Picture",
+          "summary": "According to India Spend, while West Bengal has seen some growth in employment opportunities, the state still struggles with high unemployment rates, particularly among youth. According to the Labour Bureau's 2020 report, West Bengal has the highest unemployment rate among all Indian states.",
+          "sources": [
+            "India Spend",
+            "Labour Bureau's 2020 report"
+          ],
+          "what_was_omitted": [
+            "The state's high unemployment rates, particularly among youth",
+            "The Labour Bureau's 2020 report data on unemployment rates"
+          ],
+          "data_check": "According to the Labour Bureau's 2020 report, West Bengal has the highest unemployment rate among all Indian states, with a rate of 7.4% compared to the national average of 3.5%."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
-          "verdict": "Accurate",
-          "key_gap": "The government's claims of inability to maintain law and order were not entirely accurate, and allegations of police brutality and mishandling of evidence were reported.",
-          "missing_context": "The government's response to the violence was not as effective as claimed."
-        }
-      },
-      {
-        "topic": "West Bengal's economic growth under the Mamata Banerjee government",
-        "state_narrative": {
-          "headline": "West Bengal's Economic Growth Under Mamata Banerjee: A Success Story",
-          "summary": "According to ABP Ananda, the West Bengal government's economic policies have led to significant growth in the state's GDP. The government's claims of having created jobs and stimulated industry were reportedly supported by data.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "The West Bengal government's economic policies have led to significant growth in the state's GDP.",
-            "The government's claims of having created jobs and stimulated industry were supported by data."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Economic Growth Under Mamata Banerjee: A Closer Look",
-          "summary": "According to FactChecker.in, while the West Bengal government did experience some economic growth, the claims of significant growth in GDP were not entirely accurate. An investigation by India Spend found that the growth was largely driven by government spending, rather than industry and job creation.",
-          "sources": "FactChecker.in, India Spend",
-          "what_was_omitted": [
-            "The role of government spending in driving economic growth",
-            "Investigations into the government's claims of job creation and industry stimulation"
-          ],
-          "data_check": "According to the MOSPI data, the West Bengal government's economic growth was largely driven by government spending."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's claims of significant growth in GDP were not entirely accurate, and the growth was largely driven by government spending.",
-          "missing_context": "The government's claims of job creation and industry stimulation were not supported by data."
+          "key_gap": "The state's high unemployment rates, particularly among youth, contradict the state-aligned media's narrative of a hub for job creation.",
+          "missing_context": "The Labour Bureau's 2020 report data on unemployment rates in West Bengal."
         }
       }
     ]
