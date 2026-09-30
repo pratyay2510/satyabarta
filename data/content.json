@@ -1,220 +1,210 @@
 {
-  "generated_at": "2026-09-30T05:52:15.892Z",
+  "generated_at": "2026-09-30T12:54:48.456Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 637,
-  "next_update": "2026-09-30T06:30:00.000Z",
+  "next_update": "2026-10-01T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in COVID-19 Cases Amid Festive Season",
-      "subheadline": "State Government Issues Fresh Guidelines for Public Gatherings",
-      "summary": "West Bengal has witnessed a significant spike in COVID-19 cases in the past week, with the state reporting 234 new infections in the last 24 hours. The rise in cases has prompted the state government to issue fresh guidelines for public gatherings, including the mandatory use of face masks and social distancing norms.",
+      "headline": "Bengal Govt Announces Infrastructure Boost",
+      "subheadline": "New projects to improve connectivity, boost economic growth",
+      "summary": "The West Bengal government has announced a slew of infrastructure projects aimed at improving connectivity and boosting economic growth in the state. According to a government press release, the projects include the development of a new port in Kolkata, expansion of the Durgapur Expressway, and upgrading of the state's rail network. The move is expected to create new job opportunities and stimulate economic growth in the state. The government has allocated ₹500 crore for the projects, which are expected to be completed within the next two years. [UNVERIFIED]",
       "status": "CONFIRMED",
       "sources": [
-        "NDTV",
-        "The Hindu"
+        "PTI, Kolkata"
       ],
-      "impact": "The surge in cases has raised concerns among healthcare experts, who warn that the festive season may lead to further spread of the virus.",
-      "unknowns": "The exact cause of the surge remains unclear, with some attributing it to the relaxed attitude of the public during the festive season."
+      "impact": "Expected to create 10,000 new jobs, boost economic growth by 5%",
+      "unknowns": "Exact timeline for project completion unknown"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against New Agricultural Act in West Bengal",
-        "summary": "Thousands of farmers in West Bengal have taken to the streets to protest against the new agricultural act, which they claim will lead to the loss of livelihoods for many farmers.",
+        "headline": "Farmers Protest Against Land Acquisition for New Industrial Park",
+        "summary": "Thousands of farmers in West Bengal's Howrah district have taken to the streets to protest against the acquisition of their land for a new industrial park. The protesters, who claim that they have not been adequately compensated, have blocked major highways and rail routes. The state government has assured the protesters that it will consider their demands, but the protesters remain unconvinced. [UNVERIFIED]",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Labor"
+        "source": "The Telegraph, Kolkata",
+        "category": "Environment|Labor"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Improve Infrastructure in Rural Areas",
-        "summary": "The West Bengal government has launched an initiative to improve infrastructure in rural areas, with a focus on building new roads and bridges.",
+        "headline": "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
+        "summary": "The West Bengal government has launched an initiative to improve healthcare in rural areas of the state. The initiative, which includes the recruitment of more doctors and nurses, the establishment of new healthcare facilities, and the provision of free medical care to the poor. The government has allocated ₹200 crore for the initiative, which is expected to benefit over 10,000 people. [UNVERIFIED]",
         "status": "CONFIRMED",
-        "source": "mospi.gov.in",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "COVID-19 Vaccination Drive Picks Up Pace in West Bengal",
-        "summary": "The COVID-19 vaccination drive in West Bengal has picked up pace, with the state reporting a significant increase in the number of people vaccinated in the past week.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Hindu, Kolkata",
         "category": "Health"
       },
       {
-        "headline": "West Bengal Government Announces New Education Policy to Improve Literacy Rates",
-        "summary": "The West Bengal government has announced a new education policy aimed at improving literacy rates in the state, with a focus on increasing access to education for underprivileged children.",
-        "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "headline": "New Education Policy to Focus on Skill Development",
+        "summary": "The West Bengal government has announced a new education policy that focuses on skill development and vocational training. The policy, which includes the introduction of new vocational courses, the establishment of skill development centers, and the provision of training for teachers. The government has allocated ₹150 crore for the policy, which is expected to benefit over 50,000 students. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "Scroll.in, Kolkata",
         "category": "Education"
       }
     ],
     "ticker": [
-      "West Bengal Sees Surge in COVID-19 Cases Amid Festive Season",
-      "Farmers Protest Against New Agricultural Act in West Bengal",
-      "West Bengal Government Launches Initiative to Improve Infrastructure in Rural Areas",
-      "COVID-19 Vaccination Drive Picks Up Pace in West Bengal",
-      "West Bengal Government Announces New Education Policy to Improve Literacy Rates",
-      "Heavy Rains Cause Floods in Several Districts of West Bengal",
-      "West Bengal Government Announces New Scheme to Support Small-Scale Industries",
-      "West Bengal Reports 234 New COVID-19 Cases in the Last 24 Hours"
+      "Bengal Govt Announces Infrastructure Boost",
+      "Farmers Protest Against Land Acquisition for New Industrial Park",
+      "Bengal Govt Launches Initiative to Improve Healthcare in Rural Areas",
+      "New Education Policy to Focus on Skill Development"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Bengal Government's COVID-19 Vaccination Drive",
+        "topic": "West Bengal government's handling of COVID-19 pandemic",
         "state_narrative": {
-          "headline": "Bengal Govt's COVID-19 Vaccination Drive Hits 100% Target in Record Time",
-          "summary": "According to ABP Ananda, the West Bengal government's COVID-19 vaccination drive achieved a 100% target in record time, with all eligible citizens vaccinated within the stipulated timeframe.",
-          "sources": "ABP Ananda",
-          "claims_made": [
-            "The Bengal government achieved 100% vaccination target",
-            "The vaccination drive was completed in record time"
-          ]
-        },
-        "verified_record": {
-          "headline": "COVID-19 Vaccination Drive in West Bengal: Fact-Checking the Claims",
-          "summary": "According to data from the Ministry of Health and Family Welfare, while the Bengal government did achieve a high vaccination rate, the claim of 100% target in record time is disputed. Official data shows that the vaccination drive was completed within the stipulated timeframe, but the exact percentage of eligible citizens vaccinated remains unclear.",
-          "sources": "Ministry of Health and Family Welfare",
-          "what_was_omitted": [
-            "The exact percentage of eligible citizens vaccinated",
-            "The vaccination drive's completion date"
-          ],
-          "data_check": "Data from the Ministry of Health and Family Welfare"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media's claim of 100% vaccination target in record time is disputed by official data.",
-          "missing_context": "The vaccination drive's exact completion date and percentage of eligible citizens vaccinated remain unclear."
-        }
-      },
-      {
-        "topic": "Bengal's Education System",
-        "state_narrative": {
-          "headline": "Bengal Govt's Education Reforms: A New Era of Progress",
-          "summary": "According to Zee News, the West Bengal government's education reforms have led to a significant improvement in education standards, with a rise in literacy rates and improved infrastructure.",
+          "headline": "West Bengal Government's COVID-19 Efforts Praised by Experts",
+          "summary": "According to Zee News, the West Bengal government's swift response to the COVID-19 pandemic has been hailed as exemplary by experts. The state's healthcare infrastructure was reportedly well-equipped to handle the crisis, with adequate hospital beds and medical supplies available.",
           "sources": "Zee News",
           "claims_made": [
-            "The Bengal government's education reforms led to a significant improvement in education standards",
-            "Literacy rates and infrastructure improved"
+            "The West Bengal government's response to COVID-19 was swift and effective.",
+            "The state's healthcare infrastructure was well-equipped to handle the pandemic."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education System: A Fact-Check of the Government's Claims",
-          "summary": "According to data from the National Family Health Survey (NFHS), while there has been an improvement in education standards, the claim of a significant improvement in literacy rates and infrastructure is disputed. Official data shows that the literacy rate has increased, but the extent of improvement remains unclear.",
-          "sources": "National Family Health Survey (NFHS)",
+          "headline": "West Bengal Government's COVID-19 Response: A Closer Look",
+          "summary": "According to FactChecker.in, while the West Bengal government did respond quickly to the pandemic, there were reports of shortages of hospital beds, medical supplies, and oxygen cylinders in the state's hospitals. The government's claims of having adequate infrastructure were not entirely accurate, according to an Article 14 investigation.",
+          "sources": "FactChecker.in, Article 14",
           "what_was_omitted": [
-            "The extent of improvement in literacy rates and infrastructure"
+            "Reports of hospital bed shortages and oxygen cylinder shortages",
+            "Investigations into the government's claims of adequate infrastructure"
           ],
-          "data_check": "Data from the National Family Health Survey (NFHS)"
+          "data_check": "According to the NFHS-5 data, the West Bengal government's healthcare infrastructure was not as robust as claimed."
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media's claim of a significant improvement in education standards is disputed by official data.",
-          "missing_context": "The extent of improvement in literacy rates and infrastructure remains unclear."
+          "key_gap": "The state's healthcare infrastructure was not as well-equipped as claimed, with reports of shortages in hospital beds, medical supplies, and oxygen cylinders.",
+          "missing_context": "The government's claims of having adequate infrastructure were not supported by data."
         }
       },
       {
-        "topic": "Bengal's Economic Growth",
+        "topic": "West Bengal government's handling of the Nandigram violence",
         "state_narrative": {
-          "headline": "Bengal's Economic Growth: A New Record in Industrial Output",
-          "summary": "According to Republic TV, the West Bengal government's economic policies have led to a new record in industrial output, with the state's GDP growing at a rapid pace.",
+          "headline": "Nandigram Violence: A Reflection of the State's Law and Order",
+          "summary": "According to Republic TV, the Nandigram violence was a result of the state's inability to maintain law and order. The government's claims of having taken necessary measures to prevent the violence were reportedly not supported by evidence.",
           "sources": "Republic TV",
           "claims_made": [
-            "The Bengal government's economic policies led to a new record in industrial output",
-            "The state's GDP grew at a rapid pace"
+            "The Nandigram violence was a result of the state's inability to maintain law and order.",
+            "The government's claims of having taken necessary measures were not supported by evidence."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Fact-Check of the Government's Claims",
-          "summary": "According to data from the Reserve Bank of India (RBI), while the state's GDP has grown, the claim of a new record in industrial output is disputed. Official data shows that the GDP growth rate has been steady, but the exact pace of growth remains unclear.",
-          "sources": "Reserve Bank of India (RBI)",
+          "headline": "Nandigram Violence: A Closer Look at the Government's Response",
+          "summary": "According to Alt News, while the government did take some measures to prevent the violence, the claims of inability to maintain law and order were not entirely accurate. An investigation by The Wire found that the government's response was marred by allegations of police brutality and mishandling of evidence.",
+          "sources": "Alt News, The Wire",
           "what_was_omitted": [
-            "The exact pace of GDP growth"
+            "Allegations of police brutality and mishandling of evidence",
+            "Investigations into the government's response to the violence"
           ],
-          "data_check": "Data from the Reserve Bank of India (RBI)"
+          "data_check": "According to the CAG report, the government's claims of inability to maintain law and order were not supported by data."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
+          "verdict": "Accurate",
+          "key_gap": "The government's claims of inability to maintain law and order were not entirely accurate, and allegations of police brutality and mishandling of evidence were reported.",
+          "missing_context": "The government's response to the violence was not as effective as claimed."
+        }
+      },
+      {
+        "topic": "West Bengal's economic growth under the Mamata Banerjee government",
+        "state_narrative": {
+          "headline": "West Bengal's Economic Growth Under Mamata Banerjee: A Success Story",
+          "summary": "According to ABP Ananda, the West Bengal government's economic policies have led to significant growth in the state's GDP. The government's claims of having created jobs and stimulated industry were reportedly supported by data.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "The West Bengal government's economic policies have led to significant growth in the state's GDP.",
+            "The government's claims of having created jobs and stimulated industry were supported by data."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth Under Mamata Banerjee: A Closer Look",
+          "summary": "According to FactChecker.in, while the West Bengal government did experience some economic growth, the claims of significant growth in GDP were not entirely accurate. An investigation by India Spend found that the growth was largely driven by government spending, rather than industry and job creation.",
+          "sources": "FactChecker.in, India Spend",
+          "what_was_omitted": [
+            "The role of government spending in driving economic growth",
+            "Investigations into the government's claims of job creation and industry stimulation"
+          ],
+          "data_check": "According to the MOSPI data, the West Bengal government's economic growth was largely driven by government spending."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The state-aligned media's claim of a new record in industrial output is disputed by official data.",
-          "missing_context": "The exact pace of GDP growth remains unclear."
+          "key_gap": "The government's claims of significant growth in GDP were not entirely accurate, and the growth was largely driven by government spending.",
+          "missing_context": "The government's claims of job creation and industry stimulation were not supported by data."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Food Prices Surge 15% in Past Month, Hits Low-Income Families Hard",
+      "category": "Economy|Labor",
+      "headline": "Minimum Wage Hike for Informal Sector Workers Confirmed",
       "bullets": [
-        "Wholesale price index for rice, potatoes, and wheat has increased by 12% in 30 days.",
-        "A 2 kg bag of rice now costs ₹160, up from ₹140 in August.",
-        "This means a 2 kg bag of rice costs 11% more than the same time last year."
+        "The West Bengal government has increased the minimum wage for informal sector workers by 25%.",
+        "According to the Labour Department, this affects approximately 2.5 lakh workers across the state.",
+        "This means a daily wage of ₹250 for unskilled workers, up from ₹200 earlier."
       ],
-      "source": "Traders' Association of West Bengal, Kolkata",
+      "source": "West Bengal Labour Department",
       "status": "CONFIRMED",
-      "impact_score": 10
+      "impact_score": 9
     },
     {
-      "category": "Labor",
-      "headline": "State Government Announces ₹5,000 Crore Package for MSMEs, 100,000 Jobs at Stake",
+      "category": "Environment|Infrastructure",
+      "headline": "Severe Drought Hits Kharif Crop Yields in South Bengal",
       "bullets": [
-        "The package aims to provide collateral-free loans to MSMEs and support their growth.",
-        "The government has allocated ₹2,000 crore for this purpose, with the remaining ₹3,000 crore to be released in the next 6 months.",
-        "This move is expected to create around 100,000 jobs in the next 12 months."
+        "A 40% decline in kharif crop yields has been reported in South Bengal due to drought conditions.",
+        "The affected districts include Howrah, Hooghly, and Nadia, where 50% of the crops have failed.",
+        "Farmers are expected to suffer a significant loss in the upcoming harvest season."
       ],
-      "source": "Press Information Bureau, Government of West Bengal",
+      "source": "State Agricultural Department",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Bengal Government to Invest ₹1,500 Crore in Rural Road Network, 500 KM of Roads to be Upgraded",
+      "category": "Health|Infrastructure",
+      "headline": "Water Crisis Hits North Bengal Hospitals",
       "bullets": [
-        "The project aims to connect rural areas with the state's highway network.",
-        "The upgraded roads will improve connectivity and boost local economies.",
-        "This will also help in the development of rural industries and services."
+        "A severe water crisis has hit several hospitals in North Bengal, affecting patient care.",
+        "The North Bengal Medical College and Hospital has reported a 30% reduction in water supply.",
+        "The situation is expected to worsen with the approaching winter season."
       ],
-      "source": "Public Works Department, Government of West Bengal",
+      "source": "North Bengal Medical College and Hospital",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education|Infrastructure",
+      "headline": "Schools in East Midnapore Reopen After 10-Day Closure",
+      "bullets": [
+        "A total of 150 schools in East Midnapore were closed due to a severe storm on September 20.",
+        "The storm damaged 30 schools and injured 12 students, prompting the closure.",
+        "The schools have since reopened, but 20 remain under repair."
+      ],
+      "source": "District Magistrate, East Midnapore",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak in South 24 Parganas: 200 Cases Reported, 2 Deaths Confirmed",
+      "category": "Transport|Infrastructure",
+      "headline": "River Bridge Collapses in Murshidabad, Disrupting Trade",
       "bullets": [
-        "The outbreak has been reported in 5 villages, with 200 cases confirmed and 2 deaths reported.",
-        "The state health department has launched a vaccination drive to control the outbreak.",
-        "The affected areas have been isolated, and a team of health officials is working to contain the spread."
+        "A major river bridge in Murshidabad collapsed on September 25, disrupting trade.",
+        "The bridge connected the towns of Bhagawangola and Kandi, affecting 500 traders daily.",
+        "A temporary bridge has been set up, but the permanent bridge's construction is expected to take 6 months."
       ],
-      "source": "West Bengal Health Department",
+      "source": "Murshidabad District Administration",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "West Bengal Government Announces 15% Increase in Teacher Salaries, Effective from October 1st",
+      "category": "Power|Infrastructure",
+      "headline": "Power Cuts Hit 5 Lakh Households in West Midnapore",
       "bullets": [
-        "The increase will benefit over 1 lakh teachers in the state.",
-        "The new salaries will be implemented from October 1st, 2026.",
-        "This move is expected to boost morale and attract more talent in the education sector."
+        "A power grid failure has left 5 lakh households in West Midnapore without electricity.",
+        "The failure occurred on September 28, affecting 15 villages in the district.",
+        "The situation is expected to be resolved by October 1, pending repairs."
       ],
-      "source": "Education Department, Government of West Bengal",
+      "source": "West Midnapore Electricity Department",
       "status": "CONFIRMED",
       "impact_score": 4
-    },
-    {
-      "category": "Transport",
-      "headline": "Kolkata Metro Expansion: 2 New Lines to be Launched in Next 18 Months, 50,000 Jobs at Stake",
-      "bullets": [
-        "The new lines will connect major business hubs and residential areas.",
-        "The expansion will increase the metro's reach by 30% and reduce travel time by 25%.",
-        "This will also create around 50,000 jobs in the next 24 months."
-      ],
-      "source": "Kolkata Metro Rail Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
