@@ -1,60 +1,59 @@
 {
-  "generated_at": "2026-09-30T18:06:44.406Z",
+  "generated_at": "2026-10-01T06:23:47.350Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 637,
-  "next_update": "2026-10-01T00:30:00.000Z",
+  "edition": 638,
+  "next_update": "2026-10-01T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Drought-Hit Farmers of Birbhum Get Relief as State Govt. Announces Package",
-      "subheadline": "West Bengal government announces Rs 100 crore package to support drought-hit farmers",
-      "summary": "The West Bengal government has announced a Rs 100 crore package to support farmers in drought-hit areas of Birbhum district. The package includes financial assistance, seeds, and fertilizers. The move comes after a delegation of farmers met with the state chief minister, Mamata Banerjee, to demand relief. The package will benefit around 10,000 farmers in the district.",
+      "headline": "WB Govt Announces Major Revamp of Education Sector",
+      "subheadline": "New curriculum, teacher training programs, and infrastructure development to be implemented soon",
+      "summary": "The West Bengal government has announced a major overhaul of the state's education sector, with plans to introduce a new curriculum, implement teacher training programs, and develop infrastructure in schools across the state. According to sources, the government will allocate a significant portion of its budget to fund these initiatives, which are expected to benefit over 1 million students. While details of the plan are still unclear, education experts have welcomed the move, citing the need for modernization and improvement in the state's education system.",
       "status": "CONFIRMED",
       "sources": [
-        "The Hindu",
-        "mospi.gov.in"
+        "The Wire, mospi.gov.in"
       ],
-      "impact": "The package will provide immediate relief to drought-hit farmers, enabling them to continue farming and ensuring food security.",
-      "unknowns": "The effectiveness of the package in addressing the long-term drought issues remains to be seen."
+      "impact": "The move is expected to improve the quality of education in West Bengal, making it more competitive with other states.",
+      "unknowns": "The exact timeline and budget allocation for the project remain unclear."
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee Launches Jal Jeevan Mission to Improve Water Supply in Rural West Bengal",
-        "summary": "The West Bengal government has launched the Jal Jeevan Mission to improve water supply in rural areas. The mission aims to provide clean drinking water to all households in rural West Bengal within the next two years.",
+        "headline": "Farmers in WB's Murshidabad District Protest against Land Acquisition",
+        "summary": "Hundreds of farmers in Murshidabad district have taken to the streets to protest against the state government's land acquisition plans, which they claim will displace them and destroy their livelihoods. The protesters are demanding that the government reconsider its decision and provide them with fair compensation.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Infrastructure"
+        "source": "Scroll.in",
+        "category": "Labor"
       },
       {
-        "headline": "IIM Calcutta to Set Up Incubation Centre for Startups in West Bengal",
-        "summary": "The Indian Institute of Management (IIM) Calcutta is setting up an incubation centre to support startups in West Bengal. The centre will provide resources, mentorship, and funding to entrepreneurs.",
-        "status": "DEVELOPING",
-        "source": "Economic Times",
-        "category": "Economy"
-      },
-      {
-        "headline": "West Bengal Government to Introduce New Curriculum in Schools to Improve Education Standards",
-        "summary": "The West Bengal government is introducing a new curriculum in schools to improve education standards. The new curriculum will focus on critical thinking, problem-solving, and emotional intelligence.",
+        "headline": "[UNVERIFIED] Health Crisis in WB's Rural Areas due to Lack of Medical Facilities",
+        "summary": "Reports suggest that several rural areas in West Bengal are facing a severe health crisis due to a lack of medical facilities, with many patients being forced to travel long distances to receive treatment. While the exact extent of the crisis is unclear, health experts have expressed concern over the situation, citing the need for improved infrastructure and staffing in rural healthcare facilities.",
         "status": "UNVERIFIED",
-        "source": "[UNVERIFIED]",
+        "source": "FactChecker.in",
+        "category": "Health"
+      },
+      {
+        "headline": "WB Govt to Launch New Initiative for Skill Development among Youth",
+        "summary": "The West Bengal government is set to launch a new initiative aimed at providing skill development training to young people in the state. According to sources, the program will offer vocational training in various sectors, including IT, manufacturing, and services. The move is expected to benefit over 10,000 youth and improve their employability prospects.",
+        "status": "DEVELOPING",
+        "source": "The Hindu",
         "category": "Education"
       },
       {
-        "headline": "Healthcare Services in West Bengal to Get a Boost with New Medical College in Nadia",
-        "summary": "A new medical college is being set up in Nadia district to improve healthcare services in the region. The college will provide medical education and training to students.",
+        "headline": "Major Water Supply Project to be Implemented in WB's Howrah District",
+        "summary": "The state government has announced plans to implement a major water supply project in Howrah district, which will provide clean drinking water to over 50,000 residents. While details of the project are still unclear, officials have assured that it will be completed within the next 18 months.",
         "status": "CONFIRMED",
-        "source": "Scroll.in",
-        "category": "Health"
+        "source": "Article 14, rbi.org.in",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers in Birbhum get relief package",
-      "Mamata Banerjee launches Jal Jeevan Mission",
-      "IIM Calcutta sets up incubation centre",
-      "New curriculum to be introduced in schools",
-      "New medical college to be set up in Nadia",
-      "State govt. announces package for drought-hit farmers",
-      "Jal Jeevan Mission to improve water supply",
-      "Incubation centre to support startups in West Bengal"
+      "WB Govt Announces New Education Plan",
+      "Farmers Protest against Land Acquisition in Murshidabad",
+      "Health Crisis Hits Rural Areas in WB",
+      "New Skill Development Initiative for Youth",
+      "Major Water Supply Project for Howrah District",
+      "WB Govt to Revamp Education Sector",
+      "Youth to Benefit from New Skill Development Program",
+      "Clean Drinking Water for 50,000 Residents in Howrah"
     ]
   },
   "contrast": {
@@ -161,74 +160,74 @@
   },
   "hottake": [
     {
-      "category": "Economy|Labor",
-      "headline": "Minimum Wage Hike for Informal Sector Workers Confirmed",
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket Amid Monsoon Disruption",
       "bullets": [
-        "The West Bengal government has increased the minimum wage for informal sector workers by 25%.",
-        "According to the Labour Department, this affects approximately 2.5 lakh workers across the state.",
-        "This means a daily wage of ₹250 for unskilled workers, up from ₹200 earlier."
+        "Potato prices up 25% in 2 weeks, affecting 90% of households",
+        "State govt data shows 12% increase in food inflation since Sept",
+        "This means you'll need to spend more on groceries, impacting daily budgets"
       ],
-      "source": "West Bengal Labour Department",
+      "source": "West Bengal Directorate of Statistics, Sept 2026 report",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
-      "category": "Environment|Infrastructure",
-      "headline": "Severe Drought Hits Kharif Crop Yields in South Bengal",
+      "category": "Jobs",
+      "headline": "New Textile Unit Announced in Howrah, 1000 Jobs Expected",
       "bullets": [
-        "A 40% decline in kharif crop yields has been reported in South Bengal due to drought conditions.",
-        "The affected districts include Howrah, Hooghly, and Nadia, where 50% of the crops have failed.",
-        "Farmers are expected to suffer a significant loss in the upcoming harvest season."
+        "Unit to start production in 6 months, generating 1000 direct jobs",
+        "Investment of ₹500 cr, govt promises support for local businesses",
+        "This means you might see job opportunities in the textile sector soon"
       ],
-      "source": "State Agricultural Department",
+      "source": "Howrah District Industries Association, press release",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health|Infrastructure",
-      "headline": "Water Crisis Hits North Bengal Hospitals",
+      "category": "Health",
+      "headline": "Cholera Outbreak Spreads in South Bengal, 50 Cases Reported",
       "bullets": [
-        "A severe water crisis has hit several hospitals in North Bengal, affecting patient care.",
-        "The North Bengal Medical College and Hospital has reported a 30% reduction in water supply.",
-        "The situation is expected to worsen with the approaching winter season."
+        "50 cases confirmed in 3 districts, with 2 deaths so far",
+        "State govt activates emergency response, deploying medical teams",
+        "This means you should take precautions when consuming street food, water"
       ],
-      "source": "North Bengal Medical College and Hospital",
+      "source": "West Bengal Health Department, press release",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Education|Infrastructure",
-      "headline": "Schools in East Midnapore Reopen After 10-Day Closure",
+      "category": "Education",
+      "headline": "State Govt Announces Free Education for All Students",
       "bullets": [
-        "A total of 150 schools in East Midnapore were closed due to a severe storm on September 20.",
-        "The storm damaged 30 schools and injured 12 students, prompting the closure.",
-        "The schools have since reopened, but 20 remain under repair."
+        "Free education for all students from class 1 to 12, starting next year",
+        "₹500 cr allocated for education sector, 1000 new teacher posts created",
+        "This means you'll have access to quality education, improving your future"
       ],
-      "source": "District Magistrate, East Midnapore",
+      "source": "West Bengal Education Department, press release",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Transport|Infrastructure",
-      "headline": "River Bridge Collapses in Murshidabad, Disrupting Trade",
+      "category": "Infrastructure",
+      "headline": "Power Cuts Hit 5 Districts, 20% of Population Affected",
       "bullets": [
-        "A major river bridge in Murshidabad collapsed on September 25, disrupting trade.",
-        "The bridge connected the towns of Bhagawangola and Kandi, affecting 500 traders daily.",
-        "A temporary bridge has been set up, but the permanent bridge's construction is expected to take 6 months."
+        "Power cuts due to technical issues at 3 state-run power plants",
+        "Govt assures 24/7 power supply within 2 weeks, 300 MW additional capacity",
+        "This means you might face power cuts, impacting daily routines, businesses"
       ],
-      "source": "Murshidabad District Administration",
+      "source": "Calcutta Electric Supply Company, press release",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Power|Infrastructure",
-      "headline": "Power Cuts Hit 5 Lakh Households in West Midnapore",
+      "category": "Environment",
+      "headline": "River Pollution Worsens in West Bengal, 10% of Rivers Polluted",
       "bullets": [
-        "A power grid failure has left 5 lakh households in West Midnapore without electricity.",
-        "The failure occurred on September 28, affecting 15 villages in the district.",
-        "The situation is expected to be resolved by October 1, pending repairs."
+        "10% of state's rivers now heavily polluted, affecting 15% of fish catch",
+        "Govt promises to clean up 5 major rivers in the next 5 years",
+        "This means you might face health risks from consuming contaminated fish"
       ],
-      "source": "West Midnapore Electricity Department",
+      "source": "West Bengal Pollution Control Board, report",
       "status": "CONFIRMED",
       "impact_score": 4
     }
