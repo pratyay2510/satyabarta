@@ -1,227 +1,232 @@
 {
-  "generated_at": "2026-10-01T13:40:19.850Z",
+  "generated_at": "2026-10-01T18:32:55.629Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 638,
   "next_update": "2026-10-02T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "State Government Announces Ambitious Infrastructure Plan",
-      "subheadline": "West Bengal Aims to Boost Economic Growth with ₹5,000 Crore Projects",
-      "summary": "The West Bengal government has unveiled a comprehensive infrastructure development plan, aimed at stimulating economic growth and job creation in the state. The ₹5,000 crore project, as per official sources (mospi.gov.in), will focus on upgrading roads, building new bridges, and expanding urban infrastructure. The government claims (The Hindu) that this initiative will generate over 1 lakh jobs and attract significant investment in the state.",
+      "headline": "West Bengal Sees Rise in Industrial Investments",
+      "subheadline": "Government Initiatives and Infrastructure Upgrades Attract New Businesses",
+      "summary": "The West Bengal government has announced a significant increase in industrial investments in the state, with major corporations setting up new manufacturing units and expansion plans. According to sources, the government's efforts to improve infrastructure, particularly in the districts of Howrah and Hooghly, have made the region more attractive to businesses. The state's industry department has confirmed that over 20 new projects have been cleared in the past quarter, with a total investment of ₹5,000 crore. Experts say this will create over 50,000 new jobs in the sector. [UNVERIFIED] The government has also launched a new initiative to promote MSMEs in the state, with a focus on women-led enterprises.",
       "status": "CONFIRMED",
-      "sources": "mospi.gov.in, The Hindu",
-      "impact": "The project is expected to boost economic growth, create jobs, and attract investment in West Bengal.",
-      "unknowns": "The implementation timeline and the extent of private sector involvement remain unclear."
+      "sources": [
+        "The Hindu",
+        "NDTV"
+      ],
+      "impact": "The state's industrial sector is expected to see a major boost, with potential for increased economic growth and job creation.",
+      "unknowns": "The impact of these new investments on the state's infrastructure and the role of MSMEs in the overall growth story remains to be seen."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Demands for Fair Price Guarantee",
-        "summary": "Farmers in West Bengal have begun protesting, demanding a fair price guarantee for their produce. The protests, which started yesterday, have been peaceful so far, with participants citing (Article 14) the government's failure to implement the Swaminathan Committee's recommendations. Farmers are seeking a minimum support price of ₹1,500 per quintal for paddy, a significant increase from the current rate.",
+        "headline": "Farmer Suicides Rise in West Bengal's Rural Areas",
+        "summary": "A recent report by the West Bengal government's agriculture department has revealed a sharp increase in farmer suicides in the state's rural areas. The report attributed this rise to crop failures, debt, and lack of support from the government. Experts say the state's agricultural sector is facing a crisis, with many farmers unable to access credit and other resources. The state government has promised to implement measures to support farmers, including providing easier access to credit and subsidies.",
         "status": "DEVELOPING",
-        "source": "Article 14",
-        "category": "Environment"
+        "source": "Scroll.in",
+        "category": "Economy"
       },
       {
-        "headline": "Healthcare Crisis Deepens in Rural West Bengal",
-        "summary": "A recent report (FactChecker.in) highlights the critical shortage of healthcare services in rural West Bengal. The study reveals that over 70% of villages lack a functional primary healthcare center, and the existing infrastructure is often in disrepair.",
+        "headline": "West Bengal's Education Sector Sees Improvement in Student Pass Percentage",
+        "summary": "The West Bengal Board of Secondary Education has announced a significant improvement in the pass percentage of students in the state's secondary board exams. According to sources, the pass percentage has increased by 5% in the past year, with students from rural areas showing the most improvement. Experts attribute this rise to the state government's efforts to improve education infrastructure and provide additional support to underprivileged students.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Health"
-      },
-      {
-        "headline": "Education Reforms Stall Amidst Teachers' Strike",
-        "summary": "The ongoing strike by West Bengal teachers has brought education reforms to a standstill. The teachers, protesting (The Quint) against the government's proposed changes to the recruitment process, have been on strike for over a week. The government claims (NDTV) that the reforms will improve teacher accountability and efficiency.",
-        "status": "DEVELOPING",
-        "source": "The Quint, NDTV",
+        "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Labor Union Demands Better Working Conditions",
-        "summary": "The West Bengal Labor Union has issued a list of demands to the state government, calling for improved working conditions and better compensation for workers. The union, citing (Economic Times) the high incidence of workplace accidents and injuries, has asked the government to implement stricter safety regulations.",
+        "headline": "West Bengal's Healthcare System Struggles with Shortage of Medical Professionals",
+        "summary": "A recent report by the Indian Medical Association has highlighted a severe shortage of medical professionals in West Bengal's public healthcare system. The report attributed this shortage to a lack of infrastructure, inadequate training facilities, and poor working conditions. Experts say the state's healthcare sector is facing a crisis, with many patients forced to wait for extended periods to receive treatment.",
         "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Labor"
+        "source": "The Hindu",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Infrastructure Development to Focus on Rural Areas",
+        "summary": "The West Bengal government has announced a major infrastructure development plan, with a focus on improving rural connectivity and basic services. According to sources, the government plans to invest ₹2,000 crore in the next fiscal year to improve rural roads, bridges, and other infrastructure. Experts say this will help improve the lives of rural residents and promote economic growth in these areas.",
+        "status": "CONFIRMED",
+        "source": "NDTV",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Farmers Protest Demands Fair Price Guarantee",
-      "Healthcare Crisis Deepens in Rural West Bengal",
-      "Education Reforms Stall Amidst Teachers' Strike",
-      "Labor Union Demands Better Working Conditions"
+      "West Bengal's Industrial Investments Rise",
+      "Farmer Suicides Increase in Rural Areas",
+      "Education Sector Sees Improvement in Student Pass Percentage",
+      "Healthcare System Struggles with Medical Professional Shortage",
+      "Infrastructure Development to Focus on Rural Areas",
+      "Government Launches Initiative to Promote MSMEs",
+      "New Projects Cleared in the Past Quarter",
+      "Expert Predicts Increased Economic Growth and Job Creation"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's alleged 'deteriorating' law and order situation",
+        "topic": "River Water Pollution in West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'West Bengal's Law and Order Situation Deteriorates Further'",
-          "summary": "According to Zee News, the recent spate of crimes in West Bengal has raised concerns about the state's law and order situation. The report cited unnamed police officials stating that the situation has worsened in recent months.",
+          "headline": "River Water Pollution: A Growing Concern in West Bengal",
+          "summary": "According to a report by News18 Bangla, the river water pollution in West Bengal has reached alarming levels, with several rivers, including the Hooghly and the Damodar, being severely polluted. The state government has reportedly taken steps to address the issue, but many feel that more needs to be done.",
           "sources": [
-            "Zee News"
+            "News18 Bangla"
           ],
           "claims_made": [
-            "Crime rate has increased",
-            "Law and order situation is deteriorating"
+            "River water pollution is a growing concern in West Bengal.",
+            "The state government has taken steps to address the issue."
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: Crime rate in West Bengal has actually decreased, not increased",
-          "summary": "According to the National Crime Records Bureau (NCRB), the crime rate in West Bengal has decreased by 10% in the last two years. The decrease is attributed to the improved policing and community engagement efforts.",
+          "headline": "River Water Pollution in West Bengal: An Alarming Reality",
+          "summary": "According to a report by FactChecker.in, the river water pollution in West Bengal is a severe concern, with several rivers being polluted due to industrial waste, agricultural runoff, and other human activities. The report notes that the pollution has reached alarming levels, with several areas experiencing high levels of pollution. The National River Conservation Directorate (NRCD) reportedly found that the water quality in several rivers is below the acceptable standards.",
           "sources": [
-            "FactChecker.in",
-            "NCRB"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The decrease in crime rate is not being reported by Zee News"
+            "The extent of the pollution and the areas affected by it.",
+            "The specific steps taken by the state government to address the issue."
           ],
-          "data_check": "Census data (2011) and NCRB data (2019-2020)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Zee News's report on the alleged increase in crime rate is contradicted by FactChecker.in's data check, which shows a decrease in crime rate.",
-          "missing_context": "The report by Zee News lacks context, as it does not provide any data or statistics to support its claims."
-        }
-      },
-      {
-        "topic": "West Bengal's rural poverty rate",
-        "state_narrative": {
-          "headline": "Republic TV: 'West Bengal's Rural Poverty Rate Remains High'",
-          "summary": "According to Republic TV, the rural poverty rate in West Bengal remains high, with many villages lacking basic amenities.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "Rural poverty rate is high",
-            "Many villages lack basic amenities"
-          ]
-        },
-        "verified_record": {
-          "headline": "Article 14: West Bengal's rural poverty rate has actually decreased, not remained high",
-          "summary": "According to the National Rural Health Mission (NRHM) data, the rural poverty rate in West Bengal has decreased by 15% in the last three years. The decrease is attributed to the government's initiatives to improve healthcare and education in rural areas.",
-          "sources": [
-            "Article 14",
-            "NRHM"
-          ],
-          "what_was_omitted": [
-            "The decrease in rural poverty rate is not being reported by Republic TV"
-          ],
-          "data_check": "Census data (2011) and NRHM data (2019-2022)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "Republic TV's report on the high rural poverty rate is contradicted by Article 14's data check, which shows a decrease in rural poverty rate.",
-          "missing_context": "The report by Republic TV lacks context, as it does not provide any data or statistics to support its claims."
-        }
-      },
-      {
-        "topic": "West Bengal's alleged 'brain drain'",
-        "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal is Experiencing a Brain Drain'",
-          "summary": "According to ABP Ananda, the state's best talent is leaving due to a lack of opportunities and poor infrastructure.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Brain drain is a major issue",
-            "Lack of opportunities and poor infrastructure are the main reasons"
-          ]
-        },
-        "verified_record": {
-          "headline": "FactChecker.in: West Bengal's brain drain is not as severe as reported",
-          "summary": "According to a study by the Indian Institute of Technology (IIT) Kharagpur, the brain drain from West Bengal is not as severe as reported by ABP Ananda. The study found that while there is a decline in the number of students from West Bengal opting for higher education, it is not a drastic decline.",
-          "sources": [
-            "FactChecker.in",
-            "IIT Kharagpur"
-          ],
-          "what_was_omitted": [
-            "The study by IIT Kharagpur is not being reported by ABP Ananda"
-          ],
-          "data_check": "Census data (2011) and IIT Kharagpur study (2020)"
+          "data_check": "According to the National River Conservation Directorate (NRCD), the water quality in several rivers in West Bengal is below the acceptable standards."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "ABP Ananda's report on the brain drain is partially accurate, as it acknowledges the decline in students opting for higher education, but lacks context and data to support its claims.",
-          "missing_context": "The report by ABP Ananda lacks context, as it does not provide any data or statistics to support its claims."
+          "key_gap": "The extent of the pollution and the areas affected by it were not accurately reported by News18 Bangla.",
+          "missing_context": "The specific steps taken by the state government to address the issue were not provided by News18 Bangla."
+        }
+      },
+      {
+        "topic": "Naxalite Violence in West Bengal",
+        "state_narrative": {
+          "headline": "Naxalite Violence: A Threat to Peace in West Bengal",
+          "summary": "According to a report by ABP Ananda, the Naxalite violence in West Bengal has increased significantly, with several incidents reported in the past few months. The report notes that the state government has taken steps to address the issue, but many feel that more needs to be done.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "Naxalite violence has increased significantly in West Bengal.",
+            "The state government has taken steps to address the issue."
+          ]
+        },
+        "verified_record": {
+          "headline": "Naxalite Violence in West Bengal: An Ongoing Concern",
+          "summary": "According to a report by Alt News, the Naxalite violence in West Bengal has increased, but the extent of the violence is not as severe as reported by ABP Ananda. The report notes that the violence is largely limited to a few areas and that the state government has taken steps to address the issue, including deploying additional security forces.",
+          "sources": [
+            "Alt News"
+          ],
+          "what_was_omitted": [
+            "The extent of the violence and the areas affected by it.",
+            "The specific steps taken by the state government to address the issue."
+          ]
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The extent of the violence and the areas affected by it were not accurately reported by ABP Ananda.",
+          "missing_context": "The specific steps taken by the state government to address the issue were not provided by ABP Ananda."
+        }
+      },
+      {
+        "topic": "Caste Violence in West Bengal",
+        "state_narrative": {
+          "headline": "Caste Violence: A Social Menace in West Bengal",
+          "summary": "According to a report by Zee News, the caste violence in West Bengal has increased, with several incidents reported in the past few months. The report notes that the state government has taken steps to address the issue, but many feel that more needs to be done.",
+          "sources": [
+            "Zee News"
+          ],
+          "claims_made": [
+            "Caste violence has increased in West Bengal.",
+            "The state government has taken steps to address the issue."
+          ]
+        },
+        "verified_record": {
+          "headline": "Caste Violence in West Bengal: A Complex Issue",
+          "summary": "According to a report by Article 14, the caste violence in West Bengal is a complex issue, with several factors contributing to it. The report notes that the violence is largely limited to a few areas and that the state government has taken steps to address the issue, including setting up special courts to try the perpetrators.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The specific steps taken by the state government to address the issue.",
+            "The extent of the violence and the areas affected by it."
+          ]
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The specific steps taken by the state government to address the issue were not accurately reported by Zee News.",
+          "missing_context": "The extent of the violence and the areas affected by it were not provided by Zee News."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy|Labor",
-      "headline": "Factory Workers Strike Over Delayed Wages",
+      "category": "Economy",
+      "headline": "Food Prices Skyrocket in West Bengal, Hit 20% Annual Inflation Rate",
       "bullets": [
-        "Over 1,000 workers from a major textile mill are on strike",
-        "Wages have been delayed for 6 months, affecting 5,000 families",
-        "This means workers may not receive essential services like healthcare and education"
+        "Food prices up 20% YoY",
+        "Average household spends 40% income on food",
+        "Price of rice up 15% in last month"
       ],
-      "source": "The Telegraph",
+      "source": "Reserve Bank of India",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Dengue Fever Outbreak Claims 20 Lives",
+      "category": "Environment",
+      "headline": "Kolkata's Water Supply to Be Affected Due to Damaged Water Pipelines",
       "bullets": [
-        "Over 500 cases reported in the past 2 weeks, mostly in rural areas",
-        "Health officials say 20% of cases are severe, with 10% requiring hospitalization",
-        "This means residents are advised to take precautions like wearing insect repellent and using mosquito nets"
+        "20% of city's water supply affected",
+        "70 km of pipelines damaged",
+        "Repair work to begin in 2 weeks"
       ],
-      "source": "The Hindu",
+      "source": "Public Works Department, Government of West Bengal",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure|Transport",
-      "headline": "Bridge Collapse Blocks Highway to Nepal",
+      "category": "Labor",
+      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
       "bullets": [
-        "The 2-lane bridge collapsed on Tuesday, causing a 5-km traffic jam",
-        "The highway is a key trade route, affecting 10,000 daily commuters",
-        "This means travelers are advised to take an alternative route via Siliguri"
+        "10% wage hike for 2 lakh employees",
+        "Minimum wage increased to Rs 10,000",
+        "Next increment in 6 months"
       ],
-      "source": "Anandabazar Patrika",
+      "source": "West Bengal Government Press Release",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Outbreak in North Bengal, 100 Cases Reported in Last Week",
+      "bullets": [
+        "100 cases of malaria reported in North Bengal",
+        "14 deaths reported so far",
+        "Government dispatches medical team to affected areas"
+      ],
+      "source": "District Magistrate, Cooch Behar",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment|Agriculture",
-      "headline": "Farmers Protest Pesticide Ban",
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Continue in Rural West Bengal Due to Grid Overload",
       "bullets": [
-        "The government banned 5 common pesticides, citing environmental concerns",
-        "Farmers say the ban will reduce crop yields by 20%",
-        "This means farmers may lose their livelihoods and struggle to feed their families"
+        "16 villages affected by power cuts",
+        "Grid overload to be fixed in 3 months",
+        "Temporary generators to be installed"
       ],
-      "source": "Ei Samay",
+      "source": "Power Grid Corporation of India",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Food Prices|Economy",
-      "headline": "Food Prices Rise Amid Crop Failure",
+      "category": "Education",
+      "headline": "West Bengal Government Announces Free Education for All Students Below Poverty Line",
       "bullets": [
-        "Prices of essential commodities like rice and vegetables have increased by 15%",
-        "Crop failure in neighboring states has led to a shortage of 20,000 metric tons",
-        "This means residents may struggle to afford basic necessities like food and clothing"
+        "Free education for 50,000 students",
+        "Government to bear 100% education cost",
+        "Students to receive monthly stipend"
       ],
-      "source": "Bartaman",
-      "status": "CONFIRMED",
+      "source": "West Bengal Government Press Release",
+      "status": "DEVELOPING",
       "impact_score": 4
-    },
-    {
-      "category": "Water|Infrastructure",
-      "headline": "Water Supply Cut Due to Pump Failure",
-      "bullets": [
-        "The main water pump at a rural town broke down, affecting 5,000 residents",
-        "Water supply will be restored by Friday, but residents are advised to conserve water",
-        "This means residents may need to use rainwater harvesting systems or buy bottled water"
-      ],
-      "source": "The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 3
     }
   ],
   "faq": [
