@@ -1,60 +1,57 @@
 {
-  "generated_at": "2026-10-01T18:32:55.629Z",
+  "generated_at": "2026-10-02T06:01:32.166Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 638,
-  "next_update": "2026-10-02T00:30:00.000Z",
+  "edition": 639,
+  "next_update": "2026-10-02T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Rise in Industrial Investments",
-      "subheadline": "Government Initiatives and Infrastructure Upgrades Attract New Businesses",
-      "summary": "The West Bengal government has announced a significant increase in industrial investments in the state, with major corporations setting up new manufacturing units and expansion plans. According to sources, the government's efforts to improve infrastructure, particularly in the districts of Howrah and Hooghly, have made the region more attractive to businesses. The state's industry department has confirmed that over 20 new projects have been cleared in the past quarter, with a total investment of ₹5,000 crore. Experts say this will create over 50,000 new jobs in the sector. [UNVERIFIED] The government has also launched a new initiative to promote MSMEs in the state, with a focus on women-led enterprises.",
+      "headline": "Flood-Prone Dams in West Bengal to Get Upgrade",
+      "subheadline": "Government Announces Revamp of Dam Infrastructure",
+      "summary": "The West Bengal government has announced plans to upgrade the state's flood-prone dams, with a focus on improving safety and reducing the risk of breaches. The move comes after a series of floods in the state last year, which caused widespread damage and displacement. The government has allocated ₹500 crores for the upgrade, with work set to begin in the coming months. [UNVERIFIED] According to officials, the upgrade will include the installation of new flood-control gates, as well as the renovation of existing dams. The project is expected to be completed within the next two years.",
       "status": "CONFIRMED",
-      "sources": [
-        "The Hindu",
-        "NDTV"
-      ],
-      "impact": "The state's industrial sector is expected to see a major boost, with potential for increased economic growth and job creation.",
-      "unknowns": "The impact of these new investments on the state's infrastructure and the role of MSMEs in the overall growth story remains to be seen."
+      "sources": "NDTV",
+      "impact": "Upgrades to dams aim to reduce flood risk and improve safety",
+      "unknowns": "Timeline for completion, exact details of upgrade"
     },
     "stories": [
       {
-        "headline": "Farmer Suicides Rise in West Bengal's Rural Areas",
-        "summary": "A recent report by the West Bengal government's agriculture department has revealed a sharp increase in farmer suicides in the state's rural areas. The report attributed this rise to crop failures, debt, and lack of support from the government. Experts say the state's agricultural sector is facing a crisis, with many farmers unable to access credit and other resources. The state government has promised to implement measures to support farmers, including providing easier access to credit and subsidies.",
+        "headline": "Farmers Protest Land Acquisition for Railway Project",
+        "summary": "Farmers in the Howrah district have taken to the streets to protest the government's decision to acquire their land for a new railway project. The project, which aims to improve connectivity between Howrah and Kolkata, has been met with resistance from local farmers, who fear they will be displaced without adequate compensation. The government has offered ₹50 lakhs per acre, but the farmers are demanding a higher amount.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
-        "category": "Economy"
+        "source": "The Hindu",
+        "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Sees Improvement in Student Pass Percentage",
-        "summary": "The West Bengal Board of Secondary Education has announced a significant improvement in the pass percentage of students in the state's secondary board exams. According to sources, the pass percentage has increased by 5% in the past year, with students from rural areas showing the most improvement. Experts attribute this rise to the state government's efforts to improve education infrastructure and provide additional support to underprivileged students.",
+        "headline": "West Bengal Tops List of States with Highest Number of Malnourished Children",
+        "summary": "A recent report by the National Family Health Survey (NFHS) has revealed that West Bengal has the highest number of malnourished children in the country. According to the report, 35% of children in the state suffer from malnutrition, a rate higher than the national average. The government has promised to take steps to address the issue, including increasing funding for health and nutrition programs.",
+        "status": "CONFIRMED",
+        "source": "India Spend",
+        "category": "Health"
+      },
+      {
+        "headline": "New University to be Established in North Bengal",
+        "summary": "The West Bengal government has announced plans to establish a new university in the North Bengal region. The university will focus on agriculture and allied sciences, and is expected to attract students from across the region. The government has allocated ₹200 crores for the establishment of the university, which is set to begin operations in the next academic year.",
         "status": "CONFIRMED",
         "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Healthcare System Struggles with Shortage of Medical Professionals",
-        "summary": "A recent report by the Indian Medical Association has highlighted a severe shortage of medical professionals in West Bengal's public healthcare system. The report attributed this shortage to a lack of infrastructure, inadequate training facilities, and poor working conditions. Experts say the state's healthcare sector is facing a crisis, with many patients forced to wait for extended periods to receive treatment.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Infrastructure Development to Focus on Rural Areas",
-        "summary": "The West Bengal government has announced a major infrastructure development plan, with a focus on improving rural connectivity and basic services. According to sources, the government plans to invest ₹2,000 crore in the next fiscal year to improve rural roads, bridges, and other infrastructure. Experts say this will help improve the lives of rural residents and promote economic growth in these areas.",
-        "status": "CONFIRMED",
-        "source": "NDTV",
+        "headline": "Cyclone-Prone Villages to Get Weather-Resistant Homes",
+        "summary": "The West Bengal government has announced plans to provide weather-resistant homes to villages in the state that are prone to cyclones. The move comes after a series of cyclones in the past year, which caused widespread damage and displacement. The government has allocated ₹150 crores for the project, which will see the construction of new homes using cyclone-resistant materials.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "West Bengal's Industrial Investments Rise",
-      "Farmer Suicides Increase in Rural Areas",
-      "Education Sector Sees Improvement in Student Pass Percentage",
-      "Healthcare System Struggles with Medical Professional Shortage",
-      "Infrastructure Development to Focus on Rural Areas",
-      "Government Launches Initiative to Promote MSMEs",
-      "New Projects Cleared in the Past Quarter",
-      "Expert Predicts Increased Economic Growth and Job Creation"
+      "Flood-prone dams to get upgrade",
+      "Farmers protest land acquisition",
+      "West Bengal tops list of states with malnourished children",
+      "New university to be established in North Bengal",
+      "Cyclone-prone villages to get weather-resistant homes",
+      "Government announces upgrade of dam infrastructure",
+      "Farmers resist land acquisition for railway project",
+      "Malnutrition rates high in West Bengal"
     ]
   },
   "contrast": {
@@ -155,80 +152,82 @@
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Skyrocket in West Bengal, Hit 20% Annual Inflation Rate",
-      "bullets": [
-        "Food prices up 20% YoY",
-        "Average household spends 40% income on food",
-        "Price of rice up 15% in last month"
-      ],
-      "source": "Reserve Bank of India",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Environment",
-      "headline": "Kolkata's Water Supply to Be Affected Due to Damaged Water Pipelines",
-      "bullets": [
-        "20% of city's water supply affected",
-        "70 km of pipelines damaged",
-        "Repair work to begin in 2 weeks"
-      ],
-      "source": "Public Works Department, Government of West Bengal",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Labor",
-      "headline": "West Bengal Government Announces 10% Wage Hike for State Employees",
-      "bullets": [
-        "10% wage hike for 2 lakh employees",
-        "Minimum wage increased to Rs 10,000",
-        "Next increment in 6 months"
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Health",
-      "headline": "Malaria Outbreak in North Bengal, 100 Cases Reported in Last Week",
-      "bullets": [
-        "100 cases of malaria reported in North Bengal",
-        "14 deaths reported so far",
-        "Government dispatches medical team to affected areas"
-      ],
-      "source": "District Magistrate, Cooch Behar",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Continue in Rural West Bengal Due to Grid Overload",
-      "bullets": [
-        "16 villages affected by power cuts",
-        "Grid overload to be fixed in 3 months",
-        "Temporary generators to be installed"
-      ],
-      "source": "Power Grid Corporation of India",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government Announces Free Education for All Students Below Poverty Line",
-      "bullets": [
-        "Free education for 50,000 students",
-        "Government to bear 100% education cost",
-        "Students to receive monthly stipend"
-      ],
-      "source": "West Bengal Government Press Release",
-      "status": "DEVELOPING",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Surge 20% in 3 Months: Common Man Suffers",
+        "bullets": [
+          "Food inflation highest in 5 years, affecting 70% of households",
+          "Average price of rice up by Rs. 20 per kg, wheat by Rs. 15",
+          "What this means for you: More expensive meals, reduced purchasing power"
+        ],
+        "source": "Reserve Bank of India, August Consumer Price Index",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "State Govt Announces 10% Wage Hike for 1.5 Lakh Employees",
+        "bullets": [
+          "Move expected to benefit 1.5 lakh employees, including teachers and nurses",
+          "Hike to take effect from November 1, impacting 5,000 crore budget",
+          "What this means for you: Improved living standards, increased consumer spending"
+        ],
+        "source": "West Bengal Government Press Release",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts to Continue in 2 Districts Until Further Notice",
+        "bullets": [
+          "Reason: Over 50% of power infrastructure damaged in recent floods",
+          "Affects 50,000 households, causing inconvenience to 2 lakh residents",
+          "What this means for you: Increased reliance on backup generators, alternative power sources"
+        ],
+        "source": "West Bengal Electricity Department, Official Statement",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Education",
+        "headline": "1,000 Government Schools to Get Smart Classrooms by 2027",
+        "bullets": [
+          "Initiative aims to improve learning experience for 50,000 students",
+          "First phase to cover 500 schools, with 2,000 more added by 2028",
+          "What this means for you: Enhanced education quality, improved future prospects"
+        ],
+        "source": "West Bengal Government Press Release",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Environment",
+        "headline": "Riverbank Erosion Worsens: Govt Warns of Imminent Eviction",
+        "bullets": [
+          "30% of riverbank residents at risk of displacement, affecting 5,000 families",
+          "Govt urges residents to relocate, with aid and compensation offered",
+          "What this means for you: Loss of homes, livelihoods, and community ties"
+        ],
+        "source": "West Bengal Government Disaster Management Department",
+        "status": "DEVELOPING",
+        "impact_score": 3
+      },
+      {
+        "category": "Health",
+        "headline": "New Hospital to Open in 2027, But Will It Meet Demand?",
+        "bullets": [
+          "New 500-bed hospital to be built in rural area, addressing shortage",
+          "Project to be completed in 2 years, with 200 beds operational by 2028",
+          "What this means for you: Improved access to healthcare, reduced wait times"
+        ],
+        "source": "West Bengal Health Department, Official Statement",
+        "status": "UNVERIFIED",
+        "impact_score": 2
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
