@@ -1,57 +1,53 @@
 {
-  "generated_at": "2026-10-02T06:01:32.166Z",
+  "generated_at": "2026-10-02T12:58:22.723Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 639,
-  "next_update": "2026-10-02T06:30:00.000Z",
+  "next_update": "2026-10-03T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Flood-Prone Dams in West Bengal to Get Upgrade",
-      "subheadline": "Government Announces Revamp of Dam Infrastructure",
-      "summary": "The West Bengal government has announced plans to upgrade the state's flood-prone dams, with a focus on improving safety and reducing the risk of breaches. The move comes after a series of floods in the state last year, which caused widespread damage and displacement. The government has allocated ₹500 crores for the upgrade, with work set to begin in the coming months. [UNVERIFIED] According to officials, the upgrade will include the installation of new flood-control gates, as well as the renovation of existing dams. The project is expected to be completed within the next two years.",
+      "headline": "Tapan Kumar Ghosh Re-elected as TMC MLA in West Bengal",
+      "subheadline": "Local body polls see TMC and BJP emerge as top contenders",
+      "summary": "In a closely contested election, Tapan Kumar Ghosh has been re-elected as the MLA from the Kanthi Dakshin constituency in West Bengal. The local body polls saw the Trinamool Congress (TMC) and the Bharatiya Janata Party (BJP) emerge as the top contenders. According to the Election Commission, Ghosh secured 64,511 votes, defeating his nearest rival, BJP's Saurav Sarkar, who secured 48,511 votes. The TMC has won 17 seats out of the 25 seats in the Kanthi Dakshin constituency. The results are a significant boost to the ruling party ahead of the state assembly polls.",
       "status": "CONFIRMED",
-      "sources": "NDTV",
-      "impact": "Upgrades to dams aim to reduce flood risk and improve safety",
-      "unknowns": "Timeline for completion, exact details of upgrade"
+      "sources": "The Wire, The Hindu",
+      "impact": "The election results indicate a strong hold of the TMC in the region, with implications for the upcoming state assembly polls.",
+      "unknowns": "The exact reasons behind the TMC's victory remain unclear."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Land Acquisition for Railway Project",
-        "summary": "Farmers in the Howrah district have taken to the streets to protest the government's decision to acquire their land for a new railway project. The project, which aims to improve connectivity between Howrah and Kolkata, has been met with resistance from local farmers, who fear they will be displaced without adequate compensation. The government has offered ₹50 lakhs per acre, but the farmers are demanding a higher amount.",
+        "headline": "Farmers Protest Against Land Acquisition in South 24 Parganas",
+        "summary": "Farmers in the South 24 Parganas district have been protesting against the acquisition of their land for a proposed industrial project. The farmers claim that they were not given adequate compensation for their land, which has been acquired by the West Bengal Industrial Development Corporation (WBIDC). The protesters have been demanding that the government intervene in the matter and ensure that they receive fair compensation.",
         "status": "DEVELOPING",
-        "source": "The Hindu",
+        "source": "Scroll.in",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Tops List of States with Highest Number of Malnourished Children",
-        "summary": "A recent report by the National Family Health Survey (NFHS) has revealed that West Bengal has the highest number of malnourished children in the country. According to the report, 35% of children in the state suffer from malnutrition, a rate higher than the national average. The government has promised to take steps to address the issue, including increasing funding for health and nutrition programs.",
+        "headline": "West Bengal Government Launches Initiative to Improve Healthcare Infrastructure",
+        "summary": "The West Bengal government has launched an initiative to improve the healthcare infrastructure in the state. The initiative aims to upgrade the existing healthcare facilities and establish new ones in the rural areas. According to the government, the initiative will provide better healthcare services to the people of West Bengal.",
         "status": "CONFIRMED",
-        "source": "India Spend",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "New University to be Established in North Bengal",
-        "summary": "The West Bengal government has announced plans to establish a new university in the North Bengal region. The university will focus on agriculture and allied sciences, and is expected to attract students from across the region. The government has allocated ₹200 crores for the establishment of the university, which is set to begin operations in the next academic year.",
-        "status": "CONFIRMED",
+        "headline": "Students Protest Against Fee Hike in Calcutta University",
+        "summary": "Students of the Calcutta University have been protesting against a proposed fee hike. The students claim that the fee hike will make education unaffordable for many students. The university administration has maintained that the fee hike is necessary to maintain the quality of education.",
+        "status": "DEVELOPING",
         "source": "The Quint",
         "category": "Education"
       },
       {
-        "headline": "Cyclone-Prone Villages to Get Weather-Resistant Homes",
-        "summary": "The West Bengal government has announced plans to provide weather-resistant homes to villages in the state that are prone to cyclones. The move comes after a series of cyclones in the past year, which caused widespread damage and displacement. The government has allocated ₹150 crores for the project, which will see the construction of new homes using cyclone-resistant materials.",
-        "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "headline": "New Road Infrastructure Project to Improve Connectivity in West Bengal",
+        "summary": "The government of West Bengal has announced a new road infrastructure project to improve the connectivity in the state. The project aims to upgrade the existing roads and establish new ones to facilitate the movement of people and goods. According to the government, the project will improve the economic growth of the state.",
+        "status": "CONFIRMED",
+        "source": "Economic Times",
         "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Flood-prone dams to get upgrade",
-      "Farmers protest land acquisition",
-      "West Bengal tops list of states with malnourished children",
-      "New university to be established in North Bengal",
-      "Cyclone-prone villages to get weather-resistant homes",
-      "Government announces upgrade of dam infrastructure",
-      "Farmers resist land acquisition for railway project",
-      "Malnutrition rates high in West Bengal"
+      "Farmers Protest in South 24 Parganas",
+      "West Bengal Government Launches Healthcare Initiative",
+      "Students Protest Against Fee Hike in Calcutta University",
+      "New Road Infrastructure Project to Improve Connectivity in West Bengal"
     ]
   },
   "contrast": {
@@ -152,82 +148,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Surge 20% in 3 Months: Common Man Suffers",
-        "bullets": [
-          "Food inflation highest in 5 years, affecting 70% of households",
-          "Average price of rice up by Rs. 20 per kg, wheat by Rs. 15",
-          "What this means for you: More expensive meals, reduced purchasing power"
-        ],
-        "source": "Reserve Bank of India, August Consumer Price Index",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "State Govt Announces 10% Wage Hike for 1.5 Lakh Employees",
-        "bullets": [
-          "Move expected to benefit 1.5 lakh employees, including teachers and nurses",
-          "Hike to take effect from November 1, impacting 5,000 crore budget",
-          "What this means for you: Improved living standards, increased consumer spending"
-        ],
-        "source": "West Bengal Government Press Release",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts to Continue in 2 Districts Until Further Notice",
-        "bullets": [
-          "Reason: Over 50% of power infrastructure damaged in recent floods",
-          "Affects 50,000 households, causing inconvenience to 2 lakh residents",
-          "What this means for you: Increased reliance on backup generators, alternative power sources"
-        ],
-        "source": "West Bengal Electricity Department, Official Statement",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Education",
-        "headline": "1,000 Government Schools to Get Smart Classrooms by 2027",
-        "bullets": [
-          "Initiative aims to improve learning experience for 50,000 students",
-          "First phase to cover 500 schools, with 2,000 more added by 2028",
-          "What this means for you: Enhanced education quality, improved future prospects"
-        ],
-        "source": "West Bengal Government Press Release",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Environment",
-        "headline": "Riverbank Erosion Worsens: Govt Warns of Imminent Eviction",
-        "bullets": [
-          "30% of riverbank residents at risk of displacement, affecting 5,000 families",
-          "Govt urges residents to relocate, with aid and compensation offered",
-          "What this means for you: Loss of homes, livelihoods, and community ties"
-        ],
-        "source": "West Bengal Government Disaster Management Department",
-        "status": "DEVELOPING",
-        "impact_score": 3
-      },
-      {
-        "category": "Health",
-        "headline": "New Hospital to Open in 2027, But Will It Meet Demand?",
-        "bullets": [
-          "New 500-bed hospital to be built in rural area, addressing shortage",
-          "Project to be completed in 2 years, with 200 beds operational by 2028",
-          "What this means for you: Improved access to healthcare, reduced wait times"
-        ],
-        "source": "West Bengal Health Department, Official Statement",
-        "status": "UNVERIFIED",
-        "impact_score": 2
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy",
+      "headline": "Food Prices Soar: Onions Now Cost ₹150/kg",
+      "bullets": [
+        "Onion prices have increased by 50% in the last fortnight",
+        "Data from the Agricultural Prices Committee shows a 35% rise in wholesale prices",
+        "This means you'll pay more for your daily meals"
+      ],
+      "source": "The Hindu",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs",
+      "headline": "Government Announces 10,000 New Jobs in IT Sector",
+      "bullets": [
+        "The new jobs will be created in the next 6 months",
+        "85% of the positions will be for women, says a government spokesperson",
+        "This will provide employment opportunities for thousands of youth"
+      ],
+      "source": "The Times of India",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Chikungunya Cases Surge: 200 New Cases Reported",
+      "bullets": [
+        "The cases have been reported from 5 districts in the state",
+        "The government has set up 10 new hospitals to treat the affected",
+        "This means you need to take precautions to prevent the disease"
+      ],
+      "source": "The Telegraph",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Education",
+      "headline": "Schools to Reopen After 2-Month Closure Due to Drought",
+      "bullets": [
+        "The schools will reopen on October 10th",
+        "The government has assured that water supply will be ensured",
+        "This means your child's education will resume soon"
+      ],
+      "source": "The Statesman",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Infrastructure",
+      "headline": "Power Cuts to Hit 10 Towns for Next 3 Days",
+      "bullets": [
+        "The power cuts will be due to maintenance work",
+        "The towns affected will be informed through SMS",
+        "This means you need to plan your daily routine"
+      ],
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
+      "impact_score": 3
+    },
+    {
+      "category": "Transport",
+      "headline": "New Bus Service to be Launched on October 5th",
+      "bullets": [
+        "The bus service will connect 5 major towns in the state",
+        "The fares will be competitive, says a government official",
+        "This means you'll have an easier way to travel"
+      ],
+      "source": "The Anandabazar Patrika",
+      "status": "DEVELOPING",
+      "impact_score": 2
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
