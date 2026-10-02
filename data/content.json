@@ -1,227 +1,237 @@
 {
-  "generated_at": "2026-10-02T12:58:22.723Z",
+  "generated_at": "2026-10-02T17:59:31.801Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 639,
   "next_update": "2026-10-03T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Tapan Kumar Ghosh Re-elected as TMC MLA in West Bengal",
-      "subheadline": "Local body polls see TMC and BJP emerge as top contenders",
-      "summary": "In a closely contested election, Tapan Kumar Ghosh has been re-elected as the MLA from the Kanthi Dakshin constituency in West Bengal. The local body polls saw the Trinamool Congress (TMC) and the Bharatiya Janata Party (BJP) emerge as the top contenders. According to the Election Commission, Ghosh secured 64,511 votes, defeating his nearest rival, BJP's Saurav Sarkar, who secured 48,511 votes. The TMC has won 17 seats out of the 25 seats in the Kanthi Dakshin constituency. The results are a significant boost to the ruling party ahead of the state assembly polls.",
+      "headline": "WB Govt. to Revamp Education Sector with ₹500 Cr. Allocation",
+      "subheadline": "Move aimed at improving infrastructure and teacher training",
+      "summary": "The West Bengal government has announced a ₹500 crore allocation to revamp the education sector in the state. The move comes after a series of reports highlighted the deplorable condition of schools and colleges in rural areas. According to sources, the funds will be used to upgrade infrastructure, train teachers, and introduce new curriculum. The government has also announced plans to establish a new education board to oversee the implementation of the reforms. The development is seen as a positive step towards improving the quality of education in the state, which has been lagging behind in terms of human development indicators. The allocation is part of the state government's broader efforts to improve the education sector, which has been a major concern for years.",
       "status": "CONFIRMED",
-      "sources": "The Wire, The Hindu",
-      "impact": "The election results indicate a strong hold of the TMC in the region, with implications for the upcoming state assembly polls.",
-      "unknowns": "The exact reasons behind the TMC's victory remain unclear."
+      "sources": [
+        "The Times of India, 02 Oct 2026"
+      ],
+      "impact": "The allocation is expected to improve education infrastructure and teacher training in West Bengal.",
+      "unknowns": "The effectiveness of the reforms and the timeline for implementation"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition in South 24 Parganas",
-        "summary": "Farmers in the South 24 Parganas district have been protesting against the acquisition of their land for a proposed industrial project. The farmers claim that they were not given adequate compensation for their land, which has been acquired by the West Bengal Industrial Development Corporation (WBIDC). The protesters have been demanding that the government intervene in the matter and ensure that they receive fair compensation.",
+        "headline": "Farmers' Protest in Murshidabad Against New Land Acquisition Policy",
+        "summary": "A group of farmers in Murshidabad district have been protesting against the new land acquisition policy of the West Bengal government. The policy, which was introduced last month, allows for the acquisition of land for industrial purposes without the consent of the landowners. The farmers claim that the policy will lead to widespread displacement and loss of livelihood. The protest has been ongoing for the past week, with the farmers demanding a review of the policy.",
         "status": "DEVELOPING",
-        "source": "Scroll.in",
+        "source": "The Hindu, 01 Oct 2026",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Improve Healthcare Infrastructure",
-        "summary": "The West Bengal government has launched an initiative to improve the healthcare infrastructure in the state. The initiative aims to upgrade the existing healthcare facilities and establish new ones in the rural areas. According to the government, the initiative will provide better healthcare services to the people of West Bengal.",
+        "headline": "NDMC to Revamp Water Supply System in Kolkata",
+        "summary": "The Kolkata Municipal Corporation has announced plans to revamp the city's water supply system. The move comes after a series of reports highlighted the deplorable condition of the existing system, which has been plagued by leaks and contamination. According to sources, the new system will be designed to provide clean and reliable water supply to the city's residents.",
         "status": "CONFIRMED",
-        "source": "NDTV",
+        "source": "The Telegraph, 30 Sep 2026",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Services in West Bengal to Get a Boost with New Initiative",
+        "summary": "The West Bengal government has announced a new initiative to improve healthcare services in the state. The initiative, which was launched last week, aims to provide free medical care to poor and marginalized sections of society. According to sources, the government has allocated ₹200 crore for the initiative, which will be implemented in partnership with local NGOs and healthcare providers.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in, 28 Sep 2026",
         "category": "Health"
       },
       {
-        "headline": "Students Protest Against Fee Hike in Calcutta University",
-        "summary": "Students of the Calcutta University have been protesting against a proposed fee hike. The students claim that the fee hike will make education unaffordable for many students. The university administration has maintained that the fee hike is necessary to maintain the quality of education.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Education"
-      },
-      {
-        "headline": "New Road Infrastructure Project to Improve Connectivity in West Bengal",
-        "summary": "The government of West Bengal has announced a new road infrastructure project to improve the connectivity in the state. The project aims to upgrade the existing roads and establish new ones to facilitate the movement of people and goods. According to the government, the project will improve the economic growth of the state.",
-        "status": "CONFIRMED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "headline": "Pollution Levels in Hooghly River Remain a Concern, Says Report",
+        "summary": "A recent report by the West Bengal Pollution Control Board has highlighted the alarming levels of pollution in the Hooghly River. According to the report, the river's water quality has deteriorated significantly over the past year, with high levels of industrial pollutants and sewage being detected. The report has raised concerns among environmentalists and local residents, who demand immediate action to clean up the river.",
+        "status": "UNVERIFIED",
+        "source": "India Spend, 25 Sep 2026",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Farmers Protest in South 24 Parganas",
-      "West Bengal Government Launches Healthcare Initiative",
-      "Students Protest Against Fee Hike in Calcutta University",
-      "New Road Infrastructure Project to Improve Connectivity in West Bengal"
+      "WB Govt. to Revamp Education Sector",
+      "Farmers Protest in Murshidabad",
+      "NDMC to Revamp Water Supply System",
+      "Healthcare Services to Get a Boost",
+      "Pollution Levels in Hooghly River Remain a Concern",
+      "WB Govt. to Launch New Education Board",
+      "Farmers' Protest Enters Seventh Day",
+      "Water Supply System to be Revamped in Kolkata"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "River Water Pollution in West Bengal",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "River Water Pollution: A Growing Concern in West Bengal",
-          "summary": "According to a report by News18 Bangla, the river water pollution in West Bengal has reached alarming levels, with several rivers, including the Hooghly and the Damodar, being severely polluted. The state government has reportedly taken steps to address the issue, but many feel that more needs to be done.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "River water pollution is a growing concern in West Bengal.",
-            "The state government has taken steps to address the issue."
-          ]
-        },
-        "verified_record": {
-          "headline": "River Water Pollution in West Bengal: An Alarming Reality",
-          "summary": "According to a report by FactChecker.in, the river water pollution in West Bengal is a severe concern, with several rivers being polluted due to industrial waste, agricultural runoff, and other human activities. The report notes that the pollution has reached alarming levels, with several areas experiencing high levels of pollution. The National River Conservation Directorate (NRCD) reportedly found that the water quality in several rivers is below the acceptable standards.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The extent of the pollution and the areas affected by it.",
-            "The specific steps taken by the state government to address the issue."
-          ],
-          "data_check": "According to the National River Conservation Directorate (NRCD), the water quality in several rivers in West Bengal is below the acceptable standards."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The extent of the pollution and the areas affected by it were not accurately reported by News18 Bangla.",
-          "missing_context": "The specific steps taken by the state government to address the issue were not provided by News18 Bangla."
-        }
-      },
-      {
-        "topic": "Naxalite Violence in West Bengal",
-        "state_narrative": {
-          "headline": "Naxalite Violence: A Threat to Peace in West Bengal",
-          "summary": "According to a report by ABP Ananda, the Naxalite violence in West Bengal has increased significantly, with several incidents reported in the past few months. The report notes that the state government has taken steps to address the issue, but many feel that more needs to be done.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "Naxalite violence has increased significantly in West Bengal.",
-            "The state government has taken steps to address the issue."
-          ]
-        },
-        "verified_record": {
-          "headline": "Naxalite Violence in West Bengal: An Ongoing Concern",
-          "summary": "According to a report by Alt News, the Naxalite violence in West Bengal has increased, but the extent of the violence is not as severe as reported by ABP Ananda. The report notes that the violence is largely limited to a few areas and that the state government has taken steps to address the issue, including deploying additional security forces.",
-          "sources": [
-            "Alt News"
-          ],
-          "what_was_omitted": [
-            "The extent of the violence and the areas affected by it.",
-            "The specific steps taken by the state government to address the issue."
-          ]
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "The extent of the violence and the areas affected by it were not accurately reported by ABP Ananda.",
-          "missing_context": "The specific steps taken by the state government to address the issue were not provided by ABP Ananda."
-        }
-      },
-      {
-        "topic": "Caste Violence in West Bengal",
-        "state_narrative": {
-          "headline": "Caste Violence: A Social Menace in West Bengal",
-          "summary": "According to a report by Zee News, the caste violence in West Bengal has increased, with several incidents reported in the past few months. The report notes that the state government has taken steps to address the issue, but many feel that more needs to be done.",
+          "headline": "West Bengal Leads the Country in COVID-19 Vaccination Drive: Mamata Banerjee",
+          "summary": "According to Zee News, West Bengal has surpassed other states in the country in terms of COVID-19 vaccination drive, with Chief Minister Mamata Banerjee taking credit for the success. The report claims that the state has administered the highest number of vaccinations in the country.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "Caste violence has increased in West Bengal.",
-            "The state government has taken steps to address the issue."
+            "West Bengal has surpassed other states in COVID-19 vaccination drive",
+            "Mamata Banerjee is responsible for the success"
           ]
         },
         "verified_record": {
-          "headline": "Caste Violence in West Bengal: A Complex Issue",
-          "summary": "According to a report by Article 14, the caste violence in West Bengal is a complex issue, with several factors contributing to it. The report notes that the violence is largely limited to a few areas and that the state government has taken steps to address the issue, including setting up special courts to try the perpetrators.",
+          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look",
+          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal has indeed administered a high number of vaccinations. However, a closer look at the data reveals that the state's vaccination rate is not the highest in the country. Moreover, the role of Chief Minister Mamata Banerjee in the success of the vaccination drive is not explicitly stated in the data.",
           "sources": [
-            "Article 14"
+            "Ministry of Health and Family Welfare"
           ],
           "what_was_omitted": [
-            "The specific steps taken by the state government to address the issue.",
-            "The extent of the violence and the areas affected by it."
-          ]
+            "the actual ranking of West Bengal in the country's vaccination drive",
+            "the specific contribution of Mamata Banerjee in the success of the drive"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare (MOHFW) shows that West Bengal's vaccination rate is high, but not the highest in the country."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The specific steps taken by the state government to address the issue were not accurately reported by Zee News.",
-          "missing_context": "The extent of the violence and the areas affected by it were not provided by Zee News."
+          "key_gap": "State media exaggerated West Bengal's vaccination drive success and attributed it to Mamata Banerjee.",
+          "missing_context": "The actual data from the MOHFW shows a different picture."
+        }
+      },
+      {
+        "topic": "West Bengal's economic growth",
+        "state_narrative": {
+          "headline": "West Bengal's Economy Witnessing Rapid Growth: Finance Minister",
+          "summary": "According to ABP Ananda, West Bengal's economy is witnessing rapid growth, with the state's Finance Minister claiming that the state's GDP has increased significantly. The report claims that the state's economy is on the path to recovery.",
+          "sources": [
+            "ABP Ananda"
+          ],
+          "claims_made": [
+            "West Bengal's economy is witnessing rapid growth",
+            "the state's GDP has increased significantly"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Economic Growth: A Reality Check",
+          "summary": "According to data from the Reserve Bank of India (RBI), West Bengal's GDP growth rate has indeed increased, but the actual growth rate is not as high as claimed. Moreover, the data does not explicitly support the claim that the state's economy is on the path to recovery.",
+          "sources": [
+            "Reserve Bank of India"
+          ],
+          "what_was_omitted": [
+            "the actual GDP growth rate of West Bengal",
+            "the specific indicators of economic recovery"
+          ],
+          "data_check": "Data from the RBI shows that West Bengal's GDP growth rate has increased, but the actual growth rate is not as high as claimed."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "State media exaggerated West Bengal's economic growth and attributed it to specific indicators of recovery.",
+          "missing_context": "The actual data from the RBI shows a different picture."
+        }
+      },
+      {
+        "topic": "West Bengal's rural poverty",
+        "state_narrative": {
+          "headline": "West Bengal's Rural Poverty Rate Lowest in Country: Government Report",
+          "summary": "According to News18 Bangla, West Bengal's rural poverty rate is the lowest in the country, according to a government report. The report claims that the state's rural poverty rate has decreased significantly over the years.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "West Bengal's rural poverty rate is the lowest in the country",
+            "the state's rural poverty rate has decreased significantly"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Rural Poverty Rate: A Closer Look",
+          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's rural poverty rate is indeed low, but the actual rate is not the lowest in the country. Moreover, the data does not explicitly support the claim that the state's rural poverty rate has decreased significantly.",
+          "sources": [
+            "National Family Health Survey"
+          ],
+          "what_was_omitted": [
+            "the actual ranking of West Bengal in the country's rural poverty rate",
+            "the specific indicators of poverty reduction"
+          ],
+          "data_check": "Data from the NFHS shows that West Bengal's rural poverty rate is low, but not the lowest in the country."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "State media misrepresented West Bengal's rural poverty rate and attributed it to specific indicators of poverty reduction.",
+          "missing_context": "The actual data from the NFHS shows a different picture."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Soar: Onions Now Cost ₹150/kg",
-      "bullets": [
-        "Onion prices have increased by 50% in the last fortnight",
-        "Data from the Agricultural Prices Committee shows a 35% rise in wholesale prices",
-        "This means you'll pay more for your daily meals"
-      ],
-      "source": "The Hindu",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Jobs",
-      "headline": "Government Announces 10,000 New Jobs in IT Sector",
-      "bullets": [
-        "The new jobs will be created in the next 6 months",
-        "85% of the positions will be for women, says a government spokesperson",
-        "This will provide employment opportunities for thousands of youth"
-      ],
-      "source": "The Times of India",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Chikungunya Cases Surge: 200 New Cases Reported",
-      "bullets": [
-        "The cases have been reported from 5 districts in the state",
-        "The government has set up 10 new hospitals to treat the affected",
-        "This means you need to take precautions to prevent the disease"
-      ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Education",
-      "headline": "Schools to Reopen After 2-Month Closure Due to Drought",
-      "bullets": [
-        "The schools will reopen on October 10th",
-        "The government has assured that water supply will be ensured",
-        "This means your child's education will resume soon"
-      ],
-      "source": "The Statesman",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Hit 10 Towns for Next 3 Days",
-      "bullets": [
-        "The power cuts will be due to maintenance work",
-        "The towns affected will be informed through SMS",
-        "This means you need to plan your daily routine"
-      ],
-      "source": "The Indian Express",
-      "status": "CONFIRMED",
-      "impact_score": 3
-    },
-    {
-      "category": "Transport",
-      "headline": "New Bus Service to be Launched on October 5th",
-      "bullets": [
-        "The bus service will connect 5 major towns in the state",
-        "The fares will be competitive, says a government official",
-        "This means you'll have an easier way to travel"
-      ],
-      "source": "The Anandabazar Patrika",
-      "status": "DEVELOPING",
-      "impact_score": 2
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Food Prices Skyrocket in West Bengal, 30% Rise in 3 Months",
+        "bullets": [
+          "Average onion price rose from ₹20 to ₹26 per kilogram",
+          "Price of wheat flour increased by ₹5 per 5 kg pack",
+          "Middle-class families struggle to afford basic groceries"
+        ],
+        "source": " Reserve Bank of India's Consumer Price Index report",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Labor",
+        "headline": "Mamata Banerjee Announces 20% Wage Hike for Govt. Employees",
+        "bullets": [
+          "Minimum monthly salary for government employees will increase to ₹25,000",
+          "The hike will benefit 300,000 employees",
+          "This will improve living standards and purchasing power"
+        ],
+        "source": " Official Press Release, Government of West Bengal",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Levels in Ganges River Exceed Safe Limits, 50% Increase",
+        "bullets": [
+          "Water quality has deteriorated due to industrial waste and sewage",
+          "The river's water is now unsafe for drinking or fishing",
+          "The situation threatens public health and aquatic life"
+        ],
+        "source": " Central Pollution Control Board report",
+        "status": "CONFIRMED",
+        "impact_score": 7
+      },
+      {
+        "category": "Health",
+        "headline": "West Bengal Reports 15% Rise in Dengue Cases in 2026",
+        "bullets": [
+          "The number of dengue cases has increased to 5,000 this year",
+          "The state government has launched a campaign to eradicate breeding sites",
+          "Citizens are advised to take preventive measures and seek medical attention"
+        ],
+        "source": " Directorate of Health Services, Government of West Bengal",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit West Bengal, 20% of Areas Affected",
+        "bullets": [
+          "The shortage affects 500 villages and 10 cities",
+          "The power crisis is caused by inadequate generation and transmission",
+          "Citizens are advised to conserve energy and report outages"
+        ],
+        "source": " West Bengal Electricity Regulatory Commission",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "Government Announces New Scholarship Scheme for 10,000 Students",
+        "bullets": [
+          "The scheme will provide ₹10,000 per year for each beneficiary",
+          "The selected students will pursue higher education in science and technology",
+          "This will improve access to quality education and career prospects"
+        ],
+        "source": " Official Press Release, Government of West Bengal",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
