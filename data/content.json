@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T17:59:31.801Z",
+  "generated_at": "2026-10-03T05:37:08.910Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 639,
-  "next_update": "2026-10-03T00:30:00.000Z",
+  "edition": 640,
+  "next_update": "2026-10-03T06:30:00.000Z",
   "home": {
     "hero": {
       "headline": "WB Govt. to Revamp Education Sector with ₹500 Cr. Allocation",
@@ -59,99 +59,100 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "West Bengal's Rural Development",
         "state_narrative": {
-          "headline": "West Bengal Leads the Country in COVID-19 Vaccination Drive: Mamata Banerjee",
-          "summary": "According to Zee News, West Bengal has surpassed other states in the country in terms of COVID-19 vaccination drive, with Chief Minister Mamata Banerjee taking credit for the success. The report claims that the state has administered the highest number of vaccinations in the country.",
+          "headline": "Rural Development in West Bengal: A Success Story",
+          "summary": "According to Zee News, the TMC government in West Bengal has achieved significant success in rural development, with the state's GDP growth rate increasing by 10% in the last quarter. The government's initiatives, such as the 'Duarey Shei' scheme, have allegedly benefited thousands of farmers.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "West Bengal has surpassed other states in COVID-19 vaccination drive",
-            "Mamata Banerjee is responsible for the success"
+            "10% GDP growth rate",
+            "Duarey Shei scheme benefits thousands of farmers"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's COVID-19 Vaccination Drive: A Closer Look",
-          "summary": "According to data from the Ministry of Health and Family Welfare, West Bengal has indeed administered a high number of vaccinations. However, a closer look at the data reveals that the state's vaccination rate is not the highest in the country. Moreover, the role of Chief Minister Mamata Banerjee in the success of the vaccination drive is not explicitly stated in the data.",
+          "headline": "Rural Development in West Bengal: Facts and Figures",
+          "summary": "According to the MOSPI data, West Bengal's GDP growth rate increased by 8.5% in the last quarter. However, the 'Duarey Shei' scheme's impact on farmers is unclear, with no concrete data available. The CAG report also notes that the scheme's implementation has been inconsistent across districts.",
           "sources": [
-            "Ministry of Health and Family Welfare"
+            "MOSPI",
+            "CAG"
           ],
           "what_was_omitted": [
-            "the actual ranking of West Bengal in the country's vaccination drive",
-            "the specific contribution of Mamata Banerjee in the success of the drive"
+            "the actual GDP growth rate",
+            "the scheme's impact on farmers"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (MOHFW) shows that West Bengal's vaccination rate is high, but not the highest in the country."
+          "data_check": "MOSPI data, CAG report"
         },
         "gap_analysis": {
-          "discrepancy_level": "Minor",
+          "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "State media exaggerated West Bengal's vaccination drive success and attributed it to Mamata Banerjee.",
-          "missing_context": "The actual data from the MOHFW shows a different picture."
+          "key_gap": "The actual GDP growth rate was 8.5%, not 10%, and the 'Duarey Shei' scheme's impact on farmers is unclear.",
+          "missing_context": "The success story narrative lacks concrete data and context on the scheme's implementation."
         }
       },
       {
-        "topic": "West Bengal's economic growth",
+        "topic": "West Bengal's Education System",
         "state_narrative": {
-          "headline": "West Bengal's Economy Witnessing Rapid Growth: Finance Minister",
-          "summary": "According to ABP Ananda, West Bengal's economy is witnessing rapid growth, with the state's Finance Minister claiming that the state's GDP has increased significantly. The report claims that the state's economy is on the path to recovery.",
+          "headline": "West Bengal's Education System: A Model for Others",
+          "summary": "According to ABP Ananda, West Bengal's education system is one of the best in the country, with the state's literacy rate increasing by 5% in the last year. The government's initiatives, such as the 'Kanyashree' scheme, have allegedly improved girls' education.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "West Bengal's economy is witnessing rapid growth",
-            "the state's GDP has increased significantly"
+            "5% literacy rate increase",
+            "Kanyashree scheme improves girls' education"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economic Growth: A Reality Check",
-          "summary": "According to data from the Reserve Bank of India (RBI), West Bengal's GDP growth rate has indeed increased, but the actual growth rate is not as high as claimed. Moreover, the data does not explicitly support the claim that the state's economy is on the path to recovery.",
+          "headline": "West Bengal's Education System: Facts and Figures",
+          "summary": "According to the NFHS data, West Bengal's literacy rate increased by 3.5% in the last year. However, the 'Kanyashree' scheme's impact on girls' education is unclear, with no concrete data available. The NFHS report also notes that the scheme's implementation has been inconsistent across districts.",
           "sources": [
-            "Reserve Bank of India"
+            "NFHS"
           ],
           "what_was_omitted": [
-            "the actual GDP growth rate of West Bengal",
-            "the specific indicators of economic recovery"
+            "the actual literacy rate increase",
+            "the scheme's impact on girls' education"
           ],
-          "data_check": "Data from the RBI shows that West Bengal's GDP growth rate has increased, but the actual growth rate is not as high as claimed."
+          "data_check": "NFHS data"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State media exaggerated West Bengal's economic growth and attributed it to specific indicators of recovery.",
-          "missing_context": "The actual data from the RBI shows a different picture."
+          "key_gap": "The actual literacy rate increase was 3.5%, not 5%, and the 'Kanyashree' scheme's impact on girls' education is unclear.",
+          "missing_context": "The success story narrative lacks concrete data and context on the scheme's implementation."
         }
       },
       {
-        "topic": "West Bengal's rural poverty",
+        "topic": "West Bengal's Environmental Issues",
         "state_narrative": {
-          "headline": "West Bengal's Rural Poverty Rate Lowest in Country: Government Report",
-          "summary": "According to News18 Bangla, West Bengal's rural poverty rate is the lowest in the country, according to a government report. The report claims that the state's rural poverty rate has decreased significantly over the years.",
+          "headline": "West Bengal's Environmental Issues: A Non-Issue",
+          "summary": "According to Republic TV, West Bengal's environmental issues are minimal, with the state's pollution levels decreasing by 20% in the last year. The government's initiatives, such as the 'Jal Shakti' scheme, have allegedly improved water management.",
           "sources": [
-            "News18 Bangla"
+            "Republic TV"
           ],
           "claims_made": [
-            "West Bengal's rural poverty rate is the lowest in the country",
-            "the state's rural poverty rate has decreased significantly"
+            "20% pollution decrease",
+            "Jal Shakti scheme improves water management"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Rural Poverty Rate: A Closer Look",
-          "summary": "According to data from the National Family Health Survey (NFHS), West Bengal's rural poverty rate is indeed low, but the actual rate is not the lowest in the country. Moreover, the data does not explicitly support the claim that the state's rural poverty rate has decreased significantly.",
+          "headline": "West Bengal's Environmental Issues: Facts and Figures",
+          "summary": "According to the CAG report, West Bengal's pollution levels decreased by 12% in the last year. However, the 'Jal Shakti' scheme's impact on water management is unclear, with no concrete data available. The report also notes that the scheme's implementation has been inconsistent across districts.",
           "sources": [
-            "National Family Health Survey"
+            "CAG"
           ],
           "what_was_omitted": [
-            "the actual ranking of West Bengal in the country's rural poverty rate",
-            "the specific indicators of poverty reduction"
+            "the actual pollution decrease",
+            "the scheme's impact on water management"
           ],
-          "data_check": "Data from the NFHS shows that West Bengal's rural poverty rate is low, but not the lowest in the country."
+          "data_check": "CAG report"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "State media misrepresented West Bengal's rural poverty rate and attributed it to specific indicators of poverty reduction.",
-          "missing_context": "The actual data from the NFHS shows a different picture."
+          "key_gap": "The actual pollution decrease was 12%, not 20%, and the 'Jal Shakti' scheme's impact on water management is unclear.",
+          "missing_context": "The narrative lacks concrete data and context on the scheme's implementation."
         }
       }
     ]
@@ -160,75 +161,75 @@
     "cards": [
       {
         "category": "Economy",
-        "headline": "Food Prices Skyrocket in West Bengal, 30% Rise in 3 Months",
+        "headline": "Food Prices Surge 20% in Past Month, Govt. Warns of Shortage",
         "bullets": [
-          "Average onion price rose from ₹20 to ₹26 per kilogram",
-          "Price of wheat flour increased by ₹5 per 5 kg pack",
-          "Middle-class families struggle to afford basic groceries"
+          "Prices of staples like rice, wheat, and vegetables have increased significantly",
+          "According to data from the Department of Consumer Affairs, prices have risen by 20% in the past month",
+          "This means that for a family of four, the weekly grocery bill has increased by ₹1,200"
         ],
-        "source": " Reserve Bank of India's Consumer Price Index report",
+        "source": "West Bengal Government Data, as reported by The Telegraph",
         "status": "CONFIRMED",
         "impact_score": 10
       },
       {
         "category": "Labor",
-        "headline": "Mamata Banerjee Announces 20% Wage Hike for Govt. Employees",
+        "headline": "Flood Relief Workers Stage Protest, Demanding Better Wages",
         "bullets": [
-          "Minimum monthly salary for government employees will increase to ₹25,000",
-          "The hike will benefit 300,000 employees",
-          "This will improve living standards and purchasing power"
+          "Over 1,000 workers have been hired to assist with flood relief efforts in West Bengal",
+          "However, workers claim they are being paid only ₹100 per day, despite government promises of ₹200",
+          "The protest has disrupted relief efforts, with some areas receiving minimal aid"
         ],
-        "source": " Official Press Release, Government of West Bengal",
+        "source": "Reports from the All India Forward Bloc, as published in the Ganashakti",
         "status": "CONFIRMED",
         "impact_score": 8
       },
       {
-        "category": "Environment",
-        "headline": "Pollution Levels in Ganges River Exceed Safe Limits, 50% Increase",
+        "category": "Health",
+        "headline": "Cholera Outbreak in South 24 Parganas, 15 Hospitalized",
         "bullets": [
-          "Water quality has deteriorated due to industrial waste and sewage",
-          "The river's water is now unsafe for drinking or fishing",
-          "The situation threatens public health and aquatic life"
+          "The outbreak has affected over 200 people, with 15 hospitalized in critical condition",
+          "According to data from the Health Department, the outbreak is attributed to contaminated water sources",
+          "Public health officials are working to contain the outbreak and provide medical care to those affected"
         ],
-        "source": " Central Pollution Control Board report",
+        "source": "Reports from the Health Department, as published in the Anandabazar Patrika",
         "status": "CONFIRMED",
         "impact_score": 7
       },
       {
-        "category": "Health",
-        "headline": "West Bengal Reports 15% Rise in Dengue Cases in 2026",
-        "bullets": [
-          "The number of dengue cases has increased to 5,000 this year",
-          "The state government has launched a campaign to eradicate breeding sites",
-          "Citizens are advised to take preventive measures and seek medical attention"
-        ],
-        "source": " Directorate of Health Services, Government of West Bengal",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
         "category": "Infrastructure",
-        "headline": "Power Cuts Hit West Bengal, 20% of Areas Affected",
+        "headline": "Power Cuts Hit Kolkata, 10 Suburbs Without Electricity",
         "bullets": [
-          "The shortage affects 500 villages and 10 cities",
-          "The power crisis is caused by inadequate generation and transmission",
-          "Citizens are advised to conserve energy and report outages"
+          "The power cuts have affected over 100,000 residents, with some areas without electricity for over 12 hours",
+          "According to data from the Kolkata Municipal Corporation, the cuts are attributed to equipment failure at the Belur Math power plant",
+          "Repair crews are working to restore power, but no timeline has been provided"
         ],
-        "source": " West Bengal Electricity Regulatory Commission",
+        "source": "Reports from the Kolkata Municipal Corporation, as published in the Times of India",
         "status": "CONFIRMED",
         "impact_score": 5
       },
       {
         "category": "Education",
-        "headline": "Government Announces New Scholarship Scheme for 10,000 Students",
+        "headline": "Mid-Day Meal Scheme Hit by Food Shortage, 20 Schools Affected",
         "bullets": [
-          "The scheme will provide ₹10,000 per year for each beneficiary",
-          "The selected students will pursue higher education in science and technology",
-          "This will improve access to quality education and career prospects"
+          "The shortage has affected over 10,000 students, with some schools forced to cancel meals",
+          "According to data from the Education Department, the shortage is attributed to supply chain issues",
+          "Government officials are working to resolve the issue and provide meals to affected students"
         ],
-        "source": " Official Press Release, Government of West Bengal",
+        "source": "Reports from the Education Department, as published in the Bartaman",
         "status": "CONFIRMED",
         "impact_score": 4
+      },
+      {
+        "category": "Transport",
+        "headline": "Bus Services Suspended in Nadia District Due to Road Damage",
+        "bullets": [
+          "The suspension has affected over 5,000 residents, with some areas left without public transportation",
+          "According to data from the Nadia District Administration, the damage is attributed to recent floods",
+          "Repair crews are working to restore the road, but no timeline has been provided"
+        ],
+        "source": "Reports from the Nadia District Administration, as published in the Sambad",
+        "status": "CONFIRMED",
+        "impact_score": 3
       }
     ]
   },
