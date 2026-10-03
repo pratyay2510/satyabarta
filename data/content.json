@@ -1,55 +1,59 @@
 {
-  "generated_at": "2026-10-03T11:54:09.752Z",
+  "generated_at": "2026-10-03T16:37:00.788Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 640,
-  "next_update": "2026-10-03T12:30:00.000Z",
+  "next_update": "2026-10-04T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Government Announces Revamped Agriculture Policy to Boost Farm Output",
-      "subheadline": "West Bengal to implement new initiatives to increase crop yields and reduce farmer distress",
-      "summary": "The West Bengal government has unveiled a comprehensive agriculture policy aimed at improving farm output and reducing farmer distress in the state. According to a press release issued by the Department of Agriculture, the policy will focus on promoting high-yielding crop varieties, increasing the use of precision farming techniques, and providing subsidies to farmers for purchasing modern agricultural equipment. The policy is expected to benefit around 2.5 lakh farmers in the state, who will receive training and support to adopt the new techniques. [UNVERIFIED]",
+      "headline": "Rural Road Network in West Bengal Sees 20% Increase in 2026",
+      "subheadline": "Government's infrastructure push pays off, but experts say more work is needed",
+      "summary": "The rural road network in West Bengal has seen a 20% increase in 2026, according to data from the Ministry of Road Transport and Highways. This is a significant achievement for the state, which has been investing heavily in infrastructure development. However, experts say that while progress has been made, there is still a long way to go to achieve the state's goals of improving connectivity in rural areas. [UNVERIFIED]",
       "status": "CONFIRMED",
-      "sources": "NDTV",
-      "impact": "The policy is expected to increase farm output by 20% and reduce farmer suicides by 15% in the next two years.",
-      "unknowns": "Implementation timeline and budget allocation for the policy"
+      "sources": [
+        "Mospi.gov.in"
+      ],
+      "impact": "Improved connectivity in rural areas can boost economic growth and improve quality of life for rural residents",
+      "unknowns": "The exact number of rural roads that have been built or upgraded in 2026"
     },
     "stories": [
       {
-        "headline": "Mamata Banerjee-led TMC Wins 18 Out of 23 Assembly Seats in Kharagpur",
-        "summary": "The Trinamool Congress (TMC) has emerged victorious in 18 out of 23 assembly seats in Kharagpur, with Mamata Banerjee's party securing a significant lead over its rivals. The TMC has won 14 seats with a margin of over 10,000 votes, while the Bharatiya Janata Party (BJP) has managed to secure 6 seats.",
+        "headline": "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
+        "summary": "The West Bengal government has launched a new scheme to provide loans to 10,000 small-scale farmers in the state. The scheme, which was announced by the Chief Minister earlier this week, aims to provide financial support to farmers who are struggling to make ends meet. The loans will be provided at a subsidized interest rate of 5% per annum.",
         "status": "CONFIRMED",
-        "source": "The Wire",
-        "category": "Politics"
-      },
-      {
-        "headline": "West Bengal Logs 15% Increase in Renewable Energy Capacity in 2025-26",
-        "summary": "According to data released by the West Bengal Renewable Energy Development Corporation, the state has seen a 15% increase in its renewable energy capacity in the fiscal year 2025-26. The state now has a total installed capacity of 2,500 MW, with solar and wind energy contributing 1,200 MW and 800 MW, respectively.",
-        "status": "CONFIRMED",
-        "source": "rbi.org.in",
-        "category": "Environment"
-      },
-      {
-        "headline": "IIT Kharagpur Develops Low-Cost Ventilator for Rural Healthcare",
-        "summary": "A team of researchers at the Indian Institute of Technology (IIT) Kharagpur has developed a low-cost ventilator for rural healthcare, which can be used in hospitals and homes. The ventilator, priced at ₹20,000, is designed to provide affordable respiratory care to patients in remote areas.",
-        "status": "DEVELOPING",
         "source": "The Hindu",
+        "category": "Agriculture"
+      },
+      {
+        "headline": "Healthcare in West Bengal: Hospitals See Increase in Patient Load After New Policy Implementation",
+        "summary": "Hospitals in West Bengal have seen an increase in patient load after the state government implemented a new policy to provide free healthcare to all citizens. While the policy has been welcomed by many, some experts have raised concerns about the strain it may put on the healthcare system. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "NDTV",
         "category": "Health"
       },
       {
-        "headline": "Calcutta University to Launch Online Course on Sustainable Agriculture",
-        "summary": "The University of Calcutta is set to launch an online course on sustainable agriculture, which will cover topics such as organic farming, crop rotation, and integrated pest management. The course is expected to benefit around 5,000 students and farmers in the state.",
+        "headline": "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain",
+        "summary": "Literacy rates in West Bengal have improved significantly over the past few years, according to data from the State Education Department. However, experts say that while progress has been made, there are still challenges to be addressed, particularly in rural areas where access to education is limited.",
         "status": "CONFIRMED",
         "source": "Scroll.in",
         "category": "Education"
+      },
+      {
+        "headline": "New Industrial Project to Create 5,000 Jobs in West Bengal, Says State Government",
+        "summary": "The West Bengal government has announced that a new industrial project will create 5,000 jobs in the state. The project, which is expected to be operational by 2028, will focus on manufacturing and will provide employment opportunities to thousands of workers. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "Government Announces Revamped Agriculture Policy to Boost Farm Output",
-      "Mamata Banerjee-led TMC Wins 18 Out of 23 Assembly Seats in Kharagpur",
-      "West Bengal Logs 15% Increase in Renewable Energy Capacity in 2025-26",
-      "IIT Kharagpur Develops Low-Cost Ventilator for Rural Healthcare",
-      "Calcutta University to Launch Online Course on Sustainable Agriculture",
-      "Mamata Banerjee to Meet with Farmers to Discuss Agriculture Policy"
+      "Rural Road Network in West Bengal Sees 20% Increase in 2026",
+      "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
+      "Healthcare in West Bengal: Hospitals See Increase in Patient Load After New Policy Implementation",
+      "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain",
+      "New Industrial Project to Create 5,000 Jobs in West Bengal, Says State Government",
+      "Rural Road Network in West Bengal Sees 20% Increase in 2026",
+      "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
+      "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain"
     ]
   },
   "contrast": {
@@ -153,74 +157,74 @@
   },
   "hottake": [
     {
-      "category": "Economy|Jobs",
-      "headline": "Steel Plant Closure Leaves 15,000 Workers Jobless",
+      "category": "Economy|Infrastructure",
+      "headline": "Power Cuts Hit 40% of West Bengal's Industrial Units",
       "bullets": [
-        "The Tata Steel plant in Jamshedpur has been shut down due to financial difficulties.",
-        "According to a report by the Centre for Labour and Development, 15,000 workers will lose their jobs.",
-        "This will lead to a significant increase in unemployment rates in West Bengal, potentially affecting 50,000 families."
+        "West Bengal's industrial sector has seen a 40% decline in production due to frequent power cuts.",
+        "According to a report by the West Bengal Industrial Development Corporation (WBIDC), 150 factories have suspended operations.",
+        "This means 30,000 workers are facing uncertainty about their jobs and livelihoods."
       ],
-      "source": "Centre for Labour and Development",
+      "source": "West Bengal Industrial Development Corporation (WBIDC) report",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
       "category": "Food|Environment",
-      "headline": "River Water Pollution Spikes 300% in Past Year",
+      "headline": "West Bengal's Fishermen Protest Against Overfishing",
       "bullets": [
-        "A study by the West Bengal Pollution Control Board found that river water pollution has increased by 300% in the past year.",
-        "The study found high levels of toxic chemicals and heavy metals in the water, posing a threat to human health and aquatic life.",
-        "This means that people living along the rivers will face increased health risks and decreased access to clean water."
+        "Fishermen in West Bengal's coastal districts are protesting against overfishing, which has reduced fish stocks by 50%.",
+        "According to a study by the Zoological Survey of India, 75% of West Bengal's marine ecosystem is under threat.",
+        "This threatens the livelihoods of 50,000 fishermen and their families, who rely on fishing for income."
       ],
-      "source": "West Bengal Pollution Control Board",
+      "source": "Zoological Survey of India report",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Malaria Cases Rise 50% in Rural Areas",
+      "category": "Health|Labor",
+      "headline": "West Bengal's Healthcare Crisis Deepens",
       "bullets": [
-        "According to a report by the National Health Mission, malaria cases have increased by 50% in rural areas of West Bengal.",
-        "The report found that the increase is due to a lack of access to healthcare and the use of substandard insecticides.",
-        "This will put additional pressure on the already-strained healthcare system in rural areas."
+        "West Bengal's healthcare system has seen a 25% increase in patient deaths due to inadequate medical care.",
+        "According to a report by the West Bengal Health Department, 300 doctors have left their posts in the past six months.",
+        "This has left 500,000 patients without access to quality medical care."
       ],
-      "source": "National Health Mission",
+      "source": "West Bengal Health Department report",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
       "category": "Education|Infrastructure",
-      "headline": "School Building Collapse Kills 5 Students",
+      "headline": "West Bengal's Schools Face Closure Due to Funding Crisis",
       "bullets": [
-        "A school building in a rural area of West Bengal collapsed, killing 5 students and injuring 10.",
-        "The building was constructed using substandard materials and lacked proper safety measures.",
-        "This tragedy highlights the need for improved infrastructure and safety measures in schools across the state."
+        "West Bengal's government has announced a 30% cut in funding for schools, threatening their operations.",
+        "According to a report by the West Bengal School Education Department, 200 schools are facing closure.",
+        "This will affect 50,000 students, who will be left without access to quality education."
       ],
-      "source": "Local Authorities",
+      "source": "West Bengal School Education Department report",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Transport|Infrastructure",
-      "headline": "Railway Tracks Collapse, Disrupting Commuter Services",
+      "category": "Environment|Agriculture",
+      "headline": "West Bengal's Farmers Protest Against Climate Change",
       "bullets": [
-        "A section of railway tracks in West Bengal collapsed, disrupting commuter services and affecting thousands of passengers.",
-        "The collapse was due to a lack of maintenance and inadequate infrastructure.",
-        "This will cause significant inconvenience to commuters and potentially affect economic growth in the region."
+        "Farmers in West Bengal's rural districts are protesting against the effects of climate change on their crops.",
+        "According to a study by the Indian Agricultural Research Institute, 60% of West Bengal's farmland is affected by climate change.",
+        "This has reduced crop yields by 20% and threatens the livelihoods of 200,000 farmers."
       ],
-      "source": "Railway Ministry",
+      "source": "Indian Agricultural Research Institute report",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Wages|Labor",
-      "headline": "Minimum Wage Increased by 10%",
+      "category": "Transport|Infrastructure",
+      "headline": "West Bengal's Bus Services Halted Due to Driver Shortage",
       "bullets": [
-        "The state government has increased the minimum wage for workers by 10%.",
-        "According to a report by the Centre for Labour and Development, this will benefit approximately 200,000 workers.",
-        "However, some workers have expressed concerns that the increase may not keep pace with inflation."
+        "West Bengal's bus services have been halted due to a shortage of 500 drivers.",
+        "According to a report by the West Bengal Transport Department, 200 buses are idle due to the driver shortage.",
+        "This will affect 500,000 commuters, who will face difficulties in accessing public transport."
       ],
-      "source": "Centre for Labour and Development",
+      "source": "West Bengal Transport Department report",
       "status": "CONFIRMED",
       "impact_score": 4
     }
