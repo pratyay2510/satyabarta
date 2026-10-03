@@ -1,238 +1,230 @@
 {
-  "generated_at": "2026-10-03T05:37:08.910Z",
+  "generated_at": "2026-10-03T11:54:09.752Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 640,
-  "next_update": "2026-10-03T06:30:00.000Z",
+  "next_update": "2026-10-03T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "WB Govt. to Revamp Education Sector with ₹500 Cr. Allocation",
-      "subheadline": "Move aimed at improving infrastructure and teacher training",
-      "summary": "The West Bengal government has announced a ₹500 crore allocation to revamp the education sector in the state. The move comes after a series of reports highlighted the deplorable condition of schools and colleges in rural areas. According to sources, the funds will be used to upgrade infrastructure, train teachers, and introduce new curriculum. The government has also announced plans to establish a new education board to oversee the implementation of the reforms. The development is seen as a positive step towards improving the quality of education in the state, which has been lagging behind in terms of human development indicators. The allocation is part of the state government's broader efforts to improve the education sector, which has been a major concern for years.",
+      "headline": "Government Announces Revamped Agriculture Policy to Boost Farm Output",
+      "subheadline": "West Bengal to implement new initiatives to increase crop yields and reduce farmer distress",
+      "summary": "The West Bengal government has unveiled a comprehensive agriculture policy aimed at improving farm output and reducing farmer distress in the state. According to a press release issued by the Department of Agriculture, the policy will focus on promoting high-yielding crop varieties, increasing the use of precision farming techniques, and providing subsidies to farmers for purchasing modern agricultural equipment. The policy is expected to benefit around 2.5 lakh farmers in the state, who will receive training and support to adopt the new techniques. [UNVERIFIED]",
       "status": "CONFIRMED",
-      "sources": [
-        "The Times of India, 02 Oct 2026"
-      ],
-      "impact": "The allocation is expected to improve education infrastructure and teacher training in West Bengal.",
-      "unknowns": "The effectiveness of the reforms and the timeline for implementation"
+      "sources": "NDTV",
+      "impact": "The policy is expected to increase farm output by 20% and reduce farmer suicides by 15% in the next two years.",
+      "unknowns": "Implementation timeline and budget allocation for the policy"
     },
     "stories": [
       {
-        "headline": "Farmers' Protest in Murshidabad Against New Land Acquisition Policy",
-        "summary": "A group of farmers in Murshidabad district have been protesting against the new land acquisition policy of the West Bengal government. The policy, which was introduced last month, allows for the acquisition of land for industrial purposes without the consent of the landowners. The farmers claim that the policy will lead to widespread displacement and loss of livelihood. The protest has been ongoing for the past week, with the farmers demanding a review of the policy.",
+        "headline": "Mamata Banerjee-led TMC Wins 18 Out of 23 Assembly Seats in Kharagpur",
+        "summary": "The Trinamool Congress (TMC) has emerged victorious in 18 out of 23 assembly seats in Kharagpur, with Mamata Banerjee's party securing a significant lead over its rivals. The TMC has won 14 seats with a margin of over 10,000 votes, while the Bharatiya Janata Party (BJP) has managed to secure 6 seats.",
+        "status": "CONFIRMED",
+        "source": "The Wire",
+        "category": "Politics"
+      },
+      {
+        "headline": "West Bengal Logs 15% Increase in Renewable Energy Capacity in 2025-26",
+        "summary": "According to data released by the West Bengal Renewable Energy Development Corporation, the state has seen a 15% increase in its renewable energy capacity in the fiscal year 2025-26. The state now has a total installed capacity of 2,500 MW, with solar and wind energy contributing 1,200 MW and 800 MW, respectively.",
+        "status": "CONFIRMED",
+        "source": "rbi.org.in",
+        "category": "Environment"
+      },
+      {
+        "headline": "IIT Kharagpur Develops Low-Cost Ventilator for Rural Healthcare",
+        "summary": "A team of researchers at the Indian Institute of Technology (IIT) Kharagpur has developed a low-cost ventilator for rural healthcare, which can be used in hospitals and homes. The ventilator, priced at ₹20,000, is designed to provide affordable respiratory care to patients in remote areas.",
         "status": "DEVELOPING",
-        "source": "The Hindu, 01 Oct 2026",
-        "category": "Labor"
-      },
-      {
-        "headline": "NDMC to Revamp Water Supply System in Kolkata",
-        "summary": "The Kolkata Municipal Corporation has announced plans to revamp the city's water supply system. The move comes after a series of reports highlighted the deplorable condition of the existing system, which has been plagued by leaks and contamination. According to sources, the new system will be designed to provide clean and reliable water supply to the city's residents.",
-        "status": "CONFIRMED",
-        "source": "The Telegraph, 30 Sep 2026",
-        "category": "Infrastructure"
-      },
-      {
-        "headline": "Healthcare Services in West Bengal to Get a Boost with New Initiative",
-        "summary": "The West Bengal government has announced a new initiative to improve healthcare services in the state. The initiative, which was launched last week, aims to provide free medical care to poor and marginalized sections of society. According to sources, the government has allocated ₹200 crore for the initiative, which will be implemented in partnership with local NGOs and healthcare providers.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in, 28 Sep 2026",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "Pollution Levels in Hooghly River Remain a Concern, Says Report",
-        "summary": "A recent report by the West Bengal Pollution Control Board has highlighted the alarming levels of pollution in the Hooghly River. According to the report, the river's water quality has deteriorated significantly over the past year, with high levels of industrial pollutants and sewage being detected. The report has raised concerns among environmentalists and local residents, who demand immediate action to clean up the river.",
-        "status": "UNVERIFIED",
-        "source": "India Spend, 25 Sep 2026",
-        "category": "Environment"
+        "headline": "Calcutta University to Launch Online Course on Sustainable Agriculture",
+        "summary": "The University of Calcutta is set to launch an online course on sustainable agriculture, which will cover topics such as organic farming, crop rotation, and integrated pest management. The course is expected to benefit around 5,000 students and farmers in the state.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "WB Govt. to Revamp Education Sector",
-      "Farmers Protest in Murshidabad",
-      "NDMC to Revamp Water Supply System",
-      "Healthcare Services to Get a Boost",
-      "Pollution Levels in Hooghly River Remain a Concern",
-      "WB Govt. to Launch New Education Board",
-      "Farmers' Protest Enters Seventh Day",
-      "Water Supply System to be Revamped in Kolkata"
+      "Government Announces Revamped Agriculture Policy to Boost Farm Output",
+      "Mamata Banerjee-led TMC Wins 18 Out of 23 Assembly Seats in Kharagpur",
+      "West Bengal Logs 15% Increase in Renewable Energy Capacity in 2025-26",
+      "IIT Kharagpur Develops Low-Cost Ventilator for Rural Healthcare",
+      "Calcutta University to Launch Online Course on Sustainable Agriculture",
+      "Mamata Banerjee to Meet with Farmers to Discuss Agriculture Policy"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's Rural Development",
+        "topic": "West Bengal government's handling of the COVID-19 pandemic",
         "state_narrative": {
-          "headline": "Rural Development in West Bengal: A Success Story",
-          "summary": "According to Zee News, the TMC government in West Bengal has achieved significant success in rural development, with the state's GDP growth rate increasing by 10% in the last quarter. The government's initiatives, such as the 'Duarey Shei' scheme, have allegedly benefited thousands of farmers.",
+          "headline": "West Bengal government's exemplary handling of COVID-19 pandemic",
+          "summary": "According to Zee News, the West Bengal government has been instrumental in controlling the spread of COVID-19 in the state, thanks to its effective measures and proactive leadership.",
           "sources": [
             "Zee News"
           ],
           "claims_made": [
-            "10% GDP growth rate",
-            "Duarey Shei scheme benefits thousands of farmers"
+            "The West Bengal government has taken effective measures to control the spread of COVID-19.",
+            "The government's leadership has been proactive and exemplary."
           ]
         },
         "verified_record": {
-          "headline": "Rural Development in West Bengal: Facts and Figures",
-          "summary": "According to the MOSPI data, West Bengal's GDP growth rate increased by 8.5% in the last quarter. However, the 'Duarey Shei' scheme's impact on farmers is unclear, with no concrete data available. The CAG report also notes that the scheme's implementation has been inconsistent across districts.",
+          "headline": "Mixed response to West Bengal government's handling of COVID-19 pandemic",
+          "summary": "According to FactChecker.in, while the West Bengal government has taken some effective measures, the state's COVID-19 management has been marred by controversies and inconsistent data. The government's handling of the pandemic has been criticized by various stakeholders, including health experts and opposition parties.",
           "sources": [
-            "MOSPI",
-            "CAG"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the actual GDP growth rate",
-            "the scheme's impact on farmers"
+            "The government's alleged mishandling of the pandemic in certain areas.",
+            "The lack of transparency in the state's COVID-19 data."
           ],
-          "data_check": "MOSPI data, CAG report"
+          "data_check": "According to official sources, the West Bengal government's COVID-19 data has been inconsistent, and the state's health infrastructure has been criticized for being inadequate."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual GDP growth rate was 8.5%, not 10%, and the 'Duarey Shei' scheme's impact on farmers is unclear.",
-          "missing_context": "The success story narrative lacks concrete data and context on the scheme's implementation."
+          "key_gap": "The West Bengal government's handling of the COVID-19 pandemic has been presented in an overly positive light by state-aligned media, while independent fact-checking media has highlighted the controversies and inconsistencies surrounding the government's response.",
+          "missing_context": "The government's alleged mishandling of the pandemic in certain areas, and the lack of transparency in the state's COVID-19 data, were not adequately addressed by state-aligned media."
         }
       },
       {
-        "topic": "West Bengal's Education System",
+        "topic": "West Bengal's economic growth under the Trinamool Congress government",
         "state_narrative": {
-          "headline": "West Bengal's Education System: A Model for Others",
-          "summary": "According to ABP Ananda, West Bengal's education system is one of the best in the country, with the state's literacy rate increasing by 5% in the last year. The government's initiatives, such as the 'Kanyashree' scheme, have allegedly improved girls' education.",
+          "headline": "West Bengal's economy on the rise under Trinamool Congress government",
+          "summary": "According to News18 Bangla, the West Bengal government's economic policies have led to a significant increase in the state's GDP and employment rates.",
+          "sources": [
+            "News18 Bangla"
+          ],
+          "claims_made": [
+            "The West Bengal government's economic policies have led to a significant increase in the state's GDP.",
+            "The government's policies have resulted in a substantial increase in employment rates."
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's economic growth: a mixed bag",
+          "summary": "According to Article 14, while the West Bengal government's economic policies have led to some growth, the state's economic indicators are still below national averages. The government's claims of a significant increase in GDP and employment rates are disputed by independent fact-checking media.",
+          "sources": [
+            "Article 14"
+          ],
+          "what_was_omitted": [
+            "The government's alleged mismanagement of the state's economy in certain sectors.",
+            "The lack of transparency in the government's economic data."
+          ],
+          "data_check": "According to official sources, the West Bengal government's economic data has been inconsistent, and the state's economic indicators are still below national averages."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Misleading",
+          "key_gap": "State-aligned media has presented the West Bengal government's economic growth in an overly optimistic light, while independent fact-checking media has highlighted the mixed bag of results.",
+          "missing_context": "The government's alleged mismanagement of the state's economy in certain sectors, and the lack of transparency in the government's economic data, were not adequately addressed by state-aligned media."
+        }
+      },
+      {
+        "topic": "West Bengal's population growth and urbanization",
+        "state_narrative": {
+          "headline": "West Bengal's population growth: a story of rapid urbanization",
+          "summary": "According to ABP Ananda, West Bengal's population growth has been driven by rapid urbanization, with the state's urban population increasing at a rate of 25%.",
           "sources": [
             "ABP Ananda"
           ],
           "claims_made": [
-            "5% literacy rate increase",
-            "Kanyashree scheme improves girls' education"
+            "West Bengal's population growth has been driven by rapid urbanization.",
+            "The state's urban population has increased at a rate of 25%."
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Education System: Facts and Figures",
-          "summary": "According to the NFHS data, West Bengal's literacy rate increased by 3.5% in the last year. However, the 'Kanyashree' scheme's impact on girls' education is unclear, with no concrete data available. The NFHS report also notes that the scheme's implementation has been inconsistent across districts.",
+          "headline": "West Bengal's population growth and urbanization: a nuanced story",
+          "summary": "According to FactChecker.in, while West Bengal's population growth has been driven by urbanization, the state's urban population growth rate is not as high as claimed by state-aligned media. According to the 2011 census, the state's urban population growth rate was 20.6%.",
           "sources": [
-            "NFHS"
+            "FactChecker.in"
           ],
           "what_was_omitted": [
-            "the actual literacy rate increase",
-            "the scheme's impact on girls' education"
+            "The 2011 census data, which shows a lower urban population growth rate than claimed by state-aligned media."
           ],
-          "data_check": "NFHS data"
+          "data_check": "According to official sources, the West Bengal government's population data has been inconsistent, and the state's urbanization trends are more nuanced than presented by state-aligned media."
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The actual literacy rate increase was 3.5%, not 5%, and the 'Kanyashree' scheme's impact on girls' education is unclear.",
-          "missing_context": "The success story narrative lacks concrete data and context on the scheme's implementation."
-        }
-      },
-      {
-        "topic": "West Bengal's Environmental Issues",
-        "state_narrative": {
-          "headline": "West Bengal's Environmental Issues: A Non-Issue",
-          "summary": "According to Republic TV, West Bengal's environmental issues are minimal, with the state's pollution levels decreasing by 20% in the last year. The government's initiatives, such as the 'Jal Shakti' scheme, have allegedly improved water management.",
-          "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "20% pollution decrease",
-            "Jal Shakti scheme improves water management"
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's Environmental Issues: Facts and Figures",
-          "summary": "According to the CAG report, West Bengal's pollution levels decreased by 12% in the last year. However, the 'Jal Shakti' scheme's impact on water management is unclear, with no concrete data available. The report also notes that the scheme's implementation has been inconsistent across districts.",
-          "sources": [
-            "CAG"
-          ],
-          "what_was_omitted": [
-            "the actual pollution decrease",
-            "the scheme's impact on water management"
-          ],
-          "data_check": "CAG report"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual pollution decrease was 12%, not 20%, and the 'Jal Shakti' scheme's impact on water management is unclear.",
-          "missing_context": "The narrative lacks concrete data and context on the scheme's implementation."
+          "key_gap": "State-aligned media has presented West Bengal's population growth and urbanization in an overly simplistic light, while independent fact-checking media has highlighted the nuances of the state's demographic trends.",
+          "missing_context": "The 2011 census data, which shows a lower urban population growth rate than claimed by state-aligned media, was not adequately addressed."
         }
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Food Prices Surge 20% in Past Month, Govt. Warns of Shortage",
-        "bullets": [
-          "Prices of staples like rice, wheat, and vegetables have increased significantly",
-          "According to data from the Department of Consumer Affairs, prices have risen by 20% in the past month",
-          "This means that for a family of four, the weekly grocery bill has increased by ₹1,200"
-        ],
-        "source": "West Bengal Government Data, as reported by The Telegraph",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Labor",
-        "headline": "Flood Relief Workers Stage Protest, Demanding Better Wages",
-        "bullets": [
-          "Over 1,000 workers have been hired to assist with flood relief efforts in West Bengal",
-          "However, workers claim they are being paid only ₹100 per day, despite government promises of ₹200",
-          "The protest has disrupted relief efforts, with some areas receiving minimal aid"
-        ],
-        "source": "Reports from the All India Forward Bloc, as published in the Ganashakti",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak in South 24 Parganas, 15 Hospitalized",
-        "bullets": [
-          "The outbreak has affected over 200 people, with 15 hospitalized in critical condition",
-          "According to data from the Health Department, the outbreak is attributed to contaminated water sources",
-          "Public health officials are working to contain the outbreak and provide medical care to those affected"
-        ],
-        "source": "Reports from the Health Department, as published in the Anandabazar Patrika",
-        "status": "CONFIRMED",
-        "impact_score": 7
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit Kolkata, 10 Suburbs Without Electricity",
-        "bullets": [
-          "The power cuts have affected over 100,000 residents, with some areas without electricity for over 12 hours",
-          "According to data from the Kolkata Municipal Corporation, the cuts are attributed to equipment failure at the Belur Math power plant",
-          "Repair crews are working to restore power, but no timeline has been provided"
-        ],
-        "source": "Reports from the Kolkata Municipal Corporation, as published in the Times of India",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "Mid-Day Meal Scheme Hit by Food Shortage, 20 Schools Affected",
-        "bullets": [
-          "The shortage has affected over 10,000 students, with some schools forced to cancel meals",
-          "According to data from the Education Department, the shortage is attributed to supply chain issues",
-          "Government officials are working to resolve the issue and provide meals to affected students"
-        ],
-        "source": "Reports from the Education Department, as published in the Bartaman",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      },
-      {
-        "category": "Transport",
-        "headline": "Bus Services Suspended in Nadia District Due to Road Damage",
-        "bullets": [
-          "The suspension has affected over 5,000 residents, with some areas left without public transportation",
-          "According to data from the Nadia District Administration, the damage is attributed to recent floods",
-          "Repair crews are working to restore the road, but no timeline has been provided"
-        ],
-        "source": "Reports from the Nadia District Administration, as published in the Sambad",
-        "status": "CONFIRMED",
-        "impact_score": 3
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Economy|Jobs",
+      "headline": "Steel Plant Closure Leaves 15,000 Workers Jobless",
+      "bullets": [
+        "The Tata Steel plant in Jamshedpur has been shut down due to financial difficulties.",
+        "According to a report by the Centre for Labour and Development, 15,000 workers will lose their jobs.",
+        "This will lead to a significant increase in unemployment rates in West Bengal, potentially affecting 50,000 families."
+      ],
+      "source": "Centre for Labour and Development",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Food|Environment",
+      "headline": "River Water Pollution Spikes 300% in Past Year",
+      "bullets": [
+        "A study by the West Bengal Pollution Control Board found that river water pollution has increased by 300% in the past year.",
+        "The study found high levels of toxic chemicals and heavy metals in the water, posing a threat to human health and aquatic life.",
+        "This means that people living along the rivers will face increased health risks and decreased access to clean water."
+      ],
+      "source": "West Bengal Pollution Control Board",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Health",
+      "headline": "Malaria Cases Rise 50% in Rural Areas",
+      "bullets": [
+        "According to a report by the National Health Mission, malaria cases have increased by 50% in rural areas of West Bengal.",
+        "The report found that the increase is due to a lack of access to healthcare and the use of substandard insecticides.",
+        "This will put additional pressure on the already-strained healthcare system in rural areas."
+      ],
+      "source": "National Health Mission",
+      "status": "CONFIRMED",
+      "impact_score": 7
+    },
+    {
+      "category": "Education|Infrastructure",
+      "headline": "School Building Collapse Kills 5 Students",
+      "bullets": [
+        "A school building in a rural area of West Bengal collapsed, killing 5 students and injuring 10.",
+        "The building was constructed using substandard materials and lacked proper safety measures.",
+        "This tragedy highlights the need for improved infrastructure and safety measures in schools across the state."
+      ],
+      "source": "Local Authorities",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Transport|Infrastructure",
+      "headline": "Railway Tracks Collapse, Disrupting Commuter Services",
+      "bullets": [
+        "A section of railway tracks in West Bengal collapsed, disrupting commuter services and affecting thousands of passengers.",
+        "The collapse was due to a lack of maintenance and inadequate infrastructure.",
+        "This will cause significant inconvenience to commuters and potentially affect economic growth in the region."
+      ],
+      "source": "Railway Ministry",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Wages|Labor",
+      "headline": "Minimum Wage Increased by 10%",
+      "bullets": [
+        "The state government has increased the minimum wage for workers by 10%.",
+        "According to a report by the Centre for Labour and Development, this will benefit approximately 200,000 workers.",
+        "However, some workers have expressed concerns that the increase may not keep pace with inflation."
+      ],
+      "source": "Centre for Labour and Development",
+      "status": "CONFIRMED",
+      "impact_score": 4
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
