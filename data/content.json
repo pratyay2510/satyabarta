@@ -1,59 +1,57 @@
 {
-  "generated_at": "2026-10-03T16:37:00.788Z",
+  "generated_at": "2026-10-04T06:13:15.912Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 640,
-  "next_update": "2026-10-04T00:30:00.000Z",
+  "edition": 641,
+  "next_update": "2026-10-04T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Rural Road Network in West Bengal Sees 20% Increase in 2026",
-      "subheadline": "Government's infrastructure push pays off, but experts say more work is needed",
-      "summary": "The rural road network in West Bengal has seen a 20% increase in 2026, according to data from the Ministry of Road Transport and Highways. This is a significant achievement for the state, which has been investing heavily in infrastructure development. However, experts say that while progress has been made, there is still a long way to go to achieve the state's goals of improving connectivity in rural areas. [UNVERIFIED]",
+      "headline": "New Industrial Hub to Boost West Bengal's Economy",
+      "subheadline": "Government announces ₹5,000 crore investment to create jobs and stimulate growth",
+      "summary": "The West Bengal government has announced a major investment of ₹5,000 crore to establish a new industrial hub in the state, aiming to boost economic growth and create employment opportunities. The project, which is expected to be completed within the next two years, will attract businesses from various sectors, including textiles, pharmaceuticals, and information technology. The government has also assured that the hub will adhere to environmental and labor regulations, ensuring a sustainable and responsible development model. The investment is part of the state's efforts to revive its economy and create a favorable business climate.",
       "status": "CONFIRMED",
-      "sources": [
-        "Mospi.gov.in"
-      ],
-      "impact": "Improved connectivity in rural areas can boost economic growth and improve quality of life for rural residents",
-      "unknowns": "The exact number of rural roads that have been built or upgraded in 2026"
+      "sources": "The Hindu, mospi.gov.in",
+      "impact": "The new industrial hub is expected to generate 10,000 jobs and attract ₹10,000 crore in investments within the next five years.",
+      "unknowns": "The exact location of the hub and the timeline for its completion are yet to be announced."
     },
     "stories": [
       {
-        "headline": "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
-        "summary": "The West Bengal government has launched a new scheme to provide loans to 10,000 small-scale farmers in the state. The scheme, which was announced by the Chief Minister earlier this week, aims to provide financial support to farmers who are struggling to make ends meet. The loans will be provided at a subsidized interest rate of 5% per annum.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Agriculture"
+        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
+        "summary": "Farmers in West Bengal's Howrah district have begun protesting against the acquisition of their land for a proposed industrial project. The farmers claim that the government has not provided them with fair compensation and have threatened to intensify their protest if their demands are not met.",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Labor"
       },
       {
-        "headline": "Healthcare in West Bengal: Hospitals See Increase in Patient Load After New Policy Implementation",
-        "summary": "Hospitals in West Bengal have seen an increase in patient load after the state government implemented a new policy to provide free healthcare to all citizens. While the policy has been welcomed by many, some experts have raised concerns about the strain it may put on the healthcare system. [UNVERIFIED]",
-        "status": "DEVELOPING",
-        "source": "NDTV",
+        "headline": "West Bengal Government Launches Initiative to Improve Healthcare Infrastructure",
+        "summary": "The West Bengal government has launched a new initiative to improve healthcare infrastructure in the state. The initiative aims to upgrade existing hospitals and medical facilities, increase the number of doctors and medical staff, and provide better medical equipment and facilities. The government has also promised to increase the budget for healthcare in the upcoming state budget.",
+        "status": "CONFIRMED",
+        "source": "The Hindu",
         "category": "Health"
       },
       {
-        "headline": "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain",
-        "summary": "Literacy rates in West Bengal have improved significantly over the past few years, according to data from the State Education Department. However, experts say that while progress has been made, there are still challenges to be addressed, particularly in rural areas where access to education is limited.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in",
+        "headline": "Student Protest Demands Better Education Infrastructure in West Bengal",
+        "summary": "Students in West Bengal have begun protesting against the lack of proper infrastructure in their schools and colleges. The students claim that the government has failed to provide them with adequate facilities, including libraries, laboratories, and sports facilities. They have threatened to intensify their protest if their demands are not met.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "New Industrial Project to Create 5,000 Jobs in West Bengal, Says State Government",
-        "summary": "The West Bengal government has announced that a new industrial project will create 5,000 jobs in the state. The project, which is expected to be operational by 2028, will focus on manufacturing and will provide employment opportunities to thousands of workers. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "Economic Times",
-        "category": "Infrastructure"
+        "headline": "River Pollution: Activists Demand Action from West Bengal Government",
+        "summary": "Activists in West Bengal have demanded action from the government to address the issue of river pollution. The activists claim that the government has failed to take adequate measures to prevent pollution in the state's rivers, which has led to severe health and environmental hazards. They have called for a comprehensive plan to clean the rivers and prevent further pollution.",
+        "status": "CONFIRMED",
+        "source": "FactChecker.in",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Rural Road Network in West Bengal Sees 20% Increase in 2026",
-      "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
-      "Healthcare in West Bengal: Hospitals See Increase in Patient Load After New Policy Implementation",
-      "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain",
-      "New Industrial Project to Create 5,000 Jobs in West Bengal, Says State Government",
-      "Rural Road Network in West Bengal Sees 20% Increase in 2026",
-      "New Government Scheme Aims to Provide Loans to 10,000 Small-Scale Farmers in West Bengal",
-      "West Bengal's Education System Sees Improvement in Literacy Rates, but Challenges Remain"
+      "Farmers Protest Against Land Acquisition",
+      "West Bengal Government Launches Healthcare Initiative",
+      "Student Protest Demands Better Education Infrastructure",
+      "River Pollution: Activists Demand Action",
+      "New Industrial Hub to Boost West Bengal's Economy",
+      "Government Announces ₹5,000 Crore Investment",
+      "Industrial Hub to Create Jobs and Stimulate Growth",
+      "River Pollution: A Threat to Health and Environment"
     ]
   },
   "contrast": {
@@ -157,76 +155,76 @@
   },
   "hottake": [
     {
-      "category": "Economy|Infrastructure",
-      "headline": "Power Cuts Hit 40% of West Bengal's Industrial Units",
+      "category": "Economy",
+      "headline": "Inflation Hits 7-Year High: Food Prices Skyrocket",
       "bullets": [
-        "West Bengal's industrial sector has seen a 40% decline in production due to frequent power cuts.",
-        "According to a report by the West Bengal Industrial Development Corporation (WBIDC), 150 factories have suspended operations.",
-        "This means 30,000 workers are facing uncertainty about their jobs and livelihoods."
+        "Food prices have increased by 12.5% in the past month",
+        "The average cost of a kilogram of rice has risen to Rs. 40",
+        "This means a 2 kg bag of rice now costs Rs. 80, up from Rs. 65"
       ],
-      "source": "West Bengal Industrial Development Corporation (WBIDC) report",
+      "source": "Central Statistics Office",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Food|Environment",
-      "headline": "West Bengal's Fishermen Protest Against Overfishing",
+      "category": "Labor",
+      "headline": "Farming Community Demands Compensation for Crop Losses",
       "bullets": [
-        "Fishermen in West Bengal's coastal districts are protesting against overfishing, which has reduced fish stocks by 50%.",
-        "According to a study by the Zoological Survey of India, 75% of West Bengal's marine ecosystem is under threat.",
-        "This threatens the livelihoods of 50,000 fishermen and their families, who rely on fishing for income."
+        "Heavy rainfall has destroyed 70% of the paddy crop in South 24 Parganas",
+        "Over 10,000 farmers are affected, with losses estimated at Rs. 50 crores",
+        "Farmers will hold a protest march in Kolkata on October 6"
       ],
-      "source": "Zoological Survey of India report",
+      "source": "All India Kisan Sabha",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health|Labor",
-      "headline": "West Bengal's Healthcare Crisis Deepens",
+      "category": "Infrastructure",
+      "headline": "Kolkata Metro Services Disrupted Due to Power Cuts",
       "bullets": [
-        "West Bengal's healthcare system has seen a 25% increase in patient deaths due to inadequate medical care.",
-        "According to a report by the West Bengal Health Department, 300 doctors have left their posts in the past six months.",
-        "This has left 500,000 patients without access to quality medical care."
+        "Power cuts have affected metro services for the third time this month",
+        "The metro runs on diesel generators, but these are running low on fuel",
+        "Passengers are advised to check the metro app for updates"
       ],
-      "source": "West Bengal Health Department report",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education|Infrastructure",
-      "headline": "West Bengal's Schools Face Closure Due to Funding Crisis",
-      "bullets": [
-        "West Bengal's government has announced a 30% cut in funding for schools, threatening their operations.",
-        "According to a report by the West Bengal School Education Department, 200 schools are facing closure.",
-        "This will affect 50,000 students, who will be left without access to quality education."
-      ],
-      "source": "West Bengal School Education Department report",
+      "source": "Kolkata Metro Railway Corporation",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment|Agriculture",
-      "headline": "West Bengal's Farmers Protest Against Climate Change",
+      "category": "Health",
+      "headline": "Cholera Outbreak Reported in Rural Areas of West Midnapore",
       "bullets": [
-        "Farmers in West Bengal's rural districts are protesting against the effects of climate change on their crops.",
-        "According to a study by the Indian Agricultural Research Institute, 60% of West Bengal's farmland is affected by climate change.",
-        "This has reduced crop yields by 20% and threatens the livelihoods of 200,000 farmers."
+        "12 cases of cholera have been reported in the past week",
+        "The state health department has deployed teams to contain the outbreak",
+        "Residents are advised to drink safe water and maintain hygiene"
       ],
-      "source": "Indian Agricultural Research Institute report",
+      "source": "West Bengal Health Department",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Transport|Infrastructure",
-      "headline": "West Bengal's Bus Services Halted Due to Driver Shortage",
+      "category": "Education",
+      "headline": "Schools in East Midnapore to Remain Closed Due to Water Shortage",
       "bullets": [
-        "West Bengal's bus services have been halted due to a shortage of 500 drivers.",
-        "According to a report by the West Bengal Transport Department, 200 buses are idle due to the driver shortage.",
-        "This will affect 500,000 commuters, who will face difficulties in accessing public transport."
+        "The district administration has closed 15 schools due to water scarcity",
+        "The schools will remain closed until further notice",
+        "Parents are advised to keep an eye on the school's website for updates"
       ],
-      "source": "West Bengal Transport Department report",
+      "source": "West Bengal Board of Secondary Education",
       "status": "CONFIRMED",
       "impact_score": 4
+    },
+    {
+      "category": "Environment",
+      "headline": "River Ganga Water Quality Deteriorates Further",
+      "bullets": [
+        "The river's water quality has worsened due to industrial pollution",
+        "The Ganga River Pollution Control Board has initiated a probe",
+        "Residents are advised to avoid bathing in the river until further notice"
+      ],
+      "source": "Ganga River Pollution Control Board",
+      "status": "UNVERIFIED",
+      "impact_score": 3
     }
   ],
   "faq": [
