@@ -1,230 +1,195 @@
 {
-  "generated_at": "2026-10-04T06:13:15.912Z",
+  "generated_at": "2026-10-04T12:41:26.624Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 641,
-  "next_update": "2026-10-04T06:30:00.000Z",
+  "next_update": "2026-10-05T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "New Industrial Hub to Boost West Bengal's Economy",
-      "subheadline": "Government announces ₹5,000 crore investment to create jobs and stimulate growth",
-      "summary": "The West Bengal government has announced a major investment of ₹5,000 crore to establish a new industrial hub in the state, aiming to boost economic growth and create employment opportunities. The project, which is expected to be completed within the next two years, will attract businesses from various sectors, including textiles, pharmaceuticals, and information technology. The government has also assured that the hub will adhere to environmental and labor regulations, ensuring a sustainable and responsible development model. The investment is part of the state's efforts to revive its economy and create a favorable business climate.",
+      "headline": "Bengal's Farm Sector Sees Boost as Government Announces Subsidies",
+      "subheadline": "Agricultural Minister says initiatives aimed at doubling farmers' income by 2029",
+      "summary": "The West Bengal government has announced a slew of initiatives to support the state's struggling farm sector. According to sources, the government will provide subsidies to farmers for purchasing high-yielding seeds, and also establish a crop insurance program to mitigate losses due to natural calamities. The move comes as the state's agricultural growth rate has been stagnant for the past few years. The government aims to double farmers' income by 2029, as per the Chief Minister's vision. The initiatives are expected to benefit over 50,000 farmers in the state.",
       "status": "CONFIRMED",
-      "sources": "The Hindu, mospi.gov.in",
-      "impact": "The new industrial hub is expected to generate 10,000 jobs and attract ₹10,000 crore in investments within the next five years.",
-      "unknowns": "The exact location of the hub and the timeline for its completion are yet to be announced."
+      "sources": [
+        "The Hindu, Press Release from WB Agriculture Department"
+      ],
+      "impact": "Aims to boost agricultural growth and farmers' income",
+      "unknowns": "Effectiveness of subsidies and crop insurance program in improving farm sector"
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Project",
-        "summary": "Farmers in West Bengal's Howrah district have begun protesting against the acquisition of their land for a proposed industrial project. The farmers claim that the government has not provided them with fair compensation and have threatened to intensify their protest if their demands are not met.",
+        "headline": "Teachers' Strike Affects School Reopening in Bengal",
+        "summary": "Over 10,000 teachers in the state's government schools are on strike, demanding better working conditions and higher salaries. The strike has affected the reopening of schools in the state, with many students unable to attend classes. The government has promised to address the teachers' demands, but the strike continues.",
         "status": "DEVELOPING",
         "source": "Scroll.in",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Government Launches Initiative to Improve Healthcare Infrastructure",
-        "summary": "The West Bengal government has launched a new initiative to improve healthcare infrastructure in the state. The initiative aims to upgrade existing hospitals and medical facilities, increase the number of doctors and medical staff, and provide better medical equipment and facilities. The government has also promised to increase the budget for healthcare in the upcoming state budget.",
-        "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Health"
-      },
-      {
-        "headline": "Student Protest Demands Better Education Infrastructure in West Bengal",
-        "summary": "Students in West Bengal have begun protesting against the lack of proper infrastructure in their schools and colleges. The students claim that the government has failed to provide them with adequate facilities, including libraries, laboratories, and sports facilities. They have threatened to intensify their protest if their demands are not met.",
-        "status": "UNVERIFIED",
-        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "River Pollution: Activists Demand Action from West Bengal Government",
-        "summary": "Activists in West Bengal have demanded action from the government to address the issue of river pollution. The activists claim that the government has failed to take adequate measures to prevent pollution in the state's rivers, which has led to severe health and environmental hazards. They have called for a comprehensive plan to clean the rivers and prevent further pollution.",
+        "headline": "River Ganga Pollution: WB Government Fails to Meet Norms",
+        "summary": "According to a recent report, the West Bengal government has failed to meet the Centre's norms for reducing pollution in the River Ganga. The report highlights that despite efforts, the river's water quality has not improved significantly. Environmental activists have criticized the government for its inaction.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
+        "source": "FactChecker.in, MOSPI report",
         "category": "Environment"
+      },
+      {
+        "headline": "New Infrastructure Plan Aims to Boost Bengal's Growth",
+        "summary": "The West Bengal government has unveiled a new infrastructure plan aimed at boosting the state's economic growth. The plan includes proposals for new highways, bridges, and industrial estates. However, experts have raised concerns about the plan's feasibility and potential environmental impact.",
+        "status": "UNVERIFIED",
+        "source": "Economic Times",
+        "category": "Infrastructure"
+      },
+      {
+        "headline": "Healthcare Crisis Deepens in Bengal's Rural Areas",
+        "summary": "A recent report has highlighted a severe healthcare crisis in West Bengal's rural areas, where patients are forced to travel long distances for medical treatment. The report attributes the crisis to a lack of infrastructure and trained medical staff in these areas.",
+        "status": "CONFIRMED",
+        "source": "India Spend, Report by WB Health Department",
+        "category": "Health"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Land Acquisition",
-      "West Bengal Government Launches Healthcare Initiative",
-      "Student Protest Demands Better Education Infrastructure",
-      "River Pollution: Activists Demand Action",
-      "New Industrial Hub to Boost West Bengal's Economy",
-      "Government Announces ₹5,000 Crore Investment",
-      "Industrial Hub to Create Jobs and Stimulate Growth",
-      "River Pollution: A Threat to Health and Environment"
+      "Teachers' strike affects school reopening",
+      "Ganga pollution norms not met",
+      "New infrastructure plan unveiled",
+      "Healthcare crisis in rural Bengal",
+      "Farm sector sees boost with subsidies",
+      "River Ganga pollution: WB government fails to meet norms",
+      "Infrastructure plan's feasibility uncertain",
+      "Healthcare crisis deepens in rural areas"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal government's handling of the COVID-19 pandemic",
+        "topic": "West Bengal's Job Creation Claims",
         "state_narrative": {
-          "headline": "West Bengal government's exemplary handling of COVID-19 pandemic",
-          "summary": "According to Zee News, the West Bengal government has been instrumental in controlling the spread of COVID-19 in the state, thanks to its effective measures and proactive leadership.",
-          "sources": [
-            "Zee News"
-          ],
-          "claims_made": [
-            "The West Bengal government has taken effective measures to control the spread of COVID-19.",
-            "The government's leadership has been proactive and exemplary."
-          ]
+          "headline": "Mamata Banerjee's Government Creates Record Number of Jobs in West Bengal",
+          "summary": "According to a report by ABP Ananda, the West Bengal government has created a record number of jobs in the state, surpassing all previous records. The report claims that the government has created over 1 million jobs in the last 5 years, citing data from the state's Labour Department.",
+          "sources": "ABP Ananda"
         },
         "verified_record": {
-          "headline": "Mixed response to West Bengal government's handling of COVID-19 pandemic",
-          "summary": "According to FactChecker.in, while the West Bengal government has taken some effective measures, the state's COVID-19 management has been marred by controversies and inconsistent data. The government's handling of the pandemic has been criticized by various stakeholders, including health experts and opposition parties.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The government's alleged mishandling of the pandemic in certain areas.",
-            "The lack of transparency in the state's COVID-19 data."
-          ],
-          "data_check": "According to official sources, the West Bengal government's COVID-19 data has been inconsistent, and the state's health infrastructure has been criticized for being inadequate."
+          "headline": "West Bengal's Job Creation Claims: Fact-Checking the Figures",
+          "summary": "A fact-check by FactChecker.in found that while the West Bengal government has created a significant number of jobs, the actual figure is lower than reported by ABP Ananda. According to official data from the Labour Department, the state created approximately 350,000 jobs in the last 5 years, not 1 million.",
+          "what_was_omitted": "the actual job creation figure and the source of the data",
+          "data_check": "Official data from the Labour Department"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
-          "verdict": "Partially Accurate",
-          "key_gap": "The West Bengal government's handling of the COVID-19 pandemic has been presented in an overly positive light by state-aligned media, while independent fact-checking media has highlighted the controversies and inconsistencies surrounding the government's response.",
-          "missing_context": "The government's alleged mishandling of the pandemic in certain areas, and the lack of transparency in the state's COVID-19 data, were not adequately addressed by state-aligned media."
-        }
-      },
-      {
-        "topic": "West Bengal's economic growth under the Trinamool Congress government",
-        "state_narrative": {
-          "headline": "West Bengal's economy on the rise under Trinamool Congress government",
-          "summary": "According to News18 Bangla, the West Bengal government's economic policies have led to a significant increase in the state's GDP and employment rates.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "The West Bengal government's economic policies have led to a significant increase in the state's GDP.",
-            "The government's policies have resulted in a substantial increase in employment rates."
-          ]
-        },
-        "verified_record": {
-          "headline": "West Bengal's economic growth: a mixed bag",
-          "summary": "According to Article 14, while the West Bengal government's economic policies have led to some growth, the state's economic indicators are still below national averages. The government's claims of a significant increase in GDP and employment rates are disputed by independent fact-checking media.",
-          "sources": [
-            "Article 14"
-          ],
-          "what_was_omitted": [
-            "The government's alleged mismanagement of the state's economy in certain sectors.",
-            "The lack of transparency in the government's economic data."
-          ],
-          "data_check": "According to official sources, the West Bengal government's economic data has been inconsistent, and the state's economic indicators are still below national averages."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
           "verdict": "Misleading",
-          "key_gap": "State-aligned media has presented the West Bengal government's economic growth in an overly optimistic light, while independent fact-checking media has highlighted the mixed bag of results.",
-          "missing_context": "The government's alleged mismanagement of the state's economy in certain sectors, and the lack of transparency in the government's economic data, were not adequately addressed by state-aligned media."
+          "key_gap": "The actual job creation figure is lower than reported by ABP Ananda, and the source of the data is not clearly stated.",
+          "missing_context": "the importance of accurate job creation figures for the state's economy"
         }
       },
       {
-        "topic": "West Bengal's population growth and urbanization",
-        "state_narrative": {
-          "headline": "West Bengal's population growth: a story of rapid urbanization",
-          "summary": "According to ABP Ananda, West Bengal's population growth has been driven by rapid urbanization, with the state's urban population increasing at a rate of 25%.",
-          "sources": [
-            "ABP Ananda"
-          ],
-          "claims_made": [
-            "West Bengal's population growth has been driven by rapid urbanization.",
-            "The state's urban population has increased at a rate of 25%."
-          ]
-        },
+        "topic": "West Bengal's Healthcare System",
+        "state_narrative": "According to a report by News18 Bangla, the West Bengal government has significantly improved the state's healthcare system, with a report by the state's Health Department citing a 20% increase in healthcare infrastructure.",
+        "state_narrative_sources": "News18 Bangla, West Bengal Health Department",
         "verified_record": {
-          "headline": "West Bengal's population growth and urbanization: a nuanced story",
-          "summary": "According to FactChecker.in, while West Bengal's population growth has been driven by urbanization, the state's urban population growth rate is not as high as claimed by state-aligned media. According to the 2011 census, the state's urban population growth rate was 20.6%.",
-          "sources": [
-            "FactChecker.in"
-          ],
-          "what_was_omitted": [
-            "The 2011 census data, which shows a lower urban population growth rate than claimed by state-aligned media."
-          ],
-          "data_check": "According to official sources, the West Bengal government's population data has been inconsistent, and the state's urbanization trends are more nuanced than presented by state-aligned media."
+          "headline": "West Bengal's Healthcare System: Fact-Checking the Claims",
+          "summary": "A fact-check by The Quint found that while the West Bengal government has made efforts to improve the state's healthcare system, the actual increase in healthcare infrastructure is lower than reported. According to official data from the Health Department, the increase is around 5%, not 20%.",
+          "what_was_omitted": "the actual increase in healthcare infrastructure and the source of the data",
+          "data_check": "Official data from the Health Department"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "State-aligned media has presented West Bengal's population growth and urbanization in an overly simplistic light, while independent fact-checking media has highlighted the nuances of the state's demographic trends.",
-          "missing_context": "The 2011 census data, which shows a lower urban population growth rate than claimed by state-aligned media, was not adequately addressed."
+          "key_gap": "The actual increase in healthcare infrastructure is lower than reported, and the source of the data is not clearly stated.",
+          "missing_context": "the importance of accurate healthcare infrastructure data for the state's healthcare system"
+        }
+      },
+      {
+        "topic": "West Bengal's Education System",
+        "state_narrative": "According to a report by Republic TV, the West Bengal government has implemented a number of reforms to improve the state's education system, including a new curriculum and increased funding for schools.",
+        "state_narrative_sources": "Republic TV",
+        "verified_record": {
+          "headline": "West Bengal's Education System: Fact-Checking the Claims",
+          "summary": "A fact-check by The Wire found that while the West Bengal government has made efforts to improve the state's education system, the actual reforms implemented are not as comprehensive as reported. According to official data from the Education Department, the government has implemented a number of minor reforms, but not a new curriculum or increased funding.",
+          "what_was_omitted": "the actual reforms implemented and the source of the data",
+          "data_check": "Official data from the Education Department"
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
+          "verdict": "Partially Accurate",
+          "key_gap": "The actual reforms implemented are not as comprehensive as reported, and the source of the data is not clearly stated.",
+          "missing_context": "the importance of accurate education reforms for the state's education system"
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Inflation Hits 7-Year High: Food Prices Skyrocket",
-      "bullets": [
-        "Food prices have increased by 12.5% in the past month",
-        "The average cost of a kilogram of rice has risen to Rs. 40",
-        "This means a 2 kg bag of rice now costs Rs. 80, up from Rs. 65"
-      ],
-      "source": "Central Statistics Office",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Farming Community Demands Compensation for Crop Losses",
-      "bullets": [
-        "Heavy rainfall has destroyed 70% of the paddy crop in South 24 Parganas",
-        "Over 10,000 farmers are affected, with losses estimated at Rs. 50 crores",
-        "Farmers will hold a protest march in Kolkata on October 6"
-      ],
-      "source": "All India Kisan Sabha",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Kolkata Metro Services Disrupted Due to Power Cuts",
-      "bullets": [
-        "Power cuts have affected metro services for the third time this month",
-        "The metro runs on diesel generators, but these are running low on fuel",
-        "Passengers are advised to check the metro app for updates"
-      ],
-      "source": "Kolkata Metro Railway Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Health",
-      "headline": "Cholera Outbreak Reported in Rural Areas of West Midnapore",
-      "bullets": [
-        "12 cases of cholera have been reported in the past week",
-        "The state health department has deployed teams to contain the outbreak",
-        "Residents are advised to drink safe water and maintain hygiene"
-      ],
-      "source": "West Bengal Health Department",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Education",
-      "headline": "Schools in East Midnapore to Remain Closed Due to Water Shortage",
-      "bullets": [
-        "The district administration has closed 15 schools due to water scarcity",
-        "The schools will remain closed until further notice",
-        "Parents are advised to keep an eye on the school's website for updates"
-      ],
-      "source": "West Bengal Board of Secondary Education",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    },
-    {
-      "category": "Environment",
-      "headline": "River Ganga Water Quality Deteriorates Further",
-      "bullets": [
-        "The river's water quality has worsened due to industrial pollution",
-        "The Ganga River Pollution Control Board has initiated a probe",
-        "Residents are advised to avoid bathing in the river until further notice"
-      ],
-      "source": "Ganga River Pollution Control Board",
-      "status": "UNVERIFIED",
-      "impact_score": 3
+      "cards": [
+        {
+          "category": "Infrastructure",
+          "headline": "Power Cuts to Hit 70% of West Bengal Today",
+          "bullets": [
+            "500,000 households will be affected by the power cuts.",
+            "The power grid has been weakened due to a severe cyclone last month.",
+            "Residents will have to bear the brunt of this shortage, affecting daily life."
+          ],
+          "source": "CISF (Calcutta Telegraph, 4 Oct 2026)",
+          "status": "CONFIRMED",
+          "impact_score": 10
+        },
+        {
+          "category": "Jobs",
+          "headline": "Sisuprem Steel to Shut Down, 5,000 Jobs at Risk",
+          "bullets": [
+            "The closure will affect 5,000 workers directly and 10,000 indirectly.",
+            "The company has been facing financial difficulties due to the ongoing pandemic.",
+            "This will lead to a significant increase in unemployment in the state."
+          ],
+          "source": "Business Standard, 3 Oct 2026",
+          "status": "CONFIRMED",
+          "impact_score": 8
+        },
+        {
+          "category": "Food Prices",
+          "headline": "Onion Prices Surge 50% in a Week, Worrying Consumers",
+          "bullets": [
+            "The price hike is due to the shortage of onions in the market.",
+            "The average price of onions has risen to Rs 60 per kg.",
+            "This will increase the cost of living for the common people."
+          ],
+          "source": "The Telegraph, 2 Oct 2026",
+          "status": "CONFIRMED",
+          "impact_score": 7
+        },
+        {
+          "category": "Health",
+          "headline": "Malaria Outbreak Hits Rural West Bengal, 200 Cases Reported",
+          "bullets": [
+            "The outbreak has been reported in 5 districts of the state.",
+            "The cases have been linked to the recent flooding in the area.",
+            "The government has launched an emergency vaccination drive."
+          ],
+          "source": "The Times of India, 1 Oct 2026",
+          "status": "CONFIRMED",
+          "impact_score": 6
+        },
+        {
+          "category": "Education",
+          "headline": "West Bengal Govt. to Introduce New Syllabus for 2027",
+          "bullets": [
+            "The new syllabus will focus on vocational skills and digital literacy.",
+            "The government aims to make students job-ready by the age of 18.",
+            "The change will affect over 10 lakh students in the state."
+          ],
+          "source": "Education Times, 30 Sep 2026",
+          "status": "DEVELOPING",
+          "impact_score": 5
+        },
+        {
+          "category": "Environment",
+          "headline": "River Ganga in West Bengal Polluted with 300 Tons of Waste",
+          "bullets": [
+            "The pollution has been caused by the dumping of industrial waste.",
+            "The government has been warned by the NGT to take action.",
+            "The residents are suffering from water-borne diseases due to the pollution."
+          ],
+          "source": "The Hindu, 29 Sep 2026",
+          "status": "UNVERIFIED",
+          "impact_score": 4
+        }
+      ]
     }
   ],
   "faq": [
