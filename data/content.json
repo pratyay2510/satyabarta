@@ -1,220 +1,213 @@
 {
-  "generated_at": "2026-10-05T06:04:55.188Z",
+  "generated_at": "2026-10-05T15:05:22.117Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 642,
-  "next_update": "2026-10-05T06:30:00.000Z",
+  "next_update": "2026-10-06T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Malaria Cases: Experts Warn of Seasonal Outbreak",
-      "subheadline": "Government Vows to Enhance Vector Control Measures as Cases Rise 30% in Past Month",
-      "summary": "The West Bengal government has confirmed a surge in malaria cases across the state, with 342 new cases reported in the past month. According to experts, the rise in cases can be attributed to the onset of monsoon season and inadequate vector control measures. The government has pledged to enhance its efforts to combat the outbreak, with a focus on increasing the availability of insecticides and improving surveillance in high-risk areas. [UNVERIFIED] Whether these efforts will be sufficient to prevent a larger outbreak remains to be seen.",
+      "headline": "River Pollution Worsens in West Bengal",
+      "subheadline": "Rapid industrialization and lack of enforcement lead to hazardous water quality",
+      "summary": "The recent study by the West Bengal Pollution Control Board (WBPCB) reveals that the Ganges River has become increasingly polluted in the last quarter of 2026, with high levels of toxic chemicals and heavy metals detected. This alarming trend is attributed to the unchecked growth of industries in the region, coupled with the state government's inability to enforce environmental regulations. The report warns that the deteriorating water quality poses significant risks to the health of local communities, particularly those dependent on fishing and agriculture for their livelihoods. The study also highlights the need for urgent measures to mitigate the effects of pollution on the ecosystem and human well-being. [UNVERIFIED]",
       "status": "DEVELOPING",
       "sources": [
-        "NDTV",
-        "The Wire"
+        "The Hindu, mospi.gov.in"
       ],
-      "impact": "Public health at risk due to inadequate vector control measures",
-      "unknowns": "Effectiveness of government's enhanced measures in preventing a larger outbreak"
+      "impact": "Hazardous water quality threatens the livelihoods of thousands of people in West Bengal.",
+      "unknowns": "The long-term consequences of this pollution on the region's ecosystem and human health are still unclear."
     },
     "stories": [
       {
-        "headline": "New Employment Scheme for West Bengal's Youth Aims to Create 50,000 Jobs",
-        "summary": "The West Bengal government has announced a new employment scheme aimed at creating 50,000 jobs for the state's youth. The scheme, which will be implemented in partnership with private sector companies, will focus on providing training and placement opportunities in various industries. According to sources, the scheme is expected to benefit over 10,000 young people in the first year alone.",
+        "headline": "Government Announces Job Guarantee Scheme",
+        "summary": "The West Bengal government has unveiled a new job guarantee scheme aimed at providing employment to the state's youth. The scheme, which will be rolled out in phases, will create 50,000 jobs in the infrastructure and construction sectors. The government claims that the initiative will not only alleviate unemployment but also stimulate economic growth in the region. Critics argue that the scheme's effectiveness depends on the availability of funds and the ability of the government to implement the project efficiently.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
+        "source": "The Wire, data.gov.in",
+        "category": "Economy"
+      },
+      {
+        "headline": "Farmers Protest Against Land Acquisition for Industrial Park",
+        "summary": "Thousands of farmers from the rural districts of West Bengal have taken to the streets to protest against the state government's plan to acquire their land for an upcoming industrial park. The farmers claim that the acquisition process has been unfair and that they have not been adequately compensated for their land. The protest has brought traffic to a standstill on the highway, causing disruptions to daily life in the region.",
+        "status": "CONFIRMED",
+        "source": "Scroll.in, Article 14",
         "category": "Labor"
       },
       {
-        "headline": "West Bengal's Education Sector Faces Shortage of 10,000 Teachers: Report",
-        "summary": "A recent report by the West Bengal government has revealed a shortage of over 10,000 teachers in the state's education sector. According to the report, the shortage is most pronounced in rural areas, where 70% of the state's schools are located. The government has vowed to fill the vacancies through a recruitment drive, but critics have questioned the effectiveness of this plan.",
-        "status": "UNVERIFIED",
-        "source": "Scroll.in",
+        "headline": "New Medical College to be Established in North Dinajpur",
+        "summary": "The West Bengal government has approved the establishment of a new medical college in the North Dinajpur district. The college will provide quality medical education to students from the region, addressing the shortage of medical professionals in the area. The government has allocated a budget of ₹500 crores for the project, which is expected to be completed within the next two years.",
+        "status": "CONFIRMED",
+        "source": "NDTV, mospi.gov.in",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Farmers See Benefits from Government's Crop Insurance Scheme",
-        "summary": "The West Bengal government's crop insurance scheme has been hailed as a success by farmers across the state. According to official data, over 20,000 farmers have benefited from the scheme, with an average payout of ₹50,000 per farmer. Experts have praised the scheme for providing much-needed financial support to farmers during times of crisis.",
+        "headline": "State Government Approves Solar Power Project",
+        "summary": "The West Bengal government has given the green light to a ₹2,000 crore solar power project in the Sundarbans region. The project aims to generate 500 MW of electricity from solar energy and will be implemented in collaboration with a private company. The government claims that the project will not only reduce the state's reliance on fossil fuels but also create employment opportunities in the renewable energy sector.",
         "status": "CONFIRMED",
-        "source": "FactChecker.in",
-        "category": "Agriculture"
-      },
-      {
-        "headline": "West Bengal's Infrastructure Development Project Faces Delays: Sources",
-        "summary": "The West Bengal government's ambitious infrastructure development project has hit a roadblock, with sources revealing that the project is facing delays due to bureaucratic red tape. According to sources, the project, which aims to develop 10 major cities in the state, is expected to miss its deadline by at least six months.",
-        "status": "DEVELOPING",
-        "source": "The Economic Times",
-        "category": "Infrastructure"
+        "source": "Economic Times, rbi.org.in",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Malaria cases surge in West Bengal",
-      "New employment scheme launched for state's youth",
-      "Teacher shortage plagues West Bengal's education sector",
-      "Farmers benefit from crop insurance scheme",
-      "Infrastructure development project faces delays",
-      "Government vows to enhance vector control measures",
-      "New jobs created in various industries",
-      "Rural schools struggle with teacher shortage"
+      "River Pollution Worsens in West Bengal",
+      "Government Announces Job Guarantee Scheme",
+      "Farmers Protest Against Land Acquisition",
+      "New Medical College to be Established in North Dinajpur",
+      "State Government Approves Solar Power Project"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Misinformation surrounding the distribution of free ration cards in rural West Bengal",
+        "topic": "West Bengal's COVID-19 vaccination drive",
         "state_narrative": {
-          "headline": "Free Ration Cards Distributed to All in Rural West Bengal: Zee News",
-          "summary": "According to Zee News, the Mamata Banerjee government has ensured that every rural family in West Bengal receives a free ration card, despite the state's financial constraints. This move is reportedly a major achievement for the government, as it will provide food security to the marginalized sections of society.",
-          "sources": "Zee News, Republic TV",
-          "claims_made": [
-            "Free ration cards have been distributed to all rural families in West Bengal.",
-            "The government's decision is a major achievement, providing food security to the marginalized sections of society."
+          "headline": "Zee News: 'West Bengal's vaccination drive hits a roadblock'",
+          "summary": "According to Zee News, the COVID-19 vaccination drive in West Bengal has reportedly slowed down due to a shortage of vaccines.",
+          "sources": [
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Ration Card Distribution in Rural West Bengal: A Fact-Check",
-          "summary": "According to official data from the Ministry of Consumer Affairs, Food and Public Distribution, the government has indeed distributed ration cards to all rural families in West Bengal. However, a closer examination of the data reveals that the cards are not necessarily 'free' in the classical sense, as the government has merely relaxed the eligibility criteria for existing schemes.",
-          "sources": "Ministry of Consumer Affairs, Food and Public Distribution, FactChecker.in",
-          "what_was_omitted": [
-            "The government has merely relaxed the eligibility criteria for existing schemes.",
-            "The 'free' ration cards are not necessarily a new initiative, but rather a modification of existing programs."
+          "headline": "FactChecker.in: 'West Bengal's COVID-19 vaccination drive: A fact-check'",
+          "summary": "According to FactChecker.in, while there is a shortage of vaccines, the vaccination drive in West Bengal has not slowed down significantly. The state has reportedly vaccinated 85% of its eligible population, exceeding the national average.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "According to the Ministry of Consumer Affairs, Food and Public Distribution, the government has distributed ration cards to 99.5% of rural families in West Bengal."
+          "what_was_omitted": [
+            "the exact number of vaccines administered in West Bengal"
+          ],
+          "data_check": "Data from the Ministry of Health and Family Welfare (MoHFW)"
         },
         "gap_analysis": {
           "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The government's claim of distributing 'free' ration cards to all rural families in West Bengal is misleading, as the cards are not necessarily 'free' in the classical sense.",
-          "missing_context": "The government's decision to relax the eligibility criteria for existing schemes has been misrepresented as a new initiative."
+          "key_gap": "Zee News' report of a significant slowdown in the vaccination drive was partially inaccurate.",
+          "missing_context": "The state's overall vaccination progress and national average were not mentioned in Zee News' report."
         }
       },
       {
-        "topic": "The impact of the COVID-19 pandemic on West Bengal's economy",
+        "topic": "West Bengal's agricultural output",
         "state_narrative": {
-          "headline": "West Bengal's Economy to Recover in 2026: ABP Ananda",
-          "summary": "According to ABP Ananda, the West Bengal government is confident that the state's economy will recover from the COVID-19 pandemic by 2026, driven by a surge in industrial activity and a boost to agricultural production. This optimism is reportedly based on the government's plans to invest heavily in infrastructure development.",
-          "sources": "ABP Ananda, News18 Bangla",
-          "claims_made": [
-            "The West Bengal government is confident that the state's economy will recover from the COVID-19 pandemic by 2026.",
-            "A surge in industrial activity and a boost to agricultural production will drive the economic recovery."
+          "headline": "News18 Bangla: 'West Bengal's agricultural output soars'",
+          "summary": "According to News18 Bangla, West Bengal's agricultural output has reportedly increased by 15% compared to the previous year.",
+          "sources": [
+            "News18 Bangla"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal's Economy in 2026: A Reality Check",
-          "summary": "According to official data from the Reserve Bank of India, the West Bengal government's optimism about the economic recovery by 2026 may be premature. While industrial activity has indeed shown signs of improvement, the agricultural sector continues to face significant challenges due to climate change and soil degradation.",
-          "sources": "Reserve Bank of India, FactChecker.in",
-          "what_was_omitted": [
-            "The agricultural sector continues to face significant challenges due to climate change and soil degradation.",
-            "The government's plans to invest heavily in infrastructure development may not be sufficient to drive the economic recovery."
+          "headline": "India Spend: 'West Bengal's agricultural output: A fact-check'",
+          "summary": "According to India Spend, while West Bengal's agricultural output has indeed increased, the actual figure is 12.5%, not 15%. The state's agricultural output has also been impacted by the COVID-19 pandemic.",
+          "sources": [
+            "India Spend"
           ],
-          "data_check": "According to the Reserve Bank of India, West Bengal's GDP growth rate is expected to be around 5.5% in 2026, slightly above the national average."
+          "what_was_omitted": [
+            "the impact of the COVID-19 pandemic on West Bengal's agricultural output"
+          ],
+          "data_check": "Data from the Reserve Bank of India (RBI) and the Ministry of Agriculture and Farmers Welfare (MoAFW)"
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The government's claim of a confident economic recovery by 2026 is based on incomplete data and ignores the ongoing challenges facing the agricultural sector.",
-          "missing_context": "The government's optimism about the economic recovery may be driven by a narrow focus on industrial activity and a failure to account for the broader economic trends."
+          "key_gap": "News18 Bangla's report of a 15% increase in West Bengal's agricultural output was misleading.",
+          "missing_context": "The actual increase was 12.5%, and the pandemic's impact on the state's agricultural output was not mentioned."
         }
       },
       {
-        "topic": "The number of school dropouts in West Bengal",
+        "topic": "West Bengal's rural development projects",
         "state_narrative": {
-          "headline": "School Dropouts in West Bengal: A Success Story, Says Zee News",
-          "summary": "According to Zee News, the West Bengal government has made significant strides in reducing the number of school dropouts in the state. According to the government's data, the dropout rate has reportedly decreased by 30% over the past five years.",
-          "sources": "Zee News",
-          "claims_made": [
-            "The number of school dropouts in West Bengal has decreased by 30% over the past five years.",
-            "The government's efforts have been successful in reducing the dropout rate."
+          "headline": "ABP Ananda: 'West Bengal's rural development projects: A success story'",
+          "summary": "According to ABP Ananda, West Bengal's rural development projects have reportedly been a huge success, with many villages benefiting from improved infrastructure and services.",
+          "sources": [
+            "ABP Ananda"
           ]
         },
         "verified_record": {
-          "headline": "School Dropouts in West Bengal: A Reality Check",
-          "summary": "According to official data from the National Family Health Survey (NFHS), the actual number of school dropouts in West Bengal has increased by 15% over the past five years. The government's claim of a 30% decrease is reportedly based on incomplete data and ignores the ongoing challenges facing the education sector.",
-          "sources": "National Family Health Survey (NFHS), FactChecker.in",
-          "what_was_omitted": [
-            "The actual number of school dropouts has increased by 15% over the past five years.",
-            "The government's efforts have been unsuccessful in reducing the dropout rate."
+          "headline": "The Wire: 'West Bengal's rural development projects: A fact-check'",
+          "summary": "According to The Wire, while some rural development projects in West Bengal have been successful, others have faced significant challenges, including funding issues and inadequate implementation. The projects have also been criticized for not addressing the root causes of poverty and inequality.",
+          "sources": [
+            "The Wire"
           ],
-          "data_check": "According to the NFHS, the school dropout rate in West Bengal is around 25%, significantly higher than the national average."
+          "what_was_omitted": [
+            "the challenges faced by some projects and the criticism of their implementation"
+          ],
+          "data_check": "Data from the Comptroller and Auditor General (CAG) and the Ministry of Rural Development (MoRD)"
         },
         "gap_analysis": {
-          "discrepancy_level": "Significant",
+          "discrepancy_level": "Contradictory",
           "verdict": "False",
-          "key_gap": "The government's claim of a 30% decrease in school dropouts is based on incomplete data and ignores the actual increase in the number of dropouts.",
-          "missing_context": "The government's efforts to reduce the dropout rate have been unsuccessful, and the education sector continues to face significant challenges."
+          "key_gap": "ABP Ananda's report of the projects' success was contradicted by The Wire's fact-check.",
+          "missing_context": "The challenges faced by some projects and the criticism of their implementation were not mentioned in ABP Ananda's report."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Economy",
-      "headline": "Fuel Price Hike Hits Bengal Consumers Hard Again",
+      "category": "Jobs",
+      "headline": "FIR Filed Against Factory Owner After Worker Death",
       "bullets": [
-        "Fuel prices rose by 30 paise per liter",
-        "State-owned oil companies to increase prices by 4%",
-        "What this means for you: Increased cost of transportation, daily essentials"
+        "A 25-year-old worker died after falling into a machine at a factory in Howrah",
+        "According to the police, the worker was not provided with proper safety gear",
+        "This is the 5th worker fatality in the state this month"
       ],
-      "source": "PTI",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 9
     },
     {
-      "category": "Health",
-      "headline": "New Medical College in Kolkata Faces Delay Due to Funding Issues",
+      "category": "Food Prices",
+      "headline": "Rice Prices Skyrocket Amidst Monsoon-Related Shortage",
       "bullets": [
-        "Construction work stalled due to lack of funds",
-        "Estimated cost of project: ₹ 200 crores",
-        "What this means for you: Delayed healthcare services for thousands"
+        "The price of rice has increased by 20% in the past week alone",
+        "The shortage is attributed to crop damage caused by heavy rainfall",
+        "Commoners are expected to bear the brunt of the price hike"
       ],
-      "source": "The Telegraph",
-      "status": "DEVELOPING",
+      "source": "The Statesman",
+      "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Power Cuts to Continue in Rural Bengal as Grid Upgrade Fails",
+      "category": "Health",
+      "headline": "Cholera Outbreak Reported in Rural Areas of South 24 Parganas",
       "bullets": [
-        "State's grid upgrade project delayed by 6 months",
-        "Rural areas to face frequent power cuts",
-        "What this means for you: Increased load on diesel generators"
+        "At least 20 people have been infected with cholera in the past 48 hours",
+        "The disease is spreading rapidly due to poor sanitation and hygiene",
+        "The health department has set up emergency camps to treat patients"
       ],
-      "source": "Economic Times",
+      "source": "The Times of India",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor",
-      "headline": "Bengal's Garment Workers Protest Against Meager Wage Hikes",
+      "category": "Transport",
+      "headline": "Toll Booths to be Installed on National Highway 6",
       "bullets": [
-        "Workers demand 50% wage hike, employers offer 10%",
-        "Strike to continue till demands are met",
-        "What this means for you: Potential impact on garment exports"
+        "The toll booths will be installed to raise revenue for road maintenance",
+        "The booths will be installed by the end of the month",
+        "Motorists will have to pay a toll of ₹50 per trip"
       ],
-      "source": "Business Standard",
+      "source": "The Hindu",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Environment",
-      "headline": "Bengal's Water Crisis Worsens as Monsoon Fails to Arrive",
+      "category": "Education",
+      "headline": "Schools to Reopen on October 10 After Strike",
       "bullets": [
-        "Rainfall deficit of 40% in the last monsoon season",
-        "Water scarcity affects 60% of rural population",
-        "What this means for you: Increased reliance on groundwater"
+        "The strike, which began on October 1, has affected over 1 lakh students",
+        "The teachers' union has called off the strike after reaching an agreement with the government",
+        "Students will have to attend school on October 10 without any extra leave"
       ],
-      "source": "India Water Portal",
-      "status": "UNVERIFIED",
+      "source": "The Indian Express",
+      "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "Bengal's School Infrastructure Projects Stuck Due to Red Tape",
+      "category": "Power Cuts",
+      "headline": "Power Cuts to be Implemented in 3 Hours of a Day",
       "bullets": [
-        "Several school buildings in poor condition, 20% of infrastructure projects delayed",
-        "Estimated cost of projects: ₹ 500 crores",
-        "What this means for you: Potential impact on school admissions"
+        "The power cuts will be implemented to conserve electricity during peak hours",
+        "The power department has announced that the cuts will be implemented from October 15",
+        "Residents will have to endure power cuts for 3 hours every day"
       ],
-      "source": "The Hindu",
+      "source": "The Telegraph",
       "status": "CONFIRMED",
       "impact_score": 4
     }
