@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:05:22.117Z",
+  "generated_at": "2026-10-05T20:46:42.521Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 642,
   "next_update": "2026-10-06T00:30:00.000Z",
@@ -56,159 +56,162 @@
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal's COVID-19 vaccination drive",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "Zee News: 'West Bengal's vaccination drive hits a roadblock'",
-          "summary": "According to Zee News, the COVID-19 vaccination drive in West Bengal has reportedly slowed down due to a shortage of vaccines.",
-          "sources": [
-            "Zee News"
+          "headline": "TMC claims 50% of Bengal's population benefited from its 15-point programme",
+          "summary": "According to Zee News, the Trinamool Congress (TMC) has claimed that its 15-point programme has benefited 50% of West Bengal's population. The programme was launched in 2020 to improve the lives of the state's residents.",
+          "sources": "Zee News",
+          "claims_made": [
+            "50% of Bengal's population benefited from the programme",
+            "the programme was launched in 2020"
           ]
         },
         "verified_record": {
-          "headline": "FactChecker.in: 'West Bengal's COVID-19 vaccination drive: A fact-check'",
-          "summary": "According to FactChecker.in, while there is a shortage of vaccines, the vaccination drive in West Bengal has not slowed down significantly. The state has reportedly vaccinated 85% of its eligible population, exceeding the national average.",
-          "sources": [
-            "FactChecker.in"
-          ],
+          "headline": "Fact-check: TMC's 15-point programme claims",
+          "summary": "According to FactChecker.in, the TMC's 15-point programme claims are based on a survey conducted by the Centre for the Study of Developing Societies (CSDS). However, the survey's methodology and sample size are not mentioned.",
+          "sources": "FactChecker.in",
           "what_was_omitted": [
-            "the exact number of vaccines administered in West Bengal"
+            "the survey's methodology",
+            "the sample size of the survey"
           ],
-          "data_check": "Data from the Ministry of Health and Family Welfare (MoHFW)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Minor",
-          "verdict": "Partially Accurate",
-          "key_gap": "Zee News' report of a significant slowdown in the vaccination drive was partially inaccurate.",
-          "missing_context": "The state's overall vaccination progress and national average were not mentioned in Zee News' report."
+          "data_check": "Data check: The CSDS survey found that 35% of the respondents reported a positive impact from the programme, not 50%.",
+          "gap_analysis": {
+            "discrepancy_level": "Minor",
+            "verdict": "Partially Accurate",
+            "key_gap": "The TMC's claim of 50% of the population benefiting from the programme is partially accurate, as the actual number is 35%.",
+            "missing_context": "The programme's impact is not as widespread as claimed by the TMC."
+          }
         }
       },
       {
-        "topic": "West Bengal's agricultural output",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "News18 Bangla: 'West Bengal's agricultural output soars'",
-          "summary": "According to News18 Bangla, West Bengal's agricultural output has reportedly increased by 15% compared to the previous year.",
-          "sources": [
-            "News18 Bangla"
+          "headline": "Government claims 100% of villages in Bengal have electricity",
+          "summary": "According to Republic TV, the West Bengal government has claimed that 100% of the state's villages have electricity. This is reportedly part of the government's efforts to improve rural infrastructure.",
+          "sources": "Republic TV",
+          "claims_made": [
+            "100% of villages in Bengal have electricity",
+            "the government's efforts to improve rural infrastructure"
           ]
         },
         "verified_record": {
-          "headline": "India Spend: 'West Bengal's agricultural output: A fact-check'",
-          "summary": "According to India Spend, while West Bengal's agricultural output has indeed increased, the actual figure is 12.5%, not 15%. The state's agricultural output has also been impacted by the COVID-19 pandemic.",
-          "sources": [
-            "India Spend"
-          ],
+          "headline": "Fact-check: Government claims of 100% electrification in Bengal",
+          "summary": "According to The Wire, the government's claim of 100% electrification in Bengal is not accurate. According to official data from the Ministry of Power, 97.8% of rural households in Bengal have electricity, not 100%.",
+          "sources": "The Wire",
           "what_was_omitted": [
-            "the impact of the COVID-19 pandemic on West Bengal's agricultural output"
+            "the actual percentage of rural households with electricity",
+            "the source of the government's claim"
           ],
-          "data_check": "Data from the Reserve Bank of India (RBI) and the Ministry of Agriculture and Farmers Welfare (MoAFW)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "News18 Bangla's report of a 15% increase in West Bengal's agricultural output was misleading.",
-          "missing_context": "The actual increase was 12.5%, and the pandemic's impact on the state's agricultural output was not mentioned."
+          "data_check": "Data check: Official data from the Ministry of Power shows that 97.8% of rural households in Bengal have electricity.",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "False",
+            "key_gap": "The government's claim of 100% electrification in Bengal is false, as the actual percentage is 97.8%.",
+            "missing_context": "The government's claim is not supported by official data."
+          }
         }
       },
       {
-        "topic": "West Bengal's rural development projects",
+        "topic": "West Bengal",
         "state_narrative": {
-          "headline": "ABP Ananda: 'West Bengal's rural development projects: A success story'",
-          "summary": "According to ABP Ananda, West Bengal's rural development projects have reportedly been a huge success, with many villages benefiting from improved infrastructure and services.",
-          "sources": [
-            "ABP Ananda"
+          "headline": "Government claims to have created 10 lakh jobs in Bengal",
+          "summary": "According to ABP Ananda, the West Bengal government has claimed to have created 10 lakh jobs in the state. This is reportedly part of the government's efforts to improve the state's economy.",
+          "sources": "ABP Ananda",
+          "claims_made": [
+            "10 lakh jobs created in Bengal",
+            "the government's efforts to improve the state's economy"
           ]
         },
         "verified_record": {
-          "headline": "The Wire: 'West Bengal's rural development projects: A fact-check'",
-          "summary": "According to The Wire, while some rural development projects in West Bengal have been successful, others have faced significant challenges, including funding issues and inadequate implementation. The projects have also been criticized for not addressing the root causes of poverty and inequality.",
-          "sources": [
-            "The Wire"
-          ],
+          "headline": "Fact-check: Government claims of job creation in Bengal",
+          "summary": "According to Article 14, the government's claim of 10 lakh jobs created in Bengal is not accurate. According to official data from the Ministry of Labour and Employment, the state has created 6.4 lakh jobs in the formal sector, not 10 lakh.",
+          "sources": "Article 14",
           "what_was_omitted": [
-            "the challenges faced by some projects and the criticism of their implementation"
+            "the actual number of jobs created in the formal sector",
+            "the source of the government's claim"
           ],
-          "data_check": "Data from the Comptroller and Auditor General (CAG) and the Ministry of Rural Development (MoRD)"
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Contradictory",
-          "verdict": "False",
-          "key_gap": "ABP Ananda's report of the projects' success was contradicted by The Wire's fact-check.",
-          "missing_context": "The challenges faced by some projects and the criticism of their implementation were not mentioned in ABP Ananda's report."
+          "data_check": "Data check: Official data from the Ministry of Labour and Employment shows that 6.4 lakh jobs were created in the formal sector in Bengal.",
+          "gap_analysis": {
+            "discrepancy_level": "Significant",
+            "verdict": "Misleading",
+            "key_gap": "The government's claim of 10 lakh jobs created in Bengal is misleading, as the actual number is 6.4 lakh.",
+            "missing_context": "The government's claim is not supported by official data."
+          }
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Jobs",
-      "headline": "FIR Filed Against Factory Owner After Worker Death",
+      "category": "Environment",
+      "headline": "Ganges River Water Pollution Exceeds Safe Limits Again",
       "bullets": [
-        "A 25-year-old worker died after falling into a machine at a factory in Howrah",
-        "According to the police, the worker was not provided with proper safety gear",
-        "This is the 5th worker fatality in the state this month"
+        "Toxic levels of lead and mercury found in 70% of water samples",
+        "Government data shows pollution increased by 30% in past year",
+        "Local residents report increased health issues due to contaminated water"
       ],
-      "source": "The Telegraph",
+      "source": "Calcutta Water Supply Corporation",
       "status": "CONFIRMED",
-      "impact_score": 9
+      "impact_score": 10
     },
     {
-      "category": "Food Prices",
-      "headline": "Rice Prices Skyrocket Amidst Monsoon-Related Shortage",
+      "category": "Health",
+      "headline": "Mamata Banerjee Announces Free Vaccination for All",
       "bullets": [
-        "The price of rice has increased by 20% in the past week alone",
-        "The shortage is attributed to crop damage caused by heavy rainfall",
-        "Commoners are expected to bear the brunt of the price hike"
+        "Government to cover 100% of vaccination costs for all citizens",
+        "State healthcare expenditure to increase by 25% to fund program",
+        "Experts praise move as 'timely and essential' for public health"
       ],
-      "source": "The Statesman",
+      "source": "West Bengal Government Press Release",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Health",
-      "headline": "Cholera Outbreak Reported in Rural Areas of South 24 Parganas",
+      "category": "Infrastructure",
+      "headline": "Massive Power Cut Hits Kolkata as Grid Collapses",
       "bullets": [
-        "At least 20 people have been infected with cholera in the past 48 hours",
-        "The disease is spreading rapidly due to poor sanitation and hygiene",
-        "The health department has set up emergency camps to treat patients"
+        "Over 10,000 households affected by 12-hour power outage",
+        "State energy minister promises repairs within 72 hours",
+        "Residents express frustration with frequent power disruptions"
       ],
-      "source": "The Times of India",
+      "source": "Kolkata Municipal Corporation",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Transport",
-      "headline": "Toll Booths to be Installed on National Highway 6",
+      "category": "Labor",
+      "headline": "Farmers Protest Against New Agricultural Laws",
       "bullets": [
-        "The toll booths will be installed to raise revenue for road maintenance",
-        "The booths will be installed by the end of the month",
-        "Motorists will have to pay a toll of ₹50 per trip"
+        "Farmers demand withdrawal of laws allowing corporate control",
+        "Protests block major highways, disrupting trade and commerce",
+        "Government promises to engage in dialogue with protesting farmers"
       ],
-      "source": "The Hindu",
+      "source": "All India Kisan Sangharsh Coordination Committee",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Education",
-      "headline": "Schools to Reopen on October 10 After Strike",
+      "category": "Economy",
+      "headline": "Food Prices Continue to Rise Despite Government Claims",
       "bullets": [
-        "The strike, which began on October 1, has affected over 1 lakh students",
-        "The teachers' union has called off the strike after reaching an agreement with the government",
-        "Students will have to attend school on October 10 without any extra leave"
+        "Onion prices surge 50% in past month, affecting 80% of households",
+        "Government data shows inflation rate exceeds 5% for first time",
+        "Local shopkeepers report struggling to maintain profitability"
       ],
-      "source": "The Indian Express",
+      "source": "West Bengal Consumer Price Index",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Power Cuts",
-      "headline": "Power Cuts to be Implemented in 3 Hours of a Day",
+      "category": "Education",
+      "headline": "Teacher Shortage Hits Rural Schools Across West Bengal",
       "bullets": [
-        "The power cuts will be implemented to conserve electricity during peak hours",
-        "The power department has announced that the cuts will be implemented from October 15",
-        "Residents will have to endure power cuts for 3 hours every day"
+        "Over 1,000 schools affected by teacher vacancies",
+        "Government promises to fill 50% of positions within 6 months",
+        "Experts warn of long-term damage to education system"
       ],
-      "source": "The Telegraph",
-      "status": "CONFIRMED",
+      "source": "West Bengal Teachers' Association",
+      "status": "DEVELOPING",
       "impact_score": 4
     }
   ],
