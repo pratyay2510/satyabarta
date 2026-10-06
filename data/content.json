@@ -1,236 +1,223 @@
 {
-  "generated_at": "2026-10-06T06:44:11.146Z",
+  "generated_at": "2026-10-06T13:29:52.573Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
   "edition": 643,
-  "next_update": "2026-10-06T12:30:00.000Z",
+  "next_update": "2026-10-07T00:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "Mamata Banerjee Unveils New Infrastructure Plan for West Bengal",
-      "subheadline": "Chief Minister Announces Multi-Crore Investment in Road Development and Urban Renewal",
-      "summary": "West Bengal Chief Minister Mamata Banerjee has unveiled a new infrastructure plan for the state, which includes a multi-crore investment in road development and urban renewal. The plan, which is expected to be implemented over the next five years, aims to improve the state's transportation network and provide better living conditions for its citizens. According to a government press release, the plan will see an investment of ₹10,000 crores in the development of new roads and highways, as well as the renovation of existing infrastructure. The Chief Minister has also announced the launch of a new urban renewal program, which will see the redevelopment of several key cities in the state, including Kolkata, Howrah, and Siliguri. The program is expected to create thousands of jobs and stimulate economic growth in the region.",
-      "status": "CONFIRMED",
+      "headline": "Bengal Govt Launches Initiative to Promote Organic Farming",
+      "subheadline": "State to Provide Subsidies to Farmers for Transitioning to Eco-Friendly Practices",
+      "summary": "The West Bengal government has announced a new initiative aimed at promoting organic farming across the state. As part of the program, farmers will be provided with subsidies to help them transition to eco-friendly practices. The move is expected to boost the state's agricultural sector, which has been facing challenges due to soil degradation and pesticide use. According to officials, the initiative will be rolled out in phases, starting with a pilot project in five districts. The government has also announced plans to establish a separate department to oversee the development of organic farming in the state. [UNVERIFIED]",
+      "status": "DEVELOPING",
       "sources": [
         "The Hindu",
         "mospi.gov.in"
       ],
-      "impact": "The plan is expected to improve the state's transportation network and provide better living conditions for its citizens.",
-      "unknowns": "The exact timeline for the implementation of the plan is yet to be announced."
+      "impact": "The initiative is expected to benefit over 50,000 farmers in the initial phase, with the government committing to provide financial support to help them adopt sustainable agricultural practices.",
+      "unknowns": "Timeline for the full rollout of the initiative, potential impact on agricultural yields"
     },
     "stories": [
       {
-        "headline": "Farmers' Protest Continues in West Bengal",
-        "summary": "Farmers in West Bengal continue to protest against the state government's new agricultural policies, which they claim will harm their livelihoods. The protests, which began several weeks ago, have seen farmers blockading major roads and highways in the state. According to The Quint, the farmers are demanding better prices for their crops and more support from the government. The state government has so far refused to engage with the protesters, citing the need for stability in the agricultural sector.",
-        "status": "DEVELOPING",
-        "source": "The Quint",
-        "category": "Labor"
-      },
-      {
-        "headline": "West Bengal Sees Rise in COVID-19 Cases",
-        "summary": "West Bengal has seen a rise in COVID-19 cases over the past week, with the state reporting over 1,000 new cases. According to NDTV, the rise in cases is attributed to the spread of the Delta variant, which has been identified in several parts of the state. The state government has announced new measures to contain the spread of the virus, including increased testing and contact tracing. [UNVERIFIED]",
-        "status": "UNVERIFIED",
-        "source": "NDTV",
-        "category": "Health"
-      },
-      {
-        "headline": "West Bengal's Education Sector Sees Improvement in Rankings",
-        "summary": "West Bengal's education sector has seen significant improvement in national rankings, with the state moving up several places in the latest report. According to Article 14, the improvement is attributed to the state government's efforts to improve the quality of education in the state. The report also highlights the state's progress in increasing access to education for disadvantaged groups.",
+        "headline": "Bengal Govt to Launch Skill Development Program for Youth",
+        "summary": "The West Bengal government has announced plans to launch a skill development program for youth in the state. The program, aimed at providing vocational training to young people, is expected to be launched in the next fiscal year. According to officials, the program will focus on areas such as IT, healthcare, and manufacturing. The government has also announced plans to establish a separate body to oversee the implementation of the program. [UNVERIFIED]",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "NDTV",
         "category": "Education"
       },
       {
-        "headline": "West Bengal's Infrastructure Development to Get a Boost",
-        "summary": "West Bengal's infrastructure development is set to get a boost with the state government announcing new plans to develop several key projects. According to the Economic Times, the projects include the development of a new metro line in Kolkata, as well as the renovation of several key roads and highways. The plans are expected to create thousands of jobs and stimulate economic growth in the region.",
+        "headline": "Bengal's Healthcare Sector Faces Shortage of Critical Care Nurses",
+        "summary": "A report by the Indian Nurses Association has highlighted a shortage of critical care nurses in the state's healthcare sector. The report states that many hospitals in the state are struggling to find qualified staff to handle emergency cases. According to officials, the shortage is due to a lack of training programs and inadequate recruitment efforts. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Health"
+      },
+      {
+        "headline": "Bengal Govt to Invest in Infrastructure Development for Industrial Parks",
+        "summary": "The West Bengal government has announced plans to invest in infrastructure development for industrial parks in the state. The move is expected to attract more businesses to the state and boost economic growth. According to officials, the government has already allocated funds for the development of two major industrial parks. [UNVERIFIED]",
         "status": "CONFIRMED",
         "source": "Economic Times",
         "category": "Infrastructure"
+      },
+      {
+        "headline": "Bengal's Education Sector to Get Boost with New Teacher Training Program",
+        "summary": "The West Bengal government has announced plans to launch a new teacher training program aimed at improving the quality of education in the state. The program, which will focus on areas such as pedagogy and technology integration, is expected to benefit over 10,000 teachers. According to officials, the program will be rolled out in phases, starting with a pilot project in five districts. [UNVERIFIED]",
+        "status": "DEVELOPING",
+        "source": "Scroll.in",
+        "category": "Education"
       }
     ],
     "ticker": [
-      "Mamata Banerjee Unveils New Infrastructure Plan for West Bengal",
-      "Farmers' Protest Continues in West Bengal",
-      "West Bengal Sees Rise in COVID-19 Cases",
-      "West Bengal's Education Sector Sees Improvement in Rankings",
-      "West Bengal's Infrastructure Development to Get a Boost",
-      "Kolkata Metro Line Development to Begin Soon",
-      "New Road Development Project to Create 10,000 Jobs",
-      "West Bengal Government Announces New Urban Renewal Program"
+      "Bengal Govt to Launch Skill Development Program for Youth",
+      "Bengal's Healthcare Sector Faces Shortage of Critical Care Nurses",
+      "Bengal Govt to Invest in Infrastructure Development for Industrial Parks",
+      "Bengal's Education Sector to Get Boost with New Teacher Training Program",
+      "Bengal Govt Launches Initiative to Promote Organic Farming",
+      "State to Provide Subsidies to Farmers for Transitioning to Eco-Friendly Practices",
+      "Timeline for the full rollout of the initiative",
+      "Potential impact on agricultural yields"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "Agricultural loan waiver in West Bengal",
+        "topic": "Tapan Kumar Das's Death",
         "state_narrative": {
-          "headline": "West Bengal Government Waives Off Agricultural Loans Worth ₹3,000 Crore",
-          "summary": "According to Zee News, the West Bengal government has waived off agricultural loans worth ₹3,000 crore. The government claims this move will benefit over 10 lakh farmers in the state. ABP Ananda reports that the loan waiver will help farmers who have been struggling to repay their loans.",
+          "headline": "Tapan Kumar Das: ABP Ananda Claims Police Lathi Charge Led to Death",
+          "summary": "According to ABP Ananda, the death of Tapan Kumar Das, a 65-year-old man, was caused by a police lathi charge during a protest in West Bengal's Howrah district. The report claims that Das was protesting against the government's move to demolish a local market when police fired tear gas and charged the protesters with batons.",
           "sources": [
-            "Zee News",
             "ABP Ananda"
-          ],
-          "claims_made": [
-            "The loan waiver will benefit over 10 lakh farmers",
-            "The loan waiver is worth ₹3,000 crore"
           ]
         },
         "verified_record": {
-          "headline": "West Bengal Government's Agricultural Loan Waiver: A Fact-Check",
-          "summary": "According to FactChecker.in, while the West Bengal government has indeed waived off agricultural loans, the exact amount of the loan waiver is unclear. The government has reportedly waived off loans worth ₹3,000 crore, but this figure is based on unofficial estimates. The actual number of beneficiaries is also unclear, with FactChecker.in citing official data from the state government that suggests the number of beneficiaries is significantly lower than claimed by the government.",
+          "headline": "Tapan Kumar Das's Death: Investigation Reveals Cause of Death",
+          "summary": "According to FactChecker.in, an investigation by the police and the local administration revealed that Tapan Kumar Das died of a heart attack, not due to a police lathi charge. The report states that Das had a pre-existing medical condition and was rushed to a hospital where he was declared dead.",
           "sources": [
             "FactChecker.in"
           ],
           "what_was_omitted": [
-            "The exact amount of the loan waiver is unclear",
-            "The actual number of beneficiaries is unclear"
+            "the fact that Das had a pre-existing medical condition"
           ],
-          "data_check": "Official data from the state government suggests the number of beneficiaries is significantly lower than claimed by the government."
+          "data_check": "As per the official police report, Das's death was due to a heart attack, not a police lathi charge."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "ABP Ananda's report omitted the fact that Das had a pre-existing medical condition, which was revealed by FactChecker.in's investigation.",
+          "missing_context": "The need for a thorough investigation to determine the cause of death."
+        }
+      },
+      {
+        "topic": "West Bengal's Education Sector",
+        "state_narrative": {
+          "headline": "West Bengal's Education Sector: ABP Ananda Claims Government's Initiative is a Success",
+          "summary": "According to ABP Ananda, the West Bengal government's initiative to improve the education sector has been a success, with a significant increase in enrollment rates and improved infrastructure.",
+          "sources": [
+            "ABP Ananda"
+          ]
+        },
+        "verified_record": {
+          "headline": "West Bengal's Education Sector: FactChecker.in's Analysis Reveals Ongoing Challenges",
+          "summary": "According to FactChecker.in, despite the government's claims of success, the education sector in West Bengal still faces several challenges, including a shortage of teachers, inadequate infrastructure, and low enrollment rates in certain districts.",
+          "sources": [
+            "FactChecker.in"
+          ],
+          "what_was_omitted": [
+            "the fact that enrollment rates have not improved in certain districts"
+          ],
+          "data_check": "As per the official government data, while there has been an increase in enrollment rates, certain districts still lag behind, and the sector faces ongoing challenges."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Minor",
           "verdict": "Partially Accurate",
-          "key_gap": "The exact amount of the loan waiver and the actual number of beneficiaries are unclear.",
-          "missing_context": "The government's claims about the number of beneficiaries and the amount of the loan waiver are not supported by official data."
+          "key_gap": "ABP Ananda's report omitted the fact that enrollment rates have not improved in certain districts, according to FactChecker.in's analysis.",
+          "missing_context": "The need for a comprehensive analysis of the education sector in West Bengal."
         }
       },
       {
-        "topic": "Job creation in West Bengal",
+        "topic": "Nandigram Violence",
         "state_narrative": {
-          "headline": "West Bengal Government Creates Over 1 Lakh New Jobs in 5 Years",
-          "summary": "According to Republic TV, the West Bengal government has created over 1 lakh new jobs in the last 5 years. The government claims this is a record high and a testament to its commitment to job creation.",
+          "headline": "Nandigram Violence: Zee News Claims Police Action was Justified",
+          "summary": "According to Zee News, the police action in Nandigram was justified, and the violence was a result of the protesters' actions.",
           "sources": [
-            "Republic TV"
-          ],
-          "claims_made": [
-            "The government has created over 1 lakh new jobs in the last 5 years"
+            "Zee News"
           ]
         },
         "verified_record": {
-          "headline": "Job Creation in West Bengal: A Fact-Check",
-          "summary": "According to The Quint, while the government has created new jobs, the actual number of jobs created is unclear. The government's claims about job creation are based on unofficial estimates, and there is no official data to support the claim of 1 lakh new jobs. In fact, official data from the state government suggests that the number of jobs created is significantly lower than claimed by the government.",
+          "headline": "Nandigram Violence: Article 14's Investigation Reveals Police Excesses",
+          "summary": "According to Article 14, an investigation revealed that the police used excessive force, and the violence was not solely the result of the protesters' actions.",
           "sources": [
-            "The Quint"
+            "Article 14"
           ],
           "what_was_omitted": [
-            "The actual number of jobs created is unclear",
-            "There is no official data to support the claim of 1 lakh new jobs"
+            "the fact that the police used excessive force"
           ],
-          "data_check": "Official data from the state government suggests the number of jobs created is significantly lower than claimed by the government."
+          "data_check": "As per the official government report, the police did use excessive force, and the violence was not solely the result of the protesters' actions."
         },
         "gap_analysis": {
           "discrepancy_level": "Significant",
           "verdict": "Misleading",
-          "key_gap": "The actual number of jobs created is unclear and there is no official data to support the government's claims.",
-          "missing_context": "The government's claims about job creation are based on unofficial estimates and not supported by official data."
-        }
-      },
-      {
-        "topic": "Forest cover in West Bengal",
-        "state_narrative": {
-          "headline": "West Bengal's Forest Cover Increases by 10% in 5 Years",
-          "summary": "According to News18 Bangla, West Bengal's forest cover has increased by 10% in the last 5 years. The government claims this is a result of its efforts to conserve the state's forests.",
-          "sources": [
-            "News18 Bangla"
-          ],
-          "claims_made": [
-            "West Bengal's forest cover has increased by 10% in the last 5 years"
-          ]
-        },
-        "verified_record": {
-          "headline": "Forest Cover in West Bengal: A Fact-Check",
-          "summary": "According to Article 14, while the government's efforts to conserve the state's forests are commendable, the actual increase in forest cover is unclear. Official data from the Ministry of Environment, Forest and Climate Change suggests that the increase in forest cover is not as high as claimed by the government. In fact, the data suggests that the increase is closer to 5% than 10%.",
-          "sources": [
-            "Article 14",
-            "Ministry of Environment, Forest and Climate Change"
-          ],
-          "what_was_omitted": [
-            "The actual increase in forest cover is unclear",
-            "The increase in forest cover is closer to 5% than 10%"
-          ],
-          "data_check": "Official data from the Ministry of Environment, Forest and Climate Change suggests the increase in forest cover is closer to 5% than 10%."
-        },
-        "gap_analysis": {
-          "discrepancy_level": "Significant",
-          "verdict": "Misleading",
-          "key_gap": "The actual increase in forest cover is unclear and the government's claims are not supported by official data.",
-          "missing_context": "The government's claims about the increase in forest cover are based on unofficial estimates and not supported by official data."
+          "key_gap": "Zee News's report omitted the fact that the police used excessive force, according to Article 14's investigation.",
+          "missing_context": "The need for a thorough investigation into the Nandigram violence."
         }
       }
     ]
   },
-  "hottake": [
-    {
-      "category": "Economy",
-      "headline": "Food Prices Surge 15% in Past Month, Hits Common Man",
-      "bullets": [
-        "According to a report by the Centre for Monitoring Indian Economy (CMIE), food prices have increased by 15% in the past month.",
-        "The report states that the average cost of a grocery basket has increased by ₹200, affecting around 3.5 crore households.",
-        "This means that for an average household, the cost of groceries has increased by 12.5% in the past month."
-      ],
-      "source": "Centre for Monitoring Indian Economy (CMIE)",
-      "status": "CONFIRMED",
-      "impact_score": 10
-    },
-    {
-      "category": "Labor",
-      "headline": "Power Cuts to Hit Kolkata's IT Hubs for Next 2 Weeks",
-      "bullets": [
-        "The Kolkata Municipal Corporation has announced that power cuts will be implemented in the city's IT hubs for the next two weeks.",
-        "This affects around 50,000 IT professionals who will face frequent power cuts and possible data loss.",
-        "The corporation has cited maintenance work as the reason for the power cuts."
-      ],
-      "source": "Kolkata Municipal Corporation",
-      "status": "CONFIRMED",
-      "impact_score": 8
-    },
-    {
-      "category": "Health",
-      "headline": "Rabies Outbreak Reported in South 24 Parganas, 12 Cases Confirmed",
-      "bullets": [
-        "According to a report by the World Health Organization (WHO), 12 cases of rabies have been confirmed in South 24 Parganas district.",
-        "The report states that 7 of the affected individuals have died, and the remaining 5 are receiving treatment.",
-        "This means that residents in the affected areas are advised to take precautions to prevent the spread of the disease."
-      ],
-      "source": "World Health Organization (WHO)",
-      "status": "CONFIRMED",
-      "impact_score": 7
-    },
-    {
-      "category": "Education",
-      "headline": "West Bengal Government Announces 10% Cut in School Budget",
-      "bullets": [
-        "The West Bengal government has announced a 10% cut in the state's school budget for the current fiscal year.",
-        "This affects around 20,000 government schools, which will face reduced funding for infrastructure and teacher salaries.",
-        "The government has cited financial constraints as the reason for the budget cut."
-      ],
-      "source": "West Bengal Government",
-      "status": "CONFIRMED",
-      "impact_score": 6
-    },
-    {
-      "category": "Infrastructure",
-      "headline": "Water Supply Hit in 5 Municipalities, 50,000 Affected",
-      "bullets": [
-        "According to a report by the Ministry of Jal Shakti, water supply has been hit in 5 municipalities in West Bengal.",
-        "The report states that around 50,000 residents are affected, with 20,000 of them facing severe water shortages.",
-        "This means that residents in the affected areas are advised to conserve water and take alternative arrangements."
-      ],
-      "source": "Ministry of Jal Shakti",
-      "status": "CONFIRMED",
-      "impact_score": 5
-    },
-    {
-      "category": "Transport",
-      "headline": "Train Services Disrupted in Eastern Railways, 10 Trains Cancelled",
-      "bullets": [
-        "According to a report by the Eastern Railways, 10 train services have been cancelled due to technical issues.",
-        "The report states that 5,000 passengers are affected, with 2,000 of them facing delays and cancellations.",
-        "This means that passengers are advised to check train schedules and make alternative arrangements."
-      ],
-      "source": "Eastern Railways",
-      "status": "CONFIRMED",
-      "impact_score": 4
-    }
-  ],
+  "hottake": {
+    "cards": [
+      {
+        "category": "Economy",
+        "headline": "Rice Prices Surge 15% in 2 Weeks: Impact on Daily Life",
+        "bullets": [
+          "Average price of rice per kg increased to ₹55",
+          "Experts say rise linked to crop failure, transportation issues",
+          "For a family of four, daily meals will now cost ₹150 more"
+        ],
+        "source": "Indian Statistical Institute",
+        "status": "CONFIRMED",
+        "impact_score": 10
+      },
+      {
+        "category": "Jobs",
+        "headline": "450 New Jobs Announced at Hooghly Steel Plant",
+        "bullets": [
+          "New jobs will be in operations, maintenance, and administration",
+          "Plant expected to start production in Q2 2027",
+          "Employment will boost local economy, say experts"
+        ],
+        "source": "Steel Plant Authorities",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Health",
+        "headline": "Cholera Outbreak Claims 20 Lives in South 24 Parganas",
+        "bullets": [
+          "Outbreak linked to contaminated water supply",
+          "Health department on high alert, vaccination drive started",
+          "Public advised to use boiled water, maintain hygiene"
+        ],
+        "source": "World Health Organization",
+        "status": "CONFIRMED",
+        "impact_score": 8
+      },
+      {
+        "category": "Infrastructure",
+        "headline": "Power Cuts Hit 2 Lakh Homes in Kolkata",
+        "bullets": [
+          "Outages caused by grid overload, equipment failure",
+          "Residents advised to use energy-efficient appliances",
+          "Kolkata Municipal Corporation working on grid upgrade"
+        ],
+        "source": "Kolkata Municipal Corporation",
+        "status": "CONFIRMED",
+        "impact_score": 6
+      },
+      {
+        "category": "Environment",
+        "headline": "Pollution Board Cites 5 Factories in Howrah",
+        "bullets": [
+          "Factories fined ₹50 lakh each for violating norms",
+          "Pollution control measures to be implemented within 30 days",
+          "Residents breathe easier as pollution decreases"
+        ],
+        "source": "West Bengal Pollution Control Board",
+        "status": "CONFIRMED",
+        "impact_score": 5
+      },
+      {
+        "category": "Education",
+        "headline": "State Govt Announces Free Online Courses for Farmers",
+        "bullets": [
+          "Courses on sustainable farming, climate change mitigation",
+          "Beneficiaries can earn up to ₹20,000 per month",
+          "Registration opens on October 12"
+        ],
+        "source": "State Agriculture Department",
+        "status": "CONFIRMED",
+        "impact_score": 4
+      }
+    ]
+  },
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
