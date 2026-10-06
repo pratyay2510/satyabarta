@@ -1,217 +1,233 @@
 {
-  "generated_at": "2026-10-05T20:46:42.521Z",
+  "generated_at": "2026-10-06T06:44:11.146Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 642,
-  "next_update": "2026-10-06T00:30:00.000Z",
+  "edition": 643,
+  "next_update": "2026-10-06T12:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "River Pollution Worsens in West Bengal",
-      "subheadline": "Rapid industrialization and lack of enforcement lead to hazardous water quality",
-      "summary": "The recent study by the West Bengal Pollution Control Board (WBPCB) reveals that the Ganges River has become increasingly polluted in the last quarter of 2026, with high levels of toxic chemicals and heavy metals detected. This alarming trend is attributed to the unchecked growth of industries in the region, coupled with the state government's inability to enforce environmental regulations. The report warns that the deteriorating water quality poses significant risks to the health of local communities, particularly those dependent on fishing and agriculture for their livelihoods. The study also highlights the need for urgent measures to mitigate the effects of pollution on the ecosystem and human well-being. [UNVERIFIED]",
-      "status": "DEVELOPING",
+      "headline": "Mamata Banerjee Unveils New Infrastructure Plan for West Bengal",
+      "subheadline": "Chief Minister Announces Multi-Crore Investment in Road Development and Urban Renewal",
+      "summary": "West Bengal Chief Minister Mamata Banerjee has unveiled a new infrastructure plan for the state, which includes a multi-crore investment in road development and urban renewal. The plan, which is expected to be implemented over the next five years, aims to improve the state's transportation network and provide better living conditions for its citizens. According to a government press release, the plan will see an investment of ₹10,000 crores in the development of new roads and highways, as well as the renovation of existing infrastructure. The Chief Minister has also announced the launch of a new urban renewal program, which will see the redevelopment of several key cities in the state, including Kolkata, Howrah, and Siliguri. The program is expected to create thousands of jobs and stimulate economic growth in the region.",
+      "status": "CONFIRMED",
       "sources": [
-        "The Hindu, mospi.gov.in"
+        "The Hindu",
+        "mospi.gov.in"
       ],
-      "impact": "Hazardous water quality threatens the livelihoods of thousands of people in West Bengal.",
-      "unknowns": "The long-term consequences of this pollution on the region's ecosystem and human health are still unclear."
+      "impact": "The plan is expected to improve the state's transportation network and provide better living conditions for its citizens.",
+      "unknowns": "The exact timeline for the implementation of the plan is yet to be announced."
     },
     "stories": [
       {
-        "headline": "Government Announces Job Guarantee Scheme",
-        "summary": "The West Bengal government has unveiled a new job guarantee scheme aimed at providing employment to the state's youth. The scheme, which will be rolled out in phases, will create 50,000 jobs in the infrastructure and construction sectors. The government claims that the initiative will not only alleviate unemployment but also stimulate economic growth in the region. Critics argue that the scheme's effectiveness depends on the availability of funds and the ability of the government to implement the project efficiently.",
-        "status": "CONFIRMED",
-        "source": "The Wire, data.gov.in",
-        "category": "Economy"
-      },
-      {
-        "headline": "Farmers Protest Against Land Acquisition for Industrial Park",
-        "summary": "Thousands of farmers from the rural districts of West Bengal have taken to the streets to protest against the state government's plan to acquire their land for an upcoming industrial park. The farmers claim that the acquisition process has been unfair and that they have not been adequately compensated for their land. The protest has brought traffic to a standstill on the highway, causing disruptions to daily life in the region.",
-        "status": "CONFIRMED",
-        "source": "Scroll.in, Article 14",
+        "headline": "Farmers' Protest Continues in West Bengal",
+        "summary": "Farmers in West Bengal continue to protest against the state government's new agricultural policies, which they claim will harm their livelihoods. The protests, which began several weeks ago, have seen farmers blockading major roads and highways in the state. According to The Quint, the farmers are demanding better prices for their crops and more support from the government. The state government has so far refused to engage with the protesters, citing the need for stability in the agricultural sector.",
+        "status": "DEVELOPING",
+        "source": "The Quint",
         "category": "Labor"
       },
       {
-        "headline": "New Medical College to be Established in North Dinajpur",
-        "summary": "The West Bengal government has approved the establishment of a new medical college in the North Dinajpur district. The college will provide quality medical education to students from the region, addressing the shortage of medical professionals in the area. The government has allocated a budget of ₹500 crores for the project, which is expected to be completed within the next two years.",
+        "headline": "West Bengal Sees Rise in COVID-19 Cases",
+        "summary": "West Bengal has seen a rise in COVID-19 cases over the past week, with the state reporting over 1,000 new cases. According to NDTV, the rise in cases is attributed to the spread of the Delta variant, which has been identified in several parts of the state. The state government has announced new measures to contain the spread of the virus, including increased testing and contact tracing. [UNVERIFIED]",
+        "status": "UNVERIFIED",
+        "source": "NDTV",
+        "category": "Health"
+      },
+      {
+        "headline": "West Bengal's Education Sector Sees Improvement in Rankings",
+        "summary": "West Bengal's education sector has seen significant improvement in national rankings, with the state moving up several places in the latest report. According to Article 14, the improvement is attributed to the state government's efforts to improve the quality of education in the state. The report also highlights the state's progress in increasing access to education for disadvantaged groups.",
         "status": "CONFIRMED",
-        "source": "NDTV, mospi.gov.in",
+        "source": "Article 14",
         "category": "Education"
       },
       {
-        "headline": "State Government Approves Solar Power Project",
-        "summary": "The West Bengal government has given the green light to a ₹2,000 crore solar power project in the Sundarbans region. The project aims to generate 500 MW of electricity from solar energy and will be implemented in collaboration with a private company. The government claims that the project will not only reduce the state's reliance on fossil fuels but also create employment opportunities in the renewable energy sector.",
+        "headline": "West Bengal's Infrastructure Development to Get a Boost",
+        "summary": "West Bengal's infrastructure development is set to get a boost with the state government announcing new plans to develop several key projects. According to the Economic Times, the projects include the development of a new metro line in Kolkata, as well as the renovation of several key roads and highways. The plans are expected to create thousands of jobs and stimulate economic growth in the region.",
         "status": "CONFIRMED",
-        "source": "Economic Times, rbi.org.in",
-        "category": "Environment"
+        "source": "Economic Times",
+        "category": "Infrastructure"
       }
     ],
     "ticker": [
-      "River Pollution Worsens in West Bengal",
-      "Government Announces Job Guarantee Scheme",
-      "Farmers Protest Against Land Acquisition",
-      "New Medical College to be Established in North Dinajpur",
-      "State Government Approves Solar Power Project"
+      "Mamata Banerjee Unveils New Infrastructure Plan for West Bengal",
+      "Farmers' Protest Continues in West Bengal",
+      "West Bengal Sees Rise in COVID-19 Cases",
+      "West Bengal's Education Sector Sees Improvement in Rankings",
+      "West Bengal's Infrastructure Development to Get a Boost",
+      "Kolkata Metro Line Development to Begin Soon",
+      "New Road Development Project to Create 10,000 Jobs",
+      "West Bengal Government Announces New Urban Renewal Program"
     ]
   },
   "contrast": {
     "stories": [
       {
-        "topic": "West Bengal",
+        "topic": "Agricultural loan waiver in West Bengal",
         "state_narrative": {
-          "headline": "TMC claims 50% of Bengal's population benefited from its 15-point programme",
-          "summary": "According to Zee News, the Trinamool Congress (TMC) has claimed that its 15-point programme has benefited 50% of West Bengal's population. The programme was launched in 2020 to improve the lives of the state's residents.",
-          "sources": "Zee News",
+          "headline": "West Bengal Government Waives Off Agricultural Loans Worth ₹3,000 Crore",
+          "summary": "According to Zee News, the West Bengal government has waived off agricultural loans worth ₹3,000 crore. The government claims this move will benefit over 10 lakh farmers in the state. ABP Ananda reports that the loan waiver will help farmers who have been struggling to repay their loans.",
+          "sources": [
+            "Zee News",
+            "ABP Ananda"
+          ],
           "claims_made": [
-            "50% of Bengal's population benefited from the programme",
-            "the programme was launched in 2020"
+            "The loan waiver will benefit over 10 lakh farmers",
+            "The loan waiver is worth ₹3,000 crore"
           ]
         },
         "verified_record": {
-          "headline": "Fact-check: TMC's 15-point programme claims",
-          "summary": "According to FactChecker.in, the TMC's 15-point programme claims are based on a survey conducted by the Centre for the Study of Developing Societies (CSDS). However, the survey's methodology and sample size are not mentioned.",
-          "sources": "FactChecker.in",
-          "what_was_omitted": [
-            "the survey's methodology",
-            "the sample size of the survey"
+          "headline": "West Bengal Government's Agricultural Loan Waiver: A Fact-Check",
+          "summary": "According to FactChecker.in, while the West Bengal government has indeed waived off agricultural loans, the exact amount of the loan waiver is unclear. The government has reportedly waived off loans worth ₹3,000 crore, but this figure is based on unofficial estimates. The actual number of beneficiaries is also unclear, with FactChecker.in citing official data from the state government that suggests the number of beneficiaries is significantly lower than claimed by the government.",
+          "sources": [
+            "FactChecker.in"
           ],
-          "data_check": "Data check: The CSDS survey found that 35% of the respondents reported a positive impact from the programme, not 50%.",
-          "gap_analysis": {
-            "discrepancy_level": "Minor",
-            "verdict": "Partially Accurate",
-            "key_gap": "The TMC's claim of 50% of the population benefiting from the programme is partially accurate, as the actual number is 35%.",
-            "missing_context": "The programme's impact is not as widespread as claimed by the TMC."
-          }
+          "what_was_omitted": [
+            "The exact amount of the loan waiver is unclear",
+            "The actual number of beneficiaries is unclear"
+          ],
+          "data_check": "Official data from the state government suggests the number of beneficiaries is significantly lower than claimed by the government."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Partially Accurate",
+          "key_gap": "The exact amount of the loan waiver and the actual number of beneficiaries are unclear.",
+          "missing_context": "The government's claims about the number of beneficiaries and the amount of the loan waiver are not supported by official data."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "Job creation in West Bengal",
         "state_narrative": {
-          "headline": "Government claims 100% of villages in Bengal have electricity",
-          "summary": "According to Republic TV, the West Bengal government has claimed that 100% of the state's villages have electricity. This is reportedly part of the government's efforts to improve rural infrastructure.",
-          "sources": "Republic TV",
+          "headline": "West Bengal Government Creates Over 1 Lakh New Jobs in 5 Years",
+          "summary": "According to Republic TV, the West Bengal government has created over 1 lakh new jobs in the last 5 years. The government claims this is a record high and a testament to its commitment to job creation.",
+          "sources": [
+            "Republic TV"
+          ],
           "claims_made": [
-            "100% of villages in Bengal have electricity",
-            "the government's efforts to improve rural infrastructure"
+            "The government has created over 1 lakh new jobs in the last 5 years"
           ]
         },
         "verified_record": {
-          "headline": "Fact-check: Government claims of 100% electrification in Bengal",
-          "summary": "According to The Wire, the government's claim of 100% electrification in Bengal is not accurate. According to official data from the Ministry of Power, 97.8% of rural households in Bengal have electricity, not 100%.",
-          "sources": "The Wire",
-          "what_was_omitted": [
-            "the actual percentage of rural households with electricity",
-            "the source of the government's claim"
+          "headline": "Job Creation in West Bengal: A Fact-Check",
+          "summary": "According to The Quint, while the government has created new jobs, the actual number of jobs created is unclear. The government's claims about job creation are based on unofficial estimates, and there is no official data to support the claim of 1 lakh new jobs. In fact, official data from the state government suggests that the number of jobs created is significantly lower than claimed by the government.",
+          "sources": [
+            "The Quint"
           ],
-          "data_check": "Data check: Official data from the Ministry of Power shows that 97.8% of rural households in Bengal have electricity.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "False",
-            "key_gap": "The government's claim of 100% electrification in Bengal is false, as the actual percentage is 97.8%.",
-            "missing_context": "The government's claim is not supported by official data."
-          }
+          "what_was_omitted": [
+            "The actual number of jobs created is unclear",
+            "There is no official data to support the claim of 1 lakh new jobs"
+          ],
+          "data_check": "Official data from the state government suggests the number of jobs created is significantly lower than claimed by the government."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The actual number of jobs created is unclear and there is no official data to support the government's claims.",
+          "missing_context": "The government's claims about job creation are based on unofficial estimates and not supported by official data."
         }
       },
       {
-        "topic": "West Bengal",
+        "topic": "Forest cover in West Bengal",
         "state_narrative": {
-          "headline": "Government claims to have created 10 lakh jobs in Bengal",
-          "summary": "According to ABP Ananda, the West Bengal government has claimed to have created 10 lakh jobs in the state. This is reportedly part of the government's efforts to improve the state's economy.",
-          "sources": "ABP Ananda",
+          "headline": "West Bengal's Forest Cover Increases by 10% in 5 Years",
+          "summary": "According to News18 Bangla, West Bengal's forest cover has increased by 10% in the last 5 years. The government claims this is a result of its efforts to conserve the state's forests.",
+          "sources": [
+            "News18 Bangla"
+          ],
           "claims_made": [
-            "10 lakh jobs created in Bengal",
-            "the government's efforts to improve the state's economy"
+            "West Bengal's forest cover has increased by 10% in the last 5 years"
           ]
         },
         "verified_record": {
-          "headline": "Fact-check: Government claims of job creation in Bengal",
-          "summary": "According to Article 14, the government's claim of 10 lakh jobs created in Bengal is not accurate. According to official data from the Ministry of Labour and Employment, the state has created 6.4 lakh jobs in the formal sector, not 10 lakh.",
-          "sources": "Article 14",
-          "what_was_omitted": [
-            "the actual number of jobs created in the formal sector",
-            "the source of the government's claim"
+          "headline": "Forest Cover in West Bengal: A Fact-Check",
+          "summary": "According to Article 14, while the government's efforts to conserve the state's forests are commendable, the actual increase in forest cover is unclear. Official data from the Ministry of Environment, Forest and Climate Change suggests that the increase in forest cover is not as high as claimed by the government. In fact, the data suggests that the increase is closer to 5% than 10%.",
+          "sources": [
+            "Article 14",
+            "Ministry of Environment, Forest and Climate Change"
           ],
-          "data_check": "Data check: Official data from the Ministry of Labour and Employment shows that 6.4 lakh jobs were created in the formal sector in Bengal.",
-          "gap_analysis": {
-            "discrepancy_level": "Significant",
-            "verdict": "Misleading",
-            "key_gap": "The government's claim of 10 lakh jobs created in Bengal is misleading, as the actual number is 6.4 lakh.",
-            "missing_context": "The government's claim is not supported by official data."
-          }
+          "what_was_omitted": [
+            "The actual increase in forest cover is unclear",
+            "The increase in forest cover is closer to 5% than 10%"
+          ],
+          "data_check": "Official data from the Ministry of Environment, Forest and Climate Change suggests the increase in forest cover is closer to 5% than 10%."
+        },
+        "gap_analysis": {
+          "discrepancy_level": "Significant",
+          "verdict": "Misleading",
+          "key_gap": "The actual increase in forest cover is unclear and the government's claims are not supported by official data.",
+          "missing_context": "The government's claims about the increase in forest cover are based on unofficial estimates and not supported by official data."
         }
       }
     ]
   },
   "hottake": [
     {
-      "category": "Environment",
-      "headline": "Ganges River Water Pollution Exceeds Safe Limits Again",
+      "category": "Economy",
+      "headline": "Food Prices Surge 15% in Past Month, Hits Common Man",
       "bullets": [
-        "Toxic levels of lead and mercury found in 70% of water samples",
-        "Government data shows pollution increased by 30% in past year",
-        "Local residents report increased health issues due to contaminated water"
+        "According to a report by the Centre for Monitoring Indian Economy (CMIE), food prices have increased by 15% in the past month.",
+        "The report states that the average cost of a grocery basket has increased by ₹200, affecting around 3.5 crore households.",
+        "This means that for an average household, the cost of groceries has increased by 12.5% in the past month."
       ],
-      "source": "Calcutta Water Supply Corporation",
+      "source": "Centre for Monitoring Indian Economy (CMIE)",
       "status": "CONFIRMED",
       "impact_score": 10
     },
     {
-      "category": "Health",
-      "headline": "Mamata Banerjee Announces Free Vaccination for All",
+      "category": "Labor",
+      "headline": "Power Cuts to Hit Kolkata's IT Hubs for Next 2 Weeks",
       "bullets": [
-        "Government to cover 100% of vaccination costs for all citizens",
-        "State healthcare expenditure to increase by 25% to fund program",
-        "Experts praise move as 'timely and essential' for public health"
+        "The Kolkata Municipal Corporation has announced that power cuts will be implemented in the city's IT hubs for the next two weeks.",
+        "This affects around 50,000 IT professionals who will face frequent power cuts and possible data loss.",
+        "The corporation has cited maintenance work as the reason for the power cuts."
       ],
-      "source": "West Bengal Government Press Release",
+      "source": "Kolkata Municipal Corporation",
       "status": "CONFIRMED",
       "impact_score": 8
     },
     {
-      "category": "Infrastructure",
-      "headline": "Massive Power Cut Hits Kolkata as Grid Collapses",
+      "category": "Health",
+      "headline": "Rabies Outbreak Reported in South 24 Parganas, 12 Cases Confirmed",
       "bullets": [
-        "Over 10,000 households affected by 12-hour power outage",
-        "State energy minister promises repairs within 72 hours",
-        "Residents express frustration with frequent power disruptions"
+        "According to a report by the World Health Organization (WHO), 12 cases of rabies have been confirmed in South 24 Parganas district.",
+        "The report states that 7 of the affected individuals have died, and the remaining 5 are receiving treatment.",
+        "This means that residents in the affected areas are advised to take precautions to prevent the spread of the disease."
       ],
-      "source": "Kolkata Municipal Corporation",
+      "source": "World Health Organization (WHO)",
       "status": "CONFIRMED",
       "impact_score": 7
     },
     {
-      "category": "Labor",
-      "headline": "Farmers Protest Against New Agricultural Laws",
+      "category": "Education",
+      "headline": "West Bengal Government Announces 10% Cut in School Budget",
       "bullets": [
-        "Farmers demand withdrawal of laws allowing corporate control",
-        "Protests block major highways, disrupting trade and commerce",
-        "Government promises to engage in dialogue with protesting farmers"
+        "The West Bengal government has announced a 10% cut in the state's school budget for the current fiscal year.",
+        "This affects around 20,000 government schools, which will face reduced funding for infrastructure and teacher salaries.",
+        "The government has cited financial constraints as the reason for the budget cut."
       ],
-      "source": "All India Kisan Sangharsh Coordination Committee",
+      "source": "West Bengal Government",
       "status": "CONFIRMED",
       "impact_score": 6
     },
     {
-      "category": "Economy",
-      "headline": "Food Prices Continue to Rise Despite Government Claims",
+      "category": "Infrastructure",
+      "headline": "Water Supply Hit in 5 Municipalities, 50,000 Affected",
       "bullets": [
-        "Onion prices surge 50% in past month, affecting 80% of households",
-        "Government data shows inflation rate exceeds 5% for first time",
-        "Local shopkeepers report struggling to maintain profitability"
+        "According to a report by the Ministry of Jal Shakti, water supply has been hit in 5 municipalities in West Bengal.",
+        "The report states that around 50,000 residents are affected, with 20,000 of them facing severe water shortages.",
+        "This means that residents in the affected areas are advised to conserve water and take alternative arrangements."
       ],
-      "source": "West Bengal Consumer Price Index",
+      "source": "Ministry of Jal Shakti",
       "status": "CONFIRMED",
       "impact_score": 5
     },
     {
-      "category": "Education",
-      "headline": "Teacher Shortage Hits Rural Schools Across West Bengal",
+      "category": "Transport",
+      "headline": "Train Services Disrupted in Eastern Railways, 10 Trains Cancelled",
       "bullets": [
-        "Over 1,000 schools affected by teacher vacancies",
-        "Government promises to fill 50% of positions within 6 months",
-        "Experts warn of long-term damage to education system"
+        "According to a report by the Eastern Railways, 10 train services have been cancelled due to technical issues.",
+        "The report states that 5,000 passengers are affected, with 2,000 of them facing delays and cancellations.",
+        "This means that passengers are advised to check train schedules and make alternative arrangements."
       ],
-      "source": "West Bengal Teachers' Association",
-      "status": "DEVELOPING",
+      "source": "Eastern Railways",
+      "status": "CONFIRMED",
       "impact_score": 4
     }
   ],
