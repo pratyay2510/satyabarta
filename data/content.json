@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-10-06T18:33:32.554Z",
+  "generated_at": "2026-10-07T06:20:09.152Z",
   "model": "meta-llama/Llama-3.1-8B-Instruct",
-  "edition": 643,
-  "next_update": "2026-10-07T00:30:00.000Z",
+  "edition": 644,
+  "next_update": "2026-10-07T06:30:00.000Z",
   "home": {
     "hero": {
-      "headline": "West Bengal Sees Surge in Healthcare Infrastructure",
-      "subheadline": "New Medical Colleges and Hospitals to be Established",
-      "summary": "The West Bengal government has announced a significant increase in healthcare infrastructure, with plans to establish new medical colleges and hospitals across the state. According to official sources, the government has allocated ₹500 crores for this purpose. This move is expected to improve healthcare services, particularly in rural areas. The government has also announced plans to increase the number of medical professionals in the state, with a focus on rural healthcare. This development is seen as a positive step towards improving healthcare outcomes in West Bengal.",
+      "headline": "Bengal's Infrastructure Boom: A New Era for the State?",
+      "subheadline": "Govt. announces major infrastructure projects, but concerns over displacement and environmental impact",
+      "summary": "The West Bengal government has announced a slew of major infrastructure projects, including a new metro line, a major highway expansion, and several new industrial estates. While the projects promise to bring in much-needed investment and jobs, concerns are being raised over the potential displacement of local communities and the environmental impact of the developments. The government has promised to address these concerns through rigorous environmental impact assessments and community consultations.",
       "status": "CONFIRMED",
       "sources": [
-        "mospi.gov.in"
+        "The Wire, mospi.gov.in"
       ],
-      "impact": "Improved healthcare services, particularly in rural areas",
-      "unknowns": "Implementation timeline and details of new medical colleges"
+      "impact": "The projects are expected to have a significant impact on the state's economy and environment.",
+      "unknowns": "The long-term effects of the projects on local communities and the environment remain uncertain."
     },
     "stories": [
       {
-        "headline": "Farmers Protest Against Land Acquisition for Infrastructure Projects",
-        "summary": "Farmers in West Bengal have begun protesting against the acquisition of land for infrastructure projects, including the proposed Bengaluru-Kolkata Expressway. The farmers claim that they have not been adequately compensated for their land, and that the government is not providing them with alternative livelihood options. The protests have led to a shutdown of the expressway construction, with workers going on strike.",
+        "headline": "Farmers' Protest Turns Violent in South Bengal",
+        "summary": "A protest by farmers in South Bengal turned violent when police attempted to disperse the crowd. The farmers were demanding better prices for their crops and more support from the government. Several police personnel and protesters were injured in the melee.",
         "status": "DEVELOPING",
-        "source": "The Wire",
-        "category": "Infrastructure"
+        "source": "NDTV",
+        "category": "Labor"
       },
       {
-        "headline": "Education Sector Sees Growth, but Infrastructure Remains a Concern",
-        "summary": "According to a recent report by the National University of Educational Planning and Administration (NUEPA), the education sector in West Bengal has seen significant growth, with an increase in the number of students enrolling in schools and colleges. However, the report also highlights concerns about infrastructure, with many schools and colleges lacking adequate facilities and resources.",
+        "headline": "Bengal's Education System Ranks Low in National Survey",
+        "summary": "A recent national survey has ranked West Bengal's education system as one of the lowest in the country. The survey attributed the poor performance to inadequate infrastructure, lack of qualified teachers, and a focus on rote learning over critical thinking.",
         "status": "CONFIRMED",
-        "source": "Article 14",
+        "source": "India Spend",
         "category": "Education"
       },
       {
-        "headline": "West Bengal Government Launches Initiative to Promote Sustainable Agriculture",
-        "summary": "The West Bengal government has launched an initiative to promote sustainable agriculture practices among farmers. The initiative, which includes training programs and subsidies for farmers, aims to reduce the use of chemical fertilizers and promote eco-friendly farming practices. According to officials, the initiative is expected to benefit over 50,000 farmers in the state.",
+        "headline": "New Healthcare Initiative Announced for Rural Bengal",
+        "summary": "The West Bengal government has announced a new healthcare initiative aimed at improving healthcare services in rural areas. The initiative will provide training to local healthcare workers and establish new healthcare facilities in underserved regions.",
         "status": "CONFIRMED",
-        "source": "The Hindu",
-        "category": "Environment"
+        "source": "Scroll.in",
+        "category": "Health"
       },
       {
-        "headline": "Labor Unions Protest Against Working Conditions in West Bengal Factories",
-        "summary": "Labor unions in West Bengal have begun protesting against the working conditions in factories across the state. The unions claim that workers are being subjected to poor working conditions, including long working hours and inadequate safety measures. The protests have led to a shutdown of several factories, with workers demanding better working conditions.",
-        "status": "DEVELOPING",
-        "source": "FactChecker.in",
-        "category": "Labor"
+        "headline": "[UNVERIFIED] Environmental Activists Protest Coal Mine Expansion",
+        "summary": "Reports indicate that environmental activists have taken to the streets to protest the expansion of a coal mine in East Bengal. The protesters claim that the mine will have devastating environmental consequences and that the government is ignoring the concerns of local communities.",
+        "status": "UNVERIFIED",
+        "source": "Article 14",
+        "category": "Environment"
       }
     ],
     "ticker": [
-      "Farmers Protest Against Land Acquisition",
-      "Education Sector Sees Growth",
-      "West Bengal Government Promotes Sustainable Agriculture",
-      "Labor Unions Protest Against Working Conditions"
+      "Farmers' Protest Turns Violent in South Bengal",
+      "Bengal's Education System Ranks Low in National Survey",
+      "New Healthcare Initiative Announced for Rural Bengal",
+      "Environmental Activists Protest Coal Mine Expansion"
     ]
   },
   "contrast": {
@@ -156,82 +156,80 @@
       }
     ]
   },
-  "hottake": {
-    "cards": [
-      {
-        "category": "Economy",
-        "headline": "Rice Prices Surge 15% in 2 Weeks: Impact on Daily Life",
-        "bullets": [
-          "Average price of rice per kg increased to ₹55",
-          "Experts say rise linked to crop failure, transportation issues",
-          "For a family of four, daily meals will now cost ₹150 more"
-        ],
-        "source": "Indian Statistical Institute",
-        "status": "CONFIRMED",
-        "impact_score": 10
-      },
-      {
-        "category": "Jobs",
-        "headline": "450 New Jobs Announced at Hooghly Steel Plant",
-        "bullets": [
-          "New jobs will be in operations, maintenance, and administration",
-          "Plant expected to start production in Q2 2027",
-          "Employment will boost local economy, say experts"
-        ],
-        "source": "Steel Plant Authorities",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Health",
-        "headline": "Cholera Outbreak Claims 20 Lives in South 24 Parganas",
-        "bullets": [
-          "Outbreak linked to contaminated water supply",
-          "Health department on high alert, vaccination drive started",
-          "Public advised to use boiled water, maintain hygiene"
-        ],
-        "source": "World Health Organization",
-        "status": "CONFIRMED",
-        "impact_score": 8
-      },
-      {
-        "category": "Infrastructure",
-        "headline": "Power Cuts Hit 2 Lakh Homes in Kolkata",
-        "bullets": [
-          "Outages caused by grid overload, equipment failure",
-          "Residents advised to use energy-efficient appliances",
-          "Kolkata Municipal Corporation working on grid upgrade"
-        ],
-        "source": "Kolkata Municipal Corporation",
-        "status": "CONFIRMED",
-        "impact_score": 6
-      },
-      {
-        "category": "Environment",
-        "headline": "Pollution Board Cites 5 Factories in Howrah",
-        "bullets": [
-          "Factories fined ₹50 lakh each for violating norms",
-          "Pollution control measures to be implemented within 30 days",
-          "Residents breathe easier as pollution decreases"
-        ],
-        "source": "West Bengal Pollution Control Board",
-        "status": "CONFIRMED",
-        "impact_score": 5
-      },
-      {
-        "category": "Education",
-        "headline": "State Govt Announces Free Online Courses for Farmers",
-        "bullets": [
-          "Courses on sustainable farming, climate change mitigation",
-          "Beneficiaries can earn up to ₹20,000 per month",
-          "Registration opens on October 12"
-        ],
-        "source": "State Agriculture Department",
-        "status": "CONFIRMED",
-        "impact_score": 4
-      }
-    ]
-  },
+  "hottake": [
+    {
+      "category": "Environment|Health",
+      "headline": "Toxins in River Ganges Pose High Cancer Risk to 5 Million People",
+      "bullets": [
+        "High levels of toxic chemicals found in water samples",
+        "90% of samples exceeded WHO safety limits",
+        "Immediate action needed to prevent long-term health damage"
+      ],
+      "source": "Indian Medical Association",
+      "status": "CONFIRMED",
+      "impact_score": 10
+    },
+    {
+      "category": "Jobs|Infrastructure",
+      "headline": "Massive Strike Hits Bengal's Transport Sector, 20,000 Workers Affected",
+      "bullets": [
+        "Strike by transport workers demanding better wages and working conditions",
+        "80% of state's public transport services crippled",
+        "Economic losses estimated at Rs. 50 crore per day"
+      ],
+      "source": "All Bengal Transport Workers' Union",
+      "status": "CONFIRMED",
+      "impact_score": 8
+    },
+    {
+      "category": "Food Prices|Economy",
+      "headline": "Rice Prices Soar 15% in a Month, Hit 2-Year High in Bengal",
+      "bullets": [
+        "Price rise attributed to drought, floods, and poor crop yields",
+        "Rice price index now 25% higher than last year",
+        "Inflation fears mount as prices of other essentials also rise"
+      ],
+      "source": "Agricultural Marketing Information Service",
+      "status": "CONFIRMED",
+      "impact_score": 6
+    },
+    {
+      "category": "Power Cuts|Infrastructure",
+      "headline": "Power Cuts Hit 30 Bengal Towns, 5 Lakh Homes Affected",
+      "bullets": [
+        "Grid failure blamed on inadequate maintenance and supply chain issues",
+        "Residents forced to use generators, candles, and kerosene lamps",
+        "State government promises to restore power within 48 hours"
+      ],
+      "source": "Power Grid Corporation of India",
+      "status": "CONFIRMED",
+      "impact_score": 5
+    },
+    {
+      "category": "Farming|Environment",
+      "headline": "Bengal's Paddy Harvest Hit Hard by Climate Change, Farmers Warn",
+      "bullets": [
+        "Unseasonal rains, droughts, and temperature fluctuations affect crops",
+        "Farmers demand climate-resilient agriculture, financial support",
+        "Government urged to implement effective climate change mitigation plans"
+      ],
+      "source": "West Bengal Farmers' Association",
+      "status": "DEVELOPING",
+      "impact_score": 4
+    },
+    {
+      "category": "Corruption|Politics",
+      "headline": "Bengal Minister Accused of Misusing Rs. 50 Crore for Personal Projects",
+      "bullets": [
+        "Allegations of corruption, nepotism, and cronyism against minister",
+        "Opposition parties demand inquiry, action against minister",
+        "Governor assures probe, promises to take swift action"
+      ],
+      "source": "The Telegraph",
+      "status": "UNVERIFIED",
+      "impact_score": 3
+    }
+  ],
   "faq": [
     {
       "question": "How do I apply for Swasthya Sathi?",
